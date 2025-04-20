@@ -1,0 +1,30 @@
+# too long file names, so cannot upload
+solvency-II-files/guidelines-level 3-v0.1/
+# Ignore environment variable files - generated with llm
+.env
+.env.*
+.envrc
+*.env
+*.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+.env.example
+.env.sample
+.env.template
+.env.backup
+.env.bak
+.env.old
+.env.orig
+.env.copy
+.env.save
+.env.secret
+.env.private
+.env.staging
+.env.staging.local
+.env.qa
+.env.qa.local

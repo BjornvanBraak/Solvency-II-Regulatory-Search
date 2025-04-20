@@ -1,0 +1,220 @@
+import streamlit as st
+import os
+from dotenv import load_dotenv
+from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+
+
+from langchain_chroma import Chroma
+import time
+
+from enum import Enum
+
+load_start_time = time.time()
+
+load_dotenv()
+
+class Embedding_Model(Enum):
+    AZURE_TEXT_EMBEDDING_3_SMALL = "text-embedding-3-small"
+    GEMINI_EMBEDDING_EXP_03_07 = "gemini-embedding-exp-03-07"
+
+class Language_Model(Enum):
+    GPT_4O_MINI = "gpt-4o-mini"
+    GEMINI_25_PRO_EXP = "gemini-2.5-pro-exp-03-25"
+
+
+# load models and vectorstore
+@st.cache_resource
+def create_azure_embedding_model(model):
+    embedding_model = AzureOpenAIEmbeddings(
+        model="text-embedding-3-small",
+        azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
+        api_version="2023-05-15",
+        api_key=os.environ["AZURE_OPENAI_API_KEY"]
+    )
+    return embedding_model
+
+def create_gemini_embedding_model(model):
+    return GoogleGenerativeAIEmbeddings(
+        model=f"models/{model}", 
+        google_api_key=os.environ["GOOGLE_API_KEY"]
+    )
+
+@st.cache_resource
+def create_llm():
+    # based on https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview#list---assistants
+    # What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
+    # We generally recommend altering this or top_p but not both.
+    # defaults to 1
+    print("temparature setting is changed")
+    return AzureChatOpenAI(
+        azure_deployment="gpt-4o-mini-for-agent",
+        model="gpt-4o-mini",
+        azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
+        api_version="2025-01-01-preview",
+        api_key=os.environ["AZURE_OPENAI_API_KEY"],
+        temperature=0.2
+    )
+
+
+def create_gemini_llm():
+    return ChatGoogleGenerativeAI(model="gemini-2.5-pro-exp-03-25", api_key=os.getenv("GOOGLE_API_KEY"))
+
+@st.cache_resource
+def load_vectorstore(collection_name, persist_directory):
+    # load the vectorstore
+    embedding_model = create_azure_embedding_model()
+    vectorstore = Chroma(collection_name, embedding_model, persist_directory)
+    print(f"Vectorstore loaded in with count: {vectorstore._collection.count()}")
+    return vectorstore
+
+COLLECTION_NAME = "DATA_QUALITY_PENSION" #name of the collection
+PERSIST_DIRECTORY = os.path.join("vector_stores", "pension-martijn-embeddings")
+
+# start up
+vectorstore = load_vectorstore(COLLECTION_NAME, PERSIST_DIRECTORY)
+gpt_4o_mini = create_llm()
+gemini_25_pro_exp = create_gemini_llm()
+embedding_model = create_azure_embedding_model()
+gemini_embedding_exp_03_07 = create_gemini_embedding_model()
+embedding_test = gemini_embedding_exp_03_07.embed_query("What's our Q1 revenue?")
+print("GOOGLE EMBEDDING API TEST: ", len(embedding_test))
+
+load_elapsed_time = time.time() - load_start_time
+print(f"Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
+
+print("hi, terhe you")
+
+# set up user configuration options
+with st.sidebar:
+    st.title("User Config")
+    embedding_model_option = st.selectbox(
+        "Which embedding model to choose",
+        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.GEMINI_EMBEDDING_EXP_03_07)
+    )
+    llm_option = st.selectbox(
+    "Which LLM to choose",
+    (Language_Model.GPT_4O_MINI, Language_Model.GEMINI_25_PRO_EXP),
+    )
+    k = st.slider("Pieces of text retrieved", 0, 10, 2)
+
+    st.title("Debugger")
+    debug_mode = st.toggle(
+        "Debug Mode",
+        True
+    )
+
+# select the llm
+llm = None
+if llm_option == Language_Model.GEMINI_25_PRO_EXP:
+    llm = create_gemini_llm()
+elif llm_option == Language_Model.GPT_4O_MINI:
+    llm = create_llm()
+else:
+    raise Exception("Unknown model")
+
+print(f"Testing the current config: {type(llm)}")
+
+print(f"select box: {debug_mode}")
+
+st.title("💬 Regulation Search")
+st.caption("🚀 Powererd by Triple A")
+
+if "messages" not in st.session_state:
+    # chat prompt generated with GPT-4o https://chatgpt.com/share/6800c49f-a2fc-800f-920a-8defd32dc16d
+    st.session_state["messages"] = [
+    {"role": "system", "content": """
+Zoekassistent t.b.v. Datakwaliteit binnen de Wtp-context:
+Je bent een juridische en beleidsmatige zoekassistent, gespecialiseerd in regelgeving, beleidsdocumenten en handreikingen rondom de Wet toekomst pensioenen (Wtp). Je helpt gebruikers bij het vinden en interpreteren van informatie met betrekking tot datakwaliteit binnen dit wettelijke kader.
+     
+Context:
+
+* De Wet toekomst pensioenen (Wtp) is sinds 1 juli 2023 van kracht.
+* Een belangrijk onderdeel van de wet is het waarborgen van correcte, volledige en tijdige data.
+* Pensioenuitvoerders, verzekeraars en administrateurs zijn verantwoordelijk voor het verbeteren en monitoren van datakwaliteit.
+* Toezichthouders zoals DNB en AFM hebben handreikingen en eisen geformuleerd met betrekking tot datakwaliteit.
+
+Jouw taak:
+* Help gebruikers bij het vinden van relevante bronnen (wetten, besluiten, beleidsdocumenten, toezichtsregels, handreikingen).
+* Geef korte, accurate toelichtingen op gevonden documenten of regels.
+* Wijs indien mogelijk op gerelateerde wetgeving zoals de Pensioenwet, Wet op het financieel toezicht (Wft), AVG (m.b.t. gegevensverwerking), of ESMA/EIOPA-richtlijnen.
+* Geef bij een zoekvraag altijd een korte samenvatting van de meest relevante resultaten, met bronverwijzing (indien mogelijk).
+* Indien de gebruiker termen gebruikt als 'datakwaliteitseisen', 'verantwoordingsdocument', of 'transitie-uitvraag', verbind deze dan met Wtp-context en de rol van toezichthouders of pensioenuitvoerders.
+
+Voorbeeld van een gebruikersvraag:
+Vraag: Welke eisen stelt DNB aan datakwaliteit bij de overgang naar het nieuwe pensioenstelsel?
+
+Gewenste reactie van het model o.b.v. prompt:
+
+De Nederlandsche Bank (DNB) stelt dat pensioenuitvoerders bij de transitie naar het nieuwe stelsel moeten kunnen aantonen dat hun data juist, volledig en tijdig is. In de leidraad 'Datakwaliteit bij de transitie naar het nieuwe pensioenstelsel' van juni 2023 staan o.a. eisen rondom datavalidatie, verantwoording richting deelnemers en interne audit. Zie ook de beleidsuitingen van DNB over datakwaliteit op hun website.
+
+Bron: Pensioen Federatie - https://www.pensioenfederatie.nl/website/publicaties/servicedocumenten/kader-datakwaliteit
+"""},
+]
+    
+st.chat_message("assistant").write("Hello I am here to help you search through documents")
+
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+if query := st.chat_input():
+    model_name = llm.__dict__.get("model_name") or llm.__dict__.get("model").split("models/")[1] #model name stored somewhere different depending on Azure or Google integration of Langchain
+    st.info(llm.__dict__)
+    print(f"Running query with model: {model_name}")
+    if llm_option.value != model_name:
+        raise Exception(f"Option not respected, running {model_name}, while expecting {llm_option.value}")
+    if debug_mode:
+        st.info(f"Running query with model: {model_name}")
+    print(query)
+    st.chat_message("user").write(query)
+    st.session_state.messages.append({"role": "user", "content": query})
+
+    matched_documents = vectorstore.similarity_search(query=query,k=k)
+
+    print(f"First documents of all matched documents: {matched_documents[0].__dict__}")
+
+    chunks_concatenated = ""
+    document_sources = []
+    for idx, document in enumerate(matched_documents):
+        source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
+        #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
+        document_sources.append(source)
+        chunks_concatenated += f"\nsource {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
+
+    print(f"DOCUMENT SOURCE: {document_sources}")
+    # print(prompt)
+
+    prompt = f"""
+    {chunks_concatenated}
+    Based the above mentioned sources, can you provide an answer on the following question?
+    Question: {query}
+    Answer: 
+    """
+
+    print(f"PROMPT FOR LLM: {prompt}")
+
+    response_stream = llm.stream(prompt)
+
+    # result_text = ""
+    # for matched_document in matched_documents:
+    #     result_text += matched_document.page_content
+
+
+    matched_documents_message = f"""
+    {len(matched_documents)} chunks(s) matched: \n
+    {chunks_concatenated}"""
+    st.info(matched_documents_message)
+
+
+
+    if debug_mode: #save in session state
+        st.session_state.messages.append({"role": "info", "content": ":blue-badge[Info]"
++ matched_documents_message})
+
+
+    # Display assistant response in chat message container
+    with st.chat_message("assistant"):
+        response = st.write_stream(response_stream)
+    # Add assistant response to chat history
+    st.session_state.messages.append({"role": "assistant", "content": response})
