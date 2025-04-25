@@ -3,31 +3,34 @@ import os
 from dotenv import load_dotenv
 from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-
-
+from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_chroma import Chroma
 import time
-
 from enum import Enum
 
 load_start_time = time.time()
 
+# load environment variables
 load_dotenv()
 
 PERSIST_DIRECTORY = os.path.join("vector_stores", "pension-martijn-embeddings")
 
+# define configuration options
 class Embedding_Model(Enum):
     AZURE_TEXT_EMBEDDING_3_SMALL = {"model":"text-embedding-3-small", "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
-    GEMINI_EMBEDDING_EXP_03_07 = {"model": "gemini-embedding-exp-03-07", "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
+    # GEMINI_EMBEDDING_EXP_03_07 = {"model": "gemini-embedding-exp-03-07", "collection_name": "DATA_QUALITY_PENSION_GEMINI_EXP", "persist_directory": PERSIST_DIRECTORY}
+    GEMINI_TEXT_EMBEDDING_004 = {"model": "text-embedding-004", "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
 
 class Language_Model(Enum):
-    AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini"}
+    AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "temperature": 0.2}
+    AZURE_OPENAI_O4_MINI = {"model": "o4-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT_SWEDEN"], "api_key": os.environ["AZURE_OPENAI_API_KEY_SWEDEN"]}
     GEMINI_25_PRO_EXP = {"model": "gemini-2.5-pro-exp-03-25"}
 
-
 # load models and vectorstore
+# cached becuase streamlit reloads file on save
 @st.cache_resource
 def create_azure_embedding_model(model):
+    print("HI")
     embedding_model = AzureOpenAIEmbeddings(
         model=model,
         azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
@@ -44,18 +47,33 @@ def create_gemini_embedding_model(model):
     )
 
 @st.cache_resource
-def create_azure_llm(model):
+def create_azure_llm(model_options: Language_Model):
     # based on https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview#list---assistants
     # What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
     # We generally recommend altering this or top_p but not both.
     # defaults to 1
+
+    # default to 1 as reasoning model do not support temperature other than 1
+    #https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning?tabs=python-secure%2Cpy
+    # Not Supported
+    # The following are currently unsupported with reasoning models:
+    # temperature, top_p, presence_penalty, frequency_penalty, logprobs, top_logprobs, logit_bias, max_tokens
+    temperature = 1
+    if "temperature" in model_options.value:
+        print("SETTING TEMPERATURE FOR MODEL, PLEASE NOT FOR O series" \
+        " Only the default (1) value is supported.")
+        temperature = model_options.value["temperature"]
+
+
     print("temperature setting is changed")
+    endpoint = model_options.value["api_endpoint"] #or os.environ["AZURE_OPENAI_ENDPOINT"]
+    api_key = model_options.value["api_key"] #or os.environ["AZURE_OPENAI_API_KEY"]
     return AzureChatOpenAI(
-        model=model,
-        azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
+        model=model_options.value["model"],
+        azure_endpoint=endpoint,
         api_version="2025-01-01-preview",
-        api_key=os.environ["AZURE_OPENAI_API_KEY"],
-        temperature=0.2
+        api_key=api_key,
+        temperature=temperature
     )
 
 @st.cache_resource
@@ -67,17 +85,18 @@ def create_gemini_llm(model):
     )
 
 @st.cache_resource
-def load_vectorstore(model, collection_name, persist_directory):
+def load_vectorstore(model_option: Embedding_Model):
     # load the vectorstore
-    embedding_model = create_azure_embedding_model(model)
-    vectorstore = Chroma(collection_name, embedding_model, persist_directory)
+    print("LOADING VECTOR STORE...")
+    embedding_model = set_up_embedding_model(embedding_model_option)
+    vectorstore = Chroma(model_option.value["collection_name"], embedding_model, model_option.value["persist_directory"])
     print(f"Vectorstore loaded in with count: {vectorstore._collection.count()}")
     return vectorstore
 
 def set_up_llm(model_option: Language_Model):
     llm = None
     if model_option.name.startswith("AZURE"):
-        llm = create_azure_llm(model_option.value["model"])
+        llm = create_azure_llm(model_option)
     elif model_option.name.startswith("GEMINI"):
         llm = create_gemini_llm(model_option.value["model"])
     else:
@@ -103,11 +122,13 @@ with st.sidebar:
     st.title("User Config")
     embedding_model_option = st.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.GEMINI_EMBEDDING_EXP_03_07)
+        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.GEMINI_TEXT_EMBEDDING_004),
+        format_func=lambda x: x.value["model"]
     )
     llm_option = st.selectbox(
     "Which LLM to choose",
-    (Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO_EXP),
+    (Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO_EXP, Language_Model.AZURE_OPENAI_O4_MINI),
+    format_func=lambda x: x.value["model"]
     )
     k = st.slider("Pieces of text retrieved", 0, 10, 2)
 
@@ -119,11 +140,14 @@ with st.sidebar:
 
 embedding_model = set_up_embedding_model(embedding_model_option)
 llm = set_up_llm(llm_option)
-vectorstore = load_vectorstore(embedding_model_option.value["model"], embedding_model_option.value["collection_name"], embedding_model_option.value["persist_directory"])
+vectorstore = load_vectorstore(embedding_model_option)
 
-print(f"Testing the current config: {type(llm)}")
-
-print(f"select box: {debug_mode}")
+print(f"""CURRENT CONFIG:
+llm {type(llm)}
+embedding {type(embedding_model)}
+debug {debug_mode}
+\n
+      """)
 
 st.title("💬 Regulation Search")
 st.caption("🚀 Powererd by Triple A")
@@ -155,7 +179,7 @@ De Nederlandsche Bank (DNB) stelt dat pensioenuitvoerders bij de transitie naar 
 
 Bron: Pensioen Federatie - https://www.pensioenfederatie.nl/website/publicaties/servicedocumenten/kader-datakwaliteit
 """
-
+# NOT IN USE YET, CAN BE USEFUL FOR VERIFICATION
 #source: https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/
 citation_instructions = """
 Please answer the following question using only the information provided in the numbered sources below. When you reference information from a source, cite the corresponding source number(s) in brackets (e.g., [1]). Every answer must include at least one citation, but you should only cite a source if you are explicitly referencing it. If none of the sources are relevant or helpful, clearly state that in your response.
@@ -225,7 +249,6 @@ if query := st.chat_input():
     Answer: 
     """
     
-    from langchain_core.prompts.chat import ChatPromptTemplate
     template = ChatPromptTemplate([("system", generation_instructions) , ("user", prompt)])
     
     print(f"PROMPT FOR LLM: \n\n {template} \n\n END OF PROMPT OUTPUT \n")
@@ -242,12 +265,9 @@ if query := st.chat_input():
     {chunks_concatenated}"""
     st.info(matched_documents_message)
 
-
-
     if debug_mode: #save in session state
         st.session_state.messages.append({"role": "info", "content": ":blue-badge[Info]"
 + matched_documents_message})
-
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
