@@ -4,16 +4,21 @@
 
 
 To run the demo
-Install & activate conda environment
+This project uses uv for package management (for installation instructions please refer to https://docs.astral.sh/uv/getting-started/)
+
+create .env file, insert own api keys
 ```
-conda env create -f environment.yml
-conda activate RegulationSearch-Demo
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_ENDPOINT=
+AZURE_OPENAI_API_KEY_SWEDEN=
+AZURE_OPENAI_ENDPOINT_SWEDEN=
+GOOGLE_API_KEY=
 ```
 Either use streamlit within conda environment
 ```
-streamlit run ./regulatory-search.py
+uv run python -m streamlit run .\regulatory-search.py
 ```
-OR in vscode use Python Debugger (accompanied in this package .vscode/launch.json)
+OR in vscode use 'Python Debugger: Debug using launch.json' > 'Python Debugger: (accompanied in this package is the config which invokes streamlit instead of python .vscode/launch.json)
 
 # first version
 - no hyperparameter tuning was done
