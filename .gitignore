@@ -1,5 +1,5 @@
 # too long file names, so cannot upload
-solvency-II-files/guidelines-level 3-v0.1/
+data/raw/solvency-II-files/guidelines-level 3-v0.1/
 # Ignore environment variable files - generated with llm
 .env
 .env.*

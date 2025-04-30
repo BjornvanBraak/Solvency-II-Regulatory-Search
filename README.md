@@ -14,11 +14,15 @@ AZURE_OPENAI_API_KEY_SWEDEN=
 AZURE_OPENAI_ENDPOINT_SWEDEN=
 GOOGLE_API_KEY=
 ```
-Either use streamlit within conda environment
+Either use streamlit within through uv
 ```
 uv run python -m streamlit run .\regulatory-search.py
 ```
-OR in vscode use 'Python Debugger: Debug using launch.json' > 'Python Debugger: (accompanied in this package is the config which invokes streamlit instead of python .vscode/launch.json)
+OR alternatively using VSCODE
+
+by selecting'Python Debugger: Debug using launch.json' > 'Python Debugger: Module' 
+
+Note: ./.vscode/launch.json is the config which invokes the module streamlit instead of python 
 
 # first version
 - no hyperparameter tuning was done

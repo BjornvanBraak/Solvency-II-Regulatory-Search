@@ -13,7 +13,7 @@ load_start_time = time.time()
 # load environment variables
 load_dotenv()
 
-PERSIST_DIRECTORY = os.path.join("vector_stores", "pension-martijn-embeddings")
+PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
 
 # define configuration options
 class Embedding_Model(Enum):
