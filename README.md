@@ -16,7 +16,7 @@ GOOGLE_API_KEY=
 ```
 Either use streamlit within through uv
 ```
-uv run python -m streamlit run .\regulatory-search.py
+uv run python -m streamlit run .\regulatory-search-app.py
 ```
 OR alternatively using VSCODE
 

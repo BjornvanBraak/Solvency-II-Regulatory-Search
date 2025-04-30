@@ -28,3 +28,6 @@ data/raw/solvency-II-files/guidelines-level 3-v0.1/
 .env.staging.local
 .env.qa
 .env.qa.local
+
+#
+__pycache__

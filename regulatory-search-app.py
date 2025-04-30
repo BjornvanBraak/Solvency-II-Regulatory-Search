@@ -1,23 +1,20 @@
 import streamlit as st
 import os
 from dotenv import load_dotenv
-from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+
 from langchain_core.prompts.chat import ChatPromptTemplate
-from langchain_chroma import Chroma
 import time
+
+# from model_integrations import set_up_embedding_model, set_up_llm, load_vectorstore, Embedding_Model, Language_Model
+# from model_integrations import Embedding_Model, Language_Model
+
+import model_integrations
+
 from enum import Enum
-
-load_start_time = time.time()
-
-# load environment variables
-load_dotenv()
-
 PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
 
-# define configuration options
 class Embedding_Model(Enum):
-    AZURE_TEXT_EMBEDDING_3_SMALL = {"model":"text-embedding-3-small", "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_SMALL = {"model":"text-embedding-3-small", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
     # GEMINI_EMBEDDING_EXP_03_07 = {"model": "gemini-embedding-exp-03-07", "collection_name": "DATA_QUALITY_PENSION_GEMINI_EXP", "persist_directory": PERSIST_DIRECTORY}
     GEMINI_TEXT_EMBEDDING_004 = {"model": "text-embedding-004", "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
 
@@ -26,96 +23,13 @@ class Language_Model(Enum):
     AZURE_OPENAI_O4_MINI = {"model": "o4-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT_SWEDEN"], "api_key": os.environ["AZURE_OPENAI_API_KEY_SWEDEN"]}
     GEMINI_25_PRO_EXP = {"model": "gemini-2.5-pro-exp-03-25"}
 
-# load models and vectorstore
-# cached becuase streamlit reloads file on save
-@st.cache_resource
-def create_azure_embedding_model(model):
-    print("HI")
-    embedding_model = AzureOpenAIEmbeddings(
-        model=model,
-        azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
-        api_version="2023-05-15",
-        api_key=os.environ["AZURE_OPENAI_API_KEY"]
-    )
-    return embedding_model
+print(f"Loading environment, libraries, and resources...")
 
-@st.cache_resource
-def create_gemini_embedding_model(model):
-    return GoogleGenerativeAIEmbeddings(
-        model=f"models/{model}", 
-        google_api_key=os.environ["GOOGLE_API_KEY"]
-    )
+load_start_time = time.time()
 
-@st.cache_resource
-def create_azure_llm(model_options: Language_Model):
-    # based on https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview#list---assistants
-    # What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
-    # We generally recommend altering this or top_p but not both.
-    # defaults to 1
+# load environment variables
+load_dotenv()
 
-    # default to 1 as reasoning model do not support temperature other than 1
-    #https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning?tabs=python-secure%2Cpy
-    # Not Supported
-    # The following are currently unsupported with reasoning models:
-    # temperature, top_p, presence_penalty, frequency_penalty, logprobs, top_logprobs, logit_bias, max_tokens
-    temperature = 1
-    if "temperature" in model_options.value:
-        print("SETTING TEMPERATURE FOR MODEL, PLEASE NOT FOR O series" \
-        " Only the default (1) value is supported.")
-        temperature = model_options.value["temperature"]
-
-
-    print("temperature setting is changed")
-    endpoint = model_options.value["api_endpoint"] #or os.environ["AZURE_OPENAI_ENDPOINT"]
-    api_key = model_options.value["api_key"] #or os.environ["AZURE_OPENAI_API_KEY"]
-    return AzureChatOpenAI(
-        model=model_options.value["model"],
-        azure_endpoint=endpoint,
-        api_version="2025-01-01-preview",
-        api_key=api_key,
-        temperature=temperature
-    )
-
-@st.cache_resource
-def create_gemini_llm(model):
-    return ChatGoogleGenerativeAI(
-        model=model, 
-        api_key=os.getenv("GOOGLE_API_KEY"), 
-        temperature=0.2
-    )
-
-@st.cache_resource
-def load_vectorstore(model_option: Embedding_Model):
-    # load the vectorstore
-    print("LOADING VECTOR STORE...")
-    embedding_model = set_up_embedding_model(embedding_model_option)
-    vectorstore = Chroma(model_option.value["collection_name"], embedding_model, model_option.value["persist_directory"])
-    print(f"Vectorstore loaded in with count: {vectorstore._collection.count()}")
-    return vectorstore
-
-def set_up_llm(model_option: Language_Model):
-    llm = None
-    if model_option.name.startswith("AZURE"):
-        llm = create_azure_llm(model_option)
-    elif model_option.name.startswith("GEMINI"):
-        llm = create_gemini_llm(model_option.value["model"])
-    else:
-        raise Exception("Unknown model")
-    return llm
-
-def set_up_embedding_model(model_option: Embedding_Model):
-    embedding_model = None
-    if model_option.name.startswith("AZURE"):
-        embedding_model = create_azure_embedding_model(model_option.value["model"])
-    elif model_option.name.startswith("GEMINI"):
-        embedding_model = create_gemini_embedding_model(model_option.value["model"])
-    else:
-        raise Exception("Unknown model")
-    return embedding_model
-
-
-load_elapsed_time = time.time() - load_start_time
-print(f"Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
 
 # set up user configuration options
 with st.sidebar:
@@ -138,15 +52,33 @@ with st.sidebar:
         True
     )
 
-embedding_model = set_up_embedding_model(embedding_model_option)
-llm = set_up_llm(llm_option)
-vectorstore = load_vectorstore(embedding_model_option)
+@st.cache_resource
+def cached_embedding_model(embedding_model_option: Embedding_Model):
+    return model_integrations.set_up_embedding_model(embedding_model_option)
 
-print(f"""CURRENT CONFIG:
+@st.cache_resource
+def cached_llm(llm_option: Language_Model):
+    return model_integrations.set_up_llm(llm_option)
+
+@st.cache_resource
+def cached_vectorstore(embedding_model_option):
+    return model_integrations.load_vectorstore(embedding_model_option)
+
+# load models and vectorstore
+# cached because streamlit reloads after each user input
+embedding_model = cached_embedding_model(embedding_model_option)
+llm = cached_llm(llm_option)
+vectorstore = cached_vectorstore(embedding_model_option)
+
+load_elapsed_time = time.time() - load_start_time
+print(f"Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
+
+
+print(f"""---CONFIG---
 llm {type(llm)}
 embedding {type(embedding_model)}
 debug {debug_mode}
-\n
+---END OF CONFIG---
       """)
 
 st.title("💬 Regulation Search")
