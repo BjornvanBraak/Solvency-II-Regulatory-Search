@@ -14,9 +14,10 @@ from enum import Enum
 PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
 
 class Embedding_Model(Enum):
-    AZURE_TEXT_EMBEDDING_3_SMALL = {"model":"text-embedding-3-small", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_SMALL = {"display_name": "openai-text-embedding-3-small-v1", "model":"text-embedding-3-small", "data-ingestion-pipeline": "v1", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_SMALL_V2 = {"display_name": "openai-text-embedding-3-small+data-ingestion-v2.1", "data-ingestion-pipeline": "v2", "model":"text-embedding-3-small", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_V2.1", "persist_directory": PERSIST_DIRECTORY}
     # GEMINI_EMBEDDING_EXP_03_07 = {"model": "gemini-embedding-exp-03-07", "collection_name": "DATA_QUALITY_PENSION_GEMINI_EXP", "persist_directory": PERSIST_DIRECTORY}
-    GEMINI_TEXT_EMBEDDING_004 = {"model": "text-embedding-004", "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
+    GEMINI_TEXT_EMBEDDING_004 = {"display_name": "gemini-text-embedding-004", "model": "text-embedding-004", "data-ingestion-pipeline": "v1", "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
 
 class Language_Model(Enum):
     AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "temperature": 0.2}
@@ -36,8 +37,8 @@ with st.sidebar:
     st.title("User Config")
     embedding_model_option = st.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.GEMINI_TEXT_EMBEDDING_004),
-        format_func=lambda x: x.value["model"]
+        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL_V2, Embedding_Model.GEMINI_TEXT_EMBEDDING_004),
+        format_func=lambda x: x.value["display_name"]
     )
     llm_option = st.selectbox(
     "Which LLM to choose",
@@ -149,7 +150,8 @@ for message in st.session_state.messages:
 
 if query := st.chat_input():
     model_name = llm.__dict__.get("model_name") or llm.__dict__.get("model").split("models/")[1] #model name stored somewhere different depending on Azure or Google integration of Langchain
-    st.info(llm.__dict__)
+    if debug_mode:
+        st.info(model_name)
     print(f"Running query with model: {model_name}")
     if llm_option.value["model"] != model_name:
         raise Exception(f"Option not respected, running {model_name}, while expecting {llm_option.value["model"]}")
@@ -162,15 +164,35 @@ if query := st.chat_input():
     matched_documents = vectorstore.similarity_search(query=query,k=k)
 
     print(f"First documents of all matched documents: {matched_documents[0].__dict__}")
-
+    
     chunks_concatenated = ""
     document_sources = []
-    for idx, document in enumerate(matched_documents):
-        source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
-        #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
-        document_sources.append(source)
-        chunks_concatenated += f"\nsource {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
+    if embedding_model_option.value["data-ingestion-pipeline"] == "v1":
+        for idx, document in enumerate(matched_documents):
+            source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
+            #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
+            document_sources.append(source)
+            chunks_concatenated += f"\nsource {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
+    elif embedding_model_option.value["data-ingestion-pipeline"] == "v2":
+        for idx, chunk in enumerate(matched_documents):
+            headers = []
+            for key, value in chunk.metadata.items():
+                header = ": ".join([key, value])
+                headers.append(header)
+            source = f"{"\n".join(headers)}"
+            # print(f"SOURCE FOR {idx}: {source}")
+            # quick fix end of page is causing formatting issues by interpreting as h2
+            # but in the normal .md the appropriate newlines are there, not sure where the newlines
+            # are removed, likely not within my implementation, could when loading in the vectorstore or by here
+            # saw that already multiple people were complaining of not respecting newline with langchain implementation of markdownheader split
 
+            # page_content_2 = chunk.page_content.replace("-----", "")
+            # print(f"PAGE CONTEXT FOR {idx}: {chunk.page_content}")
+            chunks_concatenated += f"\nsource {idx}, ref {source}:\n\n {chunk.page_content} \n\n\n"
+    else:
+        raise Exception("Way of displaying metadata from data ingestion pipeline not implemented")
+
+    print(f"CHUNKS CONCATENATED FOR {idx}: {chunks_concatenated}")
     print(f"DOCUMENT SOURCE: {document_sources}")
     # print(prompt)
 
