@@ -24,7 +24,7 @@ by selecting'Python Debugger: Debug using launch.json' > 'Python Debugger: Modul
 
 Note: ./.vscode/launch.json is the config which invokes the module streamlit instead of python 
 
-# first version
+# 1.0
 - no hyperparameter tuning was done
 such as temperature, top_k, top_p are left to default setting of provider
 three files:
@@ -36,8 +36,30 @@ three files:
 - no special chunking strategy, no chunking hyperparameter tuning done default 1000 + 100 overlap
 - no pdf cleaning, all left to default
 
-## minor version
+
+## 1.1 minor version
 improved formatting, added debugging and allowed user to change number of retrieved chunks
+
+# 2.0
+- improved data ingestion pipeline
+    - extract tables
+    - image parser within pdf
+    - markdown to maintain structure instead of plain text
+    - load pdf as whole, not per page which works helps in maintaining the overall structure through markdown
+
+# Suggestions for future
+* Better preprocessing for tables
+    * E.g. provide table summary
+    * improved multipage tables support
+* Metadata filtering (on header 3 level, can be this granular through markdown text splitting)
+* Add test cases to measure quality. Think about ways to measure performance
+* Reranker
+* Custom finetuned embedding model (using SentenceTransformer v4)
+* Idea alternative flow: where the user can select which parts to use
+* Add BM25
+* topic clustering
+* GraphRAG
+
 
 # notes
 notes on experiment on regulatory search
