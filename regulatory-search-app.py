@@ -1,12 +1,8 @@
 import streamlit as st
-import os
 from dotenv import load_dotenv
 
 from langchain_core.prompts.chat import ChatPromptTemplate
 import time
-
-# from model_integrations import set_up_embedding_model, set_up_llm, load_vectorstore, Embedding_Model, Language_Model
-# from model_integrations import Embedding_Model, Language_Model
 
 import model_integrations
 from model_config import Embedding_Model, Language_Model
