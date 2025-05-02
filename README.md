@@ -78,3 +78,48 @@ filename versions are to long (cannot save in github
 
 not saved in repository as filenames of guidelines too long
  solvency-II-files/guidelines-level 3-v0.1/
+
+
+ different chunking for pdfs applied
+https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
+multimodal embedding
+https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
+adding table summararies
+Maybe also using agent RAG
+
+
+Retriever may also benefit from having the context in which document placed, maybe or the header at least?
+
+Also test with just putting the entire documents within the context of the llm
+
+Pareto curve
+
+semantic chunk
+agentic chunking
+hierarchical chunking
+clustering chunking
+late chunking
+contextual retrieval
+https://spacy.io/api/sentencizer
+
+from langchain import hub
+from langchain.pydantic_v1 import BaseModel
+
+
+example proposition extraction code
+def create_propositions(paragraph: str) -> list[str]:
+    print(paragraph)
+    propositioning_prompt = hub.pull("wfh/proposal-indexing")
+
+    class Sentences(BaseModel):
+        sentences: list[str]
+
+    propositioning_llm = llm.with_structured_output(Sentences)
+
+    propositioning_chain = propositioning_prompt | propositioning_llm
+
+    sentences = propositioning_chain.invoke(paragraph)
+
+    return sentences.sentences
+
+props = [prop for para in text.split("\n\n") for prop in create_propositions(para)]

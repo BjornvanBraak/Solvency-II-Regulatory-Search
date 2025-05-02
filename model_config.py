@@ -13,3 +13,4 @@ class Language_Model(Enum):
     AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_4O_MINI_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "temperature": 0.2}
     AZURE_OPENAI_O4_MINI = {"model": "o4-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT_SWEDEN"], "api_version": os.environ["AZURE_O4_MINI_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY_SWEDEN"], "temperature": 1}
     GEMINI_25_PRO_EXP = {"model": "gemini-2.5-pro-exp-03-25", "api_key": os.environ["GOOGLE_API_KEY"], "temperature": 0.2}
+    GEMINI_25_PRO_PREVIEW = {"model": "gemini-2.5-pro-preview-03-25", "api_key": os.environ["GOOGLE_API_KEY"], "temperature": 0.2}
