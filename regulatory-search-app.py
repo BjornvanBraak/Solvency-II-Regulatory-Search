@@ -11,9 +11,6 @@ import time
 import model_integrations
 from model_config import Embedding_Model, Language_Model
 
-
-
-
 print(f"Loading environment, libraries, and resources...")
 
 load_start_time = time.time()
@@ -104,25 +101,25 @@ Bron: Pensioen Federatie - https://www.pensioenfederatie.nl/website/publicaties/
 """
 # NOT IN USE YET, CAN BE USEFUL FOR VERIFICATION
 #source: https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/
-citation_instructions = """
-Please answer the following question using only the information provided in the numbered sources below. When you reference information from a source, cite the corresponding source number(s) in brackets (e.g., [1]). Every answer must include at least one citation, but you should only cite a source if you are explicitly referencing it. If none of the sources are relevant or helpful, clearly state that in your response.
+# citation_instructions = """
+# Please answer the following question using only the information provided in the numbered sources below. When you reference information from a source, cite the corresponding source number(s) in brackets (e.g., [1]). Every answer must include at least one citation, but you should only cite a source if you are explicitly referencing it. If none of the sources are relevant or helpful, clearly state that in your response.
 
-Example
-Source 1:
-The sky is red in the evening and blue in the morning.
-Source 2:
-Water is wet when the sky is red.
-Query: When is water wet?
-Answer: Water will be wet when the sky is red [2], which occurs in the evening [1].
+# Example
+# Source 1:
+# The sky is red in the evening and blue in the morning.
+# Source 2:
+# Water is wet when the sky is red.
+# Query: When is water wet?
+# Answer: Water will be wet when the sky is red [2], which occurs in the evening [1].
 
-Now it's your turn. Below are several numbered sources of information:
+# Now it's your turn. Below are several numbered sources of information:
 
-"\n------\n"
-"{context_str}"
-"\n------\n"
-"Query: {query_str}\n"
-"Answer: "
-"""
+# "\n------\n"
+# "{context_str}"
+# "\n------\n"
+# "Query: {query_str}\n"
+# "Answer: "
+# """
 
 system_instructions_dict = {"role": "system", "content": generation_instructions}
 
@@ -170,14 +167,7 @@ if query := st.chat_input():
                 header = ": ".join([key, value])
                 headers.append(header)
             source = f"{"\n".join(headers)}"
-            # print(f"SOURCE FOR {idx}: {source}")
-            # quick fix end of page is causing formatting issues by interpreting as h2
-            # but in the normal .md the appropriate newlines are there, not sure where the newlines
-            # are removed, likely not within my implementation, could when loading in the vectorstore or by here
-            # saw that already multiple people were complaining of not respecting newline with langchain implementation of markdownheader split
-
-            # page_content_2 = chunk.page_content.replace("-----", "")
-            # print(f"PAGE CONTEXT FOR {idx}: {chunk.page_content}")
+            
             chunks_concatenated += f"\nsource {idx}, ref {source}:\n\n {chunk.page_content} \n\n\n"
     else:
         raise Exception("Way of displaying metadata from data ingestion pipeline not implemented")
@@ -198,11 +188,6 @@ if query := st.chat_input():
     print(f"PROMPT FOR LLM: \n\n {template} \n\n END OF PROMPT OUTPUT \n")
 
     response_stream = llm.stream(template.format_messages())
-
-    # result_text = ""
-    # for matched_document in matched_documents:
-    #     result_text += matched_document.page_content
-
 
     matched_documents_message = f"""
     {len(matched_documents)} chunks(s) matched: \n
