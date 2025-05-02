@@ -59,6 +59,7 @@ improved formatting, added debugging and allowed user to change number of retrie
 * Add BM25
 * topic clustering
 * GraphRAG
+* query rewriting
 
 
 # notes
