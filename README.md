@@ -6,7 +6,6 @@ The repo contains data on:
 * Solvency II regulations, guidelines, etc...
 
 ## run demo
-To run the demo
 This project uses uv for package management (for installation instructions please refer to https://docs.astral.sh/uv/getting-started/)
 
 create .env file, insert own api keys
@@ -32,11 +31,9 @@ Note: ./.vscode/launch.json is the config which invokes the module streamlit ins
 - no hyperparameter tuning was done
 such as temperature, top_k, top_p are left to default setting of provider
 three files:
-* kader datakwaliteit - wet toekomst pensioen
-* pensioenregelement - Stichting Pensioenfonds DNB
-* pensioenreglement - Stichting Pensioenfonds Rockwool
-
-
+    - kader datakwaliteit - wet toekomst pensioen
+    - pensioenregelement - Stichting Pensioenfonds DNB
+    - pensioenreglement - Stichting Pensioenfonds Rockwool
 - no special chunking strategy, no chunking hyperparameter tuning done default 1000 + 100 overlap
 - no pdf cleaning, all left to default
 
@@ -77,6 +74,7 @@ improved formatting, added debugging and allowed user to change number of retrie
 * late chunking
 * Also test with just putting the entire documents within the context of the llm, e.g. markdown, pdf, etc.
 * topic clustering
+* chunking based on sentence boundary detection: https://spacy.io/api/sentencizer
 
 #### different retriever + storage
 * GraphRAG (complex questions)
@@ -87,12 +85,9 @@ improved formatting, added debugging and allowed user to change number of retrie
 * query rewriting
 * Reranker
 
-
-# generation
+#### generation
 * sampling: temperature, top_p, top_k
 * different models: reasoning, non-reasoning
-
-https://spacy.io/api/sentencizer
 
 # overview of data preparation
  Examples of: 
