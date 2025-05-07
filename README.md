@@ -60,6 +60,8 @@ improved formatting, added debugging and allowed user to change number of retrie
 * topic clustering
 * GraphRAG
 * query rewriting
+* Agentic RAG, RAG Agent etc. (letting an llm identify when to call the vectorstore and with what query), similar goals as with query rewriting (solving the problem step-by-step). Reasoning models may be particularly well suited for this task.
+
 
 
 # notes
@@ -123,3 +125,75 @@ def create_propositions(paragraph: str) -> list[str]:
     return sentences.sentences
 
 props = [prop for para in text.split("\n\n") for prop in create_propositions(para)]
+
+
+# overview of data preparation
+ MinerU, Markitdown, docling, marker, and PyMuPDF4LLM.
+
+ Experiment with docling, seems interesting
+
+## approaches we have seen in the wild for data preparation into vector database
+
+### PDF
+Problem description:
+Portable Document Format (PDF) is designed for displaying document content while preserving visual presentation accross platform, screen size or software configuration. However, the format was not designed machine-readability in mind.
+
+*Note: A Tagged PDF may be more machine-readable, however not all PDF are tagged PDF (as far as I can see this is all behind a paywall + unsure if you can add if not original author)*
+
+Some problems for pdfs include:
+* Text flow (multi-column layout)
+* Table are lines with pieces of text (no standard element)
+
+When converting PDFs to machine-readable format two elements are particularly hard to extract consistently:
+    * images
+    * tables
+
+Libraries for convertion PDF to machine-readable format
+* [Docling](https://arxiv.org/abs/2408.09869), uses a layout analysis model and TableFormer for table structure detection.
+* [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
+* [PyPDF](https://pypdf.readthedocs.io/en/stable/)
+* [Tutorial on alternative with Multimodal LLM](https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db)
+
+Main questions:
+* What format is machine-readble?
+    * html, md, csv, json (or maybe even .xlsx, .png, jpeg)?
+* How to chunk documents?
+    * tables, law articles, images, etc.
+
+#### Image Preprocessing
+Image detection:
+* Images are embedded through /XObjects subtype /Image.
+
+Image conversion:
+* by OCR convert to text-based format
+* by multimodal LLMs convert to text-based format
+* by converting to raw bytes (e.g. by base64)
+
+Subquestions
+* What is an appropriate format for embedding of tables?
+* What is an appropriate format for using a table with an LLM?
+
+#### Tables
+Table detection (or more general layout detectino):
+* Table Prediction ML model
+* Using multimodal LLMs to detect tables from images
+* Rule-based table extraction tools
+
+Table conversion:
+* by OCR convert to text-based format
+* by multimodal LLMs convert to text-based format
+* Rule-based table extraction tools
+* Use as is text-based format
+
+Problems in table convertion
+* multipage tables
+* empty cells within table
+* merged cells within table
+* complex table structure
+* no lines
+
+Subquestions
+* What is an appropriate format for embedding of tables?
+* What is an appropriate format for using a table with an LLM?
+
+ 
