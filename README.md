@@ -40,7 +40,6 @@ three files:
 - no special chunking strategy, no chunking hyperparameter tuning done default 1000 + 100 overlap
 - no pdf cleaning, all left to default
 
-
 ## 1.1 minor version
 improved formatting, added debugging and allowed user to change number of retrieved chunks
 
@@ -51,35 +50,51 @@ improved formatting, added debugging and allowed user to change number of retrie
     - markdown to maintain structure instead of plain text
     - load pdf as whole, not per page which works helps in maintaining the overall structure through markdown
 
-## Suggestions for future versions
+## suggestions for future versions
+
+### general
+* Metadata filtering (on header 3 level, can be this granular through markdown text splitting)
+* Add test cases to measure quality. Think about ways to measure performance
+* Custom finetuned embedding model (using SentenceTransformer v4)
+* Idea alternative flow: where the user can select which parts to use
+
+### retriever + storage
+#### data preprocessing
+##### pdf convertion
+* contextual retrieval --> wfh/proposal-indexing
+* Retriever may also benefit from having the context in which document placed, maybe or the header at least?
+* Multimodal embedding
+* adding table summaries
 * Better preprocessing for tables
     * E.g. provide table summary
     * improved multipage tables support
-* Metadata filtering (on header 3 level, can be this granular through markdown text splitting)
-* Add test cases to measure quality. Think about ways to measure performance
-* Reranker
-* Custom finetuned embedding model (using SentenceTransformer v4)
-* Idea alternative flow: where the user can select which parts to use
-* Add BM25
-* topic clustering
-* GraphRAG
-* query rewriting
-* Agentic RAG, RAG Agent etc. (letting an llm identify when to call the vectorstore and with what query), similar goals as with query rewriting (solving the problem step-by-step). Reasoning models may be particularly well suited for this task.
-* Multimodal embedding
-* Retriever may also benefit from having the context in which document placed, maybe or the header at least?
-* adding table summaries
-* Also test with just putting the entire documents within the context of the llm
+
+##### chunking
 * semantic chunk
 * agentic chunking
 * hierarchical chunking
 * clustering chunking
 * late chunking
-* contextual retrieval --> wfh/proposal-indexing
+* Also test with just putting the entire documents within the context of the llm, e.g. markdown, pdf, etc.
+* topic clustering
+
+#### different retriever + storage
+* GraphRAG (complex questions)
+* BM25 (exact word matches)
+* Custom finetuned vector embedding model
+
+#### additional components in retrieval pipeline
+* query rewriting
+* Reranker
+
+
+# generation
+* sampling: temperature, top_p, top_k
+* different models: reasoning, non-reasoning
 
 https://spacy.io/api/sentencizer
 
 # overview of data preparation
- 
  Examples of: 
  * MinerU, 
  * Markitdown, 
