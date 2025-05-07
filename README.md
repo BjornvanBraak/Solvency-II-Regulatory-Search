@@ -1,8 +1,11 @@
-
-
 # regulatory search demo
+This is a demo case for searching through regulations.
 
+The repo contains data on:
+* Data quality information for pension funds
+* Solvency II regulations, guidelines, etc...
 
+## run demo
 To run the demo
 This project uses uv for package management (for installation instructions please refer to https://docs.astral.sh/uv/getting-started/)
 
@@ -16,7 +19,7 @@ GOOGLE_API_KEY=
 ```
 Either use streamlit within through uv
 ```
-uv run python -m streamlit run .\regulatory-search-app.py
+uv run python -m streamlit run regulatory-search-app.py
 ```
 OR alternatively using VSCODE
 
@@ -24,7 +27,8 @@ by selecting'Python Debugger: Debug using launch.json' > 'Python Debugger: Modul
 
 Note: ./.vscode/launch.json is the config which invokes the module streamlit instead of python 
 
-# 1.0
+# version changes
+## 1.0
 - no hyperparameter tuning was done
 such as temperature, top_k, top_p are left to default setting of provider
 three files:
@@ -40,14 +44,14 @@ three files:
 ## 1.1 minor version
 improved formatting, added debugging and allowed user to change number of retrieved chunks
 
-# 2.0
-- improved data ingestion pipeline
+## 2.0
+- improved data ingestion pipeline, for details see section 
     - extract tables
     - image parser within pdf
     - markdown to maintain structure instead of plain text
     - load pdf as whole, not per page which works helps in maintaining the overall structure through markdown
 
-# Suggestions for future
+## Suggestions for future versions
 * Better preprocessing for tables
     * E.g. provide table summary
     * improved multipage tables support
@@ -61,80 +65,39 @@ improved formatting, added debugging and allowed user to change number of retrie
 * GraphRAG
 * query rewriting
 * Agentic RAG, RAG Agent etc. (letting an llm identify when to call the vectorstore and with what query), similar goals as with query rewriting (solving the problem step-by-step). Reasoning models may be particularly well suited for this task.
+* Multimodal embedding
+* Retriever may also benefit from having the context in which document placed, maybe or the header at least?
+* adding table summaries
+* Also test with just putting the entire documents within the context of the llm
+* semantic chunk
+* agentic chunking
+* hierarchical chunking
+* clustering chunking
+* late chunking
+* contextual retrieval --> wfh/proposal-indexing
 
-
-
-# notes
-notes on experiment on regulatory search
-
-only english dutch guidelines download instead of main one
-
-alleen pdf geen excels
-
-unclean scraping not verified.
-
-some 429 status erros, added retry mechanism
-
-improvements on guidelines scraping:
-filename versions are to long (cannot save in github
-
-not saved in repository as filenames of guidelines too long
- solvency-II-files/guidelines-level 3-v0.1/
-
-
- different chunking for pdfs applied
-https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
-multimodal embedding
-https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
-adding table summararies
-Maybe also using agent RAG
-
-
-Retriever may also benefit from having the context in which document placed, maybe or the header at least?
-
-Also test with just putting the entire documents within the context of the llm
-
-Pareto curve
-
-semantic chunk
-agentic chunking
-hierarchical chunking
-clustering chunking
-late chunking
-contextual retrieval
 https://spacy.io/api/sentencizer
 
-from langchain import hub
-from langchain.pydantic_v1 import BaseModel
-
-
-example proposition extraction code
-def create_propositions(paragraph: str) -> list[str]:
-    print(paragraph)
-    propositioning_prompt = hub.pull("wfh/proposal-indexing")
-
-    class Sentences(BaseModel):
-        sentences: list[str]
-
-    propositioning_llm = llm.with_structured_output(Sentences)
-
-    propositioning_chain = propositioning_prompt | propositioning_llm
-
-    sentences = propositioning_chain.invoke(paragraph)
-
-    return sentences.sentences
-
-props = [prop for para in text.split("\n\n") for prop in create_propositions(para)]
-
-
 # overview of data preparation
- MinerU, Markitdown, docling, marker, and PyMuPDF4LLM.
+ 
+ Examples of: 
+ * MinerU, 
+ * Markitdown, 
+ * docling, 
+ * marker, and
+ * PyMuPDF4LLM.
 
- Experiment with docling, seems interesting
+ Libraries that I tried for convertion PDF to machine-readable format
+* [PyPDF](https://pypdf.readthedocs.io/en/stable/)
+* [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
+* [Docling](https://arxiv.org/abs/2408.09869), uses a layout analysis model and TableFormer for table structure detection.
 
-## approaches we have seen in the wild for data preparation into vector database
+Tutorials
+* [Tutorial on alternative with Multimodal LLM](https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db)
+* [Tutorial on text splitting](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb)
+* [Multimodal embedding models](https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb)
 
-### PDF
+## PDF
 Problem description:
 Portable Document Format (PDF) is designed for displaying document content while preserving visual presentation accross platform, screen size or software configuration. However, the format was not designed machine-readability in mind.
 
@@ -148,32 +111,28 @@ When converting PDFs to machine-readable format two elements are particularly ha
     * images
     * tables
 
-Libraries for convertion PDF to machine-readable format
-* [Docling](https://arxiv.org/abs/2408.09869), uses a layout analysis model and TableFormer for table structure detection.
-* [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
-* [PyPDF](https://pypdf.readthedocs.io/en/stable/)
-* [Tutorial on alternative with Multimodal LLM](https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db)
-
 Main questions:
 * What format is machine-readble?
     * html, md, csv, json (or maybe even .xlsx, .png, jpeg)?
 * How to chunk documents?
     * tables, law articles, images, etc.
 
-#### Image Preprocessing
+### Image Preprocessing
 Image detection:
 * Images are embedded through /XObjects subtype /Image.
 
 Image conversion:
 * by OCR convert to text-based format
 * by multimodal LLMs convert to text-based format
-* by converting to raw bytes (e.g. by base64)
+* by converting to raw bytes
+    * for use with multimodal LLM 
+    * OR multimodal embedding model
 
 Subquestions
-* What is an appropriate format for embedding of tables?
-* What is an appropriate format for using a table with an LLM?
+* What is an appropriate format for embedding of images?
+* What is an appropriate format for using a images with an LLM?
 
-#### Tables
+### Tables
 Table detection (or more general layout detectino):
 * Table Prediction ML model
 * Using multimodal LLMs to detect tables from images
@@ -195,5 +154,18 @@ Problems in table convertion
 Subquestions
 * What is an appropriate format for embedding of tables?
 * What is an appropriate format for using a table with an LLM?
+
+# notes
+notes on experiment on regulatory search
+
+## solvency II
+only english dutch guidelines download instead of main one
+alleen pdf geen excels
+unclean scraping not verified.
+some 429 status erros, added retry mechanism
+improvements on guidelines scraping:
+filename versions are to long (cannot save in github)
+problems with github repository saving the name, for guidelines scraped as document names are to long
+--> solvency-II-files/guidelines-level 3-v0.1/
 
  
