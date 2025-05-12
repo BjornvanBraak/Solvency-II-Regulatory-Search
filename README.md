@@ -118,8 +118,8 @@ Some problems for pdfs include:
 * Table are lines with pieces of text (no standard element)
 
 When converting PDFs to machine-readable format two elements are particularly hard to extract consistently:
-    * images
-    * tables
+* images
+* tables
 
 Main questions:
 * What format is machine-readble?
@@ -165,7 +165,7 @@ Subquestions
 * What is an appropriate format for embedding of tables?
 * What is an appropriate format for using a table with an LLM?
 
-# notes
+# personal notes
 notes on experiment on regulatory search
 
 ## solvency II
