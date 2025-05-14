@@ -20,7 +20,7 @@ with st.sidebar:
     st.title("User Config")
     embedding_model_option = st.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL_V2, Embedding_Model.GEMINI_TEXT_EMBEDDING_004, Embedding_Model.GEMINI_EMBEDDING_EXP_03_07),
+        (Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL, Embedding_Model.AZURE_TEXT_EMBEDDING_3_SMALL_V2, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_V2, Embedding_Model.GEMINI_TEXT_EMBEDDING_004, Embedding_Model.GEMINI_EMBEDDING_EXP_03_07),
         format_func=lambda x: x.value["display_name"]
     )
     llm_option = st.selectbox(

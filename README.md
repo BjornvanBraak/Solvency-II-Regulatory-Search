@@ -37,7 +37,7 @@ three files:
 - no special chunking strategy, no chunking hyperparameter tuning done default 1000 + 100 overlap
 - no pdf cleaning, all left to default
 
-## 1.1 minor version
+### 1.1
 improved formatting, added debugging and allowed user to change number of retrieved chunks
 
 ## 2.0
@@ -46,6 +46,80 @@ improved formatting, added debugging and allowed user to change number of retrie
     - image parser within pdf
     - markdown to maintain structure instead of plain text
     - load pdf as whole, not per page which works helps in maintaining the overall structure through markdown
+### 2.1
+- improved markdown formatting
+### 2.2
+- removed logo images from formatting (in an attempt to make multipage tables better, did not fully succeed)
+#### Notes on demo
+Description: The demo was with the company to showcase the potential
+Set-up: gemini-2.5-pro-preview-03-25
+
+RAG vs CAG
+A comparison between retrieval small chunks in context of text or preloading the entire documents into the context.
+_Note: This is not an apple's to apple's comparison as document preprocessing of .pdf files with RAG is handled by researcher_
+
+
+##### Test Setup
+During development we also tested experimentally with smaller models or different model providers.
+* GPT-4o-mini
+* OpenAI o4-mini
+* Gemini 2.5-pro-preview 
+GPT-4o-mini struggled on more difficult questions requiring a multi-step solution. Additionally, less inclined to follow details in instruction, and gave an answer in most case even
+if from the context the question could not be answered. I did not notice any systematic differences between OpenAI o4-mini and gemini 2.5 pro-preview.
+_Note: OpenAI o3 was not considered, because of the pricing which for initial testing is too expensive_
+
+Therefore, I chose to go with gemini 2.5 pro as it was currently scoring relatively high on all benchmarks.
+
+The total number of input tokens were ~34K. Recent models score signficiantly better on longer context. Based on Fiction.LiveBench for Long Context Deep Comprehension.
+https://fiction.live/stories/Fiction-liveBench-Mar-25-2025/oQdzQvKHw8JyXbN87. I made a small mistake in choosing the version of LLM, which seems significantly less consistent on longer context then gemeni-2.5-exp-03-25, gemini-2.5-pro-preview-03-25. The underlying assumption I made was that the between minor versions the performance on long context stayed relatively the same. According to the benchmark this is not the case.
+
+Questions (in Dutch)
+The question were sourced from a company employee and slightly adjusted by adding "voor/bij DNB pensioenfonds"
+1. Wat zijn de stappen voor het uitvoeren van datakwaliteitscontroles tijdens het invaren voor DNB?
+2. Wat zijn deze pensioenregelingskenmerken voor DNB pensioenfonds?
+3. Hoeveel is aanspraak nabestaandenpensioen van aanspraak ouderdomspensioen bij DNB pensioenfonds? 
+    - Answer = 70%
+4. Hoeveel groot percentage is aanspraak wezenpensioen van aanspraak ouderdomspensioen bij DNB pensioenfonds? 
+    - Answer: 20%*70% = 14%
+The general answer were later also verified by the same employee
+
+|ID|LLM|Embedding Model|API version|Method|Question 1 (basic)|Question 2 (basic)|Question 3 (medium|Question 4 (hard)|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|1.1|gemini-2.5-pro-preview-03-25|OpenAI’s Text-embedding-3-small|2023-05-15|RAG|✔|✔|❌|❌|
+|1.2|gemini-2.5-pro-preview-03-25|Google’s tekst-embedding-004|2024-03-14|RAG|✔|✔|❌|❌|
+|1.3|gemini-2.5-pro-preview-03-25|OpenAI’s text-embedding-3-large|2024-02-01|RAG|✔|✔|❌|❌|
+|1.4|gemini-2.5-pro-preview-03-25|gemini-embedding-exp-03-07|2025-03-07|RAG|✔|✔|✔|✔|
+|1.5|gemini-2.5-pro-preview-03-25|-| |-|CAG|✔|✔|✔|✔|
+
+_Note: Configuration was number of text retrieved k=8 (chunks size 1000, with ExperimentalMarkdownSyntaxTextSplitter then RecursiveCharacterTextSplitter)_
+
+_Note: Experiment 1.3, and 1.4 were added after the demo, as results indicated the embedding models were unable to retrieve correct information._
+
+Based on literature research last year a big area of improved was multilingual capabilities for SOTA LLMs.
+
+During our experiment reasoning models gave answer which at least to non-expert on pensioen regulations had satisfactory format, structure, and answer quality.
+
+
+Conjencture based on experiments
+1. Recent models (both LLM and embedding) have had more focus on multilingual capabilites. Therefore, recent embedding models perform better in multilingual settings especially were less common domain-specific words are used (e.g. 'nabestaandenpensioen', 'ouderdomspensioen' en 'wezenpensioen')
+2. Chosing a 'fixed' chunk size of 1000 (in early RAG it used to be 300) may not be the most suitable approach for document including tables, and legal articles as the missing context may decrease contextual understanding
+
+Future research
+* Add multilingual embedding models, e.g. text-multilingual-embedding-002, Cohere-embed-multilingual-v3.0, gte-Qwen2-7B-instruct (see benchmark https://huggingface.co/spaces/mteb/leaderboard)
+* Experiment with models such as GPT-4o, GPT-4.1 and Gemini 2.5 flash non-thinking to see non reasoning models performance.
+
+
+
+### 2.3 (under development)
+- (Conjecture 1.) added embedding model: gemini-embedding-exp-03-07 and text-embedding-3-large
+- (Conjecture 2.) ParentRetriever
+    - Reason CAG does on gemini 2.5 pro preview provides correct answers were convert pdf to markdown --> text-embedding-3-small (2023-05-15) --> gemini 2.5 pro preview
+- (Conjecture 2.) Semantic chunking.
+
+Delayed 
+- trying docling 
+    - (research behind it)
+
 
 ## suggestions for future versions
 
@@ -106,6 +180,9 @@ Tutorials
 * [Tutorial on alternative with Multimodal LLM](https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db)
 * [Tutorial on text splitting](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb)
 * [Multimodal embedding models](https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb)
+* https://medium.com/data-science-collective/i-tried-every-pdf-parser-for-my-chat-app-only-one-worked-e20613835d27
+* https://medium.com/data-science-collective/smoldocling-a-new-era-in-document-processing-3e9b044eeb4a
+* https://arxiv.org/pdf/2503.11576
 
 ## PDF
 Problem description:
