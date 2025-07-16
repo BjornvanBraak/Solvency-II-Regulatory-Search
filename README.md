@@ -112,6 +112,14 @@ Future research
 
 ### 2.3 (under development)
 - (Conjecture 1.) added embedding model: gemini-embedding-exp-03-07 and text-embedding-3-large
+- Conjecture 1. add:
+google's
+text-embedding-large-exp-03-07
+text-embedding-005
+text-multilingual-embedding-002
+https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions#legacy-stable
+
+https://huggingface.co/spaces/mteb/leaderboard
 - (Conjecture 2.) ParentRetriever
     - Reason CAG does on gemini 2.5 pro preview provides correct answers were convert pdf to markdown --> text-embedding-3-small (2023-05-15) --> gemini 2.5 pro preview
 - (Conjecture 2.) Semantic chunking.
@@ -183,6 +191,11 @@ Tutorials
 * https://medium.com/data-science-collective/i-tried-every-pdf-parser-for-my-chat-app-only-one-worked-e20613835d27
 * https://medium.com/data-science-collective/smoldocling-a-new-era-in-document-processing-3e9b044eeb4a
 * https://arxiv.org/pdf/2503.11576
+* [Transforming Unstructured Data](https://www.youtube.com/watch?v=_pEEJu-2KKM)
+* [ParentDocumentRetriever disadvantages](https://medium.com/data-science/langchains-parent-document-retriever-revisited-1fca8791f5a0)
+
+
+
 
 ## PDF
 Problem description:

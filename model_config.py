@@ -1,16 +1,21 @@
 # define configuration options
 import os
 from enum import Enum
-PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
+DUMMY_CASE1_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
+SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY = os.path.join("<define the path here")
 
 class Embedding_Model(Enum):
-    AZURE_TEXT_EMBEDDING_3_SMALL = {"display_name": "openai-text-embedding-3-small-v1", "model":"text-embedding-3-small", "data-ingestion-pipeline": "v1", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_SMALL_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": PERSIST_DIRECTORY}
-    AZURE_TEXT_EMBEDDING_3_SMALL_V2 = {"display_name": "openai-text-embedding-3-small+data-ingestion-v2.1", "data-ingestion-pipeline": "v2", "model":"text-embedding-3-small", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_SMALL_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_V2.1", "persist_directory": PERSIST_DIRECTORY}
-    AZURE_TEXT_EMBEDDING_3_LARGE_V2 = {"display_name": "openai-text-embedding-3-LARGE+data-ingestion-v2.2", "data-ingestion-pipeline": "v2", "model":"text-embedding-3-large", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_LARGE_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_V2.3_OPENAI_3_LARGE", "persist_directory": PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_SMALL = {"display_name": "openai-text-embedding-3-small-v1", "model":"text-embedding-3-small", "data-ingestion-pipeline": "v1", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_SMALL_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_SMALL_V2 = {"display_name": "openai-text-embedding-3-small+data-ingestion-v2.1", "data-ingestion-pipeline": "v2", "model":"text-embedding-3-small", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_SMALL_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_V2.1", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
+    AZURE_TEXT_EMBEDDING_3_LARGE_V2 = {"display_name": "openai-text-embedding-3-LARGE+data-ingestion-v2.2", "data-ingestion-pipeline": "v2", "model":"text-embedding-3-large", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_LARGE_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_V2.3_OPENAI_3_LARGE", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
     # GEMINI_EMBEDDING_EXP_03_07 = {"model": "gemini-embedding-exp-03-07", "collection_name": "DATA_QUALITY_PENSION_GEMINI_EXP", "persist_directory": PERSIST_DIRECTORY}
-    GEMINI_TEXT_EMBEDDING_004 = {"display_name": "gemini-text-embedding-004", "data-ingestion-pipeline": "v1", "model": "text-embedding-004", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": PERSIST_DIRECTORY}
-    GEMINI_EMBEDDING_EXP_03_07 = {"display_name": "gemini-embedding-exp-03-07", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-exp-03-07", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_v2.2_GEMINI", "persist_directory": PERSIST_DIRECTORY}
-    
+    GEMINI_TEXT_EMBEDDING_004 = {"display_name": "gemini-text-embedding-004", "data-ingestion-pipeline": "v1", "model": "text-embedding-004", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_GEMINI", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
+    GEMINI_EMBEDDING_EXP_03_07 = {"display_name": "gemini-embedding-exp-03-07", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-exp-03-07", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "DATA_QUALITY_PENSION_v2.2_GEMINI", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
+    # https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/
+    # If you are using the experimental gemini-embedding-exp-03-07, you won’t need to re-embed your contents but it will no longer be supported by the Gemini API on August 14, 2025. Legacy models will also be deprecated in the coming months:
+    #     embedding-001 on August 14, 2025 and
+    #     text-embedding-004 on January 14, 2026
+    GEMINI_EMBEDDING_001 = {"display_name": "gemini-embedding-001", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-001", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "GEMINI_SOLVENCY_II_V0", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
 
 class Language_Model(Enum):
     AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_4O_MINI_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "temperature": 0.2}
