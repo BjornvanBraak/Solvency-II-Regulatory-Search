@@ -1,8 +1,11 @@
 import os
 from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_xai import ChatXAI
 from langchain_chroma import Chroma
+from langchain_community.embeddings import DeepInfraEmbeddings
 from model_config import Embedding_Model, Language_Model
+
 
 
 
@@ -19,6 +22,9 @@ def _create_gemini_embedding_model(model, api_key):
         model=f"models/{model}", 
         google_api_key=api_key
     )
+
+def _create_qwen3_embedding_model(model, api_key):
+    return DeepInfraEmbeddings(model_id=model, deepinfra_api_token=api_key)
 
 def _create_azure_llm(model, endpoint, api_version, api_key, temperature):
     # based on https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview#list---assistants
@@ -51,6 +57,13 @@ def _create_gemini_llm(model, api_key, temperature):
         temperature=temperature
     )
 
+def _create_xai_llm(model, api_key, temperature):
+    return ChatXAI(
+        model=model,
+        api_key=api_key,
+        temperature=temperature
+    )
+
 def set_up_llm(model_option: Language_Model):
     llm = None
     if model_option.name.startswith("AZURE"):
@@ -63,6 +76,12 @@ def set_up_llm(model_option: Language_Model):
         )
     elif model_option.name.startswith("GEMINI"):
         llm = _create_gemini_llm(
+            model=model_option.value["model"], 
+            api_key=model_option.value["api_key"],
+            temperature=model_option.value["temperature"]
+        )
+    elif model_option.name.startswith("GROK"):
+        llm = _create_xai_llm(
             model=model_option.value["model"], 
             api_key=model_option.value["api_key"],
             temperature=model_option.value["temperature"]
@@ -82,6 +101,11 @@ def set_up_embedding_model(model_option: Embedding_Model):
         )
     elif model_option.name.startswith("GEMINI"):
         embedding_model = _create_gemini_embedding_model(
+            model=model_option.value["model"], 
+            api_key=model_option.value["api_key"]
+        )
+    elif model_option.name.startswith("QWEN"):
+        embedding_model = _create_qwen3_embedding_model(
             model=model_option.value["model"], 
             api_key=model_option.value["api_key"]
         )

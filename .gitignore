@@ -31,3 +31,6 @@ data/raw/solvency-II-files/guidelines-level 3-v0.1/
 
 #
 __pycache__
+
+/data/vector_stores/solvency-II-files
+static

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert legal adviser on EU regulations, particularly Solvency II."
+    },
+    {
+        "role": "human",
+        "content": "\n            ## Question\n            \n\n What are you solvent? \n\n\n            \n## Context\n            \n\n \n ### source 1 \n\n metadata:\n * Title: guidelines-level-3: Guidelines on supervisory review process.pdf\n* Header 2:  “College” refers to the college of supervisors as defined in Article\n:\n\n extract:\n\n 212(1)(e) of the Solvency II Directive; \n\n\n\n ### source 2 \n\n metadata:\n * Title: guidelines-level-3: Guidelines on operational functioning of colleges.pdf\n* Header 3:  the application of the centralised risk management provisions;\n:\n\n extract:\n\n in order to: \n\n\n\n ### source 3 \n\n metadata:\n * Title: guidelines-level-3: Guidelines on group solvency.pdf\n* Header 2: **Technical Annex 1 **\n:\n\n extract:\n\n calculation.\n\n15/15 \n\n\n\n ### source 4 \n\n metadata:\n * Title: guidelines-level-3: Guidelines on operational functioning of colleges.pdf\n* Header 3:  establish the college work plan and arrange allocation of tasks and on-site\n:\n\n extract:\n\n examinations; \n\n\n\n ### source 5 \n\n metadata:\n * Title: JC 2024-34_Draft final report GL on costs and losses\n* keywords: Restricted\n\n* Header 1: Joint Guidelines on the estimation of aggregated annual costs and losses caused b ma or ICT-related incidents  y j\n\n* Header 2: Title III- Provisions on the estimation of aggregated annual costs and losses of major ICT-related incidents\n:\n\n extract:\n\n 4 \n\n\n \n\n\n            \n## Answer\n            \n\n Based on the mentioned sources in the Context answer the Question. Please reference where applicable source with (Source <insert number>)\n            \n\n\n            "
+    }
+]

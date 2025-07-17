@@ -1,3 +1,4 @@
 [server]
 runOnSave = true
 headless = true #makes sure to not open a new tab on start
+enableStaticServing = true #for pdf
