@@ -246,9 +246,19 @@ with st.container():
 
 
     def displaySources(document_sources):
-    
-        container_key = f"sources-buttons-container-{document_sources[0]["query"]}".replace(" ", "-")
-
+        added_sources = []
+        
+        deduplicated_document_sources = []
+        for document_source in document_sources:
+            if document_source["link"] not in added_sources:
+                # check if title is not set in metadata
+                # print(f"Title: used {title}")
+                
+                added_sources.append(document_source["link"])
+                deduplicated_document_sources.append(document_source)
+        
+        
+        container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query"]}".replace(" ", "-")
         
         st.markdown(
             f"""
@@ -264,7 +274,7 @@ with st.container():
         
         with st.container(border=True):
             with st.container(key=container_key):
-                for document_source in document_sources:
+                for document_source in deduplicated_document_sources:
                     document_link = document_source["link"]
                     args = (document_link, )
                     print("Args: ", args)
@@ -319,7 +329,6 @@ with st.container():
                     document_sources.append(source)
                     chunks_concatenated += f"###\n source {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
             elif embedding_model_option.value["data-ingestion-pipeline"] == "v2":
-                added_sources = []
                 for idx, chunk in enumerate(matched_documents):
 
                     source_index = idx + 1
@@ -362,20 +371,22 @@ with st.container():
 
                     print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
 
-                    if chunk.metadata["source"] not in added_sources:
-                        # check if title is not set in metadata
-
-                        print(f"Title: used {title}")
-
-                        document_source = {
+                    document_source = {
                             "source_index": source_index,
                             "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
                             "title": title,
                             "page_content": chunk.page_content,
                             "query": query
                         }
-                        added_sources.append(chunk.metadata["source"])
-                        document_sources.append(document_source)
+
+                    document_sources.append(document_source)
+                    # if chunk.metadata["source"] not in added_sources:
+                    #     # check if title is not set in metadata
+
+                    #     print(f"Title: used {title}")
+
+                        
+                    #     added_sources.append(chunk.metadata["source"])
                     
                     # used to debug
                     chunks_concatenated += f"\n ### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
@@ -383,7 +394,7 @@ with st.container():
                 raise Exception("Way of displaying metadata from data ingestion pipeline not implemented")
 
 
-            print(f"CHUNKS CONCATENATED FOR {idx}: {chunks_concatenated}")
+            print(f"CHUNKS CONCATENATED FOR {source_index}: {chunks_concatenated}")
             print(f"DOCUMENT SOURCE: {document_sources}")
 
             prompt = f"""
@@ -461,17 +472,21 @@ with st.container():
 
             def convert_sources_to_interactive(text, document_sources):
                 def findPage(document_sources, source_num):
+                    debug_last_index = -1
                     for document_source in document_sources:
-                        print("Document_source: ", document_source)
-                        print(source_num)
-                        print(document_source["source_index"] == int(source_num))
-                        print(type(document_source["source_index"]))  # <class 'int'>
-                        print(type(source_num))
+                        debug_last_index = document_source["source_index"]
+                        print(f"Debug index: {debug_last_index}")
                         if document_source["source_index"] == int(source_num):
                             return document_source
                     
                     messages_container.warning("Warning: could not find, source may be hallucinated!")
                     
+                    print("Document_source: ", document_source)
+                    print(source_num)
+                    print(document_source["source_index"] == int(source_num))
+                    print(type(document_source["source_index"]))  # <class 'int'>
+                    print(type(source_num))
+                    print(f"[NOT FOUND] Document index: {source_num}")
                     return {"page_content": "not_found"}
                     # raise Exception("Could not find the page, something wrong with implementation")
 
@@ -515,7 +530,7 @@ with st.container():
 
                     popover_element = f"""<div popover id="pop-{fake_query_id}-{rand}-{source_num}">
                         <p>{page_content}</p>
-                    </div><button popovertarget="pop-{fake_query_id}-{rand}-{source_num}">Source {source_num}</button>"""
+                    </div><button popovertarget="pop-{fake_query_id}-{rand}-{source_num}">Link {source_num}</button>"""
 
 
                                         # find text related to the sources.
