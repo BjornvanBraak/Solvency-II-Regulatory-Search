@@ -73,7 +73,7 @@ with st.sidebar:
     )
     llm_option = st.selectbox(
     "Which LLM to choose",
-    (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI),
+    (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
     format_func=lambda x: x.value["model"]
     )
     k = st.slider("Pieces of text retrieved", 0, 10, 5)
