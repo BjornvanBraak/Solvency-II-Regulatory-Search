@@ -79,7 +79,7 @@ with sidebar_container:
     st.header("User Config")
     embedding_model_option = st.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
+        (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
         format_func=lambda x: x.value["display_name"]
     )
     llm_option = st.selectbox(
@@ -486,3 +486,5 @@ with chat_col:
         print("Styling Popover: ", styling_popover_element)
 
         st.session_state.messages.append({"role": "assistant", "content": sourced_response, "style": styling_popover_element})
+        # force a rerun to update the sources.
+        st.rerun()
