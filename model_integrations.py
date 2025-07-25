@@ -50,7 +50,8 @@ def _create_gemini_llm(model, api_key, temperature):
     return ChatGoogleGenerativeAI(
         model=model, 
         api_key=api_key, 
-        temperature=temperature
+        temperature=temperature,
+        include_thoughts=True,
     )
 
 def _create_xai_llm(model, api_key, temperature):

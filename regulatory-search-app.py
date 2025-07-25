@@ -6,6 +6,7 @@ import os
 import random
 import re
 import random
+import asyncio
 
 from langchain_core.prompts.chat import ChatPromptTemplate
 import time
@@ -71,15 +72,16 @@ st.markdown("""
 
 
 
-sidebar_container, content_container = st.columns([0.2, 1])
+sidebar_container, content_container = st.columns([0.2, 0.8])
 
 # set up user configuration options
 with sidebar_container:
     # st.title("Config")
     st.header("User Config")
+    # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
     embedding_model_option = st.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
+        (Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
         format_func=lambda x: x.value["display_name"]
     )
     llm_option = st.selectbox(
@@ -399,7 +401,24 @@ with chat_col:
             with open("prompt.json", "w", encoding="utf-8") as f:
                 json.dump(messages_as_dict, f, indent=4, ensure_ascii=False)
 
+
+        # from langchain_google_genai import ChatGoogleGenerativeAI
+
+    #     template = ChatPromptTemplate.from_messages(
+    #         [("system", "You are Cat Agent 007"), ("human", "What is the best cat?")]
+    #     )
+    #     response_stream = ChatGoogleGenerativeAI(
+    #     model="models/gemini-2.5-pro", 
+    #     # api_key=os.environ["GOOGLE_API_KEY"], 
+    #     # temperature=temperature,
+    #     include_thoughts=True
+    # ).stream(template.format_messages())
+        
+        
         response_stream = llm.stream(formatted_message)
+
+        
+        print(f"Response stream ended with entire response: {response_stream}")
         
         last_human_prompt = formatted_message[-1].content
         
@@ -409,8 +428,14 @@ with chat_col:
 
         # Display assistant response in chat message container
         with messages_container.chat_message("assistant"):
-            response = st.write_stream(response_stream)
-            print(f"Response stream ended with entire resposne: {response}")
+            # with st.spinner("Thinking..."):
+                response = st.write_stream(response_stream)
+                print(f"Response with entire response: {response}")
+                # response = "Empty RESPONSE"
+                # for chunk in response_stream:
+                #     print("Chunk type of: ", type(chunk))
+                #     st.write(chunk)
+
 
         def convert_sources_to_interactive(text, document_sources):
             def findPage(document_sources, source_num):
@@ -438,8 +463,9 @@ with chat_col:
             # add them as raw string as argument to popoverSource here (do not want to manage additional information)
             def replacer(match):
                 global styling_popover_elements
-                source_text = match.group(1)  # "Source 3"
+                # source_text = match.group(1)  # "Source 3"
                 source_num = match.group(2)   # "3"
+                print("source_num: ", source_num)
 
                 document_source = findPage(document_sources, source_num)
                 
@@ -477,14 +503,39 @@ with chat_col:
                 # return f'<button class="popover" onclick="popoverSource({source_num})" onmouseover="popoverSource({source_num})">{source_text}</button>'
                 return popover_element
 
-            pattern = r"(Source\s(\d+))"
+            pattern = r"(Source|Bron)\s(\d+)"
             return re.sub(pattern, replacer, text), styling_popover_elements
         
-        sourced_response, styling_popover_element = convert_sources_to_interactive(response, document_sources)
+        # test out because of reasoning included
+        # need to better integrate, what if a model is non-thinking?
+        # Ductch version of Bron not working
+
+        response_without_thinking = None
+
+
+        
+        # if response
+        if isinstance(response, list):
+            for item in response:
+                if isinstance(item, str):
+                    print("item here: ", item)
+                    if response_without_thinking != None:
+                        raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
+                    response_without_thinking = item
+                elif item[0]["type"] != "thinking":
+                    if response_without_thinking != None:
+                        raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
+                    response_without_thinking = item
+        elif isinstance(response, str): 
+            response_without_thinking = response
+                    
+        print(f"Response without thinking: {response_without_thinking}")
+        sourced_response, styling_popover_element = convert_sources_to_interactive(response_without_thinking, document_sources)
         # st.markdown(sourced_response, unsafe_allow_html=True)
 
         print("Styling Popover: ", styling_popover_element)
 
         st.session_state.messages.append({"role": "assistant", "content": sourced_response, "style": styling_popover_element})
         # force a rerun to update the sources.
-        st.rerun()
+
+        # st.rerun()

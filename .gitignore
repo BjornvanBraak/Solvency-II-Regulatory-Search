@@ -30,6 +30,7 @@ data/raw/solvency-II-files/guidelines-level 3-v0.1/
 .env.qa.local
 
 #
+.venv
 __pycache__
 
 /data/vector_stores/solvency-II-files
