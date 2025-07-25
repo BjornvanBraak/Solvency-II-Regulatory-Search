@@ -1,13 +1,9 @@
-import os
 from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_xai import ChatXAI
 from langchain_chroma import Chroma
 from langchain_community.embeddings import DeepInfraEmbeddings
 from model_config import Embedding_Model, Language_Model
-
-
-
 
 def _create_azure_embedding_model(model, endpoint, api_version, api_key):
     return AzureOpenAIEmbeddings(

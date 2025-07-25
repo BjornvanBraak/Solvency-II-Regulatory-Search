@@ -15,7 +15,7 @@ class Embedding_Model(Enum):
     # If you are using the experimental gemini-embedding-exp-03-07, you won’t need to re-embed your contents but it will no longer be supported by the Gemini API on August 14, 2025. Legacy models will also be deprecated in the coming months:
     #     embedding-001 on August 14, 2025 and
     #     text-embedding-004 on January 14, 2026
-    GEMINI_EMBEDDING_001_SOLVENCY_II = {"display_name": "gemini-embedding-001", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-001", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "GEMINI_SOLVENCY_II_V0", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
+    GEMINI_EMBEDDING_001_SOLVENCY_II = {"display_name": "gemini-embedding-001", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-001", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "GEMINI_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
     QWEN_3_EMBEDDING_SOLVENCY_II = {"display_name": "Qwen3-Embedding-8B", "data-ingestion-pipeline": "v2", "model": "Qwen/Qwen3-Embedding-8B", "api_key": os.environ["DEEPINFRA_API_KEY"], "collection_name": "QWEN_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
 
 class Language_Model(Enum):
