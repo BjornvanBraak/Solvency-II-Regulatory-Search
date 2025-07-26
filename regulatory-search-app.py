@@ -32,7 +32,7 @@ st.set_page_config(layout='wide')
 st.markdown("""
     <style>
         /* This targets the block containing the columns */
-        [data-testid="stVerticalBlockBorderWrapper"]:nth-last-child(1) {
+        .st-key-pdf-display-container {
             position: sticky;
             top: 70px; /* Adjust this value to align with your app's header */
             z-index: 1; /* Ensures the sticky element stays on top */
@@ -73,32 +73,34 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+supports_thought = ["GEMINI_25_PRO"]
 
-sidebar_container, content_container = st.columns([1, 4])
+# sidebar_container, content_container = st.columns([1, 4])
+sidebar = st.sidebar
 
 # set up user configuration options
-with sidebar_container:
-    # buggy UI if you do st.header()
-    # st.title("Config")
-    sidebar_container.header("User Config")
-    # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
-    embedding_model_option = sidebar_container.selectbox(
-        "Which embedding model to choose",
-        (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
-        format_func=lambda x: x.value["display_name"]
-    )
-    llm_option = sidebar_container.selectbox(
-    "Which LLM to choose",
-    (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
-    format_func=lambda x: x.value["model"]
-    )
-    k = sidebar_container.slider("Pieces of text retrieved", 0, 10, 5)
+# with sidebar_container.sidebar:
+# buggy UI if you do st.header()
+# st.title("Config")
+sidebar.header("User Config")
+# order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
+embedding_model_option = sidebar.selectbox(
+    "Which embedding model to choose",
+    (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
+    format_func=lambda x: x.value["display_name"]
+)
+llm_option = sidebar.selectbox(
+"Which LLM to choose",
+(Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
+format_func=lambda x: x.value["model"]
+)
+k = sidebar.slider("Pieces of text retrieved", 0, 10, 5)
 
-    sidebar_container.header("Debugger")
-    debug_mode = sidebar_container.toggle(
-        "Debug Mode",
-        False
-    )
+sidebar.header("Debugger")
+debug_mode = sidebar.toggle(
+    "Debug Mode",
+    False
+)
 
 @st.cache_resource
 def cached_embedding_model(embedding_model_option: Embedding_Model):
@@ -147,7 +149,7 @@ if "messages" not in st.session_state:
     system_instructions_dict,
 ]
     
-chat_col, pdf_col = content_container.columns([1, 1])
+chat_col, pdf_col = st.columns([1, 1])
 
 
 def displayPDF(file_name):
@@ -178,8 +180,9 @@ def displayPDF(file_name):
     # Displaying File
     # Managing st state here, not the best practice I think.
     with pdf_col:
-        st.button(key="close-button", label="close", on_click=lambda: setattr(st.session_state, 'pdf_to_display', None), icon="❌")
-        st.markdown(pdf_display, unsafe_allow_html=True)
+        with st.container(key="pdf-display-container"):
+            st.button(key="close-button", label="close", on_click=lambda: setattr(st.session_state, 'pdf_to_display', None), icon="❌")
+            st.markdown(pdf_display, unsafe_allow_html=True)
 
     
       
@@ -196,48 +199,51 @@ def set_pdf_to_display(pdf_link):
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
     st.session_state.pdf_to_display = pdf_link
 
-
 def displaySources(document_sources):
-    added_sources = []
-    
-    deduplicated_document_sources = []
-    for document_source in document_sources:
-        if document_source["link"] not in added_sources:
-            # check if title is not set in metadata
-            # print(f"Title: used {title}")
-            
-            added_sources.append(document_source["link"])
-            deduplicated_document_sources.append(document_source)
-    
-    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query_id"]}".replace(" ", "-")
-    
-    st.markdown(
-        f"""
-        <style>
-            .st-key-{container_key} {{
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
-                gap: 1rem;
-            }}
-        </style>
-        """, unsafe_allow_html=True
-    )
-    
-    with st.container(border=True):
-        with st.container(key=container_key):
-            for document_source in deduplicated_document_sources:
-                document_link = document_source["link"]
-                args = (document_link, )
-                print("Args: ", args)
+                    added_sources = []
+                    
+                    deduplicated_document_sources = []
+                    for document_source in document_sources:
+                        if document_source["link"] not in added_sources:
+                            # check if title is not set in metadata
+                            # print(f"Title: used {title}")
+                            
+                            added_sources.append(document_source["link"])
+                            deduplicated_document_sources.append(document_source)
+                    
+                    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query_id"]}".replace(" ", "-")
+                    
+                    st.markdown(
+                        f"""
+                        <style>
+                            .st-key-{container_key} {{
+                                display: grid;
+                                grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+                                gap: 1rem;
+                            }}
+                        </style>
+                        """, unsafe_allow_html=True
+                    )
+                    
+                    with st.container(border=True):
+                        with st.container(key=container_key):
+                            for document_source in deduplicated_document_sources:
+                                document_link = document_source["link"]
+                                args = (document_link, )
+                                print("Args: ", args)
 
-                print(f"Document link: {document_source["link"]}")
-                st.button(
-                    key=f"{document_source["query_id"]}---{document_source["link"]}",
-                    label=f"{document_source["title"]}", 
-                    on_click= set_pdf_to_display, 
-                    args=args,
-                    icon="🔗"
-                )
+                                TITLE_LENGTH_LIMIT = 50
+
+                                truncated_title = document_source["title"] if len(document_source["title"]) <= TITLE_LENGTH_LIMIT else document_source["title"][:TITLE_LENGTH_LIMIT] + "..."
+
+                                print(f"Document link: {document_source["link"]}")
+                                st.button(
+                                    key=f"{document_source["query_id"]}---{document_source["link"]}",
+                                    label=f"{truncated_title}", 
+                                    on_click= set_pdf_to_display, 
+                                    args=args,
+                                    icon="🔗"
+                                )
 
 
 with chat_col:
@@ -248,17 +254,21 @@ with chat_col:
         if message["role"] == "system":
                 continue
         
+        if "thoughts" in message and message["thoughts"] != "":
+            with messages_container.chat_message("thought"):
+                thought_expander = st.expander("**Thoughts...**")
+                thought_expander.write(message["thoughts"])
+
         with messages_container.chat_message(message["role"]):
-            if "thoughts" in message:
-                with messages_container:
-                    thought_expander = messages_container.expander("**Thoughts...**")
-                    thought_expander.write(message["thoughts"])
-            if "sources" in message:
-                with messages_container: 
-                    displaySources(message["sources"])
             if "popover_elements" in message:
-                messages_container.markdown(message["popover_elements"], unsafe_allow_html=True)
+                st.markdown(message["popover_elements"], unsafe_allow_html=True)
             st.markdown(message["content"], unsafe_allow_html=True)
+
+        if "sources" in message:
+            with messages_container.chat_message("sources"): 
+                print("message sources: ")
+                pprint.pprint(message["sources"])
+                displaySources(message["sources"])
 
     if query := st.chat_input(key="chat-input-container-key"):
         model_name = llm.__dict__.get("model_name") or llm.__dict__.get("model").split("models/")[1] #model name stored somewhere different depending on Azure or Google integration of Langchain
@@ -384,10 +394,10 @@ with chat_col:
         # add sources to session state
         print(f"Document sources: {document_sources}")
 
-        with messages_container:
-            displaySources(document_sources)
+        # with messages_container:
+        #     displaySources(document_sources)
 
-        st.session_state.messages.append({"role": "user", "content": query, "sources": document_sources})
+        st.session_state.messages.append({"role": "user", "content": query})
 
         
         # change to add the context of previous parts.
@@ -422,19 +432,21 @@ with chat_col:
             messages_container.info(last_human_prompt)
 
 
+        stream_thinking_container = None
+        thought_expander = None
         # Display assistant response in chat message container
-        thinking_container = messages_container.chat_message("assistant")
+        if llm_option.name in supports_thought:
+            thinking_container = messages_container.chat_message("assistant")
+            stream_thinking_container = thinking_container.empty()
+            thought_expander = stream_thinking_container.expander("**Thinking...**")
         new_message_container = messages_container.chat_message("assistant")
-        # with st.spinner("Thinking..."):
         response_without_thinking = ""
         response_thinking = ""
         last_thought_topic = ""
         # response = st.write_stream(response_stream)
         # print(f"Response with entire response: {response}")
-        # response = "Empty RESPONSE"
         stream_container = None
-        stream_thinking_container = None
-        thought_expander = None
+
         for chunk in response_stream:
             print("Chunk type of: ", type(chunk))
             pprint.pprint(chunk)
@@ -456,8 +468,6 @@ with chat_col:
                     # if response_without_thinking != None:
                     #     raise Exception("[UNKNOWN STATE, multiple responses without thinking]")
                 elif isinstance(content, list):
-                    if stream_thinking_container == None:
-                        stream_thinking_container = thinking_container.empty()
                     for ai_message in content:
                         print("ai_message -->")
                         pprint.pprint(ai_message)
@@ -582,6 +592,6 @@ with chat_col:
 
         print("Popover elements: ", popover_elements)
 
-        st.session_state.messages.append({"role": "assistant", "content": sourced_response, "popover_elements": popover_elements, "thoughts": response_thinking})
+        st.session_state.messages.append({"role": "assistant", "sources": document_sources, "content": sourced_response, "popover_elements": popover_elements, "thoughts": response_thinking})
         # force a rerun to update the sources.
-        # st.rerun()
+        st.rerun()
