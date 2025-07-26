@@ -2,3 +2,7 @@
 runOnSave = true
 headless = true #makes sure to not open a new tab on start
 enableStaticServing = true #for pdf
+
+[theme]
+base="light"
+primaryColor="#0073ab"
