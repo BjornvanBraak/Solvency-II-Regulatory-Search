@@ -255,7 +255,7 @@ with chat_col:
                 continue
         
         if "thoughts" in message and message["thoughts"] != "":
-            with messages_container.chat_message("thought"):
+            with messages_container.chat_message("assistant", avatar="💭"):
                 thought_expander = st.expander("**Thoughts...**")
                 thought_expander.write(message["thoughts"])
 
@@ -265,7 +265,7 @@ with chat_col:
             st.markdown(message["content"], unsafe_allow_html=True)
 
         if "sources" in message:
-            with messages_container.chat_message("sources"): 
+            with messages_container.chat_message("assistant", avatar="🔗"): 
                 print("message sources: ")
                 pprint.pprint(message["sources"])
                 displaySources(message["sources"])
@@ -436,7 +436,7 @@ with chat_col:
         thought_expander = None
         # Display assistant response in chat message container
         if llm_option.name in supports_thought:
-            thinking_container = messages_container.chat_message("assistant")
+            thinking_container = messages_container.chat_message("assistant", avatar="💭")
             stream_thinking_container = thinking_container.empty()
             thought_expander = stream_thinking_container.expander("**Thinking...**")
         new_message_container = messages_container.chat_message("assistant")
