@@ -102,6 +102,7 @@ with sidebar_container:
 
 @st.cache_resource
 def cached_embedding_model(embedding_model_option: Embedding_Model):
+    # loop = asyncio.get_event_loop()
     return model_integrations.set_up_embedding_model(embedding_model_option)
 
 @st.cache_resource
@@ -183,8 +184,8 @@ def displayPDF(file_name):
     
       
 with chat_col:
-    st.title("💬 Regulation Search")
-    st.caption("🚀 Powererd by Triple A")
+    chat_col.title("💬 Regulation Search")
+    chat_col.caption("🚀 Powererd by Triple A")
 
 if st.session_state.pdf_to_display:
     print("pdf: ", st.session_state.pdf_to_display)
@@ -240,7 +241,7 @@ def displaySources(document_sources):
 
 
 with chat_col:
-    messages_container = st.container()
+    messages_container = chat_col.container()
     messages_container.chat_message("assistant").write("Hello I am here to help search through documents related to Solvency II")
     for message in st.session_state.messages:
         # do not print out system prompt

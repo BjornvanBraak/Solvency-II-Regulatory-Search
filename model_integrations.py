@@ -14,9 +14,12 @@ def _create_azure_embedding_model(model, endpoint, api_version, api_key):
     )
 
 def _create_gemini_embedding_model(model, api_key):
+    print("CHANGED THE GOOGLEGENERATIVEAIEMBEDDINGS SOURCE CODE TO NOT LOAD THE ASYNC CLIENT WITH MAGIC PARAMETER SET")
+    # CHANGED THE SOURCE CODE OF class.
     return GoogleGenerativeAIEmbeddings(
         model=f"models/{model}", 
-        google_api_key=api_key
+        google_api_key=api_key,
+        MAGIC_load_async_client=False
     )
 
 def _create_qwen3_embedding_model(model, api_key):
