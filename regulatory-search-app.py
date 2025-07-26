@@ -72,27 +72,28 @@ st.markdown("""
 
 
 
-sidebar_container, content_container = st.columns([0.2, 0.8])
+sidebar_container, content_container = st.columns([1, 4])
 
 # set up user configuration options
 with sidebar_container:
+    # buggy UI if you do st.header()
     # st.title("Config")
-    st.header("User Config")
+    sidebar_container.header("User Config")
     # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
-    embedding_model_option = st.selectbox(
+    embedding_model_option = sidebar_container.selectbox(
         "Which embedding model to choose",
         (Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
         format_func=lambda x: x.value["display_name"]
     )
-    llm_option = st.selectbox(
+    llm_option = sidebar_container.selectbox(
     "Which LLM to choose",
     (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
     format_func=lambda x: x.value["model"]
     )
-    k = st.slider("Pieces of text retrieved", 0, 10, 5)
+    k = sidebar_container.slider("Pieces of text retrieved", 0, 10, 5)
 
-    st.header("Debugger")
-    debug_mode = st.toggle(
+    sidebar_container.header("Debugger")
+    debug_mode = sidebar_container.toggle(
         "Debug Mode",
         False
     )
