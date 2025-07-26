@@ -7,8 +7,10 @@ import random
 import re
 import random
 import asyncio
+import uuid
 
 from langchain_core.prompts.chat import ChatPromptTemplate
+from langchain_core.messages.ai import AIMessageChunk
 import time
 
 print(f"Loading environment, libraries, and resources...")
@@ -206,8 +208,7 @@ def displaySources(document_sources):
             added_sources.append(document_source["link"])
             deduplicated_document_sources.append(document_source)
     
-    
-    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query"]}".replace(" ", "-")
+    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query_id"]}".replace(" ", "-")
     
     st.markdown(
         f"""
@@ -230,7 +231,7 @@ def displaySources(document_sources):
 
                 print(f"Document link: {document_source["link"]}")
                 st.button(
-                    key=f"{document_source["query"]}---{document_source["link"]}",
+                    key=f"{document_source["query_id"]}---{document_source["link"]}",
                     label=f"{document_source["title"]}", 
                     on_click= set_pdf_to_display, 
                     args=args,
@@ -251,9 +252,9 @@ with chat_col:
                 with messages_container: 
                     displaySources(message["sources"])
 
-            if "style" in message:
-                messages_container.html(message["style"])
-            messages_container.markdown(message["content"], unsafe_allow_html=True)
+            if "popover_elements" in message:
+                messages_container.markdown(message["popover_elements"], unsafe_allow_html=True)
+            st.markdown(message["content"], unsafe_allow_html=True)
 
     if query := st.chat_input(key="chat-input-container-key"):
         model_name = llm.__dict__.get("model_name") or llm.__dict__.get("model").split("models/")[1] #model name stored somewhere different depending on Azure or Google integration of Langchain
@@ -272,6 +273,7 @@ with chat_col:
         
         chunks_concatenated = ""
         document_sources = []
+        query_id = str(uuid.uuid4())
         if embedding_model_option.value["data-ingestion-pipeline"] == "v1":
             for idx, document in enumerate(matched_documents):
                 source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
@@ -310,13 +312,16 @@ with chat_col:
                 # example: chunk.metadata["source"] == data\raw\solvency-II-files\solvency II - level 2.pdf
                 print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
 
+
+
                 # document_source is the UI data format, used to both display pdf sources, and page_content on click
                 document_source = {
                         "source_index": source_index,
                         "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
                         "title": title,
                         "page_content": chunk.page_content,
-                        "query": query
+                        "query": query,
+                        "query_id": query_id
                     }
 
                 document_sources.append(document_source)
@@ -401,24 +406,10 @@ with chat_col:
             ]
             with open("prompt.json", "w", encoding="utf-8") as f:
                 json.dump(messages_as_dict, f, indent=4, ensure_ascii=False)
-
-
-        # from langchain_google_genai import ChatGoogleGenerativeAI
-
-    #     template = ChatPromptTemplate.from_messages(
-    #         [("system", "You are Cat Agent 007"), ("human", "What is the best cat?")]
-    #     )
-    #     response_stream = ChatGoogleGenerativeAI(
-    #     model="models/gemini-2.5-pro", 
-    #     # api_key=os.environ["GOOGLE_API_KEY"], 
-    #     # temperature=temperature,
-    #     include_thoughts=True
-    # ).stream(template.format_messages())
         
         
         response_stream = llm.stream(formatted_message)
 
-        
         print(f"Response stream ended with entire response: {response_stream}")
         
         last_human_prompt = formatted_message[-1].content
@@ -428,14 +419,46 @@ with chat_col:
 
 
         # Display assistant response in chat message container
-        with messages_container.chat_message("assistant"):
-            # with st.spinner("Thinking..."):
-                response = st.write_stream(response_stream)
-                print(f"Response with entire response: {response}")
-                # response = "Empty RESPONSE"
-                # for chunk in response_stream:
-                #     print("Chunk type of: ", type(chunk))
-                #     st.write(chunk)
+        thinking_container = messages_container.chat_message("assistant")
+        new_message_container = messages_container.chat_message("assistant")
+        # with st.spinner("Thinking..."):
+        response_without_thinking = ""
+        # response = st.write_stream(response_stream)
+        # print(f"Response with entire response: {response}")
+        # response = "Empty RESPONSE"
+        stream_container = None
+        stream_thinking_container = None
+        for chunk in response_stream:
+            print("Chunk type of: ", type(chunk))
+            pprint.pprint(chunk)
+            if isinstance(chunk, str):
+                raise Exception("[Not Implemented, unsure if psossible to have multiple response_without_thinking]")
+                new_message_container.write(chunk)
+            elif isinstance(chunk, AIMessageChunk):
+                content = chunk.content
+                if isinstance(content, str):
+                    if stream_container == None:
+                        stream_container = new_message_container.empty()
+                    response_without_thinking += content
+                    stream_container.markdown(response_without_thinking)
+                    # if response_without_thinking != None:
+                    #     raise Exception("[UNKNOWN STATE, multiple responses without thinking]")
+                elif isinstance(content, list):
+                    if stream_thinking_container == None:
+                        stream_thinking_container = thinking_container.empty()
+                    for ai_message in content:
+                        print("ai_message -->")
+                        pprint.pprint(ai_message)
+                        if ai_message["type"] == "thinking":
+                            stream_thinking_container.info(ai_message["thinking"])
+                        else:
+                            raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
+                else:
+                    raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")
+                    
+            else:
+                raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
+
 
 
         def convert_sources_to_interactive(text, document_sources):
@@ -458,12 +481,12 @@ with chat_col:
                 return {"page_content": "not_found"}
                 # raise Exception("Could not find the page, something wrong with implementation")
 
-            global styling_popover_elements
-            styling_popover_elements = ""
+            global popover_elements
+            popover_elements = ""
             
             # add them as raw string as argument to popoverSource here (do not want to manage additional information)
             def replacer(match):
-                global styling_popover_elements
+                global popover_elements
                 # source_text = match.group(1)  # "Source 3"
                 source_num = match.group(2)   # "3"
                 print("source_num: ", source_num)
@@ -473,70 +496,70 @@ with chat_col:
                 page_content = document_source["page_content"]
 
                 rand = random.randint(0, 10000)
-                fake_query_id = "test" #Failing on styling, it is opening though?, may be special characters interpreted differently by css and html: document_source["query"][:20].replace(" ", "-")
+                query_id = document_source["query_id"]
 
-                styling_popover_elements += f"""
+                page_content = page_content.replace("\n", " ") # need to do as otherwise the page_content gets interpretted as seperate elements
+
+                popover_elements += f"""
                 <style>
-                [popovertarget="pop-{fake_query_id}-{rand}-{source_num}"]{{
-                    anchor-name: --pop-{fake_query_id}-{rand}-{source_num};
+                [popovertarget="pop-{query_id}-{rand}-{source_num}"]{{
+                    anchor-name: --pop-{query_id}-{rand}-{source_num};
                 }}
 
-                #pop-{fake_query_id}-{rand}-{source_num} {{
-                    top: anchor(--pop-{fake_query_id}-{rand}-{source_num} bottom);
-                    left: anchor(--pop-{fake_query_id}-{rand}-{source_num} center);
+                #pop-{query_id}-{rand}-{source_num} {{
+                    top: anchor(--pop-{query_id}-{rand}-{source_num} bottom);
+                    left: anchor(--pop-{query_id}-{rand}-{source_num} center);
                     margin: 0;
                 }}
-                </style>                    
+                </style>  
+                <div popover id="pop-{query_id}-{rand}-{source_num}">
+                    <p>{page_content}</p>
+                </div>                  
                 """
-
                 print("Page_content: ")
                 print(type(page_content))
                 pprint.pprint(page_content)
 
-                page_content = page_content.replace("\n", " ") # need to do as otherwise the page_content gets interpretted as seperate elements
                 # and then they for some reason are not included in the popover.
                 # hack for now.
 
-                popover_element = f"""<div popover id="pop-{fake_query_id}-{rand}-{source_num}">
-                    <p>{page_content}</p>
-                </div><button popovertarget="pop-{fake_query_id}-{rand}-{source_num}">Link {source_num}</button>"""
+                popover_element = f"""<span><button popovertarget="pop-{query_id}-{rand}-{source_num}">Link {source_num}</button></span>"""
 
                 # return f'<button class="popover" onclick="popoverSource({source_num})" onmouseover="popoverSource({source_num})">{source_text}</button>'
                 return popover_element
 
             pattern = r"(Source|Bron)\s(\d+)"
-            return re.sub(pattern, replacer, text), styling_popover_elements
+            return re.sub(pattern, replacer, text), popover_elements
         
         # test out because of reasoning included
         # need to better integrate, what if a model is non-thinking?
         # Ductch version of Bron not working
 
-        response_without_thinking = None
+        # response_without_thinking = None
 
 
         
-        # if response
-        if isinstance(response, list):
-            for item in response:
-                if isinstance(item, str):
-                    print("item here: ", item)
-                    if response_without_thinking != None:
-                        raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
-                    response_without_thinking = item
-                elif item[0]["type"] != "thinking":
-                    if response_without_thinking != None:
-                        raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
-                    response_without_thinking = item
-        elif isinstance(response, str): 
-            response_without_thinking = response
+        # # if response
+        # if isinstance(response, list):
+        #     for item in response:
+        #         if isinstance(item, str):
+        #             print("item here: ", item)
+        #             if response_without_thinking != None:
+        #                 raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
+        #             response_without_thinking = item
+        #         elif item[0]["type"] != "thinking":
+        #             if response_without_thinking != None:
+        #                 raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
+        #             response_without_thinking = item
+        # elif isinstance(response, str): 
+        #     response_without_thinking = response
                     
         print(f"Response without thinking: {response_without_thinking}")
-        sourced_response, styling_popover_element = convert_sources_to_interactive(response_without_thinking, document_sources)
+        sourced_response, popover_elements = convert_sources_to_interactive(response_without_thinking, document_sources)
         # st.markdown(sourced_response, unsafe_allow_html=True)
 
-        print("Styling Popover: ", styling_popover_element)
+        print("Popover elements: ", popover_elements)
 
-        st.session_state.messages.append({"role": "assistant", "content": sourced_response, "style": styling_popover_element})
+        st.session_state.messages.append({"role": "assistant", "content": sourced_response, "popover_elements": popover_elements})
         # force a rerun to update the sources.
-
         # st.rerun()
