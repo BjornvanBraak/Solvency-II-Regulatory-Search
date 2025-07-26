@@ -84,7 +84,7 @@ with sidebar_container:
     # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
     embedding_model_option = sidebar_container.selectbox(
         "Which embedding model to choose",
-        (Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
+        (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
         format_func=lambda x: x.value["display_name"]
     )
     llm_option = sidebar_container.selectbox(
@@ -249,10 +249,13 @@ with chat_col:
                 continue
         
         with messages_container.chat_message(message["role"]):
+            if "thoughts" in message:
+                with messages_container:
+                    thought_expander = messages_container.expander("**Thoughts...**")
+                    thought_expander.write(message["thoughts"])
             if "sources" in message:
                 with messages_container: 
                     displaySources(message["sources"])
-
             if "popover_elements" in message:
                 messages_container.markdown(message["popover_elements"], unsafe_allow_html=True)
             st.markdown(message["content"], unsafe_allow_html=True)
@@ -424,11 +427,14 @@ with chat_col:
         new_message_container = messages_container.chat_message("assistant")
         # with st.spinner("Thinking..."):
         response_without_thinking = ""
+        response_thinking = ""
+        last_thought_topic = ""
         # response = st.write_stream(response_stream)
         # print(f"Response with entire response: {response}")
         # response = "Empty RESPONSE"
         stream_container = None
         stream_thinking_container = None
+        thought_expander = None
         for chunk in response_stream:
             print("Chunk type of: ", type(chunk))
             pprint.pprint(chunk)
@@ -438,6 +444,11 @@ with chat_col:
             elif isinstance(chunk, AIMessageChunk):
                 content = chunk.content
                 if isinstance(content, str):
+                    if thought_expander != None:
+                        # expand thought container --> final version of thoughts
+                        thought_expander = stream_thinking_container.expander("**Thoughts...**")
+                        thought_expander.write(response_thinking)
+                        
                     if stream_container == None:
                         stream_container = new_message_container.empty()
                     response_without_thinking += content
@@ -451,7 +462,18 @@ with chat_col:
                         print("ai_message -->")
                         pprint.pprint(ai_message)
                         if ai_message["type"] == "thinking":
-                            stream_thinking_container.info(ai_message["thinking"])
+                            # extract bold part of the text
+                            thought = ai_message["thinking"]
+                            thought_topic = thought.splitlines()[0]
+                            # stream_thinking_container.info(thought_topic)
+                            thought_expander = stream_thinking_container.expander(thought_topic)
+                            print("Thought:")
+                            pprint.pprint(thought)
+                            response_thinking += thought
+                            thought_expander.write(response_thinking)
+                            print("Response thinking: ")
+                            pprint.pprint(response_thinking)
+                            last_thought_topic = thought_topic
                         else:
                             raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
                 else:
@@ -459,7 +481,6 @@ with chat_col:
                     
             else:
                 raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
-
 
 
         def convert_sources_to_interactive(text, document_sources):
@@ -561,6 +582,6 @@ with chat_col:
 
         print("Popover elements: ", popover_elements)
 
-        st.session_state.messages.append({"role": "assistant", "content": sourced_response, "popover_elements": popover_elements})
+        st.session_state.messages.append({"role": "assistant", "content": sourced_response, "popover_elements": popover_elements, "thoughts": response_thinking})
         # force a rerun to update the sources.
         # st.rerun()
