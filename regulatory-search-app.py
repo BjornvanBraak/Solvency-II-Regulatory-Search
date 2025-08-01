@@ -94,7 +94,7 @@ llm_option = sidebar.selectbox(
 (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
 format_func=lambda x: x.value["model"]
 )
-k = sidebar.slider("Pieces of text retrieved", 0, 10, 5)
+k = sidebar.slider("Pieces of text retrieved", 0, 10, 10)
 
 sidebar.header("Debugger")
 debug_mode = sidebar.toggle(
@@ -189,6 +189,7 @@ def displayPDF(file_name):
 with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powererd by Triple A")
+    chat_col.markdown("$\\textbf{equation}= t * 2$")
 
 if st.session_state.pdf_to_display:
     print("pdf: ", st.session_state.pdf_to_display)
@@ -361,23 +362,6 @@ with chat_col:
         # citation_instructions = """
         # Please answer the following question using only the information provided in the numbered sources below. When you reference information from a source, cite the corresponding source number(s) in brackets (e.g., [1]). Every answer must include at least one citation, but you should only cite a source if you are explicitly referencing it. If none of the sources are relevant or helpful, clearly state that in your response.
 
-        # Example
-        # Source 1:
-        # The sky is red in the evening and blue in the morning.
-        # Source 2:
-        # Water is wet when the sky is red.
-        # Query: When is water wet?
-        # Answer: Water will be wet when the sky is red [2], which occurs in the evening [1].
-
-        # Now it's your turn. Below are several numbered sources of information:
-
-        # "\n------\n"
-        # "{context_str}"
-        # "\n------\n"
-        # "Query: {query_str}\n"
-        # "Answer: "
-        # """
-
         prompt = f"""
         ## Question
         \n\n {query} \n\n
@@ -451,7 +435,7 @@ with chat_col:
             print("Chunk type of: ", type(chunk))
             pprint.pprint(chunk)
             if isinstance(chunk, str):
-                raise Exception("[Not Implemented, unsure if psossible to have multiple response_without_thinking]")
+                raise Exception("[Not Implemented, unsure if possible State to have multiple response_without_thinking]")
                 new_message_container.write(chunk)
             elif isinstance(chunk, AIMessageChunk):
                 content = chunk.content
@@ -487,18 +471,17 @@ with chat_col:
                         else:
                             raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
                 else:
-                    raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")
-                    
+                    raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")                
             else:
                 raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
 
 
         def convert_sources_to_interactive(text, document_sources):
             def findPage(document_sources, source_num):
-                debug_last_index = -1
+                # debug_last_index = -1
                 for document_source in document_sources:
-                    debug_last_index = document_source["source_index"]
-                    print(f"Debug index: {debug_last_index}")
+                    # debug_last_index = document_source["source_index"]
+                    # print(f"Debug index: {debug_last_index}")
                     if document_source["source_index"] == int(source_num):
                         return document_source
                 
