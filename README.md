@@ -56,6 +56,12 @@ improved formatting, added debugging and allowed user to change number of retrie
 - improved markdown formatting
 ### 2.2
 - removed logo images from formatting (in an attempt to make multipage tables better, did not fully succeed)
+
+### 3.0 - Verifiability
+- added sources links within answer
+- added list of sources with pdf links
+- added reasoning summary
+
 #### Notes on demo
 Description: The demo was with the company to showcase the potential
 Set-up: gemini-2.5-pro-preview-03-25
