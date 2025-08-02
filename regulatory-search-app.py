@@ -659,8 +659,8 @@ with chat_col:
                     # st-cf st-cg st-ch
                     streamlit_popover_styling_classes = "st-bb st-es st-et st-eu st-ev st-ew st-ex st-fh st-b5 st-fi st-f0 st-f1 st-f2 st-f3 st-f4 st-f5 st-f6 st-f7 st-av st-aw st-ax st-ay st-f8 st-f9 st-fa st-fb st-az st-b0 st-b1 st-b2 st-fc st-fd st-fe st-ff"
                     # streamlit_popover_styling_classes = ""
-                    
-                    # need to convert markdown without triggerint streamlit render, under the hood streamlit uses markdown-it-py
+
+                    # need to convert markdown without triggering streamlit render, under the hood streamlit uses markdown-it-py
                     html_page_content = md.render(page_content_with_button)
                     popover_elements += f"""
                     <style>
