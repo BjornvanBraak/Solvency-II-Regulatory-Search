@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./custom-streamlit-components/open_pdf_button"
+    ]
+}

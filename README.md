@@ -57,11 +57,6 @@ improved formatting, added debugging and allowed user to change number of retrie
 ### 2.2
 - removed logo images from formatting (in an attempt to make multipage tables better, did not fully succeed)
 
-### 3.0 - Verifiability
-- added sources links within answer
-- added list of sources with pdf links
-- added reasoning summary
-
 #### Notes on demo
 Description: The demo was with the company to showcase the potential
 Set-up: gemini-2.5-pro-preview-03-25
@@ -122,24 +117,14 @@ Future research
 
 
 
-### 2.3 (under development)
-- (Conjecture 1.) added embedding model: gemini-embedding-exp-03-07 and text-embedding-3-large
-- Conjecture 1. add:
-google's
-text-embedding-large-exp-03-07
-text-embedding-005
-text-multilingual-embedding-002
-https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions#legacy-stable
+### 2.3
+- Added larger and modern embedding models based on https://huggingface.co/spaces/mteb/leaderboard: gemini-embedding-exp-03-07, text-embedding-3-large, and Qwen3-Embedding-8B
 
-https://huggingface.co/spaces/mteb/leaderboard
-- (Conjecture 2.) ParentRetriever
-    - Reason CAG does on gemini 2.5 pro preview provides correct answers were convert pdf to markdown --> text-embedding-3-small (2023-05-15) --> gemini 2.5 pro preview
-- (Conjecture 2.) Semantic chunking.
-
-Delayed 
-- trying docling 
-    - (research behind it)
-
+## 3.0 - Verifiability & UI
+- added sources links within answer
+- added list of sources with pdf links
+- added reasoning summary
+- Improved system prompt for factuality (say you do not know) && output latex for formula's
 
 ## suggestions for future versions
 
@@ -148,6 +133,11 @@ Delayed
 * Add test cases to measure quality. Think about ways to measure performance
 * Custom finetuned embedding model (using SentenceTransformer v4)
 * Idea alternative flow: where the user can select which parts to use
+* (Conjecture 2.) ParentRetriever
+    * Reason CAG does on gemini 2.5 pro preview provides correct answers were convert pdf to markdown --> text-embedding-3-small (2023-05-15) --> gemini 2.5 pro preview
+* (Conjecture 2.) Semantic chunking.
+* trying docling 
+    * (research behind it)
 
 ### retriever + storage
 #### data preprocessing

@@ -1,4 +1,8 @@
 import streamlit as st
+from markdown_it import MarkdownIt
+# from markdown_it_py import MarkdownIt #internally streamlit uses this as well, potential dependency conflict, be aware.
+md = MarkdownIt()
+
 from dotenv import load_dotenv
 import pprint
 import json
@@ -12,6 +16,9 @@ import uuid
 from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_core.messages.ai import AIMessageChunk
 import time
+import streamlit.components.v1 as components
+
+from open_pdf_button import my_component
 
 print(f"Loading environment, libraries, and resources...")
 
@@ -23,6 +30,8 @@ load_dotenv()
 import model_integrations
 from model_config import Embedding_Model, Language_Model
 
+#on container with messages flex-direction: row; gap: 0; flex-wrap: wrap; align-items: center;
+# + on children width: auto;
 
 # known bug with specific encoding of :
 # 'Joint ESA Gls MiCAR %28JC 2024 28%29_EN'
@@ -44,6 +53,8 @@ st.markdown("""
     <style>
         .stMainBlockContainer {
             padding-bottom: 2rem;
+            padding-right: 0.5rem;
+            padding-left: 0.5rem;
         }
     </style>
     <style>
@@ -70,6 +81,14 @@ st.markdown("""
                 border-radius: 0.5rem;
             }
     </style>
+    <style>
+            button[popovertarget] {
+                color: #0000EE;
+                background-color: transparent;
+                border: none;
+                text-decoration: underline dotted;
+            }
+    </style>
 """, unsafe_allow_html=True)
 
 
@@ -91,7 +110,7 @@ embedding_model_option = sidebar.selectbox(
 )
 llm_option = sidebar.selectbox(
 "Which LLM to choose",
-(Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_4O_MINI , Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
+(Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
 format_func=lambda x: x.value["model"]
 )
 k = sidebar.slider("Pieces of text retrieved", 0, 10, 10)
@@ -141,6 +160,10 @@ def load_prompt(file_path: str) -> str:
 generation_instructions = load_prompt("prompt/solvency_II_instructions.md")
 system_instructions_dict = {"role": "system", "content": generation_instructions}
 
+# iniliaze session state variables
+if "document_link_through_link" not in st.session_state:
+    st.session_state["document_link_through_link"] = None
+
 if 'pdf_to_display' not in st.session_state:
     st.session_state.pdf_to_display = None
 
@@ -149,8 +172,13 @@ if "messages" not in st.session_state:
     system_instructions_dict,
 ]
     
-chat_col, pdf_col = st.columns([1, 1])
+# if 'expanded_thoughts' not in st.session_state:
+#     st.session_state.expanded_thoughts = False
 
+# DISPLAY PDFS
+def set_pdf_to_display(pdf_link):
+    # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
+    st.session_state.pdf_to_display = pdf_link
 
 def displayPDF(file_name):
     APP_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -179,73 +207,157 @@ def displayPDF(file_name):
     
     # Displaying File
     # Managing st state here, not the best practice I think.
-    with pdf_col:
-        with st.container(key="pdf-display-container"):
-            st.button(key="close-button", label="close", on_click=lambda: setattr(st.session_state, 'pdf_to_display', None), icon="❌")
-            st.markdown(pdf_display, unsafe_allow_html=True)
+    with st.container(key="pdf-display-container"):
+        st.button(key="close-button", label="close", on_click=set_pdf_to_display, args=(None,), icon="❌")
+        st.markdown(pdf_display, unsafe_allow_html=True)
 
+# SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
+with sidebar:
+    document_link_through_link = my_component("Debugger for messenger", "messenger")
+prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
+
+if document_link_through_link != prev_document_link_through_link:
+    print(f"Changed Document Link: {document_link_through_link}")
+    # update pdf to display if change is detected
+    st.session_state.pdf_to_display = document_link_through_link
+    # update session state 
+    st.session_state["document_link_through_link"] = document_link_through_link
+
+print(f"Loaded document link link: {document_link_through_link}")
+
+# DISPLAY SOURCES FUNCTION
+def displaySources(document_sources):
+    added_sources = []
+    deduplicated_document_sources = []
+    for document_source in document_sources:
+        if document_source["link"] not in added_sources:
+            # check if title is not set in metadata
+            # print(f"Title: used {title}")
+            
+            added_sources.append(document_source["link"])
+            deduplicated_document_sources.append(document_source)
     
-      
+    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query_id"]}".replace(" ", "-")
+    
+    st.markdown(
+        f"""
+        <style>
+            .st-key-{container_key} {{
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+                gap: 1rem;
+            }}
+        </style>
+        """, unsafe_allow_html=True
+    )
+    
+    with st.container(border=True):
+        with st.container(key=container_key):
+            for document_source in deduplicated_document_sources:
+                document_link = document_source["link"]
+
+                TITLE_LENGTH_LIMIT = 50
+
+                truncated_title = document_source["title"] if len(document_source["title"]) <= TITLE_LENGTH_LIMIT else document_source["title"][:TITLE_LENGTH_LIMIT] + "..."
+
+                print(f"Document link: {document_source["link"]}")
+                st.button(
+                    key=f"{document_source["query_id"]}---{document_source["link"]}",
+                    label=f"{truncated_title}", 
+                    on_click= set_pdf_to_display, 
+                    args=(document_link, ), #args in python need to give not wrapped with function as in js
+                    icon="🔗"
+                )
+
+
+ # LAYOUT OF MAIN PAGE
+chat_col, pdf_col = st.columns([1, 1])
+
 with chat_col:
+    # st.query_params["3"]
+    # st.query_params["s"] = 2
+    # st.html("<a href='?open_pdf=cat.png' target='_self'>test</a>")
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powererd by Triple A")
-    chat_col.markdown("$\\textbf{equation}= t * 2$")
 
+    with st.popover("Source 5"):
+            st.markdown("# hi")
+            # st.button("heyyo", on_click=print_out, args=("hello world",))
+
+    # def print_out(message):
+    #     st.query_params["s"] = message + str(random.randint(0, 10000))
+
+
+    # with st.container():
+    #     html = md.render("Based on the provided sources, Solvency II is the regulatory framework for the "
+    # "insurance and reinsurance industry in the European Union. Specifically, "
+    # "Solvency II refers to Directive 2009/138/EC of the European Parliament and "
+    # "of the Council, which governs the \"taking-up and pursuit of the business of "
+    # "Insurance and Reinsurance\"")
+        
+    #     # html += md.render("* some text")
+    #     html_block = st.html(html)
+    #     # st.markdown("* some text \n* some text \n* some text", width="content")
+    #     # st.markdown("* some text", width="content")
+    #     with html_block:
+    #         with st.popover("Source 5"):
+    #             st.markdown("# hi")
+    #             st.button("heyyo", on_click=print_out, args=("hello world",))
+
+    #     with st.popover("Source 6"):
+    #         st.markdown("# hi")
+    #         st.button("heyyoooyo", on_click=print_out, args=("hello world",))
+        
+    #     st.markdown("* list item 1 \n"
+    # "* It is supplemented by other regulations, such as the Commission Delegated "
+    # "Regulation (EU) 2015/35")
+        
+        
+    #     with st.popover("Source 5"):
+    #         st.markdown("# hi")
+    #         st.button("heyyooo", on_click=print_out, args=("hello world",))
+    #         name = st.text_input("What's your name?")
+
+    #     st.markdown("* list item two", width="content")
+    # # components.html("<button onclick=\'console.log('clicked')\'>button</button>")
+    # # chat_col.markdown("$\\textbf{equation}= t * 2$")
+    
+# SET PDF TO DISPLAY
 if st.session_state.pdf_to_display:
+    # WARNING : pdf_to_display through buttons in displaySources OR by clicking on buttons in the popovers.
     print("pdf: ", st.session_state.pdf_to_display)
-    displayPDF(st.session_state.pdf_to_display)
+    with pdf_col:
+        displayPDF(st.session_state.pdf_to_display)    
 
+popover_elements_event_listener = """
+<script>
+    window.onload = (event) => {
+        console.log("Window loaded, adding event listeners to popover buttons");
+        const componentFrame = window.parent.document.querySelector('.st-key-messenger').querySelector('iframe');
+        if (!componentFrame) {
+            console.error("Component iframe not found!");
+            return;
+        }
 
-def set_pdf_to_display(pdf_link):
-    # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
-    st.session_state.pdf_to_display = pdf_link
+        const componentWindow = componentFrame.contentWindow;
+                
+        // Add event listeners to all buttons with the class 'popover'
+        const popover_elements = window.parent.document.querySelectorAll('[id^=\"pop-button\"]');
+        function handlePopoverClick(event) {
+            const button = event.currentTarget;
+            const documentLink = button.dataset.documentLink;
+            console.log(documentLink)
+            // button.style.color = "red";
+            componentWindow.postMessage({
+                type: 'POPOVER_CLICKED',
+                documentLink: documentLink
+            }, '*'); // In production, use the component's actual origin instead of '*'
 
-def displaySources(document_sources):
-                    added_sources = []
-                    
-                    deduplicated_document_sources = []
-                    for document_source in document_sources:
-                        if document_source["link"] not in added_sources:
-                            # check if title is not set in metadata
-                            # print(f"Title: used {title}")
-                            
-                            added_sources.append(document_source["link"])
-                            deduplicated_document_sources.append(document_source)
-                    
-                    container_key = f"sources-buttons-container-{deduplicated_document_sources[0]["query_id"]}".replace(" ", "-")
-                    
-                    st.markdown(
-                        f"""
-                        <style>
-                            .st-key-{container_key} {{
-                                display: grid;
-                                grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
-                                gap: 1rem;
-                            }}
-                        </style>
-                        """, unsafe_allow_html=True
-                    )
-                    
-                    with st.container(border=True):
-                        with st.container(key=container_key):
-                            for document_source in deduplicated_document_sources:
-                                document_link = document_source["link"]
-                                args = (document_link, )
-                                print("Args: ", args)
-
-                                TITLE_LENGTH_LIMIT = 50
-
-                                truncated_title = document_source["title"] if len(document_source["title"]) <= TITLE_LENGTH_LIMIT else document_source["title"][:TITLE_LENGTH_LIMIT] + "..."
-
-                                print(f"Document link: {document_source["link"]}")
-                                st.button(
-                                    key=f"{document_source["query_id"]}---{document_source["link"]}",
-                                    label=f"{truncated_title}", 
-                                    on_click= set_pdf_to_display, 
-                                    args=args,
-                                    icon="🔗"
-                                )
-
+        }
+        popover_elements.forEach(element => {element.addEventListener("click", (e) => {handlePopoverClick(e)})})
+    }
+</script>
+"""
 
 with chat_col:
     messages_container = chat_col.container()
@@ -260,9 +372,12 @@ with chat_col:
                 thought_expander = st.expander("**Thoughts...**")
                 thought_expander.write(message["thoughts"])
 
+        # message version 1, with raw html
         with messages_container.chat_message(message["role"]):
-            if "popover_elements" in message:
-                st.markdown(message["popover_elements"], unsafe_allow_html=True)
+            if "popover_elements" in message and message["popover_elements"] != "":
+                # load in event listeners for popover buttons
+                components.html(popover_elements_event_listener, height=0, width=0) 
+                st.html(message["popover_elements"])
             st.markdown(message["content"], unsafe_allow_html=True)
 
         if "sources" in message:
@@ -430,6 +545,7 @@ with chat_col:
         # response = st.write_stream(response_stream)
         # print(f"Response with entire response: {response}")
         stream_container = None
+        # expanded_thoughts = False #control thoughts expansion during streaming
 
         for chunk in response_stream:
             print("Chunk type of: ", type(chunk))
@@ -474,7 +590,8 @@ with chat_col:
                     raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")                
             else:
                 raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
-
+        
+        # st.session_state.expanded_thoughts = expanded_thoughts
 
         def convert_sources_to_interactive(text, document_sources):
             def findPage(document_sources, source_num):
@@ -482,6 +599,7 @@ with chat_col:
                 for document_source in document_sources:
                     # debug_last_index = document_source["source_index"]
                     # print(f"Debug index: {debug_last_index}")
+                    print(f"Source_num ... :{source_num}")
                     if document_source["source_index"] == int(source_num):
                         return document_source
                 
@@ -498,76 +616,88 @@ with chat_col:
 
             global popover_elements
             popover_elements = ""
-            
+
             # add them as raw string as argument to popoverSource here (do not want to manage additional information)
             def replacer(match):
                 global popover_elements
                 # source_text = match.group(1)  # "Source 3"
-                source_num = match.group(2)   # "3"
-                print("source_num: ", source_num)
+                popover_target = ""
+                source_numbers_group = match.group(2)   # "1, 2, 3, 5, 7, 9, 11, 12"
+                print("source_numbers_group ...", source_numbers_group)
+                source_numbers = [num.strip() for num in source_numbers_group.split(',')]
+                print("source_numbers ...: ", source_numbers)
 
-                document_source = findPage(document_sources, source_num)
-                
-                page_content = document_source["page_content"]
+                for source_num in source_numbers:
+                    if source_num == "":
+                        continue
+                    elif isinstance(source_num, str) and not source_num.isdigit():
+                        print(f"Source was not an int: {source_num}, type: {type(source_num)}")
+                        continue
 
-                rand = random.randint(0, 10000)
-                query_id = document_source["query_id"]
+                    document_source = findPage(document_sources, source_num)
+                    
+                    page_content = document_source["page_content"]
+                    document_link = document_source["link"]
 
-                page_content = page_content.replace("\n", " ") # need to do as otherwise the page_content gets interpretted as seperate elements
+                    rand = random.randint(0, 10000)
+                    query_id = document_source["query_id"]
 
-                popover_elements += f"""
-                <style>
-                [popovertarget="pop-{query_id}-{rand}-{source_num}"]{{
-                    anchor-name: --pop-{query_id}-{rand}-{source_num};
-                }}
+                    # page_content = page_content.replace("\n", " ") # need to do as otherwise the page_content gets interpretted as seperate elements
 
-                #pop-{query_id}-{rand}-{source_num} {{
-                    top: anchor(--pop-{query_id}-{rand}-{source_num} bottom);
-                    left: anchor(--pop-{query_id}-{rand}-{source_num} center);
-                    margin: 0;
-                }}
-                </style>  
-                <div popover id="pop-{query_id}-{rand}-{source_num}">
-                    <p>{page_content}</p>
-                </div>                  
-                """
-                print("Page_content: ")
-                print(type(page_content))
-                pprint.pprint(page_content)
+                    # <button type="button" onclick="document.querySelector('#pop-{query_id}-{rand}-{source_num}').style.color = 'red'">document_link</button>
+                    # <button onclick="console.log('clicked'); alert('clicked')">Click Me</button>
+                    # <button onclick="myFunction()">myFunction</button>
 
-                # and then they for some reason are not included in the popover.
-                # hack for now.
+                    # due to streamlit filtering out inline js when invoking container.html(), e.g. onclick listeners. The onclick listeners are attached seperately in an iframe component
+                    page_content_with_button = page_content + f"""
+                        <button id="pop-button-{query_id}-{rand}-{source_num}" data-document-link="{document_link}" style="
+    display: block; padding-top: 0.3rem;
+">View Source {document_source["source_index"]}</button>
+    """
 
-                popover_element = f"""<span><button popovertarget="pop-{query_id}-{rand}-{source_num}">Link {source_num}</button></span>"""
+                    pprint.pprint(page_content_with_button)
+                    # st-cf st-cg st-ch
+                    streamlit_popover_styling_classes = "st-bb st-es st-et st-eu st-ev st-ew st-ex st-fh st-b5 st-fi st-f0 st-f1 st-f2 st-f3 st-f4 st-f5 st-f6 st-f7 st-av st-aw st-ax st-ay st-f8 st-f9 st-fa st-fb st-az st-b0 st-b1 st-b2 st-fc st-fd st-fe st-ff"
+                    # streamlit_popover_styling_classes = ""
+                    
+                    # need to convert markdown without triggerint streamlit render, under the hood streamlit uses markdown-it-py
+                    html_page_content = md.render(page_content_with_button)
+                    popover_elements += f"""
+                    <style>
+                    [popovertarget="pop-{query_id}-{rand}-{source_num}"]{{
+                        anchor-name: --pop-{query_id}-{rand}-{source_num};
+                    }}
+
+                    #pop-{query_id}-{rand}-{source_num} {{
+                        top: anchor(--pop-{query_id}-{rand}-{source_num} bottom);
+                        left: anchor(--pop-{query_id}-{rand}-{source_num} left);
+                        transform: translateX(-50%);
+                        max-width: 40%;
+                        margin: 0;
+                        overflow-y: scroll;
+                    }}
+                    </style>             
+                    <div popover id="pop-{query_id}-{rand}-{source_num}" class="{streamlit_popover_styling_classes}">
+                        <p>{html_page_content}</p>
+                    </div>
+                    """
+
+                    print("Page_content: ")
+                    print(type(page_content))
+                    pprint.pprint(page_content)
+
+                    # and then they for some reason are not included in the popover.
+                    # hack for now.
+                    
+                    popover_target += f"""<span><button popovertarget="pop-{query_id}-{rand}-{source_num}">Source {source_num}</button></span>"""
 
                 # return f'<button class="popover" onclick="popoverSource({source_num})" onmouseover="popoverSource({source_num})">{source_text}</button>'
-                return popover_element
+                return popover_target
 
-            pattern = r"(Source|Bron)\s(\d+)"
+            pattern = r"(Source|Bron|Sources)\s((\d+,?\s?)+)"
+            
+
             return re.sub(pattern, replacer, text), popover_elements
-        
-        # test out because of reasoning included
-        # need to better integrate, what if a model is non-thinking?
-        # Ductch version of Bron not working
-
-        # response_without_thinking = None
-
-
-        
-        # # if response
-        # if isinstance(response, list):
-        #     for item in response:
-        #         if isinstance(item, str):
-        #             print("item here: ", item)
-        #             if response_without_thinking != None:
-        #                 raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
-        #             response_without_thinking = item
-        #         elif item[0]["type"] != "thinking":
-        #             if response_without_thinking != None:
-        #                 raise Exception("INVALID STATE, Only one item (the last item based on gemini 2.5 pro) should be thinking")
-        #             response_without_thinking = item
-        # elif isinstance(response, str): 
-        #     response_without_thinking = response
                     
         print(f"Response without thinking: {response_without_thinking}")
         sourced_response, popover_elements = convert_sources_to_interactive(response_without_thinking, document_sources)
@@ -577,4 +707,7 @@ with chat_col:
 
         st.session_state.messages.append({"role": "assistant", "sources": document_sources, "content": sourced_response, "popover_elements": popover_elements, "thoughts": response_thinking})
         # force a rerun to update the sources.
-        st.rerun()
+        if not debug_mode:
+            st.rerun()
+
+

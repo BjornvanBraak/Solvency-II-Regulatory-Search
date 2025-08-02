@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+open_pdf_button/__init__.py
+open_pdf_button/example.py
+open_pdf_button.egg-info/PKG-INFO
+open_pdf_button.egg-info/SOURCES.txt
+open_pdf_button.egg-info/dependency_links.txt
+open_pdf_button.egg-info/requires.txt
+open_pdf_button.egg-info/top_level.txt
