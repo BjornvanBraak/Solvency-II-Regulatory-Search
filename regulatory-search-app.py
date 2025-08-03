@@ -353,8 +353,8 @@ with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powererd by Triple A")
 
-    with st.popover("test"):
-        st.markdown("# Test")
+    # with st.popover("test"):
+    #     st.markdown("# Test")
     
 # PDF INTERFACE
 if st.session_state.pdf_to_display:
