@@ -119,6 +119,12 @@ st.markdown("""
                 text-decoration: underline dotted;
             }
     </style>
+    <style>
+            .st-key-footer-container {
+                position: absolute;
+                bottom: -1500px;
+            }
+    </style>
 """, unsafe_allow_html=True)
 
 
@@ -257,7 +263,7 @@ def displayPDF(file_name):
         secure_file_path = os.path.join(STATIC_DIR, "solvency-II-files\\guidelines-level 3-v0.1 - TRUNCATED\\Joint ESA Gls MiCAR JC 2024_EN.pdf")
 
     # print("Displaying pdf with: ", secure_file_path)
-    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}" width="700" height="550" type="application/pdf"></iframe>'
+    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}" width="600" height="550" type="application/pdf"></iframe>'
     
     # Displaying File
     with st.container(key="pdf-display-container"):
@@ -393,6 +399,8 @@ popover_elements_event_listener = """
 </script>
 """
 
+footer = st.container(key="footer-container") # dump for any container with no visual elements
+
 # CHAT INTERFACE
 with chat_col:
     messages_container = chat_col.container()
@@ -407,12 +415,17 @@ with chat_col:
                 thought_expander = st.expander("**Thoughts...**")
                 thought_expander.write(message["thoughts"])
 
+        
+        
         # message version 1, with raw html
-        with messages_container.chat_message(message["role"]):
-            if "popover_elements" in message and message["popover_elements"] != "":
+        with footer:
+            components.html(popover_elements_event_listener, height=0, width=0) 
+
+        if "popover_elements" in message and message["popover_elements"] != "":
                 # load in event listeners for popover buttons
-                components.html(popover_elements_event_listener, height=0, width=0) 
-                st.html(message["popover_elements"])
+                footer.html(message["popover_elements"])
+
+        with messages_container.chat_message(message["role"]):
             st.markdown(message["content"], unsafe_allow_html=True)
 
         if "sources" in message:
@@ -680,8 +693,17 @@ with chat_col:
                     # due to streamlit filtering out inline js when invoking container.html(), e.g. onclick listeners. The onclick listeners are attached seperately in an iframe component
                     page_content_with_button = page_content + f"""
                         <button id="pop-button-{query_id}-{rand}-{source_num}" data-document-link="{document_link}" style="
-    display: block; padding-top: 0.3rem;
-">View Source {document_source["source_index"]}</button>
+    display: block;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
+    min-height: 2.5rem;
+    margin: 0px;
+    line-height: 1.6;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+">View PDF of Source {document_source["source_index"]}</button>
     """
 
                     pprint.pprint(page_content_with_button)
@@ -698,12 +720,13 @@ with chat_col:
                     }}
 
                     #pop-{query_id}-{rand}-{source_num} {{
-                        top: anchor(--pop-{query_id}-{rand}-{source_num} bottom);
-                        left: anchor(--pop-{query_id}-{rand}-{source_num} left);
-                        transform: translateX(-50%);
+                        position-anchor: --pop-{query_id}-{rand}-{source_num};
+                        position-area: bottom;
                         max-width: 40%;
                         margin: 0;
                         overflow-y: scroll;
+                        position-try-fallbacks: flip-block, flip-inline, flip-start;
+                        position-try: flip-block, flip-inline, flip-start;
                     }}
                     </style>             
                     <div popover id="pop-{query_id}-{rand}-{source_num}" class="{streamlit_popover_styling_classes}">
