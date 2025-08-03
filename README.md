@@ -126,7 +126,7 @@ Future research
 - added reasoning summary
 - Improved system prompt for factuality (say you do not know) && output latex for formula's
 
-### 3.1 - 
+### 3.1 
 - rendering of popover with markdown
 - custom component for communicating document_link in popover from frontend to backend python
 - changed regex for varability in LLM output for source references (e.g. Bron, Sources 1, Source 1, 2, 3)

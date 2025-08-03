@@ -78,12 +78,13 @@ function MyComponent({ args, disabled, theme }: ComponentProps): ReactElement {
       if (messageData.type === 'POPOVER_CLICKED') {
         const documentLink = messageData.documentLink;
         console.log(`React component received a click event for: ${documentLink}`);
-        
-        // Update the component's state to display what was clicked
         setLastClickedLink(documentLink);
-
-        // Send the value back to your Python script
         Streamlit.setComponentValue(documentLink);
+      } else if (messageData.type === 'CLEAR_PDF') {
+        // Handle the CLEAR_PDF message
+        console.log("React component received a clear PDF event.");
+        setLastClickedLink("Nothing clicked yet.");
+        Streamlit.setComponentValue(null);
       }
     };
 
@@ -96,30 +97,7 @@ function MyComponent({ args, disabled, theme }: ComponentProps): ReactElement {
     };
   }, []); // The empty array ensures this effect runs only once
 
-  // // 2. Use the useEffect hook to safely interact with the DOM.
-  // // This code will run once after the component mounts to the screen.
-  // useEffect(() => {
-  //   // Find elements in the main Streamlit app's document
-  //   const popoverElements = window.parent.document.querySelectorAll('[id^="pop-button"]');
-  //   console.log(`Found ${popoverElements.length} elements to attach listeners to.`);
 
-  //   // Add event listeners
-  //   popoverElements.forEach(element => {
-  //     element.addEventListener("click", handlePopoverClick);
-  //   });
-
-  //   // 3. IMPORTANT: Return a cleanup function.
-  //   // This function will automatically run when the component is unmounted.
-  //   // It prevents memory leaks by removing the event listeners.
-  //   return () => {
-  //     console.log("Cleaning up event listeners.");
-  //     popoverElements.forEach(element => {
-  //       element.removeEventListener("click", handlePopoverClick);
-  //     });
-  //   };
-  // }, [handlePopoverClick]); // The effect depends on the handlePopoverClick function.
-
-  // 4. The returned JSX does not contain any <script> tags.
   return (
     <span>
       <h6>{name}</h6>

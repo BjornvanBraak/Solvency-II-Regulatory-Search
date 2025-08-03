@@ -25,3 +25,7 @@ class Language_Model(Enum):
     GEMINI_25_PRO_PREVIEW = {"model": "gemini-2.5-pro-preview-03-25", "api_key": os.environ["GOOGLE_API_KEY"], "temperature": 0.2}
     GEMINI_25_PRO = {"model": "gemini-2.5-pro", "api_key": os.environ["GOOGLE_API_KEY"], "temperature": 0.2}
     GROK_4 = {"model": "grok-4", "api_key": os.environ["XAI_API_KEY"], "temperature": 0.2}
+
+class Reranker_Model(Enum):
+    QWEN_3_RERANKER = {"model": "Qwen3-Reranker-8B", "api_key": os.environ["DEEPINFRA_API_KEY"]}
+    COHERE_35_RERANKER = {"model": "rerank-v3.5", "api_key": os.environ["COHERE_API_KEY"]}

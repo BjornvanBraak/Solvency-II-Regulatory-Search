@@ -3,7 +3,9 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain_xai import ChatXAI
 from langchain_chroma import Chroma
 from langchain_community.embeddings import DeepInfraEmbeddings
-from model_config import Embedding_Model, Language_Model
+from model_config import Embedding_Model, Language_Model, Reranker_Model
+from Qwen3Reranker import Qwen3Reranker
+from langchain_cohere import CohereRerank
 
 def _create_azure_embedding_model(model, endpoint, api_version, api_key):
     return AzureOpenAIEmbeddings(
@@ -24,6 +26,16 @@ def _create_gemini_embedding_model(model, api_key):
 
 def _create_qwen3_embedding_model(model, api_key):
     return DeepInfraEmbeddings(model_id=model, deepinfra_api_token=api_key)
+
+def _create_qwen3_reranker_model(model, api_key, top_n):
+    return Qwen3Reranker(model=model, api_key=api_key, top_n=top_n)
+
+def _create_cohere_reranker_model(model, api_key, top_n):
+    return CohereRerank(
+        model=model,
+        cohere_api_key=api_key,
+        top_n=top_n
+    )
 
 def _create_azure_llm(model, endpoint, api_version, api_key, temperature):
     # based on https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview#list---assistants
@@ -112,6 +124,25 @@ def set_up_embedding_model(model_option: Embedding_Model):
     else:
         raise Exception("Unknown model")
     return embedding_model
+
+
+def set_up_reranker_model(model_option: Reranker_Model, top_n: int = 3):
+    reranker_model = None
+    if model_option.name.startswith("QWEN"):
+        reranker_model = _create_qwen3_reranker_model(
+            model=model_option.value["model"], 
+            api_key=model_option.value["api_key"],
+            top_n=top_n
+        )
+    elif model_option.name.startswith("COHERE"):
+        reranker_model = _create_cohere_reranker_model(
+            model=model_option.value["model"], 
+            api_key=model_option.value["api_key"],
+            top_n=top_n
+        )
+    else:
+        raise Exception("Unknown model")
+    return reranker_model
 
 def load_vectorstore(model_option: Embedding_Model):
     # load the vectorstore

@@ -10,11 +10,11 @@ import os
 import random
 import re
 import random
-import asyncio
 import uuid
 
 from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_core.messages.ai import AIMessageChunk
+from langchain.retrievers.contextual_compression import ContextualCompressionRetriever
 import time
 import streamlit.components.v1 as components
 
@@ -27,7 +27,7 @@ load_start_time = time.time()
 load_dotenv()
 
 import model_integrations
-from model_config import Embedding_Model, Language_Model
+from model_config import Embedding_Model, Language_Model, Reranker_Model
 
 # known bug with specific encoding of :
 # 'Joint ESA Gls MiCAR %28JC 2024 28%29_EN'
@@ -75,6 +75,40 @@ st.markdown("""
             [popover]{
                 padding: .5rem 1rem;
                 border-radius: 0.5rem;
+                transition-duration: 0.1s;
+                <!-- Copied from streamlit popover -->
+                border-bottom-color: rgba(49, 51, 63, 0.2);
+                border-top-color: rgba(49, 51, 63, 0.2);
+                border-right-color: rgba(49, 51, 63, 0.2);
+                border-left-color: rgba(49, 51, 63, 0.2);
+                padding-top: calc(-1px + 1.5rem);
+                padding-bottom: calc(-1px + 1.5rem);
+                padding-left: calc(-1px + 1.5rem);
+                padding-right: calc(-1px + 1.5rem);
+                min-width: 20rem;
+                max-width: calc(736px - 2rem);
+                overflow: auto;
+                max-height: 70vh;
+                margin-bottom: 1rem;
+                margin-right: 1rem;
+                margin-top: 8px;
+                transition-property: opacity, transform;
+                box-shadow: rgba(0, 0, 0, 0.16) 0px 4px 16px;
+                border-bottom-left-radius: 0.75rem;
+                border-bottom-right-radius: 0.75rem;
+                border-top-right-radius: 0.75rem;
+                border-top-left-radius: 0.75rem;
+                opacity: 1;
+                background-color: rgb(255, 255, 255);
+                transition-timing-function: cubic-bezier(0.2, 0.8, 0.4, 1);
+                border-bottom-style: solid;
+                border-top-style: solid;
+                border-right-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1px;
+                border-top-width: 1px;
+                border-right-width: 1px;
+                border-left-width: 1px;
             }
     </style>
     <style>
@@ -99,12 +133,22 @@ embedding_model_option = sidebar.selectbox(
     (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
     format_func=lambda x: x.value["display_name"]
 )
+
+reranker_model_option = None
+if os.environ["ENABLE_RERANKER"] == "TRUE":
+    reranker_model_option = sidebar.selectbox(
+        "Which reranker model to choose",
+        (Reranker_Model.QWEN_3_RERANKER, Reranker_Model.COHERE_35_RERANKER),
+        format_func=lambda x: x.value["model"]
+    )
+
 llm_option = sidebar.selectbox(
 "Which LLM to choose",
 (Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
 format_func=lambda x: x.value["model"]
 )
-k = sidebar.slider("Pieces of text retrieved", 0, 10, 10)
+k = sidebar.slider("Pieces of text retrieved (k)", 0, 20, 10)
+top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 3 if k >= 3 else k)
 
 sidebar.header("Debugger")
 debug_mode = sidebar.toggle(
@@ -117,6 +161,14 @@ def cached_embedding_model(embedding_model_option: Embedding_Model):
     return model_integrations.set_up_embedding_model(embedding_model_option)
 
 @st.cache_resource
+def cached_reranker_model(reranker_model_option: Reranker_Model, top_n: int = 3):
+    if reranker_model_option is None:
+        return None
+    
+    # unfortunately, the top_n is not configurable through ContextualCompressionRetriever
+    return model_integrations.set_up_reranker_model(reranker_model_option, top_n=top_n)
+
+@st.cache_resource
 def cached_llm(llm_option: Language_Model):
     return model_integrations.set_up_llm(llm_option)
 
@@ -127,6 +179,7 @@ def cached_vectorstore(embedding_model_option):
 # load models and vectorstore
 # cached because streamlit reloads after each user input
 embedding_model = cached_embedding_model(embedding_model_option)
+reranker_model = cached_reranker_model(reranker_model_option, top_n)
 llm = cached_llm(llm_option)
 vectorstore = cached_vectorstore(embedding_model_option)
 
@@ -160,13 +213,27 @@ if "messages" not in st.session_state:
     system_instructions_dict,
 ]
     
+if "message_to_component" not in st.session_state:
+    st.session_state.message_to_component = None
+    
 # if 'expanded_thoughts' not in st.session_state:
 #     st.session_state.expanded_thoughts = False
 
 # DISPLAY PDFS
+def close_pdf_display():
+    # update both session state
+    # st.session_state["document_link_through_link"] = None
+    # there should be an easier way to do this, but this works
+    st.session_state.pdf_to_display = None
+    print("PDF display closed.")
+    st.session_state.message_to_component = {"type": "CLEAR_PDF"}
+
+
 def set_pdf_to_display(pdf_link):
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
+    print(f"Setting pdf to display: {pdf_link}")
     st.session_state.pdf_to_display = pdf_link
+    print(f"Set pdf to display: {st.session_state.pdf_to_display}")
 
 def displayPDF(file_name):
     APP_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -194,19 +261,41 @@ def displayPDF(file_name):
     
     # Displaying File
     with st.container(key="pdf-display-container"):
-        st.button(key="close-button", label="close", on_click=set_pdf_to_display, args=(None,), icon="❌")
+        st.button(key="close-button", label="close", on_click=close_pdf_display, icon="❌")
         st.markdown(pdf_display, unsafe_allow_html=True)
+
+if st.session_state.message_to_component:
+    message = st.session_state.message_to_component
+    components.html(f"""
+        <script>
+            const componentFrame = window.parent.document.querySelector('.st-key-messenger iframe');
+            if (componentFrame) {{
+                console.log('Sending message to component:', {json.dumps(message)});
+                componentFrame.contentWindow.postMessage({json.dumps(message)}, '*');
+            }} else {{
+                console.error('Could not find the component iframe to send message.');
+            }}
+        </script>
+    """, height=0, width=0)
+    # Important: Clear the message after sending it to prevent resending on subsequent reruns
+    st.session_state.message_to_component = None
 
 # SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
 with sidebar:
     document_link_through_link = my_component("Debugger for messenger", "messenger")
-prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
+    prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
 
+print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
 if document_link_through_link != prev_document_link_through_link:
-    print(f"Changed Document Link: {document_link_through_link}")
+    print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
+    print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
     # update pdf to display if change is detected
-    st.session_state.pdf_to_display = document_link_through_link
-    # update session state 
+    # st.session_state.pdf_to_display = document_link_through_link
+    if document_link_through_link == 0 and prev_document_link_through_link != 0:
+        print("PDF is cleared")
+        # st.session_state.document_link_through_link = None
+    else: 
+        set_pdf_to_display(document_link_through_link) 
     st.session_state["document_link_through_link"] = document_link_through_link
 
 print(f"Loaded document link link: {document_link_through_link}")
@@ -263,6 +352,9 @@ chat_col, pdf_col = st.columns([1, 1])
 with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powererd by Triple A")
+
+    with st.popover("test"):
+        st.markdown("# Test")
     
 # PDF INTERFACE
 if st.session_state.pdf_to_display:
@@ -340,20 +432,35 @@ with chat_col:
             messages_container.info(f"Running query with model: {model_name}")
         messages_container.chat_message("user").write(query)
 
-        matched_documents = vectorstore.similarity_search(query=query,k=k)
-
-        print(f"First documents of all matched documents: {matched_documents[0].__dict__}")
+        # print(f"First documents of all matched documents: {matched_documents[0].__dict__}")
         
         chunks_concatenated = ""
         document_sources = []
         query_id = str(uuid.uuid4())
         if embedding_model_option.value["data-ingestion-pipeline"] == "v1":
+            raise Exception("No longer supported, use v2 data ingestion pipeline (reason reranker).")
+        
             for idx, document in enumerate(matched_documents):
                 source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
                 #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
                 document_sources.append(source)
                 chunks_concatenated += f"###\n source {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
         elif embedding_model_option.value["data-ingestion-pipeline"] == "v2":
+            matched_documents = None
+            if reranker_model is None:
+                matched_documents = vectorstore.similarity_search(query=query,k=k)
+                # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
+            else:
+                print(f"Reranking documents with {reranker_model_option.value['model']}")
+                retriever = vectorstore.as_retriever(search_kwargs={"k": k})
+                compressor = ContextualCompressionRetriever(base_compressor=reranker_model, 
+                                            base_retriever=retriever
+                )
+
+                reranked_documents = compressor.invoke(query)
+
+                matched_documents = reranked_documents
+
             for idx, chunk in enumerate(matched_documents):
 
                 source_index = idx + 1
@@ -579,8 +686,8 @@ with chat_col:
 
                     pprint.pprint(page_content_with_button)
                     # st-cf st-cg st-ch
-                    streamlit_popover_styling_classes = "st-bb st-es st-et st-eu st-ev st-ew st-ex st-fh st-b5 st-fi st-f0 st-f1 st-f2 st-f3 st-f4 st-f5 st-f6 st-f7 st-av st-aw st-ax st-ay st-f8 st-f9 st-fa st-fb st-az st-b0 st-b1 st-b2 st-fc st-fd st-fe st-ff"
-                    # streamlit_popover_styling_classes = ""
+                    # streamlit_popover_styling_classes = "st-bb st-es st-et st-eu st-ev st-ew st-ex st-fh st-b5 st-fi st-f0 st-f1 st-f2 st-f3 st-f4 st-f5 st-f6 st-f7 st-av st-aw st-ax st-ay st-f8 st-f9 st-fa st-fb st-az st-b0 st-b1 st-b2 st-fc st-fd st-fe st-ff"
+                    streamlit_popover_styling_classes = ""
 
                     # need to convert markdown without triggering streamlit render, under the hood streamlit uses markdown-it-py
                     html_page_content = md.render(page_content_with_button)
