@@ -292,7 +292,7 @@ if document_link_through_link != prev_document_link_through_link:
     # update pdf to display if change is detected
     # st.session_state.pdf_to_display = document_link_through_link
     if document_link_through_link == 0 and prev_document_link_through_link != 0:
-        print("PDF is cleared")
+        print("PDF is cleared") # so no need to rerender
         # st.session_state.document_link_through_link = None
     else: 
         set_pdf_to_display(document_link_through_link) 

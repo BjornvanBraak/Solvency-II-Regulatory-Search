@@ -63,7 +63,7 @@ function MyComponent({ args, disabled, theme }: ComponentProps): ReactElement {
 
   useEffect(() => {
     // This function will handle messages received from the parent (Streamlit app)
-    const handleMessage = (event) => {
+    const handleMessage = (event: MessageEvent) => {
       console.log("Received message from parent:", event);
       // It's good practice to check the origin for security
       // In production, you might want to be more specific.
