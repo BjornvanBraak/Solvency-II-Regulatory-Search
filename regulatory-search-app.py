@@ -81,6 +81,7 @@ st.markdown("""
                 border-top-color: rgba(49, 51, 63, 0.2);
                 border-right-color: rgba(49, 51, 63, 0.2);
                 border-left-color: rgba(49, 51, 63, 0.2);
+                border-bottom-color: rgba(49, 51, 63, 0.2);
                 padding-top: calc(-1px + 1.5rem);
                 padding-bottom: calc(-1px + 1.5rem);
                 padding-left: calc(-1px + 1.5rem);
@@ -408,7 +409,7 @@ with chat_col:
     for message in st.session_state.messages:
         # do not print out system prompt
         if message["role"] == "system":
-                continue
+            continue
         
         if "thoughts" in message and message["thoughts"] != "":
             with messages_container.chat_message("assistant", avatar="💭"):
@@ -427,6 +428,14 @@ with chat_col:
 
         with messages_container.chat_message(message["role"]):
             st.markdown(message["content"], unsafe_allow_html=True)
+            if "relevance_scores" in message and message["relevance_scores"] != []:
+                avg = sum(message["relevance_scores"]) / len(message["relevance_scores"])
+                MAGIC_LOW = 0.2
+                MAGIC_HIGH = 0.8
+                if avg < MAGIC_LOW:
+                    st.warning(f"Average relevance score of documents is low: {avg:.2f}. Consider changing the query or using a different model.")
+                elif avg > MAGIC_HIGH:
+                    st.success(f"Average relevance score of documents is high: {avg:.2f}.")
 
         if "sources" in message:
             with messages_container.chat_message("assistant", avatar="🔗"): 
@@ -460,6 +469,7 @@ with chat_col:
                 chunks_concatenated += f"###\n source {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
         elif embedding_model_option.value["data-ingestion-pipeline"] == "v2":
             matched_documents = None
+            relevance_scores = []
             if reranker_model is None:
                 matched_documents = vectorstore.similarity_search(query=query,k=k)
                 # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
@@ -473,6 +483,10 @@ with chat_col:
                 reranked_documents = compressor.invoke(query)
 
                 matched_documents = reranked_documents
+                relevance_scores = [doc.metadata["relevance_score"] for doc in matched_documents]
+
+                print(f"Relevance scores: {relevance_scores}")
+                st.session_state.relevance_scores = relevance_scores
 
             for idx, chunk in enumerate(matched_documents):
 
@@ -545,15 +559,32 @@ with chat_col:
         # add sources to session state
         print(f"Document sources: {document_sources}")
 
-        st.session_state.messages.append({"role": "user", "content": query})
+        st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt})
         
         # change to add the context of previous parts.
-        template = ChatPromptTemplate([("system", generation_instructions) , ("user", prompt)])
 
-        formatted_message = template.format_messages()
+        chat = [("system", generation_instructions) , ]
+
+        for message in st.session_state.messages:
+            if message["role"] == "system":
+                continue
+            if message["role"] == "user":
+                chat.append(("user", message["prompt"]))
+            elif message["role"] == "assistant":
+                chat.append(("assistant", message["content_unformatted"]))
+
+        chat.append(("user", prompt))
+
+        # problem with sources overlapping, may confuses the LLM?
+        print("Chat history for LLM:")
+        pprint.pprint(chat)
+
+        chat_template = ChatPromptTemplate(chat)
+        
+        formatted_chat_message = chat_template.format_messages()
         
         print(f"PROMPT FOR LLM: \n\n")
-        pprint.pprint(formatted_message)      
+        pprint.pprint(formatted_chat_message)      
         print("\n\n END OF PROMPT OUTPUT \n")
 
         if debug_mode:
@@ -563,17 +594,18 @@ with chat_col:
                     "role": "system" if isinstance(m, SystemMessage) else "human",
                     "content": m.content
                 }
-                for m in formatted_message
+                for m in formatted_chat_message
             ]
             with open("prompt.json", "w", encoding="utf-8") as f:
                 json.dump(messages_as_dict, f, indent=4, ensure_ascii=False)
         
-        
-        response_stream = llm.stream(formatted_message)
 
-        print(f"Response stream ended with entire response: {response_stream}")
+
+        response_stream = llm.stream(formatted_chat_message)
+
+        # print(f"Response stream ended with entire response: {response_stream}")
         
-        last_human_prompt = formatted_message[-1].content
+        last_human_prompt = formatted_chat_message[-1].content
         
         if debug_mode:
             messages_container.info(last_human_prompt)
@@ -596,8 +628,8 @@ with chat_col:
         # expanded_thoughts = False #control thoughts expansion during streaming
 
         for chunk in response_stream:
-            print("Chunk type of: ", type(chunk))
-            pprint.pprint(chunk)
+            # print("Chunk type of: ", type(chunk))
+            # pprint.pprint(chunk)
             if isinstance(chunk, str):
                 raise Exception("[Not Implemented, unsure if possible State to have multiple response_without_thinking]")
                 new_message_container.write(chunk)
@@ -617,20 +649,20 @@ with chat_col:
                     #     raise Exception("[UNKNOWN STATE, multiple responses without thinking]")
                 elif isinstance(content, list):
                     for ai_message in content:
-                        print("ai_message -->")
-                        pprint.pprint(ai_message)
+                        # print("ai_message -->")
+                        # pprint.pprint(ai_message)
                         if ai_message["type"] == "thinking":
                             # extract bold part of the text
                             thought = ai_message["thinking"]
                             thought_topic = thought.splitlines()[0]
                             # stream_thinking_container.info(thought_topic)
                             thought_expander = stream_thinking_container.expander(thought_topic)
-                            print("Thought:")
-                            pprint.pprint(thought)
+                            # print("Thought:")
+                            # pprint.pprint(thought)
                             response_thinking += thought
                             thought_expander.write(response_thinking)
-                            print("Response thinking: ")
-                            pprint.pprint(response_thinking)
+                            # print("Response thinking: ")
+                            # pprint.pprint(response_thinking)
                             last_thought_topic = thought_topic
                         else:
                             raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
@@ -752,7 +784,7 @@ with chat_col:
 
         print("Popover elements: ", popover_elements)
 
-        st.session_state.messages.append({"role": "assistant", "sources": document_sources, "content": sourced_response, "popover_elements": popover_elements, "thoughts": response_thinking})
+        st.session_state.messages.append({"role": "assistant", "sources": document_sources, "content": sourced_response, "content_unformatted": response_without_thinking, "popover_elements": popover_elements, "thoughts": response_thinking, "relevance_scores": relevance_scores})
         
         # force a rerun to update the sources.
         if not debug_mode:
