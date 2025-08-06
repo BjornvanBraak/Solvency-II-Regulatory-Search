@@ -131,6 +131,43 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+# will be removed in later version, temporary support.
+def get_short_title(filename: str):
+    filename_to_short_title = {
+    "Consolidated_GLs_CBs_ET_EN.pdf": "CB Guidelines (Consolidated)",
+    "EIOPA-BoS-14-259_Final report_ORSA.pdf": "ORSA Final Report",
+    "Guidelines on basis risk.pdf": "Basis Risk Guidelines",
+    "Guidelines on Classification of Own Funds.pdf": "Own Funds Classification",
+    "Guidelines on group solvency.pdf": "Group Solvency Guidelines",
+    "Guidelines on health catastrophe risk sub-module.pdf": "Health Cat Risk Guidelines",
+    "Guidelines on look-through approach.pdf": "Look-through Approach",
+    "Guidelines on operational functioning of colleges.pdf": "Colleges Operational Guidelines",
+    "Guidelines on Own Risk Solvency Assessment .pdf": "ORSA Guidelines",
+    "Guidelines on reporting and public disclosure.pdf": "Reporting & Disclosure Guidelines",
+    "Guidelines on ring-fenced funds.pdf": "Ring-fenced Funds Guidelines",
+    "Guidelines on supervisory review process.pdf": "Supervisory Review Guidelines",
+    "Guidelines on the use of internal models.pdf": "Internal Models Guidelines",
+    "Guidelines on undertaking-specific parameters.pdf": "USP Guidelines",
+    "JC 2024-34_Guidelines on costs and losses_DORA.pdf": "DORA Costs & Losses Guidelines",
+    "Joint ESA Final Report on Art 97 Guidelines MiCAR.pdf": "MiCAR Art. 97 Final Report",
+    "Joint ESA Gls MiCAR %28JC 2024 28%29_EN.pdf": "MiCAR Joint Guidelines (JC 2024/28)",
+    "Joint Guidelines on Risk Factors.pdf": "Risk Factors Guidelines",
+    "Privacy Statement - ESAs Information System.pdf": "ESA Privacy Statement",
+    "Revised Guidelines on Contract Boundaries.pdf": "CB Guidelines (Revised)",
+    "Technical Annexes.pdf": "Technical Annexes",
+    "solvency II - level 1 - v2.pdf": "Solvency II – Level 1 Directive",
+    "solvency II - level 2.pdf": "Solvency II – Level 2 Regulation"
+    }
+    if not filename in filename_to_short_title:
+        print(f"[Warning] No short title found for {filename}")
+        return filename
+    
+    return filename_to_short_title[filename]
+    
+
+
+
+
 supports_thought = ["GEMINI_25_PRO"]
 
 sidebar = st.sidebar
@@ -337,6 +374,38 @@ def displaySources(document_sources):
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
                 gap: 1rem;
+
+                > * {{
+                        flex: 1;
+                        display: flex
+
+                        & > * {{
+                            flex: 1;
+                        }}
+                }}
+            }}
+
+            .st-key-{container_key} > * {{
+                    display: flex
+            }}
+
+            .st-key-{container_key} > * > * {{
+                    flex: 1;
+                    display: flex            
+            }}
+
+            .st-key-{container_key} > * > * > * {{
+                    flex: 1;     
+            }}
+
+            .st-key-{container_key} button > span {{
+                margin-right: 0.5rem;
+                justify-content: flex-start;
+                flex-shrink: 0;
+            }}
+
+            .st-key-{container_key} button > div {{
+                flex-grow: 1;
             }}
         </style>
         """, unsafe_allow_html=True
@@ -349,7 +418,7 @@ def displaySources(document_sources):
 
                 TITLE_LENGTH_LIMIT = 50
 
-                truncated_title = document_source["title"] if len(document_source["title"]) <= TITLE_LENGTH_LIMIT else document_source["title"][:TITLE_LENGTH_LIMIT] + "..."
+                truncated_title = document_source["short_title"] if len(document_source["short_title"]) <= TITLE_LENGTH_LIMIT else document_source["short_title"][:TITLE_LENGTH_LIMIT] + "..."
 
                 print(f"Document link: {document_source["link"]}")
                 st.button(
@@ -523,6 +592,11 @@ with chat_col:
                     title = str(chunk.metadata["source"]).split("data\\raw\\solvency-II-files\\")[-1]
                     title = title.replace("guidelines-level 3-v0.1 - TRUNCATED\\", "guidelines-level-3: ")
 
+                # short title is used for display in the UI, so it is shorter than the full title
+                if not "short_title" in chunk.metadata:
+                    short_title = get_short_title(chunk.metadata["source"].split("\\")[-1])
+                else:
+                    short_title = chunk.metadata["short_title"]
 
                 source_metadata = ""
                 source_metadata += f"* Title: {title}"
@@ -545,6 +619,7 @@ with chat_col:
                         "source_index": source_index,
                         "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
                         "title": title,
+                        "short_title": short_title,
                         "page_content": chunk.page_content,
                         "query": query,
                         "query_id": query_id
@@ -763,7 +838,7 @@ with chat_col:
     user-select: none;
     background-color: rgb(255, 255, 255);
     border: 1px solid rgba(49, 51, 63, 0.2);
-">View PDF of {document_source["title"]}</button>
+">View PDF of {document_source["short_title"]}</button>
     """
 
                     pprint.pprint(page_content_with_button)
