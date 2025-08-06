@@ -20,20 +20,27 @@ class Qwen3Reranker(BaseDocumentCompressor):
     )
     """DeepInfra API key. Must be specified directly"""
 
-    def __init__(self, model, api_key, top_n):
+    query_instruction: Optional[str] = None
+    """Instruction for instruction aware reranking."""
+
+    def __init__(self, model, api_key, top_n, query_instruction="Given a web search query, retrieve relevant passages that answer the query"):
         super().__init__()
         self.model = model
         self.api_key = api_key
         self.top_n = top_n
+        self.query_instruction = query_instruction
 
     """
     Example output: [{'index': 0, 'relevance_score': 0.86413884},
     {'index': 2, 'relevance_score': 0.15784983},
     {'index': 1, 'relevance_score': 0.01999476}]
     """
+
     def rerank(self, documents: Sequence[Union[str, Document, dict]],
         query: str,
-        top_n: Optional[int] = -1)  -> List[Dict[str, Any]]:
+        top_n: Optional[int] = -1,
+        # query_instruction: Optional[str] = None
+    )  -> List[Dict[str, Any]]:
         # max chunks size of 32,768 tokens
 
         # Define the URL
@@ -45,12 +52,10 @@ class Qwen3Reranker(BaseDocumentCompressor):
             "Content-Type": "application/json"
         }
 
-        # query = "What is the capital of United States of America?"
-        # documents = ["The capital of USA is Washington DC.", "Pototoes are a type of vegetable.", "The capital of France is Paris."]
+        # query_instruction = query_instruction if (query_instruction is None or query_instruction > 0) else self.query_instruction
+
         queries = [query] * len(documents)
-
         page_contents = []
-
         # print(f"Documents: {documents}")
         for document in documents:
             if isinstance(document, Document):
@@ -64,23 +69,24 @@ class Qwen3Reranker(BaseDocumentCompressor):
         data = {
             "queries": queries,
             "documents": page_contents,
+            "instruction": self.query_instruction
         }
 
         # Make the POST request
         response = requests.post(url, headers=headers, data=json.dumps(data))
 
-        # Print the response from the server
-        # print(response.json())
+        if response.status_code != 200:
+            raise Exception(f"Error: {response.status_code} - {response.text}")
+        
+        result = response.json()
 
+        print(f"Rerank result: {result}")
+        
+        # Ranked list of documents
         reranked_format = []
-
-        scores = response.json()['scores']
-
-
+        scores = result['scores']
         top_n = top_n if (top_n is None or top_n > 0) else self.top_n
-
         indexed_scores = list(enumerate(scores))
-
         sorted_scores = sorted(indexed_scores, key=lambda item: item[1], reverse=True)
 
         top_n_slice = sorted_scores[:top_n]

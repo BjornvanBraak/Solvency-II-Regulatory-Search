@@ -18,9 +18,11 @@ from langchain.retrievers.contextual_compression import ContextualCompressionRet
 import time
 import streamlit.components.v1 as components
 
+from openai import RateLimitError as OpenAIRateLimitError
+
 from open_pdf_button import my_component
 
-print(f"Loading environment, libraries, and resources...")
+print(f"[INFO] Loading environment, libraries, and resources...")
 
 load_start_time = time.time()
 
@@ -155,13 +157,19 @@ llm_option = sidebar.selectbox(
 format_func=lambda x: x.value["model"]
 )
 k = sidebar.slider("Pieces of text retrieved (k)", 0, 20, 10)
-top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 3 if k >= 3 else k)
+top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 5 if k >= 5 else k)
 
 sidebar.header("Debugger")
 debug_mode = sidebar.toggle(
     "Debug Mode",
     False
 )
+
+def count_tokens(text: str) -> int:
+    """The number of tokens in a text string"""
+
+    # naive approximation of the number of approximately 4 characters per token
+    return len(text) / 4
 
 @st.cache_resource
 def cached_embedding_model(embedding_model_option: Embedding_Model):
@@ -191,7 +199,7 @@ llm = cached_llm(llm_option)
 vectorstore = cached_vectorstore(embedding_model_option)
 
 load_elapsed_time = time.time() - load_start_time
-print(f"Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
+print(f"[INFO]Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
 
 print(f"""---CONFIG---
 llm {type(llm)}
@@ -232,15 +240,15 @@ def close_pdf_display():
     # st.session_state["document_link_through_link"] = None
     # there should be an easier way to do this, but this works
     st.session_state.pdf_to_display = None
-    print("PDF display closed.")
+    # print("PDF display closed.")
     st.session_state.message_to_component = {"type": "CLEAR_PDF"}
 
 
 def set_pdf_to_display(pdf_link):
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
-    print(f"Setting pdf to display: {pdf_link}")
+    # print(f"Setting pdf to display: {pdf_link}")
     st.session_state.pdf_to_display = pdf_link
-    print(f"Set pdf to display: {st.session_state.pdf_to_display}")
+    # print(f"Set pdf to display: {st.session_state.pdf_to_display}")
 
 def displayPDF(file_name):
     APP_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -249,7 +257,7 @@ def displayPDF(file_name):
 
     real_file_path = os.path.join(ALLOWED_PDF_DIR, file_name)
 
-    print(f"Real file path: {real_file_path}")
+    # print(f"Real file path: {real_file_path}")
 
     if not os.path.realpath(real_file_path).startswith(os.path.realpath(ALLOWED_PDF_DIR)):
         
@@ -257,7 +265,7 @@ def displayPDF(file_name):
     
     secure_file_path = os.path.join(STATIC_DIR, file_name)
 
-    print("FILE_NAME: ", file_name)
+    # print("FILE_NAME: ", file_name)
     if file_name == "solvency-II-files\\guidelines-level 3-v0.1 - TRUNCATED\\Joint ESA Gls MiCAR %28JC 2024 28%29_EN.pdf":
         # naming issue, so renamed in static folder as well. temporary work around.
         print(f"File replaced: {real_file_path}")
@@ -292,10 +300,10 @@ with sidebar:
     document_link_through_link = my_component("Debugger for messenger", "messenger")
     prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
 
-print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
+# print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
 if document_link_through_link != prev_document_link_through_link:
-    print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
-    print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
+    # print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
+    # print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
     # update pdf to display if change is detected
     # st.session_state.pdf_to_display = document_link_through_link
     if document_link_through_link == 0 and prev_document_link_through_link != 0:
@@ -405,7 +413,8 @@ footer = st.container(key="footer-container") # dump for any container with no v
 # CHAT INTERFACE
 with chat_col:
     messages_container = chat_col.container()
-    messages_container.chat_message("assistant").write("Hello I am here to help search through documents related to Solvency II")
+    messages_container.chat_message("assistant").write("Hello, I am here to help search through documents related to Solvency II")
+    token_count = 0
     for message in st.session_state.messages:
         # do not print out system prompt
         if message["role"] == "system":
@@ -433,15 +442,25 @@ with chat_col:
                 MAGIC_LOW = 0.2
                 MAGIC_HIGH = 0.8
                 if avg < MAGIC_LOW:
-                    st.warning(f"Average relevance score of documents is low: {avg:.2f}. Consider changing the query or using a different model.")
+                    st.warning(f"Average relevance score of documents is low (0 <= score < 0.2): {avg:.2f}. Consider changing the question and writing out abbreviations")
                 elif avg > MAGIC_HIGH:
-                    st.success(f"Average relevance score of documents is high: {avg:.2f}.")
+                    st.success(f"Average relevance score of documents is high (0.8 < score <= 1): {avg:.2f}.")
+
+            if "rate_limit_error" in message and message["rate_limit_error"] != None:
+                messages_container.error("Rate limit exceeded, please try again later.")
+                print("Rate limit exceeded, please try again later.")
 
         if "sources" in message:
             with messages_container.chat_message("assistant", avatar="🔗"): 
                 print("message sources: ")
                 pprint.pprint(message["sources"])
                 displaySources(message["sources"])
+
+        # add token count
+        if "token_count" in message:
+            token_count += message["token_count"]
+        
+    sidebar.markdown(f"Total token count: {round(token_count)}")
 
     if query := st.chat_input(key="chat-input-container-key"):
         model_name = llm.__dict__.get("model_name") or llm.__dict__.get("model").split("models/")[1] #model name stored somewhere different depending on Azure or Google integration of Langchain
@@ -559,7 +578,7 @@ with chat_col:
         # add sources to session state
         print(f"Document sources: {document_sources}")
 
-        st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt})
+        st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt, "token_count": count_tokens(prompt)})
         
         # change to add the context of previous parts.
 
@@ -576,8 +595,10 @@ with chat_col:
         chat.append(("user", prompt))
 
         # problem with sources overlapping, may confuses the LLM?
-        print("Chat history for LLM:")
-        pprint.pprint(chat)
+        # print("Chat history for LLM:")
+        # pprint.pprint(chat)
+
+        count_tokens(prompt)
 
         chat_template = ChatPromptTemplate(chat)
         
@@ -599,78 +620,85 @@ with chat_col:
             with open("prompt.json", "w", encoding="utf-8") as f:
                 json.dump(messages_as_dict, f, indent=4, ensure_ascii=False)
         
+        rate_limit_error = None
+
+        try:
+            response_stream = llm.stream(formatted_chat_message)
+
+            # print(f"Response stream ended with entire response: {response_stream}")
+            
+            last_human_prompt = formatted_chat_message[-1].content
+            
+            if debug_mode:
+                messages_container.info(last_human_prompt)
 
 
-        response_stream = llm.stream(formatted_chat_message)
+            stream_thinking_container = None
+            thought_expander = None
+            # Display assistant response in chat message container
+            if llm_option.name in supports_thought:
+                thinking_container = messages_container.chat_message("assistant", avatar="💭")
+                stream_thinking_container = thinking_container.empty()
+                thought_expander = stream_thinking_container.expander("**Thinking...**")
+            new_message_container = messages_container.chat_message("assistant")
+            response_without_thinking = ""
+            response_thinking = ""
+            last_thought_topic = ""
+            # response = st.write_stream(response_stream)
+            # print(f"Response with entire response: {response}")
+            stream_container = None
+            # expanded_thoughts = False #control thoughts expansion during streaming
 
-        # print(f"Response stream ended with entire response: {response_stream}")
-        
-        last_human_prompt = formatted_chat_message[-1].content
-        
-        if debug_mode:
-            messages_container.info(last_human_prompt)
-
-
-        stream_thinking_container = None
-        thought_expander = None
-        # Display assistant response in chat message container
-        if llm_option.name in supports_thought:
-            thinking_container = messages_container.chat_message("assistant", avatar="💭")
-            stream_thinking_container = thinking_container.empty()
-            thought_expander = stream_thinking_container.expander("**Thinking...**")
-        new_message_container = messages_container.chat_message("assistant")
-        response_without_thinking = ""
-        response_thinking = ""
-        last_thought_topic = ""
-        # response = st.write_stream(response_stream)
-        # print(f"Response with entire response: {response}")
-        stream_container = None
-        # expanded_thoughts = False #control thoughts expansion during streaming
-
-        for chunk in response_stream:
-            # print("Chunk type of: ", type(chunk))
-            # pprint.pprint(chunk)
-            if isinstance(chunk, str):
-                raise Exception("[Not Implemented, unsure if possible State to have multiple response_without_thinking]")
-                new_message_container.write(chunk)
-            elif isinstance(chunk, AIMessageChunk):
-                content = chunk.content
-                if isinstance(content, str):
-                    if thought_expander != None:
-                        # expand thought container --> final version of thoughts
-                        thought_expander = stream_thinking_container.expander("**Thoughts...**")
-                        thought_expander.write(response_thinking)
-                        
-                    if stream_container == None:
-                        stream_container = new_message_container.empty()
-                    response_without_thinking += content
-                    stream_container.markdown(response_without_thinking)
-                    # if response_without_thinking != None:
-                    #     raise Exception("[UNKNOWN STATE, multiple responses without thinking]")
-                elif isinstance(content, list):
-                    for ai_message in content:
-                        # print("ai_message -->")
-                        # pprint.pprint(ai_message)
-                        if ai_message["type"] == "thinking":
-                            # extract bold part of the text
-                            thought = ai_message["thinking"]
-                            thought_topic = thought.splitlines()[0]
-                            # stream_thinking_container.info(thought_topic)
-                            thought_expander = stream_thinking_container.expander(thought_topic)
-                            # print("Thought:")
-                            # pprint.pprint(thought)
-                            response_thinking += thought
+            for chunk in response_stream:
+                # print("Chunk type of: ", type(chunk))
+                # pprint.pprint(chunk)
+                if isinstance(chunk, str):
+                    raise Exception("[Not Implemented, unsure if possible State to have multiple response_without_thinking]")
+                    new_message_container.write(chunk)
+                elif isinstance(chunk, AIMessageChunk):
+                    content = chunk.content
+                    if isinstance(content, str):
+                        if thought_expander != None:
+                            # expand thought container --> final version of thoughts
+                            thought_expander = stream_thinking_container.expander("**Thoughts...**")
                             thought_expander.write(response_thinking)
-                            # print("Response thinking: ")
-                            # pprint.pprint(response_thinking)
-                            last_thought_topic = thought_topic
-                        else:
-                            raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
+                            
+                        if stream_container == None:
+                            stream_container = new_message_container.empty()
+                        response_without_thinking += content
+                        stream_container.markdown(response_without_thinking)
+                        # if response_without_thinking != None:
+                        #     raise Exception("[UNKNOWN STATE, multiple responses without thinking]")
+                    elif isinstance(content, list):
+                        for ai_message in content:
+                            # print("ai_message -->")
+                            # pprint.pprint(ai_message)
+                            if ai_message["type"] == "thinking":
+                                # extract bold part of the text
+                                thought = ai_message["thinking"]
+                                thought_topic = thought.splitlines()[0]
+                                # stream_thinking_container.info(thought_topic)
+                                thought_expander = stream_thinking_container.expander(thought_topic)
+                                # print("Thought:")
+                                # pprint.pprint(thought)
+                                response_thinking += thought
+                                thought_expander.write(response_thinking)
+                                # print("Response thinking: ")
+                                # pprint.pprint(response_thinking)
+                                last_thought_topic = thought_topic
+                            else:
+                                raise Exception("[UNKNOWN STATE] Not sure which ai_messages are listed content here.")
+                    else:
+                        raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")                
                 else:
-                    raise Exception("[UNKNOWN STATE] Not implemented AIMessageChunk content can only be a list or str.")                
-            else:
-                raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
-        
+                    raise Exception("[UNKNOWN STATE] The chunk can only be a string or a thinking chunk.")
+        except OpenAIRateLimitError as e:
+            messages_container.error("Rate limit exceeded, please try again later.")
+            rate_limit_error = e
+            print("Rate limit exceeded, please try again later.")
+            # response_without_thinking = "Rate limit exceeded, please try again later."
+            # if debug_mode:
+            #     raise e
         # st.session_state.expanded_thoughts = expanded_thoughts
 
         def convert_sources_to_interactive(text, document_sources):
@@ -735,7 +763,7 @@ with chat_col:
     user-select: none;
     background-color: rgb(255, 255, 255);
     border: 1px solid rgba(49, 51, 63, 0.2);
-">View PDF of Source {document_source["source_index"]}</button>
+">View PDF of {document_source["title"]}</button>
     """
 
                     pprint.pprint(page_content_with_button)
@@ -784,8 +812,18 @@ with chat_col:
 
         print("Popover elements: ", popover_elements)
 
-        st.session_state.messages.append({"role": "assistant", "sources": document_sources, "content": sourced_response, "content_unformatted": response_without_thinking, "popover_elements": popover_elements, "thoughts": response_thinking, "relevance_scores": relevance_scores})
-        
+        st.session_state.messages.append({
+            "role": "assistant", 
+            "sources": document_sources, 
+            "content": sourced_response, 
+            "content_unformatted": response_without_thinking, 
+            "popover_elements": popover_elements, 
+            "thoughts": response_thinking, 
+            "relevance_scores": relevance_scores,
+            "rate_limit_error": rate_limit_error,
+            "token_count": count_tokens(response_without_thinking)
+        })
+
         # force a rerun to update the sources.
         if not debug_mode:
             st.rerun()

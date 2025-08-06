@@ -16,8 +16,14 @@ def _create_azure_embedding_model(model, endpoint, api_version, api_key):
     )
 
 def _create_gemini_embedding_model(model, api_key):
-    print("CHANGED THE GOOGLEGENERATIVEAIEMBEDDINGS SOURCE CODE TO NOT LOAD THE ASYNC CLIENT WITH MAGIC PARAMETER SET")
-    # CHANGED THE SOURCE CODE OF GoogleGenerativeAIEmbeddings to not load async client if MAGIC_LOAD_async_client = False.
+    print("[INFO] CHANGED THE GOOGLEGENERATIVEAIEMBEDDINGS SOURCE CODE TO NOT LOAD THE ASYNC CLIENT WITH MAGIC_load_async_client SET")
+    # NOTE: CHANGED THE SOURCE CODE OF GoogleGenerativeAIEmbeddings to not load async client if MAGIC_load_async_client = False.
+
+    # task_type defaults are "RETRIEVAL_QUERY" for (a)embed_query and for (a)embed_document "RETRIEVAL_DOCUMENT"
+    # based on documentation this is the correct task_type for the use case
+    # further reading: 
+    # * https://ai.google.dev/gemini-api/docs/embeddings#task-types
+    # * https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings/task-types#retrieve_information_from_texts
     return GoogleGenerativeAIEmbeddings(
         model=f"models/{model}", 
         google_api_key=api_key,
@@ -25,10 +31,33 @@ def _create_gemini_embedding_model(model, api_key):
     )
 
 def _create_qwen3_embedding_model(model, api_key):
-    return DeepInfraEmbeddings(model_id=model, deepinfra_api_token=api_key)
+    # QWen 3 is capable of instruction folllowing.
+    instruction = "Given a search query on Solvency II regulation, retrieve relevant passages that answer the query"
+
+    def get_detailed_query_instruct(task_description) -> str:
+        # {Instruction} {Query}<|endoftext|>
+        # The paper of Qwen3 has a different format than the README.md of Qwen-3 Embedding
+        # page 3 of https://arxiv.org/pdf/2506.05176
+        # README of says the same as deepinfra https://github.com/QwenLM/Qwen3-Embedding
+        return f'Instruct: {task_description}\nQuery:'
+
+    # https://deepinfra.com/Qwen/Qwen3-Embedding-8B
+    # FROM DOCS: 📌 Tip: We recommend that developers customize the instruct according to their specific scenarios, tasks, and languages. Our tests have shown that in most retrieval scenarios, not using an instruct on the query side can lead to a drop in retrieval performance by approximately 1% to 5%.
+    query_instruction = get_detailed_query_instruct(instruction)
+    # related DeepInfraEmbedding source code:
+    # [in DeepInfraEmbedding]  instruction_pair = f"{self.query_instruction}{text}"
+    # [in DeepInfraEmbedding]  embedding = self._embed([instruction_pair])[0]
+
+    # we do not want any magic instructions
+    return DeepInfraEmbeddings(model_id=model, deepinfra_api_token=api_key, query_instruction=query_instruction)
 
 def _create_qwen3_reranker_model(model, api_key, top_n):
-    return Qwen3Reranker(model=model, api_key=api_key, top_n=top_n)
+    # Qwen 3 Reranker is capable of instruction following.
+    # the code is based on https://github.com/QwenLM/Qwen3-Embedding
+
+    instruction = 'Given a search query on Solvency II regulation, retrieve relevant passages that answer the query'
+
+    return Qwen3Reranker(model=model, api_key=api_key, top_n=top_n, query_instruction=instruction)
 
 def _create_cohere_reranker_model(model, api_key, top_n):
     return CohereRerank(
@@ -50,7 +79,7 @@ def _create_azure_llm(model, endpoint, api_version, api_key, temperature):
     # temperature, top_p, presence_penalty, frequency_penalty, logprobs, top_logprobs, logit_bias, max_tokens
 
     if temperature:
-        print("SETTING TEMPERATURE FOR MODEL, PLEASE NOT FOR O series" \
+        print(f"[INFO] SETTING TEMPERATURE FOR MODEL TO {temperature}. NOT SUPPORTED FOR OpenAI O-series" \
         " Only the default (1) value is supported.")
 
     return AzureChatOpenAI(
@@ -146,8 +175,8 @@ def set_up_reranker_model(model_option: Reranker_Model, top_n: int = 3):
 
 def load_vectorstore(model_option: Embedding_Model):
     # load the vectorstore
-    print("LOADING VECTOR STORE...")
+    print("[INFO] LOADING VECTOR STORE...")
     embedding_model = set_up_embedding_model(model_option)
     vectorstore = Chroma(model_option.value["collection_name"], embedding_model, model_option.value["persist_directory"])
-    print(f"Vectorstore loaded in with count: {vectorstore._collection.count()}")
+    print(f"[INFO] Vectorstore loaded in with count: {vectorstore._collection.count()}")
     return vectorstore
