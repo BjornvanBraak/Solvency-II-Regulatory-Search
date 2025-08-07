@@ -115,8 +115,6 @@ Future research
 * Add multilingual embedding models, e.g. text-multilingual-embedding-002, Cohere-embed-multilingual-v3.0, gte-Qwen2-7B-instruct (see benchmark https://huggingface.co/spaces/mteb/leaderboard)
 * Experiment with models such as GPT-4o, GPT-4.1 and Gemini 2.5 flash non-thinking to see non reasoning models performance.
 
-
-
 ### 2.3
 - Added larger and modern embedding models based on https://huggingface.co/spaces/mteb/leaderboard: gemini-embedding-exp-03-07, text-embedding-3-large, and Qwen3-Embedding-8B
 
@@ -132,6 +130,18 @@ Future research
 - changed regex for varability in LLM output for source references (e.g. Bron, Sources 1, Source 1, 2, 3)
 - UI improvements
 
+## 4.0 - Document Indexing Pipeline
+- .md files solvency II, level 1 and level 2
+    - major improved of markdown quality
+    - removed CORRELATION_TABLES
+    - removed Table of Content
+    - fixed article heading misplacement for Article 84, 174, 266, 281 Solvency I
+- added additional metadata
+    - approximate page_number
+    - short_title
+- added reranker
+    - instruction-aware / task_type reranker Qwen3-Reranker and Gemini Reranker
+    - added UI indicators in case of extremely good or bad relevance scores of rerankers.
 
 ## suggestions for future versions
 
