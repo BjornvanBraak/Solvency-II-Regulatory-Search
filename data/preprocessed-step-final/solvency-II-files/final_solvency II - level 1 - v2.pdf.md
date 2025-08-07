@@ -1,7 +1,9 @@
-11.72.2009 EN
+
+--- Page 1 ---
 
 
-Official Journ al of the E uropean Un ion L 335/1
+
+
 ## I
 
 
@@ -118,7 +120,7 @@ nity to cover risks and commitments situated therein.
 ( [11] [) OJ L 323, 9.12.2005, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:323:0001:0001:EN:PDF)
 
 
-
+--- Page 2 ---
 
 
 
@@ -259,12 +261,11 @@ cial activities.
 ( [7] [) OJ L 35, 11.2.2003, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:035:0001:0001:EN:PDF)
 
 
+--- Page 3 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/3
 
 
 (14) The protection of policy holders presupposes that insur­
@@ -384,7 +385,7 @@ approach does not adequately reflect the very specific risk
 profile of an undertaking.
 
 
-
+--- Page 4 ---
 
 
 
@@ -513,12 +514,11 @@ on the progress made.
 ( [1] [) OJ L 25, 29.1.2009, p. 28.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:025:0028:0028:EN:PDF)
 
 
+--- Page 5 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/5
 
 
 (41) The objective of the information and report to be pre­
@@ -626,7 +626,7 @@ plus funds which fulfil the requirements for classification
 in Tier 1 should be considered as Tier 1 capital.
 
 
-
+--- Page 6 ---
 
 
 
@@ -736,12 +736,11 @@ Solvency Capital Requirement should include a symmetric
 adjustment mechanism with respect to changes in the level
 
 
+--- Page 7 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/7
 
 
 of equity prices.In addition, in the event of exceptional falls
@@ -857,7 +856,7 @@ by a third-country undertaking where the supervisory
 regime of that third country has been deemed equivalent.
 
 
-
+--- Page 8 ---
 
 
 
@@ -980,12 +979,11 @@ effective access to private health cover or health cover
 taken out on a voluntary basis regardless of their age or
 
 
+--- Page 9 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/9
 
 
 risk profile. Given the nature and the social consequences
@@ -1107,7 +1105,7 @@ cial situation.
 ( [1] [) OJ L 177, 4.7.2008, p. 6.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:177:0006:0006:EN:PDF)
 
 
-
+--- Page 10 ---
 
 
 
@@ -1229,12 +1227,11 @@ or reinsurance undertaking where its solvency is being or
 may be jeopardised.
 
 
+--- Page 11 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/11
 
 
 (110) Insurance and reinsurance undertakings within a group
@@ -1354,7 +1351,7 @@ from the treatment determined by the law of the home
 Member State (lex concursus).
 
 
-
+--- Page 12 ---
 
 
 
@@ -1500,12 +1497,11 @@ ance other than life assurance [4] ); and Council Directive
 ( [4] [) OJ L 189, 13.7.1976, p. 13.](http://eur-lex.europa.eu/Result.do?aaaa=1976&mm=07&jj=13&type=L&nnn=189&pppp=0013&RechType=RECH_reference_pub&Submit=Search)
 
 
+--- Page 13 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/13
 
 
 84/641/EECof 10 December 1984 amending, particularly
@@ -1629,287 +1625,7 @@ due consideration of the conclusions presented by the
 ( [3] [) OJ L 9, 15.1.2003, p. 3.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:009:0003:0003:EN:PDF)
 
 
-
-
-
-
-
-**TABLE OF CONTENTS**
-
-
-TITLE I GENERAL RULES ON THE TAKING-UP AND PURSUIT OF DIRECT
-INSURANCE AND REINSURANCE ACTIVITIES
-
-CHAPTER I Subject matter, scope and definitions
-
-### SECTION 1 Subject matter and scope Articles 1 and 2
-
-### SECTION 2 Exclusions from scope
-
-Subsection 1 General Articles 3 and 4
-
-Subsection 2 Non-life Articles 5 to 8
-
-Subsection 3 Life Articles 9 and 10
-
-Subsection 4 Reinsurance Articles 11 and 12
-
-### SECTION 3 Definitions Article 13
-
-CHAPTER II Taking-up of business Articles 14 to 26
-
-CHAPTER III Supervisory authorities and general rules Articles 27 to 39
-
-CHAPTER IV Conditions governing business
-
-### SECTION 1 Responsibility of the administrative, management or supervi­
-sory body Article 40
-
-### SECTION 2 System of governance Articles 41 to 50
-
-### SECTION 3 Public disclosure Article 51 to 56
-
-### SECTION 4 Qualifying holdings Articles 57 to 63
-
-### SECTION 5 Professional sedcrecy, exchange of information and promo­
-tion of supervisory convergence Articles 64 to 71
-
-### SECTION 6 Duties of auditors Article 72
-
-CHAPTER V Pursuit of life and non-life insurance activity Articles 73 and 74
-
-CHAPTER VI Rules relating to the valuation of assets and liabilities, techni­
-cal provisions, own funds, solvency capital requirement, mini­
-mum capital requirement and investment rules
-
-### SECTION 1 Valuation of assets and liabilities Article 75
-
-### SECTION 2 Rules relating to technical provisions Articles 76 to 86
-
-### SECTION 3 Own funds
-
-Subsection 1 Determination of own funds Articles 87 to 92
-
-Subsection 2 Classification of own funds Articles 93 to 97
-
-Subsection 3 Eligibility of own funds Articles 98 and 99
-
-
-
-
-11.72.2009 EN
-
-
-Official Journ al of the E uropean Un ion L 335/15
-
-
-### SECTION 4 Solvency capital requirement
-
-Subsection 1 General provisions for the solvency capital requirement using
-the standard formula or an internal model Articles 100 to 102
-
-Subsection 2 Solvency capital requirement standard formula Articles 103 to 111
-
-Subsection 3 Solvency capital requirement full and partial internal models Articles 112 to 127
-
-### SECTION 5 Minimum capital requirement Articles 128 to 131
-
-### SECTION 6 Investments Articles 132 to 135
-
-CHAPTER VII Insurance and reinsurance undertakings in difficulty or in an
-irregular situation Article 136 to 144
-
-CHAPTER VIII Right of establishment and freedom to provide services
-
-### SECTION 1 Establishment by insurance undertakings Article 145 to 146
-
-### SECTION 2 Freedom to provide services: by insurance undertakings
-
-Subsection 1 General provisions Article 147 to 149
-
-Subsection 2 Third party motor vehicle liability Article 150 to 152
-
-### SECTION 3 Competencies of the supervisory authorities of the host mem­
-ber state
-
-Subsection 1 Insurance Articles 153 to 157
-
-Subsection 2 Reinsurance Article 158
-
-### SECTION 4 Statistical information Article 159
-
-### SECTION 5 Treatment of contracts of branches in winding-up proceedings Articles 160 to 161
-
-CHAPTER IX Branches established within the community and belonging to
-insurance or reinsurance undertakings with head offices situ­
-ated outside the community
-
-### SECTION 1 Taking-up of business Articles 162 to 171
-
-### SECTION 2 Reinsurance Articles 172 to 175
-
-CHAPTER X Subsidiaries of insurance and reinsurance undertakings gov­
-erned by the laws of a third country and acquisitions of hold­
-ings by such undertakings Articles 176 and 177
-
-TITLE II SPECIFIC PROVISIONS FOR INSURANCE AND REINSURANCE
-
-CHAPTER I Applicable law and conditions of direct insurance contracts
-
-### SECTION 1 Applicable law Article 178
-
-### SECTION 2 Compulsory insurance Article 179
-
-### SECTION 3 General good Article 180
-
-### SECTION 4 Conditions of insurance contracts and scales of premiums Articles 181 and 182
-
-
-
-
-
-
-
-
-### SECTION 5 Information for policy holders
-
-Subsection 1 Non-life insurance Articles 183 and 184
-
-Subsection 2 Life insurance Articles 185 and 186
-
-CHAPTER II Provisions specific to non-life insurance
-
-### SECTION 1 General provisions Articles 187 to 189
-
-### SECTION 2 Community co-insurance Articles 190 to 196
-
-### SECTION 3 Assistance Article 197
-
-### SECTION 4 Legal expenses insurance Articles 198 to 205
-
-### SECTION 5 Health insurance Article 206
-
-### SECTION 6 Insurance against accidents at work Article 207
-
-CHAPTER III Provisions specific to life insurance Articles 208 and 209
-
-CHAPTER IV Rules specific to reinsurance Articles 210 and 211
-
-TITLE III SUPERVISION OF INSURANCE AND REINSURANCE UNDERTAK­
-INGS IN A GROUP
-
-CHAPTER I Group supervision: definitions, cases of application, scope and
-levels
-
-### SECTION 1 Definitions Article 212
-
-### SECTION 2 Cases of application and scope Articles 213 and 214
-
-### SECTION 3 Levels Articles 215 to 217
-
-CHAPTER II Financial position
-
-### SECTION 1 Group solvency
-
-Subsection 1 General provisions Articles 218 and 219
-
-Subsection 2 Choice of calculation method and general principles Articles 220 to 224
-
-Subsection 3 Application of the calculation methods Articles 225 to 229
-
-Subsection 4 Calculation methods Articles 230 to 234
-
-Subsection 5 Supervision of group solvency for insurance and reinsurance
-undertakings that are subsidiaries of an insurance holding
-company Article 235
-
-Subsection 6 Supervision of group solvency for groups with centralised risk
-management Articles 236 to 243
-
-### SECTION 2 Risk concentration and intra-group transactions Articles 244 and 245
-
-### SECTION 3 Risk management and internal control Article 246
-
-CHAPTER III Measures to facilitate group supervision Articles 247 to 259
-
-CHAPTER IV Third countries Articles 260 to 264
-
-CHAPTER V Mixed-activity insurance holding companies Articles 265 and 266
-
-
-
-
-11.72.2009 EN
-
-
-Official Journ al of the E uropean Un ion L 335/17
-
-
-TITLE IV REORGANISATION AND WINDING-UP OF INSURANCE UNDER­
-TAKINGS
-
-CHAPTER I Scope and definitions Articles 267 and 268
-
-CHAPTER II Reorganisation measures Articles 269 to 272
-
-CHAPTER III Winding-up proceedings Articles 273 to 284
-
-CHAPTER IV Common provisions Articles 285 to 296
-
-TITLE V OTHER PROVISIONS Articles 297 to 304
-
-TITLE VI TRANSITIONAL AND FINAL PROVISIONS
-
-CHAPTER I Transitional provisions
-
-### SECTION 1 Insurance Articles 305 and 306
-
-### SECTION 2 Reinsurance Articles 307 and 308
-
-CHAPTER II Final provisions Articles 309 to 312
-
-*ANNEX I* CLASSES OF NON-LIFE INSURANCE
-
-A. Classification of risks according to classes of insurance
-
-B. Description of *authorisations* granted for more than one class
-of insurance
-
-*ANNEX II* CLASSES OF LIFE INSURANCE
-
-*ANNEX III* LEGAL FORMS OF UNDERTAKINGS
-
-A. Forms of non-life insurance *undertaking* :
-
-B. Forms of life insurance *undertaking* :
-
-C. Forms of reinsurance *undertaking* :
-
-*ANNEX IV* SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
-
-1. Calculation of the Basic Solvency Capital Requirement
-
-2. Calculation of the non-life underwriting risk module
-
-3. Calculation of the life underwriting risk module
-
-4. Calculation of the market risk module
-
-*ANNEX V* GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES
-OF ARTICLE 159
-
-*ANNEX VI*
-
-Part A Repealed Directives with list of their successive amendments
-(referred to in Article 310)
-
-Part B List of time-limits for transposition into national law (referred
-to in Article 310)
-
-*ANNEX VII* CORRELATION TABLE
-
-
-
+--- Page 18 ---
 
 
 
@@ -1930,7 +1646,7 @@ intermediary.
 
 ***Subject matter, scope and definitions***
 
-S e c t i o n 1
+### Section 1
 
 **S ub j e c t m a t t e r a n d s c o p e**
 
@@ -2032,12 +1748,11 @@ such as those referred to in Chapter 1, Title 4 of Book IV
 of the French ‘Code des assurances’;
 
 
+--- Page 19 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/19
 
 
 (c) to operations relating to the length of human life which are
@@ -2046,11 +1761,11 @@ in so far as they are effected or managed by life insurance
 undertakings at their own risk in accordance with the laws of
 a Member State.
 
-S e c t i o n 2
+### Section 2
 
 **E x c l us i o n s f r o m s c o p e**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **G e n e r a l**
 
@@ -2127,7 +1842,7 @@ Article shall not apply.
 applying for authorisation or continuing to be authorised under
 this Directive.
 
-Sub section 2
+#### Subsection 2
 
 **Non- life**
 
@@ -2155,7 +1870,7 @@ ums or constitution of technical reserves; or
 anteed by the State, or where the State is the insurer.
 
 
-
+--- Page 20 ---
 
 
 
@@ -2259,7 +1974,7 @@ applicable law are amended as regards capacity:
 
 (4) in Spain, the Consorcio de Compensación de Seguros.
 
-Sub section 3
+#### Subsection 3
 
 **Life**
 
@@ -2285,12 +2000,11 @@ arising from such operations are fully covered at all times by
 mathematical provisions;
 
 
+--- Page 21 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/21
 
 
 (3) the pension activities of pension insurance undertakings pre­
@@ -2332,7 +2046,7 @@ the scope of its capacity;
 its statutes are amended as regards the scope of its activities
 or capacity.
 
-Sub section 4
+#### Subsection 4
 
 **Reinsurance**
 
@@ -2362,7 +2076,7 @@ activity shall not be subject to this Directive.
 takings concerned and communicate that list to all the other
 Member States.
 
-S e c t i o n 3
+### Section 3
 
 **D e f i n i t i o n s**
 
@@ -2407,7 +2121,7 @@ belongs or of an undertaking or undertakings of the group
 of which it is a member;
 
 
-
+--- Page 22 ---
 
 
 
@@ -2518,12 +2232,11 @@ Directive 83/349/EEC, or a similar relationship between any
 natural or legal person and an undertaking;
 
 
+--- Page 23 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/23
 
 
 (19) ‘intra-group transaction’ means any transaction by which an
@@ -2646,7 +2359,7 @@ itself;
 ( [1] [) OJ L 222, 14.8.1978, p. 11.](http://eur-lex.europa.eu/Result.do?aaaa=1978&mm=08&jj=14&type=L&nnn=222&pppp=0011&RechType=RECH_reference_pub&Submit=Search)
 
 
-
+--- Page 24 ---
 
 
 
@@ -2769,12 +2482,11 @@ to Article 16(1). In that event this Directive shall apply to the
 operations in question.
 
 
+--- Page 25 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/25
 
 
 5. In regard to reinsurance, authorisation shall be granted for
@@ -2897,7 +2609,7 @@ Minimum Capital Requirement provided for in the first paragraph
 of Article 100 and Article 128.
 
 
-
+--- Page 26 ---
 
 
 
@@ -3025,12 +2737,11 @@ undertaking proposes to make with ceding undertakings;
 (c) the guiding principles as to reinsurance and to retrocession;
 
 
+--- Page 27 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/27
 
 
 (d) the basic own-fund items constituting the absolute floor of
@@ -3150,7 +2861,7 @@ taking authorised in that Member State.
 ( [1] [) OJ L 390, 31.12.2004, p. 38.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:390:0038:0038:EN:PDF)
 
 
-
+--- Page 28 ---
 
 
 
@@ -3265,12 +2976,11 @@ form, where the law of the home Member State provides for the
 monitoring of such resources.
 
 
+--- Page 29 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/29
 
 
 3. If the supervisory authorities of the Member State in which
@@ -3391,7 +3101,7 @@ reinsurance undertakings, and the members of their administra­
 tive, management or supervisory body.
 
 
-
+--- Page 30 ---
 
 
 
@@ -3523,12 +3233,11 @@ undertakings to comply with the laws, regulations and adminis­
 trative provisions adopted pursuant to this Directive.
 
 
+--- Page 31 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/31
 
 
 That review and evaluation shall comprise the assessment of the
@@ -3649,7 +3358,7 @@ removed when the undertaking has remedied the deficiencies
 which led to its imposition.
 
 
-
+--- Page 32 ---
 
 
 
@@ -3766,18 +3475,17 @@ affect the right of the Member States to give policy holders the
 option of cancelling contracts within a fixed period after a transfer.
 
 
+--- Page 33 ---
 
 
-11.72.2009 EN
 
 ## *CHAPTER IV*
 
 ***Conditions governing business***
 
-S e c t i o n 1
+### Section 1
 
 
-Official Journ al of the E uropean Un ion L 335/33
 
 4. Insurance and reinsurance undertakings shall take reason­
 able steps to ensure continuity and regularity in the performance
@@ -3800,7 +3508,7 @@ has the ultimate responsibility for the compliance, by the under­
 taking concerned, with the laws, regulations and administrative
 provisions adopted pursuant to this Directive.
 
-S e c t i o n 2
+### Section 2
 
 **S y s t e m o f g o v e r n a n c e**
 
@@ -3889,7 +3597,7 @@ home Member State or the Member State from which the foreign
 national comes showing that those requirements have been met.
 
 
-
+--- Page 34 ---
 
 
 
@@ -4020,12 +3728,11 @@ and with the requirements regarding technical provisions, as
 laid down in Chapter VI, Section 2;
 
 
+--- Page 35 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/35
 
 
 (c) the significance with which the risk profile of the undertak­
@@ -4144,7 +3851,7 @@ of the capital requirements set out in Chapter VI, Sections 4
 and 5, and to the assessment referred to in Article 45.
 
 
-
+--- Page 36 ---
 
 
 
@@ -4219,7 +3926,7 @@ of this Directive by supplementing it, shall be adopted in accor­
 dance with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 3
+### Section 3
 
 **P ub l i c d i s c l o s ur e**
 
@@ -4266,12 +3973,11 @@ the Minimum Capital Requirement;
 of the Solvency Capital Requirement;
 
 
+--- Page 37 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/37
 
 
 (iv) information allowing a proper understanding of the
@@ -4391,7 +4097,7 @@ relationships binding an undertaking to secrecy or
 confidentiality.
 
 
-
+--- Page 38 ---
 
 
 
@@ -4498,7 +4204,7 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 4
+### Section 4
 
 **Q ua l i f y i n g h o l d i n g s**
 
@@ -4520,12 +4226,11 @@ of the insurance or reinsurance undertaking in which they are
 seeking to acquire or increase a qualifying holding, indicating the
 
 
+--- Page 39 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/39
 
 
 size of the intended holding and relevant information, as referred
@@ -4649,7 +4354,7 @@ following criteria:
 ( [1] [) OJ L 375, 31.12.1985, p. 3.](http://eur-lex.europa.eu/Result.do?aaaa=1985&mm=12&jj=31&type=L&nnn=375&pppp=0003&RechType=RECH_reference_pub&Submit=Search)
 
 
-
+--- Page 40 ---
 
 
 
@@ -4772,12 +4477,11 @@ ers or members or as a result of compliance with the regulations
 relating to companies listed on stock exchanges.
 
 
+--- Page 41 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/41
 
 
 ##### Article 62
@@ -4827,7 +4531,7 @@ exercised or otherwise used to intervene in the management of
 the issuer and, on the other, disposed of within one year of
 acquisition.
 
-S e c t i o n 5
+### Section 5
 
 **P r o f e s s i o n a l s e c r e c y, e x c h a n g e o f**
 **i n f o r m a t i o n a n d p r o m o t i o n o f s up e r v i s o r y**
@@ -4907,7 +4611,7 @@ authorities;
 (4) in court proceedings under this Directive.
 
 
-
+--- Page 42 ---
 
 
 
@@ -5041,12 +4745,11 @@ Articles 64 and 67 shall not preclude Member States from autho­
 rising, under provisions laid down by law, the disclosure of
 
 
+--- Page 43 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/43
 
 
 certain information to other departments of their central govern­
@@ -5113,7 +4816,7 @@ Commission on the progress of the supervisory convergence in
 the Community.
 
 
-S e c t i o n 6
+### Section 6
 
 **D ut i e s o f a ud i t o r s**
 
@@ -5168,7 +4871,7 @@ liability of any kind.
 ( [1] [) OJ L 126, 12.5.1984, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1984&mm=05&jj=12&type=L&nnn=126&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
 
 
-
+--- Page 44 ---
 
 
 
@@ -5294,12 +4997,11 @@ own-fund items which are still available for one or the other
 activity.
 
 
+--- Page 45 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/45
 
 
 5. The supervisory authorities shall analyse the results in both
@@ -5341,7 +5043,7 @@ the other.
 ***Requirement, Minimum Capital Requirement and investment***
 ***rules***
 
-S e c t i o n 1
+### Section 1
 
 **V a l ua t i o n o f a s s e t s a n d l i a b i l i t i e s**
 
@@ -5375,7 +5077,7 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 2
+### Section 2
 
 **R ul e s r e l a t i n g t o t e c h n i c a l p r o v i s i o n s**
 
@@ -5416,7 +5118,7 @@ of a best estimate and a risk margin as set out in paragraphs 2
 and 3.
 
 
-
+--- Page 46 ---
 
 
 
@@ -5525,17 +5227,16 @@ and as a minimum by lines of business, when calculating their
 technical provisions.
 
 
+--- Page 47 ---
 
 
-11.72.2009 EN
 
 
 ##### Article 81
 
 
-Official Journ al of the E uropean Un ion L 335/47
 
-##### Article 84
+
 
 
 **Recoverables from reinsurance contracts and special**
@@ -5589,6 +5290,8 @@ surance undertakings, the undertaking concerned shall make
 appropriate adjustments to the actuarial methods being used
 and/or the assumptions being made.
 
+
+##### Article 84
 
 **Appropriateness of the level of technical provisions**
 
@@ -5644,7 +5347,7 @@ tions, including case-by-case approaches, to calculate the best
 estimate;
 
 
-
+--- Page 48 ---
 
 
 
@@ -5666,11 +5369,11 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 3
+### Section 3
 
 **O w n f un d s**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **D e t e r m i n a t i o n o f o w n f un d s**
 
@@ -5762,12 +5465,11 @@ form of the item, as well as any conditions which would pre­
 vent the item from being successfully paid in or called up;
 
 
+--- Page 49 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/49
 
 
 (c) any information on the outcome of past calls which insur­
@@ -5825,7 +5527,7 @@ defined in point (a) of this paragraph in which they hold a
 participation.
 
 
-Sub section 2
+#### Subsection 2
 
 **Classification of own funds**
 
@@ -5884,7 +5586,7 @@ substantially possess the characteristic set out in Article 93(1)(b),
 taking into consideration the features set out in Article 93(2).
 
 
-
+--- Page 50 ---
 
 
 
@@ -5973,7 +5675,7 @@ Article 301(3).
 priate, update the list referred to in paragraph 1(a) in the light of
 market developments.
 
-Sub section 3
+#### Subsection 3
 
 **Eligibility of own funds**
 
@@ -6007,12 +5709,11 @@ sum of the amount of Tier 1, the eligible amount of Tier 2 and
 the eligible amount of Tier 3.
 
 
+--- Page 51 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/51
 
 
 4. The eligible amount of basic own funds to cover the Mini­
@@ -6039,11 +5740,11 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 4
+### Section 4
 
 **S o l v e n c y c a p i t a l r e q ui r e m e n t**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **G e n e r a l p r o v i s i o n s f o r t h e s o l v e n c y c a p i t a l**
 **r e q ui r e m e n t us i n g t h e s t a n d a r d f o r m ul a o r a n**
@@ -6132,7 +5833,7 @@ cerned shall recalculate the Solvency Capital Requirement with­
 out delay and report it to the supervisory authorities.
 
 
-
+--- Page 52 ---
 
 
 
@@ -6144,7 +5845,7 @@ since the date on which the Solvency Capital Requirement was
 last reported, the supervisory authorities may require the under­
 taking concerned to recalculate the Solvency Capital Requirement.
 
-Sub section 2
+#### Subsection 2
 
 **Solvency capital requirement standard formula**
 
@@ -6254,12 +5955,11 @@ amount of claim settlements (non-life premium and reserve
 risk);
 
 
+--- Page 53 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/53
 
 
 (b) the risk of loss, or of adverse change in the value of insur­
@@ -6371,7 +6071,7 @@ instruments to changes in the level or in the volatility of cur­
 rency exchange rates (currency risk);
 
 
-
+--- Page 54 ---
 
 
 
@@ -6491,12 +6191,11 @@ Simplified calculations shall be calibrated in accordance with
 Article 101(3).
 
 
+--- Page 55 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/55
 
 
 ##### Article 110
@@ -6614,7 +6313,7 @@ light of developments in the standard formula and financial
 markets.
 
 
-
+--- Page 56 ---
 
 
 
@@ -6625,7 +6324,7 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-Sub section 3
+#### Subsection 3
 
 **Solvency capital requirement full and p ar tia l**
 **internal models**
@@ -6735,12 +6434,11 @@ the following:
 model;
 
 
+--- Page 57 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/57
 
 
 (2) the adaptations to be made to the standards set out in
@@ -6861,7 +6559,7 @@ model continues to appropriately reflect the risk profile of the
 insurance and reinsurance undertakings concerned.
 
 
-
+--- Page 58 ---
 
 
 
@@ -6979,16 +6677,15 @@ model and to check that its specification is in line with generally
 accepted market practice.
 
 
+--- Page 59 ---
 
 
-11.72.2009 EN
 
 ##### Article 123
 
 **Profit and loss attribution**
 
 
-Official Journ al of the E uropean Un ion L 335/59
 
 Insurance and reinsurance undertakings shall document all major
 changes to their internal model, as set out in Article 115.
@@ -7072,7 +6769,7 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-S e c t i o n 5
+### Section 5
 
 **M i n i m um c a p i t a l r e q ui r e m e n t**
 
@@ -7100,7 +6797,7 @@ an unacceptable level of risk were insurance and reinsurance
 undertakings allowed to continue their operations;
 
 
-
+--- Page 60 ---
 
 
 
@@ -7204,7 +6901,7 @@ Article 128 within the period set out in the first paragraph, the
 authorisation of the undertaking shall be withdrawn, subject to
 the applicable processes provided for in the national legislation.
 
-S e c t i o n 6
+### Section 6
 
 **I n v e s t m e n t s**
 
@@ -7219,12 +6916,11 @@ person principle, as specified in paragraphs 2, 3 and 4.
 ( [1] [) OJ L 3, 7.1.2004, p. 34.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:003:0034:0034:EN:PDF)
 
 
+--- Page 61 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/61
 
 
 2. With respect to the whole portfolio of assets, insurance and
@@ -7339,7 +7035,7 @@ within the Community of the assets representing those
 recoverables.
 
 
-
+--- Page 62 ---
 
 
 
@@ -7450,12 +7146,11 @@ ond subparagraph of paragraph 3 by an appropriate period of
 time taking into account all relevant factors.
 
 
+--- Page 63 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/63
 
 
 The insurance or reinsurance undertaking concerned shall, every
@@ -7571,7 +7266,7 @@ holders, or the contractual obligations of the reinsurance under­
 taking are threatened.
 
 
-
+--- Page 64 ---
 
 
 
@@ -7651,7 +7346,7 @@ ance undertaking concerned.
 
 ***Right of establishment and freedom to provide services***
 
-S e c t i o n 1
+### Section 1
 
 **E s t a b l i s h m e n t b y i n s ur a n c e un d e r t a k i n g s**
 
@@ -7693,12 +7388,11 @@ may be obtained and to which they may be delivered, includ­
 ing all communications to the authorised agent.
 
 
+--- Page 65 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/65
 
 
 With regard to Lloyd’s, in the event of any litigation in the host
@@ -7769,12 +7463,12 @@ of the home Member State has received such a communication or,
 if no communication is received, on expiry of the period provided
 for in the first subparagraph.
 
-S e c t i o n 2
+### Section 2
 
 **F r e e d o m t o p r o v i d e s e r v i c e s : b y i n s ur a n c e**
 **un d e r t a k i n g s**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **G e n e r a l p r o v i s i o n s**
 
@@ -7827,7 +7521,7 @@ bureau and national guarantee fund of the host Member
 State.
 
 
-
+--- Page 66 ---
 
 
 
@@ -7854,7 +7548,7 @@ Any change which an insurance undertaking intends to make to
 the information referred to in Article 145 shall be subject to the
 procedure provided for in Articles 147 and 148.
 
-Sub section 2
+#### Subsection 2
 
 **Third party motor vehicle liability**
 
@@ -7932,12 +7626,12 @@ claims representative appointed in accordance with Article 4 of
 Directive 2000/26/EC to assume the function of the representa­
 tive referred to in paragraph 1 of this Article.
 
-S e c t i o n 3
+### Section 3
 
 **C o m p e t e n c i e s o f t h e s up e r v i s o r y**
 **a ut h o r i t i e s o f t h e h o s t m e m b e r s t a t e**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **I n s ur a n c e**
 
@@ -7952,12 +7646,11 @@ tory of that Member State to be supplied to them in the official
 language or languages of that State.
 
 
+--- Page 67 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/67
 
 
 ##### Article 154
@@ -8086,7 +7779,7 @@ State in which the risk is situated or the Member State of the
 commitment
 
 
-
+--- Page 68 ---
 
 
 
@@ -8114,7 +7807,7 @@ ments situated within its territory for measures to ensure the col­
 lection of indirect taxes and parafiscal charges due under
 paragraph 1.
 
-Sub section 2
+#### Subsection 2
 
 **Reinsurance**
 
@@ -8153,7 +7846,7 @@ shall state the reasons and shall be communicated to the reinsur­
 ance undertaking concerned.
 
 
-S e c t i o n 4
+### Section 4
 
 **S t a t i s t i c a l i n f o r m a t i o n**
 
@@ -8184,7 +7877,7 @@ graphs within a reasonable time and in aggregate form to the
 supervisory authorities of each of the Member States concerned
 upon their request.
 
-S e c t i o n 5
+### Section 5
 
 **T r e a t m e n t o f c o n t r a c t s o f b r a n c h e s i n**
 **w i n d i n g - up p r o c e e d i n g s**
@@ -8211,12 +7904,11 @@ those arising out of the other reinsurance contracts of that
 undertaking.
 
 
+--- Page 69 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/69
 
 
 ## *CHAPTER IX*
@@ -8225,7 +7917,7 @@ Official Journ al of the E uropean Un ion L 335/69
 ***insurance or reinsurance undertakings with head offices***
 ***situated outside the community***
 
-S e c t i o n 1
+### Section 1
 
 **T a k i n g - up o f b us i n e s s**
 
@@ -8341,7 +8033,7 @@ income and expenditure in respect of direct business, rein­
 surance acceptances and reinsurance cessions.
 
 
-
+--- Page 70 ---
 
 
 
@@ -8470,12 +8162,11 @@ pursued up to the amount of the Minimum Capital Requirement
 and the excess within the Community.
 
 
+--- Page 71 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/71
 
 
 ##### Article 167
@@ -8600,7 +8291,7 @@ which gave their approval shall also withdraw their
 authorisations.
 
 
-
+--- Page 72 ---
 
 
 
@@ -8608,7 +8299,7 @@ authorisations.
 
 
 
-##### Article 174
+
 
 
 **Agreements with third countries**
@@ -8620,7 +8311,7 @@ Section, for the purpose of ensuring, under conditions of reci­
 procity, adequate protection for policy holders and insured per­
 sons in the Member States.
 
-S e c t i o n 2
+### Section 2
 
 **R e i n s ur a n c e**
 
@@ -8667,6 +8358,8 @@ insurance or reinsurance undertaking, situated in a country whose
 solvency regime is deemed to be equivalent to that laid down in
 this Directive in accordance with Article 172.
 
+
+##### Article 174
 
 **Principle and conditions for conducting reinsurance**
 **activity**
@@ -8736,12 +8429,11 @@ That information shall also contain an indication of the structure
 of the group concerned.
 
 
+--- Page 73 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/73
 
 
 Where an undertaking governed by the law of a third country
@@ -8790,7 +8482,7 @@ together with any appropriate proposals or recommendations.
 
 ***Applicable law and conditions of direct insurance contracts***
 
-S e c t i o n 1
+### Section 1
 
 **A p p l i c a b l e l a w**
 
@@ -8804,7 +8496,7 @@ in order to determine the law applicable to insurance contracts
 falling within the scope of Article 7 of that Regulation.
 
 
-S e c t i o n 2
+### Section 2
 
 **C o m p ul s o r y i n s ur a n c e**
 
@@ -8847,7 +8539,7 @@ The Commission shall publish the particulars referred to in
 point (b) of the first subparagraph in the *Official Journal of the Euro­*
 *pean Union* .
 
-S e c t i o n 3
+### Section 3
 
 **G e n e r a l g o o d**
 
@@ -8864,18 +8556,15 @@ general good in the Member State in which the risk is situated or
 in the Member State of the commitment.
 
 
+--- Page 74 ---
+
+
+
+### Section 4
 
 
 
 
-S e c t i o n 4
-
-
-
-S e c t i o n 5
-
-
-**C o n d i t i o n s o f i n s ur a n c e c o n t r a c t s a n d**
 **s c a l e s o f p r e m i um s**
 
 ##### Article 181
@@ -8922,9 +8611,14 @@ technical provisions. Those requirements shall not constitute a
 prior condition for an insurance undertaking to pursue business.
 
 
+### Section 5
+
+
+**C o n d i t i o n s o f i n s ur a n c e c o n t r a c t s a n d**
+
 **I n f o r m a t i o n f o r p o l i c y h o l d e r s**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **N o n - l i f e i n s ur a n c e**
 
@@ -8979,12 +8673,11 @@ appropriate, of the branch of the non-life insurance undertaking
 which grants the cover.
 
 
+--- Page 75 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/75
 
 
 The Member States may require that the name and address of the
@@ -8992,7 +8685,7 @@ representative of the non-life insurance undertaking referred to in
 Article 148(2)(a) also appear in the documents referred to in the
 first subparagraph of this paragraph.
 
-Sub section 2
+#### Subsection 2
 
 **Life insurance**
 
@@ -9112,7 +8805,7 @@ policy holder so requests and the law of the Member State so per­
 mits or the policy holder is free to choose the law applicable.
 
 
-
+--- Page 76 ---
 
 
 
@@ -9163,7 +8856,7 @@ subparagraph they shall specify that fact in their law.
 
 ***Provisions specific to non-life insurance***
 
-S e c t i o n 1
+### Section 1
 
 **G e n e r a l p r o v i s i o n s**
 
@@ -9195,7 +8888,7 @@ undertakings authorised in their territories, in any scheme
 designed to guarantee the payment of insurance claims to insured
 persons and injured third parties.
 
-S e c t i o n 2
+### Section 2
 
 **C o m m un i t y c o - i n s ur a n c e**
 
@@ -9233,12 +8926,11 @@ terms and conditions of insurance and rating.
 ance undertaking.
 
 
+--- Page 77 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/77
 
 
 3. Co-insurance operations which do not satisfy the conditions
@@ -9309,7 +9001,7 @@ undertaking does not assume the role of the leader in co-insurance
 practice or that the risks clearly do not require the participation
 of two or more insurers for their coverage.
 
-S e c t i o n 3
+### Section 3
 
 **A s s i s t a n c e**
 
@@ -9328,7 +9020,7 @@ The second paragraph shall in no way affect the possibilities for
 classification laid down in Annex I for activities which obviously
 come under other classes.
 
-S e c t i o n 4
+### Section 4
 
 **L e g a l e x p e n s e s i n s ur a n c e**
 
@@ -9358,7 +9050,7 @@ putes or risks arising out of, or in connection with, the use
 of sea-going vessels;
 
 
-
+--- Page 78 ---
 
 
 
@@ -9475,20 +9167,16 @@ freedom to provide services ( [1] ).
 ( [1] [) OJ L 78, 26.3.1977, p. 17.](http://eur-lex.europa.eu/Result.do?aaaa=1977&mm=03&jj=26&type=L&nnn=078&pppp=0017&RechType=RECH_reference_pub&Submit=Search)
 
 
+--- Page 79 ---
 
 
-11.72.2009 EN
 
 
 ##### Article 202
 
 
-Official Journ al of the E uropean Un ion L 335/79
-
-S e c t i o n 5
 
 
-**Exception to the free choice of lawyer**
 
 1. Member States may provide for exemption from
 Article 201(1) for legal expenses insurance if all the following
@@ -9546,6 +9234,8 @@ expenses insurance and other classes of insurance at the same
 time.
 
 
+### Section 5
+
 **H e a l t h i n s ur a n c e**
 
 ##### Article 206
@@ -9598,7 +9288,7 @@ referred to in point (a) of the first subparagraph and transmit
 them to the supervisory authorities of the home Member State.
 
 
-
+--- Page 80 ---
 
 
 
@@ -9614,7 +9304,7 @@ authorities before the product is circulated.
 The third and fourth subparagraphs shall also apply where exist­
 ing contracts are modified.
 
-S e c t i o n 6
+### Section 6
 
 **I n s ur a n c e a g a i n s t a c c i d e n t s a t w o r k**
 
@@ -9716,12 +9406,11 @@ ing measures laying down the following:
 (b) mandatory conditions to be included in all contracts issued;
 
 
+--- Page 81 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/81
 
 
 (c) fit and proper requirements as referred to in Article 42 of the
@@ -9761,7 +9450,7 @@ shall be subject to paragraphs 1 and 2.
 ***Group supervision: definitions, cases of application, scope***
 ***and levels***
 
-S e c t i o n 1
+### Section 1
 
 **D e f i n i t i o n s**
 
@@ -9840,7 +9529,7 @@ one insurance or reinsurance undertaking among its subsid­
 iary undertakings.
 
 
-
+--- Page 82 ---
 
 
 
@@ -9860,7 +9549,7 @@ indirectly, of voting rights or capital in an undertaking over
 which, in the opinion of the supervisory authorities, a significant
 influence is effectively exercised.
 
-S e c t i o n 2
+### Section 2
 
 **C a s e s o f a p p l i c a t i o n a n d s c o p e**
 
@@ -9965,19 +9654,18 @@ tion which may facilitate their supervision of the insurance or
 reinsurance undertaking concerned.
 
 
+--- Page 83 ---
 
 
-11.72.2009 EN
 
 
-S e c t i o n 3
+### Section 3
 
 **L e v e l s**
 
 ##### Article 215
 
 
-Official Journ al of the E uropean Un ion L 335/83
 
 3. Where the supervisory authority decides to apply to the ulti­
 mate parent undertaking at national level Chapter II, Section 1,
@@ -10089,7 +9777,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-
+--- Page 84 ---
 
 
 
@@ -10129,11 +9817,11 @@ Article 301(3).
 
 ***Financial position***
 
-S e c t i o n 1
+### Section 1
 
 **G r o up s o l v e n c y**
 
-S u b s e c t i o n 1
+#### Subsection 1
 
 **G e n e r a l p r o v i s i o n s**
 
@@ -10202,7 +9890,7 @@ Solvency Capital Requirement was last reported, the group super­
 visor may require a recalculation of the group Solvency Capital
 Requirement.
 
-Sub section 2
+#### Subsection 2
 
 **Choice of calculation method and general**
 **principles**
@@ -10218,12 +9906,11 @@ nical principles and one of the methods set out in Articles 221
 to 233.
 
 
+--- Page 85 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/85
 
 
 2. Member States shall provide that the calculation of the sol­
@@ -10342,7 +10029,7 @@ calculation:
 tial obligation on the part of the participating undertaking;
 
 
-
+--- Page 86 ---
 
 
 
@@ -10420,7 +10107,7 @@ the Solvency Capital Requirement of the first undertaking.
 The value of the assets and liabilities shall be assessed in accor­
 dance with Article 75.
 
-Sub section 3
+#### Subsection 3
 
 **Application of the calculation methods**
 
@@ -10453,12 +10140,11 @@ tion of such an insurance holding company shall be taken into
 account.
 
 
+--- Page 87 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/87
 
 
 For the sole purpose of that calculation, the intermediate insur­
@@ -10573,7 +10259,7 @@ tion as referred to in the first paragraph from the own funds eli­
 gible for the group solvency of the participating undertaking.
 
 
-
+--- Page 88 ---
 
 
 
@@ -10595,7 +10281,7 @@ In that case, the unrealised gains connected with such participa­
 tion shall not be recognised as own funds eligible for the group
 solvency.
 
-Sub section 4
+#### Subsection 4
 
 **Calculation methods**
 
@@ -10690,12 +10376,11 @@ concerned shall be informed and the period referred to in para­
 graph 2 shall be extended by two months.
 
 
+--- Page 89 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/89
 
 
 4. Where CEIOPS has not been consulted in accordance with
@@ -10809,7 +10494,7 @@ and the aggregated group Solvency Capital Requirement, as
 provided for in paragraph 3.
 
 
-
+--- Page 90 ---
 
 
 
@@ -10885,7 +10570,7 @@ Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
-Sub section 5
+#### Subsection 5
 
 **Supervision of group solvency for insurance and**
 **reinsurance undertakings that are subsidiaries of**
@@ -10909,7 +10594,7 @@ ment and subject to the same conditions as laid down in Title I,
 Chapter VI, Section 3, Subsections 1, 2 and 3 as regards the own
 funds eligible for the Solvency Capital Requirement.
 
-Sub section 6
+#### Subsection 6
 
 **Supervision of group solvency for groups w it h**
 **centralised risk management**
@@ -10931,12 +10616,11 @@ group supervision carried out by the group supervisor at the
 level of the parent undertaking in accordance with this Title;
 
 
+--- Page 91 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/91
 
 
 (b) the risk-management processes and internal control mecha­
@@ -11062,7 +10746,7 @@ standard formula calculation by parameters specific to that under­
 taking when calculating the life, non-life and health underwriting
 
 
-
+--- Page 92 ---
 
 
 
@@ -11182,12 +10866,11 @@ sion it carries out, it shall immediately inform the supervisory
 authority concerned and the parent undertaking.
 
 
+--- Page 93 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/93
 
 
 For the purposes of Article 236(b), (c) and (d), the parent under­
@@ -11305,7 +10988,7 @@ ment and the Council, accompanied, where appropriate, by pro­
 posals for the amendment of this Directive.
 
 
-
+--- Page 94 ---
 
 
 
@@ -11319,7 +11002,7 @@ Articles 236 to 242 shall apply *mutatis mutandis* to insurance and
 reinsurance undertakings which are the subsidiary of an insurance
 holding company.
 
-S e c t i o n 2
+### Section 2
 
 **R i s k c o n c e n t r a t i o n a n d i n t r a - g r o up**
 **t r a n s a c t i o n s**
@@ -11425,15 +11108,14 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
+--- Page 95 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/95
 
 
-S e c t i o n 3
+### Section 3
 
 **R i s k m a n a g e m e n t a n d i n t e r n a l c o n t r o l**
 
@@ -11544,7 +11226,7 @@ or reinsurance undertaking authorised in that Member
 State;
 
 
-
+--- Page 96 ---
 
 
 
@@ -11662,12 +11344,11 @@ complexity of the risks inherent in the business of all under­
 takings that are part of the group;
 
 
+--- Page 97 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/97
 
 
 (f) other tasks, measures and decisions assigned to the group
@@ -11785,7 +11466,7 @@ tive responsibilities, and irrespective of whether they are estab­
 lished in the same Member State, they shall provide one another
 
 
-
+--- Page 98 ---
 
 
 
@@ -11918,12 +11599,11 @@ sory authorities and other authorities, as referred to in
 Articles 249 to 252.
 
 
+--- Page 99 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/99
 
 
 Information received in the framework of group supervision, and
@@ -12052,7 +11732,7 @@ their duties.
 Article 42 shall apply *mutatis mutandis* .
 
 
-
+--- Page 100 ---
 
 
 ##### Article 258
@@ -12176,12 +11856,11 @@ sory authority shall consult the other supervisory authorities
 concerned and CEIOPS, before taking a decision.
 
 
+--- Page 101 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/101
 
 
 2. The Commission may adopt implementing measures speci­
@@ -12300,7 +11979,7 @@ group.
 Article 262 shall apply *mutatis mutandis* .
 
 
-
+--- Page 102 ---
 
 
 
@@ -12308,7 +11987,7 @@ Article 262 shall apply *mutatis mutandis* .
 
 
 
-##### Article 266
+
 
 
 **Cooperation with third-country supervisory authorities**
@@ -12368,6 +12047,8 @@ the mixed-activity holding company and its related undertakings.
 2. Articles 245, 249 to 255 and 258 shall apply *mutatis*
 *mutandis* .
 
+
+##### Article 266
 
 **Cooperation with third countries**
 
@@ -12431,12 +12112,11 @@ whether or not they are founded on insolvency or are volun­
 tary or compulsory;
 
 
+--- Page 103 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/103
 
 
 (e) ‘administrator’ means a person or body appointed by the
@@ -12560,7 +12240,7 @@ tent authorities of the home Member State or the law of that
 Member State provide otherwise.
 
 
-
+--- Page 104 ---
 
 
 
@@ -12688,12 +12368,11 @@ winding-up proceedings; and
 ity of legal acts detrimental to all the creditors.
 
 
+--- Page 105 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/105
 
 
 ##### Article 275
@@ -12805,7 +12484,7 @@ established in that Member State, claims by that scheme shall not
 benefit from the provisions of Article 275(1).
 
 
-
+--- Page 106 ---
 
 
 
@@ -12813,7 +12492,7 @@ benefit from the provisions of Article 275(1).
 
 
 
-##### Article 281
+
 
 
 **Representation of preferential claims by assets**
@@ -12868,6 +12547,8 @@ law and the liquidator appointed. It shall be in the official lan­
 guage or in one of the official languages of the Member State in
 which the information is published.
 
+
+##### Article 281
 
 **Information to known creditors**
 
@@ -12928,12 +12609,11 @@ The precedence granted to insurance claims by Article 275 need
 not be indicated.
 
 
+--- Page 107 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/107
 
 
 ##### Article 283
@@ -13061,7 +12741,7 @@ ber State other than that in which such measures or proceedings
 were opened.
 
 
-
+--- Page 108 ---
 
 
 
@@ -13182,12 +12862,11 @@ in particular with regard to procedures for the realisation of assets
 and the informing of employees.
 
 
+--- Page 109 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/109
 
 
 Those powers shall not include the use of force or the right to rule
@@ -13310,7 +12989,7 @@ within 12 months of the publication in the *Official Journal of the*
 ance and Occupational Pensions Committee.
 
 
-
+--- Page 110 ---
 
 
 
@@ -13441,12 +13120,11 @@ tent authority;
 defer the payment of interest on the loan;
 
 
+--- Page 111 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/111
 
 
 (iii) the lender’s claims on the institution must rank
@@ -13566,7 +13244,7 @@ direct business and reinsurance acceptances gross of
 reinsurance cessions shall be multiplied by the ratio,
 
 
-
+--- Page 112 ---
 
 
 
@@ -13696,12 +13374,11 @@ reinsurance and the gross amount of claims. That ratio shall
 be no less than 50 %.
 
 
+--- Page 113 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/113
 
 
 4. The claims basis shall be calculated, as follows:
@@ -13832,7 +13509,7 @@ sure, over a time period, which is consistent with the typical
 holding period of equity investments for the undertaking
 
 
-
+--- Page 114 ---
 
 
 
@@ -13882,11 +13559,11 @@ ance undertakings.
 
 **TRANSITIONAL AND FINAL PROVISIONS**
 
-CHAPTER I
+## *CHAPTER I*
 
 ***Transitional provisions***
 
-S e c t i o n 1
+### Section 1
 
 **I n s ur a n c e**
 
@@ -13950,12 +13627,11 @@ insurance undertakings carrying on business under the freedom
 to provide services before 1 July 1994.
 
 
+--- Page 115 ---
 
+17.12.2009 E N 
 
-17.12.2009 E N Official Journ al of the E uropean Un ion L 335/115
-
-
-S e c t i o n 2
+### Section 2
 
 **R e i n s ur a n c e**
 
@@ -14073,12 +13749,12 @@ J. BUZEK
 Åsa TORSTENSSON
 
 
+--- Page 116 ---
 
 
 
 
-
-*ANNEX I*
+# *ANNEX I*
 
 **CLASSES OF NON-LIFE INSURANCE**
 
@@ -14158,12 +13834,11 @@ explosion,
 — storm,
 
 
+--- Page 117 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/117
 
 
 —
@@ -14242,7 +13917,7 @@ continuing general expenses,
 unforeseen trading expenses,
 
 
-
+--- Page 118 ---
 
 L 335/118 E N 
 —
@@ -14291,11 +13966,10 @@ The following names shall be given to authorisations which simultaneously cover 
 their choice.
 
 
+--- Page 119 ---
 
-
-17.12.2009 E N Official Journ al of the E uropean Un ion L 335/119
-
-*ANNEX II*
+17.12.2009 E N 
+# *ANNEX II*
 
 **CLASSES OF LIFE INSURANCE**
 
@@ -14318,12 +13992,12 @@ VIII. The operations referred to in point (b)(v) of Article 2(3);
 IX. The operations referred to in Article 2(3)(c).
 
 
+--- Page 120 ---
 
 
 
 
-
-*ANNEX III*
+# *ANNEX III*
 
 **LEGAL FORMS OF UNDERTAKINGS**
 
@@ -14390,12 +14064,11 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (24) in the case of the Slovak Republic: ‘akciová spoločnosť’;
 
 
+--- Page 121 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/121
 
 
 (25) in the case of the Republic of Finland: ‘keskinäinen vakuutusyhtiö/ömsesidigt försäkringsbolag’,
@@ -14469,7 +14142,7 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 ( [1] [) OJ L 294, 10.11.2001, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:294:0001:0001:EN:PDF)
 
 
-
+--- Page 122 ---
 
 
 
@@ -14543,10 +14216,9 @@ biztosító magyarországi fióktelepe’;
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 
 
+--- Page 123 ---
 
-
-17.12.2009 E N Official Journ al of the E uropean Un ion L 335/123
-
+17.12.2009 E N 
 (19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
 (20) in the case of the Republic of Poland: ‘spółka akcyjna’, ‘towarzystwo ubezpieczeń wzajemnych’;
@@ -14573,11 +14245,11 @@ Acts, the association of underwriters known as Lloyd’s;
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 
 
-
+--- Page 124 ---
 
 L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 
-*ANNEX IV*
+# *ANNEX IV*
 
 **SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA**
 
@@ -14649,10 +14321,9 @@ following:
 — SCR nl catastrophe denotes the non-life catastrophe risk sub-module,
 
 
+--- Page 125 ---
 
-
-17.12.2009 E N Official Journ al of the E uropean Un ion L 335/125
-
+17.12.2009 E N 
 3. **Calculation of the life underwriting risk module**
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
@@ -14720,10 +14391,10 @@ following:
 — SCR currency denotes the currency risk sub-module,
 
 
-
+--- Page 126 ---
 
 L 335/126 E N 
-*ANNEX V*
+# *ANNEX V*
 
 **GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES OF ARTICLE 159**
 
@@ -14742,11 +14413,11 @@ L 335/126 E N
 7. other classes (classes 16, 17 and 18 of Annex I).
 
 
-
+--- Page 127 ---
 
 11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
 
-*ANNEX VI*
+# *ANNEX VI*
 
 PART A
 
@@ -14844,7 +14515,7 @@ only Article 1
 only Article 22
 
 
-
+--- Page 128 ---
 
 
 
@@ -14961,12 +14632,11 @@ only Article 6
 only Article 58
 
 
+--- Page 129 ---
 
 
-11.72.2009 EN
 
 
-Official Journ al of the E uropean Un ion L 335/129
 
 
 Directive 2007/44/EC of the European Parliament and
@@ -15082,7 +14752,7 @@ only Article 1
 only Article 1
 
 
-
+--- Page 130 ---
 
 
 
@@ -15150,2496 +14820,4 @@ upon particular provision)
 
 2008/37/EC Not applicable
 
-
-
-
-Directive
-2001/17/EC
-
-
-Directive
-73/239/EEC
-
-
-Directive
-78/473/EEC
-
-
-Directive
-87/344/EEC
-
-
-Directive
-88/357/EEC
-
-
-Directive
-92/49/EEC
-
-
-*ANNEX VII*
-
-**CORRELATION TABLE**
-
-Directive
-98/78/EC
-
-
-Directive
-2002/83/EC
-
-
-Directive
-2005/68/EC
-
-
-Directive
-This Directive
-2007/44/EC
-
-
-Article 1(1) Article 2 Article 1(1) Article 2 FIRST
-
-sentence
-
-
-Article 1(1) Articles 1. 2(2),
-2(3) AND 267
-
-
-Article 1(2) Article 2(2)
-
-—
-Article 1(3)
-
-
-Article 2(1),
-points (a) to (c)
-
-Article 2(1),
-point (d)
-
-Article 2(1),
-point (e)
-
-Article 2(2),
-point (a)
-
-Article 2(2),
-point (b)
-
-Article 2(2),
-poInt (c)
-
-Article 2(2),
-point (d)
-
-Article 2(3), FIRST
-TO FOURTH
-subparagraphs
-
-Article 2(3), FIFTH
-subparagraph
-
-
-—
-
-Article 3(4) Article 3
-
-—
-
-Article 5(1)
-
-Article 5(2)
-
-Article 5(3)
-
-Article 5(4)
-
-##### Article 6
-
-Article 15(4)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 3(1), FIRST
-AND SECOND
-subparagraphs
-
-Article 3(1),
-THIRD
-subparagraph
-
-
-—
-
-Article 4(5)
-
-
-Article 3(2) Article 7
-
-
-Article 4, FIRST
-
-sentence
-
-
-Article 8, FIRST
-
-sentence
-
-
-Article 4, point (a) Article 8(2)
-
-—
-Article 4, point (b)
-
-Article 4, point (c) Article 8(3)
-
-—
-Article 4, point (e)
-
-Article 4, point (f) Article 8(1)
-
-Article 4, point (g) Article 8(4)
-
-—
-Article 5, point (a)
-
-
-Article 5, point (b) Article 1(1),
-point (o)
-
-Article 5, point (c) Article 1(1),
-point (p)
-
-
-—
-
-Article 134(1)
-
-
-—
-Article 5, point (d)
-
-Article 6 Article 4 Article 4 Article 3 Article 14(1), (2),
-points (a) and (b)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 7(1)
-and (2), FIRST
-subparagraph
-
-Article 7(2),
-SECOND
-subparagraph,
-POINT (a)
-
-Article 7(2),
-SECOND
-subparagraph,
-POINT (b)
-
-Article 8(1),
-point (a)
-
-Article 8(1),
-point (a), final
-paragraph
-
-Article 8(1),
-point (b)
-
-Article 8(1),
-point (c)
-
-Article 8(1),
-point (d)
-
-Article 8(1),
-point (e)
-
-Article 8(1),
-point (f)
-
-Article 8(1),
-SECOND TO
-
-FOUTH
-subparagraphs
-
-
-Article 5(1)
-and (2), FIRST
-SUBPARAGRAPH
-
-Article 5(2),
-SECOND
-subparagraph,
-POINT (a)
-
-Article 5(2)
-SECOND
-subparagraph,
-POINT (b)
-
-Article 6(1)
-point (a)
-
-Article 6(1),
-point (b)
-
-Article 6(1),
-point (c)
-
-Article 6(1),
-point (d)
-
-Article 6(1),
-point (e)
-
-
-Article 5(1)
-and (2), FIRST
-SUBPARAGRAPH
-
-Article 6(1),
-point (a)
-
-Article 6(1),
-point (b)
-
-Article 6(1),
-point (c)
-
-Article 6(1),
-point (d)
-
-Article 6(1),
-point (e)
-
-
-Article 15(1)
-and (2), FIRST
-SUBPARAGRAPH
-
-Article 15(3),
-FIRST
-
-SUBPARAGRAPH
-
-—
-
-Annex I Annex IIIA and B
-
-Article 5(2) Article 17(2)
-
-
-Article 6,
-point (a)
-
-Article 6,
-point (a)
-
-Article 6,
-point (b)
-
-Article 6,
-point (c)
-
-Article 6,
-point (d)
-
-
-Article 18(1),
-point (a)
-
-Article 18(1),
-point (b)
-
-Article 18(1),
-point (c)
-
-Article 18(1),
-point (d)
-
-Article 18,
-point (g)
-
-
-Article 18,
-point (h)
-
-Article 6(2) Article 7 Article 19
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 8(1a) Article 6(3) Article 8 Article 20
-
-Article 8(2) Article 6(2) Article 6(4) Article 18(2)
-
-
-Article 8(3), FIRST
-subparagraph
-
-Article 8(3),
-SECOND
-subparagraph
-
-Article 8(3),
-THIRD
-subparagraph
-
-Article 8(3),
-FOURTH
-subparagraph
-
-
-Article 6(3),
-FIRST
-subparagraph
-
-Article 6(3)
-SECOND
-subparagraph and
-Article 29 FIRST
-subparagraph,
-FIRST sentence
-
-Article 6(3)
-THIRD
-subparagraph and
-##### Article 29
-
-SECOND
-subparagraph
-
-Article 6(3)
-FOURTH
-subparagraph
-
-
-Article 6(5),
-THIRD
-subparagraph
-
-Article 6(5),
-FIRST
-subparagraph
-
-
-Article 9(1) Article 21(4)
-
-Article 9(2) Articles 21(1)
-FIRST
-subparagraph
-
-Article 21(2)
-
-Article 21(3)
-
-
-Article 8(4) Article 6(4) Article 6(6) Article 10 Article 22
-
-
-Article 9,
-points (a)-(d)
-
-Article 9,
-points (e) and (f)
-
-Article 9,
-points (g) and (h)
-
-
-Article 7,
-points (a) –(d)
-
-Article 7,
-points (e) and (f)
-
-Article 7,
-points (g) and (h)
-
-
-Article 7,
-points (a)-(d)
-
-Article 7(f)
-and (g)
-
-
-Article 11(1),
-points (a), (c), (d)
-and (e)
-
-Article 11(2),
-points (a) and (b)
-
-Article 11(2)(c)
-and (d)
-
-
-Article 23(1),
-points (a), (c), (d)
-and (e)
-
-Article 23(2),
-point (e)
-
-Article 23(2)(a)
-and (d)
-
-
-Article 10(1) Article 32(1) Article 40(1) Article 145(1),
-FIRST
-subparagraph
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 10(2),
-FIRST
-subparagraph
-
-Article 10(2),
-SECOND
-subparagraph
-
-
-Article 32(2)
-FIRST
-subparagraph
-
-Article 32(2)
-SECOND
-subparagraph
-
-
-Article 40(2) Article 145(2)
-
-Article 145(3)
-
-
-Article 10(3) Article 32(3) Article 40(3) Article 146(1)
-and (2)
-
-Article 10(4) Article 32(4) Article 40(4) Article 146(3)
-
-Article 10(5) Article 32(5) Article 40(5) Article 146(3),
-SECOND
-subparagraph
-
-Article 10(6) Article 32(6) Article 40(6) Article 145(4)
-
-Article 11 Article 33 —
-
-Article 12 Article 56 Article 9 Article 13 Article 25,
-SECOND
-subparagraph
-
-
-Article 12a Article 9a Articles 14
-and 60(2)
-
-
-Article 13(1)
-and (2), FIRST
-subparagraph
-
-Article 13(2),
-SECOND
-subparagraph
-
-Article 13(2),
-THIRD
-subparagraph
-
-
-Article 9(1)
-and (2), FIRST
-subparagraph
-
-Article 9(2),
-SECOND
-subparagraph
-
-
-Article 10(1), first
-sentence and (2),
-FIRST
-subparagraph
-
-Article 10(1),
-second and third
-
-sentences
-
-Article 10(2)
-SECOND
-subparagraph
-
-
-Article 15(1), first
-subparagraph
-and (2)
-
-Article 15(1),
-subparagraph 2
-
-
-##### Article 26
-
-Article 30(1), (2),
-FIRST
-subparagraph
-
-Article 30(2),
-SECOND
-
-SUBPARAGRAPH
-
-Article 30(3)
-
-
-Article 60(3) Article 32(1)
-
-
-—
-Article 13(3) Article 9(3) Article 10(3) Article 15(4)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 14 Article 10 Article 11 Article 16 Article 33
-
-
-Article 15(1), (2)
-and (3), SECOND
-subparagraph
-
-Article 15(3),
-FIRST
-subparagraph
-
-
-Article 17 Article 20(1)-(3)
-and (4) SECOND
-subparagraph
-
-Article 20(4),
-FIRST
-subparagraph
-
-
-Article 32(1)and
-(3)
-
-
-Articles 76 to 86
-
-
-Article 32(2) Articles 134(2)
-and 173
-
-
-Article 15a Article 18 Article 33 —
-
-
-Article 16 Article 27 Articles 35, 36,
-60(8)
-
-Article 16a Article 28 Articles 37-39,
-60(9)
-
-
-Articles 87-99
-
-Articles 100-127
-
-
-Article 17(1); Article 29(1) Article 40(1) Articles 128
-and 129(1)
-points (a)–(c)
-and (2)
-
-Article 17(2) Article 29(2) Article 40(2) Article 129(1)
-point (d)
-
-Article 17a Article 30 Article 41 —
-
-
-Article 17b Articles 28
-and 28, point (a)
-
-
-—
-Article 60(10)
-
-
-Article 18 Article 31 —
-
-Article 14 Article 11 Article 16 Article 33
-
-Article 19(2) Article 11(2) Article 13(2) Article 17(2) Article 35
-
-
-Article 19(3),
-FIRST and second
-subparagraphs,
-points (a) and (b)
-
-
-Article 10 Article 11(3)
-FIRST AND
-
-SECOND
-subparagraphS,
-POINTS (a)
-and (b)
-
-
-Article 13(3),
-FIRST AND
-
-SECOND
-subparagraphs 1
-and 2(a) and (b)
-
-
-Article 17(3)
-and (4), FIRST
-subparagraph,
-points (a) and (b)
-
-
-Article 34(1)-(3),
-(5), (6) AND (7)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 34(8)
-
-Article 35(2),
-point (b)
-
-
-Article 17(4),
-FIRST
-subparagraph,
-POINT (c)
-
-Article 17(4)
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 13(3),
-SECOND
-subparagraph,
-POINT (c)
-
-Article 13(3),
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 19(3),
-SECOND
-subparagraph,
-POINT (c)
-
-Article 19(3),
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 10 Article 11(3)
-SECOND
-subparagraph,
-POINT (c)
-
-Article 10 Article 11(3)
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 20(1) Article 37(1) Article 42(1) Article 137
-
-
-Article 20(2),
-FIRST
-
-SUBPARAGRAPH
-
-Article 20(2),
-SECOND
-
-SUBPARAGRAPH
-
-Article 20(3),
-FIRST
-
-SUBPARAGRAPH
-
-Article 20(3),
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 13(2)
-FIRST
-
-SUBPARAGRAPH
-
-Article 13(2)
-SECOND
-
-SUBPARAGRAPH
-
-Article 13(3)
-FIRST
-
-SUBPARAGRAPH
-
-Article 13(3)
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 37(2),
-FIRST
-
-SUBPARAGRAPH
-
-Article 37(2),
-SECOND
-
-SUBPARAGRAPH
-
-Article 37(3),
-FIRST
-
-SUBPARAGRAPH
-
-Article 37(3),
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 42(2),
-FIRST
-
-SUBPARAGRAPH
-
-Article 42(2),
-SECOND
-
-SUBPARAGRAPH
-
-Article 42(3),
-FIRST
-
-SUBPARAGRAPH
-
-Article 42(3),
-SECOND
-
-SUBPARAGRAPH
-
-
-—
-
-Article 138(5)
-
-—
-
-Article 139(3)
-
-
-—
-Article 20(4) Article 13(4)
-
-
-Article 20(5) Article 13(2),
-second
-subparagraph
-and (5)
-
-Article 20a(1),
-FIRST
-
-SUBPARAGRAPH,
-
-FIRST sentence
-
-Article 20a(1),
-FIRST
-
-SUBPARAGRAPH,
-SECOND
-
-sentence,
-POINTS (a)-(e)
-
-
-Article 37(2),
-second
-subparagraph
-and (5)
-
-Article 38(1),
-FIRST sentence
-
-Article 38(1),
-SECOND
-
-sentence,
-POINTS (a)-(e)
-
-
-Article 42(2),
-second
-subparagraph
-and (4)
-
-
-Article 138(5)
-
-
-Article 43(1) Article 138(2) and
-article 139(2)
-
-
-Article 43(2),
-POINTS (a)-(e)
-
-
-Article 142(1)
-
-
-Article 20a(2) Article 38(2) Article 141
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 20a(3) Article 38(3) Article 43(4) Article 140(2)
-
-—
-Article 20a(4) Article 38(4) Article 43(5)
-
-Article 20a(5) Article 38(5) Article 43(6) Article 142(2)
-
-Article 21 Article 11(1) —
-
-
-Article 22(1)
-FIRST
-
-SUBPARAGRAPH,
-points (a), (b)
-and (d)
-
-Article 22(1)
-SECOND
-SUBPARAGRAPH,
-
-FIRST sentence
-
-Article 22(1)
-SECOND
-SUBPARAGRAPH,
-SECOND
-
-SENTENCE
-
-
-Article 14 Article 39(1)
-FIRST
-
-SUBPARAGRAPH,
-points (a), (b)
-and (d)
-
-Article 39(1)
-SECOND
-SUBPARAGRAPH,
-FIRST SENTENCE
-
-Article 39(1)
-SECOND
-SUBPARAGRAPH,
-SECOND
-
-SENTENCE
-
-
-Article 44(1)
-FIRST
-
-SUBPARAGRAPH,
-points (a), (b)
-and (d)
-
-Article 44(1)
-SECOND
-SUBPARAGRAPH,
-
-
-Article 144(1),
-points (a), (b)
-and (c)
-
-Article 144(2),
-FIRST
-
-SUBPARAGRAPH
-
-Article 144(2),
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 22(2) Article 39(2) Article 44(2) Article 144(3)
-
-Article 23(1) Article 51(1) Article 162(1)
-
-Article 23(2)(a)-(g) Article 51(2) Article 162(2),
-points (a)-(f)
-and (h)
-
-
-Article 23(2),
-point (h)
-
-Article 24 FIRST
-
-SUBPARAGRAPH,
-FIRST SENTENCE
-
-Article 24 FIRST
-
-SUBPARAGRAPH,
-SECOND
-SENTENCE and
-
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 54 FIRST
-
-SUBPARAGRAPH,
-FIRST SENTENCE
-
-Article 54, FIRST
-SUBPARAGRAPH,
-SECOND
-
-SENTENCE –
-
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 162(2),
-point (g)
-
-Article 165, FIRST
-SENTENCE
-
-—
-
-
-Article 25 Article 55 Article 166
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 26 Article 56 Article 167
-
-
-Article 27 FIRST
-
-SUBPARAGRAPH
-
-##### Article 27
-
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 52(2),
-FIRST
-
-SUBPARAGRAPH
-
-Article 52(2),
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 168, FIRST
-SUBPARAGRAPH
-
-Article 168,
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 28 Article 52(3) Article 170
-
-Article 28a Article 53 Article 53 Article 164
-
-Article 29 Article 57 Article 171
-
-Article 29a Article 58 Article 176, first
-to third
-subparagraphs
-
-
-Article 29b(1)
-and (2)
-
-
-Article 59(1)
-and (2)
-
-
-Article 52(1)
-and (2)
-
-
-Article 177(1)
-and (2)
-
-—
-
-—
-
-Article 305(1)
-
-
-Article 29b(3)-(6) Article 59(3)-(6) Article 52(3)
-and (4)
-
-Article 30(1)
-and (2), point (a)
-
-Article 30(2),
-point (b)
-
-
-Article 30(4) Article 305(2)
-
-Article 30(5) Article 305(4)
-
-Article 31 —
-
-Article 32 —
-
-Article 33 Article 28 Article 62 Article 54(2) Article 298(2)
-and (3)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 34 Article 9 Article 29 Article 11(5) Article 6(5),
-FOURTH
-
-SUBPARAGRAPH
-
-
-Article 6 —
-
-Article 64(1) Article 7(1) Article 309(1)
-
-
-Article 35 Article 10 Article 10 Article 32 Article 57(1) Article 11(1)-(3) Article 31(1)
-and (2)
-
-
-Article 69(1)
-to (4)
-
-
-Article 36 Article 11 Article 11 Article 33 Article 57(2) Article 11(4) Article 31(3) Article 70 Article 64(2) Article 7(2) Article 309(2)
-
-Article 37 Article 34 —
-
-Article 38 Article 12 Article 12 Article 35 Article 58 Article 13 Article 33 Article 74 Article 66 Article 9 Article 312
-
-Annex, part A Article 15(2),
-SECOND
-
-SUBPARAGRAPH
-and Annex I, Part
-A
-
-Annex, part A, B Annex I, Part A
-and B
-
-Annex, part C Article 16
-
-—
-Annex, part D
-
-
-Article 1(1) FIRST
-SUBPARAGRAPH
-
-Article 1(1)
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 190(1)
-
-Article 190(2)
-
-
-—
-Article 1(2)
-
-Article 2(1) Article 190(1)
-
-Article 2(2) Article 190(3)
-
-Article 3 Article 191
-
-Article 4(1) Article 192 first
-and second
-subparagraphs
-
-—
-Article 4(2)
-
-Article 5 Article 193
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 6 Article 195
-
-Article 7 Article 194
-
-Article 8 Article 196
-
-Article 1 —
-
-Article 2 Article 198
-
-Article 3(1) Article 199
-
-
-Article 3(2) FIRST
-SUBPARAGRAPH,
-FIRST SENTENCE
-
-Article 3(2),
-points (a)-(c)
-
-
-Article 200(1)
-FIRST
-
-SUBPARAGRAPH
-
-Article 200(2)-(4)
-
-
-Article 3(3) Article 200(1)
-SECOND
-
-SUBPARAGRAPH
-
-Article 4 Article 201
-
-Article 5 Article 202
-
-Article 6 Article 203
-
-Article 7 Article 204
-
-Article 8 Article 205
-
-Article 9 Article 16(2)
-
-Article 1 —
-
-
-Article 2,
-points (a), (b)
-and (e)
-
-Article 2,
-point (c)
-
-Article 2,
-point (d)
-
-
-Article 1(1),
-point (c)
-
-
-Article 2(1),
-point (e)
-
-
-—
-
-—
-
-Article 13(13)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 2,
-point (f)
-
-
-Article 1,
-point (e)
-
-
-Article 1(1),
-point (h)
-
-
-—
-
-Article 145(1),
-second
-subparagraph
-
-
-Article 3 Article 1,
-point (b),
-SECOND
-
-SENTENCE
-
-
-Article 4 Article 187
-
-Article 6 —
-
-
-Article 7(1),
-points (a)–(e)
-
-Article 7(1),
-point (f)
-
-Article 7(1),
-point (g) and (3)
-
-Article 8(1)
-and (2)
-
-
-—
-
-Article 27 —
-
-—
-
-Article 179(1)
-and (2)
-
-
-—
-Article 8(3)
-
-
-Article 8(4),
-points (a) and (c)
-
-Article 8(4),
-point (d)
-
-
-—
-Article 30(1)
-
-Article 179(3)
-
-
-Article 8(5) Article 179(4)
-
-Article 12 —
-
-Article 12a(1)-(3) Article 150
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 12a(4)
-FIRST
-
-SUBPARAGRAPH
-
-Article 12a(4)
-second to sixth
-subparagraphs
-
-
-##### Article 151
-
-##### Article 152
-
-
-Article 14 Article 34 Article 41 Article 147
-
-
-Article 16(1), first
-and second
-subparagraphs
-
-Article 16(1)
-THIRD
-
-SUBPARAGRAPH
-
-
-Article 35 Article 42 Article 148
-
-Article 35 Article 148(2)
-
-
-Article 17 Article 36 Article 43 Article 149
-
-Article 26 —
-
-Article 27 —
-
-Article 31 Article 299
-
-Article 31 Article 68(2) Article 300
-
-Annex I Article 23 Annex II —
-
-Annex 2A —
-
-Annex 2B —
-
-
-Articles 5, 9, 10,
-
-11
-
-
-Article 1,
-point (a)
-
-Article 1,
-point (b)
-
-Article 1,
-point (c)
-
-
-Article 1,
-point (a)
-
-
-Article 2,
-point (a)
-
-Article 2,
-point (e)
-
-
-Article 1(1),
-point (a)
-
-Article 1(1),
-point (b)
-
-Article 1(1),
-point (e)
-
-
-Article 2(1),
-point (d)
-
-Article 2(1),
-point (f)
-
-
-—
-
-Article 13(1)
-
-Article 13(11)
-
-Article 13(8),
-point (a)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 1,
-point (d)
-
-Article 1,
-point (f)
-
-Article 1,
-point (g)
-
-Article 1,
-point (h),
-
-
-Article 1,
-point (d)
-
-
-Article 1(1),
-point (f)
-
-Article 1(1),
-point (i)
-
-Article 1(1),
-point (j)
-
-Article 1(1),
-point (k)
-
-Article 1(1),
-point (l)
-
-
-Article 1, point (i) Article 1,
-point (e)
-
-
-Article 1, point (j) Article 1(1),
-point (m)
-
-
-Article 1,
-point (k)
-
-
-Article 1,
-point (k)
-
-
-Article 2(h) Article 1(1),
-point (n)
-
-
-Article 1, point (l) Article 1(1),
-point (r)
-
-
-Article 1,
-point (l)(a)
-
-Article 1,
-point (l)(b)
-
-
-Article 1,
-point (f)
-
-
-Article 1(1),
-point (r)(i)
-
-Article 1(1),
-point (r)(ii)
-
-
-Article 2(1),
-point (g)
-
-Article 2(1),
-point (i)
-
-Article 2(1),
-point (j)
-
-Article 2(1),
-point (k)
-
-Article 2(1),
-point (l)
-
-Article 2(1),
-point (m)
-
-Article 2(1),
-point (n)
-
-Article 2(1),
-point (n)(i)
-
-Article 2(1),
-point (n)(ii)
-
-
-—
-
-Article 13(18)
-
-Articles 13(21),
-article 24(2), and
-##### Article 63
-
-Article 13(15)
-
-Article 13(16)
-
-Article 13(22)
-
-Article 13(10)
-
-Article 13(17)
-
-Article 13(20)
-
-Article 13(18)
-
-
-Article 3 Article 188
-
-Article 8 ARTICLE 12 Article 24(1)
-
-Article 12(2) Article 14(1) Article 18 Article 39(1)
-
-Article 12(3)-(6) Article 14(2)-(5) Article 39(2)-(6)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 15(1)
-and (2)
-
-
-Article 15(1)
-and (2)
-
-
-Article 19(1) Article 57
-
-
-Article 15(3) Article 15(3) Article 22 Article 61
-
-Article 15(4) Article 15(4) Article 23 Article 62
-
-Articles 15a Article 15a Article 19(2)-(8) Article 58(1)-(7)
-
-Articles 15b Article 15b Article 19a Article 59
-
-Articles 15c Article 15c Article 20 Article 60
-
-Article 16(1) Article 16(1) Article 24 Article 64
-
-Article 16(2) Article 16(2) Article 25 Article 65
-
-Article 16(3) Article 16(3) Article 26 Article 66
-
-Article 16(4) Article 16(4) Article 27 Article 67
-
-Article 16(5) Article 16(5) Article 28(1) Article 68(1)
-
-
-Article 16(5b) fist
-to fourth
-subparagraphs
-
-Article 16(5b)
-FIFTH
-
-SUBPARAGRAPH
-
-
-Article 16(7) first
-to fourth
-subparagraphs
-
-Article 16(7)
-FIFTH
-
-SUBPARAGRAPH
-
-
-Article 28(3) first
-to fourth
-subparagraphs
-
-Article 28(3)
-FIFTH
-
-SUBPARAGRAPH
-
-
-Article 68(3)
-
-Article 68(4)
-
-
-Article 16(3) Article 66
-
-Article 16(5c) Article 16(8) Article 29 Article 70
-
-Article 16(5a) Article 16(6) Article 28(2) Article 68(2)
-
-
-Article 16a(1),
-point (a)
-
-
-Article 17(1),
-point (a)
-
-
-Article 31(1), first
-subparagraph
-
-
-Article 72(1),
-points (a)-(c)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 16a(1),
-point (b)
-
-
-Article 17(1)(b) Article 31(1),
-second
-subparagraph
-
-
-Article 72(1)
-SECOND
-
-SUBPARAGRAPH
-
-
-Article 16a(2) Article 17(2) Article 31(2) Article 72(2)
-
-Article 20 Article 22 —
-
-Article 21 Article 23 Article 34(1)-(3) —
-
-Article 22 Article 24 Article 34(4) —
-
-Article 25 —
-
-Article 28 Article 33 Article 180
-
-Article 29 Article 181(1)
-and (3)
-
-Article 30(2) Article 181(2)
-
-Article 31 Article 183
-
-Article 38 Article 44 Article 153
-
-
-Article 39(2)
-and (3)
-
-
-Article 45 Article 154
-
-
-Article 40(2) Article 46(1) Article 155(8)
-
-Article 40(3) Article 46(2) Article 155(1)
-
-
-Article 40(4),
-(6)-(8) and (10)
-
-
-Article 46(3),
-(5)-(7) and (9)
-
-
-Article 155(2),
-(4)-(6) and (9)
-
-
-Article 40(5) Article 46(4) Article 155(3)
-
-Article 40(9) Article 46(8) Article 155(7)
-
-Article 41 Article 47 Article 156
-
-Article 42(2) Article 48 Article 160
-
-
-Article 43(2)
-and (3)
-
-
-##### Article 184
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 44(2) Article 49 Article 159 and
-Annex V
-
-Article 45(2) Article 189
-
-
-Article 46(2), first
-and third
-subparagraph.
-
-
-Article 50(1), first
-and third
-subparagraphs,
-and (2)
-
-
-##### Article 157
-
-
-Articles 47-50 —
-
-Article 51 Article 64 Article 56 —
-
-
-Article 51, final
-indent
-
-
-Article 1(4) Article 58(8)
-
-
-Article 52 —
-
-Article 54 Article 206
-
-Article 55 Article 207
-
-
-Articles 24
-and 26
-
-Articles 12(1),
-19, 33, 37, 39(1),
-40(1), 42(1),
-43(1), 44(1),
-45(1), 46(1),
-
-
-Article 1,
-point (b)
-
-
-—
-
-—
-
-Article 13(3)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 1,
-point (c)
-
-Article 1,
-point (g)
-
-Article 1,
-point (h)
-
-
-Article 1(1),
-point (s)
-
-
-Article 2(1),
-point (c)
-
-
-Article 1, point (i) Article 59(2),
-point (a)(i)
-
-Article 1, point (j) Article 59(2),
-point (a)(j)
-
-Article 1, point (l) Article 59(2),
-point (b)
-
-
-Article 13(4)
-
-Article 212(1),
-point (a)
-
-Article 212(1),
-point (b)
-
-Article 210(1),
-point (f)
-
-Article 210(1),
-point (g)
-
-Article 13(6)
-
-
-Article 2 Article 59(3) Article 214(1)
-
-Article 3 Article 59(3) Article 214(1)
-and (2), first and
-second
-subparagraphs
-
-Article 4 Article 59(3) Article 247(1)
-
-Article 5(1) Article 59(4) Article 246
-
-Article 5(2) Article 254(1)
-
-Article 6 Article 59(5) Articles 254(2),
-255(1) and (2)
-
-Article 7 Article 59(5) Articles 249(1),
-252, 253
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 8 Article 59(5) Articles 245, 246,
-258(1)
-
-Article 9 Article 59(6) Articles 218, 219,
-258(1)
-
-Article 10 Article 59(7) Articles 218, 219,
-258(1), 260-263
-
-Article 10a Article 59(8) Articles 264
-
-Article 10b Article 257
-
-Article 12 Article 32 Article 73 Article 65 Article 8(1) Article 311
-
-
-Annex I Article 59(9) and
-Annex II
-
-Annex II Article 59(9) and
-Annex II
-
-
-Articles 213-215,
-218-246
-
-Articles 215-217,
-220-243
-
-
-Article 1(2) Article 267
-
-
-Article 2,
-point (b)
-
-Article 2,
-point (c)
-
-Article 2,
-point (d)
-
-Article 2,
-point (f)
-
-Article 2,
-point (g)
-
-
-Article 2(1),
-point (h)
-
-
-Article 268(1),
-point (b)
-
-Article 268(1),
-point (c)
-
-Article 268(1),
-point (d)
-
-Article 13(9)
-
-Article 268(1),
-point (a)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 2, point (i) Article 268(1),
-point (e)
-
-Article 2, point (j) Article 268(1),
-point (f)
-
-
-Article 2,
-point (k)
-
-
-Article 268(1),
-point (g)
-
-
-Article 3 —
-
-Article 4 Article 269
-
-Article 5 Article 270
-
-Article 6 Article 271
-
-Article 7 Article 272
-
-Article 8 Article 273
-
-Article 9 Article 274
-
-Article 10 Article 275
-
-Article 11 Article 277
-
-Article 12 Article 278
-
-Article 13 Article 279
-
-Article 14 Article 280
-
-Article 15 Article 281
-
-Article 16 Article 282
-
-Article 17 Article 283
-
-Article 18 Article 284
-
-Article 19 Article 285
-
-Article 20 Article 286
-
-Article 21 Article 287
-
-Article 22 Article 288
-
-Article 23 Article 289
-
-Article 24 Article 290
-
-Article 25 Article 291
-
-Article 26 Article 292
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 27 Article 293
-
-Article 28 Article 294
-
-Article 29 Article 295
-
-Article 30(1) Article 268(2)
-
-Article 30(2) Article 296
-
-Annex Article 276
-
-
-Article 1(1),
-point (d)
-
-Article 1(1),
-point (g)
-
-Article 1(1),
-point (q)
-
-
-—
-
-Article 13(14)
-
-—
-
-
-—
-Article 1(2) Article 2(3)
-
-Article 2(1) Article 2(3)
-
-
-Article 3(2), (3)
-and (8)
-
-Article 3(5),
-and (7)
-
-
-##### Article 9
-
-##### Article 10
-
-
-—
-Article 3(6)
-
-
-Article 5(2)
-second and third
-subparagraphs
-
-Article 6(5) first
-and second
-subparagraph
-
-
-Article 15(2)
-THIRD
-
-SUBPARAGRAPH
-and (3) SECOND
-SUBPARAGRAPH
-
-Article 21(1)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-
-Article 7,
-point (e)
-
-
-Article 23(2),
-point (f)
-
-
-Article 8 Article 12 Article 24(1)
-
-Article 12 Article 208
-
-Article 16(9) Article 30 Article 69
-
-
-Article 18(1)
-to (6)
-
-
-##### Article 73
-
-
-—
-Article 18(7)
-
-
-Article 19(1),
-FIRST
-
-SUBPARAGRAPH,
-first indent
-
-Article 19(1),
-SECOND
-SUBPARAGRAPH,
-second indent
-
-Article 19(1),
-SECOND
-SUBPARAGRAPH,
-(2) and (3)
-
-
-Article 74(1)
-
-Article 74(3),
-SECOND
-
-SUBPARAGRAPH
-
-Article 74(4)-(7)
-
-
-Article 21 Article 209
-
-Article 25 —
-
-Article 26 —
-
-Article 32 —
-
-Article 34 Article 182
-
-Article 35 Article 186
-
-Article 36(1) Article 185(1)
-
-Article 36(2) Article 185(4),
-FIRST SENTENCE
-
-Annex III(A) Article 185(6)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 36(3) Article 185(7)
-
-Article 41 Article 147
-
-Article 42(1)-(3) Article 148(1), (3)
-and (4)
-
-Article 43 Article 149
-
-Article 45 —
-
-Article 48 Article 160
-
-Article 49 Article 159
-
-
-Article 51(2),
-points (a) to (g)
-
-Article 51(3)
-and (4)
-
-
-Article 162(2),
-points (a)–(e), (g)
-and (h)
-
-##### Article 163
-
-
-Article 52(1) Article 169
-
-
-Article 55(1)
-and (2)
-
-
-Article 166(1)
-and (2)
-
-
-Article 56 Article 167
-
-
-Article 59(1)
-and (2)
-
-Article 59(3)
-and (6)
-
-
-Article 52(1)
-and (2)
-
-Article 52(3)
-and (4)
-
-
-Article 177(1)
-and (2)
-
-—
-
-
-Article 60(1) Article 305(2),
-second and third
-subparagraphs
-
-Article 60(2) Article 305(3)
-
-Article 31 Article 61 Article 43
-
-Article 65 Article 55 Article 301(1)
-and (3)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 66 Article 308
-
-Article 67 Article 53 Article 297
-
-—
-Article 68(1)
-
-Article 71 —
-
-Article 72 Article 310
-
-Annex I Annex II
-
-Annex III Article 185(2),
-points (a) –(c), (3),
-and (5), FIRST
-SUBPARAGRAPH
-
-Annex IV —
-
-Annex V Annex VI
-
-Annex VI Annex VII
-
-
-Article 1(2),
-point (d)
-
-Article 2(1),
-point (a)
-
-Article 2(1),
-point (b)
-
-Article 2(1),
-point (h)
-
-Article 2(1),
-point (o)
-
-Article 2(1),
-point (p)
-
-Article 2(1),
-point (q)
-
-
-##### Article 11
-
-Article 13(7)
-
-—
-
-Article 13(9)
-
-Article 13(25)
-
-Article 13(26)
-
-Article 210(3)
-
-
-—
-Article 2(2)
-
-
-
-
-Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
-
-Article 4(2) Article 15(5)
-
-
-Article 5(1),
-FIRST
-
-SUBPARAGRAPH
-and (2)
-
-
-Article 17(1)
-and (2),
-Annex IIIC;
-
-
-Article 9(1) Article 21(4)
-
-
-Article 11(1),
-point (b)
-
-
-Article 23(1),
-point (b)
-
-
-Article 15(3) Article 32(2)
-
-Article 21 —
-
-Article 45 —
-
-Article 46 Article 211(1)
-and (2)
-
-Article 47 Article 158
-
-Article 48 Article 161
-
-Article 50 Article 175
-
-Article 51 Article 176
-
-Article 54(1) Article 298(1)
-
-Article 61 Article 308
-
-Article 62 Article 12
-
-Article 63 Article 307
-
-
-Articles 57, 58,
-59 and 60,
-Annex II,
-
-
-Articles 1(4), 2(4)
-and 4(6)
-
-
-—
-
-Article 58(8)
-
-
-Article 8(2) Article 312
 
