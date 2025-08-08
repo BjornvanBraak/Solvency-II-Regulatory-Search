@@ -77,14 +77,15 @@ function MyComponent({ args, disabled, theme }: ComponentProps): ReactElement {
       // Check if the message is the one we care about
       if (messageData.type === 'POPOVER_CLICKED') {
         const documentLink = messageData.documentLink;
-        console.log(`React component received a click event for: ${documentLink}`);
+        const pageNumber = messageData.pageNumber || null; // Use pageNumber if available, otherwise null
+        console.log(`React component received a click event for: ${documentLink} on page ${pageNumber}`);
         setLastClickedLink(documentLink);
-        Streamlit.setComponentValue(documentLink);
+        Streamlit.setComponentValue({documentLink, pageNumber});
       } else if (messageData.type === 'CLEAR_PDF') {
         // Handle the CLEAR_PDF message
         console.log("React component received a clear PDF event.");
         setLastClickedLink("Nothing clicked yet.");
-        Streamlit.setComponentValue(null);
+        Streamlit.setComponentValue({documentLink: null, pageNumber: null});
       }
     };
 

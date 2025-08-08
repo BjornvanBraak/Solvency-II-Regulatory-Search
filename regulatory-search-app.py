@@ -172,7 +172,7 @@ supports_thought = ["GEMINI_25_PRO"]
 
 sidebar = st.sidebar
 
-sidebar.header("User Config")
+sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
@@ -189,9 +189,9 @@ if os.environ["ENABLE_RERANKER"] == "TRUE":
     )
 
 llm_option = sidebar.selectbox(
-"Which LLM to choose",
-(Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
-format_func=lambda x: x.value["model"]
+    "Which LLM to choose",
+    (Language_Model.AZURE_GPT_5, Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
+    format_func=lambda x: x.value["model"]
 )
 k = sidebar.slider("Pieces of text retrieved (k)", 0, 20, 10)
 top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 5 if k >= 5 else k)
@@ -260,6 +260,9 @@ if "document_link_through_link" not in st.session_state:
 if 'pdf_to_display' not in st.session_state:
     st.session_state.pdf_to_display = None
 
+if 'pdf_page_number' not in st.session_state:
+    st.session_state.pdf_page_number = None
+
 if "messages" not in st.session_state:
     st.session_state["messages"] = [
     system_instructions_dict,
@@ -277,17 +280,19 @@ def close_pdf_display():
     # st.session_state["document_link_through_link"] = None
     # there should be an easier way to do this, but this works
     st.session_state.pdf_to_display = None
+    st.session_state.pdf_page_number = None
     # print("PDF display closed.")
     st.session_state.message_to_component = {"type": "CLEAR_PDF"}
 
 
-def set_pdf_to_display(pdf_link):
+def set_pdf_to_display(pdf_link, page_number=None):
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
     # print(f"Setting pdf to display: {pdf_link}")
     st.session_state.pdf_to_display = pdf_link
+    st.session_state.pdf_page_number = page_number
     # print(f"Set pdf to display: {st.session_state.pdf_to_display}")
 
-def displayPDF(file_name):
+def displayPDF(file_name, page_number=None):
     APP_ROOT = os.path.dirname(os.path.abspath(__file__))
     STATIC_DIR = os.path.join("app", "static")
     ALLOWED_PDF_DIR = os.path.join(APP_ROOT, STATIC_DIR)
@@ -297,10 +302,17 @@ def displayPDF(file_name):
     # print(f"Real file path: {real_file_path}")
 
     if not os.path.realpath(real_file_path).startswith(os.path.realpath(ALLOWED_PDF_DIR)):
-        
         raise Exception("Path not allowed, only serves PDF from static folder ", ALLOWED_PDF_DIR)
     
     secure_file_path = os.path.join(STATIC_DIR, file_name)
+
+    if not (isinstance(page_number, int) or page_number is None):
+        print(f"Page number is not an integer: {page_number}, type: {type(page_number)}")
+        raise Exception("Page number must be an integer")
+    
+    print(f"[displayPDF] UNSECURE File name: {file_name}, page number: {page_number}")
+
+    secure_page_number = str(page_number) if page_number is not None else ""
 
     # print("FILE_NAME: ", file_name)
     if file_name == "solvency-II-files\\guidelines-level 3-v0.1 - TRUNCATED\\Joint ESA Gls MiCAR %28JC 2024 28%29_EN.pdf":
@@ -308,9 +320,10 @@ def displayPDF(file_name):
         print(f"File replaced: {real_file_path}")
         secure_file_path = os.path.join(STATIC_DIR, "solvency-II-files\\guidelines-level 3-v0.1 - TRUNCATED\\Joint ESA Gls MiCAR JC 2024_EN.pdf")
 
-    # print("Displaying pdf with: ", secure_file_path)
-    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}" width="600" height="550" type="application/pdf"></iframe>'
-    
+
+    print("[displayPDF] Displaying pdf with: ", secure_file_path, " page number: ", secure_page_number)
+    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}#page={secure_page_number}" width="600" height="550" type="application/pdf"></iframe>'
+
     # Displaying File
     with st.container(key="pdf-display-container"):
         st.button(key="close-button", label="close", on_click=close_pdf_display, icon="❌")
@@ -334,8 +347,16 @@ if st.session_state.message_to_component:
 
 # SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
 with sidebar:
-    document_link_through_link = my_component("Debugger for messenger", "messenger")
+    result = my_component("Debugger for messenger", "messenger")
+    print("result: ", result)
+    print(f"Type of result: {type(result)}")
+    document_link_through_link = None
+    page_number_through_link = None
+    if not result == 0:
+        document_link_through_link = result["documentLink"]
+        page_number_through_link = int(result["pageNumber"])
     prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
+    print(f"Document link through link: {document_link_through_link}, page number: {page_number_through_link}")
 
 # print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
 if document_link_through_link != prev_document_link_through_link:
@@ -347,7 +368,7 @@ if document_link_through_link != prev_document_link_through_link:
         print("PDF is cleared") # so no need to rerender
         # st.session_state.document_link_through_link = None
     else: 
-        set_pdf_to_display(document_link_through_link) 
+        set_pdf_to_display(document_link_through_link, page_number=page_number_through_link) 
     st.session_state["document_link_through_link"] = document_link_through_link
 
 print(f"Loaded document link link: {document_link_through_link}")
@@ -415,17 +436,18 @@ def displaySources(document_sources):
         with st.container(key=container_key):
             for document_source in deduplicated_document_sources:
                 document_link = document_source["link"]
+                page_number = document_source.get("page_number", None)
 
                 TITLE_LENGTH_LIMIT = 50
 
                 truncated_title = document_source["short_title"] if len(document_source["short_title"]) <= TITLE_LENGTH_LIMIT else document_source["short_title"][:TITLE_LENGTH_LIMIT] + "..."
 
-                print(f"Document link: {document_source["link"]}")
+                print(f"[DisplaySources] Document link: {document_source["link"]}, page number: {page_number}")
                 st.button(
                     key=f"{document_source["query_id"]}---{document_source["link"]}",
                     label=f"{truncated_title}", 
                     on_click= set_pdf_to_display, 
-                    args=(document_link, ), #args in python need to give not wrapped with function as in js
+                    args=(document_link, page_number), #args in python need to give not wrapped with function as in js
                     icon="🔗"
                 )
 
@@ -439,13 +461,17 @@ with chat_col:
 
     # with st.popover("test"):
     #     st.markdown("# Test")
+
+# with pdf_col:
+#     st.markdown('<iframe id=pdf_sidebar_test src="http://localhost:8501/app/static/solvency-II-files/guidelines-level%203-v0.1%20-%20TRUNCATED/Guidelines%20on%20Own%20Risk%20Solvency%20Assessment%20.pdf#page=4" width="600" height="550" type="application/pdf"></iframe>', unsafe_allow_html=True)
+
     
 # PDF INTERFACE
 if st.session_state.pdf_to_display:
     # WARNING : pdf_to_display through buttons in displaySources OR by clicking on buttons in the popovers.
     print("pdf: ", st.session_state.pdf_to_display)
     with pdf_col:
-        displayPDF(st.session_state.pdf_to_display)    
+        displayPDF(st.session_state.pdf_to_display, st.session_state.pdf_page_number)    
 
 popover_elements_event_listener = """
 <script>
@@ -464,11 +490,14 @@ popover_elements_event_listener = """
         function handlePopoverClick(event) {
             const button = event.currentTarget;
             const documentLink = button.dataset.documentLink;
-            console.log(documentLink)
+            const pageNumber = button.dataset.pageNumber || null;
+            console.log(documentLink);
+            console.log("pageNumber: ", pageNumber);
             // button.style.color = "red";
             componentWindow.postMessage({
                 type: 'POPOVER_CLICKED',
-                documentLink: documentLink
+                documentLink: documentLink,
+                pageNumber: pageNumber,  // Use dataset to get page number if available
             }, '*'); // In production, use the component's actual origin instead of '*'
 
         }
@@ -483,6 +512,7 @@ footer = st.container(key="footer-container") # dump for any container with no v
 with chat_col:
     messages_container = chat_col.container()
     messages_container.chat_message("assistant").write("Hello, I am here to help search through documents related to Solvency II")
+
     token_count = 0
     for message in st.session_state.messages:
         # do not print out system prompt
@@ -547,89 +577,112 @@ with chat_col:
         chunks_concatenated = ""
         document_sources = []
         query_id = str(uuid.uuid4())
-        if embedding_model_option.value["data-ingestion-pipeline"] == "v1":
-            raise Exception("No longer supported, use v2 data ingestion pipeline (reason reranker).")
+        # if embedding_model_option.value["data-ingestion-pipeline"] == "v1":
+        #     raise Exception("No longer supported, use v2 data ingestion pipeline (reason reranker).")
         
-            for idx, document in enumerate(matched_documents):
-                source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
-                #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
-                document_sources.append(source)
-                chunks_concatenated += f"###\n source {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
-        elif embedding_model_option.value["data-ingestion-pipeline"] == "v2":
-            matched_documents = None
-            relevance_scores = []
-            if reranker_model is None:
-                matched_documents = vectorstore.similarity_search(query=query,k=k)
-                # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
-            else:
-                print(f"Reranking documents with {reranker_model_option.value['model']}")
-                retriever = vectorstore.as_retriever(search_kwargs={"k": k})
-                compressor = ContextualCompressionRetriever(base_compressor=reranker_model, 
-                                            base_retriever=retriever
-                )
-
-                reranked_documents = compressor.invoke(query)
-
-                matched_documents = reranked_documents
-                relevance_scores = [doc.metadata["relevance_score"] for doc in matched_documents]
-
-                print(f"Relevance scores: {relevance_scores}")
-                st.session_state.relevance_scores = relevance_scores
-
-            for idx, chunk in enumerate(matched_documents):
-
-                source_index = idx + 1
-
-                print("PRINTING CHUNK METADATA:")
-                pprint.pprint(chunk.metadata)
-                print("END OF PRINT CHUNK METADATA")
-
-                # define metadata
-                title = ""
-                if "title" in chunk.metadata and chunk.metadata["title"] != "":
-                    title = chunk.metadata["title"]
-                else: 
-                    title = str(chunk.metadata["source"]).split("data\\raw\\solvency-II-files\\")[-1]
-                    title = title.replace("guidelines-level 3-v0.1 - TRUNCATED\\", "guidelines-level-3: ")
-
-                # short title is used for display in the UI, so it is shorter than the full title
-                if not "short_title" in chunk.metadata:
-                    short_title = get_short_title(chunk.metadata["source"].split("\\")[-1])
-                else:
-                    short_title = chunk.metadata["short_title"]
-
-                source_metadata = ""
-                source_metadata += f"* Title: {title}"
-                source_metadata += f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else ""
-                source_metadata += f"\n* Author: {chunk.metadata["Author"]}\n" if "Author" in chunk.metadata else ""
-                source_metadata += f"\n* Header 1: {chunk.metadata["Header 1"]}\n" if "Header 1" in chunk.metadata else ""
-                source_metadata += f"\n* Header 2: {chunk.metadata["Header 2"]}\n" if "Header 2" in chunk.metadata else ""
-                source_metadata += f"\n* Header 3: {chunk.metadata["Header 3"]}\n" if "Header 3" in chunk.metadata else ""
-
-                # deduplicated list of document sources, used at end of chat
-                print(f"chunk metadata: source {chunk.metadata["source"]}")
-
-                # example: chunk.metadata["source"] == data\raw\solvency-II-files\solvency II - level 2.pdf
-                print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
-
-
-
-                # document_source is the UI data format, used to both display pdf sources, and page_content on click
-                document_source = {
-                        "source_index": source_index,
-                        "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
-                        "title": title,
-                        "short_title": short_title,
-                        "page_content": chunk.page_content,
-                        "query": query,
-                        "query_id": query_id
-                    }
-
-                document_sources.append(document_source)
-
-                chunks_concatenated += f"\n ### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
+        #     for idx, document in enumerate(matched_documents):
+        #         source = f"{document.metadata["source"]} on page {document.metadata["page_label"]}"
+        #         #note: unsure why metadata has a page and page_label attribute?, verified that page_label was correct for data kwality pdf
+        #         document_sources.append(source)
+        #         chunks_concatenated += f"###\n source {idx}, ref {source}:\n\n {document.page_content} \n\n\n"
+        
+        matched_documents = None
+        relevance_scores = []
+        if reranker_model is None:
+            matched_documents = vectorstore.similarity_search(query=query,k=k)
+            # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
         else:
-            raise Exception("Way of displaying metadata from data ingestion pipeline not implemented")
+            print(f"Reranking documents with {reranker_model_option.value['model']}")
+            retriever = vectorstore.as_retriever(search_kwargs={"k": k})
+            compressor = ContextualCompressionRetriever(base_compressor=reranker_model, 
+                                        base_retriever=retriever
+            )
+
+            reranked_documents = compressor.invoke(query)
+
+            matched_documents = reranked_documents
+            relevance_scores = [doc.metadata["relevance_score"] for doc in matched_documents]
+
+            print(f"Relevance scores: {relevance_scores}")
+            st.session_state.relevance_scores = relevance_scores
+
+        for idx, chunk in enumerate(matched_documents):
+
+            source_index = idx + 1
+
+            print("PRINTING CHUNK METADATA:")
+            pprint.pprint(chunk.metadata)
+            print("END OF PRINT CHUNK METADATA")
+
+            # define metadata
+            title = ""
+            if "title" in chunk.metadata and chunk.metadata["title"] != "":
+                title = chunk.metadata["title"]
+            else: 
+                title = str(chunk.metadata["source"]).split("data\\raw\\solvency-II-files\\")[-1]
+                title = title.replace("guidelines-level 3-v0.1 - TRUNCATED\\", "guidelines-level-3: ")
+
+            # short title is used for display in the UI, so it is shorter than the full title
+            if not "short_title" in chunk.metadata:
+                short_title = get_short_title(chunk.metadata["source"].split("\\")[-1])
+            else:
+                short_title = chunk.metadata["short_title"]
+
+            header_1 = chunk.metadata.get("Header 1", "")
+            header_2 = chunk.metadata.get("Header 2", "")
+            header_3 = chunk.metadata.get("Header 3", "")
+            if embedding_model_option.value["data-ingestion-pipeline"] == "v3":
+                header_4 = chunk.metadata.get("Header 4", "")
+                header_5 = chunk.metadata.get("Header 5", "")
+            else:
+                header_4 = ""
+                header_5 = ""
+
+            heading_hierarchy = [header_1, header_2, header_3, header_4, header_5]
+
+            source_metadata = ""
+            source_metadata += f"* Title: {title}"
+            source_metadata += f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else ""
+            source_metadata += f"\n* Author: {chunk.metadata["Author"]}\n" if "Author" in chunk.metadata else ""
+            source_metadata += f"\n* Header 1: {header_1}\n" if header_1 else ""
+            source_metadata += f"\n* Header 2: {header_2}\n" if header_2 else ""
+            source_metadata += f"\n* Header 3: {header_3}\n" if header_3 else ""
+
+            if embedding_model_option.value["data-ingestion-pipeline"] == "v3":
+                # additional metadata is available
+                # namely: page_number, short_title
+                # in addition: improved structure extraction:
+                # now for solvency level 1 and level 2 you have 5 heading levels instead of 3 (and improved quality), TITLE, CHAPTER, Section, Subsection, Article
+                source_metadata += f"\n* Header 4: {header_4}\n" if header_4 else ""
+                source_metadata += f"\n* Header 5: {header_5}\n" if header_5 else ""
+
+            # deduplicated list of document sources, used at end of chat
+            print(f"chunk metadata: source {chunk.metadata["source"]}")
+
+            # example: chunk.metadata["source"] == data\raw\solvency-II-files\solvency II - level 2.pdf
+            print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
+
+            # document_source is the UI data format, used to both display pdf sources, and page_content on click
+            document_source = {
+                    "source_index": source_index,
+                    "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
+                    "title": title,
+                    "short_title": short_title,
+                    "page_content": chunk.page_content,
+                    "query": query,
+                    "query_id": query_id
+                }
+            
+            if embedding_model_option.value["data-ingestion-pipeline"] == "v3":
+                # add additional metadata for v3 data ingestion pipeline
+                document_source["page_number"] = chunk.metadata.get("page_number", "")
+                document_source["heading_hierarchy"] = heading_hierarchy
+                
+                
+
+            document_sources.append(document_source)
+
+            chunks_concatenated += f"\n ### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
 
 
         print(f"CHUNKS CONCATENATED FOR {source_index}: {chunks_concatenated}")
@@ -821,13 +874,17 @@ with chat_col:
                     
                     page_content = document_source["page_content"]
                     document_link = document_source["link"]
+                    page_number = document_source.get("page_number", None)
+                    heading_hierarchy = document_source["heading_hierarchy"]
+                    # remove italic or bold markdown from headings
+                    html_non_empty_headings = [re.sub(r"^\s*\*{1,2}([\S\s]+)\*{1,2}\s*$", r"\1", heading) for heading in heading_hierarchy if heading != ""]
 
                     rand = random.randint(0, 10000)
                     query_id = document_source["query_id"]
 
                     # due to streamlit filtering out inline js when invoking container.html(), e.g. onclick listeners. The onclick listeners are attached seperately in an iframe component
-                    page_content_with_button = page_content + f"""
-                        <button id="pop-button-{query_id}-{rand}-{source_num}" data-document-link="{document_link}" style="
+                    button_view_pdf =  f"""
+                        <button id="pop-button-{query_id}-{rand}-{source_num}" data-document-link="{document_link}" data-page-number="{page_number}" style="
     display: block;
     font-weight: 400;
     padding: 0.25rem 0.75rem;
@@ -841,13 +898,13 @@ with chat_col:
 ">View PDF of {document_source["short_title"]}</button>
     """
 
-                    pprint.pprint(page_content_with_button)
+                    # pprint.pprint(page_content_with_button)
                     # st-cf st-cg st-ch
                     # streamlit_popover_styling_classes = "st-bb st-es st-et st-eu st-ev st-ew st-ex st-fh st-b5 st-fi st-f0 st-f1 st-f2 st-f3 st-f4 st-f5 st-f6 st-f7 st-av st-aw st-ax st-ay st-f8 st-f9 st-fa st-fb st-az st-b0 st-b1 st-b2 st-fc st-fd st-fe st-ff"
                     streamlit_popover_styling_classes = ""
 
                     # need to convert markdown without triggering streamlit render, under the hood streamlit uses markdown-it-py
-                    html_page_content = md.render(page_content_with_button)
+                    html_page_content = md.render(page_content)
                     popover_elements += f"""
                     <style>
                     [popovertarget="pop-{query_id}-{rand}-{source_num}"]{{
@@ -863,9 +920,40 @@ with chat_col:
                         position-try-fallbacks: flip-block, flip-inline, flip-start;
                         position-try: flip-block, flip-inline, flip-start;
                     }}
+                    blockquote {{
+                        background-color: #f0f9ff;  
+                        border-left: 5px solid #007bff;  
+                        padding: 20px;  
+                        margin: 20px 0;  
+                        font-style: italic;  
+                        color: #333;  
+                        border-radius: 5px;  
+                        position: relative;  
+                    }}
+            
+                    blockquote::before {{  
+                        content: "“";  
+                        font-size: 4em;  
+                        color: rgba(0, 123, 255, 0.2);  
+                        position: absolute;  
+                        top: -10px;  
+                        left: 10px;  
+                    }}  
+
+                    blockquote cite {{ 
+                        display: block;  
+                        margin-top: 10px;  
+                        font-size: 0.9em;  
+                        color: #555;  
+                    }}  
                     </style>             
                     <div popover id="pop-{query_id}-{rand}-{source_num}" class="{streamlit_popover_styling_classes}">
-                        <p>{html_page_content}</p>
+                        <h3>{document_source["short_title"]}</h3>
+                        <h4>{" > ".join(html_non_empty_headings)}</h4>
+                        <blockquote>
+                            <p>{html_page_content}</p>
+                        </blockquote>
+                        {button_view_pdf}
                     </div>
                     """
 
