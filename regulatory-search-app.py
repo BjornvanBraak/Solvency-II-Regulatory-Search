@@ -15,6 +15,9 @@ import uuid
 from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_core.messages.ai import AIMessageChunk
 from langchain.retrievers.contextual_compression import ContextualCompressionRetriever
+
+
+
 import time
 import streamlit.components.v1 as components
 
@@ -321,7 +324,7 @@ def displayPDF(file_name, page_number=None):
         secure_file_path = os.path.join(STATIC_DIR, "solvency-II-files\\guidelines-level 3-v0.1 - TRUNCATED\\Joint ESA Gls MiCAR JC 2024_EN.pdf")
 
 
-    print("[displayPDF] Displaying pdf with: ", secure_file_path, " page number: ", secure_page_number)
+    # print("[displayPDF] Displaying pdf with: ", secure_file_path, " page number: ", secure_page_number)
     pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}#page={secure_page_number}" width="600" height="550" type="application/pdf"></iframe>'
 
     # Displaying File
@@ -348,15 +351,15 @@ if st.session_state.message_to_component:
 # SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
 with sidebar:
     result = my_component("Debugger for messenger", "messenger")
-    print("result: ", result)
-    print(f"Type of result: {type(result)}")
+    # print("result: ", result)
+    # print(f"Type of result: {type(result)}")
     document_link_through_link = None
     page_number_through_link = None
     if not result == 0:
         document_link_through_link = result["documentLink"]
-        page_number_through_link = int(result["pageNumber"])
+        page_number_through_link = int(result["pageNumber"]) if isinstance(result["pageNumber"], str) else result["pageNumber"]
     prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
-    print(f"Document link through link: {document_link_through_link}, page number: {page_number_through_link}")
+    # print(f"Document link through link: {document_link_through_link}, page number: {page_number_through_link}")
 
 # print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
 if document_link_through_link != prev_document_link_through_link:
@@ -610,9 +613,9 @@ with chat_col:
 
             source_index = idx + 1
 
-            print("PRINTING CHUNK METADATA:")
-            pprint.pprint(chunk.metadata)
-            print("END OF PRINT CHUNK METADATA")
+            # print("PRINTING CHUNK METADATA:")
+            # pprint.pprint(chunk.metadata)
+            # print("END OF PRINT CHUNK METADATA")
 
             # define metadata
             title = ""
@@ -657,10 +660,10 @@ with chat_col:
                 source_metadata += f"\n* Header 5: {header_5}\n" if header_5 else ""
 
             # deduplicated list of document sources, used at end of chat
-            print(f"chunk metadata: source {chunk.metadata["source"]}")
+            # print(f"chunk metadata: source {chunk.metadata["source"]}")
 
             # example: chunk.metadata["source"] == data\raw\solvency-II-files\solvency II - level 2.pdf
-            print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
+            # print(f"split: {str(chunk.metadata["source"]).split("data\\raw\\")}")
 
             # document_source is the UI data format, used to both display pdf sources, and page_content on click
             document_source = {
@@ -685,8 +688,8 @@ with chat_col:
             chunks_concatenated += f"\n ### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
 
 
-        print(f"CHUNKS CONCATENATED FOR {source_index}: {chunks_concatenated}")
-        print(f"DOCUMENT SOURCE: {document_sources}")
+        # print(f"CHUNKS CONCATENATED FOR {source_index}: {chunks_concatenated}")
+        # print(f"DOCUMENT SOURCE: {document_sources}")
 
         # NOT IN USE YET, CAN BE USEFUL FOR VERIFICATION
         #source: https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/
@@ -712,19 +715,26 @@ with chat_col:
 
         chat = [("system", generation_instructions) , ]
 
+        def escape_for_prompt_template(text: str) -> str:
+            return text.replace("{", "{{").replace("}", "}}")
+
+        escape_for_prompt_template("SCR = BSCR + \\text{Operational Risk} - \\text{Loss-absorbing capacity adjustments}\n")
+
         for message in st.session_state.messages:
             if message["role"] == "system":
                 continue
             if message["role"] == "user":
                 chat.append(("user", message["prompt"]))
             elif message["role"] == "assistant":
-                chat.append(("assistant", message["content_unformatted"]))
+                # text may contain latex with curly braces: \\text{Operational Risk}
+                escaped_content_unformatted = escape_for_prompt_template(message["content_unformatted"])
+                chat.append(("assistant", escaped_content_unformatted))
 
         chat.append(("user", prompt))
 
-        # problem with sources overlapping, may confuses the LLM?
-        # print("Chat history for LLM:")
-        # pprint.pprint(chat)
+        # Note: potential problem with sources ids overlapping of different chat (e.g. source 1, from previous prompt, with current source 1 from current prompt), may confuses the LLM?
+        print("Chat history for LLM:")
+        pprint.pprint(chat)
 
         count_tokens(prompt)
 
@@ -841,12 +851,12 @@ with chat_col:
                 
                 messages_container.warning("Warning: could not find, source may be hallucinated!")
                 
-                print("Document_source: ", document_source)
-                print(source_num)
-                print(document_source["source_index"] == int(source_num))
-                print(type(document_source["source_index"]))  # <class 'int'>
-                print(type(source_num))
-                print(f"[NOT FOUND] Document index: {source_num}")
+                # print("Document_source: ", document_source)
+                # print(source_num)
+                # print(document_source["source_index"] == int(source_num))
+                # print(type(document_source["source_index"]))  # <class 'int'>
+                # print(type(source_num))
+                # print(f"[NOT FOUND] Document index: {source_num}")
                 return {"page_content": "not_found"}
                 # raise Exception("Could not find the page, something wrong with implementation")
 
@@ -859,15 +869,15 @@ with chat_col:
                 # source_text = match.group(1)  # "Source 3"
                 popover_target = ""
                 source_numbers_group = match.group(2)   # "1, 2, 3, 5, 7, 9, 11, 12"
-                print("source_numbers_group ...", source_numbers_group)
+                # print("source_numbers_group ...", source_numbers_group)
                 source_numbers = [num.strip() for num in source_numbers_group.split(',')]
-                print("source_numbers ...: ", source_numbers)
+                # print("source_numbers ...: ", source_numbers)
 
                 for source_num in source_numbers:
                     if source_num == "":
                         continue
                     elif isinstance(source_num, str) and not source_num.isdigit():
-                        print(f"Source was not an int: {source_num}, type: {type(source_num)}")
+                        # print(f"Source was not an int: {source_num}, type: {type(source_num)}")
                         continue
 
                     document_source = findPage(document_sources, source_num)
@@ -877,8 +887,9 @@ with chat_col:
                     page_number = document_source.get("page_number", None)
                     heading_hierarchy = document_source["heading_hierarchy"]
                     # remove italic or bold markdown from headings
+                    print(f"Heading hierarchy: {heading_hierarchy}")
                     html_non_empty_headings = [re.sub(r"^\s*\*{1,2}([\S\s]+)\*{1,2}\s*$", r"\1", heading) for heading in heading_hierarchy if heading != ""]
-
+                    print(f"HTML non-empty headings: {html_non_empty_headings}")
                     rand = random.randint(0, 10000)
                     query_id = document_source["query_id"]
 
@@ -957,9 +968,9 @@ with chat_col:
                     </div>
                     """
 
-                    print("Page_content: ")
-                    print(type(page_content))
-                    pprint.pprint(page_content)
+                    # print("Page_content: ")
+                    # print(type(page_content))
+                    # pprint.pprint(page_content)
                     
                     popover_target += f"""<span><button popovertarget="pop-{query_id}-{rand}-{source_num}">Source {source_num}</button></span>"""
 
@@ -970,10 +981,10 @@ with chat_col:
 
             return re.sub(pattern, replacer, text), popover_elements
                     
-        print(f"Response without thinking: {response_without_thinking}")
+        # print(f"Response without thinking: {response_without_thinking}")
         sourced_response, popover_elements = convert_sources_to_interactive(response_without_thinking, document_sources)
 
-        print("Popover elements: ", popover_elements)
+        # print("Popover elements: ", popover_elements)
 
         st.session_state.messages.append({
             "role": "assistant", 
