@@ -888,7 +888,7 @@ with chat_col:
                     heading_hierarchy = document_source["heading_hierarchy"]
                     # remove italic or bold markdown from headings
                     print(f"Heading hierarchy: {heading_hierarchy}")
-                    html_non_empty_headings = [re.sub(r"^\s*\*{1,2}([\S\s]+)\*{1,2}\s*$", r"\1", heading) for heading in heading_hierarchy if heading != ""]
+                    html_non_empty_headings = [re.sub(r"^\s*\*{1,2}([^\*]+)\*{1,2}\s*$", r"\1", heading) for heading in heading_hierarchy if heading != ""]
                     print(f"HTML non-empty headings: {html_non_empty_headings}")
                     rand = random.randint(0, 10000)
                     query_id = document_source["query_id"]
