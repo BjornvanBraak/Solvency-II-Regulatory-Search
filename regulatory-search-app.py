@@ -544,9 +544,13 @@ with chat_col:
                 MAGIC_LOW = 0.2
                 MAGIC_HIGH = 0.8
                 if avg < MAGIC_LOW:
-                    st.warning(f"Average relevance score of documents is low (0 <= score < 0.2): {avg:.2f}. Consider changing the question and writing out abbreviations")
+                    st.warning(f"It looks like there aren’t many great matches for your search. Try using words that might appear in the article you’re looking for.")
+                    if debug_mode:
+                       st.warning(f"Average relevance score of documents is low (0 <= score < 0.2): {avg:.2f}. Consider changing the question and writing out abbreviations")
                 elif avg > MAGIC_HIGH:
-                    st.success(f"Average relevance score of documents is high (0.8 < score <= 1): {avg:.2f}.")
+                    st.success(f"It looks like there are some great matches for your search.")
+                    if debug_mode:
+                       st.success(f"Average relevance score of documents is high (0.8 < score <= 1): {avg:.2f}.")
 
             if "rate_limit_error" in message and message["rate_limit_error"] != None:
                 messages_container.error("Rate limit exceeded, please try again later.")
