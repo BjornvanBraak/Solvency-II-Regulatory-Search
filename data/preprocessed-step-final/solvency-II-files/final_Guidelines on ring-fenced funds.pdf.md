@@ -4,11 +4,7 @@
 EIOPA-BoS-14/169 EN
 
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue geometric symbol containing a circle of stars, similar to the European Union flag, positioned above the stylized lowercase acronym "eiopa". The full name of the organization is written in uppercase black letters below the acronym.
 
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A banner with the text "Guidelines on ring-fenced funds" in a bold, black, sans-serif font on a light blue background.
 
@@ -79,8 +75,6 @@ existence of ring-fenced funds.
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
 
-2/13
-
 
 --- Page 3 ---
 
@@ -102,7 +96,7 @@ legal acts referred to in the introduction.
 
 1.8. The Guidelines shall apply from 1 April 2015.
 
-**Guideline 1 - Characteristics and scope of ring-fenced funds**
+### **Guideline 1 - Characteristics and scope of ring-fenced funds**
 
 1.9. Undertakings should identify ring-fenced funds by reference to the following
 
@@ -131,7 +125,7 @@ trace them at any given time, i.e. undertakings are able to identify items
 as covered by, or subject to, the arrangement giving rise to the ring
 fenced fund.
 
-**Guideline 2 - Arrangements and products that are generally outside the**
+### **Guideline 2 - Arrangements and products that are generally outside the**
 **scope of ring-fenced funds**
 
 1.10. In the process of identifying ring-fenced funds, undertakings should consider
@@ -142,8 +136,6 @@ fenced funds:
 (a) conventional unit-linked products, as referred to in Article 132(3) of
 
 Solvency II;
-
-3/13
 
 
 --- Page 4 ---
@@ -199,7 +191,7 @@ used to absorb losses as and when they occur or can be, but are not
 required to be, used to increase benefits to policyholders and can therefore
 form part of own funds not subject to restriction.
 
-**Guideline 3 - Restrictions giving rise to ring-fenced funds**
+### **Guideline 3 - Restrictions giving rise to ring-fenced funds**
 
 1.11. Undertakings should identify the nature of any restrictions affecting assets and
 
@@ -207,8 +199,6 @@ own funds within their business and the associated liabilities in respect of the
 contracts, policyholders or risks for which such assets and own funds can be
 
 used.
-
-4/13
 
 
 --- Page 5 ---
@@ -246,7 +236,7 @@ to protect one or more groups of policyholders.
 funds in place at the time that the SCR is calculated, irrespective of the time
 period for which those restrictions apply on a going-concern basis.
 
-**Guideline 4 - Scope of ring-fenced funds treatment**
+### **Guideline 4 - Scope of ring-fenced funds treatment**
 
 1.14. Undertakings identifying characteristics and restrictions giving rise to ring
 fenced funds treatment should at a minimum compare arrangements within
@@ -274,8 +264,6 @@ whereby policyholders receive a minimum proportion of the profits
 generated in the fund which are distributed through additional
 benefits or lower premium, and, if relevant, shareholders may then
 receive the balance of such profits;
-
-5/13
 
 
 --- Page 6 ---
@@ -333,12 +321,10 @@ Commission Delegated Regulation 2015/35 apply to such portfolios of the
 matching adjustment. Undertakings should apply Guidelines 6 to 17 where they
 have matching adjustment portfolios.
 
-6/13
-
 
 --- Page 7 ---
 
-**Guideline 5 - Materiality**
+### **Guideline 5 - Materiality**
 
 1.16. Where a ring-fenced fund is not material, Article 81 of Commission Delegated
 
@@ -371,7 +357,7 @@ ring-fenced funds;
 
 to the reduced scope for risk diversification.
 
-**Guideline 6 - Assets in a ring-fenced fund**
+### **Guideline 6 - Assets in a ring-fenced fund**
 
 1.18. Undertakings should identify the assets in a ring-fenced fund as comprising any
 
@@ -380,7 +366,7 @@ restricted by the arrangements giving rise to the ring-fenced fund as described
 
 in Guideline 3.
 
-**Guideline 7 - Liabilities in a ring-fenced fund**
+### **Guideline 7 - Liabilities in a ring-fenced fund**
 
 1.19. Undertakings should identify the liabilities in a ring-fenced fund as only
 
@@ -399,12 +385,10 @@ fenced fund calculations is the same as the valuation which would have been
 
 derived for those liabilities if they were not included in a ring-fenced fund.
 
-7/13
-
 
 --- Page 8 ---
 
-**Guideline 8 - Future shareholder transfers**
+### **Guideline 8 - Future shareholder transfers**
 
 1.21. When applying Article 80(2) of Commission Delegated Regulation 2015/35,
 
@@ -424,7 +408,7 @@ a liability of the ring-fenced fund;
 guaranteed benefits but where the corresponding distribution to
 shareholders has not yet been transferred out of the ring-fenced fund.
 
-**Guideline 9 - Calculating the notional SCR of a ring-fenced fund: standard**
+### **Guideline 9 - Calculating the notional SCR of a ring-fenced fund: standard**
 
 **formula**
 
@@ -462,12 +446,10 @@ of liabilities due to profit participation mechanisms, and would therefore
 result in an increase in basic own funds within the ring-fenced fund, then
 the charge should be set to zero.
 
-8/13
-
 
 --- Page 9 ---
 
-**Guideline 10 - Calculation of the notional SCR of a ring-fenced fund: internal**
+### **Guideline 10 - Calculation of the notional SCR of a ring-fenced fund: internal**
 
 **model**
 
@@ -505,7 +487,7 @@ those used in the calculation of the SCR for the undertaking as a whole
 when necessary to produce a compliant notional SCR, and the justification
 for any differences is documented.
 
-**Guideline 11 - Determining whether restricted own funds within a ring-**
+### **Guideline 11 - Determining whether restricted own funds within a ring-**
 
 **fenced fund exceed the notional SCR: standard formula and internal model**
 
@@ -528,12 +510,10 @@ the notional SCR. In this case, all of the own funds within the ring-fenced fund
 
 are available to meet the SCR and the MCR.
 
-9/13
-
 
 --- Page 10 ---
 
-**Guideline 12 - Calculation of the SCR of the undertaking as a whole in the**
+### **Guideline 12 - Calculation of the SCR of the undertaking as a whole in the**
 **presence of ring-fenced funds: standard formula**
 
 1.27. In calculating a separate notional SCR for the remaining part of the
@@ -553,7 +533,7 @@ ring-fenced funds and the remaining part of the undertaking.
 such amounts with any positive notional SCRs of ring-fenced funds and the
 remaining part of the undertaking.
 
-**Guideline 13 - Calculation of the SCR of the undertaking as a whole in the**
+### **Guideline 13 - Calculation of the SCR of the undertaking as a whole in the**
 **presence of ring-fenced funds: internal model**
 
 1.30. In accordance with Article 234(b)(ii) of Commission Delegated Regulation
@@ -592,8 +572,6 @@ dependencies;
 (vi) an analysis of any non-linear dependence and any material lack of
 diversification under extreme scenarios;
 
-10/13
-
 
 --- Page 11 ---
 
@@ -615,7 +593,7 @@ benefits are taken into account in the internal model;
 diversification effects are justified on an empirical basis with regard to the
 items listed in paragraph 1.30(c).
 
-**Guideline 14 - Application of calculation methodology to similar ring-fenced**
+### **Guideline 14 - Application of calculation methodology to similar ring-fenced**
 
 **funds**
 
@@ -626,7 +604,7 @@ demonstrate to the satisfaction of the supervisory authority that the
 methodology produces sufficiently accurate results for each of the similar ring
 fenced funds.
 
-**Guideline 15 - Ongoing assessment: actions by the undertaking using an**
+### **Guideline 15 - Ongoing assessment: actions by the undertaking using an**
 
 **internal model**
 
@@ -642,7 +620,7 @@ change as part of the quarterly reporting of minor changes. Undertakings
 should submit to supervisory authorities an application for approval of changes
 classified as major following the policy for changing the internal model.
 
-**Guideline 16 - Ongoing assessments: actions by supervisory authority for**
+### **Guideline 16 - Ongoing assessments: actions by supervisory authority for**
 
 **internal models**
 
@@ -653,12 +631,10 @@ internal model to provide results which properly reflect the diversification
 between or among the relevant ring-fenced funds and remaining part of the
 undertaking to which it is applied.
 
-11/13
-
 
 --- Page 12 ---
 
-**Guideline 17 - Reporting of the SCR split by risk modules for undertakings**
+### **Guideline 17 - Reporting of the SCR split by risk modules for undertakings**
 **with ring-fenced funds or matching adjustment portfolios**
 
 1.35. When calculating the amount of the SCR split by risk modules for the purposes
@@ -700,8 +676,6 @@ considered as non-compliant to the reporting and reported as such.
 ## **Final Provision on Reviews **
 
 1.40. The present Guidelines shall be subject to a review by EIOPA.
-
-12/13
 
 
 --- Page 13 ---
@@ -762,6 +736,4 @@ ring-fenced funds and the remaining part;
 
 usual SCR formula (as defined by Article 103 of Solvency II) taking as
 inputs all the numbers calculated above.
-
-13/13
 

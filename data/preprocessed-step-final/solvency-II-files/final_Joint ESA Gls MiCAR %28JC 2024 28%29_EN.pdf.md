@@ -1,11 +1,7 @@
 
 --- Page 1 ---
 
-![An image displaying the logos of three European financial authorities: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), arranged horizontally on a white background.
 
-eba European Banking Authority
-eiopa European Insurance and Occupational Pensions Authority
-ESMA European Securities and Markets Authority](#)
 #### JC 2024 28 10 December 2024
 # Guidelines  on templates for explanations and opinions, and the standardised test for crypto-assets, under Article 97(1) of Regulation (EU) 2023/1114
 

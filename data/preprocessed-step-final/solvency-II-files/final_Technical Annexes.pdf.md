@@ -66,8 +66,6 @@ effects of such remedial measures;
 Requirement has not been subsequently resolved: the amount of the
 non-compliance at the reporting date;
 
-1/12
-
 
 --- Page 2 ---
 
@@ -134,8 +132,6 @@ risk concentrations will be managed.
 4. The outcome of the risk assessment framework from the supervisory review
 
 process.
-
-2/12
 
 
 --- Page 3 ---
@@ -206,8 +202,6 @@ amount of each non-compliance, an explanation of its origin and
 consequences, any remedial measures taken, as provided for under
 Article 51(1)(e)(v) of the Directive 2009/138/EC and an explanation of
 the effects of such remedial measures;
-
-3/12
 
 
 --- Page 4 ---
@@ -281,8 +275,6 @@ disclosure):
 
       commercial rationale for the operation or transaction;
 
-4/12
-
 
 --- Page 5 ---
 
@@ -348,8 +340,6 @@ provide the other supervisory authorities with the template S.37.01.04.
 
 review process.
 
-5/12
-
 
 --- Page 6 ---
 
@@ -398,8 +388,6 @@ required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the numerator is calculated by screening the first
 category of the Complementary Identification Code which corresponds to the category
 of government bonds.
-
-6/12
 
 
 --- Page 7 ---
@@ -456,8 +444,6 @@ economic sector in order to figure out the corporate bonds issued by the compani
 classified as other than financial and insurance activities. The issuer economic sector
 
 is identified based on the NACE code (acronym used to designate the various
-
-7/12
 
 
 --- Page 8 ---
@@ -518,8 +504,6 @@ The amount of holdings in related undertakings, including participations, (the
 numerator) is divided by the amount of total investments and cash (the denominator)
 and this number will be a percentage between 0 and 100%.
 
-8/12
-
 
 --- Page 9 ---
 
@@ -574,8 +558,6 @@ percentage by deducting 1 and multiplying by 100.
 
 This ratio demonstrates the year-to-date percentage change of gross non-life
 insurance and reinsurance written premiums including direct, proportional and nonproportional reinsurance business accepted.
-
-9/12
 
 
 --- Page 10 ---
@@ -632,8 +614,6 @@ into ‘percentage’ format.
 This ratio measures the change in life technical provisions by comparing the current
 year’s amount of technical provisions with the previous year’s gross technical
 provisions.
-
-10/12
 
 
 --- Page 11 ---
@@ -694,8 +674,6 @@ the actual quarter and each of the three preceding quarters.
 
 **13) Gross combined Ratio**
 
-11/12
-
 
 --- Page 12 ---
 
@@ -736,6 +714,4 @@ template where undertakings and groups report the reinsurers’ share of premium
 earned for non-life and for life and the denominator can be computed on the basis of
 the relevant template where undertakings and groups report the total amount of
 premiums earned for non-life and for life.
-
-12/12
 

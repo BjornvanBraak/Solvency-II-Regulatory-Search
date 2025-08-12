@@ -6,11 +6,7 @@ EIOPA-BoS-14/179 EN
 Guidelines on supervisory review
 
 
-![The logo of EIOPA, the European Insurance and Occupational Pensions Authority. It features a blue, translucent, rounded diamond shape containing the European Union's circle of twelve stars, positioned above the stylized lowercase acronym "eiopa" and the full name of the authority in a sans-serif font. The background is white.
 
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A simple title card with bold, black text on a light blue background that reads "Guidelines on supervisory review".
 
@@ -150,8 +146,6 @@ authority responsible for group supervision pursuant to Article
 5 Please find a table of the Guidelines that apply to individual and to group or to both in the Appendix
 published with the Explanatory text of the Public Consultation.
 
-3/14
-
 
 --- Page 4 ---
 
@@ -179,14 +173,12 @@ legal acts referred to in the introduction.
 
 1.13. The Guidelines shall apply from 1 January 2016.
 
-4/14
-
 
 --- Page 5 ---
 
 **Section I - Overall supervisory review process (SRP)**
 
-**Guideline 1 – Conducting the supervisory review process**
+### **Guideline 1 – Conducting the supervisory review process**
 
 1.14. The national supervisory authority should, in carrying out the supervisory
 
@@ -196,14 +188,14 @@ Guidelines: the risk assessment framework, the detailed review and the
 
 supervisory measures.
 
-**Guideline 2 – Consistency of the supervisory review process**
+### **Guideline 2 – Consistency of the supervisory review process**
 
 1.15. The national supervisory authority should ensure that the supervisory review
 
 process is applied in a consistent manner over time, across insurance and
 reinsurance undertakings and within the national supervisory authority.
 
-**Guideline 3 – Proportionality in the supervisory review process**
+### **Guideline 3 – Proportionality in the supervisory review process**
 
 1.16. The national supervisory authority should ensure that the principle of
 
@@ -211,7 +203,7 @@ proportionality is observed throughout all the stages of the supervisory review
 
 process.
 
-**Guideline 4 – Supervisory judgement in the supervisory review process**
+### **Guideline 4 – Supervisory judgement in the supervisory review process**
 
 1.17. The national supervisory authority should ensure that supervisors use their
 
@@ -221,7 +213,7 @@ process is kept flexible enough to allow appropriate supervisory judgement to
 
 be used.
 
-**Guideline 5 – On-going communication with insurance and reinsurance**
+### **Guideline 5 – On-going communication with insurance and reinsurance**
 **undertakings**
 
 1.18. The national supervisory authority should ensure that there is an appropriate
@@ -236,7 +228,7 @@ should be coordinated as described in Guideline 15 of the Guidelines on
 
 operational functioning of colleges.
 
-**Guideline 6 – On-going communication with and involvement of other**
+### **Guideline 6 – On-going communication with and involvement of other**
 **supervisors**
 
 1.20. The national supervisory authority should undertake an appropriate level of
@@ -252,12 +244,10 @@ any relevant memoranda of understanding in place.
 
 and guidelines.
 
-5/14
-
 
 --- Page 6 ---
 
-**Guideline 7 – Inclusion of market-wide risks in the supervisory review**
+### **Guideline 7 – Inclusion of market-wide risks in the supervisory review**
 
 **process**
 
@@ -270,7 +260,7 @@ analyses throughout the supervisory review process.
 outcome of any relevant market-wide analysis that has been shared within the
 college.
 
-**Guideline 8 – Documentation**
+### **Guideline 8 – Documentation**
 
 1.25. The national supervisory authority should ensure that information supporting
 
@@ -278,7 +268,7 @@ the conclusions from the supervisory review process is documented and easily
 accessible within the national supervisory authority whilst also observing
 appropriate confidentiality standards in relation to this information.
 
-**Guideline 9 – Governance over and regular review of the supervisory review**
+### **Guideline 9 – Governance over and regular review of the supervisory review**
 
 **process**
 
@@ -293,7 +283,7 @@ process.
 implementation of the supervisory review process to ensure its on-going
 appropriateness.
 
-**Guideline 10 – The scope and focus of the insurance group supervisory**
+### **Guideline 10 – The scope and focus of the insurance group supervisory**
 **review process**
 
 1.28. The group supervisor should apply the supervisory review process consistently
@@ -330,8 +320,6 @@ e) aspects of the group-wide risk management, including any centralised risk
 
 management functions; and
 
-6/14
-
 
 --- Page 7 ---
 
@@ -341,7 +329,7 @@ allocation within the insurance group.
 
 **Section II- Input to the supervisory review process**
 
-**Guideline 11 – Input to the supervisory review process**
+### **Guideline 11 – Input to the supervisory review process**
 
 1.31. Throughout the supervisory review process the national supervisory authority
 
@@ -376,7 +364,7 @@ press or media information.
 
 **Section III - Risk assessment framework**
 
-**Guideline 12 – Risk assessment framework structure and use**
+### **Guideline 12 – Risk assessment framework structure and use**
 
 1.32. The national supervisory authority should use a risk assessment framework to
 
@@ -397,8 +385,6 @@ b) prioritising supervisory activities;
 
 c) setting the frequency of the regular supervisory reporting;
 
-7/14
-
 
 --- Page 8 ---
 
@@ -407,7 +393,7 @@ d) determining the scope, depth and frequency of off-site analysis and on-site
 inspections or any other matters needed for the supervision of insurance and
 reinsurance undertakings.
 
-**Guideline 13 – Scope of the risk assessment framework**
+### **Guideline 13 – Scope of the risk assessment framework**
 
 1.34. The national supervisory authority should apply a risk-based and forward
 looking approach to supervision that is established in the following stages:
@@ -427,14 +413,14 @@ f) in the case of insurance groups, if there is a college established under Arti
 248(2) of the Solvency II Directive, the contribution of aspects of the
 supervisory plan to the college work plan, where appropriate.
 
-**Guideline 14 – Assessment of information**
+### **Guideline 14 – Assessment of information**
 
 1.35. The national supervisory authority should perform at least a high-level
 
 assessment of the information when regular reporting is received and consider
 the need to reappraise the components of the risk assessment framework.
 
-**Guideline 15 – Determination of undertaking impact classification**
+### **Guideline 15 – Determination of undertaking impact classification**
 
 1.36. The national supervisory authority should include in the risk assessment
 
@@ -450,7 +436,7 @@ each undertaking on a scale with 4 categories, being ‘Impact class 1’ the lo
 impact on policyholders and beneficiaries and on the market and ‘Impact class
 4’ the highest impact on policyholders and beneficiaries and on the market.
 
-**Guideline 16 – Determination of impact classification for groups**
+### **Guideline 16 – Determination of impact classification for groups**
 
 1.38. The group supervisor should include in the group risk assessment framework an
 
@@ -472,8 +458,6 @@ account the complexity and inter-connectedness of the insurance group.
 group on a scale with 4 categories being ‘Impact class 1’ the lowest impact of
 the insurance group on policyholders and beneficiaries and on the market and
 
-8/14
-
 
 --- Page 9 ---
 
@@ -481,7 +465,7 @@ the insurance group on policyholders and beneficiaries and on the market and
 
 beneficiaries and on the market.
 
-**Guideline 17 – Determination of undertaking risk classification**
+### **Guideline 17 – Determination of undertaking risk classification**
 
 1.42. The national supervisory authority should identify and assess the current and
 
@@ -503,7 +487,7 @@ undertakings a risk classification on a scale with 4 categories: from ‘Risk cl
 ‘Risk class 4’ that corresponds to being least able to withstand the risks
 materialising.
 
-**Guideline 18 – Determination of the risk classification for insurance group**
+### **Guideline 18 – Determination of the risk classification for insurance group**
 
 1.45. The group supervisor should identify and assess the current and future group
 
@@ -530,7 +514,7 @@ on a scale with 4 categories: from ‘Risk class 1’ that corresponds to being 
 able to withstand the risks materialising, to ‘Risk class 4’ that corresponds to
 being least able to withstand the risks materialising.
 
-**Guideline 19 – Determination of outcome of the risk assessment framework**
+### **Guideline 19 – Determination of outcome of the risk assessment framework**
 
 1.49. The national supervisory authority should ensure that the risk assessment
 
@@ -544,8 +528,6 @@ information for the purpose of setting the supervisory plan.
 framework (group and individual) the group supervisor and the other
 supervisory authorities should be able to explain the rationale of the outcome
 
-9/14
-
 
 --- Page 10 ---
 
@@ -553,7 +535,7 @@ so to enable the college to form a shared view of the risks of the insurance
 
 group.
 
-**Guideline 20 – Creation of supervisory plan and determination of intensity of**
+### **Guideline 20 – Creation of supervisory plan and determination of intensity of**
 **supervision**
 
 1.51. The national supervisory authority should utilise the outcome of the risk
@@ -567,7 +549,7 @@ relevant supervisory information to develop the supervisory plan.
 activities for each undertaking. The supervisory plan should be commensurate
 to the nature, scale and complexity of the undertaking.
 
-**Guideline 21 – Interaction between the group supervisory plan and the**
+### **Guideline 21 – Interaction between the group supervisory plan and the**
 **college work plan**
 
 1.53. If there is a college, the group supervisor should include the relevant aspects of
@@ -592,14 +574,14 @@ c) the identification of the relevant entities within the insurance group and th
 
 supervisory authorities that the group supervisor is likely to seek input from.
 
-**Guideline 22 – Governance of the supervisory plan**
+### **Guideline 22 – Governance of the supervisory plan**
 
 1.55. The national supervisory authority should ensure that the appropriateness of
 
 the supervisory plan is subject to suitable oversight and internal governance
 within the supervisory authority.
 
-**Guideline 23 – Notification of the frequency of regular supervisory report**
+### **Guideline 23 – Notification of the frequency of regular supervisory report**
 
 1.56. The national supervisory authority should notify insurance and reinsurance
 
@@ -618,12 +600,10 @@ supervisory judgement into consideration.
 the regular supervisory report frequency to the group supervisor before
 notifying the insurance and reinsurance undertakings if appropriate.
 
-10/14
-
 
 --- Page 11 ---
 
-**Guideline 24 – Update of the risk assessment framework**
+### **Guideline 24 – Update of the risk assessment framework**
 
 1.59. The national supervisory authority should, throughout the supervisory review
 
@@ -633,7 +613,7 @@ assessment framework.
 
 **Section IV - Detailed Review**
 
-**Guideline 25 – Detailed review activities**
+### **Guideline 25 – Detailed review activities**
 
 1.60. The national supervisory authority should carry out detailed review activities,
 
@@ -648,7 +628,7 @@ work plan when carrying out the detailed review activities with regard to any
 participation of other national supervisory authorities in line with the Guidelines
 on operational functioning of colleges.
 
-**Guideline 26 – Request for additional information during the detailed review**
+### **Guideline 26 – Request for additional information during the detailed review**
 
 1.62. The national supervisory authority should, where appropriate, evaluate the
 
@@ -659,14 +639,14 @@ should be appropriate in order for the undertaking to be able to answer the
 
 request.
 
-**Guideline 27 – Detailed review conclusions**
+### **Guideline 27 – Detailed review conclusions**
 
 1.63. The national supervisory authority should ensure that the main findings and
 
 conclusions of the detailed review are recorded and internally accessible for
 supervisory purposes.
 
-**Guideline 28 – Detailed off-site analyses**
+### **Guideline 28 – Detailed off-site analyses**
 
 1.64. The national supervisory authority should, as defined in the supervisory plan
 
@@ -675,31 +655,29 @@ analyses to carry out further activities beyond the high level assessment of
 information performed in the risk assessment framework, focusing on the
 specified risk areas.
 
-**Guideline 29 – On-site inspections**
+### **Guideline 29 – On-site inspections**
 
 1.65. The national supervisory authority should carry out regular on-site inspections if
 
 defined in the supervisory plan and take into account the college work plan, if
 there is a college, or other ad-hoc on-site inspections as appropriate.
 
-**Guideline 30 – Governance of on-site inspections**
+### **Guideline 30 – Governance of on-site inspections**
 
 1.66. The national supervisory authority should have adequate governance
 mechanisms in place which allow them to properly monitor the on-site
 inspections.
 
-11/14
-
 
 --- Page 12 ---
 
-**Guideline 31 – Process to follow for on-site inspections**
+### **Guideline 31 – Process to follow for on-site inspections**
 
 1.67. The national supervisory authority should consider, for the on-site inspection,
 
 the following phases: preparation, field work and written conclusions.
 
-**Guideline 32 – Written conclusions of on-site inspections**
+### **Guideline 32 – Written conclusions of on-site inspections**
 
 1.68. The national supervisory authority should communicate the conclusions of the
 
@@ -717,7 +695,7 @@ group before communicating them.
 
 **Section V - Supervisory Measures**
 
-**Guideline 33 – Identification of matters leading to the supervisory measures**
+### **Guideline 33 – Identification of matters leading to the supervisory measures**
 
 1.70. The national supervisory authority should, based on the conclusions of the
 
@@ -725,7 +703,7 @@ detailed review, identify any weaknesses and actual or potential deficiencies or
 non-compliances with requirements that could lead them to imposing
 supervisory measures.
 
-**Guideline 34 – Assessment of the significance of weaknesses, deficiencies or**
+### **Guideline 34 – Assessment of the significance of weaknesses, deficiencies or**
 **non-compliances**
 
 1.71. The national supervisory authority should, in order to decide upon measures,
@@ -733,7 +711,7 @@ supervisory measures.
 assess the significance of the weaknesses and the actual or potential
 deficiencies or non-compliances identified in the detailed review.
 
-**Guideline 35 – Identification and assessment of the significance of**
+### **Guideline 35 – Identification and assessment of the significance of**
 **weaknesses, deficiencies or non-compliances at group level**
 
 1.72. The group supervisor identifies and assesses any weaknesses and actual or
@@ -748,7 +726,7 @@ actual or potential deficiencies or non-compliance from a group-wide
 perspective relate to the insurance group as a whole or to some specific
 insurance and reinsurance undertakings.
 
-**Guideline 36 – Different measures for varying situations**
+### **Guideline 36 – Different measures for varying situations**
 
 1.74. The national supervisory authority should take measures that vary according to
 
@@ -756,12 +734,10 @@ the level of significance of the weaknesses and the actual or potential
 deficiencies or non-compliances faced by the insurance and reinsurance
 undertakings.
 
-12/14
-
 
 --- Page 13 ---
 
-**Guideline 37 – Decision upon measures at group or individual level**
+### **Guideline 37 – Decision upon measures at group or individual level**
 
 1.75. The national supervisory authorities responsible for the supervision of the
 
@@ -775,7 +751,7 @@ analysis of the findings on the weaknesses, deficiencies or non-compliances.
 supervisor and the supervisory authorities should coordinate measures, where
 appropriate, to enhance the effectiveness of the measures.
 
-**Guideline 38 – Governance over exercise of measures**
+### **Guideline 38 – Governance over exercise of measures**
 
 1.77. The national supervisory authority should have a suitable governance process
 
@@ -784,7 +760,7 @@ in a consistent, proportionate and objective manner and that they are properly
 
 documented.
 
-**Guideline 39 – Notification of measures**
+### **Guideline 39 – Notification of measures**
 
 1.78. The national supervisory authority should notify the undertaking in writing and
 
@@ -799,7 +775,7 @@ supervisory authorities should consider coordinating their communication
 
 strategy.
 
-**Guideline 40 – Communication in the college**
+### **Guideline 40 – Communication in the college**
 
 1.80. If there is a college, the national supervisory authority should, where
 
@@ -807,14 +783,14 @@ appropriate, communicate to the group supervisor the supervisory measures
 
 taken.
 
-**Guideline 41 – Monitoring implementation by insurance and reinsurance**
+### **Guideline 41 – Monitoring implementation by insurance and reinsurance**
 **undertakings**
 
 1.81. The national supervisory authority should monitor whether the measures are
 
 properly implemented by insurance and reinsurance undertakings.
 
-**Guideline 42 – Review of supervisory measures**
+### **Guideline 42 – Review of supervisory measures**
 
 1.82. The national supervisory authority should review the measures and update the
 
@@ -828,8 +804,6 @@ measures as implemented by the undertaking.
 Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
 Competent Authorities and financial institutions shall make every effort to
 comply with guidelines and recommendations.
-
-13/14
 
 
 --- Page 14 ---
@@ -852,6 +826,4 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Reviews**
 
 1.87. These Guidelines shall be subject to a review by EIOPA.
-
-14/14
 

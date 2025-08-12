@@ -1,55 +1,26 @@
 
 --- Page 1 ---
 
-![This is an image of the logo for the European Banking Authority (EBA) below a heading that reads "THE RISK FACTORS GUIDELINES". The blue logo features the white acronym "EBA" with its full name written to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 JC 2017 37
 
 04/01/2018
 
-![This is a side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring the acronym in blue surrounded by a circle of EU-style stars. The EIOPA logo is on the right, with a modern blue graphic and stylized text.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 # Final Guidelines 
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple, gray, uppercase, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 ## Joint Guidelines under Articles 17 and 18(4) of Directive (EU) 2015/849 on simplified and enhanced customer due diligence and the factors credit and financial institutions should consider when assessing the money laundering and terrorist financing risk associated with individual business relationships and occasional transactions **The Risk Factors Guidelines**
 
 
 --- Page 2 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo is a simple text-based design, with the name written in a grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features the acronym in blue surrounded by a circle of EU stars. The EIOPA logo has a stylized black acronym below a blue translucent cube graphic containing EU stars.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A close-up of the blue and white logo for the European Banking Authority (EBA). The logo is below the heading "THE RISK FACTORS GUIDELINES", suggesting the image is from a regulatory document.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 # Com liance and re ortin obli ations  p p g g
 ## Status of these joint guidelines
 
@@ -109,25 +80,11 @@ Notifications will be published on the ESAs’ websites, in line with Article 16
 
 --- Page 3 ---
 
-![This is the logo of the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a simple, gray, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features a circle of blue stars, while the EIOPA logo on the right has a blue geometric design.
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the white letters "EBA" on the left and the full name on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 # Title I – Subject matter, scope and definitions
 ## Subject matter
 
@@ -183,23 +140,11 @@ guidelines.
 
 --- Page 4 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a simple grey sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory bodies: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo. Above the blue and orange logo, the text "THE RISK FACTORS GUIDELINES" is visible. The logo itself contains the acronym "EBA" and the full name "EUROPEAN BANKING AUTHORITY".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - ‘Competent authorities’ means the authorities competent for ensuring firms’ compliance
 with the requirements of Directive (EU) 2015/849 as transposed by national legislation. [1]
@@ -268,24 +213,11 @@ Regulation (EU) No 1093/2010.
 
 --- Page 5 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring its name in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo for the European Banking Authority (EBA) positioned below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" on a wavy background on the left, and the full name "EUROPEAN BANKING AUTHORITY" on a solid blue background on the right, separated by a thin orange line.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 # Title II – Assessing and managing risk: eneral g
 
 9. These guidelines come in two parts. Title II is general and applies to all firms. Title III is
@@ -357,25 +289,11 @@ permitted by national legislation, firms may be able to apply simplified custome
 
 --- Page 6 ---
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The logo consists of grey, sans-serif, all-caps text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is an image of two logos side-by-side on a white background. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" surrounded by a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which features a blue, transparent cube graphic above the stylized acronym "eiopa".
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a slide with the title "THE RISK FACTORS GUIDELINES" and the logo of the European Banking Authority (EBA).
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 diligence measures (SDD). Where the risk associated with a business relationship is
 
@@ -444,28 +362,15 @@ and numbers of sources on a risk-sensitive basis.
 
 --- Page 7 ---
 
-![This is a side-by-side display of the logos for two European Union financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of EU stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which features a stylized blue cube with EU stars on top.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle with the acronym "EBA" in white sans-serif font next to the full name.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 15. Firms should always consider the following sources of information:
 
   - the European Commission’s supranational risk assessment;
 
-![A minimalist text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, uppercase, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
   - information from government, such as the government’s national risk assessments,
 
@@ -530,26 +435,11 @@ Chapter 7.
 
 --- Page 8 ---
 
-![A minimalist text logo for the Joint Committee of the European Supervisory Authorities, displayed in a grey sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A side-by-side presentation of the logos for the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. The ESMA logo features its acronym within a circle of blue stars, while the EIOPA logo has a modern blue graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the acronym "EBA" in large white letters on the left, which has a wavy line pattern. To the right, the full name "EUROPEAN BANKING AUTHORITY" is written in smaller white text.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 b) the customer’s and the customer’s beneficial owner’s reputation; and
 c) the customer’s and the customer’s beneficial owner’s nature and behaviour.
@@ -629,26 +519,11 @@ wider conduct requirements in recent years?
 
 --- Page 9 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo is text-based, featuring grey sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and Markets
-Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on a wavy background, next to a solid blue rectangle with the full name written in white.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - Is the customer a public administration or enterprise from a jurisdiction with low
 
@@ -727,24 +602,11 @@ asylum seekers from higher risk third countries or territories’, see [https://
 
 --- Page 10 ---
 
-![A simple text logo for the Joint Committee of the European Supervisory Authorities in grey uppercase letters on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![1. A side-by-side display of the logos for two European financial regulatory authorities on a white background. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring the acronym surrounded by EU stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority.
 
-2. esma
-European Securities and
-Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is blue and features the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - Are there indications that the customer might seek to avoid the establishment of a
 
@@ -818,25 +680,12 @@ financing purposes?
 
 --- Page 11 ---
 
-![This is a side-by-side comparison of the logos for two European financial authorities. On the left is the logo for ESMA (European Securities and Markets Authority), which features a circle of blue stars. On the right is the logo for EIOPA (European Insurance and Occupational Pensions Authority), which has a blue geometric design.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym EBA in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### **Countries and geographical areas **
 
-![A minimalist logo for the Joint Committee of the European Supervisory Authorities. The text is displayed in two lines of grey, sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 22. When identifying the risk associated with countries and geographical areas, firms should
 
@@ -911,25 +760,11 @@ sources include mutual evaluation reports by the Financial Action Task Force (FA
 
 --- Page 12 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of EU stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym below a blue, stylized, transparent cube containing EU stars.
 
-esma
-European Securities and
-Markets Authority
-eIOPa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 FATF-style Regional Bodies (FSRBs) (a good starting point is the executive summary
 
@@ -1011,26 +846,11 @@ registers?
 
 --- Page 13 ---
 
-![A minimalist logo featuring the text "Joint Committee of the European Supervisory Authorities" in a gray, sans-serif font, arranged in two lines on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A concise summary of the image that is well optimized for retrieval:
-An image displaying the logos of two European financial authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym in blue surrounded by a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue cube graphic above its name.
 
-extract all the text from the image. Do not exclude any content from the page.
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header image for a document titled "THE RISK FACTORS GUIDELINES" from the European Banking Authority (EBA). The image prominently features the blue and white logo of the EBA.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 27. Risk factors firms should consider when identifying the risk associated with the level of
 
@@ -1107,24 +927,11 @@ overpayments where this is would not normally be expected? Where third party
 
 --- Page 14 ---
 
-![A grey text-only logo for the "Joint Committee of the European Supervisory Authorities" on a plain white background. The text is in a sans-serif font and arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym in a stylized black font below a blue geometric shape containing stars.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 payments are expected, does the firm know the third party’s identity, for example is it a
 
@@ -1199,25 +1006,11 @@ satisfied that:
 
 --- Page 15 ---
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif, uppercase font on a white background, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos for two European financial authorities side-by-side. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym in blue text surrounded by a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a blue geometric design above its stylized acronym.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 i. the third party applies CDD measures and keeps records to EEA standards and that it
 
@@ -1291,25 +1084,12 @@ their relative importance.
 
 --- Page 16 ---
 
-![This is a close-up of the European Banking Authority (EBA) logo, featured below the text 'THE RISK FACTORS GUIDELINES'.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### Weighting risk factors
 
-![A minimalist, text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font, centered on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A horizontal banner featuring the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo on the left has blue text and a circle of blue stars. The EIOPA logo on the right has a blue abstract graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 36. When weighting risk factors, firms should make an informed judgement about the
 
@@ -1377,25 +1157,11 @@ possible.
 
 --- Page 17 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo consists of two lines of grey, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European Union regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym in blue text within a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features a blue geometric cube with stars above its stylized acronym.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) shown below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ## Risk management: simplified and enhanced customer due diligence
 
 41. A firm’s risk assessment should help it identify where it should focus its AML/CFT risk
@@ -1463,25 +1229,11 @@ at the outset.
 
 --- Page 18 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The text is written in a grey, uppercase, sans-serif font on a white background, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features its acronym in blue surrounded by the European Union stars, while the EIOPA logo has a stylized blue cube graphic.
 
-esma
-European Securities and
-Markets Authority
-eIOPa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) underneath the heading "THE RISK FACTORS GUIDELINES". The blue logo features the acronym "EBA" in large white letters on a patterned background, next to the full name of the organization.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - adjusting the quantity of information obtained for identification, verification or
 
@@ -1561,27 +1313,11 @@ veracity of the information obtained, SDD must not be applied. [9 ] Equally, whe
 
 --- Page 19 ---
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, capitalized, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars, while the EIOPA logo is a modern blue geometric design.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the image for retrieval:
-A header with the text "THE RISK FACTORS GUIDELINES" above the blue logo of the European Banking Authority (EBA). The logo features the white acronym "EBA" on a patterned background next to the full name of the authority.
 
-Extracted text from the image:
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 high-risk scenarios apply and there is an obligation to conduct EDD, SDD must not be
 
@@ -1652,24 +1388,11 @@ relationship is particularly high.
 
 --- Page 20 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a simple, gray, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring a blue geometric design.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) shown below the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" and the full name written to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - Obtain senior management approval for entering into, or continuing, a business
 
@@ -1741,26 +1464,11 @@ services; or
 
 --- Page 21 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features a blue geometric design.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) underneath the title "THE RISK FACTORS GUIDELINES". The blue logo features the acronym EBA in large white letters with a wavy pattern on the left.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - they are very complex compared with other, similar, transactions associated with
 
@@ -1837,26 +1545,11 @@ the nature and purpose of the business relationship is legitimate and to help fi
 
 --- Page 22 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in two lines of grey, uppercase, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features the blue acronym 'esma' circled by blue stars. The EIOPA logo on the right has a modern blue graphic above its stylized black acronym 'eiopa'.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) below the heading "THE RISK FACTORS GUIDELINES". The blue logo features the acronym "EBA" on a wavy background next to the full name of the organization.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 obtain a more complete customer risk profile. This may include obtaining information
 
@@ -1937,27 +1630,11 @@ transactions.
 
 --- Page 23 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the full name in a simple, gray, sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars from the EU flag. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a modern blue cube design incorporating the EU stars.
 
-esma
-European Securities and
-Markets Authority
-EIOPA
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the white acronym "EBA" on a patterned background next to the full name of the organization.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 61. Title III lists additional EDD measures that may be of particular relevance in different
 
@@ -2028,24 +1705,11 @@ particular:
 
 --- Page 24 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name in a simple grey sans-serif font, arranged in two lines on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo is on the left, featuring blue text and a circle of stars. The EIOPA logo is on the right, with a blue stylized cube and black text.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue EBA logo features the acronym "EBA" in large white letters with a wavy line pattern.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 i. regularly reviewing media reports that are relevant to the sectors or jurisdictions in
 
@@ -2120,51 +1784,22 @@ and associated risk management measures are adequate.
 
 --- Page 25 ---
 
-![This is a minimalist, grey text-only logo for the "Joint Committee of the European Supervisory Authorities" on a white background. The text is in a sans-serif font and arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 25
 
 
-![This image displays the logos for two European financial regulatory bodies on a white background. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym "esma" in blue text surrounded by a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features a blue, stylized cube logo with stars inside, above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA).
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 --- Page 26 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, capitalized, sans-serif font on a plain white background, split into two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of two European financial regulatory authority logos. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym in a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue geometric design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" next to the full name of the organization.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 # Title III – Sector-s ecific uidelines p g
 
 72. The sector-specific guidelines in Title III complement the general guidance in Title II of
@@ -2194,25 +1829,11 @@ identified.
 
 --- Page 27 ---
 
-![The logo for the Joint Committee of the European Supervisory Authorities, featuring the name in grey, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European regulatory authorities side-by-side. On the left is the blue logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which includes a stylized blue cube.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white acronym "EBA" on the left side, which features a wavy line pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 1: Sectoral guidelines for correspondent banks
 
 75. This chapter provides guidelines on correspondent banking as defined in Article 3(8)(a) of
@@ -2283,25 +1904,11 @@ respondent bank.
 
 --- Page 28 ---
 
-![A concise summary of the logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name in a simple, grey, sans-serif font on a white background, with the text split across two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a banner with the logos of two European financial regulatory authorities. On the left is the logo for ESMA (European Securities and Markets Authority), which features its acronym inside a circle of blue stars. On the right is the logo for EIOPA (European Insurance and Occupational Pensions Authority), which has a blue geometric design above its stylized acronym.
 
-esma
-European Securities and
-Markets Authority
-eioPa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is a blue rectangle with the white acronym "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right, separated by an orange line. Above the logo is the black text "THE RISK FACTORS GUIDELINES".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - The transaction relates to the selling, buying or pledging of securities on regulated
 
@@ -2376,24 +1983,11 @@ standards that are not less strict than those required by Directive (EU) 2015/84
 
 --- Page 29 ---
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The name is presented in two lines of grey, uppercase, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A side-by-side presentation of the logos for two European financial authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA), appearing under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in white, next to the full name "EUROPEAN BANKING AUTHORITY".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - The respondent is based in a jurisdiction associated with higher ML/TF risk. Firms
 
@@ -2467,26 +2061,11 @@ status, reputation and AML controls of the parent.
 
 --- Page 30 ---
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The text is grey, uppercase, and written in a sans-serif font in two lines on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features a circle of blue EU stars around the blue lowercase acronym "esma". The EIOPA logo on the right has a blue geometric graphic above the black, stylized acronym "eiopa".
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A header for "THE RISK FACTORS GUIDELINES" featuring the logo of the EBA, the European Banking Authority.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - Establish and document the nature and purpose of the service provided, as well as the
 
@@ -2565,26 +2144,11 @@ set out in Article 13 of Directive (EU) 2015/849.
 
 --- Page 31 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, uppercase, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This image displays the logos of two European financial regulatory authorities: ESMA (European Securities and Markets Authority) and EIOPA (European Insurance and Occupational Pensions Authority). The ESMA logo features its name surrounded by a circle of blue stars, while the EIOPA logo has a blue, stylized cube graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, featured below the title "THE RISK FACTORS GUIDELINES". The blue logo contains the white acronym "EBA" with a wave pattern and the full name "EUROPEAN BANKING AUTHORITY".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 90. Correspondents must apply each of these EDD measures to respondents based in a non
 EEA country, but correspondents can adjust the extent of these measures on a risk
@@ -2666,24 +2230,11 @@ that risk effectively.
 
 --- Page 32 ---
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, capitalized, sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its blue acronym surrounded by a circle of EU stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue cube with EU stars above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - Document the responsibilities of each institution. This may be part of the
 
@@ -2735,26 +2286,12 @@ and (b).
 
 --- Page 33 ---
 
-![A side-by-side display of the logos for two European Union financial regulatory bodies: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. The ESMA logo features a circle of blue stars, while the EIOPA logo has a modern blue graphic.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle with the acronym "EBA" in large white letters over a wavy pattern on the left, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ## Chapter 2: Sectoral guidelines for retail banks
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey, capitalized text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 95. For the purpose of these guidelines, retail banking means the provision of banking services
 
@@ -2822,26 +2359,11 @@ ii. a product where the benefits cannot be realised for the benefit of a third p
 
 --- Page 34 ---
 
-![A grey text logo on a white background for the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo features the acronym in blue, surrounded by a circle of EU stars. The EIOPA logo has a blue, stylized cube with EU stars above its acronym.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the EBA (European Banking Authority) with the title "THE RISK FACTORS GUIDELINES" above it.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 iii. a product where the benefits are only realisable in the long term or for a specific
 
@@ -2917,27 +2439,11 @@ seekers from higher-risk third countries or territories’: [http://www.eba.euro
 
 --- Page 35 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue geometric design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue EBA logo features the acronym in large white letters and the full name to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 vii. The customer’s beneficial owner cannot easily be identified, for example because the
 
@@ -3012,27 +2518,11 @@ levels of predicate offences.
 
 --- Page 36 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side. The ESMA logo features blue stars in a circle, while the EIOPA logo has a blue cubic design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue with white text and has a wavy pattern on the left side.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - non-face-to-face business relationships, where no adequate additional safeguards –
 
@@ -3106,25 +2596,11 @@ legitimate;
 
 --- Page 37 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, uppercase, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side. The ESMA logo is on the left, featuring a circle of blue stars around the blue text "esma". The EIOPA logo is on the right, with a blue geometric shape containing stars above the black text "eiopa".
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, positioned below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle featuring the white acronym "EBA" on a patterned background, next to the full name "EUROPEAN BANKING AUTHORITY" on a solid blue background.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 iii. the purpose of the transaction, including, where appropriate, the destination of the
 
@@ -3199,26 +2675,11 @@ belong to the customer’s own clients, the bank should apply full CDD measures,
 
 --- Page 38 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, written in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features blue stars in a circle, and the EIOPA logo has a blue, stylized cube.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 treating the customer’s clients as the beneficial owners of funds held in the pooled
 
@@ -3289,26 +2750,11 @@ owners (but not the customer’s underlying clients);
 
 --- Page 39 ---
 
-![A minimalist gray text logo on a white background for the "Joint Committee of the European Supervisory Authorities". The text is in a sans-serif, all-caps font, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right, separated by a thin orange line.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 3: Sectoral guidelines for electronic money issuers
 
 113. This chapter provides guidelines for electronic money issuers (e-money issuers) as defined
@@ -3370,25 +2816,11 @@ ii. is accepted as a means of payment by a large number of merchants or points o
 
 --- Page 40 ---
 
-![A minimalist logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text in two lines on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of blue EU stars, while the EIOPA logo has a blue, geometric cube design with EU stars.
 
-esma
-European Securities and
-Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) placed under the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters on a wavy background, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 iii. is designed specifically to be accepted as a means of payment by merchants dealing in
 
@@ -3467,26 +2899,11 @@ issuer (e.g. the product is used from several IP addresses at the same time).
 
 --- Page 41 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a simple, grey, sans-serif font on a white background, split across two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring a stylized blue cube.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the image for retrieval:
-The logo of the European Banking Authority (EBA) is displayed below the title 'THE RISK FACTORS GUIDELINES'. The logo is a blue rectangle with the acronym EBA in large white letters on the left and the full name on the right, separated by an orange line.
 
-Extracted text from the image:
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - There are frequent changes in the customer’s identification data, such as home address
 
@@ -3552,27 +2969,12 @@ terrorism or proliferation.
 
 --- Page 42 ---
 
-![This is the logo for the European Banking Authority (EBA) beneath the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" on a wavy-lined background on the left, and the full name on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ### **Measures **
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is an image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a stylized blue cube emblem above the acronym "eiopa".
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 122. National legislation may provide for an exemption from identification and verification of
 
@@ -3644,27 +3046,11 @@ intend to transfer E-money;
 
 --- Page 43 ---
 
-![The text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font on a white background, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities, the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), side by side on a white background. The ESMA logo features the acronym in blue within a circle of blue stars, while the EIOPA logo has a blue, stylized cubic design above its acronym.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a slide from a presentation or document titled "THE RISK FACTORS GUIDELINES," featuring the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the white acronym "EBA" over a wavy line pattern and the full name of the organization to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - obtaining information about the merchant/payee, in particular where the E-money
 
@@ -3736,27 +3122,12 @@ presenting a low risk for both terrorist financing and money laundering purposes
 
 --- Page 44 ---
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars, while the EIOPA logo has a blue geometric design.
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header image for a document or presentation titled "THE RISK FACTORS GUIDELINES" from the European Banking Authority (EBA). It features the official blue logo of the EBA below the title.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 4: Sectoral guidelines for money remitters
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 128. Money remitters are payment institutions that have been authorised in line with Directive
 
@@ -3820,31 +3191,15 @@ i. The customer owns or operates a business that handles large amounts of cash.
 
 --- Page 45 ---
 
-![An image displaying the logos for two European financial authorities side-by-side. On the left is the logo for esma, the European Securities and Markets Authority, which features a circle of blue stars. On the right is the logo for eiopa, the European Insurance and Occupational Pensions Authority, which features a blue, stylized cube with stars.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the white acronym "EBA" on the left over a wavy pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 ii. The customer’s business has a complicated ownership structure.
 
   - The customer’s behaviour:
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name in a simple, gray, sans-serif font on a white background, split across two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 i. The customer’s needs may be better serviced elsewhere, for example because the
 
@@ -3917,26 +3272,11 @@ accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (Text
 
 --- Page 46 ---
 
-![This is a text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a gray, sans-serif, uppercase font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos for two European financial authorities: the European Securities and Markets Authority (ESMA) on the left and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. The ESMA logo features its acronym inside a circle of twelve blue stars. The EIOPA logo has a stylized acronym beneath a blue, translucent cube graphic.
 
-esma
-European Securities and Markets Authority
-eıopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the official logo for the European Banking Authority (EBA). The logo is a blue rectangle featuring the acronym "EBA" in large white letters and its full name to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - There are no restrictions on the funding instrument, for example in the case of cash or
 
@@ -4011,25 +3351,11 @@ consider which monitoring systems and controls they put in place to ensure that 
 
 --- Page 47 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features its acronym within a circle of blue stars, while the EIOPA logo has a modern blue geometric design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" in large white letters over a wavy pattern, next to the full name "EUROPEAN BANKING AUTHORITY".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 detect money-laundering and terrorist financing attempts even where the CDD
 
@@ -4100,26 +3426,11 @@ provided by the agent and could be based on the money remitter’s CDD procedure
 
 --- Page 48 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey text in a sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring a circle of blue stars. The EIOPA logo is on the right, with a modern blue geometric design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo of the European Banking Authority (EBA) with the title "The Risk Factors Guidelines" above it. The logo is a blue rectangle with the white acronym "EBA" and the full name "European Banking Authority" written to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - Taking reasonable measures to satisfy themselves that the agent’s AML/CFT internal
 
@@ -4148,25 +3459,11 @@ money remitter expects.
 
 --- Page 49 ---
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The logo features grey, uppercase, sans-serif text on a plain white background, arranged in two centered lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars around the acronym "esma". The EIOPA logo has a blue, translucent cube emblem above the stylized acronym "eıopa".
 
-esma
-European Securities and
-Markets Authority
-eıopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header for "The Risk Factors Guidelines" document, featuring the blue and orange logo of the EBA, the European Banking Authority.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ## Chapter 5: Sectoral guidelines for wealth management
 
 143. Wealth management is the provision of banking and other financial services to high-net
@@ -4235,26 +3532,11 @@ particularly where the identity of the ultimate beneficial owner may be unclear;
 
 --- Page 50 ---
 
-![A minimalist grey text logo on a white background for the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym in a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring a stylized blue cube graphic.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The logo is a blue rectangle with the white acronym "EBA" on a stylized background, and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - business taking place across multiple countries, particularly where it involves multiple
 
@@ -4324,26 +3606,11 @@ manager’s close contact with the customer will facilitate the collection of in
 
 --- Page 51 ---
 
-![The logo for the Joint Committee of the European Supervisory Authorities, displayed in grey, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a stylized blue cube design.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters on a stylized background, and the full name to the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 that allows a fuller picture of the purpose and nature of the customer’s business to be
 
@@ -4425,27 +3692,11 @@ each transaction as it occurs, to detect unusual or suspicious activity. This ma
 
 --- Page 52 ---
 
-![This is the logo of the Joint Committee of the European Supervisory Authorities, featuring the name in grey, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its blue acronym surrounded by the European Union's circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with its stylized black acronym below a blue, 3D cube graphic containing EU stars.
 
-esma
-European Securities and
-Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 measures to determine whether any of the following are out of line with the business
 
@@ -4491,23 +3742,11 @@ and that the identity of the ultimate beneficial owner is understood.
 
 --- Page 53 ---
 
-![This is a text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, capitalized, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue and features the acronym "EBA" in large white letters next to the full name.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ## Chapter 6: Sectoral guidelines for trade finance providers
 
 152. Trade finance means managing a payment to facilitate the movement of goods (and the
@@ -4584,25 +3823,12 @@ may also be relevant in this context.
 
 --- Page 54 ---
 
-![This is a close-up image showing the logo of the European Banking Authority (EBA). Above the logo is the title "THE RISK FACTORS GUIDELINES". The EBA logo is blue and features the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### **Risk factors **
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a grey, uppercase, sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side comparison of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring a blue geometric design.
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 158. Banks party to trade finance transactions often have access only to partial information
 
@@ -4674,26 +3900,11 @@ commercial reason.
 
 --- Page 55 ---
 
-![The logo for the Joint Committee of the European Supervisory Authorities, featuring the name in grey sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European Union financial regulatory authorities side-by-side. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of 12 blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a blue, stylized cube graphic with stars and its name below.
 
-esma European Securities and
-Markets Authority
-eıopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a banner with the title "THE RISK FACTORS GUIDELINES" above the logo of the EBA (European Banking Authority). The logo is a blue rectangle with the white acronym "EBA" on a patterned background and the full name on a solid background.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - Transactions involve established counterparties that have a proven track record of
 
@@ -4762,23 +3973,11 @@ those related to the narcotics trade, smuggling or counterfeiting) or free trade
 
 --- Page 56 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name written in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its name and a circle of stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its name below a blue geometric design.
 
-esma European Securities and Markets Authority
-eıopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header image featuring the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - Countries associated with the transaction have an AML/CFT regime not less robust
 
@@ -4855,27 +4054,11 @@ and up-to-date pricing information can be obtained;
 
 --- Page 57 ---
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, uppercase, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features a circle of blue stars, and the EIOPA logo on the right has a blue geometric design.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The blue logo features the acronym "EBA" in large white letters.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
   - checking that the weights and volumes of goods being shipped are consistent with
 
@@ -4908,24 +4091,11 @@ existing controls to meet their AML/CFT obligations.
 
 --- Page 58 ---
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a gray, uppercase, sans-serif font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side. The ESMA logo features its acronym in blue surrounded by a circle of stars, while the EIOPA logo has a blue, cube-like graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot of a document header showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The blue logo features the acronym "EBA" in large white letters.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 7: Sectoral guidelines for life insurance undertakings
 
 175. Life insurance products are designed to financially protect the policy holder against the
@@ -4996,25 +4166,13 @@ ii. used as collateral for a loan.
 
 --- Page 59 ---
 
-![This is a side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features its name in blue lowercase letters surrounded by a circle of blue stars. The EIOPA logo features its name in a stylized black font below a blue, translucent, cube-like graphic containing stars.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The blue logo features the white acronym "EBA" on a background of wavy lines and a small star.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 181. Factors that may contribute to reducing risk include: The product:
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
   - only pays out against a pre-defined event, for example death, or on a specific date,
 
@@ -5088,30 +4246,15 @@ shareholders and/or shares in bearer form.
 
 --- Page 60 ---
 
-![An image containing the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features blue text and EU stars, while the EIOPA logo has a blue stylized cube graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the image for retrieval:
-A header with the text 'THE RISK FACTORS GUIDELINES' above the logo for the European Banking Authority (EBA). The logo is blue with white text and an orange dividing line.
 
-All text from the image is below:
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - The customer’s behaviour:
 
 i. In relation to the contract, for example:
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities, presented in grey uppercase letters on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 a. the customer frequently transfers the contract to another insurer;
 b. frequent and unexplained surrenders, especially when the refund is done to
@@ -5174,28 +4317,14 @@ and return it for a full refund.
 
 --- Page 61 ---
 
-![1. This is an image containing the logos of two European financial regulatory authorities. On the left is the blue logo for esma, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for eiopa, the European Insurance and Occupational Pensions Authority, with a blue geometric design.
 
-2. esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" printed above it. The logo is a blue rectangle with the white letters "EBA" on a wavy background, next to the full name of the organization.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### Distribution channel risk factors
 
 184. The following factors may contribute to increasing risk:
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The logo features grey, uppercase, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
   - non-face-to-face sales, such as online, postal or telephone sales, without adequate
 
@@ -5261,26 +4390,12 @@ other criminal activity.
 
 --- Page 62 ---
 
-![This is a slide with the title "THE RISK FACTORS GUIDELINES" and the logo for the EBA (European Banking Authority). The blue EBA logo features wavy lines and the full name of the authority in white text.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### **Measures **
 
-![A minimalist text logo for the Joint Committee of the European Supervisory Authorities. The name is displayed in two lines of grey, uppercase, sans-serif text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European Union financial regulatory authorities, ESMA (European Securities and Markets Authority) and EIOPA (European Insurance and Occupational Pensions Authority), side-by-side on a white background. The ESMA logo features a circle of blue stars, while the EIOPA logo has a stylized blue cube.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 188. Article 13(5) of Directive (EU) 2015/849 provides that, for life insurance business, firms
 
@@ -5356,24 +4471,11 @@ vi. verifying identities on the basis of more than one reliable and independent 
 
 --- Page 63 ---
 
-![This is a minimalist, text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif, uppercase font, centered in two lines on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This image displays the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym "esma" in blue text surrounded by a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a blue, stylized cube with stars above its black acronym.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A blue logo for the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES".
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 vii. establishing the customer’s source of wealth and source of funds, for example
 
@@ -5439,28 +4541,12 @@ beneficiary’s name at a regulated EEA credit institution.
 
 --- Page 64 ---
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the acronym "EBA" in white on the left and the full name on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 8: Sectoral guidelines for investment firms
 
-![A logo for the Joint Committee of the European Supervisory Authorities, featuring the organization's name in grey, sans-serif, all-caps text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 195. Investment management is the management of an investor’s assets to achieve specific
 
@@ -5527,24 +4613,11 @@ v. frequent changes to CDD information or payment details;
 
 --- Page 65 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey text on a white background. The text is in a sans-serif font and is arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side. The ESMA logo is on the left, featuring the acronym in blue surrounded by a circle of stars. The EIOPA logo is on the right, with a blue graphic above its acronym and full name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up image showing the title "THE RISK FACTORS GUIDELINES" in black text above the official logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the white acronym "EBA" on a patterned background on the left and the full name "EUROPEAN BANKING AUTHORITY" on a solid blue background on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 vi. the customer transfers funds in excess of those required for the investment and asks for
 
@@ -5614,26 +4687,12 @@ risk.
 
 --- Page 66 ---
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 ### **Measures **
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in grey, sans-serif, all-caps text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side on a white background. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym "esma" inside a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a blue, stylized cube icon above its name.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 202. Investment managers typically need to develop a good understanding of their customers
 
@@ -5661,26 +4720,11 @@ guidelines set out in Title II in low-risk situations.
 
 --- Page 67 ---
 
-![A minimalist, text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, uppercase font on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features a circle of blue stars around the lowercase acronym "esma". The EIOPA logo on the right has a blue, stylized, transparent cube with stars and the lowercase acronym "eiopa" below it.
 
-esma European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "The Risk Factors Guidelines" above it. The logo is a blue rectangle with the acronym "EBA" in large white letters on the left, and the full name "European Banking Authority" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 ## Chapter 9: Sectoral guidelines for providers of investment funds
 
 205. The provision of investment funds can involve multiple parties: the fund manager,
@@ -5760,25 +4804,11 @@ relevant chapters in these guidelines as appropriate.
 
 --- Page 68 ---
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, uppercase, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features the blue acronym "esma" inside a circle of twelve blue stars. The EIOPA logo on the right has stylized black text below a blue, translucent, geometric shape that also contains the EU stars.
 
-esma
-European Securities and
-Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" on the left with a wavy background and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 209. For funds and fund managers, the sectoral guidelines in Title III, Chapters 1, 7 and 8, may
 
@@ -5849,26 +4879,11 @@ time without an obvious strategy or economic rationale.
 
 --- Page 69 ---
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif font on a white background, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
 
-esma
-European Securities and Markets Authority
-eıopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" displayed above it. The logo features the acronym "EBA" in white on a blue patterned background, next to the full name "EUROPEAN BANKING AUTHORITY" on a solid blue background.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 
 v. The customer transfers funds in excess of those required for the investment and asks for
 
@@ -5945,24 +4960,11 @@ that are not less robust than those required by Directive (EU) 2015/849.
 
 --- Page 70 ---
 
-![This is the grey text logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif, all-caps font.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), presented side by side on a white background.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters and a wave pattern on the left.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - Investors’ monies have been generated in jurisdictions associated with higher ML/TF
 
@@ -6037,27 +5039,11 @@ fund or fund manager should apply in high-risk situations include:
 
 --- Page 71 ---
 
-![This is a minimalist logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name in a grey, sans-serif font, presented in two lines on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![A concise summary of the image that is well optimized for retrieval:
-A side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), featuring its stylized acronym below a blue geometric shape.
 
-extract all the text from the image. Do not exclude any content from the page.
-esma
-European Securities and
-Markets Authority
-eIopA
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up image showing the logo of the European Banking Authority (EBA) beneath a partial title. The blue logo features the white acronym "EBA" on a background with a wavy line pattern, alongside the full name "EUROPEAN BANKING AUTHORITY". Above the logo, the text "THE RISK FACTORS GUIDELINES" is visible.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
   - obtaining additional customer information, such as the customer’s reputation and
 
@@ -6134,23 +5120,11 @@ risk associated with the business relationship is low, based on, inter alia, the
 
 --- Page 72 ---
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey, sans-serif, all-caps text on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of blue stars, while the EIOPA logo has a blue, translucent cube with stars.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) underneath a title that reads "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white letters "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN BANKING AUTHORITY](#)
 
 fund manager’s assessment of the financial intermediary’s business, the types of clients
 
@@ -6222,27 +5196,13 @@ number of investors, EDD measures must apply and may include those set out in pa
 
 --- Page 73 ---
 
-![This is a side-by-side comparison of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features its acronym in blue, surrounded by a circle of blue stars, similar to the EU flag. The EIOPA logo has a stylized blue graphic above its name.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo of the European Banking Authority (EBA) positioned below the title "THE RISK FACTORS GUIDELINES". The logo is a blue and grey rectangle, with "EBA" in large white letters on a blue background with a wave pattern, and "EUROPEAN BANKING AUTHORITY" in smaller white letters on a grey background.
 
-THE RISK FACTORS GUIDELINES
-EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
 # Title IV – Im lementation p
 ### Implementation
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is grey and arranged in two lines on a plain white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
 
 227. Competent authorities and firms should comply with these guidelines by 26 June 2018.
 

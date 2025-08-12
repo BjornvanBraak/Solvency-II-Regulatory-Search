@@ -6,13 +6,7 @@ EIOPA-BoS-14/146 EN
 Guidelines on operational functioning of
 
 
-![A concise summary of the image for retrieval:
-The logo of EIOPA, the European Insurance and Occupational Pensions Authority. The design features a blue, translucent icon with the European Union's circle of stars, positioned above the stylized black text 'eiopa' and the full name of the organization in uppercase text.
 
-Extracted text from the image:
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A title slide with the heading "Guidelines on operational functioning of" in bold black text on a light blue background. Below the main text, there is a centered double quotation mark.
 
@@ -88,8 +82,6 @@ initiative, and promote the implementation of EIOPA’s work on colleges of
 1 OJ L 335, 17.12.2009, p.1.
 2 OJ L 331, 15.12.2010, p.48.
 
-2/38
-
 
 --- Page 3 ---
 
@@ -150,8 +142,6 @@ including:
 supervisor inviting them pursuant to Article 354 of Commission
 Delegated Regulation (EU) 2015/35 of 10 October 2014
 
-3/38
-
 
 --- Page 4 ---
 
@@ -178,7 +168,7 @@ supervisors as defined in Article 212(1)(e) of the Solvency II Directive.
 legal acts referred to in the introduction.
 ### **Section I: Establishment of the college **
 
-**Guideline 1 - Mapping of the group and identification of members and**
+### **Guideline 1 - Mapping of the group and identification of members and**
 **participants of the college**
 
 1.13. The group supervisor or, if not yet designated, the supervisory authority which
@@ -204,7 +194,7 @@ structure including an assessment of any dominant or significant influence
 effectively exercised over an undertaking by another undertaking that is part of
 the group, as well as to provide information on branches in the group.
 
-**Guideline 2 - Criteria for assessing the significance and materiality of related**
+### **Guideline 2 - Criteria for assessing the significance and materiality of related**
 **undertakings**
 
 1.16. The supervisory authorities identified in the mapping process as members and
@@ -212,8 +202,6 @@ the group, as well as to provide information on branches in the group.
 participants of the college should contribute to the assessment performed by
 
 3 OJ L 12, 17.01.2015, p. 1-797
-
-4/38
 
 
 --- Page 5 ---
@@ -267,7 +255,7 @@ the local market;
 
 e) the role of the undertaking in the infrastructure of the financial system.
 
-**Guideline 3 - Results of the assessment of the significance and materiality of**
+### **Guideline 3 - Results of the assessment of the significance and materiality of**
 **branches and related undertakings**
 
 1.18. The group supervisor should consider and use the results of the significance and
@@ -277,7 +265,7 @@ of significant branches and other related undertakings to the college meetings,
 as well as to decide on the organisational structure of the college and its work
 plan.
 
-**Guideline 4 - Invitation of third-country supervisory authorities**
+### **Guideline 4 - Invitation of third-country supervisory authorities**
 
 1.19. When third-country supervisory authorities are invited to join the college as
 
@@ -291,8 +279,6 @@ requirements provided for in Article 66 of the Solvency II Directive.
 
 coordination arrangements, including compliance with professional secrecy
 
-5/38
-
 
 --- Page 6 ---
 
@@ -301,7 +287,7 @@ accordingly in a way that confidentiality and professional secrecy are ensured i
 
 all circumstances.
 
-**Guideline 5 - Guarantees for confidentiality and professional secrecy**
+### **Guideline 5 - Guarantees for confidentiality and professional secrecy**
 
 1.21. When a member or a participant of the college is aware of any confidentiality or
 
@@ -311,7 +297,7 @@ regime previously considered equivalent, it should provide relevant information
 to the other members and participants, as soon as possible.
 ### **Section II: Initial meeting of the college  **
 
-**Guideline 6 - Schedule of the initial meeting**
+### **Guideline 6 - Schedule of the initial meeting**
 
 1.22. After finalising the mapping of the group’s structure and the assessment of the
 
@@ -325,7 +311,7 @@ guidelines, the group supervisor should assess compliance of the operational
 functioning of the college with these guidelines and aim at adapting its
 functioning where necessary.
 
-**Guideline 7 - Agenda of the initial meeting**
+### **Guideline 7 - Agenda of the initial meeting**
 
 1.24. The group supervisor should include in the agenda of the initial college meeting
 
@@ -353,15 +339,13 @@ information among members and participants.
 arrangements of the college at least four weeks in advance of the meeting, in
 order to initiate the six-month period referred to in Guideline 8.
 
-**Guideline 8 - The coordination arrangements**
+### **Guideline 8 - The coordination arrangements**
 
 1.26. The group supervisor should draft the coordination arrangements on the basis
 
 of the template provided in Annex 1. The group supervisor should be allowed to
 amend and further develop the template including deadlines and timeframes,
 where appropriate to suit the needs of the college. It should explain in writing
-
-6/38
 
 
 --- Page 7 ---
@@ -382,7 +366,7 @@ which conditions it comes into force.
 agreed by members and participants.
 ### **Section III: On-going functioning of the college **
 
-**Guideline 9 - Organisational structure and specialised teams**
+### **Guideline 9 - Organisational structure and specialised teams**
 
 1.29. In determining the organisational structure of the college, the group supervisor
 
@@ -402,7 +386,7 @@ should ensure the coordination of the work of these teams.
 participants not involved in specialised teams, should be regularly informed of
 the developments made by specialised teams, where appropriate.
 
-**Guideline 10 - The main tasks of the group supervisor**
+### **Guideline 10 - The main tasks of the group supervisor**
 
 1.32. The group supervisor should take the lead in the college’s activities, chair its
 
@@ -431,8 +415,6 @@ f) develop the college work plan in cooperation with the other members and
 
 participants;
 
-7/38
-
 
 --- Page 8 ---
 
@@ -451,7 +433,7 @@ supervisor in case a modification of the group structure could lead to such a
 
 decision.
 
-**Guideline 11 - Draft agenda and documentation**
+### **Guideline 11 - Draft agenda and documentation**
 
 1.33. The group supervisor should circulate the draft agenda in advance of the
 
@@ -465,7 +447,7 @@ participants in advance of the meeting as defined in the coordination
 
 arrangements.
 
-**Guideline 12 - The college work plan**
+### **Guideline 12 - The college work plan**
 
 1.34. The group supervisor should draw up a college work plan for the purpose of
 
@@ -496,19 +478,17 @@ review of the outcome of the college work plan should be conducted periodically
 within the college. The group supervisor should carry out this review at least
 annually when assessing the college’s performance.
 
-**Guideline 13 - Communication channels**
+### **Guideline 13 - Communication channels**
 
 1.38. To ensure efficient information sharing, members and participants should
 
 consider using the full range of communication channels within the college,
 provided that the confidentiality of data is secured.
 
-8/38
-
 
 --- Page 9 ---
 
-**Guideline 14 - Cooperation between supervisory authorities in the context of**
+### **Guideline 14 - Cooperation between supervisory authorities in the context of**
 **the supervisory review process**
 
 1.39. College members and, where relevant, participants should cooperate and
@@ -516,7 +496,7 @@ provided that the confidentiality of data is secured.
 exchange information within the college to enable the college to form a shared
 view of the risks of the group as part of the supervisory review process.
 
-**Guideline 15 - Communication with supervised undertakings**
+### **Guideline 15 - Communication with supervised undertakings**
 
 1.40. Except in the situation described in the first paragraph of Article 251 of the
 
@@ -547,7 +527,7 @@ part of the group.
 
 agenda in advance of the meeting.
 
-**Guideline 16 - Consultation process within the college**
+### **Guideline 16 - Consultation process within the college**
 
 1.44. When consulting other supervisory authorities concerned under the relevant
 
@@ -575,15 +555,13 @@ e) it should send the final decision to members and, where appropriate, to
 
 participants, together with the opinions of the supervisory authorities
 
-9/38
-
 
 --- Page 10 ---
 
 concerned as well as of the group, and, where applicable, the reasons to
 deviate from these opinions.
 
-**Guideline 17 - Communication with the group supervisor before setting a**
+### **Guideline 17 - Communication with the group supervisor before setting a**
 **capital add-on for a related undertaking**
 
 1.45. The supervisory authority responsible for the supervision of an insurance or
@@ -611,7 +589,7 @@ referred to in Articles 308c and 308d of the Solvency II Directive and the
 risk profile of that undertaking deviates significantly from the assumptions
 underlying these adjustments and transitional measures.
 
-**Guideline 18 - Communication with the college before setting a capital add-**
+### **Guideline 18 - Communication with the college before setting a capital add-**
 **on at group level**
 
 1.46. The group supervisor should inform the other members and participants when it
@@ -636,14 +614,12 @@ the Solvency II Directive or the transitional measures referred to in Articles
 group deviates significantly from the assumptions underlying these
 adjustments and transitional measures.
 
-**Guideline 19 - Ad-hoc exchange of information**
+### **Guideline 19 - Ad-hoc exchange of information**
 
 1.47. For information that is not covered by exchange of information on a systematic
 
 basis and where it is not stated otherwise in the Solvency II Directive or in
 Commission Delegated Regulation 2015/35, when a member or a participant
-
-10/38
 
 
 --- Page 11 ---
@@ -692,7 +668,7 @@ concerned of the supervisory actions and measures taken at group level,
 where relevant.
 ### **Section IV: Joint and local examinations **
 
-**Guideline 20 – Joint on-site examinations**
+### **Guideline 20 – Joint on-site examinations**
 
 1.49. Any EEA member or participant of the college who wishes to verify information
 
@@ -715,8 +691,6 @@ participants that may be affected by or interested in participating in the on-si
 examination or its outcome. Once the participating authorities have been
 identified, they should discuss and agree on the final scope, purpose, structure
 
-11/38
-
 
 --- Page 12 ---
 
@@ -727,7 +701,7 @@ site examination.
 
 the joint on-site examination.
 
-**Guideline 21 – On-site examinations**
+### **Guideline 21 – On-site examinations**
 
 1.52. Where relevant for group supervision, the supervisory authority of an insurance
 
@@ -746,7 +720,7 @@ examination and should communicate to them the main findings and
 conclusions of such an examination.
 ### **Section V: Sharing and delegation of tasks **
 
-**Guideline 22 - Organisation of sharing and delegation of tasks**
+### **Guideline 22 - Organisation of sharing and delegation of tasks**
 
 1.54. Where members and participants consider that sharing and delegating tasks
 
@@ -768,7 +742,7 @@ activities of the supervised undertakings.
 responsibilities or liabilities of members and participants with respect to the
 supervised undertakings.
 
-**Guideline 23 - Procedures for sharing and delegating tasks**
+### **Guideline 23 - Procedures for sharing and delegating tasks**
 
 1.57. Before sharing or delegating any task, the supervisory authorities involved
 
@@ -787,8 +761,6 @@ d) the possible instructions provided by the supervisory authorities involved to
 
 each other;
 
-12/38
-
 
 --- Page 13 ---
 
@@ -802,7 +774,7 @@ involved;
 
 h) the timetable for completion of the delegated or shared tasks.
 
-**Guideline 24 - Documentation of sharing and delegation of tasks within the**
+### **Guideline 24 - Documentation of sharing and delegation of tasks within the**
 **college**
 
 1.58. Members and participants should provide the framework for sharing and
@@ -810,7 +782,7 @@ h) the timetable for completion of the delegated or shared tasks.
 delegating tasks in the coordination arrangements and include the specific tasks
 to be shared or delegated, with the expected timeline, in the college work plan.
 
-**Guideline 25 – Communication to supervised undertakings on sharing and**
+### **Guideline 25 – Communication to supervised undertakings on sharing and**
 **delegation of tasks**
 
 1.59. The supervisory authorities involved should provide to the undertakings
@@ -850,8 +822,6 @@ comply with guidelines and recommendations.
 should incorporate them into their regulatory or supervisory framework in an
 appropriate manner.
 
-13/38
-
 
 --- Page 14 ---
 
@@ -867,8 +837,6 @@ considered as non-compliant to the reporting and reported as such.
 ### **Final Provision on Reviews **
 
 1.66. The present Guidelines shall be subject to a review by EIOPA.
-
-14/38
 
 
 --- Page 15 ---
@@ -931,8 +899,6 @@ the Solvency II Directive, including:
 
 4 OJ L 335, 17.12.2009, p.1.
 
-15/38
-
 
 --- Page 16 ---
 
@@ -991,8 +957,6 @@ consultation mechanism for Article 230 of the Solvency II Directive, info exchan
 relation to crucial mergers/acquisitions/dissolutions, see also paragraph 8.9 of the arrangement. To be
 deleted for example the internal model parts of the template if no group internal model is used.
 
-16/38
-
 
 --- Page 17 ---
 
@@ -1038,8 +1002,6 @@ far as possible and to strive to reach consensus where appropriate;
 ###  support members and participants when exercising their respective supervisory
 
 tasks.
-
-17/38
 
 
 --- Page 18 ---
@@ -1107,8 +1069,6 @@ undertaking level should be provided to the group supervisor, who is responsible
 sending the list to EIOPA. EIOPA will upload it as soon as practically possible on the restricted area of its
 website.
 
-18/38
-
 
 --- Page 19 ---
 
@@ -1174,8 +1134,6 @@ participants;
 
   develops the college work plan in cooperation with members and participants;
 
-19/38
-
 
 --- Page 20 ---
 
@@ -1240,8 +1198,6 @@ secrecy issue which may have a negative impact on the assessment of a third-coun
 supervisory authority’s professional secrecy regime previously considered equivalent.
 
 *Secured communication channels*
-
-20/38
 
 
 --- Page 21 ---
@@ -1310,8 +1266,6 @@ in with the number of months] {two months} months in advance of the meeting.
 8 Several flows of information within the college are possible and all the flows do not necessarily rely on
 the same dataset of information.
 
-21/38
-
 
 --- Page 22 ---
 
@@ -1377,8 +1331,6 @@ insurance undertaking by the relevant national supervisory authority, allowing
 Supervision as defined by the Insurance Groups Directive (98/78/EC) and the Memorandum of
 Understanding on Cooperation between the Financial Supervisory Authorities, Central Banks and Finance
 Ministries of the European Union on Cross-Border Financial Stability, CEIOPS-DOC-15/09, 26 March 2009.
-
-22/38
 
 
 --- Page 23 ---
@@ -1448,8 +1400,6 @@ authorities that the group supervisor is likely to seek input from.
 10 According to [Article 355(2)(d) of Commission Delegated Regulation 2015/35], the college work plan
 shall be revised at least annually.
 
-23/38
-
 
 --- Page 24 ---
 
@@ -1512,8 +1462,6 @@ developments and vulnerabilities also have to be taken into account.
 11 See also Guideline 21 in EIOPA Guidelines on the operational functioning of colleges of supervisors for
 further procedures and communications.
 
-24/38
-
 
 --- Page 25 ---
 
@@ -1574,8 +1522,6 @@ included in (a) and (b) above.
 
 2. The group supervisor’s contribution to the joint decision, to be included in its
 proposal for this decision, consists of the following:
-
-25/38
 
 
 --- Page 26 ---
@@ -1643,8 +1589,6 @@ are kept informed.
 
 8.9. Other specific situations
 
-26/38
-
 
 --- Page 27 ---
 
@@ -1708,8 +1652,6 @@ arrangements
 Annex 1.B: Group structure and main activities of the group
 Annex 1.C: Data set to be systematically exchanged
 
-27/38
-
 
 --- Page 28 ---
 
@@ -1730,8 +1672,6 @@ name of supervisors (supervisory authority), country
 |Date|Signature 2|
 ||Name and Position|
 
-
-28/38
 
 
 --- Page 29 ---
@@ -1760,8 +1700,6 @@ name of supervisors (supervisory authority), country
 ||||||
 
 
-29/38
-
 
 
 
@@ -1772,8 +1710,6 @@ name of supervisors (supervisory authority), country
 {Explanations or best practices are provided in brackets. They provide guidance to the
 drafting of individual arrangements which should be adapted to the specific needs of
 the individual college}
-
-30/38
 
 
 --- Page 31 ---
@@ -1836,8 +1772,6 @@ level or any facts or events that may give rise to significant problems for the 
 any related undertakings.
 
 12 https://eiopa.europa.eu/restricted - [area/infohub/directories/members](https://eiopa.europa.eu/restricted-area/infohub/directories/members-observers-crisis-contactlist/index.html) - observers - crisis [contactlist/index.html](https://eiopa.europa.eu/restricted-area/infohub/directories/members-observers-crisis-contactlist/index.html)
-
-31/38
 
 
 --- Page 32 ---
@@ -1910,8 +1844,6 @@ The group supervisor assesses the nature of the financial crisis and its implica
 cooperation with the members and participants concerned and EIOPA in order to reach
 a common understanding of the crisis within the college as soon as possible.
 
-32/38
-
 
 --- Page 33 ---
 
@@ -1973,8 +1905,6 @@ may have impact on other supervisory authorities concerned.
 
 13 https://www.ecb.europa.eu/pub /pd f [/othe](https://www.ecb.europa.eu/pub/pdf/other/mou-financialstability2008en.pdf) r/mou - financialstability2008en.pdf
 
-33/38
-
 
 --- Page 34 ---
 
@@ -2033,15 +1963,11 @@ verification of all items of this document.
 
 14 Principle 1 of the Colleges of Supervisors – 10 Common Principles, 27 January 2009, CEIOPS-SEC54/08.
 
-34/38
-
 
 --- Page 35 ---
 
 {In case this emergency plan has been updated, the numbering of the front page
 and in the table on page 2 should be changed.}
-
-35/38
 
 
 --- Page 36 ---
@@ -2080,8 +2006,6 @@ insurance supervisory authority
 |9|Actions taken by supervisors|Description of the action, its purpose and effect.|RSR, GS, IS|
 
 
-36/38
-
 
 
 --- Page 37 ---
@@ -2102,8 +2026,6 @@ insurance supervisory authority
 |20|Outsourcing|Information on the outsourcing of any critical or important operational functions or activities and the jurisdiction in which the service providers of such functions or activities are located.|SFCR, GS, IS|
 
 
-37/38
-
 
 --- Page 38 ---
 
@@ -2120,7 +2042,5 @@ insurance supervisory authority
 |28|Availability of capital|A description of any item deducted from own funds and a brief description of any significant restriction affecting the availability and transferability of own funds within the undertaking or group. Capital ability to absorb the impact of the crisis. Group’s ability to raise additional capital and an indication where it may be able to source this capital from.|SFCR and RSR, GS, IS|
 |29|Allocation of capital and possibility of transferability|If available, how the capital is allocated within the group and discussion on the possibility of transferring the capital within the group (e.g. through intra-company loans, reinsurance dividends).|RSR: GS|
 
-
-38/38
 
 

@@ -4,21 +4,13 @@
 # **Revised Guidelines on Contract ** **Boundaries**
 
 
-![1. This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem with the European Union's circle of stars next to the stylized, lowercase acronym "eiopa" in grey text.
 
-2. eiopa
-European Insurance and
-Occupational Pensions Authority](#)
 
 --- Page 2 ---
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue rounded diamond-shaped icon containing the European Union's circle of stars, positioned to the left of the stylized grey acronym "EIOPA". The full name of the authority is written in two lines of grey text below the acronym.
 
-eıopa
-European Insurance and
-Occupational Pensions Authority](#)
 
-*Guideline 0 - Contract Boundaries (New Guideline)*
+### *Guideline 0 - Contract Boundaries (New Guideline)*
 
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
 
@@ -32,7 +24,7 @@ using realistic assumptions, which means that the projection of cash flows might
 
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
 
-*Guideline 5 - Contract Boundaries (Amended Guideline)*
+### *Guideline 5 - Contract Boundaries (Amended Guideline)*
 
 2. Insurance and reinsurance undertakings should assess whether at recognition date it is
 
@@ -74,20 +66,14 @@ to insurance or reinsurance obligations.
 
 should be treated as an independent contract.
 
-*Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted*
+### *Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted*
 
 *Guideline)*
-
-Page 2/5
 
 
 --- Page 3 ---
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem containing the European Union's circle of stars next to the stylized grey acronym "eiopa". The full name of the authority is written below.
 
-eiopa
-European Insurance and
-Occupational Pensions Authority](#)
 
 *Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the*
 *economics of a contract (New Guideline)*
@@ -154,16 +140,10 @@ consideration of the time value of options and guarantees is relevant for this a
 
 affects the insured person (cover) has no discernible effect on the economics of a
 
-Page 3/5
-
 
 --- Page 4 ---
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue icon with the European Union's circle of stars, placed next to the stylized grey acronym "EIOPA". The full name of the authority is written in grey text below the acronym.
 
-eıopa
-European Insurance and
-Occupational Pensions Authority](#)
 
 contract, insurance and reinsurance undertakings should take into account all potential
 
@@ -233,17 +213,10 @@ extreme. For this purpose, the changes on the relevant risk-free interest rate t
 
 structure used to calculate the best estimate as referred to in Article 77(2) of the Solvency
 
-Page 4/5
-
 
 --- Page 5 ---
 
-![**Summary:**
-The logo of EIOPA, the European Insurance and Occupational Pensions Authority. It features a blue emblem with the European Union circle of stars, next to the stylized grey acronym "eIopa" and the full name of the authority below it on a white background.
 
-**Text extracted from the image:**
-eIopa
-European Insurance and Occupational Pensions Authority](#)
 
 II Directive that are less extreme than the interest rate stress of the Standard Formula
 
@@ -303,6 +276,4 @@ non-compliant to the reporting and reported as such.
 Final provision on review
 
 28. These Guidelines will be subject to a review by EIOPA.
-
-Page 5/5
 

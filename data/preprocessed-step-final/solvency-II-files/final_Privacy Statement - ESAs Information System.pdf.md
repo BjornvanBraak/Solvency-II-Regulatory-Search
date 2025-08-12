@@ -1,14 +1,7 @@
 
 --- Page 1 ---
 
-![A horizontal banner displaying the logos of three European financial authorities on a white background: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority](#)
 
 ESAs Regular Use
 ESA 2024 24
@@ -61,16 +54,7 @@ specified below through the following contact details:
 
 --- Page 2 ---
 
-![An image displaying the logos of three European financial regulatory authorities side-by-side on a white background. From left to right, they are the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba European
-Banking
-Authority
-eiopa
-European Insurance and
-Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority](#)
 
 EIOPA
 
@@ -122,11 +106,7 @@ provided in point (II) above.
 
 --- Page 3 ---
 
-![A horizontal banner displaying the logos of three European Supervisory Authorities (ESAs) on a white background: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba European Banking Authority
-eiopa European Insurance and Occupational Pensions Authority
-ESMA European Securities and Markets Authority](#)
 
 Data subjects may request access to the essence of the joint controllership arrangement
 concluded between the Joint Controllers pursuant to Article 28 of EUDPR.
@@ -145,16 +125,7 @@ as provided in Article 63 of the Regulation **.**
 
 --- Page 4 ---
 
-![An image displaying the logos of three European Supervisory Authorities (ESAs) side-by-side on a white background. From left to right, they are the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba European
-Banking
-Authority
-elopa
-European Insurance and
-Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority](#)
 
 **APPENDIX – ESSENTIAL ELEMENTS OF PROCESSING** **BY THE ESA** **S**
 
@@ -176,14 +147,7 @@ European Securities and Markets Authority](#)
 
 --- Page 5 ---
 
-![A concise summary of the logos of three European financial regulatory authorities: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), displayed side-by-side on a white background.
 
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority](#)
 
 **2. Setting up,**
 **functioning and**
@@ -303,16 +267,7 @@ above.
 
 --- Page 6 ---
 
-![An image displaying the logos of three European financial regulatory bodies side-by-side on a white background. The logos are for the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba European
-Banking
-Authority
-eiopa
-European Insurance and
-Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority](#)
 
 **ESSENTIAL ELEMENTS OF PROCESSING** **BY THE CAS**
 

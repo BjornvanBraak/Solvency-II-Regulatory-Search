@@ -1,7 +1,7 @@
 
 --- Page 1 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/1
+
 ## II
 
 *(Non-legislative acts)*
@@ -72,7 +72,7 @@ SUBSECTION 1 Supervisory approval of ancillary own funds .......................
 
 --- Page 2 ---
 
-L 12/2 EN Official Journal of the European Union 17.1.2015
+
 
 SUBSECTION 2 Own funds treatment of participations ............................................................................. 49
 
@@ -163,7 +163,7 @@ SECTION 6 Profit and loss attribution ..........................................
 
 --- Page 3 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/3
+
 
 SECTION 7 Validation standards .......................................................................................................... 152
 
@@ -254,7 +254,7 @@ SECTION 1 Group solvency and financial condition report ........................
 
 --- Page 4 ---
 
-L 12/4 EN Official Journal of the European Union 17.1.2015
+
 
 SECTION 2 Single solvency and financial condition report ........................................................................ 216
 
@@ -277,7 +277,7 @@ CHAPTER IV Final provisions ....................................................
 
 --- Page 5 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/5
+
 
 THE EUROPEAN COMMISSION
 
@@ -342,7 +342,7 @@ follow a different valuation hierarchy.
 
 --- Page 6 ---
 
-L 12/6 EN Official Journal of the European Union 17.1.2015
+
 
 (8) Insurance and reinsurance undertakings should recognise and value deferred tax assets and liabilities in relation to
 all items that are recognised for solvency purposes or in the tax balance sheet in order to ensure that all amounts
@@ -404,7 +404,7 @@ of the risk margin gross and net of reinsurance contracts and special purpose ve
 
 --- Page 7 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/7
+
 
 (20) The adjustment for credit risk to the basic risk-free interest rates should be derived from market rates that capture
 the credit risk reflected in the floating rate of interest rate swaps. For this purpose, in order to align the determin­­
@@ -469,7 +469,7 @@ to reflect the existence of an encumbrance on that part of own-funds.
 
 --- Page 8 ---
 
-L 12/8 EN Official Journal of the European Union 17.1.2015
+
 
 (31) The assessment of whether an individual own-fund item is of sufficient duration should be based on the original
 maturity of that item. The average duration of an insurance or reinsurance undertaking's total own funds, taking
@@ -532,7 +532,7 @@ limits should not be counted as eligible own funds.
 
 --- Page 9 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/9
+
 
 (42) When setting up lists of regional governments and local authorities, EIOPA should respect the requirement that
 there is no difference in risk between exposures to these and exposures to the central government in whose
@@ -598,7 +598,7 @@ material.
 
 --- Page 10 ---
 
-L 12/10 EN Official Journal of the European Union 17.1.2015
+
 
 (53) In order to reflect empirical evidence on natural catastrophes in the calibration of the standard formula, the
 modelling of natural catastrophe risk should be based on geographical divisions that are sufficiently
@@ -658,7 +658,7 @@ exposures should be captured in the counterparty default risk module as type 2 e
 
 --- Page 11 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/11
+
 
 (65) The counterparty default risk module of the standard formula should reflect the economic effect of collateral
 arrangements in case of default of the counterparty. In particular, it should be considered whether the full
@@ -721,7 +721,7 @@ calculation of the Solvency Capital Requirement, the risk mitigation technique s
 
 --- Page 12 ---
 
-L 12/12 EN Official Journal of the European Union 17.1.2015
+
 
 (74) The existence of profit participation arrangements, whereby profits are allocated to policy holders or beneficiaries
 should be appropriately reflected in the calculation of the Solvency Capital Requirement.
@@ -788,7 +788,7 @@ internal model.
 
 --- Page 13 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/13
+
 
 (84) Internal models are likely to be based on a large amount of data stemming from a variety of sources and of
 differing characteristics and quality. In order to ensure the appropriateness of the data used for the internal
@@ -856,7 +856,7 @@ payment obligations of different seniority.
 
 --- Page 14 ---
 
-L 12/14 EN Official Journal of the European Union 17.1.2015
+
 
 (93) Good governance is the basis for effective and sound management of insurance and reinsurance undertakings as
 well as a key element of the regulatory framework. The system of governance of an insurance and reinsurance
@@ -919,7 +919,7 @@ encourage excessive risk-taking.
 
 --- Page 15 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/15
+
 
 (103) The specification of the circumstances in which capital add-ons may be imposed and the methodologies for their
 calculation should ensure that the use of capital add-ons is an effective and practicable supervisory tool for the
@@ -982,7 +982,7 @@ developments that have occurred since the last reporting period.
 
 --- Page 16 ---
 
-L 12/16 EN Official Journal of the European Union 17.1.2015
+
 
 (114) Quantitative and qualitative information should be disclosed or submitted to the supervisory authority on a
 regular basis in the form of a narrative report and quantitative templates. Quantitative templates should specify in
@@ -1045,7 +1045,7 @@ burdensome, and the nature, scale and complexity of the risks of the group are s
 
 --- Page 17 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/17
+
 
 would not materially affect the results of the group solvency calculation. In ascertaining, for these purposes,
 whether the use of method 2 would materially affect the results of the group solvency calculation, method 2
@@ -1110,7 +1110,7 @@ insurance or reinsurance undertaking in the group, then Article 230 of Directive
 
 --- Page 18 ---
 
-L 12/18 EN Official Journal of the European Union 17.1.2015
+
 
 this context, it is necessary to ensure that the approval of an internal model used to calculate only the
 consolidated group Solvency Capital Requirement is granted by the group supervisor in a manner consistent with
@@ -1172,7 +1172,7 @@ reinsurance groups, in order to foster the convergence of supervisory practices.
 
 --- Page 19 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/19
+
 
 (140) Directive 2009/138/EC requires participating insurance and reinsurance undertakings or insurance holding
 companies or mixed financial holding companies to disclose publicly information on the solvency and financial
@@ -1235,7 +1235,7 @@ and solvency.
 
 --- Page 20 ---
 
-L 12/20 EN Official Journal of the European Union 17.1.2015
+
 
 (149) In order to ensure that information can be exchanged between supervisory authorities, supervisory authorities of
 third countries for which there has been a positive equivalence decision or for which a temporary or provisional
@@ -1268,7 +1268,7 @@ HAS ADOPTED THIS REGULATION:
 
 **GENERAL PROVISIONS**
 
-*SECTION 1*
+### Section 1
 
 ***Definitions and general principles***
 
@@ -1310,7 +1310,7 @@ covering medical expense insurance obligations;
 
 --- Page 21 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/21
+
 
 9. ‘income protection reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance
 covering income protection insurance obligations;
@@ -1391,7 +1391,7 @@ institutions and investment firms and amending Regulation (EU) No 648/2012, (OJ 
 
 --- Page 22 ---
 
-L 12/22 EN Official Journal of the European Union 17.1.2015
+
 
 30. ‘pool exposure of type B’ means the risk ceded by an insurance or reinsurance undertaking to another member of a
 pooling arrangement, where the insurance or reinsurance undertaking is a party to that pooling arrangement;
@@ -1464,7 +1464,7 @@ p. 1).
 
 --- Page 23 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/23
+
 
 43. ‘administrative, management or supervisory body’ shall mean, where a two-tier board system comprising of a
 management body and a supervisory body is provided for under national law, the management body or the
@@ -1542,7 +1542,7 @@ occupational retirement provision (OJ L 235, 23.9.2003, p. 10).
 
 --- Page 24 ---
 
-L 12/24 EN Official Journal of the European Union 17.1.2015
+
 
 58. ‘domestic reinsurance undertaking’ means an undertaking authorised and supervised by third-country supervisory
 authorities which would require authorisation as a reinsurance undertaking in accordance with Article 14 of
@@ -1562,7 +1562,7 @@ internal users of the relevant assumptions are informed about their relevant con
 limitations. For that purpose, service providers to whom functions or activities have been outsourced shall be considered
 to be internal users.
 
-*SECTION 2*
+### Section 2
 
 ***External credit assessments***
 
@@ -1618,7 +1618,7 @@ capital requirements are the same, the assessment generating that capital requir
 
 --- Page 25 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/25
+
 
 5. Where an item is part of the larger or more complex exposures of the insurance or reinsurance undertaking, the
 undertaking shall produce its own internal credit assessment of the item and allocate it to one of the seven steps in a
@@ -1682,7 +1682,7 @@ Articles 9 to 16 shall apply to the recognition and valuation of assets and liab
 
 --- Page 26 ---
 
-L 12/26 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 9
 
@@ -1756,7 +1756,7 @@ otherwise provided in this Chapter, use alternative valuation methods.
 
 --- Page 27 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/27
+
 
 6. When using alternative valuation methods, insurance and reinsurance undertakings shall rely as little as possible
 on undertaking-specific inputs and make maximum use of relevant market inputs including the following:
@@ -1825,7 +1825,7 @@ accordance with Article 10(2), in which case the asset shall be valued in accord
 
 --- Page 28 ---
 
-L 12/28 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 13
 
@@ -1898,7 +1898,7 @@ rate term structure.
 
 --- Page 29 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/29
+
 
 ##### Article 15
 
@@ -1955,7 +1955,7 @@ estimated costs to sell if the estimated costs to sell are material.
 
 **RULES RELATING TO TECHNICAL PROVISIONS**
 
-*SECTION 1*
+### Section 1
 
 ***General provisions***
 
@@ -1971,7 +1971,7 @@ earlier. Insurance and reinsurance undertakings shall only recognise the obligat
 
 --- Page 30 ---
 
-L 12/30 EN Official Journal of the European Union 17.1.2015
+
 
 Insurance and reinsurance undertakings shall derecognise an insurance or reinsurance obligation only when it is
 extinguished, discharged, cancelled or expires.
@@ -2038,9 +2038,9 @@ payable under the portfolio.
 
 --- Page 31 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/31
 
-*SECTION 2*
+
+### Section 2
 
 ***Data quality***
 
@@ -2111,7 +2111,7 @@ process that data;
 
 --- Page 32 ---
 
-L 12/32 EN Official Journal of the European Union 17.1.2015
+
 
 (c) insurance or reinsurance undertakings identify any trends in that data and the variation, over time or across data, of
 the assumptions or methodologies in the use of that data;
@@ -2144,11 +2144,11 @@ validating data used for the valuation of technical provisions;
 
 (c) it would not be practicable for the undertaking to adjust the data to remedy the insufficiency.
 
-*SECTION 3*
+### Section 3
 
 ***Methodologies to calculate technical provisions***
 
-Subsection 1
+#### Subsection 1
 
 **Assumptions underlying the calculation of technical provisions**
 
@@ -2186,7 +2186,7 @@ with paragraph 1 of this Article.
 
 --- Page 33 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/33
+
 
 3. Insurance and reinsurance undertakings shall set assumptions on future financial market parameters or scenarios
 that are appropriate and consistent with Article 75 of Directive 2009/138/EC. Where insurance and reinsurance
@@ -2260,7 +2260,7 @@ to carry out each respective future management action referred to in point (a);
 
 --- Page 34 ---
 
-L 12/34 EN Official Journal of the European Union 17.1.2015
+
 
 (f) a description of how the future management actions referred to in point (a) have been reflected in the calculation of
 the best estimate;
@@ -2313,7 +2313,7 @@ exercising the option;
 The likelihood shall only be considered to be independent of the elements referred to in points (a) to (d) where there is
 empirical evidence to support such an assumption.
 
-Subsection 2
+#### Subsection 2
 
 **Information underlying the calculation of best estimates**
 
@@ -2329,9 +2329,9 @@ the way in which the information is generated and processed.
 
 --- Page 35 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/35
 
-Subsection 3
+
+#### Subsection 3
 
 **Cash f low projections for the calculation of the best estimate**
 
@@ -2399,7 +2399,7 @@ claims;
 
 --- Page 36 ---
 
-L 12/36 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 31
 
@@ -2472,7 +2472,7 @@ such dependencies.
 
 --- Page 37 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/37
+
 
 ##### Article 35
 
@@ -2509,7 +2509,7 @@ the claims arising from those events have been reported or not.
 4. Cash flow projections for the calculation of the provision for claims outstanding shall include benefits, expenses
 and premiums relating to the events referred to in paragraph 3.
 
-Subsection 4
+#### Subsection 4
 
 **Risk margin**
 
@@ -2555,7 +2555,7 @@ reinsurance undertakings shall use the internal model to calculate the amounts *
 
 --- Page 38 ---
 
-L 12/38 EN Official Journal of the European Union 17.1.2015
+
 
 3. Insurance and reinsurance undertakings shall allocate the risk margin for the whole portfolio of insurance and
 reinsurance obligations to the lines of business referred to in Article 80 of Directive 2009/138/EC. The allocation shall
@@ -2630,7 +2630,7 @@ including supervisory authorities.
 
 --- Page 39 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/39
+
 
 ##### Article 39
 
@@ -2638,7 +2638,7 @@ including supervisory authorities.
 
 The Cost-of-Capital rate referred to in Article 77(5) of Directive 2009/138/EC shall be assumed to be equal to 6 %.
 
-Subsection 5
+#### Subsection 5
 
 **Calculation of technical provisions as a whole**
 
@@ -2669,7 +2669,7 @@ markets shall also comply with Article 10(4).
 4. Insurance and reinsurance undertakings shall determine the value of technical provisions on the basis of the
 market price of the financial instruments used in the replication.
 
-Subsection 6
+#### Subsection 6
 
 **Recoverables from reinsurance contracts and special purpose vehicles**
 
@@ -2695,7 +2695,7 @@ the assets and liabilities relating to the deposit.
 
 --- Page 40 ---
 
-L 12/40 EN Official Journal of the European Union 17.1.2015
+
 
 4. The amounts recoverable from reinsurance contracts and special purpose vehicles for non-life insurance
 obligations shall be calculated separately for premium provisions and provisions for claims outstanding in the following
@@ -2741,11 +2741,11 @@ paragraph 1, unless there is a reliable basis for another assessment.
 5. The probability of default of a special purpose vehicle shall be calculated on the basis of the credit risk inherent in
 the assets held by the special purpose vehicle.
 
-*SECTION 4*
+### Section 4
 
 ***Relevant risk-free interest rate term structure***
 
-Subsection 1
+#### Subsection 1
 
 **General provisions**
 
@@ -2767,9 +2767,9 @@ transparent, prudent, reliable and objective manner that is consistent over time
 
 --- Page 41 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/41
 
-Subsection 2
+
+#### Subsection 2
 
 **Basic risk free interest rate term structure**
 
@@ -2828,7 +2828,7 @@ ultimate forward rate shall not include a term premium to reflect the additional
 
 --- Page 42 ---
 
-L 12/42 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 48
 
@@ -2866,7 +2866,7 @@ the value in the pegged currency of an investment denominated in euro decreases 
 the exchange rate between the euro and the pegged currency. The adjustment shall be the same for all insurance and
 reinsurance undertakings.
 
-Subsection 3
+#### Subsection 3
 
 **Volatility adjustment**
 
@@ -2905,7 +2905,7 @@ criteria exist for when and how the constituents of those indices will be change
 
 --- Page 43 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/43
+
 
 For the purposes of points (a) and (b), investments of insurance and reinsurance undertakings in collective investment
 undertakings and other investments packaged as funds shall be treated as investments in the underlying assets.
@@ -2945,7 +2945,7 @@ credit risk or any other risk referred to in Article 77d(3) and (4) of Directive
 same manner as the fundamental spread referred to in Article 77c (2) of Directive 2009/138/EC and Article 54 of this
 Regulation.
 
-Subsection 4
+#### Subsection 4
 
 **Matching adjustment**
 
@@ -2979,7 +2979,7 @@ accordance with paragraph 2.
 
 --- Page 44 ---
 
-L 12/44 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 53
 
@@ -3026,7 +3026,7 @@ the replacing asset meets all of the following criteria:
 
 (c) the replacing asset has the same credit quality step as the replaced asset before downgrade or a higher one.
 
-*SECTION 5*
+### Section 5
 
 ***Lines of business***
 
@@ -3049,7 +3049,7 @@ shall be assigned to the lines of business for non-life insurance.
 
 --- Page 45 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/45
+
 
 4. Where the insurance obligations arising from the operations referred to in Article 2(3)(b) of Directive
 2009/138/EC cannot clearly be assigned to the lines of business set out in Annex I to this Regulation on the basis of
@@ -3065,7 +3065,7 @@ business.
 7. Where an insurance or reinsurance contract includes health insurance or reinsurance obligations and other
 insurance or reinsurance obligations, those obligations shall, where possible, be unbundled.
 
-*SECTION 6*
+### Section 6
 
 ***Proportionality and simplifications***
 
@@ -3124,7 +3124,7 @@ estimate) calculated in accordance with paragraph 2.
 
 --- Page 46 ---
 
-L 12/46 EN Official Journal of the European Union 17.1.2015
+
 
 2. Insurance and reinsurance undertakings may use methods to derive the unadjusted net best estimate from the
 gross best estimate without an explicit projection of the cash flows underlying the amounts recoverable from
@@ -3196,17 +3196,17 @@ homogeneous risk group.
 
 --- Page 47 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/47
+
 
 ## *CHAPTER IV*
 
 **OWN FUNDS**
 
-*SECTION 1*
+### Section 1
 
 ***Determination of own funds***
 
-Subsection 1
+#### Subsection 1
 
 **Supervisory approval of ancillary own funds**
 
@@ -3273,7 +3273,7 @@ satisfy their commitments under the ancillary own funds item;
 
 --- Page 48 ---
 
-L 12/48 EN Official Journal of the European Union 17.1.2015
+
 
 (d) whether the legal form of the counterparties prejudice the counterparties' satisfaction of their commitments under
 the ancillary own funds item;
@@ -3348,7 +3348,7 @@ their commitments under the ancillary own funds item.
 
 --- Page 49 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/49
+
 
 ##### Article 65
 
@@ -3387,7 +3387,7 @@ more frequent than annual, and the reasons for that frequency;
 
 (c) the time period for which the calculation of the ancillary own funds item using that method is granted.
 
-Subsection 2
+#### Subsection 2
 
 **Own funds treatment of participations**
 
@@ -3427,9 +3427,9 @@ included in Article 72.
 
 --- Page 50 ---
 
-L 12/50 EN Official Journal of the European Union 17.1.2015
 
-*SECTION 2*
+
+### Section 2
 
 ***Classification of own funds***
 
@@ -3490,7 +3490,7 @@ to (e).
 
 --- Page 51 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/51
+
 
 2. The excess of assets over liabilities referred to in paragraph 1 includes the amount that corresponds to the
 expected profit included in future premiums set out in paragraph 2 of Article 260.
@@ -3560,7 +3560,7 @@ reinsurance undertaking will repay or redeem that basic own-fund item where it h
 
 --- Page 52 ---
 
-L 12/52 EN Official Journal of the European Union 17.1.2015
+
 
 (j) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 provides for the suspension of repayment or redemption of that item where there is non-compliance with the
@@ -3634,7 +3634,7 @@ linked to distributions being made, or not made, on other own fund items;
 
 --- Page 53 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/53
+
 
 (e) there is no obligation for an insurance or reinsurance undertaking to make distributions;
 
@@ -3706,7 +3706,7 @@ occurs before non-compliance with the Solvency Capital Requirement.
 
 --- Page 54 ---
 
-L 12/54 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 72
 
@@ -3782,7 +3782,7 @@ where all of the following conditions are met:
 
 --- Page 55 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/55
+
 
 (i) the basic own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the basic own-fund item, could result in that basic own-fund item not complying with the first sub­­
@@ -3848,7 +3848,7 @@ members by way of a call for supplementary contributions, within the following 1
 
 --- Page 56 ---
 
-L 12/56 EN Official Journal of the European Union 17.1.2015
+
 
 (h) any future claims which mutual or mutual-type associations may have against their members by way of a call for
 supplementary contributions, within the following 12 months, provided that a call can be made on demand and is
@@ -3915,7 +3915,7 @@ Solvency Capital Requirement;
 
 --- Page 57 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/57
+
 
 (g) the basic own-fund item, in the case of items referred to in points (a)(i) and (ii) and point (b) of Article 76, provides
 for the deferral of distributions where there is non-compliance with the Minimum Capital Requirement or the
@@ -3986,7 +3986,7 @@ eration the features set out in Article 93(2) of that Directive;
 
 --- Page 58 ---
 
-L 12/58 EN Official Journal of the European Union 17.1.2015
+
 
 (c) where the undertaking is applying for classification as Tier 2 ancillary own funds, whether the ancillary own-fund
 item substantially possesses the characteristics in Article 93(1)(a) and (b) of Directive 2009/138/EC, taking into
@@ -4006,11 +4006,11 @@ classified as Tier 1 basic own funds where they are fully paid-in.
 4. The inclusion of own-fund items approved by the supervisory authority in accordance with this Article shall be
 subject to quantitative limits set out in Article 82.
 
-*SECTION 3*
+### Section 3
 
 ***Eligibility of own funds***
 
-Subsection 1
+#### Subsection 1
 
 **Ring-fenced funds**
 
@@ -4057,9 +4057,9 @@ restricted own-fund items.
 
 --- Page 59 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/59
 
-Subsection 2
+
+#### Subsection 2
 
 **Quantitative limits**
 
@@ -4100,11 +4100,11 @@ Directive 2009/138/EC.
 
 **SOLVENCY CAPITAL REQUIREMENT STANDARD FORMULA**
 
-*SECTION 1*
+### Section 1
 
 ***General provisions***
 
-Subsection 1
+#### Subsection 1
 
 **Scenario based calculations**
 
@@ -4135,7 +4135,7 @@ policy holders will exercise contractual options.
 
 --- Page 60 ---
 
-L 12/60 EN Official Journal of the European Union 17.1.2015
+
 
 3. Insurance and reinsurance undertakings may use simplified methods to calculate the technical provisions arising as
 a result of determining the impact of a scenario as referred to in paragraph 1, provided that the simplified method does
@@ -4152,7 +4152,7 @@ held by the undertaking which comply with Articles 209 to 215.
 the calculation of the module or sub-module shall be based on the assumption that the scenario has no impact on the
 basic own funds.
 
-Subsection 2
+#### Subsection 2
 
 **Look-through approach**
 
@@ -4180,7 +4180,7 @@ more than 20 % of the total value of the assets of the insurance or reinsurance 
 4. Paragraph 2 shall not apply to investments in related undertakings within the meaning of Article 212(1)(b) and (2)
 of Directive 2009/138/EC.
 
-Subsection 3
+#### Subsection 3
 
 **Regional governments and local authorities**
 
@@ -4190,7 +4190,7 @@ The conditions for a categorisation of regional governments and local authoritie
 risk between exposures to these and exposures to the central government, because of the specific revenue-raising power
 of the former, and specific institutional arrangements exist, the effect of which is to reduce the risk of default.
 
-Subsection 4
+#### Subsection 4
 
 **Material basis risk**
 
@@ -4204,7 +4204,7 @@ account the risk-mitigation technique in the calculation of the Solvency Capital
 
 --- Page 61 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/61
+
 
 formula, provided that the risk-mitigation technique complies with Article 209, Article 210(1), (3) and (4) and
 Article 211, and the calculation is carried out as follows:
@@ -4224,7 +4224,7 @@ to in point (a) shall be carried out for each of those modules, sub-modules and 
 resulting from those calculations shall not exceed 25 % of the capacity of the non-proportional reinsurance contract
 or special purpose vehicle.
 
-Subsection 5
+#### Subsection 5
 
 **Calculation of the basic solvency capital requirement**
 
@@ -4257,7 +4257,7 @@ where:
 
 (b) *SCR* *intangibles* denotes the capital requirement for intangible asset risk referred to in Article 203.
 
-Subsection 6
+#### Subsection 6
 
 **Proportionality and simplifications**
 
@@ -4288,7 +4288,7 @@ the Solvency Capital Requirement that results from the standard calculation.
 
 --- Page 62 ---
 
-L 12/62 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 89
 
@@ -4386,7 +4386,7 @@ contracts and special purpose vehicles;
 
 --- Page 63 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/63
+
 
 — the expected present value of amounts not covered in the previous indent that the undertaking would pay in
 the future in the event of the immediate death of the persons insured under the contract after deduction of
@@ -4468,7 +4468,7 @@ insured;
 
 --- Page 64 ---
 
-L 12/64 EN Official Journal of the European Union 17.1.2015
+
 
 (d) *d* *2* denotes the expected average disability-morbidity rate in the 12 months after the following 12 months weighted
 by the sum insured;
@@ -4549,7 +4549,7 @@ amounts recoverable from policy holders or intermediaries;
 
 --- Page 65 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/65
+
 
 ##### Article 96
 
@@ -4636,7 +4636,7 @@ sum insured;
 
 --- Page 66 ---
 
-L 12/66 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 98
 
@@ -4722,7 +4722,7 @@ deduction of the amounts recoverable from reinsurance contracts and special purp
 
 --- Page 67 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/67
+
 
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable form reinsurance
 contracts and special purpose vehicles;
@@ -4800,7 +4800,7 @@ where:
 
 --- Page 68 ---
 
-L 12/68 EN Official Journal of the European Union 17.1.2015
+
 
 3. The surrender strain of an insurance policy referred to in paragraphs (1) and (2) is the difference between the
 following:
@@ -4903,7 +4903,7 @@ technical provisions for maturity interval *i* ;
 
 --- Page 69 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/69
+
 
 (i) *rate* *lob* denotes the relevant risk-free rate for modified duration in line of business *lob* ;
 
@@ -4980,7 +4980,7 @@ loans with credit quality step *i*, and *b* *i* is determined in accordance with
 
 --- Page 70 ---
 
-L 12/70 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 105
 
@@ -5057,7 +5057,7 @@ Recov *erables* *i*
 
 --- Page 71 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/71
+
 
 where
 
@@ -5130,7 +5130,7 @@ highest probability of default assigned to single name exposures included in the
 
 --- Page 72 ---
 
-L 12/72 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 111
 
@@ -5163,7 +5163,7 @@ reinsurance undertakings may, for the purposes of Article 197, calculate the ris
 by way of security as referred to in Article 1(26)(b), as 75 % of the value of the assets held as collateral, valued in
 accordance with Article 75 of Directive 2009/138/EC.
 
-Subsection 7
+#### Subsection 7
 
 **Scope of the underwriting risk modules**
 
@@ -5180,7 +5180,7 @@ reinsurance obligations;
 
 (c) the health underwriting risk module to health insurance and reinsurance obligations.
 
-*SECTION 2*
+### Section 2
 
 ***Non-life underwriting risk module***
 
@@ -5216,7 +5216,7 @@ s
 
 --- Page 73 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/73
+
 
 where:
 
@@ -5289,7 +5289,7 @@ during the following 12 months;
 
 --- Page 74 ---
 
-L 12/74 EN Official Journal of the European Union 17.1.2015
+
 
 (c) *FP* *(existing,s)* denotes the expected present value of premiums to be earned by the insurance or reinsurance undertaking
 in the segment *s* after the following 12 months for existing contracts;
@@ -5373,7 +5373,7 @@ respectively.
 
 --- Page 75 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/75
+
 
 2. For all segments set out in Annex II, the standard deviation for non-life premium and reserve risk of a particular
 segment *s* shall be equal to the following:
@@ -5464,7 +5464,7 @@ where:
 
 --- Page 76 ---
 
-L 12/76 EN Official Journal of the European Union 17.1.2015
+
 
 (c) *SCR* *mmCAT* denotes the capital requirement for man-made catastrophe risk;
 
@@ -5557,7 +5557,7 @@ purpose vehicles, is equal to 40 % of the specified windstorm loss in region *r*
 
 --- Page 77 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/77
+
 
 4. For all regions set out in Annex V the capital requirement for windstorm risk in a particular region *r* according to
 scenario B shall be equal to the loss in basic own funds of insurance and reinsurance undertakings that would result
@@ -5642,7 +5642,7 @@ and special purpose vehicles, referred to in paragraph 8 shall be equal to the f
 
 --- Page 78 ---
 
-L 12/78 EN Official Journal of the European Union 17.1.2015
+
 
 where:
 
@@ -5743,7 +5743,7 @@ situated in risk zone *i* of region *r* .
 
 --- Page 79 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/79
+
 
 5. The capital requirement for earthquake risk in regions other than those set out in Annex XIII shall be equal to the
 loss in basic own funds of insurance and reinsurance undertakings that would result from an instantaneous loss in
@@ -5830,7 +5830,7 @@ purpose vehicles, is equal to 10 % of the specified flood loss in region *r* .
 
 --- Page 80 ---
 
-L 12/80 EN Official Journal of the European Union 17.1.2015
+
 
 5. For all regions set out in Annex VII, the specified flood loss in a particular region *r* shall be equal to the following
 amount:
@@ -5918,7 +5918,7 @@ purpose, premiums shall be gross, without deduction of premiums for reinsurance 
 
 --- Page 81 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/81
+
 
 ##### Article 124
 
@@ -6019,7 +6019,7 @@ where:
 
 --- Page 82 ---
 
-L 12/82 EN Official Journal of the European Union 17.1.2015
+
 
 7. For all regions set out in Annex VIII and all hail zones, the sum insured for hail risk in a particular hail zone *i* of a
 particular region *r* shall be equal to the following:
@@ -6100,7 +6100,7 @@ out in Annex IX.
 
 --- Page 83 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/83
+
 
 2. For all subsidence zones the weighted sum insured for subsidence risk in a particular risk zone *i* of France set out
 in the Annex IX shall be equal to the following:
@@ -6179,7 +6179,7 @@ reinsurance contracts.
 
 --- Page 84 ---
 
-L 12/84 EN Official Journal of the European Union 17.1.2015
+
 
 2. The capital requirement for the man-made catastrophe risk shall be equal to the following:
 
@@ -6260,7 +6260,7 @@ relation to tanker *t* ;
 
 --- Page 85 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/85
+
 
 (c) *SI* *(liab,t)* is the sum insured by the insurance or reinsurance undertaking for marine liability insurance and reinsurance
 in relation to tanker *t* ;
@@ -6330,7 +6330,7 @@ contracts.
 
 --- Page 86 ---
 
-L 12/86 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 133
 
@@ -6416,7 +6416,7 @@ where:
 
 --- Page 87 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/87
+
 
 2. The capital requirement for the risk of a large credit default shall be equal to the loss in basic own funds of
 insurance and reinsurance undertakings that would result from an instantaneous default of the two largest exposures
@@ -6468,7 +6468,7 @@ reinsurance contracts, expected to be earned by the insurance or reinsurance und
 (b) *c* 1, *c* 2, *c* 3, *c* 4 and *c* 5 denote the risk factors for the groups of insurance and reinsurance obligations 1 to 5 set out in
 Annex XII.
 
-*SECTION 3*
+### Section 3
 
 ***Life underwriting risk module***
 
@@ -6513,7 +6513,7 @@ s
 
 --- Page 88 ---
 
-L 12/88 EN Official Journal of the European Union 17.1.2015
+
 
 where:
 
@@ -6574,7 +6574,7 @@ permanent decrease of 20 % in the mortality rates used for the calculation of te
 
 --- Page 89 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/89
+
 
 2. The decrease in mortality rates referred to in paragraph 1 shall only apply to those insurance policies for which a
 decrease in mortality rates leads to an increase in technical provisions without the risk margin. The identification of
@@ -6639,7 +6639,7 @@ or in the state of health of the person insured.
 
 --- Page 90 ---
 
-L 12/90 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 142
 
@@ -6715,7 +6715,7 @@ provisions.
 
 --- Page 91 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/91
+
 
 The events referred to in the first subparagraph shall apply uniformly to all insurance and reinsurance contracts
 concerned. In relation to reinsurance contracts, the event referred to in point (a) shall apply to the underlying insurance
@@ -6758,7 +6758,7 @@ on those groups of policies instead of single policies, provided that it yields 
 an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in accordance
 with paragraph 2.
 
-*SECTION 4*
+### Section 4
 
 ***Health underwriting risk module***
 
@@ -6792,7 +6792,7 @@ s
 
 --- Page 92 ---
 
-L 12/92 EN Official Journal of the European Union 17.1.2015
+
 
 where:
 
@@ -6866,7 +6866,7 @@ Article 147.
 
 --- Page 93 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/93
+
 
 ##### Article 147
 
@@ -6938,7 +6938,7 @@ premiums for reinsurance contracts. The following premiums for reinsurance contr
 
 --- Page 94 ---
 
-L 12/94 EN Official Journal of the European Union 17.1.2015
+
 
 6. For all segments set out in Annex XIV, the volume measure for reserve risk of a particular segment shall be equal
 to the best estimate for the provision for claims outstanding for the segment, after deduction of the amounts recoverable
@@ -7026,7 +7026,7 @@ insurance undertakings, without any possibility of transfer to health insurance 
 
 --- Page 95 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/95
+
 
 2. The standard deviations for NSLT health premium and reserve risk of segments 1, 2 and 3 in Annex XIV for
 business that is subject to a HRES shall meet all of the following requirements:
@@ -7096,7 +7096,7 @@ deviation for NSLT health premium and reserve risk referred to in Article 148(1)
 
 --- Page 96 ---
 
-L 12/96 EN Official Journal of the European Union 17.1.2015
+
 
 Where only a part of an insurance undertaking's business in a segment *s* is subject to the HRES, the undertaking shall
 use a standard deviation for NSLT health premium risk of the segment in the calculation of the standard deviation for
@@ -7163,7 +7163,7 @@ Article 110 of that Directive 2009/138/EC.
 
 --- Page 97 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/97
+
 
 ##### Article 150
 
@@ -7244,7 +7244,7 @@ column *j* of the following correlation matrix:
 
 --- Page 98 ---
 
-L 12/98 EN Official Journal of the European Union 17.1.2015
+
 
 
 
@@ -7308,7 +7308,7 @@ on those groups of policies instead of single policies, provided that it yields 
 
 --- Page 99 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/99
+
 
 3. With regard to reinsurance obligations, the identification of the policies for which technical provisions increase
 under an decrease of mortality rates shall apply only to the underlying insurance policies and shall be carried out in
@@ -7380,7 +7380,7 @@ reflect the disability and morbidity in the years after the following 12 months;
 
 --- Page 100 ---
 
-L 12/100 EN Official Journal of the European Union 17.1.2015
+
 
 (c) where the disability and morbidity recovery rates used in the calculation of technical provisions are lower than
 50 %, a decrease of 20 % in those rates;
@@ -7452,7 +7452,7 @@ to the rate reflecting that the relevant option is not exercised.
 
 --- Page 101 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/101
+
 
 5. In relation to reinsurance contracts, the relevant options for the purposes of paragraphs 2 and 3 shall be the
 following:
@@ -7521,7 +7521,7 @@ insurance and reinsurance obligations.
 
 --- Page 102 ---
 
-L 12/102 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 161
 
@@ -7631,7 +7631,7 @@ r *c*
 
 --- Page 103 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/103
+
 
 where:
 
@@ -7718,7 +7718,7 @@ homogenous risk groups, provided that the grouping of policies complies with the
 
 --- Page 104 ---
 
-L 12/104 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 163
 
@@ -7800,11 +7800,11 @@ where:
 person in country *c* in relation to medical expense insurance or reinsurance obligations, other than workers'
 compensation insurance or reinsurance obligations, for healthcare utilisation *h* in the event of a pandemic.
 
-*SECTION 5*
+### Section 5
 
 ***Market risk module***
 
-Subsection 1
+#### Subsection 1
 
 **Correlation coefficients**
 
@@ -7818,7 +7818,7 @@ Subsection 1
 
 --- Page 105 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/105
+
 
 (b) the equity risk sub-module referred to in point (b) of subparagraph 2 of Article 105(5) of Directive 2009/138/EC;
 
@@ -7873,7 +7873,7 @@ column *j* of the following correlation matrix:
 The parameter A shall be equal to 0 where the capital requirement for interest rate risk set out in Article 165 is the
 capital requirement referred to in point (a) of that Article. In all other cases, the parameter A shall be equal to 0,5.
 
-Subsection 2
+#### Subsection 2
 
 **Interest rate risk sub-module**
 
@@ -7893,7 +7893,7 @@ rates as set out in Article 167 of this Regulation.
 
 --- Page 106 ---
 
-L 12/106 EN Official Journal of the European Union 17.1.2015
+
 
 2. Where the larger of the capital requirements referred to in points (a) and (b) of paragraph 1 and the larger of the
 corresponding capital requirements calculated in accordance with Article 206(2) are not based on the same scenario, the
@@ -7936,7 +7936,7 @@ rates for that currency at different maturities in accordance with the following
 
 --- Page 107 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/107
+
 
 For maturities not specified in the table above, the value of the increase shall be linearly interpolated. For maturities
 shorter than 1 year, the increase shall be 70 %. For maturities longer than 90 years, the increase shall be 20 %.
@@ -7983,7 +7983,7 @@ rates for that currency at different maturities in accordance with the following
 
 --- Page 108 ---
 
-L 12/108 EN Official Journal of the European Union 17.1.2015
+
 
 For maturities not specified in the table above, the value of the decrease shall be linearly interpolated. For maturities
 shorter than 1 year, the decrease shall be 75 %. For maturities longer than 90 years, the decrease shall be 20 %.
@@ -7995,7 +7995,7 @@ credit institutions of the decrease in the term structure of basic risk-free int
 value of the participations that are not deducted from own funds pursuant to Article 68 of this Regulation. The part
 deducted from own funds shall be considered only to the extent that such impact increases the basic own funds.
 
-Subsection 3
+#### Subsection 3
 
 **Equity risk sub-module**
 
@@ -8051,7 +8051,7 @@ funds (OJ L 115, 25.4.2013, p. 18).
 
 --- Page 109 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/109
+
 
 (c) as regards closed-ended and unleveraged alternative investment funds which are established in the Union or, if they
 are not established in the Union, which are marketed in the Union in accordance with Articles 35 or 40 of Directive
@@ -8121,7 +8121,7 @@ of type 2 equities, other than those referred to in points (a) or (b).
 
 --- Page 110 ---
 
-L 12/110 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 171
 
@@ -8191,9 +8191,9 @@ applied to type 1 equities that were purchased on or before 1 January 2016 and w
 
 --- Page 111 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/111
 
-Subsection 4
+
+#### Subsection 4
 
 **Property risk sub-module**
 
@@ -8203,7 +8203,7 @@ The capital requirement for property risk referred to in point (c) of the second
 Directive 2009/138/EC shall be equal to the loss in the basic own funds that would result from an instantaneous
 decrease of 25 % in the value of immovable property.
 
-Subsection 5
+#### Subsection 5
 
 **Spread risk sub-module**
 
@@ -8251,7 +8251,7 @@ table.
 
 --- Page 112 ---
 
-L 12/112 EN Official Journal of the European Union 17.1.2015
+
 
 |Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -8310,7 +8310,7 @@ requirement for resecuritisation positions.
 
 --- Page 113 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/113
+
 
 2. Type 1 securitisation positions shall include securitisation positions that meet all of the following criteria:
 
@@ -8377,7 +8377,7 @@ loan-to-value requirement laid down in point (i) of Article 129(1)(d) of Regulat
 
 --- Page 114 ---
 
-L 12/114 EN Official Journal of the European Union 17.1.2015
+
 
 (iii) commercial loans, leases and credit facilities to undertakings to finance capital expenditures or business
 operations other than the acquisition or development of commercial real estate, provided that at least 80 % of
@@ -8447,7 +8447,7 @@ three-wheel motor vehicles and repealing Council Directive 92/61/EEC (OJ L 124, 
 
 --- Page 115 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/115
+
 
 (ii) a failure to generate sufficient new underlying exposures of at least similar credit quality;
 
@@ -8512,7 +8512,7 @@ repealing Council Directive 87/102/EEC, OJ L 133, 22.5.2008, p. 66.
 
 --- Page 116 ---
 
-L 12/116 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 178
 
@@ -8581,7 +8581,7 @@ risk factor *stress* *i* of 100 %.
 
 --- Page 117 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/117
+
 
 ##### Article 179
 
@@ -8649,7 +8649,7 @@ central government and the central bank;
 
 --- Page 118 ---
 
-L 12/118 EN Official Journal of the European Union 17.1.2015
+
 
 Exposures in the form of bonds and loans that are fully, unconditionally and irrevocably guaranteed by one of the
 counterparties mentioned in points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall
@@ -8705,7 +8705,7 @@ Minimum Capital Requirement shall be assigned a risk factor *stress* *i* accordi
 
 --- Page 119 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/119
+
 
 6. Paragraphs 4 and 5 of this Article shall only apply as of the first date of public disclosure, by the undertaking
 corresponding to the exposure, of the report on its solvency and financial condition referred to in Article 51 of
@@ -8765,9 +8765,9 @@ factor shall be equal to 100 %.
 
 --- Page 120 ---
 
-L 12/120 EN Official Journal of the European Union 17.1.2015
 
-Subsection 6
+
+#### Subsection 6
 
 **Market risk concentrations sub-module**
 
@@ -8846,7 +8846,7 @@ risk concentrations sub-module;
 
 --- Page 121 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/121
+
 
 (b) *Assets* denotes the calculation base of the market risk concentrations sub-module;
 
@@ -8915,7 +8915,7 @@ accordance with Article 182(4).
 
 --- Page 122 ---
 
-L 12/122 EN Official Journal of the European Union 17.1.2015
+
 
 2. Single name exposures to an insurance or reinsurance undertaking for which a credit assessment by a nominated
 ECAI is not available and where the undertaking meets its Minimum Capital Requirement, shall be assigned a risk factor
@@ -8983,7 +8983,7 @@ central government and central bank;
 
 --- Page 123 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/123
+
 
 Exposures that are fully, unconditionally and irrevocably guaranteed by one of the counterparties mentioned in
 points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall also be assigned a risk factor *g* *i*
@@ -9009,7 +9009,7 @@ provided they meet all of the following requirements:
 
 (c) there is no double counting of such guarantee in the calculation of the Solvency Capital Requirement.
 
-Subsection 7
+#### Subsection 7
 
 **Currency risk sub-module**
 
@@ -9052,7 +9052,7 @@ confidence level set out in Article 101(3) of Directive 2009/138/EC;
 
 --- Page 124 ---
 
-L 12/124 EN Official Journal of the European Union 17.1.2015
+
 
 (b) one of the following criteria is complied with:
 
@@ -9079,11 +9079,11 @@ capital requirement for currency risk on a given currency shall be the capital r
 of paragraph 2 for which the underlying scenario results in the largest corresponding capital requirement calculated in
 accordance with Article 206(2).
 
-*SECTION 6*
+### Section 6
 
 ***Counterparty default risk module***
 
-Subsection 1
+#### Subsection 1
 
 **General provisions**
 
@@ -9129,7 +9129,7 @@ OJ L 374, 31.12.1991, p. 7.
 
 --- Page 125 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/125
+
 
 3. Type 2 exposures shall consist of all credit exposures which are not covered in the spread risk sub-module and
 which are not type 1 exposures, including the following:
@@ -9197,7 +9197,7 @@ under the counterparty default risk provided the requirements in paragraphs 2 to
 
 --- Page 126 ---
 
-L 12/126 EN Official Journal of the European Union 17.1.2015
+
 
 3. The exposure shall be one of a significant number of exposures with similar characteristics such that the risks
 associated with such lending are substantially reduced.
@@ -9268,7 +9268,7 @@ Member State.
 
 --- Page 127 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/127
+
 
 ##### Article 192
 
@@ -9345,7 +9345,7 @@ equal to its value in accordance with Article 75 of Directive 2009/138/EC.
 
 --- Page 128 ---
 
-L 12/128 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 193
 
@@ -9431,7 +9431,7 @@ arrangement, the loss-given-default shall be calculated as follows:
 
 --- Page 129 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/129
+
 
 where:
 
@@ -9505,7 +9505,7 @@ where:
 
 --- Page 130 ---
 
-L 12/130 EN Official Journal of the European Union 17.1.2015
+
 
 (c) *BE* *CE* denotes the best estimate of the liability ceded to the external counterparty by the pooling arrangement as a
 whole;
@@ -9575,7 +9575,7 @@ the currency of the assets held as collateral against the currency of the corres
 
 --- Page 131 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/131
+
 
 7. Where in case of insolvency of the counterparty, the determination of the insurance or reinsurance undertaking's
 proportional share of the counterparty's insolvency estate in excess of the collateral does not take into account that the
@@ -9607,7 +9607,7 @@ the residential property held as mortgage were included in the calculation.
 4. For the purposes of paragraph 2, the currency risk of the residential property held as mortgage shall be calculated
 by comparing the currency of the residential property against the currency of the corresponding loan.
 
-Subsection 2
+#### Subsection 2
 
 **Type 1 exposures**
 
@@ -9646,7 +9646,7 @@ be 4,2 %. Where the solvency ratios is higher than 196 %, the probability of def
 
 --- Page 132 ---
 
-L 12/132 EN Official Journal of the European Union 17.1.2015
+
 
 For the purposes of this paragraph, ‘solvency ratio’ denotes the ratio of the eligible amount of own funds to cover the
 Solvency Capital Requirement and the Solvency Capital Requirement, using the latest available values.
@@ -9711,7 +9711,7 @@ equal to the total losses-given-default on all type 1 exposures.
 
 --- Page 133 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/133
+
 
 4. The standard deviation of the loss distribution of type 1 exposures shall be equal to the following:
 
@@ -9779,7 +9779,7 @@ where:
 
 (c) *LGD* *i* denotes the loss-given-default on the single name exposure *i* .
 
-Subsection 3
+#### Subsection 3
 
 **Type 2 exposures**
 
@@ -9812,9 +9812,9 @@ than three months;
 
 --- Page 134 ---
 
-L 12/134 EN Official Journal of the European Union 17.1.2015
 
-*SECTION 7*
+
+### Section 7
 
 ***Intangible asset module***
 
@@ -9827,7 +9827,7 @@ The capital requirement for intangible asset risk shall be equal to the followin
 where *V* *intangibles* denotes the amount of intangible assets as recognised and valued in accordance with point 2 of
 Article 12.
 
-*SECTION 8*
+### Section 8
 
 ***Operational risk***
 
@@ -9893,7 +9893,7 @@ contracts.
 
 --- Page 135 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/135
+
 
 4. The capital requirement for operational risk based on technical provisions shall be calculated as follows:
 
@@ -9911,7 +9911,7 @@ holders;
 For the purposes of this paragraph, technical provisions shall not include the risk margin, and shall be calculated
 without deduction of recoverables from reinsurance contracts and special purpose vehicles.
 
-*SECTION 9*
+### Section 9
 
 ***Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes***
 
@@ -9958,7 +9958,7 @@ future management actions that comply with Article 23;
 
 --- Page 136 ---
 
-L 12/136 EN Official Journal of the European Union 17.1.2015
+
 
 (c) instead of the capital requirement for counterparty default risk on type 1 exposures referred to in Article 189(1), the
 calculation shall be based on the capital requirement that is equal to the loss in basic own funds that would result
@@ -10009,7 +10009,7 @@ where the adjustment to the loss-absorbing capacity of technical provisions and 
 of the model, the allocation shall be consistent with the contribution of the modules and sub-modules of the standard
 formula which are outside of the scope of the model to the Basic Solvency Capital Requirement.
 
-*SECTION 10*
+### Section 10
 
 ***Risk mitigation techniques***
 
@@ -10026,7 +10026,7 @@ that, without double-counting, captures the economic effect of the protections p
 
 --- Page 137 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/137
+
 
 effect of the protections provided shall be captured in determining the loss in basic own funds in the scenario-based
 calculations.
@@ -10093,7 +10093,7 @@ material;
 
 --- Page 138 ---
 
-L 12/138 EN Official Journal of the European Union 17.1.2015
+
 
 (f) the risk that the cost of replacing the risk-mitigation technique increases during the following 12 months is reflected
 in the Solvency Capital Requirement;
@@ -10159,7 +10159,7 @@ Requirement; where the requirements for a special purpose vehicle to be fully-fu
 
 --- Page 139 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/139
+
 
 arrangement has been entered into, the protection offered by the insurance risk-mitigation technique may be partially
 recognised, provided that the insurance or reinsurance undertaking can demonstrate that compliance with the fullyfunded requirement will be restored within three months; for this purpose, the effect of the risk-mitigation technique
@@ -10223,7 +10223,7 @@ taken into account to the extent that the collateral covers the risk exposure.
 
 --- Page 140 ---
 
-L 12/140 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 214
 
@@ -10295,7 +10295,7 @@ original obligor fails to make any payments due;
 
 --- Page 141 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/141
+
 
 (d) on the default, insolvency or bankruptcy or other credit event of the counterparty, the insurance or reinsurance
 undertaking has the right to pursue, in a timely manner, the guarantor for any monies due under the claim in
@@ -10306,7 +10306,7 @@ or reinsurance undertaking first having to pursue the obligor;
 
 (f) the guarantee fully covers all types of regular payments the obligor is expected to make in respect of the claim.
 
-*SECTION 11*
+### Section 11
 
 ***Ring fenced funds***
 
@@ -10364,7 +10364,7 @@ amount of future discretionary benefits within the ring-fenced fund.
 
 --- Page 142 ---
 
-L 12/142 EN Official Journal of the European Union 17.1.2015
+
 
 6. Notwithstanding paragraph 1, the notional Solvency Capital Requirement for each ring-fenced fund and each
 matching adjustment portfolio shall be calculated using the scenario-based calculations under which basic own funds for
@@ -10385,7 +10385,7 @@ Capital Requirement.
 ring-fenced funds and each matching adjustment portfolio and the remaining part of the insurance or reinsurance
 undertaking.
 
-*SECTION 12*
+### Section 12
 
 ***Undertaking-specific parameters***
 
@@ -10431,7 +10431,7 @@ of the same segment or both the standard parameters referred to in point (c)(ii)
 
 --- Page 143 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/143
+
 
 2. An excess of loss reinsurance contract for a segment shall be considered recognisable provided it meets the
 following conditions:
@@ -10506,7 +10506,7 @@ data ensure that the data are comparable;
 
 --- Page 144 ---
 
-L 12/144 EN Official Journal of the European Union 17.1.2015
+
 
 (c) the data stem from insurance and reinsurance undertakings whose business and risk profile is similar to that of the
 insurance or reinsurance undertaking whose undertaking-specific parameter is calculated in the basis of those data;
@@ -10548,7 +10548,7 @@ However, where an undertaking is not able to demonstrate the greater accuracy of
 method over the other standardised methods to calculate an undertaking-specific parameter, the method providing the
 most conservative result shall be used.
 
-*SECTION 13*
+### Section 13
 
 ***Procedure for updating correlation parameters***
 
@@ -10565,7 +10565,7 @@ correlation parameters.
 
 **SOLVENCY CAPITAL REQUIREMENT — FULL AND PARTIAL INTERNAL MODELS**
 
-*SECTION 1*
+### Section 1
 
 ***Definitions***
 
@@ -10580,9 +10580,9 @@ decision-making or the judgement of the users of that information, including the
 
 --- Page 145 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/145
 
-*SECTION 2*
+
+### Section 2
 
 ***Use test***
 
@@ -10652,7 +10652,7 @@ supervisory body of the insurance or reinsurance undertaking;
 
 --- Page 146 ---
 
-L 12/146 EN Official Journal of the European Union 17.1.2015
+
 
 (c) all material quantifiable risks identified by the risk management system which are within the scope of the internal
 model are covered by the internal model;
@@ -10698,7 +10698,7 @@ Solvency Capital Requirement would not be materially different from the results 
 4. Insurance and reinsurance undertakings shall not use a simplified calculation of the Solvency Capital Requirement
 when calculating the Solvency Capital Requirement in accordance with Article 102 of Directive 2009/138/EC.
 
-*SECTION 3*
+### Section 3
 
 ***Statistical quality standards***
 
@@ -10720,7 +10720,7 @@ the probability distribution forecast shall be calculated for each component.
 
 --- Page 147 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/147
+
 
 ##### Article 229
 
@@ -10788,7 +10788,7 @@ those assumptions.
 
 --- Page 148 ---
 
-L 12/148 EN Official Journal of the European Union 17.1.2015
+
 
 2. Data used in the internal model shall only be considered complete for the purposes of Article 121(3) of Directive
 2009/138/EC where all of the following conditions are met:
@@ -10861,7 +10861,7 @@ model.
 
 --- Page 149 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/149
+
 
 3. The quantitative indicators referred to in paragraph 1 of this Article shall include the following:
 
@@ -10932,7 +10932,7 @@ objective manner;
 
 --- Page 150 ---
 
-L 12/150 EN Official Journal of the European Union 17.1.2015
+
 
 (b) assumed future management actions are realistic and consistent with the insurance or reinsurance undertaking's
 current business practice and business strategy, including the use of risk-mitigation techniques and, where there is
@@ -11002,9 +11002,9 @@ limitations.
 
 --- Page 151 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/151
 
-*SECTION 4*
+
+### Section 4
 
 ***Calibration standards***
 
@@ -11047,7 +11047,7 @@ significantly.
 4. The approximations referred to in Article 122(3) of Directive 2009/138/EC shall be considered to be part of the
 internal model.
 
-*SECTION 5*
+### Section 5
 
 ***Integration of partial internal models***
 
@@ -11076,7 +11076,7 @@ appropriately reflects the risk profile of the insurance or reinsurance undertak
 
 --- Page 152 ---
 
-L 12/152 EN Official Journal of the European Union 17.1.2015
+
 
 5. An integration technique shall not be appropriate where any of the following conditions is met:
 
@@ -11088,7 +11088,7 @@ reinsurance undertaking;
 (c) the design of the partial internal model is consistent with the principles set out in Articles 101 and 102 of Directive
 2009/138/EC but would not allow its integration into the solvency capital requirement standard formula.
 
-*SECTION 6*
+### Section 6
 
 ***Profit and loss attribution***
 
@@ -11116,7 +11116,7 @@ model.
 4. The attribution of profit and loss shall be made in an objective and transparent manner and be consistent over
 time.
 
-*SECTION 7*
+### Section 7
 
 ***Validation standards***
 
@@ -11144,7 +11144,7 @@ additional validation;
 
 --- Page 153 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/153
+
 
 (c) the persons who are responsible for each validation task;
 
@@ -11200,7 +11200,7 @@ insurance and reinsurance undertakings shall compare the coverage and the scope 
 purpose, the statistical process for validating the internal model shall include a reverse stress test, identifying the most
 probable stresses that would threaten the viability of the insurance or reinsurance undertaking.
 
-*SECTION 8*
+### Section 8
 
 ***Documentation standards***
 
@@ -11216,7 +11216,7 @@ with Article 101 and Articles 120 to 124 of Directive.
 
 --- Page 154 ---
 
-L 12/154 EN Official Journal of the European Union 17.1.2015
+
 
 2. In the case of a partial internal model, the documentation referred to in paragraph 1 of this Article shall
 additionally cover compliance with Article 113 of Directive 2009/138/EC, in particular in relation to the justification of
@@ -11290,7 +11290,7 @@ and an explanation of the decision in favour of a particular external model or a
 
 --- Page 155 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/155
+
 
 ##### Article 245
 
@@ -11329,7 +11329,7 @@ including all of the following:
 model, a quantitative and qualitative comparison of the outputs before and after the change relating to the same
 valuation date.
 
-*SECTION 9*
+### Section 9
 
 ***External models and data***
 
@@ -11365,7 +11365,7 @@ this Regulation.
 
 --- Page 156 ---
 
-L 12/156 EN Official Journal of the European Union 17.1.2015
+
 
 where:
 
@@ -11442,7 +11442,7 @@ point (c) of paragraph (1), the following premiums for reinsurance contracts sha
 
 --- Page 157 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/157
+
 
 where:
 
@@ -11514,7 +11514,7 @@ this Regulation.
 
 --- Page 158 ---
 
-L 12/158 EN Official Journal of the European Union 17.1.2015
+
 
 where:
 
@@ -11595,7 +11595,7 @@ reinsurance activity of the insurance or reinsurance undertaking.
 
 --- Page 159 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/159
+
 
 9. The notional linear Minimum Capital Requirement for life insurance or reinsurance activity shall be equal to the
 following:
@@ -11672,7 +11672,7 @@ in the documentation governing the investment.
 
 --- Page 160 ---
 
-L 12/160 EN Official Journal of the European Union 17.1.2015
+
 
 2. Only the following retentions shall qualify as retentions of a material net economic interest of not less than 5 %:
 
@@ -11736,7 +11736,7 @@ management of the programme or securitisation scheme and exposure to credit risk
 
 --- Page 161 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/161
+
 
 ##### Article 255
 
@@ -11801,7 +11801,7 @@ scale and complexity of the risk inherent in the securitisation position.
 
 --- Page 162 ---
 
-L 12/162 EN Official Journal of the European Union 17.1.2015
+
 
 7. Insurance and reinsurance undertakings investing in securitisation shall be able to demonstrate to their supervisory
 authorities that for each of those investments they have a comprehensive and thorough understanding of the investment
@@ -11839,7 +11839,7 @@ Article 37(1)(c) of Directive 2009/138/EC.
 
 **SYSTEM OF GOVERNANCE**
 
-*SECTION 1*
+### Section 1
 
 ***Elements of the system of governance***
 
@@ -11871,7 +11871,7 @@ them properly;
 
 --- Page 163 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/163
+
 
 (g) ensure that the assignment of multiple tasks to individuals and organisational units does not or is not likely to
 prevent the persons concerned from carrying out any particular function in a sound, honest and objective manner;
@@ -11940,7 +11940,7 @@ scenario analysis with regard to all relevant risks faced by the undertaking, in
 
 --- Page 164 ---
 
-L 12/164 EN Official Journal of the European Union 17.1.2015
+
 
 4. In addition to the requirements set out in Article 44(4a) of Directive 2009/138/EC for the purposes of the
 calculation of technical provisions and the Solvency Capital Requirement, internal risk management methodologies shall
@@ -12014,7 +12014,7 @@ meet the undertaking's obligations as they fall due;
 
 --- Page 165 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/165
+
 
 (e) Concentration risk management: actions to be taken by the insurance or reinsurance undertaking to identify relevant
 sources of concentration risk to ensure that risk concentrations remain within established limits and actions to
@@ -12085,7 +12085,7 @@ this paragraph.
 
 --- Page 166 ---
 
-L 12/166 EN Official Journal of the European Union 17.1.2015
+
 
 2. The elements referred to paragraph 1 shall take the following into account:
 
@@ -12158,7 +12158,7 @@ obligations, it shall be carried out separately for premium provisions and provi
 
 --- Page 167 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/167
+
 
 ##### Article 265
 
@@ -12231,7 +12231,7 @@ personnel involved with the valuation, the relevant models, and the sources of i
 
 --- Page 168 ---
 
-L 12/168 EN Official Journal of the European Union 17.1.2015
+
 
 3. At the request of the supervisory authorities, insurance and reinsurance undertakings shall undertake an external,
 independent valuation or verification of the value of material assets and liabilities.
@@ -12251,7 +12251,7 @@ of the items referred to in point (a) of Article 263;
 valuations and the process in place to take account of any external, independent valuation or verification of the
 value of material assets or liabilities.
 
-*SECTION 2*
+### Section 2
 
 ***Functions***
 
@@ -12302,7 +12302,7 @@ and major projects and investments;
 
 --- Page 169 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/169
+
 
 ##### Article 270
 
@@ -12371,7 +12371,7 @@ calculation is consistent with the requirements set out in Articles 75 to 86 of 
 
 --- Page 170 ---
 
-L 12/170 EN Official Journal of the European Union 17.1.2015
+
 
 (d) ensure that the most appropriate approximations for the purposes of calculating the best estimate are used in cases
 referred to in Article 82 of Directive 2009/138/EC;
@@ -12440,9 +12440,9 @@ deficiencies should be remedied.
 
 --- Page 171 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/171
 
-*SECTION 3*
+
+### Section 3
 
 ***Fit and proper requirements***
 
@@ -12465,7 +12465,7 @@ knowledge and relevant experience to ensure that the undertaking is managed and 
 soundness based on evidence regarding their character, personal behaviour and business conduct including any criminal,
 financial and supervisory aspects relevant for the purposes of the assessment.
 
-*SECTION 4*
+### Section 4
 
 ***Outsourcing***
 
@@ -12507,7 +12507,7 @@ reinsurance undertaking.
 
 --- Page 172 ---
 
-L 12/172 EN Official Journal of the European Union 17.1.2015
+
 
 4. The written agreement referred to in paragraph 3 (c) to be concluded between the insurance or reinsurance
 undertaking and the service provider shall in particular clearly state all of the following requirements:
@@ -12572,9 +12572,9 @@ functions and activities.
 
 --- Page 173 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/173
 
-*SECTION 5*
+
+### Section 5
 
 ***Renumeration policy***
 
@@ -12647,13 +12647,13 @@ insurance or reinsurance undertaking, and the nature, scale and complexity of th
 
 --- Page 174 ---
 
-L 12/174 EN Official Journal of the European Union 17.1.2015
+
 
 ## *CHAPTER X*
 
 **CAPITAL ADD-ON**
 
-*SECTION 1*
+### Section 1
 
 ***Circumstances for imposing a capital add-on***
 
@@ -12721,7 +12721,7 @@ relevant factors including all of the following:
 
 --- Page 175 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/175
+
 
 2. With respect to the matching adjustment and transitional measures and with respect to the volatility adjustment,
 where Member States require prior approval for this adjustment, where supervisory authorities have allowed an
@@ -12769,7 +12769,7 @@ to improve deficiencies, supervisory authorities shall take account of all relev
 timeframe, including the likelihood and severity of any adverse impact on policy holders and beneficiaries. That
 timeframe shall not exceed 6 months.
 
-*SECTION 2*
+### Section 2
 
 ***Methodologies for calculating capital add-ons***
 
@@ -12791,7 +12791,7 @@ simultaneous capital add-on.
 
 --- Page 176 ---
 
-L 12/176 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 283
 
@@ -12856,7 +12856,7 @@ actual assets, liabilities and risk profile of the insurance or reinsurance unde
 
 --- Page 177 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/177
+
 
 (b) the amount of the Solvency Capital Requirement, excluding any previous or simultaneous capital add-on, that would
 be calculated if the adjustment or transitional measure was modified in a manner that the assumptions underlying
@@ -12920,7 +12920,7 @@ Article 74(2) of Directive 2009/138/EC.
 
 --- Page 178 ---
 
-L 12/178 EN Official Journal of the European Union 17.1.2015
+
 
 ## *CHAPTER XI*
 
@@ -12989,13 +12989,13 @@ of its solvency position.
 
 --- Page 179 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/179
+
 
 ## *CHAPTER XII*
 
 **PUBLIC DISCLOSURE**
 
-*SECTION 1*
+### Section 1
 
 ***Solvency and financial condition report: structure and contents***
 
@@ -13057,7 +13057,7 @@ impact on the undertaking.
 
 --- Page 180 ---
 
-L 12/180 EN Official Journal of the European Union 17.1.2015
+
 
 2. The solvency and financial condition report shall include qualitative and quantitative information on the insurance
 or reinsurance undertaking's underwriting performance, at an aggregate level and by material line of business and
@@ -13124,7 +13124,7 @@ run the undertaking or have other key functions.
 
 --- Page 181 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/181
+
 
 3. The solvency and financial condition report shall include all of the following information regarding the risk
 management system of the insurance or reinsurance undertaking:
@@ -13194,7 +13194,7 @@ following categories of risk:
 
 --- Page 182 ---
 
-L 12/182 EN Official Journal of the European Union 17.1.2015
+
 
 (c) credit risk;
 
@@ -13264,7 +13264,7 @@ and those used for their valuation in financial statements;
 
 --- Page 183 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/183
+
 
 (d) where the matching adjustment referred to in Article 77b of Directive 2009/138/EC is applied, a description of the
 matching adjustment and of the portfolio of obligations and assigned assets to which the matching adjustment is
@@ -13335,7 +13335,7 @@ over the reporting period;
 
 --- Page 184 ---
 
-L 12/184 EN Official Journal of the European Union 17.1.2015
+
 
 (d) the eligible amount of basic own funds to cover the Minimum Capital Requirement, classified by tiers;
 
@@ -13403,7 +13403,7 @@ condition report shall also include all of the following information:
 
 --- Page 185 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/185
+
 
 (c) where a partial internal model is used, a description of the technique which has been used to integrate any partial
 internal model into the standard formula including, where relevant, a description of alternative techniques used;
@@ -13452,7 +13452,7 @@ Where insurance and reinsurance undertakings disclose publicly, in accordance wi
 is not legally required these undertakings shall ensure that such additional information is consistent with any
 information provided to the supervisory authorities pursuant to Article 35 of that Directive.
 
-*SECTION 2*
+### Section 2
 
 ***Solvency and financial condition report: non-disclosure of information***
 
@@ -13468,9 +13468,9 @@ permitted non-disclosure ceases to exist.
 
 --- Page 186 ---
 
-L 12/186 EN Official Journal of the European Union 17.1.2015
 
-*SECTION 3*
+
+### Section 3
 
 ***Solvency and financial condition report: deadlines, means of disclosure and updates***
 
@@ -13531,7 +13531,7 @@ to in paragraph 1 of this Article, in accordance with the provisions set out in 
 
 --- Page 187 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/187
+
 
 3. Notwithstanding paragraphs 1 and 2, insurance and reinsurance undertakings may decide, for the purposes of
 paragraph 5 of Article 301, to disclose appropriate information on the nature and effects of any major development
@@ -13550,7 +13550,7 @@ previous reporting period covers a period after the date of application of Direc
 
 **REGULAR SUPERVISORY REPORTING**
 
-*SECTION 1*
+### Section 1
 
 ***Elements and contents***
 
@@ -13600,7 +13600,7 @@ reinsurance undertakings to communicate on a regular basis any other information
 
 --- Page 188 ---
 
-L 12/188 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 305
 
@@ -13671,7 +13671,7 @@ asset class;
 
 --- Page 189 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/189
+
 
 (c) projections of the undertaking's expected investment performance, with information on significant factors that
 might affect such investment performance, over its business planning time period;
@@ -13744,7 +13744,7 @@ assessments which were performed over the reporting period by the insurance or r
 
 --- Page 190 ---
 
-L 12/190 EN Official Journal of the European Union 17.1.2015
+
 
 (b) a description of how the own risk and solvency assessment is integrated into the management process and into the
 decision-making process of the undertaking.
@@ -13818,7 +13818,7 @@ categories of risk:
 
 --- Page 191 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/191
+
 
 2. The regular supervisory report shall include all of the following information regarding the risk exposure of the
 insurance or reinsurance undertaking, including the exposure arising from off-balance sheet positions and the transfer of
@@ -13889,7 +13889,7 @@ Capital Requirement.
 
 --- Page 192 ---
 
-L 12/192 EN Official Journal of the European Union 17.1.2015
+
 
 9. The regular supervisory report shall include any other material information regarding their risk profile of the
 insurance or reinsurance undertaking.
@@ -13961,7 +13961,7 @@ underlying the undertaking's internal model;
 
 --- Page 193 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/193
+
 
 4. Where undertaking-specific parameters are used to calculate the Solvency Capital Requirement, or a matching
 adjustment is applied to the relevant risk-free interest term structure, the regular supervisory report shall include
@@ -13976,7 +13976,7 @@ ensuring that compliance with each is maintained.
 6. The regular supervisory report shall include any other material information regarding the capital management of
 the insurance or reinsurance undertaking.
 
-*SECTION 2*
+### Section 2
 
 ***Deadlines and means of communication***
 
@@ -14032,7 +14032,7 @@ day of the insurance or reinsurance undertaking's financial year starting on or 
 
 --- Page 194 ---
 
-L 12/194 EN Official Journal of the European Union 17.1.2015
+
 
 (b) separately for each material class of assets and liabilities, a qualitative explanation of the main differences between
 the figures reported in the opening valuation as set out in point (a) and those calculated according to the solvency
@@ -14093,13 +14093,13 @@ information in the official language or languages of the Member State concerned 
 
 --- Page 195 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/195
+
 
 ## *CHAPTER XV*
 
 **SPECIAL PURPOSE VEHICLES**
 
-*SECTION 1*
+### Section 1
 
 ***Authorization***
 
@@ -14130,7 +14130,7 @@ Articles 319 to 321;
 
 (h) the special purpose vehicle satisfies the requirements set out in Articles 326 and 327.
 
-*SECTION 2*
+### Section 2
 
 ***Mandatory contract conditions***
 
@@ -14170,7 +14170,7 @@ obligations of the special purpose vehicle to the insurance or reinsurance under
 
 --- Page 196 ---
 
-L 12/196 EN Official Journal of the European Union 17.1.2015
+
 
 (b) no payments are made to the providers of debt or financing, if following those payments the special purpose vehicle
 would no longer be fully funded;
@@ -14181,7 +14181,7 @@ insurance or reinsurance undertaking;
 (d) the providers of debt or finance to the special purpose vehicle have no rights to apply for the winding-up of the
 special purpose vehicle.
 
-*SECTION 3*
+### Section 3
 
 ***System of governance***
 
@@ -14244,7 +14244,7 @@ system for the purposes of money laundering and terrorist financing (OJ L 309, 2
 
 --- Page 197 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/197
+
 
 2. The system of governance of the special purpose vehicle shall consist of all of the following:
 
@@ -14262,7 +14262,7 @@ monitor, manage and report, on an ongoing basis the risk to which the special pu
 3. Special purpose vehicles shall ensure that the policies referred to in point (a) of paragraph 2 are implemented
 effectively.
 
-*SECTION 4*
+### Section 4
 
 ***Supervisory reporting***
 
@@ -14307,7 +14307,7 @@ providers of debt or finance;
 special purpose vehicle is established of any changes that could affect the compliance by the special purpose vehicle
 with Articles 318 to 324 and Article 326.
 
-*SECTION 5*
+### Section 5
 
 ***Solvency requirements***
 
@@ -14322,7 +14322,7 @@ with Articles 318 to 324 and Article 326.
 
 --- Page 198 ---
 
-L 12/198 EN Official Journal of the European Union 17.1.2015
+
 
 (b) the special purpose vehicle has at all times assets the value of which is equal to or exceeds the aggregate maximum
 risk exposure and the special purpose vehicle is able to pay the amounts it is liable for as they fall due;
@@ -14394,7 +14394,7 @@ special purpose vehicle to excessive risk concentration.
 
 --- Page 199 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/199
+
 
 # TITLE II
 
@@ -14404,7 +14404,7 @@ special purpose vehicle to excessive risk concentration.
 
 **SOLVENCY CALCULATION AT GROUP LEVEL**
 
-*SECTION 1*
+### Section 1
 
 ***Group solvency: choice of calculation method and general principles***
 
@@ -14467,7 +14467,7 @@ point 1 of Article 2(1) of that Directive;
 
 --- Page 200 ---
 
-L 12/200 EN Official Journal of the European Union 17.1.2015
+
 
 (d) the capital requirements for related undertakings which are alternative investment fund managers calculated in
 accordance with Article 9 of Directive 2011/61/EU and the own funds of those undertakings calculated in
@@ -14534,7 +14534,7 @@ Requirement:
 
 --- Page 201 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/201
+
 
 (c) an amount equal to the value of net deferred tax assets; for this purpose, the amount of deferred tax asset may be
 reduced by the amount of the associated deferred tax liability provided that those deferred tax assets and associated
@@ -14584,7 +14584,7 @@ related undertaking, determined by that internal model, provided that the sum of
 insurance and reinsurance undertakings, insurance holding companies or mixed financial holding companies
 included in the consolidated calculation based on the internal model equals 100 %.
 
-*SECTION 2*
+### Section 2
 
 ***Group solvency: calculation methods***
 
@@ -14602,7 +14602,7 @@ additional requirements are met:
 
 --- Page 202 ---
 
-L 12/202 EN Official Journal of the European Union 17.1.2015
+
 
 (b) the own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the own-fund item, could result in that own-fund item not satisfying the requirements set out in
@@ -14665,7 +14665,7 @@ this Regulation.
 
 --- Page 203 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/203
+
 
 ##### Article 333
 
@@ -14736,7 +14736,7 @@ by points (a) and (c);
 
 --- Page 204 ---
 
-L 12/204 EN Official Journal of the European Union 17.1.2015
+
 
 (e) the proportional share of the undertakings' own funds calculated according to the relevant sectoral rules, as referred
 to in Article 2(7) of Directive 2002/87/EC, in relation to holdings in related undertakings which are credit
@@ -14802,7 +14802,7 @@ of this Regulation.
 
 --- Page 205 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/205
+
 
 4. For the purposes of this Article, any reference in Articles 218, 219 and 220 of this Regulation to ‘undertakingspecific parameters’ shall be understood as a reference to ‘group-specific parameters’ and any reference to ‘insurance and
 reinsurance undertakings’ shall be understood as a reference to ‘the participating insurance or reinsurance company, the
@@ -14870,7 +14870,7 @@ eliminated in the calculation of that amount or not.
 
 --- Page 206 ---
 
-L 12/206 EN Official Journal of the European Union 17.1.2015
+
 
 2. The amount referred to in paragraph 1 shall be the sum of the following:
 
@@ -14885,7 +14885,7 @@ related third-country insurance and reinsurance undertaking.
 
 **INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT**
 
-*SECTION 1*
+### Section 1
 
 ***Full and partial internal models used to calculate only the group solvency capital requirement***
 
@@ -14941,7 +14941,7 @@ will adequately reflect the overall risk profile of the group;
 
 --- Page 207 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/207
+
 
 (iv) for each related undertaking included in the scope of the internal model for the calculation of the consolidated
 group Solvency Capital Requirement, a justification of the reasons why the internal model covers a related
@@ -15011,7 +15011,7 @@ consolidated group Solvency Capital Requirement but it is not used to calculate 
 
 --- Page 208 ---
 
-L 12/208 EN Official Journal of the European Union 17.1.2015
+
 
 that related undertaking, is appropriate in order to justify that an application is not submitted in accordance with the
 procedure laid down in Article 231 of Directive 2009/138/EC.
@@ -15061,7 +15061,7 @@ mixed financial holding company shall only comply with the requirements set out 
 relation to the parts of the internal model which cover the risks of that undertaking and the risks of its related
 undertakings.
 
-*SECTION 2*
+### Section 2
 
 ***Use of a group internal model***
 
@@ -15079,7 +15079,7 @@ supervisor's Member State, or in a language for which the group supervisor has g
 
 --- Page 209 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/209
+
 
 3. For the purposes of this Section, the group supervisor and the supervisory authorities of all the Member States in
 which the head offices of each related insurance and reinsurance undertakings applying for the use of the group internal
@@ -15145,7 +15145,7 @@ that decision, by the supervisory authority having authorised that undertaking.
 
 --- Page 210 ---
 
-L 12/210 EN Official Journal of the European Union 17.1.2015
+
 
 3. In the joint decision, the supervisory authorities concerned may require the applicant to submit a realistic
 transitional plan to extend the scope of the group internal model.
@@ -15218,7 +15218,7 @@ the risk management and compliance functions of the parent undertaking covering 
 
 --- Page 211 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/211
+
 
 ##### Article 352
 
@@ -15251,7 +15251,7 @@ Requirement in the following three months.
 
 **COORDINATION OF GROUP SUPERVISION**
 
-*SECTION 1*
+### Section 1
 
 ***Colleges of supervisors***
 
@@ -15283,7 +15283,7 @@ participate in any relevant activity of the college of supervisors.
 
 --- Page 212 ---
 
-L 12/212 EN Official Journal of the European Union 17.1.2015
+
 
 ##### Article 355
 
@@ -15354,7 +15354,7 @@ approval.
 
 --- Page 213 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/213
+
 
 2. The group supervisor shall inform the other supervisory authorities within the college of supervisors without delay
 of the receipt of the application and shall also forward the application to the other supervisory authorities within the
@@ -15366,7 +15366,7 @@ group supervisor shall provide its decision to the applicant and to the other su
 supervisors. The decision shall be written in an official language of the Member State of the group supervisor, and in
 another language most commonly understood by the other supervisory authorities.
 
-*SECTION 2*
+### Section 2
 
 ***Exchange of information***
 
@@ -15407,7 +15407,7 @@ level.
 (b) for each related insurance or reinsurance undertaking falling within the scope of group supervision, the information
 referred to in paragraph 2.
 
-*SECTION 3*
+### Section 3
 
 ***National or regional subgroup supervision***
 
@@ -15421,13 +15421,13 @@ subgroup and the group.
 
 --- Page 214 ---
 
-L 12/214 EN Official Journal of the European Union 17.1.2015
+
 
 ## *CHAPTER V*
 
 **PUBLIC DISCLOSURE**
 
-*SECTION 1*
+### Section 1
 
 ***Group solvency and financial condition report***
 
@@ -15494,7 +15494,7 @@ and any internal model used to calculate the group Solvency Capital Requirement.
 
 --- Page 215 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/215
+
 
 ##### Article 360
 
@@ -15556,9 +15556,9 @@ undertakings, insurance holding companies or mixed financial holding companies.
 
 --- Page 216 ---
 
-L 12/216 EN Official Journal of the European Union 17.1.2015
 
-*SECTION 2*
+
+### Section 2
 
 ***Single solvency and financial condition report***
 
@@ -15627,7 +15627,7 @@ only during a period not exceeding four years from 1 January 2016.
 
 --- Page 217 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/217
+
 
 ##### Article 369
 
@@ -15676,7 +15676,7 @@ undertakings, insurance holding companies or mixed financial holding companies.
 
 **GROUP SUPERVISORY REPORTING**
 
-*SECTION 1*
+### Section 1
 
 ***Regular reporting***
 
@@ -15695,7 +15695,7 @@ of that Directive.
 
 --- Page 218 ---
 
-L 12/218 EN Official Journal of the European Union 17.1.2015
+
 
 2. The group regular supervisory report shall include all of the following additional information:
 
@@ -15766,7 +15766,7 @@ equivalent to those set out in Article 211(2) of Directive 2009/138/EC;
 
 --- Page 219 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/219
+
 
 (ix) a description of each special purpose entity within the group other than those referred to in points (vii)
 and (viii) together with qualitative and quantitative information on the solvency requirement and own funds of
@@ -15818,7 +15818,7 @@ supervisor.
 companies shall submit to the group supervisor the information referred to in paragraph 1 no later than 20 weeks after
 the reference date of the opening financial statement as referred to in Article 314(1)(a).
 
-*SECTION 2*
+### Section 2
 
 ***Reporting on risk concentrations and intragroup transactions***
 
@@ -15833,7 +15833,7 @@ risk concentrations.
 
 --- Page 220 ---
 
-L 12/220 EN Official Journal of the European Union 17.1.2015
+
 
 2. For the purposes of identifying significant risk concentrations, participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies shall consider, at least, direct and
@@ -15913,7 +15913,7 @@ impose sanctions or take enforcement action where necessary;
 
 --- Page 221 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/221
+
 
 (b) whether the supervisory authorities of that third country have the necessary means, the relevant expertise,
 capacities including financial and human resources, and mandate to effectively protect policy holders and beneficiar­­
@@ -15983,7 +15983,7 @@ obligations towards policy holders and beneficiaries of reinsurance contracts,
 
 --- Page 222 ---
 
-L 12/222 EN Official Journal of the European Union 17.1.2015
+
 
 (ii) a requirement that assets held to cover technical provisions are invested in the best interests of all policy
 holders and beneficiaries taking into account any disclosed policy objective,
@@ -16046,7 +16046,7 @@ appropriate, has been obtained solely for the purposes for which the authority g
 
 --- Page 223 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/223
+
 
 ## *CHAPTER II*
 
@@ -16120,7 +16120,7 @@ and solvency assessment have been met,
 
 --- Page 224 ---
 
-L 12/224 EN Official Journal of the European Union 17.1.2015
+
 
 (iii) in administrative appeals against decisions of the supervisory authorities,
 
@@ -16188,7 +16188,7 @@ to the relevant supervisory authorities;
 
 --- Page 225 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/225
+
 
 (h) whether the prudential regime of that third country requires an effective risk-management system in place at the
 group level comprising at least all of the following:
@@ -16261,7 +16261,7 @@ requirement of the participating undertaking for which the group solvency is cal
 
 --- Page 226 ---
 
-L 12/226 EN Official Journal of the European Union 17.1.2015
+
 
 (r) whether the calculation of group solvency in the third country's prudential regime produces a result that is at least
 equivalent to the result achieved by either one of the calculation methods set out in Articles 230 and 233 of
@@ -16324,7 +16324,7 @@ José Manuel BARROSO
 
 --- Page 227 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/227
+
 
 # *ANNEX I*
 
@@ -16390,7 +16390,7 @@ from home or while away from their habitual residence.
 
 --- Page 228 ---
 
-L 12/228 EN Official Journal of the European Union 17.1.2015
+
 
 (12) *Miscellaneous financial loss*
 
@@ -16458,7 +16458,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 
 --- Page 229 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/229
+
 
 (36) *Life reinsurance*
 
@@ -16467,7 +16467,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 
 --- Page 230 ---
 
-L 12/230 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX II*
 
@@ -16497,7 +16497,7 @@ L 12/230 EN Official Journal of the European Union 17.1.2015
 
 --- Page 231 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/231
+
 
 # *ANNEX III*
 
@@ -16573,7 +16573,7 @@ reserve risk sub-module.
 
 --- Page 232 ---
 
-L 12/232 EN Official Journal of the European Union 17.1.2015
+
 
 
 
@@ -16599,7 +16599,7 @@ L 12/232 EN Official Journal of the European Union 17.1.2015
 
 --- Page 233 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/233
+
 
 # *ANNEX IV*
 
@@ -16627,7 +16627,7 @@ segments set out Annex II:
 
 --- Page 234 ---
 
-L 12/234 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX V*
 
@@ -16673,7 +16673,7 @@ L 12/234 EN Official Journal of the European Union 17.1.2015
 
 --- Page 235 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/235
+
 
 |Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16698,7 +16698,7 @@ L 12/234 EN Official Journal of the European Union 17.1.2015
 
 --- Page 236 ---
 
-L 12/236 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX VI*
 
@@ -16744,7 +16744,7 @@ L 12/236 EN Official Journal of the European Union 17.1.2015
 
 --- Page 237 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/237
+
 
 |Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16769,7 +16769,7 @@ L 12/236 EN Official Journal of the European Union 17.1.2015
 
 --- Page 238 ---
 
-L 12/238 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX VII*
 
@@ -16814,7 +16814,7 @@ L 12/238 EN Official Journal of the European Union 17.1.2015
 
 --- Page 239 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/239
+
 
 |Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16828,7 +16828,7 @@ L 12/238 EN Official Journal of the European Union 17.1.2015
 
 --- Page 240 ---
 
-L 12/240 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX VIII*
 
@@ -16869,7 +16869,7 @@ L 12/240 EN Official Journal of the European Union 17.1.2015
 
 --- Page 241 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/241
+
 
 # *ANNEX IX*
 
@@ -16925,7 +16925,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 
 --- Page 242 ---
 
-L 12/242 EN Official Journal of the European Union 17.1.2015
+
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16965,7 +16965,7 @@ L 12/242 EN Official Journal of the European Union 17.1.2015
 
 --- Page 243 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/243
+
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17005,7 +17005,7 @@ L 12/242 EN Official Journal of the European Union 17.1.2015
 
 --- Page 244 ---
 
-L 12/244 EN Official Journal of the European Union 17.1.2015
+
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17045,7 +17045,7 @@ L 12/244 EN Official Journal of the European Union 17.1.2015
 
 --- Page 245 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/245
+
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17086,7 +17086,7 @@ L 12/244 EN Official Journal of the European Union 17.1.2015
 
 --- Page 246 ---
 
-L 12/246 EN Official Journal of the European Union 17.1.2015
+
 
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
@@ -17125,7 +17125,7 @@ L 12/246 EN Official Journal of the European Union 17.1.2015
 
 --- Page 247 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/247
+
 
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
@@ -17167,7 +17167,7 @@ L 12/246 EN Official Journal of the European Union 17.1.2015
 
 --- Page 248 ---
 
-L 12/248 EN Official Journal of the European Union 17.1.2015
+
 
 |Region/ Risk Zone|CH|CY|IE|NO|SE|
 |---|---|---|---|---|---|
@@ -17211,7 +17211,7 @@ The mapping of risk zones for the region FR shall be based on the first 2 digits
 
 --- Page 249 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/249
+
 
 **Mapping of risk zones for the Republic of Slovenia**
 
@@ -17231,7 +17231,7 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 
 --- Page 250 ---
 
-L 12/250 EN Official Journal of the European Union 17.1.2015
+
 
 |Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17263,7 +17263,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 
 --- Page 251 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/251
+
 
 # *ANNEX X*
 
@@ -17303,7 +17303,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 
 --- Page 252 ---
 
-L 12/252 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17343,7 +17343,7 @@ L 12/252 EN Official Journal of the European Union 17.1.2015
 
 --- Page 253 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/253
+
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17382,7 +17382,7 @@ L 12/252 EN Official Journal of the European Union 17.1.2015
 
 --- Page 254 ---
 
-L 12/254 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17421,7 +17421,7 @@ L 12/254 EN Official Journal of the European Union 17.1.2015
 
 --- Page 255 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/255
+
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17463,7 +17463,7 @@ L 12/254 EN Official Journal of the European Union 17.1.2015
 
 --- Page 256 ---
 
-L 12/256 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17502,7 +17502,7 @@ L 12/256 EN Official Journal of the European Union 17.1.2015
 
 --- Page 257 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/257
+
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17541,7 +17541,7 @@ L 12/256 EN Official Journal of the European Union 17.1.2015
 
 --- Page 258 ---
 
-L 12/258 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17582,7 +17582,7 @@ L 12/258 EN Official Journal of the European Union 17.1.2015
 
 --- Page 259 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/259
+
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17621,7 +17621,7 @@ L 12/258 EN Official Journal of the European Union 17.1.2015
 
 --- Page 260 ---
 
-L 12/260 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17660,7 +17660,7 @@ L 12/260 EN Official Journal of the European Union 17.1.2015
 
 --- Page 261 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/261
+
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17699,7 +17699,7 @@ L 12/260 EN Official Journal of the European Union 17.1.2015
 
 --- Page 262 ---
 
-L 12/262 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17739,7 +17739,7 @@ L 12/262 EN Official Journal of the European Union 17.1.2015
 
 --- Page 263 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/263
+
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17778,7 +17778,7 @@ L 12/262 EN Official Journal of the European Union 17.1.2015
 
 --- Page 264 ---
 
-L 12/264 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17817,7 +17817,7 @@ L 12/264 EN Official Journal of the European Union 17.1.2015
 
 --- Page 265 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/265
+
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17859,7 +17859,7 @@ L 12/264 EN Official Journal of the European Union 17.1.2015
 
 --- Page 266 ---
 
-L 12/266 EN Official Journal of the European Union 17.1.2015
+
 
 |Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
 |---|---|---|---|---|---|---|---|---|---|
@@ -17882,7 +17882,7 @@ L 12/266 EN Official Journal of the European Union 17.1.2015
 
 --- Page 267 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/267
+
 
 # *ANNEX XI*
 
@@ -17935,7 +17935,7 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 
 --- Page 268 ---
 
-L 12/268 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX XII*
 
@@ -17989,7 +17989,7 @@ in setting up, maintaining and operating the good.
 
 --- Page 269 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/269
+
 
 # *ANNEX XIV*
 
@@ -18026,7 +18026,7 @@ segments set out Annex XIV:
 
 --- Page 270 ---
 
-L 12/270 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX XVI*
 
@@ -18067,7 +18067,7 @@ L 12/270 EN Official Journal of the European Union 17.1.2015
 
 --- Page 271 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/271
+
 
 |Country s|rs — Ratio of persons affected by the mass acci­ dent in country s|
 |---|---|
@@ -18103,7 +18103,7 @@ L 12/270 EN Official Journal of the European Union 17.1.2015
 
 --- Page 272 ---
 
-L 12/272 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX XVII*
 
@@ -18172,7 +18172,7 @@ reflected in the non-life or health catastrophe risk sub-modules;
 
 --- Page 273 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/273
+
 
 (g) the data fit the following assumptions:
 
@@ -18240,7 +18240,7 @@ i. and are defined in point (c) and (d) of paragraph 4;
 
 --- Page 274 ---
 
-L 12/274 EN Official Journal of the European Union 17.1.2015
+
 
 ii. *x* denotes the following amount:
 
@@ -18317,7 +18317,7 @@ quadratic in the provision for claims outstanding in a particular segment and fi
 
 --- Page 275 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/275
+
 
 iii. the amount referred to paragraph 1(a) follows a lognormal distribution;
 
@@ -18390,7 +18390,7 @@ ii. *x* denotes the following amount:
 
 --- Page 276 ---
 
-L 12/276 EN Official Journal of the European Union 17.1.2015
+
 
 (6) The mixing parameter and the logarithmic variation coefficient shall be the values and respectively for
 which the following amount becomes minimal:
@@ -18458,7 +18458,7 @@ ii. for all accident years the implied incremental claim amounts are stochastica
 
 --- Page 277 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/277
+
 
 iii. for all accident years the expected value of the cumulative claims amount for a development year is
 proportional to the cumulative claims amount for the preceding development year;
@@ -18529,7 +18529,7 @@ accident year *i* and development year *j*, as set out in paragraph 4(c).
 
 --- Page 278 ---
 
-L 12/278 EN Official Journal of the European Union 17.1.2015
+
 
 (c) for all development years, *S′* *j* denotes for a specific development year *j* the following amount:
 
@@ -18601,7 +18601,7 @@ data are available;
 
 --- Page 279 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/279
+
 
 (c) *A* *(i,t)* denotes the annuity benefits of beneficiary *i* in financial year *t* ;
 
@@ -18678,7 +18678,7 @@ where:
 
 --- Page 280 ---
 
-L 12/280 EN Official Journal of the European Union 17.1.2015
+
 
 (8) The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
@@ -18765,7 +18765,7 @@ X
 
 --- Page 281 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/281
+
 
 (e) *b* 1 denotes the amount of the retention of the recognisable excess of loss reinsurance contract referred to in
 Article 218(2);
@@ -18875,7 +18875,7 @@ group *h* determined in accordance with paragraph 5.
 
 --- Page 282 ---
 
-L 12/282 EN Official Journal of the European Union 17.1.2015
+
 
 G. **Credibility factor**
 
@@ -18926,7 +18926,7 @@ and for the revision risk method shall be equal to the following:
 
 --- Page 283 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/283
+
 
 # *ANNEX XVIII*
 
@@ -19010,7 +19010,7 @@ where:
 
 --- Page 284 ---
 
-L 12/284 EN Official Journal of the European Union 17.1.2015
+
 
 (2) The items on the aggregation list shall meet the following requirements:
 
@@ -19086,7 +19086,7 @@ Requirement only to the risks not covered by the partial internal model;
 
 --- Page 285 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/285
+
 
 (b) *ω* 1 denotes the first implied correlation parameter as set out in paragraph 2;
 
@@ -19193,7 +19193,7 @@ calculated with the partial internal model;
 
 --- Page 286 ---
 
-L 12/286 EN Official Journal of the European Union 17.1.2015
+
 
 (b) *S* *S* denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
@@ -19264,7 +19264,7 @@ which are within the scope of the partial internal model, calculated with the pa
 
 --- Page 287 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/287
+
 
 (b) *S* *S* denotes the capital requirement derived by applying that particular sub-module only to the risks not
 covered by the partial internal model;
@@ -19376,7 +19376,7 @@ other sub-modules.
 
 --- Page 288 ---
 
-L 12/288 EN Official Journal of the European Union 17.1.2015
+
 
 (3) For all modules of the standard formula referred to in paragraph 2(b)(ii), the capital requirement of a particular
 module shall be calculated with the formula set out in paragraph 1, applying the following denominations:
@@ -19395,7 +19395,7 @@ other sub-modules.
 
 --- Page 289 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/289
+
 
 # *ANNEX XIX*
 
@@ -19427,7 +19427,7 @@ other sub-modules.
 
 --- Page 290 ---
 
-L 12/290 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX XX*
 
@@ -19498,7 +19498,7 @@ D.5 Any other information
 
 --- Page 291 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/291
+
 
 E. **Capital Management**
 
@@ -19518,7 +19518,7 @@ E.6 Any other information
 
 --- Page 292 ---
 
-L 12/292 EN Official Journal of the European Union 17.1.2015
+
 
 # *ANNEX XXI*
 
@@ -19586,7 +19586,7 @@ expressed as percentage of the total amount of the Solvency Capital Requirement;
 
 --- Page 293 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/293
+
 
 (20) Where the Solvency Capital Requirement for credit risk is calculated using the standard formula the total
 amount of the Solvency Capital Requirement for spread risk and market risk concentration sub-modules and
@@ -19653,7 +19653,7 @@ level of the group;
 
 --- Page 294 ---
 
-L 12/294 EN Official Journal of the European Union 17.1.2015
+
 
 (30) The total amount of the group eligible own funds for the insurance groups of which the supervisory authority
 is the group supervisor, separately for group eligible own funds calculated in accordance with method 1 as
@@ -19719,7 +19719,7 @@ average duration;
 
 --- Page 295 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/295
+
 
 (13) The number of applications submitted to the supervisory authority to use the transitional risk-free interest rate
 term structure referred to in Article 308c Directive 2009/138/EC, how many were successful and the number

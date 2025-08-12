@@ -1,11 +1,7 @@
 
 --- Page 1 ---
 
-![An image displaying the logos of three European financial regulatory bodies side-by-side. From left to right: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-eba European Banking Authority
-eioPa European Insurance and Occupational Pensions Authority
-ESMA European Securities and Markets Authority](#)
 #### ESA 2024 28 10 December 2024
 # Final Re p ort
 ## Guidelines on templates for explanations and opinions, and the standardised test for the classification of crypto-assets, under Article 97(1) of Regulation (EU) 2023/1114

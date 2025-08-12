@@ -6,13 +6,7 @@ EIOPA-BoS-14/178 EN
 Guidelines on undertaking-specific
 
 
-![**Summary:**
-The official logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, translucent rhombus containing a circle of white stars, similar to the European Union flag. Below the icon is the stylized lowercase acronym "eiopa" and the full name of the authority in uppercase text.
 
-**Text:**
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A presentation slide with a light blue background featuring the title "Guidelines on undertaking-specific" in bold, black text with a subtle drop shadow.
 
@@ -87,8 +81,6 @@ inputs used to calculate these parameters will be similar (and in some cases
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
 
-2/7
-
 
 --- Page 3 ---
 
@@ -115,7 +107,7 @@ legal acts referred to in the introduction.
 
 1.11. The Guidelines shall apply from 1 April 2015.
 
-**Guideline 1 – Role of expert judgement**
+### **Guideline 1 – Role of expert judgement**
 
 1.12. For the purpose of determining the undertaking-specific parameters
 undertakings should be allowed to use assumptions based on expert judgement
@@ -127,14 +119,14 @@ resulting adjusted data meet the criteria set out in Article 219 of Commission
 Delegated Regulation 2015/35 to a higher degree and should demonstrate such
 compliance upon request of the supervisory authorities.
 
-**Guideline 2 – Materiality**
+### **Guideline 2 – Materiality**
 
 1.14. Undertakings should ensure that the criteria on data quality set out in Article
 
 219 of Commission Delegated Regulation 2015/35 are met regardless of the
 materiality of the segment for which undertaking-specific parameters are used.
 
-**Guideline 3 – Adjustments to increase the level of appropriateness in data**
+### **Guideline 3 – Adjustments to increase the level of appropriateness in data**
 
 1.15. Subject to Guideline 1, when determining undertaking-specific parameters
 
@@ -142,7 +134,7 @@ undertakings should adjust historical data as necessary to eliminate the effect
 
 of risks that are irrelevant at least over the next twelve months.
 
-**Guideline 4 – Adjustment of historical data to eliminate the effect of**
+### **Guideline 4 – Adjustment of historical data to eliminate the effect of**
 **catastrophe events and to reflect the current reinsurance arrangements**
 
 1.16. Where relevant undertakings should establish internal policies and procedures
@@ -151,8 +143,6 @@ of risks that are irrelevant at least over the next twelve months.
 
 (b) to adjust data in accordance with Annex XVII point B. (2) (e) of
 Commission Delegated Regulation 2015/35;
-
-3/7
 
 
 --- Page 4 ---
@@ -165,7 +155,7 @@ Commission Delegated Regulation 2015/35;
 reinsurance are appropriately considered where they have an impact on the
 volatility of reserve risk.
 
-**Guideline 5 – Calculation of non-proportional reinsurance adjustment in the**
+### **Guideline 5 – Calculation of non-proportional reinsurance adjustment in the**
 **scope of premium risk**
 
 1.18. When undertakings determine the adjustment factor for the non-proportional
@@ -175,7 +165,7 @@ Commission Delegated Regulation 2015/35 they should ensure that both gross
 data and data net of non-proportional reinsurance for the following twelve
 months comply with Guidelines 1 to 4.
 
-**Guideline 6 – Continuous compliance**
+### **Guideline 6 – Continuous compliance**
 
 1.19. Undertakings should monitor their compliance with the requirements for the use
 
@@ -203,7 +193,7 @@ included in Article 101(3) of Solvency II, they should submit a new application
 
 for the use of this alternative standardised method.
 
-**Guideline 7 – Remedial of non-compliance**
+### **Guideline 7 – Remedial of non-compliance**
 
 1.23. In case of non-compliance with the requirements for the use of undertaking
 specific parameters, the supervisory authority should decide whether the
@@ -219,8 +209,6 @@ requirements for the use of undertaking-specific parameters.
 
 supervisory authority should withdraw the approval for the use of undertaking
 specific parameters in accordance with [Article 8 of the EIOPA draft
-
-4/7
 
 
 --- Page 5 ---
@@ -248,7 +236,7 @@ timeframe for the submission of the application.
 
 analyse the available standardised methods.
 
-**Guideline 9 – Significant deviation**
+### **Guideline 9 – Significant deviation**
 
 1.29. When considering if there is a significant deviation as referred to in Article 110
 
@@ -274,7 +262,7 @@ the deviation.
 
 segment for which the use of undertaking-specific parameters is possible.
 
-**Guideline 10 – Application for approval of the use of group-specific**
+### **Guideline 10 – Application for approval of the use of group-specific**
 
 **parameters**
 
@@ -289,8 +277,6 @@ reference to 'group-specific parameters'.
 4 [https://eiopa.europa.eu/publications/technical-standards/draft-implementing-technical-standards-on-](https://eiopa.europa.eu/publications/technical-standards/draft-implementing-technical-standards-on-)
 [the-supervisory-approval-processes-for-solvency-ii/index.html](https://eiopa.europa.eu/publications/technical-standards/draft-implementing-technical-standards-on-)
 
-5/7
-
 
 --- Page 6 ---
 
@@ -300,7 +286,7 @@ reinsurance undertaking, the insurance holding company or the mixed financial
 holding company should provide additional information where necessary to
 assess the application.
 
-**Guideline 11 – Scope of the group using group-specific parameters**
+### **Guideline 11 – Scope of the group using group-specific parameters**
 
 1.33. When the group Solvency Capital Requirement is calculated under method 1 or
 
@@ -325,7 +311,7 @@ for those undertakings which received approval from the supervisory
 
 authorities.
 
-**Guideline 12 – Data quality requirements at group level**
+### **Guideline 12 – Data quality requirements at group level**
 
 1.36. The participating insurance or reinsurance undertaking, the insurance holding
 
@@ -335,7 +321,7 @@ are similar enough to those of the individual undertakings providing the data to
 ensure consistency between the statistical assumptions underlying the data
 used at the individual entity level and at group level.
 
-**Guideline 13 – Consultation within the college of supervisors**
+### **Guideline 13 – Consultation within the college of supervisors**
 
 1.37. In the consultation set out in Article 356 (3) of Commission Delegated
 
@@ -345,7 +331,7 @@ representativeness of the data at group level and the relevance of the used
 
 standardised method.
 
-**Guideline 14 – Information for the college of supervisors**
+### **Guideline 14 – Information for the college of supervisors**
 
 1.38. In the case of an application for approval of the use of undertaking-specific
 
@@ -355,8 +341,6 @@ should inform the college of supervisors of the receipt and its decision. If the
 application is rejected, it should inform the college of supervisors about the
 
 main reasons for its decision.
-
-6/7
 
 
 --- Page 7 ---
@@ -393,6 +377,4 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Reviews**
 
 1.44. The present Guidelines shall be subject to a review by EIOPA.
-
-7/7
 

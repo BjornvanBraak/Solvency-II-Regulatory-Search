@@ -1,15 +1,7 @@
 
 --- Page 1 ---
 
-![This is a banner image featuring the logos of the three European Supervisory Authorities (ESAs) and their joint committee. From left to right, it displays the logos for the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA). On the far right is the text for the Joint Committee of the European Supervisory Authorities.
 
-eba
-European Banking Authority
-eioPa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
 JC 2024 34
 
@@ -31,16 +23,7 @@ official EU lan g ua g es.
 
 --- Page 2 ---
 
-![A header for the "Joint Committee Guidelines on Aggregated Annual Costs and Losses of Major ICT-Related Incidents," featuring the logos of the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), under the umbrella of the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 # Joint Guidelines on the estimation of aggregated annual costs and losses caused b ma or ICT-related incidents  y j
 ## Status of these Joint Guidelines
 
@@ -98,16 +81,7 @@ Commission Decision 2009/77/EC, (OJ L 331, 15.12.2010, p. 84–119)
 
 --- Page 3 ---
 
-![This is a document header for the "Joint Committee Guidelines on Aggregated Annual Costs and Losses of Major ICT-Related Incidents". It features the logos of the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), which form the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 ## Title I - Subject matter, scope, addressees, and definitions
 ### **Subject matter and Scope of application **
 
@@ -144,16 +118,7 @@ No 909/2014 and (EU) 2016/1011, ( *OJ L 333, 27.12.2022, p. 1–79)*
 
 --- Page 4 ---
 
-![This is the header of a document titled "Joint Committee Guidelines on Aggregated Annual Costs and Losses of Major ICT-Related Incidents". It features the logos of the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), which together form the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 ## Title III- Provisions on the estimation of aggregated annual costs and losses of major ICT-related incidents
 
 5. Financial entities should estimate the aggregate annual costs and losses of major ICT-related
@@ -225,13 +190,7 @@ threat [ *OJ L, 2025/302, 20.2.2025, ELI:* *[http://data.europa.eu/eli/reg_impl/
 
 --- Page 5 ---
 
-![This is the title page for the "Joint Committee Guidelines on Aggregated Annual Costs and Losses of Major ICT-Related Incidents". The page features the logos of the European Supervisory Authorities: the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA).
 
-JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS
-eba European Banking Authority
-eiopa European Insurance and Occupational Pensions Authority
-ESMA European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
 (c) financial entities should aggregate the gross costs and losses and the financial recoveries across
 
@@ -278,16 +237,7 @@ report in accordance with Article 19(4)(c) of Regulation (EU) 2022/2554.
 
 --- Page 6 ---
 
-![This is a header for the "JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS". It features the logos of the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA), and the European Securities and Markets Authority (ESMA), which together form the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS
-eba
-European Banking Authority
-eiopa
-European Insurance and Occupational Pensions Authority
-ESMA
-European Securities and Markets Authority
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 ## Annex: Reporting template for gross costs and losses and financial
 
 

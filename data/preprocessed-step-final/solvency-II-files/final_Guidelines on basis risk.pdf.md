@@ -4,11 +4,7 @@
 EIOPA-BoS-14/172 EN
 
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, translucent, rounded diamond shape containing the European Union's circle of twelve stars. Below the graphic is the stylized lowercase acronym "eiopa" and the full name of the authority in a sans-serif font.
 
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A presentation slide with the title "Guidelines on basis risk" in bold black text with a slight drop shadow, set against a plain light blue background.
 
@@ -57,7 +53,7 @@ legal acts referred to in the introduction.
 
 1.8. These Guidelines shall apply from 1 April 2015.
 
-**Guideline 1 – Risk-mitigation techniques with no material basis risk**
+### **Guideline 1 – Risk-mitigation techniques with no material basis risk**
 
 1.9. Undertakings should consider that a risk-mitigation technique does not result in
 material basis risk where the following conditions are met:
@@ -76,12 +72,10 @@ scenarios that are consistent with the confidence level set out in Article
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
 
-2/4
-
 
 --- Page 3 ---
 
-**Guideline 2 - Financial risk-mitigation techniques: assessment criteria of**
+### **Guideline 2 - Financial risk-mitigation techniques: assessment criteria of**
 
 **material basis risk**
 
@@ -139,14 +133,12 @@ the risk-mitigation technique when determining whether the basis risk is
 
 material.
 
-**Guideline 3 - Insurance risk-mitigation techniques with no material basis risk**
+### **Guideline 3 - Insurance risk-mitigation techniques with no material basis risk**
 
 1.13. Before allowing for an insurance risk-mitigation technique in the calculation of
 
 the Solvency Capital Requirement with the standard formula, undertakings
 should identify whether reinsurance or special purpose vehicle arrangements
-
-3/4
 
 
 --- Page 4 ---
@@ -196,6 +188,4 @@ considered as non-compliant to the reporting and reported as such.
 1.20. The present Guidelines shall be subject to a review by EIOPA.
 
 3 OJ L 12, 17.01.2015, p. 1-797
-
-4/4
 

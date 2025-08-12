@@ -49,6 +49,15 @@ st.markdown("""
             display: flex;
             justify-content: center;
             # padding: 2rem 0;
+            height: calc(100vh - 96px - 30px);
+        }
+        .st-key-pdf-display-container .stElementContainer:has(iframe) {
+            flex: 1;   
+        }
+            
+        .st-key-pdf-display-container .stElementContainer:has(iframe) * {
+            width: 100%;
+            height: 100%;
         }
     </style>
     <style>
@@ -179,7 +188,7 @@ sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
-    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V2, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II),
+    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V2, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
     format_func=lambda x: x.value["display_name"]
 )
 
@@ -325,7 +334,7 @@ def displayPDF(file_name, page_number=None):
 
 
     # print("[displayPDF] Displaying pdf with: ", secure_file_path, " page number: ", secure_page_number)
-    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}#page={secure_page_number}" width="600" height="550" type="application/pdf"></iframe>'
+    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}#page={secure_page_number}" width="600" height="550" style="width:100%;" type="application/pdf"></iframe>'
 
     # Displaying File
     with st.container(key="pdf-display-container"):
@@ -359,10 +368,11 @@ with sidebar:
         document_link_through_link = result["documentLink"]
         page_number_through_link = int(result["pageNumber"]) if isinstance(result["pageNumber"], str) else result["pageNumber"]
     prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
+    prev_page_number_through_link = st.session_state.get("pdf_page_number", None)
     # print(f"Document link through link: {document_link_through_link}, page number: {page_number_through_link}")
 
 # print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
-if document_link_through_link != prev_document_link_through_link:
+if document_link_through_link != prev_document_link_through_link or page_number_through_link != prev_page_number_through_link:
     # print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
     # print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
     # update pdf to display if change is detected
@@ -647,6 +657,8 @@ with chat_col:
 
             heading_hierarchy = [header_1, header_2, header_3, header_4, header_5]
 
+            print(f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else "")
+
             source_metadata = ""
             source_metadata += f"* Title: {title}"
             source_metadata += f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else ""
@@ -737,8 +749,8 @@ with chat_col:
         chat.append(("user", prompt))
 
         # Note: potential problem with sources ids overlapping of different chat (e.g. source 1, from previous prompt, with current source 1 from current prompt), may confuses the LLM?
-        print("Chat history for LLM:")
-        pprint.pprint(chat)
+        # print("Chat history for LLM:")
+        # pprint.pprint(chat)
 
         count_tokens(prompt)
 
@@ -746,9 +758,9 @@ with chat_col:
         
         formatted_chat_message = chat_template.format_messages()
         
-        print(f"PROMPT FOR LLM: \n\n")
-        pprint.pprint(formatted_chat_message)      
-        print("\n\n END OF PROMPT OUTPUT \n")
+        # print(f"PROMPT FOR LLM: \n\n")
+        # pprint.pprint(formatted_chat_message)      
+        # print("\n\n END OF PROMPT OUTPUT \n")
 
         if debug_mode:
             from langchain.schema import SystemMessage, HumanMessage
@@ -892,7 +904,7 @@ with chat_col:
                     heading_hierarchy = document_source["heading_hierarchy"]
                     # remove italic or bold markdown from headings
                     print(f"Heading hierarchy: {heading_hierarchy}")
-                    html_non_empty_headings = [re.sub(r"^\s*\*{1,2}([^\*]+)\*{1,2}\s*$", r"\1", heading) for heading in heading_hierarchy if heading != ""]
+                    html_non_empty_headings = [re.sub(r"\*{1,2}", r"", heading) for heading in heading_hierarchy if heading != ""]
                     print(f"HTML non-empty headings: {html_non_empty_headings}")
                     rand = random.randint(0, 10000)
                     query_id = document_source["query_id"]

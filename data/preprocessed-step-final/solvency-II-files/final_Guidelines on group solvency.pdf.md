@@ -4,11 +4,7 @@
 EIOPA-BoS-14/181 EN
 
 
-![This is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo consists of a graphic element and text. The graphic is a blue, translucent, rounded diamond shape containing the European Union symbol, a circle of stars. Below the graphic is the stylized lowercase acronym "eiopa" and the full name of the authority in uppercase letters.
 
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A title card with the text 'Guidelines on group solvency' in bold black letters on a plain light blue background.
 
@@ -69,12 +65,10 @@ legal acts referred to in the introduction.
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
 
-2/15
-
 
 --- Page 3 ---
 
-**Guideline 1 – Scope of the group for the group solvency calculation**
+### **Guideline 1 – Scope of the group for the group solvency calculation**
 
 1.10. The participating insurance or reinsurance undertaking, the insurance holding
 
@@ -83,7 +77,7 @@ group solvency should ensure that they cover all risks and related undertakings
 belonging to the group, unless otherwise excluded in Article 214(2) of the
 Solvency II Directive.
 
-**Guideline 2 - Consolidation process**
+### **Guideline 2 - Consolidation process**
 
 1.11. The participating insurance or reinsurance undertaking, the insurance holding
 
@@ -96,7 +90,7 @@ applied adequately and homogenously within the group with respect to the
 recognition and valuation of balance sheet items as well as the inclusion and
 treatment of related undertakings.
 
-**Guideline 3 - Assessment of significant and dominant influence**
+### **Guideline 3 - Assessment of significant and dominant influence**
 
 1.12. When determining the scope of the group, the participating insurance or
 
@@ -105,7 +99,7 @@ holding company should ensure that any decision made by the group supervisor
 with regard to the level of influence effectively exercised by any undertaking
 over another undertaking is being implemented.
 
-**Guideline 4 – Case of application of group supervision**
+### **Guideline 4 – Case of application of group supervision**
 
 1.13. Since the four cases of application of group supervision referred to in
 
@@ -113,7 +107,7 @@ Article 213(2)(a) to (d) of the Solvency II Directive are not mutually exclusive
 supervisory authorities should consider applying the different cases of group
 supervision prescribed under this Article within the same group.
 
-**Guideline 5 - Parent insurance or reinsurance undertaking, insurance holding**
+### **Guideline 5 - Parent insurance or reinsurance undertaking, insurance holding**
 **company or mixed financial holding company headquartered in a third**
 **country**
 
@@ -134,8 +128,6 @@ should rely on the group supervision exercised by the third-country supervisory
 authorities, according to Article 261 of the Solvency II Directive, and exempt
 the third-country group from group supervision at the ultimate level of the
 European Union on a case-by-case basis, where this would result in a more
-
-3/15
 
 
 --- Page 4 ---
@@ -181,7 +173,7 @@ insurance holding company or a mixed financial holding company which has its
 head office in the European Union and subject this EEA group to group
 supervision and group solvency calculation.
 
-**Guideline 6 - Parent undertaking is a mixed-activity insurance holding**
+### **Guideline 6 - Parent undertaking is a mixed-activity insurance holding**
 
 **company**
 
@@ -191,7 +183,7 @@ the group solvency calculation should apply to any part of the group satisfying
 the criteria of Article 213(2)(a)(b) or (c) of the Solvency II Directive, rather
 than to the mixed-activity insurance holding company.
 
-**Guideline 7 – Application of the method of calculation**
+### **Guideline 7 – Application of the method of calculation**
 
 1.19. For the purpose of calculating the group solvency, the participating insurance or
 
@@ -201,12 +193,10 @@ Guideline 1, irrespective of whether calculation method 1, calculation method 2
 
 or a combination of both methods is used.
 
-4/15
-
 
 --- Page 5 ---
 
-**Guideline 8 - Choice of the method of calculation and assessment of the**
+### **Guideline 8 - Choice of the method of calculation and assessment of the**
 **intra-group transactions**
 
 1.20. When deciding whether the exclusive application of method 1 is not appropriate
@@ -216,7 +206,7 @@ the group supervisor should consider the presence of intra-group transactions
 between the related undertaking being assessed for deduction and aggregation
 and all other entities in the scope of the group solvency calculation.
 
-**Guideline 9 - Proportional share**
+### **Guideline 9 - Proportional share**
 
 1.21. Where a related undertaking is linked with another undertaking by a
 
@@ -256,7 +246,7 @@ holding company or the mixed financial holding company, when including
 related undertakings according to Article 335(1)(e) of Commission
 Delegated Regulation 2015/35.
 
-**Guideline 10 - Criteria for the recognition of the solvency deficit of a**
+### **Guideline 10 - Criteria for the recognition of the solvency deficit of a**
 **subsidiary on a proportional basis**
 
 1.24. In order to prove that the responsibility of the parent undertaking is strictly
@@ -266,8 +256,6 @@ envisaged in Article 221(1) of the Solvency II Directive, the parent undertaking
 should provide evidence to the group supervisor that the following criteria are
 
 met:
-
-5/15
 
 
 --- Page 6 ---
@@ -332,12 +320,10 @@ proportional basis instead of applying a full consolidation.
 solvency capital requirement of the subsidiary should be calculated using the
 proportional share of that subsidiary, also in the case of a solvency deficit.
 
-6/15
-
 
 --- Page 7 ---
 
-**Guideline 11 - Treatment of specific related undertakings for group solvency**
+### **Guideline 11 - Treatment of specific related undertakings for group solvency**
 
 **calculation**
 
@@ -349,7 +335,7 @@ company should consider using the solvency requirements of such a group
 instead of the sum of the requirements of each individual undertaking when
 calculating the group solvency.
 
-**Guideline 12 - Contribution of a subsidiary to the group solvency capital**
+### **Guideline 12 - Contribution of a subsidiary to the group solvency capital**
 **requirement**
 
 1.32. When using method 1 and when the standard formula is applied, the
@@ -385,7 +371,7 @@ capital requirement, since no diversification effects at group level are taken i
 
 account.
 
-**Guideline 13 - Availability of own funds at group level of related undertakings**
+### **Guideline 13 - Availability of own funds at group level of related undertakings**
 
 **that are not subsidiaries**
 
@@ -401,8 +387,6 @@ insurance holding companies and intermediate mixed financial holding
 companies that are not subsidiaries, when the own-fund items of these
 undertakings materially affect the amount of group own funds or the group
 
-7/15
-
 
 --- Page 8 ---
 
@@ -414,7 +398,7 @@ made.
 
 supervisory authorities involved, the assessment made by the group.
 
-**Guideline 14 - Treatment of minority interests for covering the group**
+### **Guideline 14 - Treatment of minority interests for covering the group**
 **solvency capital requirement**
 
 1.38. The participating insurance or reinsurance undertaking, the insurance holding
@@ -433,7 +417,7 @@ from the eligible own funds calculated in step 1;
 3. calculate the part of minority interests to be deducted from the group own
 funds by multiplying the minority share by the result of step 2.
 
-**Guideline 15 - Treatment of ring-fenced funds and matching adjustment**
+### **Guideline 15 - Treatment of ring-fenced funds and matching adjustment**
 **portfolios for covering the group solvency capital requirement**
 
 1.39. For all undertakings included in the group solvency calculation using method 1
@@ -465,8 +449,6 @@ remaining consolidated data. The group solvency capital requirement calculated
 
 on the basis of the consolidated data should be the sum of:
 
-8/15
-
 
 --- Page 9 ---
 
@@ -489,7 +471,7 @@ be eliminated.
 1.42. Where a group uses an internal model to calculate the group Solvency Capital
 
 Requirement (hereinafter ”SCR”), it should follow the guidance set out in
-Guideline 13 of the Guidelines on ring-fenced funds.
+### Guideline 13 of the Guidelines on ring-fenced funds.
 
 1.43. The consolidated data used to calculate the group own funds should be net of
 
@@ -518,7 +500,7 @@ any non-EEA insurance and reinsurance undertaking in the scope of the
 
 consolidated data.
 
-**Guideline 16 - Adjustments related to non-available own funds for the**
+### **Guideline 16 - Adjustments related to non-available own funds for the**
 **calculation of group eligible own funds**
 
 1.46. When using method 1, the participating insurance and reinsurance undertaking,
@@ -532,8 +514,6 @@ items and the relevant tiers of the consolidated group own funds.
 
 own funds to cover the group solvency capital requirement and the minimum
 consolidated group solvency capital requirement:
-
-9/15
 
 
 --- Page 10 ---
@@ -564,7 +544,7 @@ non-available own funds at group level.
 classified into more than one tier, the order in which they are deducted from
 the different tiers should be explained to the group supervisor.
 
-**Guideline 17 - Process for assessing non-available own funds by the group**
+### **Guideline 17 - Process for assessing non-available own funds by the group**
 **supervisor**
 
 1.50. In the case of a cross-border group, the group supervisor should discuss its
@@ -602,8 +582,6 @@ holding company.
 
 1.52. The process should be as follows:
 
-10/15
-
 
 --- Page 11 ---
 
@@ -619,7 +597,7 @@ adjustments made in order to deduct non-available own funds;
 
 funds with the group.
 
-**Guideline 18 - Reconciliation reserve at group level**
+### **Guideline 18 - Reconciliation reserve at group level**
 
 1.53. The participating insurance or reinsurance undertaking, the insurance holding
 
@@ -639,7 +617,7 @@ company and the related undertakings;
 requirement in the case of ring fenced funds and matching adjustment
 portfolios at group level.
 
-**Guideline 19 - Determination of the consolidated data for the group solvency**
+### **Guideline 19 - Determination of the consolidated data for the group solvency**
 
 **calculation**
 
@@ -649,7 +627,7 @@ accounts that have been valued according to Solvency II Directive rules with
 respect to the recognition and valuation of balance sheet items as well as the
 inclusion and treatment of the related undertakings.
 
-**Guideline 20 - Determination of the currency for the purpose of the currency**
+### **Guideline 20 - Determination of the currency for the purpose of the currency**
 
 **risk calculation**
 
@@ -664,7 +642,7 @@ of the consolidated accounts should be taken into account in accordance with
 
 Article 188 of Commission Delegated Regulation 2015/35 at group level as well.
 
-**Guideline 21 - Minimum consolidated group solvency capital requirement**
+### **Guideline 21 - Minimum consolidated group solvency capital requirement**
 **(floor to the group solvency capital requirement)**
 
 1.56. In the determination of the minimum consolidated group solvency capital
@@ -673,8 +651,6 @@ requirement, when method 1 is used, exclusively or in combination with
 method 2, the participating insurance or reinsurance undertaking, the insurance
 holding company or the mixed financial holding company should use the
 following capital requirements:
-
-11/15
 
 
 --- Page 12 ---
@@ -689,7 +665,7 @@ withdrawn, for third country insurance and reinsurance undertakings
 included in the scope of method 1, independently of any equivalence
 finding.
 
-**Guideline 22 – Minimum consolidated group solvency capital requirement**
+### **Guideline 22 – Minimum consolidated group solvency capital requirement**
 
 1.57. In case method 1 is used, exclusively or in combination with method 2, when
 
@@ -699,7 +675,7 @@ months, the supervisory measures set out in Article 139(1) and (2) of the
 Solvency II Directive for non-compliance with the individual minimum capital
 requirement should apply at group level.
 
-**Guideline 23 – Treatment of group specific risks**
+### **Guideline 23 – Treatment of group specific risks**
 
 1.58. The participating insurance or reinsurance undertaking, the insurance holding
 
@@ -737,15 +713,13 @@ the group supervisor after consulting the other supervisory authorities
 concerned, should be able to impose a group capital add-on, as provided for in
 Articles 232(a) and 233(6) of the Solvency II Directive, if appropriate.
 
-**Guideline 24 - Risk profile capital add-on when using method 1**
+### **Guideline 24 - Risk profile capital add-on when using method 1**
 
 1.62. Where a risk profile capital add-on has been set on a related undertaking, and
 
 that related undertaking is consolidated according to method 1, the group
 supervisor should assess at group level the significance of the deviation of the
 risk profile from the assumptions underlying the solvency capital requirement,
-
-12/15
 
 
 --- Page 13 ---
@@ -754,7 +728,7 @@ as calculated using the standard formula or an internal model, and should
 consider the need for imposing a capital add-on on the group solvency capital
 requirement.
 
-**Guideline 25 – Governance capital add-on when using method 1**
+### **Guideline 25 – Governance capital add-on when using method 1**
 
 1.63. Where a governance capital add-on has been set on a related undertaking of a
 
@@ -764,7 +738,7 @@ from the standards laid down in Articles 41 to 49 of the Solvency II Directive,
 and should consider the need for imposing a capital add-on on the group
 solvency capital requirement.
 
-**Guideline 26 - Assessment of the deviation at the individual level, when a**
+### **Guideline 26 - Assessment of the deviation at the individual level, when a**
 **significant deviation has been identified at group level**
 
 1.64. When a significant deviation has been identified at group level, the supervisory
@@ -779,7 +753,7 @@ deviation from the risk profile or from the system of governance standards, and
 should consider the need for imposing a capital add-on at the level of the
 related undertaking.
 
-**Guideline 27 – Capital add-on when using method 2**
+### **Guideline 27 – Capital add-on when using method 2**
 
 1.66. Where all or part of the group solvency capital requirement is calculated using
 
@@ -811,16 +785,12 @@ months after the issuance of the translated versions.
 
 considered as non-compliant to the reporting and reported as such.
 
-13/15
-
 
 --- Page 14 ---
 
 ## **Final Provision on Reviews **
 
 1.71. The present Guidelines shall be subject to a review by EIOPA.
-
-14/15
 
 
 --- Page 15 ---
@@ -852,6 +822,4 @@ according to Article 335(1)(c) of Commission Delegated Regulation 2015/35, only 
 proportional share of the SCR at individual entity level is included in the above
 
 calculation.
-
-15/15
 

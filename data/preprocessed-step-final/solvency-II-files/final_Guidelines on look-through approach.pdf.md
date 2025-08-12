@@ -4,13 +4,7 @@
 EIOPA-BoS-14/171 EN
 
 
-![**Summary:**
-This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, transparent, diamond-shaped emblem with a circle of twelve gold stars, representing the European Union. Below the emblem is the acronym "eiopa" in a stylized lowercase font, followed by the full name of the authority in all caps.
 
-**Text:**
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A presentation slide with a light blue background features the title "Guidelines on look-through approach" in a bold, black, sans-serif font.
 
@@ -79,8 +73,6 @@ module:
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
 
-2/5
-
 
 --- Page 3 ---
 
@@ -110,7 +102,7 @@ that the durations assigned to the bands are demonstrably prudent.
 should ensure that the credit quality steps assigned to the groups are
 demonstrably prudent.
 
-**Guideline 5 – Data groupings and concentration risk**
+### **Guideline 5 – Data groupings and concentration risk**
 
 1.16 Where in accordance with Article 84 (3) of Commission Delegated Regulation
 
@@ -131,7 +123,7 @@ exposures exists according to which the fund is managed.
 exposures to each group with the exposures of the known single names in their
 asset portfolio.
 
-**Guideline 6 – Indirect exposure to catastrophe risk**
+### **Guideline 6 – Indirect exposure to catastrophe risk**
 
 1.19 When calculating the Solvency Capital Requirement in respect of indirect
 
@@ -141,8 +133,6 @@ undertakings should take into account any credit and catastrophe exposures.
 
 3 OJ L 12, 17.01.2015, p. 1-797
 
-3/5
-
 
 --- Page 4 ---
 
@@ -150,7 +140,7 @@ undertakings should take into account any credit and catastrophe exposures.
 modules as though the underlying catastrophe exposure is directly held by the
 undertaking.
 
-**Guideline 7 – Catastrophe bonds issued by the undertaking**
+### **Guideline 7 – Catastrophe bonds issued by the undertaking**
 
 1.21 Where an undertaking issues catastrophe bonds which do not meet the
 
@@ -165,7 +155,7 @@ features of these bonds.
 Solvency Capital Requirement as though the repayment schedule was not
 contingent on the non-occurrence of a catastrophe event.
 
-**Guideline 8 – Longevity bonds**
+### **Guideline 8 – Longevity bonds**
 
 1.23 Where undertakings buy longevity bonds which do not meet the requirements
 
@@ -210,8 +200,6 @@ requirements for risk-mitigation techniques set out in Articles 208 to 215 of
 Commission Delegated Regulation 2015/35 to increase in value when the
 stresses in the life underwriting risk module are applied.
 
-4/5
-
 
 --- Page 5 ---
 
@@ -240,6 +228,4 @@ considered as non-compliant to the reporting and reported as such.
 ## **Final Provision on Reviews **
 
 1.33 The present Guidelines shall be subject to a review by EIOPA.
-
-5/5
 

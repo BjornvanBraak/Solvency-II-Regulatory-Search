@@ -6,11 +6,7 @@ EIOPA-BoS-15/109 EN
 Guidelines on reporting and public
 
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, translucent rhombus enclosing a circle of twelve yellow stars, representing the European Union. Below the graphic is the stylized lowercase acronym "eiopa" and the full name of the authority in black capital letters.
 
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
 ![A presentation slide with the title 'Guidelines on reporting and public' in bold black text on a light blue background.
 
@@ -103,8 +99,6 @@ p. 1)
 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business
 of Insurance and Reinsurance (Solvency II) (OJ L 12, 17.01.2015, p. 1)
 
-2/18
-
 
 --- Page 3 ---
 
@@ -143,8 +137,6 @@ legal acts referred to in the introduction.
 
 1.12. The Guidelines shall apply from 1 January 2016.
 
-3/18
-
 
 --- Page 4 ---
 
@@ -152,7 +144,7 @@ legal acts referred to in the introduction.
 
 **A. Business and Performance**
 
-**Guideline 1 - Business**
+### **Guideline 1 - Business**
 
 1.13. Under section “A.1 Business” of the SFCR as defined in Annex XX of the
 
@@ -171,7 +163,7 @@ of voting rights held;
 
 c) A simplified group structure.
 
-**Guideline 2 – Performance of other activities**
+### **Guideline 2 – Performance of other activities**
 
 1.14. Under section “A.4. Performance of other activities” of the SFCR as defined in
 
@@ -181,7 +173,7 @@ leasing arrangement, separately for financial and operating leases.
 
 **B. System of Governance**
 
-**Guideline 3 - Governance Structure**
+### **Guideline 3 - Governance Structure**
 
 1.15. Under section “B.1. General information on the system of governance” of the
 
@@ -192,7 +184,7 @@ tasks and how they report to and advise the administrative, management or
 supervisory body of the insurance or reinsurance undertaking (hereinafter
 “AMSB”).
 
-**Guideline 4 - Risk management system for internal model users**
+### **Guideline 4 - Risk management system for internal model users**
 
 1.16. Under section “B.3 Risk management system including the own risk and
 
@@ -203,8 +195,6 @@ information addressing the governance of the internal model:
 
 a) The responsible roles and specific committees if any, their main tasks,
 position and scope of responsibilities;
-
-4/18
 
 
 --- Page 5 ---
@@ -220,7 +210,7 @@ and on-going appropriateness of the internal model).
 
 **C. Risk Profile**
 
-**Guideline 5 - Underwriting risk**
+### **Guideline 5 - Underwriting risk**
 
 1.17. Under section “C.1 Underwriting risk” of the SFCR as defined in Annex XX of the
 
@@ -231,7 +221,7 @@ to it and explain how the fully funded principle is assessed on an ongoing basis
 
 **D. Valuation for Solvency Purposes**
 
-**Guideline 6 – Assets – Information on aggregation by class**
+### **Guideline 6 – Assets – Information on aggregation by class**
 
 1.18. Under section “D.1 Assets” of the SFCR as defined in Annex XX of the Delegated
 
@@ -250,7 +240,7 @@ formats and templates of the solvency and financial condition report should
 only be used if the undertaking is able to demonstrate to the supervisory
 authority that another presentation is clearer and more relevant.
 
-**Guideline 7 – Content by material classes of assets**
+### **Guideline 7 – Content by material classes of assets**
 
 1.20. Under section “D.1 Assets” of the SFCR as defined in Annex XX of the Delegated
 
@@ -267,8 +257,6 @@ i. For material intangible assets: nature of the assets and information
 on the evidence and criteria used to conclude that an active market
 
 exists for those assets;
-
-5/18
 
 
 --- Page 6 ---
@@ -299,7 +287,7 @@ estimations during the reporting period;
 c) Assumptions and judgments including those about the future and other
 major sources of estimation uncertainty.
 
-**Guideline 8 – Valuation of technical provisions**
+### **Guideline 8 – Valuation of technical provisions**
 
 1.21. Under section “D.2 Technical provisions” of the SFCR as defined in Annex XX of
 
@@ -307,7 +295,7 @@ the Delegated Regulation, insurance and reinsurance undertakings should
 describe the significant simplified methods used to calculate technical
 provisions, including those used for calculating the risk margin.
 
-**Guideline 9 – Liabilities other than technical provisions – information on**
+### **Guideline 9 – Liabilities other than technical provisions – information on**
 **aggregation by class**
 
 1.22. Under section “D.3 Other liabilities” of the SFCR as defined in Annex XX of the
@@ -324,12 +312,10 @@ information to the supervisory authorities should only be used if the
 undertaking is able to demonstrate to the supervisory authority that another
 presentation is clearer and more relevant.
 
-6/18
-
 
 --- Page 7 ---
 
-**Guideline 10 – Content by material classes of liabilities other than technical**
+### **Guideline 10 – Content by material classes of liabilities other than technical**
 **provisions**
 
 1.24. Under section “D.3 Other liabilities” of the SFCR as defined in Annex XX of the
@@ -372,7 +358,7 @@ major sources of estimation uncertainty.
 
 **E. Capital Management**
 
-**Guideline 11 - Own funds – Additional solvency ratios**
+### **Guideline 11 - Own funds – Additional solvency ratios**
 
 1.25. Under section “E.1 Own funds” of the SFCR as defined in Annex XX of the
 
@@ -380,15 +366,13 @@ Delegated Regulation, where undertakings disclose additional ratios to the ones
 included in template S.23.01, the SFCR should also include an explanation on
 the calculation and meaning of the additional ratios.
 
-**Guideline 12 - Own funds – Information on the structure, amount, quality**
+### **Guideline 12 - Own funds – Information on the structure, amount, quality**
 **and eligibility of own funds**
 
 1.26. Under section “E.1 Own funds” of the SFCR as defined in Annex XX of the
 
 Delegated Regulation, insurance and reinsurance undertakings should,
 regarding their own funds, describe at least the following information:
-
-7/18
 
 
 --- Page 8 ---
@@ -450,8 +434,6 @@ this movement;
 iii. the extent to which the amount calculated is affected by past
 experience, including the outcome of past calls.
 
-8/18
-
 
 --- Page 9 ---
 
@@ -465,7 +447,7 @@ ii. the extent of and reasons for significant restrictions on, deductions
 
 from or encumbrances of own funds.
 
-**Guideline 13 - Differences between the standard formula and internal models**
+### **Guideline 13 - Differences between the standard formula and internal models**
 
 **used**
 
@@ -500,7 +482,7 @@ determined in accordance with Article 335 of the Delegated Regulation.
 
 **E. Capital Management**
 
-**Guideline 15 - Information on own funds - groups**
+### **Guideline 15 - Information on own funds - groups**
 
 1.29. Under section “E.1 Own funds” of the group SFCR as defined in Annex XX of the
 
@@ -515,8 +497,6 @@ insurance holding company or mixed financial holding company;
 b) Where material own funds are issued by an equivalent third country
 insurance or reinsurance undertaking included via the Deduction and
 Aggregation method, if the Member State allows the use of local rules, the
-
-9/18
 
 
 --- Page 10 ---
@@ -541,7 +521,7 @@ funds items in the related undertakings, if any.
 
 **Business and Performance**
 
-**Guideline 16 - Business**
+### **Guideline 16 - Business**
 
 1.30. Under section “A.1 Business” of the RSR as defined in Annex XX of the
 
@@ -552,7 +532,7 @@ a) the number of full time equivalent employees;
 
 b) a list of all related undertakings and branches.
 
-**Guideline 17 - Underwriting performance**
+### **Guideline 17 - Underwriting performance**
 
 1.31. Under section “A.2 Underwriting performance” of the RSR as defined in Annex
 
@@ -566,7 +546,7 @@ b) the effectiveness of the risk mitigation techniques.
 
 **B. System of Governance**
 
-**Guideline 18 - Governance structure**
+### **Guideline 18 - Governance structure**
 
 1.32. Under section “B.1 General information on the system of governance” of the
 
@@ -576,8 +556,6 @@ undertakings should explain:
 a) the internal organisational structure, including a detailed organisational
 structure chart and positions of key function holders;
 
-10/18
-
 
 --- Page 11 ---
 
@@ -585,7 +563,7 @@ b) how the undertaking’s remuneration policy and practices are consistent
 with and promote sound and effective risk management and do not
 encourage excessive risk taking.
 
-**Guideline 19 - Risk management system**
+### **Guideline 19 - Risk management system**
 
 1.33. Under section “B.3 Risk management system including the own risk and
 
@@ -609,7 +587,7 @@ models and at least describe the process in place for checking data quality.
 
 **C. Risk Profile**
 
-**Guideline 20 – Other material risks**
+### **Guideline 20 – Other material risks**
 
 1.34. Under section “C.6 Other material risks” of the RSR as defined in Annex XX of
 
@@ -639,14 +617,12 @@ ii. the amount of outstanding balances, if any;
 
 iii. relevant terms and conditions of the transactions.
 
-11/18
-
 
 --- Page 12 ---
 
 **D. Valuation for Solvency Purposes**
 
-**Guideline 21 – Valuation of other assets**
+### **Guideline 21 – Valuation of other assets**
 
 1.35. Under section “D.1 Assets” of the RSR as defined in Annex XX of the Delegated
 
@@ -663,7 +639,7 @@ reporting templates S.03.03 as defined in the Implementing Technical
 Standard on the templates for the submission of information to the
 supervisory authorities.
 
-**Guideline 22 - Technical provisions**
+### **Guideline 22 - Technical provisions**
 
 1.36. Under section “D.2 Technical provisions” of the RSR as defined in Annex XX of
 
@@ -700,8 +676,6 @@ provisions;
 g) Any recommendations on the implementation of improvements in the
 internal procedures in relation to data that are considered relevant;
 
-12/18
-
 
 --- Page 13 ---
 
@@ -728,7 +702,7 @@ m) Details of the approach used to calculate material reinsurance
 
 recoverables.
 
-**Guideline 23 – Off-balance sheet items**
+### **Guideline 23 – Off-balance sheet items**
 
 1.37. Under section “D.1. Assets” or “D.3 Other liabilities” of the RSR as defined in
 
@@ -740,7 +714,7 @@ supervisory authorities.
 
 **E. Capital Management**
 
-**Guideline 24 – Distributions to shareholders**
+### **Guideline 24 – Distributions to shareholders**
 
 1.38. Under section “E.1 Own Funds” of the RSR as defined in Annex XX of the
 
@@ -748,7 +722,7 @@ Delegated Regulation, insurance and reinsurance undertakings should provide
 
 details on the amount of distributions made to shareholders.
 
-**Guideline 25 – Simplified calculation in the standard formula**
+### **Guideline 25 – Simplified calculation in the standard formula**
 
 1.39. Under section “E.2 Solvency Capital Requirement and Minimum Capital
 
@@ -757,8 +731,6 @@ insurance and reinsurance undertakings should, if material, explain how the use
 of a simplified calculation in the SCR standard formula is justified by the nature,
 scale and complexity of the risks faced by the undertaking.
 
-13/18
-
 
 --- Page 14 ---
 
@@ -766,7 +738,7 @@ scale and complexity of the risks faced by the undertaking.
 
 **B. System of Governance**
 
-**Guideline 26 – Preparation of consolidated data**
+### **Guideline 26 – Preparation of consolidated data**
 
 1.40. Under section “B.1 General information on the system of governance” of the
 
@@ -786,7 +758,7 @@ the contributions to group data from third country undertakings and nonregulated
 
 **C. Risk Profile**
 
-**Guideline 27 - Any other material information on business**
+### **Guideline 27 - Any other material information on business**
 
 1.41. Under section “C.6 Other material risks ” of the group RSR as defined in Annex
 
@@ -817,12 +789,10 @@ group should be reported;
 f) Extent to which the operation or transaction is depending on a winding-up
 and circumstances in which the operation or transaction can be executed.
 
-14/18
-
 
 --- Page 15 ---
 
-**Guideline 28 - Risk profile**
+### **Guideline 28 - Risk profile**
 
 1.42. Under section “C.6 Other material risks” of the group RSR as defined in Annex
 
@@ -861,7 +831,7 @@ item.
 
 **D. Valuation for Solvency Purposes**
 
-**Guideline 29 - Technical provisions**
+### **Guideline 29 - Technical provisions**
 
 1.43. Under section “D.2 Technical provisions” of the RSR as defined in Annex XX of
 
@@ -880,8 +850,6 @@ level affect the measures used at individual level;
 c) information on bases, methods and assumptions used for the calculation of
 the contribution of technical provisions from third country insurance and
 
-15/18
-
 
 --- Page 16 ---
 
@@ -890,7 +858,7 @@ rules from equivalent regime where allowed.
 
 **Section III - Supervisory reporting following pre-defined events**
 
-**Guideline 30 - Identification and trigger for reporting of pre-defined events**
+### **Guideline 30 - Identification and trigger for reporting of pre-defined events**
 
 1.44. Insurance and reinsurance undertakings should immediately notify in writing
 
@@ -903,7 +871,7 @@ authorities whether a given event would classify as a pre-defined event.
 
 **Section IV - Public Disclosure and Supervisory Reporting Processes**
 
-**Guideline 31 - Public disclosure policy**
+### **Guideline 31 - Public disclosure policy**
 
 1.45. Insurance and reinsurance undertakings should have a public disclosure policy
 
@@ -929,33 +897,31 @@ II Directive;
 f) additional information that the undertaking has decided to voluntarily
 disclose under Article 54 (2) of Solvency II Directive.
 
-**Guideline 32 - SFCR - Non-disclosure of information**
+### **Guideline 32 - SFCR - Non-disclosure of information**
 
 1.46. Insurance and reinsurance undertakings should not enter into a contractual
 
 obligation binding them to secrecy or confidentiality of information that is
 required to be disclosed under the SFCR.
 
-16/18
-
 
 --- Page 17 ---
 
-**Guideline 33 – Format of quantitative reporting templates**
+### **Guideline 33 – Format of quantitative reporting templates**
 
 1.47. Insurance and reinsurance undertakings should consider the data point model
 
 as published by EIOPA [4] when reporting information included in the quantitative
 reporting templates.
 
-**Guideline 34 – Validations**
+### **Guideline 34 – Validations**
 
 1.48. Insurance and reinsurance undertakings should ensure that the data submitted
 
 in the quantitative reporting templates comply with the validations rules
 published by EIOPA [5] .
 
-**Guideline 35 - RSR – References to other documents**
+### **Guideline 35 - RSR – References to other documents**
 
 1.49. When insurance and reinsurance undertakings refer in the RSR to other
 
@@ -968,7 +934,7 @@ to other documents that are not subject to reporting to their supervisory
 
 authorities.
 
-**Guideline 36 – Supervisory reporting policy**
+### **Guideline 36 – Supervisory reporting policy**
 
 1.51. Insurance and reinsurance undertakings should ensure that the supervisory
 
@@ -984,7 +950,7 @@ requirements, review and approval;
 c) explanation of processes and controls for ensuring the reliability,
 completeness and consistency of the data provided.
 
-**Guideline 37 – Approval of information submitted to the supervisory**
+### **Guideline 37 – Approval of information submitted to the supervisory**
 
 **authorities**
 
@@ -1001,8 +967,6 @@ who effectively run the insurance or reinsurance undertaking before submitting
 them to the supervisory authority concerned.
 
 4 5 [https://eiopa.europa.eu/regulation-supervision/insurance/reporting-format](https://eiopa.europa.eu/regulation-supervision/insurance/reporting-format)
-
-17/18
 
 
 --- Page 18 ---
@@ -1055,6 +1019,4 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Reviews**
 
 1.61. The present Guidelines shall be subject to a review by EIOPA.
-
-18/18
 
