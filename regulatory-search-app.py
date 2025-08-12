@@ -266,8 +266,8 @@ generation_instructions = load_prompt("prompt/solvency_II_instructions.md")
 system_instructions_dict = {"role": "system", "content": generation_instructions}
 
 # INITIALIZE SESSION STATE
-if "document_link_through_link" not in st.session_state:
-    st.session_state["document_link_through_link"] = None
+# if "document_link_through_link" not in st.session_state:
+#     st.session_state["document_link_through_link"] = None
 
 if 'pdf_to_display' not in st.session_state:
     st.session_state.pdf_to_display = None
@@ -291,17 +291,23 @@ def close_pdf_display():
     # update both session state
     # st.session_state["document_link_through_link"] = None
     # there should be an easier way to do this, but this works
-    st.session_state.pdf_to_display = None
-    st.session_state.pdf_page_number = None
+    # st.session_state.pdf_to_display = None
+    # st.session_state.pdf_page_number = None
     # print("PDF display closed.")
+    print(f"[close_pdf_display] Closing PDF display, setting pdf_to_display to None")
     st.session_state.message_to_component = {"type": "CLEAR_PDF"}
 
 
 def set_pdf_to_display(pdf_link, page_number=None):
+    if pdf_link == st.session_state.pdf_to_display and page_number == st.session_state.pdf_page_number:
+        print(f"PDF already set to {st.session_state.pdf_to_display} on page {st.session_state.pdf_page_number}, no need to update.")
+        return
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
-    # print(f"Setting pdf to display: {pdf_link}")
-    st.session_state.pdf_to_display = pdf_link
-    st.session_state.pdf_page_number = page_number
+    print(f"Changing pdf to display: {st.session_state.pdf_to_display}, to pdf {pdf_link}")
+    # print(f"Setting pdf to display: {pdf_link} on page: {page_number}")
+    # st.session_state.pdf_to_display = pdf_link
+    # st.session_state.pdf_page_number = page_number
+    st.session_state.message_to_component = {"type": 'POPOVER_CLICKED', "documentLink": pdf_link, "pageNumber": page_number}
     # print(f"Set pdf to display: {st.session_state.pdf_to_display}")
 
 def displayPDF(file_name, page_number=None):
@@ -322,7 +328,7 @@ def displayPDF(file_name, page_number=None):
         print(f"Page number is not an integer: {page_number}, type: {type(page_number)}")
         raise Exception("Page number must be an integer")
     
-    print(f"[displayPDF] UNSECURE File name: {file_name}, page number: {page_number}")
+    # print(f"[displayPDF] UNSECURE File name: {file_name}, page number: {page_number}")
 
     secure_page_number = str(page_number) if page_number is not None else ""
 
@@ -355,7 +361,7 @@ if st.session_state.message_to_component:
         </script>
     """, height=0, width=0)
     # Important: Clear the message after sending it to prevent resending on subsequent reruns
-    st.session_state.message_to_component = None
+    # st.session_state.message_to_component = None
 
 # SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
 with sidebar:
@@ -367,22 +373,25 @@ with sidebar:
     if not result == 0:
         document_link_through_link = result["documentLink"]
         page_number_through_link = int(result["pageNumber"]) if isinstance(result["pageNumber"], str) else result["pageNumber"]
-    prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
-    prev_page_number_through_link = st.session_state.get("pdf_page_number", None)
+    # prev_document_link_through_link = st.session_state.get("document_link_through_link", None)
+    # prev_page_number_through_link = st.session_state.get("pdf_page_number", None)
     # print(f"Document link through link: {document_link_through_link}, page number: {page_number_through_link}")
 
 # print(f"Document link through link: {document_link_through_link}, prev: {prev_document_link_through_link}   ")
-if document_link_through_link != prev_document_link_through_link or page_number_through_link != prev_page_number_through_link:
-    # print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
-    # print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
-    # update pdf to display if change is detected
-    # st.session_state.pdf_to_display = document_link_through_link
-    if document_link_through_link == 0 and prev_document_link_through_link != 0:
-        print("PDF is cleared") # so no need to rerender
-        # st.session_state.document_link_through_link = None
-    else: 
-        set_pdf_to_display(document_link_through_link, page_number=page_number_through_link) 
-    st.session_state["document_link_through_link"] = document_link_through_link
+# if document_link_through_link != prev_document_link_through_link or page_number_through_link != prev_page_number_through_link:
+#     # print(f"Changed Document Link: {document_link_through_link}, previous: {prev_document_link_through_link}")
+#     # print(f"type of document link: {type(document_link_through_link)}, previous: {type(prev_document_link_through_link)}")
+#     # update pdf to display if change is detected
+#     # st.session_state.pdf_to_display = document_link_through_link
+#     if st.session_state.document_link_through_link == "JUST_CLOSED":
+#         print("JUST CLOSED")
+#         st.session_state.document_link_through_link = st.session_state.pdf_to_display
+#     else: 
+#         set_pdf_to_display(document_link_through_link, page_number=page_number_through_link) 
+#     st.session_state["document_link_through_link"] = document_link_through_link
+
+st.session_state.pdf_to_display = document_link_through_link
+st.session_state.pdf_page_number = page_number_through_link
 
 print(f"Loaded document link link: {document_link_through_link}")
 
@@ -537,9 +546,6 @@ with chat_col:
                 thought_expander = st.expander("**Thoughts...**")
                 thought_expander.write(message["thoughts"])
 
-        
-        
-        # message version 1, with raw html
         with footer:
             components.html(popover_elements_event_listener, height=0, width=0) 
 
@@ -568,8 +574,8 @@ with chat_col:
 
         if "sources" in message:
             with messages_container.chat_message("assistant", avatar="🔗"): 
-                print("message sources: ")
-                pprint.pprint(message["sources"])
+                # print("message sources: ")
+                # pprint.pprint(message["sources"])
                 displaySources(message["sources"])
 
         # add token count
@@ -657,7 +663,7 @@ with chat_col:
 
             heading_hierarchy = [header_1, header_2, header_3, header_4, header_5]
 
-            print(f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else "")
+            # print(f"\n* keywords: {chunk.metadata["keywords"]}\n" if "keywords" in chunk.metadata  and chunk.metadata["keywords"] != "" else "")
 
             source_metadata = ""
             source_metadata += f"* Title: {title}"
@@ -723,7 +729,7 @@ with chat_col:
         """
 
         # add sources to session state
-        print(f"Document sources: {document_sources}")
+        # print(f"Document sources: {document_sources}")
 
         st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt, "token_count": count_tokens(prompt)})
         
