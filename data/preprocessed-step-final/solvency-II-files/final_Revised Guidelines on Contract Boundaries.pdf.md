@@ -1,16 +1,8 @@
 
 --- Page 1 ---
-
 # **Revised Guidelines on Contract ** **Boundaries**
-
-
-
-
 --- Page 2 ---
-
-
-
-### *Guideline 0 - Contract Boundaries (New Guideline)*
+#### *Guideline 0 - Contract Boundaries (New Guideline)*
 
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
 
@@ -24,7 +16,7 @@ using realistic assumptions, which means that the projection of cash flows might
 
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
 
-### *Guideline 5 - Contract Boundaries (Amended Guideline)*
+#### *Guideline 5 - Contract Boundaries (Amended Guideline)*
 
 2. Insurance and reinsurance undertakings should assess whether at recognition date it is
 
@@ -66,16 +58,11 @@ to insurance or reinsurance obligations.
 
 should be treated as an independent contract.
 
-### *Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted*
+#### *Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted*
 
 *Guideline)*
-
-
 --- Page 3 ---
-
-
-
-*Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the*
+#### *Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the*
 *economics of a contract (New Guideline)*
 
 8. When determining whether a financial guarantee has no discernible effect on the
@@ -132,19 +119,14 @@ valuation any form of guaranteed benefits stemming from the financial guarantee.
 
 consideration of the time value of options and guarantees is relevant for this assessment.
 
-*Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the*
+#### *Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the*
 
 *insured person with a discernible effect on the economics of a contract (New Guideline)*
 
 13. When determining whether the coverage for a specified uncertain event that adversely
 
 affects the insured person (cover) has no discernible effect on the economics of a
-
-
 --- Page 4 ---
-
-
-
 contract, insurance and reinsurance undertakings should take into account all potential
 
 future cash flows, which may arise from the contract.
@@ -183,7 +165,7 @@ the cover insurance and reinsurance undertakings should consider all obligations
 
 Considering potential future scenarios in some cases is relevant for this assessment.
 
-*Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New*
+#### *Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New*
 
 *Guideline)*
 
@@ -212,12 +194,7 @@ boundaries was performed and do a reassessment only in case these changes are
 extreme. For this purpose, the changes on the relevant risk-free interest rate term
 
 structure used to calculate the best estimate as referred to in Article 77(2) of the Solvency
-
-
 --- Page 5 ---
-
-
-
 II Directive that are less extreme than the interest rate stress of the Standard Formula
 
 should not be considered to be extreme.
@@ -257,8 +234,7 @@ the stressed scenarios used to calculate the SCR.
 Compliance and Reporting Rules
 
 24. This document contains guidelines issued under Article 16 of Regulation (EU) No
-
-1094/2010. In accordance with Article 16(3) of that Regulation, competent authorities and
+. In accordance with Article 16(3) of that Regulation, competent authorities and
 financial institutions are required to make every effort to comply with guidelines and
 recommendations.
 25. Competent authorities that comply or intend to comply with these Guidelines should
@@ -276,4 +252,3 @@ non-compliant to the reporting and reported as such.
 Final provision on review
 
 28. These Guidelines will be subject to a review by EIOPA.
-

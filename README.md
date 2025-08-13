@@ -143,6 +143,14 @@ Future research
     - instruction-aware / task_type reranker Qwen3-Reranker and Gemini Reranker
     - added UI indicators in case of extremely good or bad relevance scores of rerankers.
 
+### 4.1 
+- exposed new meta_data, such as page_numbers in UI
+- consolidate pdf_to_display into one state.
+- revamped the way sources are displayed
+- .md files solvency II, level 1 and level 2 & guidelines
+    - removal of unnecessary \n at page end and page start (interferes with recursive text splitting )
+    - improved headers for guidelines files
+
 ## suggestions for future versions
 
 ### general

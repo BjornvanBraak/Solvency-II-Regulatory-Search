@@ -69,8 +69,7 @@ lished in the Official Journal) and Council Decision of 10 November
 relating to direct insurance other than life assurance and
 laying down provisions to facilitate the effective exercise of
 freedom to provide services ( [6] ); Council Directive
-
-92/49/EEC of 18 June 1992 on the coordination of laws,
+/EEC of 18 June 1992 on the coordination of laws,
 regulations and administrative provisions relating to direct
 insurance other than life assurance (third non-life insur­
 ance Directive) ( [7] ); Directive 98/78/EC of the European
@@ -172,8 +171,7 @@ use of motor vehicles ( [3] ); Directive 2004/39/EC of the
 
 European Parliament and of the Council of 21 April 2004
 on markets in financial instruments ( [4] ); and Directive
-
-2006/48/EC of the European Parliament and of the Coun­
+/EC of the European Parliament and of the Coun­
 cil of 14 June 2006 relating to the taking up and pursuit
 of the business of credit institutions ( [5] ) lay down general
 
@@ -847,8 +845,7 @@ of the criteria and the process of prudential assessment is
 therefore needed to provide the necessary legal certainty,
 clarity and predictability with regard to the assessment
 process, as well as to the result thereof. Those criteria and
-procedures were introduced by provisions in Directive
-2007/44/EC. As regards insurance and reinsurance those
+procedures were introduced by provisions in Directive/EC. As regards insurance and reinsurance those
 provisions should therefore be codified and integrated into
 this Directive.
 
@@ -1421,8 +1418,7 @@ Since those measures are of general scope and are designed
 to amend non-essential elements of this Directive, *inter alia*,
 by supplementing it with non-essential elements, they
 must be adopted in accordance with the regulatory proce­
-dure with scrutiny laid down in Article 5a of Decision
-1999/468/EC.
+dure with scrutiny laid down in Article 5a of Decision/EC.
 
 (133) Since the objectives of this Directive cannot be sufficiently
 achieved by the Member States and can therefore, by rea­
@@ -1468,8 +1464,7 @@ ance other than life assurance [4] ); and Council Directive
 -----
 
 
-
-84/641/EECof 10 December 1984 amending, particularly
+/EECof 10 December 1984 amending, particularly
 as regards tourist assistance, First Directive (73/239/EEC)
 on the coordination of laws, regulations and administra­
 tive provisions relating to the taking-up and pursuit of the
@@ -2486,8 +2481,7 @@ financial market which fulfils the following conditions:
 
 (i) it is recognised by the home Member State of the
 insurance undertaking and fulfils requirements
-comparable to those laid down in Directive
-2004/39/EC; and
+comparable to those laid down in Directive/EC; and
 
 (ii) the financial instruments dealt in on that market
 are of a quality comparable to that of the instru­
@@ -3026,8 +3020,7 @@ Member States shall not take into account voting rights or shares
 which investment firms or credit institutions may hold as a result
 of providing the underwriting of financial instruments and/or
 placing of financial instruments on a firm commitment basis
-included under point (6) of Section A of Annex I to Directive
-2004/39/EC, provided that those rights are, on the one hand, not
+included under point (6) of Section A of Annex I to Directive/EC, provided that those rights are, on the one hand, not
 exercised or otherwise used to intervene in the management of
 the issuer and, on the other, disposed of within one year of the
 acquisition.
@@ -4413,8 +4406,7 @@ seeking to acquire or increase a qualifying holding, indicating the
 
 size of the intended holding and relevant information, as referred
 to in Article 59(4). Member States need not apply the 30 %
-threshold where, in accordance with Article 9(3)(a) of Directive
-2004/109/EC, they apply a threshold of one third.
+threshold where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 
 2. Member States shall require any natural or legal person who
 has taken a decision to dispose, directly or indirectly, of a quali­
@@ -4427,8 +4419,7 @@ ing so that the proportion of the voting rights or of the capital
 held would fall below 20 %, 30 % or 50 % or so that the insur­
 ance or reinsurance undertaking would cease to be a subsidiary of
 that person. Member States need not apply the 30 % threshold
-where, in accordance with Article 9(3)(a) of Directive
-2004/109/EC, they apply a threshold of one third.
+where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 
 ##### Article 58
 
@@ -4477,8 +4468,7 @@ Directive, Council Directive 85/611/EEC of 20 December
 1985 on the coordination of laws, regulations and adminis­
 trative provisions relating to undertakings for collective
 investment in transferable securities (UCITS) ( [1] ), Directive
-
-2004/39/EC, or Directive 2006/48/EC.
+/EC, or Directive 2006/48/EC.
 
 4. If the supervisory authorities, upon completion of the
 assessment, decide to oppose the proposed acquisition, they shall,
@@ -4698,8 +4688,7 @@ Member States shall not take into account voting rights or shares
 which investment firms or credit institutions may hold as a result
 of providing the underwriting of financial instruments and/or
 placing of financial instruments on a firm commitment basis
-included under point 6 of Section A of Annex I to Directive
-2004/39/EC, provided that those rights are, on the one hand, not
+included under point 6 of Section A of Annex I to Directive/EC, provided that those rights are, on the one hand, not
 exercised or otherwise used to intervene in the management of
 the issuer and, on the other, disposed of within one year of
 acquisition.
@@ -4999,8 +4988,7 @@ approval of persons responsible for carrying out the statutory
 audits of accounting documents ( [1] ), who perform in an insurance
 
 or reinsurance undertaking the statutory audit referred to in
-Article 51 of Directive 78/660/EEC, Article 37 of Directive
-83/349/EEC or Article 31 of Directive 85/611/EEC or any other
+Article 51 of Directive 78/660/EEC, Article 37 of Directive/EEC or Article 31 of Directive 85/611/EEC or any other
 statutory task, shall have a duty to report promptly to the super­
 visory authorities any fact or decision concerning that undertak­
 ing of which they have become aware while carrying out that task
@@ -5029,8 +5017,7 @@ relationship with the insurance or reinsurance undertaking within
 which they are carrying out that task.
 
 2. The disclosure in good faith to the supervisory authorities,
-by persons authorised within the meaning of Directive
-84/253/EEC, of any fact or decision referred to in paragraph 1
+by persons authorised within the meaning of Directive/EEC, of any fact or decision referred to in paragraph 1
 shall not constitute a breach of any restriction on disclosure of
 information imposed by contract or by any legislative, regulatory
 or administrative provision and shall not involve such persons in
@@ -9662,8 +9649,7 @@ where the participating insurance or reinsurance undertaking or
 the insurance holding company which has its head office in the
 Community is a related undertaking of a regulated entity or a
 mixed financial holding company which is subject to supplemen­
-tary supervision in accordance with Article 5(2) of Directive
-2002/87/EC, the group supervisor may, after consulting the other
+tary supervision in accordance with Article 5(2) of Directive/EC, the group supervisor may, after consulting the other
 supervisory authorities concerned, decide not to carry out at the
 level of that participating insurance or reinsurance undertaking or
 that insurance holding company the supervision of risk concen­
@@ -13683,9 +13669,7 @@ the field covered by this Directive.
 
 **Repeal**
 
-Directives 64/225/EEC, 73/239/EEC, 73/240/EEC, 76/580/EEC,
-78/473/EEC, 84/641/EEC, 87/344/EEC, 88/357/EEC, 92/49/EEC,
-98/78/EC, 2001/17/EC, 2002/83/EC and 2005/68/EC, as
+Directives 64/225/EEC, 73/239/EEC, 73/240/EEC, 76/580/EEC,/EEC, 84/641/EEC, 87/344/EEC, 88/357/EEC, 92/49/EEC,/EC, 2001/17/EC, 2002/83/EC and 2005/68/EC, as
 amended by the acts listed in Part A of Annex VI, are repealed
 with effect from 1 November 2012, without prejudice to the obli­
 gations of the Member States relating to the time-limits for trans­
@@ -14726,107 +14710,71 @@ PART B
 
 Directive Time-limit for transposition Time-limit for application
 
-
-64/225/EEC 26 August 1965
-
-73/239/EEC 27 January 1975 27 January 1976
-
-73/240/EEC 27 January 1975
-
-76/580/EEC 31 December 1976
-
-78/473/EEC 2 December 1979 2 June 1980
-
-84/641/EEC 30 June 1987 1 January 1988
-
-87/343/EEC 1 January 1990 1 July 1990
-
-87/344/EEC 1 January 1990 1 July 1990
-
-88/357/EEC 30 December 1989 30 June 1990
-
-90/618/EEC 20 May 1992 20 November 1992
-
-92/49/EEC 31 December 1993 1 July 1994
-
-95/26/EC 18 July 1996 18 July 1996
-
-98/78/EC 5 June 2000
-
-2000/26/EC 20 July 2002 20 January 2003
-
-2000/64/EC 17 November 2002
-
-2001/17/EC 20 April 2003
-
-2002/13/EC 20 September 2003
-
-2002/83/EC 17 November 2002, 20 Septem­
+/EEC 26 August 1965
+/EEC 27 January 1975 27 January 1976
+/EEC 27 January 1975
+/EEC 31 December 1976
+/EEC 2 December 1979 2 June 1980
+/EEC 30 June 1987 1 January 1988
+/EEC 1 January 1990 1 July 1990
+/EEC 1 January 1990 1 July 1990
+/EEC 30 December 1989 30 June 1990
+/EEC 20 May 1992 20 November 1992
+/EEC 31 December 1993 1 July 1994
+/EC 18 July 1996 18 July 1996
+/EC 5 June 2000
+/EC 20 July 2002 20 January 2003
+/EC 17 November 2002
+/EC 20 April 2003
+/EC 20 September 2003
+/EC 17 November 2002, 20 Septem­
 ber 2003, 19 June 2004 (depending
 upon particular provision)
-
-2002/87/EC 11 August 2004
-
-2004/66/EC 1 May 2004
-
-2005/1/EC 13 May 2005
-
-2005/14/EC 11 June 2007
-
-2005/68/EC 10 December 2007
-
-2006/101/EC 1 January 2007
-
-2008/19/EC Not applicable
-
-2008/37/EC Not applicable
+/EC 11 August 2004
+/EC 1 May 2004
+/EC 13 May 2005
+/EC 11 June 2007
+/EC 10 December 2007
+/EC 1 January 2007
+/EC Not applicable
+/EC Not applicable
 
 
 -----
 
-Directive
-2001/17/EC
+Directive/EC
 
 
-Directive
-73/239/EEC
+Directive/EEC
 
 
-Directive
-78/473/EEC
+Directive/EEC
 
 
-Directive
-87/344/EEC
+Directive/EEC
 
 
-Directive
-88/357/EEC
+Directive/EEC
 
 
-Directive
-92/49/EEC
+Directive/EEC
 
 
 # *ANNEX VII*
 
 **CORRELATION TABLE**
 
-Directive
-98/78/EC
+Directive/EC
+
+
+Directive/EC
+
+
+Directive/EC
 
 
 Directive
-2002/83/EC
-
-
-Directive
-2005/68/EC
-
-
-Directive
-This Directive
-2007/44/EC
+This Directive/EC
 
 
 Article 1(1) Article 2 Article 1(1) Article 2 FIRST
@@ -14895,8 +14843,7 @@ Article 15(4)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 3(1), FIRST
@@ -14966,8 +14913,7 @@ points (a) and (b)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 7(1)
@@ -15120,8 +15066,7 @@ Article 6(2) Article 7 Article 19
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 8(1a) Article 6(3) Article 8 Article 20
 
@@ -15248,8 +15193,7 @@ subparagraph
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 10(2),
@@ -15366,8 +15310,7 @@ Article 13(3) Article 9(3) Article 10(3) Article 15(4)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 14 Article 10 Article 11 Article 16 Article 33
 
@@ -15478,8 +15421,7 @@ Article 34(1)-(3),
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 34(8)
@@ -15695,8 +15637,7 @@ Article 20a(2) Article 38(2) Article 141
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 20a(3) Article 38(3) Article 43(4) Article 140(2)
 
@@ -15835,8 +15776,7 @@ Article 25 Article 55 Article 166
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 26 Article 56 Article 167
 
@@ -15930,8 +15870,7 @@ and (3)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 34 Article 9 Article 29 Article 11(5) Article 6(5),
@@ -16011,8 +15950,7 @@ Article 5 Article 193
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 6 Article 195
 
@@ -16092,8 +16030,7 @@ Article 13(13)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 2,
@@ -16177,8 +16114,7 @@ Article 12a(1)-(3) Article 150
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 12a(4)
@@ -16287,8 +16223,7 @@ point (a)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 1,
@@ -16429,8 +16364,7 @@ Article 12(3)-(6) Article 14(2)-(5) Article 39(2)-(6)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 15(1)
@@ -16526,8 +16460,7 @@ points (a)-(c)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 16a(1),
@@ -16610,8 +16543,7 @@ Article 184
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 44(2) Article 49 Article 159 and
 Annex V
@@ -16676,8 +16608,7 @@ Article 13(3)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 1,
@@ -16748,8 +16679,7 @@ Article 7 Article 59(5) Articles 249(1),
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 8 Article 59(5) Articles 245, 246,
 258(1)
@@ -16822,8 +16752,7 @@ point (a)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 2, point (i) Article 268(1),
 point (e)
@@ -16892,8 +16821,7 @@ Article 26 Article 292
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 27 Article 293
 
@@ -16969,8 +16897,7 @@ Article 21(1)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 
 Article 7,
@@ -17049,8 +16976,7 @@ Annex III(A) Article 185(6)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 36(3) Article 185(7)
 
@@ -17131,8 +17057,7 @@ and (3)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 66 Article 308
 
@@ -17203,8 +17128,7 @@ Article 2(2)
 -----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
-Tsih Derivitce
-73/239E/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
+Tsih DerivitceE/EC 78/473E/EC 87/344E/EC 88/357E/EC 92/49E/EC 98/78E/C 2001/17E/C 2002/83E/C 2005/68E/C 2007/44E/C
 
 Article 4(2) Article 15(5)
 

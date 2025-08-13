@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 EIOPA-BoS-14/168 EN
 
 
@@ -17,14 +16,10 @@ Guidelines on classification of own funds](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
-
-
 --- Page 2 ---
-
 ## **Introduction **
 
-1.1. These Guidelines are drafted according to Article 16 of Regulation (EU) No
-1094/2010 of the European Parliament and of the Council of 24 November 2010
+1.1. These Guidelines are drafted according to Article 16 of Regulation (EU) No of the European Parliament and of the Council of 24 November 2010
 establishing a European Supervisory Authority (hereinafter “EIOPA
 Regulation”) [1] .
 
@@ -34,8 +29,7 @@ European Parliament and of the Council of 25 November 2009 on the taking up
 and pursuit of the business of Insurance and Reinsurance (hereinafter
 “Solvency II”) [2] as well as to Articles 69 to 73, 76, 77, 79 and 82 of Commission
 Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing
-Directive 2009/138/EC (hereinafter “Commission Delegated Regulation
-2015/35”) [3] .
+Directive 2009/138/EC (hereinafter “Commission Delegated Regulation”) [3] .
 
 1.3. These Guidelines are addressed to supervisory authorities under Solvency II.
 
@@ -74,10 +68,7 @@ the nominal value of the share at issuance or the value received at issuance
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
-
-
 --- Page 3 ---
-
 and the value recognised in share capital, are transferred in accordance with
 
 national law.
@@ -123,8 +114,7 @@ decrease in own funds of the undertaking.
 
 full flexibility. The Guidelines make it clear that the use of dividend stoppers,
 capping or restricting the level or amount of distributions to be made on the
-item referred to in Article 69(a)(i) of Commission Delegated Regulation
-2015/35, in any own-fund item, regardless of the tier, that would prevent
+item referred to in Article 69(a)(i) of Commission Delegated Regulation, in any own-fund item, regardless of the tier, that would prevent
 payment on Tier 1 items is prohibited as they could discourage new providers of
 own funds and thus represent a hindrance to recapitalisation.
 
@@ -134,10 +124,7 @@ at the point of the trigger, the terms of the contractual arrangement should be
 clearly defined and legally certain, and capable of being applied without delay.
 The Guidelines explain that while a future write-up is generally permitted, this
 mechanism should not undermine the loss absorbency and should only be
-
-
 --- Page 4 ---
-
 allowed on the basis of profits generated after restoring compliance with the
 
 SCR.
@@ -168,8 +155,7 @@ developed:
 
 ‘Item not on the lists’ means an own-fund item not included in the lists set
 
-out in Articles 69, 72 and 76 of Commission Delegated Regulation
-2015/35.
+out in Articles 69, 72 and 76 of Commission Delegated Regulation.
 
 1.18. If not defined in these Guidelines, the terms have the meaning defined in the
 
@@ -178,11 +164,10 @@ legal acts referred to in the introduction.
 1.19. The Guidelines shall apply from 1 April 2015.
 ## **Section 1: Tier 1 items **
 
-### **Guideline 1 - Tier 1 paid-in ordinary share capital and preference shares**
+#### **Guideline 1 - Tier 1 paid-in ordinary share capital and preference shares**
 
 1.20. For the purposes of Article 69(a)(i) of Commission Delegated Regulation
-
-2015/35, undertakings should identify paid-in ordinary share capital by the
+, undertakings should identify paid-in ordinary share capital by the
 following properties:
 
 (a) the shares are issued directly by the undertaking with the prior approval of
@@ -203,10 +188,7 @@ cap.
 
 Regulation 2015/35, identify the differences between classes which
 provide for one class to rank ahead of another or which create any
-
-
 --- Page 5 ---
-
 preference as to distributions, and only consider as possible Tier 1 ordinary
 share capital the class which ranks after all other claims and has no
 preferential rights;
@@ -218,16 +200,14 @@ classified as Tier 1 ordinary share capital in accordance with point (a) as
 potentially qualifying as preference shares and classify such items in the
 relevant tier according to their features.
 
-### **Guideline 2 - Reconciliation Reserve**
+#### **Guideline 2 - Reconciliation Reserve**
 
 1.22. For the purposes of Article 70(1)(a) of Commission Delegated Regulation
-
-2015/35, undertakings should include own shares held both directly and
+, undertakings should include own shares held both directly and
 indirectly.
 
 1.23. For the purposes of Article 70(1)(b) of Commission Delegated Regulation
-
-2015/35:
+:
 
 (a) undertakings should consider a dividend or distribution to be foreseeable
 
@@ -252,10 +232,9 @@ recognised as a liability on the Solvency II balance sheet;
 related reporting period which are likely to reduce the profits of the
 undertaking and for which the supervisory authority is not satisfied
 that they have been appropriately captured by the valuation of assets
-and liabilities in accordance with Commission Delegated Regulation
-2015/35.
+and liabilities in accordance with Commission Delegated Regulation.
 
-### **Guideline 3 - Tier 1 features determining classification of items referred to in**
+#### **Guideline 3 - Tier 1 features determining classification of items referred to in**
 **Article 69(a)(i), (ii) and (iv) of Commission Delegated Regulation 2015/35**
 
 1.24. In the case of an item referred to in Article 69(a)(i), (ii) and (iv) of Commission
@@ -266,10 +245,7 @@ becoming insolvent as including:
 
 (a) the holder of the own-fund item is in a position to petition for the winding
 up of the issuer in the event of distributions not being made;
-
-
 --- Page 6 ---
-
 (b) the item is treated as a liability where a determination that the liabilities of
 
 an undertaking exceed its assets constitutes a test of insolvency under the
@@ -280,7 +256,7 @@ cancelled or not being made, be granted the ability to cause full or partial
 payment of the amount invested, or to demand penalties or any other
 compensation that could result in a decrease of own funds.
 
-### **Guideline 4 - Tier 1 features determining classification of items referred to in**
+#### **Guideline 4 - Tier 1 features determining classification of items referred to in**
 **Article 69(a)(i) and (ii) of Commission Delegated Regulation 2015/35**
 
 1.25. In the case of an item referred to in Article 69(a)(i) and (ii) of Commission
@@ -321,7 +297,7 @@ undertaking.
 distributions in accordance with Article 71(1)(l)(i) of Commission Delegated
 Regulation 2015/35 prior to classifying an item as Tier 1.
 
-### **Guideline 5 - Tier 1 features determining classification of items referred to in**
+#### **Guideline 5 - Tier 1 features determining classification of items referred to in**
 **Article 69(a)(iii), (v) and (b) of Commission Delegated Regulation 2015/35**
 
 1.27. In the case of an item referred to in Article 69(a)(iii), (v) and (b) of
@@ -329,10 +305,7 @@ Regulation 2015/35 prior to classifying an item as Tier 1.
 Commission Delegated Regulation 2015/35, undertakings should consider
 features which may cause insolvency or accelerate the process of the
 undertaking becoming insolvent as including:
-
-
 --- Page 7 ---
-
 (a) the holder of the own-fund item is in a position to petition for the winding
 up of the issuer in the event of distributions not being made;
 
@@ -392,10 +365,7 @@ arrangements predicated on unforeseen changes, which are outside the control
 of the undertaking and that would give rise to transactions or arrangements
 which are not deemed to be repayment or redemption, to be permitted as
 provided for in Article 71(2) of Commission Delegated Regulation 2015/35.
-
-
 --- Page 8 ---
-
 1.31. For the purposes of displaying the features in Article 71(1)(m) of Commission
 
 Delegated Regulation 2015/35 (waiver of cancellation of distributions),
@@ -459,10 +429,7 @@ has the same economic effect as points (a) or (b).
 
 of Commission Delegated Regulation 2015/35 (principal loss absorbency
 mechanisms), undertakings should ensure that:
-
-
 --- Page 9 ---
-
 (a) the loss absorbency mechanism, including the trigger point, is clearly
 
 defined in the terms of the contractual arrangement governing the ownfund item and legally certain;
@@ -526,11 +493,8 @@ should ensure that sufficient shares have already been authorised in accordance
 with national law or the statutes of the undertaking, so that shares are
 
 available for issuance when needed.
-
-
 --- Page 10 ---
-
-### **Guideline 6 - Tier 1 features determining classification of items referred to in**
+#### **Guideline 6 - Tier 1 features determining classification of items referred to in**
 **Article 69(a)(i), (ii), (iii), (v) and (b)** **of Commission Delegated Regulation**
 **2015/35 – immediate availability to absorb losses**
 
@@ -540,15 +504,14 @@ Commission Delegated Regulation 2015/35, undertakings should only consider
 an item as immediately available to absorb losses, if the item is paid in and
 there are no conditions or contingences in respect of its ability to absorb losses.
 
-### **Guideline 7 - Tier 1 features determining classification of items referred to in**
+#### **Guideline 7 - Tier 1 features determining classification of items referred to in**
 **Article 69(a)(i), (ii), (iii), (v) and (b) of Commission Delegated Regulation**
 **2015/35 – repayment or redemption at the option of the undertaking**
 
 1.36. In the case of an item referred to in Article 69(a)(i), (ii), (iii), (v) and (b) of
 
 Commission Delegated Regulation 2015/35, for the purposes of displaying the
-features in Article 71(1)(h) and (i) of Commission Delegated Regulation
-2015/35, undertakings should:
+features in Article 71(1)(h) and (i) of Commission Delegated Regulation, undertakings should:
 
 (a) ensure that the terms of the legal or contractual arrangement governing
 
@@ -582,16 +545,13 @@ with Article 71(1)(j) of Commission Delegated Regulation 2015/35, the
 undertakings’ subsequent actions should form part of the recovery plan referred
 to in Article 138 of Solvency II.
 
-### **Guideline 8 - Contractual opportunities to redeem and appropriate margin**
+#### **Guideline 8 - Contractual opportunities to redeem and appropriate margin**
 
 1.40. In the case of a request for supervisory approval of a repayment or redemption
 
 between 5 and 10 years after the date of issuance in accordance with Article
 71(1)(g) of Commission Delegated Regulation 2015/35, undertakings should
-
-
 --- Page 11 ---
-
 demonstrate how the SCR would be exceeded by an appropriate margin
 following the repayment or redemption for the period of its medium-term
 capital management plan or, if longer, for the period between the date of
@@ -621,7 +581,7 @@ funds and the impact of market conditions on the ability of undertakings to
 raise own funds.
 ## **Section 2: Tier 2 items **
 
-### **Guideline 9 - Tier 2 list of own-fund items**
+#### **Guideline 9 - Tier 2 list of own-fund items**
 
 1.42. In the case of items referred to in Article 72(a)(i), (ii) and (iv) of Commission
 
@@ -640,7 +600,7 @@ that owns the item is still obliged to pay the outstanding amount in the
 event of the undertaking becoming insolvent or entering into winding-up
 procedures, and that the amount is available to absorb losses.
 
-### **Guideline 10 - Tier 2 features for determining classification**
+#### **Guideline 10 - Tier 2 features for determining classification**
 
 1.43. In the case of items referred to in Article 72(a)(i) and (ii) of Commission
 
@@ -653,10 +613,7 @@ paragraph 1.24 of Guideline 3 applies *mutatis mutandis.*
 Delegated Regulation 2015/35, for undertakings determining classification in
 accordance with Article 73(1)(b) of Commission Delegated Regulation 2015/35,
 paragraph 1.27 of Guideline 5 applies *mutatis mutandis* .
-
-
 --- Page 12 ---
-
 1.45. For the purposes of displaying the features in Article 73(1)(c) of Commission
 
 Delegated Regulation 2015/35 (repayment or redemption before five years),
@@ -699,7 +656,7 @@ redemption), include provisions for the suspension of the repayment or
 redemption of the item at any point, including when notice of repayment
 or redemption has been given or at the final maturity date of the
 instrument other than following an exceptional waiver as described in
-Guideline 15, in the event of non-compliance with the SCR or if the
+#### Guideline 15, in the event of non-compliance with the SCR or if the
 repayment or redemption would result in such non-compliance;
 
 (b) for the purposes of displaying the features in Article 73(1)(g) of
@@ -714,13 +671,10 @@ non-compliance.
 with Article 73(1)(f) of Commission Delegated Regulation 2015/35, the
 undertakings’ subsequent actions should form part of the recovery plan referred
 to in Article 138 of Solvency II.
-
-
 --- Page 13 ---
-
 ## **Section 3: Tier 3 items **
 
-### **Guideline 11 - Tier 3 features for determining classification**
+#### **Guideline 11 - Tier 3 features for determining classification**
 
 1.51. For undertakings determining classification in accordance with Article 77(1)(b)
 
@@ -779,15 +733,12 @@ the SCR or if the distribution would result in such non-compliance.
 1.57. For undertakings that have suspended repayment or redemption in accordance
 
 with Article 77(1)(f) of Commission Delegated Regulation 2015/35, the
-
-
 --- Page 14 ---
-
 undertakings’ subsequent actions should form part of the recovery plan referred
 to in Article 138 of Solvency II.
 ## **Section 4: All basic own-fund items **
 
-### **Guideline 12 - Repayment or redemption**
+#### **Guideline 12 - Repayment or redemption**
 
 1.58. For the purposes of displaying the features in Article 71, Article 73 and Article
 
@@ -801,7 +752,7 @@ without prejudice to the treatment of transactions that are not deemed to be
 repayment or redemption as described in Articles 71(2), 73(2) and 77(2) of
 Commission Delegated Regulation 2015/35.
 
-### **Guideline 13 - Encumbrances**
+#### **Guideline 13 - Encumbrances**
 
 1.59. For the purposes of displaying the features in Articles 71(1)(o), 73(1)(i) and
 
@@ -841,10 +792,7 @@ fund items.
 undertakings should reduce the reconciliation reserve by the amount of the
 
 encumbered item.
-
-
 --- Page 15 ---
-
 1.61. When determining the treatment of an own-fund item which is encumbered
 
 according to Article 71(1)(o), 73(1)(i) or 77(1)(h) of Commission Delegated
@@ -871,7 +819,7 @@ determining classification, undertakings should not classify the item as own
 
 funds.
 
-### **Guideline 14 - Call options predicated on unforeseen changes**
+#### **Guideline 14 - Call options predicated on unforeseen changes**
 
 1.63. Undertakings should consider unforeseen changes that are outside their control,
 
@@ -886,7 +834,7 @@ court or authority entitled to do so;
 
 treatment by rating agencies of the own-fund item concerned.
 
-### **Guideline 15 - Exceptional waiver of suspension of repayment or redemption**
+#### **Guideline 15 - Exceptional waiver of suspension of repayment or redemption**
 
 1.64. When applying for an exceptional waiver of the suspension of repayment or
 
@@ -904,18 +852,15 @@ consistent with the recovery plan required by Article 138 of Solvency II;
 
 (c) seek prior supervisory approval of the transaction in accordance with
 
-Guideline 18.
+#### Guideline 18.
 
-### **Guideline 16 - Exceptional waiver of cancellation or deferral of distributions**
+#### **Guideline 16 - Exceptional waiver of cancellation or deferral of distributions**
 
 1.65. When applying for an exceptional waiver of the cancellation or deferral of
 
 distributions according to Articles 71(1)(m) and 73(1)(h) of Commission
 Delegated Regulation 2015/35, undertakings should demonstrate how the
-
-
 --- Page 16 ---
-
 distribution could be made without weakening their solvency position and how
 
 the MCR would be met.
@@ -930,7 +875,7 @@ coupon satisfaction mechanism on the undertaking’s ability to raise those own
 funds, and should provide such information and analysis to the supervisory
 authority.
 
-### **Guideline 17 - Principal loss absorbency: conversion**
+#### **Guideline 17 - Principal loss absorbency: conversion**
 
 1.67. In the application of a principal loss absorbency mechanism in the form of a
 
@@ -941,7 +886,7 @@ conversion of an instrument could have on the capital structure and ownership
 of the undertaking and should monitor this impact as part of the undertaking’s
 system of governance.
 
-### **Guideline 18 - Supervisory approval of repayment and redemption**
+#### **Guideline 18 - Supervisory approval of repayment and redemption**
 
 1.68. Where an undertaking seeks supervisory approval of repayment or redemption
 
@@ -979,10 +924,7 @@ months prior to the earlier of:
 redemption;
 
 (b) the proposed repayment or redemption date.
-
-
 --- Page 17 ---
-
 1.71. Supervisory authorities should ensure that the period of time within which it
 
 decides on the request for repayment or redemption does not exceed three
@@ -1015,7 +957,7 @@ suspended in these circumstances the undertaking may reinstate the item
 as available own funds and the supervisory approval for repayment or
 redemption is withdrawn.
 
-### **Guideline 19 - Incentives to redeem**
+#### **Guideline 19 - Incentives to redeem**
 
 1.73. For the purposes of displaying the features in Articles 71(1)(i), 73(1)(e) and
 
@@ -1040,11 +982,8 @@ call date, combined with a call option;
 (d) any other provision or arrangement which might reasonably be regarded
 
 as providing an economic basis for the likely redemption of the item.
-
-
 --- Page 18 ---
-
-### **Guideline 20 - Eligibility and limits applicable to Tiers 1, 2 and 3**
+#### **Guideline 20 - Eligibility and limits applicable to Tiers 1, 2 and 3**
 
 1.75. For the purposes of calculating eligible own funds in accordance with Article 82
 
@@ -1081,7 +1020,7 @@ Regulation 2015/35 is that Tier 2 basic own-funds items are eligible as
 long as they are less than 20% of the MCR.
 ## **Section 5: Approval of the assessment and classification of Items not ** **on the lists **
 
-### **Guideline 21 - General features of the application**
+#### **Guideline 21 - General features of the application**
 
 1.77. When submitting a request for approval in accordance with Article 79 of
 
@@ -1101,7 +1040,7 @@ that approval;
 
 evidence.
 
-### **Guideline 22 - Cover letter**
+#### **Guideline 22 - Cover letter**
 
 1.78. The undertaking should submit a cover letter confirming that:
 
@@ -1109,10 +1048,7 @@ evidence.
 
 own-fund item or any connected arrangement are unambiguous and
 clearly defined;
-
-
 --- Page 19 ---
-
 (b) taking into account likely future developments as well as circumstances
 
 applying as at the date of the application, the undertaking considers that
@@ -1136,7 +1072,7 @@ corresponding application dates.
 
 authorised to sign on behalf of the AMSB.
 
-### **Guideline 23 - Supporting evidence**
+#### **Guideline 23 - Supporting evidence**
 
 1.81. The undertaking should provide a description of how the criteria in Articles 93
 
@@ -1156,24 +1092,21 @@ the contract and any connected arrangement and evidence that the contract
 and any connected arrangement are legally binding and enforceable in all
 relevant jurisdictions.
 
-### **Guideline 24 - Procedures for supervisory authorities**
+#### **Guideline 24 - Procedures for supervisory authorities**
 
 1.83. Supervisory authorities should establish procedures for the receipt and
 consideration of the applications and information provided by undertakings in
 
 accordance with Guidelines 21 to 23.
 
-### **Guideline 25 - Assessment of the application**
+#### **Guideline 25 - Assessment of the application**
 
 1.84. Supervisory authorities should confirm receipt of the application.
 
 1.85. Supervisory authorities should consider an application complete if the
 
 application covers all the matters set out in Guidelines 21 to 23.
-
-
 --- Page 20 ---
-
 1.86. Supervisory authorities should confirm if the application is considered complete
 
 or not on a timely basis, and at least within 30 days of the date of receipt of the
@@ -1228,7 +1161,7 @@ at any stage prior to the decision of the supervisory authority. If the
 undertaking subsequently resubmits the application or submits an updated
 application, the supervisory authority should treat this as a new application.
 
-### **Guideline 26 - Communication of the supervisory authorities’ decision**
+#### **Guideline 26 - Communication of the supervisory authorities’ decision**
 
 1.93. When supervisory authorities have reached a decision on an application, they
 
@@ -1237,26 +1170,20 @@ should communicate this in writing to the undertakings, on a timely basis.
 1.94. Where the supervisory authority rejects the application, it should state the
 
 reasons on which the decision is based.
-
-
 --- Page 21 ---
-
 **Section 6: Transitional arrangements**
 
-### **Guideline 27 - Transitional arrangements**
+#### **Guideline 27 - Transitional arrangements**
 
 1.95. Undertakings should assess all basic own-fund items issued prior to 1 January
 
-2016 or the date of entry into force of Commission Delegated Regulation
-2015/35 referred to in Article 97 of Solvency II, whichever is earliest to
+2016 or the date of entry into force of Commission Delegated Regulation referred to in Article 97 of Solvency II, whichever is earliest to
 determine whether they display the features determining classification under
 Articles 71 and 73 of Commission Delegated Regulation 2015/35. Where such
 items display the features determining classification as Tier 1 or Tier 2,
 undertakings should classify the item in that tier, even if the item cannot be
 used to meet the available solvency margin according to the laws, regulations
-and administrative provisions which are adopted pursuant to Directive
-73/239/EEC, Directive 2002/13/EC, Directive 2002/83/EC and Directive
-2005/68/EC.
+and administrative provisions which are adopted pursuant to Directive/EEC, Directive 2002/13/EC, Directive 2002/83/EC and Directive/EC.
 
 1.96. Where items that are available as basic own funds in accordance with Article
 
@@ -1270,8 +1197,7 @@ for which it is exchanged, as a new item which does not satisfy Article
 1.97. Supervisory authorities should consider items which are only ineligible due to
 
 the application of limits according to the laws, regulations and administrative
-provisions which are adopted pursuant to Directive 73/239/EEC, Directive
-2002/13/EC, Directive 2002/83/EC and Directive 2005/68/EC, as satisfying the
+provisions which are adopted pursuant to Directive 73/239/EEC, Directive/EC, Directive 2002/83/EC and Directive 2005/68/EC, as satisfying the
 requirements in Article 308b(9)(b) and (10)(b) of Solvency II.
 ## **Compliance and Reporting Rules **
 
@@ -1298,4 +1224,3 @@ considered as non-compliant to the reporting and reported as such.
 ## **Final Provision on Reviews **
 
 1.102.The present Guidelines shall be subject to a review by EIOPA.
-

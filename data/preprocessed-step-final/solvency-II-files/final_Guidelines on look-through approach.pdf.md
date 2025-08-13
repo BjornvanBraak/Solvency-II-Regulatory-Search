@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 EIOPA-BoS-14/171 EN
 
 
@@ -18,10 +17,7 @@ Guidelines on look-through approach](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
-
-
 --- Page 2 ---
-
 ## **Introduction **
 
 1.1 According to Article 16 of Regulation (EU) No 1094/2010 of the European
@@ -54,17 +50,17 @@ legal acts referred to in the introduction.
 
 1.8 The Guidelines shall apply from 1 April 2015.
 
-**Guideline 1** **–** **Money market funds**
+#### **Guideline 1** **–** **Money market funds**
 
 1.9 Undertakings should apply the look-through approach to money market funds.
 
-**Guideline 2** **–** **Number of iterations**
+#### **Guideline 2** **–** **Number of iterations**
 
 1.10 Undertakings should perform a sufficient number of iterations of the look
 through approach, where appropriate (e.g. where a fund is invested in other
 funds) to capture all material risk.
 
-**Guideline 3** **–** **Investments in real estate**
+#### **Guideline 3** **–** **Investments in real estate**
 
 1.11 Undertakings should cover the following investments in the property risk sub
 module:
@@ -72,10 +68,7 @@ module:
 
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
-
-
 --- Page 3 ---
-
 ## (b) property investment held for the own use of the undertaking.
 
 1.12 For equity investments in a company exclusively engaged in facility
@@ -88,13 +81,12 @@ similar activities, undertakings should apply the equity risk sub-module.
 undertakings or other investments packaged as funds, they should apply the
 look-through approach.
 
-**Guideline 4** **–** **Data groupings**
+#### **Guideline 4** **–** **Data groupings**
 
 1.14 With reference to the groupings referred to in Article 84 (3) of Commission
 
 Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing
-Directive 2009/138/EC (hereinafter “Commission Delegated Regulation
-2015/35”) [3], where assets covered in the spread and interest rate risk submodules are grouped according to duration bands, undertakings should ensure
+Directive 2009/138/EC (hereinafter “Commission Delegated Regulation”) [3], where assets covered in the spread and interest rate risk submodules are grouped according to duration bands, undertakings should ensure
 that the durations assigned to the bands are demonstrably prudent.
 
 1.15 Where groupings across different credit quality steps are used, undertakings
@@ -102,11 +94,10 @@ that the durations assigned to the bands are demonstrably prudent.
 should ensure that the credit quality steps assigned to the groups are
 demonstrably prudent.
 
-### **Guideline 5 – Data groupings and concentration risk**
+#### **Guideline 5 – Data groupings and concentration risk**
 
 1.16 Where in accordance with Article 84 (3) of Commission Delegated Regulation
-
-2015/35, any grouping is applied to the single name exposures of the
+, any grouping is applied to the single name exposures of the
 underlying assets of collective funds for calculating the market risk
 concentration charge and it cannot be demonstrated that the groups into which
 the fund is split do not contain any of the same single name exposures,
@@ -123,7 +114,7 @@ exposures exists according to which the fund is managed.
 exposures to each group with the exposures of the known single names in their
 asset portfolio.
 
-### **Guideline 6 – Indirect exposure to catastrophe risk**
+#### **Guideline 6 – Indirect exposure to catastrophe risk**
 
 1.19 When calculating the Solvency Capital Requirement in respect of indirect
 
@@ -132,15 +123,12 @@ repayment is contingent on the non-occurrence of a given catastrophe event,
 undertakings should take into account any credit and catastrophe exposures.
 
 3 OJ L 12, 17.01.2015, p. 1-797
-
-
 --- Page 4 ---
-
 1.20 Catastrophe exposures should be treated in the relevant catastrophe sub
 modules as though the underlying catastrophe exposure is directly held by the
 undertaking.
 
-### **Guideline 7 – Catastrophe bonds issued by the undertaking**
+#### **Guideline 7 – Catastrophe bonds issued by the undertaking**
 
 1.21 Where an undertaking issues catastrophe bonds which do not meet the
 
@@ -155,7 +143,7 @@ features of these bonds.
 Solvency Capital Requirement as though the repayment schedule was not
 contingent on the non-occurrence of a catastrophe event.
 
-### **Guideline 8 – Longevity bonds**
+#### **Guideline 8 – Longevity bonds**
 
 1.23 Where undertakings buy longevity bonds which do not meet the requirements
 
@@ -199,10 +187,7 @@ bond.
 requirements for risk-mitigation techniques set out in Articles 208 to 215 of
 Commission Delegated Regulation 2015/35 to increase in value when the
 stresses in the life underwriting risk module are applied.
-
-
 --- Page 5 ---
-
 ## **Compliance and Reporting Rules **
 
 1.29 This document contains Guidelines issued under Article 16 of the EIOPA
@@ -228,4 +213,3 @@ considered as non-compliant to the reporting and reported as such.
 ## **Final Provision on Reviews **
 
 1.33 The present Guidelines shall be subject to a review by EIOPA.
-

@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 EIOPA-BoS-14/180 EN
 
 
@@ -18,10 +17,7 @@ Guidelines on the use of internal models](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
-
-
 --- Page 2 ---
-
 **Introduction**
 
 1.1. According to Article 16 of Regulation (EU) 1904/2010 of 24 November 2010
@@ -33,8 +29,7 @@ pursuit of the business of Insurance and Reinsurance (Solvency II) [2], in
 particular in Articles 112, 113, 115, 116, 120 to 126 and 231 as further
 developed by Title I, Chapter VI and Title II, Chapter II of Commission
 Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing
-Directive 2009/138/EC (hereafter, Commission Delegated Regulation
-2015/35) [3] . These Guidelines also take into account the EIOPA Implementing
+Directive 2009/138/EC (hereafter, Commission Delegated Regulation) [3] . These Guidelines also take into account the EIOPA Implementing
 Technical Standards on Internal Models Approval Processes and on the Process
 to Reach a Joint Decision for Group Internal Models [4] .
 
@@ -73,10 +68,7 @@ Capital Requirement.
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
 4 [https://eiopa.europa.eu/Pages/Supervision/Insurance/draft](https://eiopa.europa.eu/Pages/Supervision/Insurance/draft-implementing-technical-standards-on-the-%20%20supervisory-approval-processes-for-solvency-ii.aspx) - implementing - technical - standards - on - the supervisory - approval - [processes](https://eiopa.europa.eu/Pages/Supervision/Insurance/draft-implementing-technical-standards-on-the-%20%20supervisory-approval-processes-for-solvency-ii.aspx) - for - solvency - ii.aspx
-
-
 --- Page 3 ---
-
 “
 
 - *Internal model(s) for a group (or for groups)”* should be understood as
@@ -125,13 +117,10 @@ internal model.
 - *t=1* ” should be understood as one year after the date of which the
 Solvency Capital Requirement computation is made by the undertaking
 according to its internal model.
-
-
 --- Page 4 ---
-
 ## **Chapter 1: Application **
 
-### **Guideline 1 – Pre-application**
+#### **Guideline 1 – Pre-application**
 
 1.8. Supervisory authorities should consider putting in place a pre-application
 process in order to form a view on how prepared an insurance or reinsurance
@@ -139,7 +128,7 @@ undertaking is to submit an application for the use of an internal model for the
 calculation of the Solvency Capital Requirement under Solvency II and to meet
 the internal models requirements set out in Solvency II.
 
-### **Guideline 2 - Information to be submitted in an application for the use of**
+#### **Guideline 2 - Information to be submitted in an application for the use of**
 **group internal models under Article 231 of Solvency II**
 
 1.9. In the case of an application for the use of a group internal model under Article
@@ -159,7 +148,7 @@ validation of the group internal model components which are necessary for the
 calculation of the Solvency Capital Requirement of the related undertaking, are
 performed by another related undertaking within the group.
 
-### **Guideline 3 - Request for further information in the case of an application for**
+#### **Guideline 3 - Request for further information in the case of an application for**
 **the use of internal models for groups**
 
 1.11. In the case of an application for the use of an internal model for a group, a
@@ -181,11 +170,8 @@ to assess the compliance of the group internal model with the internal models
 requirements in respect of the Solvency Capital Requirement of this related
 undertaking. In such case, this supervisory authority concerned should inform
 promptly the group supervisor about such request for information.
-
-
 --- Page 5 ---
-
-### **Guideline 4 - Intention to extend the scope of an application for the use of**
+#### **Guideline 4 - Intention to extend the scope of an application for the use of**
 **internal models for groups**
 
 1.13. In the case of an application for the use of an internal model for a group, as
@@ -208,7 +194,7 @@ Solvency Capital Requirement of any related undertaking which is not included
 in the scope of the current application for the calculation of its Solvency Capital
 Requirement with the group internal model.
 
-### **Guideline 5 - Technical specifications in the case of an application for the use**
+#### **Guideline 5 - Technical specifications in the case of an application for the use**
 **of group internal models under Article 231 of Solvency II**
 
 1.15. In case of an application for the use of a group internal model under Article 231
@@ -233,13 +219,10 @@ the calculation of individual Solvency Capital Requirements; and
 c) the description of group specific risks only relevant in the group Solvency
 
 Capital Requirement calculation.
-
-
 --- Page 6 ---
-
 ## **Chapter 2: Model changes **
 
-### **Guideline 6 - Scope of the policy for model changes**
+#### **Guideline 6 - Scope of the policy for model changes**
 
 1.16. The insurance or reinsurance undertaking, when establishing the policy for
 
@@ -289,7 +272,7 @@ of the parameters of the internal model as a potential source of changes to the
 
 internal model.
 
-### **Guideline 7 - Defining a major change**
+#### **Guideline 7 - Defining a major change**
 
 1.20. Whilst the quantitative impact of a model change on the Solvency Capital
 
@@ -298,11 +281,8 @@ may be one of the indicators the insurance or reinsurance undertaking decides
 to use to identify major changes, the undertaking should develop and use a
 number of other key qualitative and quantitative indicators to define a major
 change.
-
-
 --- Page 7 ---
-
-### **Guideline 8 – Report of minor and major changes as a combination of minor**
+#### **Guideline 8 – Report of minor and major changes as a combination of minor**
 **changes**
 
 1.21. The insurance or reinsurance undertaking should report minor changes to the
@@ -321,7 +301,7 @@ approved by supervisory authorities as the reference for evaluating whether a
 combination of minor changes is considered as a major change, unless
 otherwise agreed with supervisory authorities.
 
-### **Guideline 9 – Policy for changing the model for group internal models under**
+#### **Guideline 9 – Policy for changing the model for group internal models under**
 **Article 231 of Solvency II**
 
 1.23. In the case of a group internal model under Article 231 of Solvency II, the
@@ -344,7 +324,7 @@ group internal model to calculate their individual Solvency Capital Requirement
 should ensure that any change that is major for a related undertaking included
 in the application is classified as a major change within the policy.
 
-### **Guideline 10 – Extension of use and extension of the scope of group internal**
+#### **Guideline 10 – Extension of use and extension of the scope of group internal**
 **models under Article 231 of Solvency II**
 
 1.26. The following extensions of the group internal model should be submitted by the
@@ -361,10 +341,7 @@ currently not using the group internal model for the calculation of its
 Solvency Capital Requirement;
 
 b) the extension to cover new elements at the level of the group; and
-
-
 --- Page 8 ---
-
 c) the extension to cover new elements at the level of a related undertaking
 
 currently using the group internal model for the calculation of its Solvency
@@ -372,14 +349,14 @@ Capital Requirement, including the extension related to elements already
 used at the level of the group or of other related undertakings.
 ## **Chapter 3: Use test **
 
-### **Guideline 11 – Incentive to improve the quality of the internal model**
+#### **Guideline 11 – Incentive to improve the quality of the internal model**
 
 1.27. The insurance or reinsurance undertaking should ensure that the internal model
 
 is used in its risk-management system and decision-making processes in a way
 that creates incentives to improve the quality of the internal model itself.
 
-### **Guideline 12 - Use test and changes to the internal model**
+#### **Guideline 12 - Use test and changes to the internal model**
 
 1.28. In the process of improving the quality of the internal model, when a major
 
@@ -399,7 +376,7 @@ the case of an application for a major change during the approval period, the
 insurance and reinsurance undertaking should ensure that the use of the
 internal model in its decision making process is appropriate.
 
-### **Guideline 13 – Understanding of the internal model**
+#### **Guideline 13 – Understanding of the internal model**
 
 1.30. The insurance or reinsurance undertaking should consider different approaches
 
@@ -419,15 +396,12 @@ minutes of the board meetings or appropriate decision-making bodies to assess
 the insurance or reinsurance undertaking’s compliance with the use test
 requirements.
 
-### **Guideline 14 – Support of decision-making**
+#### **Guideline 14 – Support of decision-making**
 
 1.33. The insurance or reinsurance undertaking should ensure and should be able to
 
 demonstrate that the internal model is used for decision-making.
-
-
 --- Page 9 ---
-
 1.34. In particular, when calculating the notional Solvency Capital Requirement for a
 
 ring-fenced fund, the insurance or reinsurance undertaking should comply with
@@ -435,7 +409,7 @@ Article 81 of Commission Delegated Regulation 2015/35 and explain how it
 ensures consistency between these outputs as required by Article 223 of
 Commission Delegated Regulation 2015/35.
 
-### **Guideline 15 – Use test specificities for group internal models under Article**
+#### **Guideline 15 – Use test specificities for group internal models under Article**
 **231 of Solvency II**
 
 1.35. The participating undertaking and the related undertakings applying to use a
@@ -469,7 +443,7 @@ related undertaking level, that are granular enough to allow the group internal
 model to play a sufficient role in their decision-making processes.
 ## **Chapter 4: Assumption setting and expert judgement **
 
-### **Guideline 16 – Materiality in assumptions setting**
+#### **Guideline 16 – Materiality in assumptions setting**
 
 1.37. The insurance or reinsurance undertaking should set assumptions and use
 
@@ -484,11 +458,8 @@ account both quantitative and qualitative indicators and taking into
 consideration extreme losses conditions. The insurance or reinsurance
 
 undertaking should overall evaluate the indicators considered.
-
-
 --- Page 10 ---
-
-### **Guideline 17 – Governance of assumptions setting**
+#### **Guideline 17 – Governance of assumptions setting**
 
 1.39. The insurance or reinsurance undertaking should ensure that all assumption
 
@@ -506,7 +477,7 @@ levels of sufficient seniority according to their materiality, for most material
 assumptions up to and including the administrative, management or
 supervisory body.
 
-### **Guideline 18 - Communication and uncertainty in assumptions setting**
+#### **Guideline 18 - Communication and uncertainty in assumptions setting**
 
 1.42. The insurance or reinsurance undertaking should ensure that the processes
 
@@ -526,7 +497,7 @@ uncertainty of the assumptions as well as the associated variation in final
 
 results.
 
-### **Guideline 19 - Documentation of assumptions setting**
+#### **Guideline 19 - Documentation of assumptions setting**
 
 1.45. The insurance or reinsurance undertaking should document the assumption
 
@@ -549,11 +520,8 @@ alternatives.
 
 material assumptions receive clear and comprehensive written information
 about those assumptions.
-
-
 --- Page 11 ---
-
-### **Guideline 20 - Validation of assumptions setting**
+#### **Guideline 20 - Validation of assumptions setting**
 
 1.49. The insurance or reinsurance undertaking should ensure that the process for
 
@@ -582,7 +550,7 @@ chosen, relying on independent internal or external expertise.
 circumstances under which the assumptions would be considered false.
 ## **Chapter 5: Methodological consistency **
 
-### **Guideline 21 - Consistency check points**
+#### **Guideline 21 - Consistency check points**
 
 1.55. The insurance or reinsurance undertaking should ensure consistency between
 
@@ -619,11 +587,8 @@ d) the consistency of the re-valuation of assets and liabilities at the end of t
 
 period with the valuation of assets and liabilities in the balance sheet for
 solvency purposes.
-
-
 --- Page 12 ---
-
-### **Guideline 22 - Aspects of consistency**
+#### **Guideline 22 - Aspects of consistency**
 
 1.57. The insurance or reinsurance undertaking, when assessing consistency, should
 
@@ -645,7 +610,7 @@ on future management actions and on expected future discretionary
 
 benefits.
 
-### **Guideline 23 - Consistency assessment**
+#### **Guideline 23 - Consistency assessment**
 
 1.58. The insurance or reinsurance undertaking should conduct regular consistency
 
@@ -668,7 +633,7 @@ calculation of the probability distribution forecast and the valuation of assets
 and liabilities in the balance sheet for solvency purposes.
 ## **Chapter 6: Probability distribution forecast **
 
-### **Guideline 24 - Knowledge of the risk profile**
+#### **Guideline 24 - Knowledge of the risk profile**
 
 1.60. To ensure that the set of events of the probability distribution forecast
 
@@ -683,15 +648,12 @@ the variable underlying the probability distribution forecast, so that the
 probability distribution forecast can reflect all relevant characteristics of its risk
 profile.
 
-### **Guideline 25 - Probability distribution forecast richness**
+#### **Guideline 25 - Probability distribution forecast richness**
 
 1.62. In assessing the appropriateness of the actuarial and statistical techniques used
 
 to calculate the probability distribution forecast Article 229 of Commission
-
-
 --- Page 13 ---
-
 Delegated Regulation 2015/35, the insurance and reinsurance undertaking
 should consider the capability of the techniques to process the knowledge of the
 risk profile as an important criterion.
@@ -709,7 +671,7 @@ Commission Delegated Regulation 2015/35 and as part of this methodological
 assessment, should consider the reliability of adverse quantiles resulting from
 the probability distribution forecast.
 
-### **Guideline 26 – Assessment of the richness of the probability distribution**
+#### **Guideline 26 – Assessment of the richness of the probability distribution**
 
 **forecast**
 
@@ -742,7 +704,7 @@ e) the nature, scale and complexity of the risk under consideration as set out
 
 in Article 29(3) of Solvency II.
 
-### **Guideline 27 – Probability distribution forecast enrichment**
+#### **Guideline 27 – Probability distribution forecast enrichment**
 
 1.66. The insurance or reinsurance undertaking should ensure that the effort to
 
@@ -755,10 +717,7 @@ forecast.
 
 the probability distribution forecast unfounded richness which does not reflect
 the original knowledge of its risk profile (see also Guideline 24).
-
-
 --- Page 14 ---
-
 1.68. The insurance or reinsurance undertaking should ensure that the methodology
 
 followed to enrich the probability distribution forecast complies with the
@@ -769,7 +728,7 @@ into account the relevant Guidelines on assumptions setting and expert
 judgement.
 ## **Chapter 7: Calibration - approximations **
 
-### **Guideline 28 - Knowledge of approximations under extreme loss conditions**
+#### **Guideline 28 - Knowledge of approximations under extreme loss conditions**
 
 1.69. When an undertaking uses approximations instead of using the reference risk
 
@@ -785,7 +744,7 @@ demonstrate that the assumptions underlying the formulae are realistic and are
 
 also valid under extreme losses conditions.
 
-### **Guideline 29 - Use of another underlying variable**
+#### **Guideline 29 - Use of another underlying variable**
 
 1.71. The insurance or reinsurance undertaking, if it uses the variation of an
 
@@ -803,7 +762,7 @@ b) it understands the difference between the basic own funds and the
 underlying variable in any situation up to and including *t* =1, especially
 under extreme losses conditions, according to the undertaking risk profile.
 
-### **Guideline 30 - Management actions if using a time period longer than one**
+#### **Guideline 30 - Management actions if using a time period longer than one**
 
 **year**
 
@@ -815,11 +774,8 @@ Requirement calculation, and should ensure that such management actions have
 effects on the balance sheet for solvency purposes between *t* =0 and *t* =1.
 ## **Chapter 8: Profit and loss attribution **
 
-### **Guideline 31 – Definition of profit and loss**
-
-
+#### **Guideline 31 – Definition of profit and loss**
 --- Page 15 ---
-
 1.73. The insurance or reinsurance undertaking should consider profit and loss as
 
 changes over the relevant period in:
@@ -845,7 +801,7 @@ changes in the risk drivers relate with the movement in the variable underlying
 the probability distribution forecast.
 ## **Chapter 9: Validation **
 
-### **Guideline 32 – Validation policy and validation report**
+#### **Guideline 32 – Validation policy and validation report**
 
 1.76. The insurance or reinsurance undertaking should establish, implement and
 
@@ -877,7 +833,7 @@ reference to the validation data sets as mentioned in Guideline 42 as well as th
 
 sign-off from the main participants in the process.
 
-### **Guideline 33 – Scope and purpose of the validation process**
+#### **Guideline 33 – Scope and purpose of the validation process**
 
 1.79. The insurance or reinsurance undertaking, when specifying the purpose of the
 
@@ -887,10 +843,7 @@ part of the internal model.
 1.80. The insurance or reinsurance undertaking should cover both qualitative and
 
 quantitative aspects of the internal model within the scope of the validation.
-
-
 --- Page 16 ---
-
 1.81. When considering the scope of the validation, in addition to considering the
 
 validation of the various parts of the internal model, the insurance or
@@ -898,7 +851,7 @@ reinsurance undertaking should consider the validation in its entirety and in
 particular the appropriateness of the calculated probability distribution forecast
 to ensure that the level of regulatory capital will not be materially misstated.
 
-### **Guideline 34 – Materiality in validation**
+#### **Guideline 34 – Materiality in validation**
 
 1.82. The insurance or reinsurance undertaking should consider the materiality of the
 
@@ -914,7 +867,7 @@ deciding how they should be validated appropriately.
 
 when determining materiality in the context of validation.
 
-### **Guideline 35 – Quality of the validation process**
+#### **Guideline 35 – Quality of the validation process**
 
 1.85. The insurance or reinsurance undertaking should set out all the known
 
@@ -932,7 +885,7 @@ the quality of the validation process explicitly states the circumstances under
 
 which the validation is ineffective.
 
-### **Guideline 36 – Governance of validation process**
+#### **Guideline 36 – Governance of validation process**
 
 1.88. The insurance or reinsurance undertaking should have in place appropriate
 
@@ -954,15 +907,12 @@ required to be escalated within this undertaking.
 path in such a way that the validation process remains independent from the
 development and operation of the internal model.
 
-### **Guideline 37 – Roles in validation process**
+#### **Guideline 37 – Roles in validation process**
 
 1.92. If parties other than the risk-management function contribute to specific tasks
 
 in the validation process, the insurance or reinsurance undertaking should
-
-
 --- Page 17 ---
-
 ensure that the risk-management function fulfils its overall responsibility as set
 out in Article 44 of Solvency II and Article 269(2)(a) of Commission Delegated
 Regulation 2015/35, including the responsibility to ensure the completion of the
@@ -972,7 +922,7 @@ various tasks within the validation process.
 
 each party in the validation process defined.
 
-### **Guideline 38 – Independence of the validation process**
+#### **Guideline 38 – Independence of the validation process**
 
 1.94. The insurance or reinsurance undertaking should demonstrate that its risk
 management function, in order to provide an objective challenge to the internal
@@ -989,7 +939,7 @@ nature, scale and complexity of the risks that this undertaking faces, the
 function and the skills of people to be involved and how it ensures the
 independence of the validation process.
 
-### **Guideline 39 – Validation specificities for group internal models under Article**
+#### **Guideline 39 – Validation specificities for group internal models under Article**
 **231 of Solvency II**
 
 1.96. The participating undertaking and the related undertakings included in the
@@ -1009,7 +959,7 @@ internal model. The participating undertaking and the related undertakings
 should explicitly set out this consideration in the validation policy established
 for the group internal model.
 
-### **Guideline 40 – Application of validation tools**
+#### **Guideline 40 – Application of validation tools**
 
 1.98. The insurance or reinsurance undertaking should consider using quantitative or
 
@@ -1020,10 +970,7 @@ Commission Delegated Regulation 2015/35.
 
 tools it uses and choose the appropriate set of validation tools in order to
 ensure an effective validation process. The insurance or reinsurance
-
-
 --- Page 18 ---
-
 undertaking should consider at least the following characteristics when selecting
 
 the validation tools:
@@ -1063,7 +1010,7 @@ c) the purpose of this validation task;
 
 d) the expected outcome from the validation.
 
-### **Guideline 41 – Stress tests and scenario analysis**
+#### **Guideline 41 – Stress tests and scenario analysis**
 
 1.101.The insurance or reinsurance undertaking should use stress tests and scenario
 
@@ -1075,7 +1022,7 @@ and scenario analysis it uses cover the relevant risks and are monitored over
 
 time.
 
-### **Guideline 42 – Validation data sets**
+#### **Guideline 42 – Validation data sets**
 
 1.103.The insurance or reinsurance undertaking should ensure that the selected data
 
@@ -1084,16 +1031,13 @@ validate the internal model under a wide range of circumstances that have
 occurred in the past or could potentially occur in the future.
 ## **Chapter 10: Documentation **
 
-### **Guideline 43 - Control procedures of documentation**
+#### **Guideline 43 - Control procedures of documentation**
 
 1.104.In order to ensure the on-going quality of the documentation according to
 
 Article 243(3) of Commission Delegated Regulation 2015/35, the insurance or
 reinsurance undertaking should have in place at least:
-
-
 --- Page 19 ---
-
 a) an effective control procedure for internal model documentation;
 
 b) a version control procedures for internal model documentation;
@@ -1103,7 +1047,7 @@ c) a clear referencing system for internal model documentation which should
 be used in a documentation inventory required by Article 244(a) of
 Commission Delegated Regulation 2015/35.
 
-### **Guideline 44 - Documentation of methodologies**
+#### **Guideline 44 - Documentation of methodologies**
 
 1.105.The insurance or reinsurance undertaking should produce documentation which
 
@@ -1124,7 +1068,7 @@ should include, if available, the material steps of the development of the
 methodology, as well as any other methodologies which were considered but not
 subsequently used by the insurance or reinsurance undertaking.
 
-### **Guideline 45 - Circumstances under which the internal model does not work**
+#### **Guideline 45 - Circumstances under which the internal model does not work**
 
 **effectively**
 
@@ -1134,7 +1078,7 @@ an overall summary of the material shortcomings of the internal model,
 consolidated in a single document, containing at least the aspects referred to in
 Article 245 of Commission Delegated Regulation 2015/35.
 
-### **Guideline 46 - Appropriateness of documentation to addressees**
+#### **Guideline 46 - Appropriateness of documentation to addressees**
 
 1.108.The insurance or reinsurance undertaking should consider having
 
@@ -1143,25 +1087,22 @@ documentation of the internal model that consists of more than one level of
 documentation for the internal model, commensurate with the different uses
 and target audiences.
 
-### **Guideline 47 - User manuals or process descriptions**
+#### **Guideline 47 - User manuals or process descriptions**
 
 1.109. The insurance or reinsurance undertaking should have in place, as part of the
 
 documentation of the internal model, user manuals or process descriptions for
 operation of the internal model which should be sufficiently detailed to allow an
 independent knowledgeable third party to operate and run the internal model.
-
-
 --- Page 20 ---
-
-### **Guideline 48 - Documentation of model output**
+#### **Guideline 48 - Documentation of model output**
 
 1.110.The insurance or reinsurance undertaking should retain, as part of the
 
 documentation of the internal model, the outputs of the model that are relevant
 to satisfy the requirements of Article 120 of Solvency II.
 
-### **Guideline 49 – Documentation of software and modelling platforms**
+#### **Guideline 49 – Documentation of software and modelling platforms**
 
 1.111.The insurance or reinsurance undertaking, in its documentation, should provide
 
@@ -1176,7 +1117,7 @@ sufficient information to be able to assess and justify their use, and enable
 supervisory authorities to assess their appropriateness.
 ## **Chapter 11: External models and data **
 
-### **Guideline 50 – External data**
+#### **Guideline 50 – External data**
 
 1.113.The insurance or reinsurance undertaking, given the nature of external data,
 
@@ -1204,7 +1145,7 @@ d) develop processes to run timely consistency checks including comparisons
 
 with other relevant sources to the extent that data are reasonably available.
 
-### **Guideline 51 – Understanding of the external model**
+#### **Guideline 51 – Understanding of the external model**
 
 1.115.The insurance or reinsurance undertaking should be able to demonstrate that
 
@@ -1215,11 +1156,8 @@ assumptions, technical and operational aspects.
 1.116.The insurance or reinsurance undertaking should give particular attention to the
 
 aspects of the external model that are more relevant to its risk profile.
-
-
 --- Page 21 ---
-
-### **Guideline 52 – Reviewing the choice of external model and data**
+#### **Guideline 52 – Reviewing the choice of external model and data**
 
 1.117.The insurance or reinsurance undertaking should periodically review its
 
@@ -1236,7 +1174,7 @@ of the external model or of the data that allows the undertaking to better
 
 assess its risks.
 
-### **Guideline 53 – Integration of external models within the internal model**
+#### **Guideline 53 – Integration of external models within the internal model**
 
 **framework**
 
@@ -1246,7 +1184,7 @@ the approach for incorporating the external model into the internal model
 framework is appropriate; including the techniques, data, parameters,
 assumptions selected by the undertaking and the external model outputs.
 
-### **Guideline 54 – Validation in the context of external models and data**
+#### **Guideline 54 – Validation in the context of external models and data**
 
 1.121.The insurance or reinsurance undertaking should perform its own validation of
 
@@ -1277,7 +1215,7 @@ c) any implicit or explicit bias in the analysis performed by the vendor or othe
 
 third party is taken into account.
 
-### **Guideline 55 - Documentation in the context of external models and data**
+#### **Guideline 55 - Documentation in the context of external models and data**
 
 1.124.The insurance or reinsurance undertaking should ensure that the
 
@@ -1288,10 +1226,7 @@ standards.
 1.125.The insurance or reinsurance undertaking should produce documentation on at
 
 least the following:
-
-
 --- Page 22 ---
-
 a) the aspects of the external model and external data that are relevant for its
 
 risk profile;
@@ -1313,7 +1248,7 @@ leverages on the documentation produced by the vendors and service
 providers, the insurance or reinsurance undertaking should ensure that its
 ability to meet the documentation standards is not compromised.
 
-### **Guideline 56 - Responsibility of the undertaking in the context of external**
+#### **Guideline 56 - Responsibility of the undertaking in the context of external**
 
 **models and data**
 
@@ -1322,7 +1257,7 @@ ability to meet the documentation standards is not compromised.
 discharging its obligations related to its internal model and for the role of
 external model or data in the internal model and any other requirements.
 
-### **Guideline 57 - Role of service providers when using external models and data**
+#### **Guideline 57 - Role of service providers when using external models and data**
 
 1.128.The insurance or reinsurance undertaking should put in place an outsourcing
 
@@ -1339,7 +1274,7 @@ outsourcing agreement, comply with the requirements from Article 49 of
 Solvency II and Article 274 of Commission Delegated Regulation 2015/35.
 ## **Chapter 12: Internal models for groups - Functioning of colleges **
 
-### **Guideline 58 - Assessing the scope of the internal model**
+#### **Guideline 58 - Assessing the scope of the internal model**
 
 1.131.When assessing the appropriateness of the scope of the internal model, the
 
@@ -1355,10 +1290,7 @@ risk profile of the group;
 b) the risk profile of related undertakings within the group compared to the
 
 overall group risk profile;
-
-
 --- Page 23 ---
-
 c) if applicable, a transitional plan by the group to extend the scope of the
 
 model at a later stage and the timeframe to do so;
@@ -1403,7 +1335,7 @@ d) an inadequate group Solvency Capital Requirement in relation to the risk
 
 profile of the group.
 
-### **Guideline 59 - Internal model work plan for the assessment and the approval**
+#### **Guideline 59 - Internal model work plan for the assessment and the approval**
 **process of internal models for groups**
 
 1.133.The group supervisor, in consultation with the other supervisory authorities
@@ -1424,10 +1356,7 @@ Article 231 of Solvency II, the group supervisor and the other supervisory
 authorities concerned should consider including in the internal model work plan
 specific provisions between them. The group supervisor should ensure that the
 internal model work plan, at least:
-
-
 --- Page 24 ---
-
 a) establishes when and how to consult and involve in the assessment the
 
 other supervisory authorities involved referred to in Article 343(2) of
@@ -1461,14 +1390,14 @@ plan covers the timeline for all the steps and deliverables for reaching a joint
 decision as set out in the EIOPA Implementing Technical Standard on the
 Process to Reach a Joint Decision for Group Internal Models.
 
-### **Guideline 60 - Concerns about the process**
+#### **Guideline 60 - Concerns about the process**
 
 1.137.Whenever a supervisory authority involved identifies a substantial point of
 
 concern regarding the approval process, it should share its concern with the
 group supervisor and the other involved authorities as soon as feasible.
 
-### **Guideline 61 - Joint on-site examinations carried out during the assessment**
+#### **Guideline 61 - Joint on-site examinations carried out during the assessment**
 **of internal models for groups**
 
 1.138.The group supervisor and the other supervisory authorities involved should be
@@ -1490,10 +1419,7 @@ to the assessment as defined by the supervisory authorities involved.
 involved, EIOPA, and, where relevant, other members and participants of the
 college that may be affected or interested in the participation or in the outcome
 of the joint on-site examination.
-
-
 --- Page 25 ---
-
 1.141.Once the supervisory authorities participating in the joint on-site examination
 
 have been identified, they should discuss and agree the final scope, purpose,
@@ -1526,7 +1452,7 @@ site examination and the actions to be taken.
 about the outcome and actions as part of the agreed communication within the
 college.
 
-### **Guideline 62 - Sharing of reviews of internal models for groups**
+#### **Guideline 62 - Sharing of reviews of internal models for groups**
 
 1.146.The supervisory authorities involved should share and discuss the main findings
 
@@ -1550,12 +1476,9 @@ appropriate to have this alignment.
 consider sharing the tools and techniques they are using for the review of the
 elements of the internal model with the other supervisory authorities involved.
 
-### **Guideline 63 - Involvement of third country supervisory authorities during**
+#### **Guideline 63 - Involvement of third country supervisory authorities during**
 **the assessment of internal models for groups**
-
-
 --- Page 26 ---
-
 1.150.The group supervisor and the other supervisory authorities involved should
 
 decide whether and which third country supervisory authorities should be
@@ -1570,7 +1493,7 @@ of information of the jurisdiction where the third country supervisory authority
 is situated are equivalent to the professional secrecy requirements resulting
 from Solvency II.
 
-### **Guideline 64 - Assessment of major changes to group internal models under**
+#### **Guideline 64 - Assessment of major changes to group internal models under**
 **Article 231 of Solvency II**
 
 1.152.In relation to the assessment of the application for approval of a major change
@@ -1606,4 +1529,3 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Review**
 
 1.157.These Guidelines shall be subject to a review by EIOPA.
-

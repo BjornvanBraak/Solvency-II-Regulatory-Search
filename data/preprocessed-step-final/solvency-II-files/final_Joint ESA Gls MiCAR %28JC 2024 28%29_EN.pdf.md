@@ -1,13 +1,9 @@
 
 --- Page 1 ---
 
-
 #### JC 2024 28 10 December 2024
 # Guidelines  on templates for explanations and opinions, and the standardised test for crypto-assets, under Article 97(1) of Regulation (EU) 2023/1114
-
-
 --- Page 2 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 # 1. Com liance and re ortin obli ations p p g g
 ## Status of these guidelines 
@@ -20,8 +16,7 @@ European Supervisory Authority (European Banking Authority), amending Decision N
 Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12).
 
 EIOPA – Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a
-European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No
-716/2009/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48).
+European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48).
 
 ESMA – Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a
 European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and
@@ -29,10 +24,7 @@ repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 84).
 2 Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on Markets in Crypto-assets,
 and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L
 150, 9.6.2023, p.40).
-
-
 --- Page 3 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 # 2. Sub ect matter sco e and definitions j, p
 ## Subject matter
@@ -42,45 +34,30 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 3 The application date for MiCAR is established by Article 149 MiCAR (entry into force and application) which should be read
 in accordance with Article 143 (transitional measures).
-
-
 --- Page 4 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ## Definitions
 #### 10. Unless otherwise specified, terms used and defined in Regulation (EU) 2023/1114 have the same meaning in these Guidelines.
-
-
 --- Page 5 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 # 3. Im lementation p
 ## Date of application
 #### 11. These Guidelines apply from 12.05.2025.
-
-
 --- Page 6 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 # 4. Tem lates and standardised test p
 ## Template for the purposes of Article 8(4) Regulation (EU) 2023/1114
 #### 12. Offerors, persons seeking admission to trading, and operators of trading platforms for crypto- assets other than ARTs and EMTs (relevant persons) should use the template referred to in Annex A to provide the explanation referred to in Article 8(4) of Regulation (EU) 2023/1114. 13. All fields set out in the template should be completed with all information necessary to provide a clear, fair, not misleading and complete explanation of the classification of the crypto-asset. Reference should be made to the following informing the explanation of the classification of the crypto-asset:  a. the source of the definitions taken into account for each regulatory product referred to in the template, including applicable EU and national law; b. all relevant:  i. case law of the Court of Justice of the European Union and national courts; ii. regulatory measures, including rules and guidance, in the Member State concerned; iii. interpretative guidance from the European Commission and Guidelines from the European Supervisory Authorities; iv. interpretative guidance from competent authorities or any other source relevant to the interpretation of regulatory concepts. 
 ## Template for the purposes of Article 17(1), point (b)(ii), and Article 18(2), point (e), Regulation (EU) 2023/1114
 #### 14. Credit institutions, and legal persons and other undertakings intending to offer to the public or seek admission to trading of an ART should use the template referred to in Annex B for the purposes of the legal opinion on the qualification of the crypto-asset referred to in Article 17(1), point (b)(ii), and Article 18(2), point (e), of Regulation (EU) No 2023/1114. 15. All fields set out in the template should be completed with all information necessary to provide clear, fair, not misleading and complete explanation of the classification of the crypto-asset. Reference should be made to the following informing the explanation of the classification of the crypto-asset: 
-
-
 --- Page 7 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### a. the source of the definitions taken into account for each regulatory product referred to in the template, including applicable EU and national law; b. all relevant:  i. case law of the Court of Justice of the European Union and national courts; ii. regulatory measures, including rules and guidance, in the Member State concerned; iii. interpretative guidance from the European Commission and Guidelines from the European Supervisory Authorities; iv. interpretative guidance from competent authorities or any other source relevant to the interpretation of regulatory concepts.  16. The template should be completed by an in-house or external legal adviser. The legal adviser should be able to issue the opinion in an objective manner, free from conflicts of interest that cannot be effectively managed. Evidence should be provided of the legal adviser’s ability, as a matter of professional practice, to issue a legal opinion. This may include, as applicable, a diploma, a practicing certificate, registration with the relevant professional body in the Member State concerned.
 ## Standardised test for the classification of crypto-assets
 #### 17. Competent authorities and other persons to whom these Guidelines are addressed should apply a common approach to determine the classification of a crypto-asset on a case-by-case basis taking into account all the attributes of the token in question in accordance with the flow chart provided in Annex C. 18. Competent authorities and other persons to whom these Guidelines are addressed should determine if there is a digital representation of a value or right, these being the necessary attributes of a crypto-asset as defined in Article 3(1) point (5) of Regulation (EU) 2023/1114. The terms ‘value’ and ‘right’ should be interpreted broadly in accordance with recital (2) of that Regulation. Crypto-assets with no-intrinsic value, but having a value attributed to them by the seller / buyer or by market participants [4]  should be treated as digital representations of value. 19. Competent authorities and other persons to whom these Guidelines are addressed should also assess if the digital representation of the value and/or right can be transferred and stored electronically using distributed ledger technology (DLT) or similar technologies. A token may be considered ‘non-transferable’ only where at least the following conditions are satisfied (i) the token is accepted only by the issuer or offeror, and (ii) there is no technical possibility for the token to be transferred by a holder to persons other than the issuer or offeror (recital (17) of Regulation
 
 4 For example tokens such as Bitcoin and so-called ‘meme coins’ traded at exchanges with public prices.
-
-
 --- Page 8 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### (EU) 2023/1114). To assess if a technology is similar to DLT the functional attributes of such technology should be considered, including the basis on which the records (the ledger) are held, shared and how consensus is achieved (i.e. the functioning of any consensus mechanism). 20. If both elements (digital representation of a value and/or right, and transferred and stored electronically using DLT or similar technology) are satisfied competent authorities and other persons to whom these Guidelines are addressed should consider that the token is compatible with a crypto-asset for the purposes of Regulation (EU) 2023/1114. 21. In order to determine if the crypto-asset is within the scope of Regulation (EU) 2023/1114, competent authorities and other persons to whom these Guidelines are addressed should assess all of the exclusions identified in Article 2, points (2) to (4) of Regulation (EU) 2023/1114: a. Article 2(2): is the issuer or offeror a person referred to in that paragraph? MiCAR does not apply to persons who provide crypto-asset services exclusively for their parent companies, for their own subsidiaries or for other subsidiaries of their parent companies; liquidators or administrators acting in the course of an insolvency procedure (except for the purposes of Article 47 of MiCAR); the ECB, central banks of the Member States when acting in their capacity as monetary authorities, or other public authorities of the Member States; the European Investment Bank and its subsidiaries; the European Financial Stability Facility and the European Stability Mechanism; public international organisations. b. Article 2(3): is the crypto-asset unique and not fungible with other crypto-assets? [5]  In assessing if the crypto-asset is unique and not fungible, competent authorities and other persons to whom these Guidelines apply should have regard to Article 2(3) and recital (11) of Regulation (EU) 2023/1114 as well as the Guidelines on the conditions and criteria for the qualification of crypto-assets as financial instruments. [6] c. Article 2(4): does the crypto-asset qualify as a relevant product enlisted in that paragraph? Regulation (EU) 2023/1114 does not apply to financial instruments, deposits, structured deposits, funds (except e-money tokens), securitisation positions (per Regulation (EU) 2017/2402 [7] ), insurance products and reinsurance contracts (per Directive 2009/138/EC), pension products primarily providing retirement income, officially recognised occupational pension schemes (per Directives (EU) 2016/2341 [8] and 2009/138/EC [9] ), employer-mandated individual pension products, pan-European Personal Pension
 
@@ -95,10 +72,7 @@ amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) 
 supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37).
 9 Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit
 of the business of Insurance and Reinsurance (Solvency II) ( [OJ L 335, 17.12.2009, p. 1)](https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:335:TOC) .
-
-
 --- Page 9 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### Products (per Regulation (EU) 2019/1238 [10] ), and social security schemes (per Regulations (EC) No 883/2004 [11] and (EC) No 987/2009 [12] ). 22. Without prejudice to any other relevant materials, the information referred to in paragraph 13 of these Guidelines should be taken into account for the purposes of assessing whether the crypto- asset is a: a. financial instrument, competent authorities and other persons to whom these Guidelines are addressed should apply the Guidelines issued by the European Securities and Markets Authority under Article 2(5) of Regulation (EU) 2023/1114; [13] b. deposit, competent authorities and other persons to whom these Guidelines are addressed should refer to European Banking Authority’s 2014 Opinion and Report and 2020 Opinion on the perimeter of credit institutions, which provide indications on the notion of ‘deposit’ [14] and to the EBA’s 2024 Report on structured deposits [15] ; c. insurance product or insurance contract, competent authorities and other persons to whom these Guidelines are addressed should recall that there is no explicit definition of insurance at EU level, either as an activity or a contract. [16] 23. If none of the exclusions referred to in paragraph 22 apply, competent authorities and other persons to whom these Guidelines are addressed should assess the characteristics of the crypto- assets to determine if the crypto-asset is an EMT, ART or other crypto-asset under Regulation (EU) 2023/1114 and should take into account the following: a. Does the crypto-asset purport to maintain a stable value by referencing only the value of a single official currency? If so, it is to be classified as an EMT pursuant to Title IV of Regulation (EU) 2023/1114. b. If the crypto-asset does not purport to maintain a stable value by referencing only the value of a single official currency, does it purport to maintain a stable value by reference to another value or right (or combination thereof), including one or more official
 
@@ -117,23 +91,14 @@ procedure for implementing Regulation (EC) No 883/2004 on the coordination of so
 
 16
 [Final Report of the Commission Expert Group on European Insurance Contract Law. European Commission, 2014, p 38 ff.](https://commission.europa.eu/business-economy-euro/doing-business-eu/contract-rules/insurance-contracts/expert-group-european-insurance-contract-law_en)
-
-
 --- Page 10 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### currencies? If so, it is to be classified as an ART pursuant to Title III of Regulation (EU) 2023/1114. c. If the crypto-asset does not purport to maintain a stable value by referencing another value or right (and is therefore not an ART or EMT) it is to be classified as a crypto-asset pursuant to Title II of Regulation (EU) 2023/1114.
-
-
 --- Page 11 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 # Annex A - Tem late p
 #### This template is provided for the purposes of the explanation referred to in Article 8(4) of Regulation (EU) 2023/1114. 
-
-
 --- Page 12 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### **TEMPLATE: EXPLANATION FOR THE PURPOSES OF ARTICLE 8(4) REGULATION (EU) 2023/1114 ** **An explanation prepared for the purposes of Article 8(4) Regulation (EU) 2023/1114 (MiCAR)** **should contain information for each of the below fields. **
 
@@ -159,10 +124,7 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||Detailed explanation that the crypto-as- set to which the white paper relates is not an electronic money token within the meaning of Article 3(1), point (7), of MiCAR|Explanation may be provided in an Annex and should include all aspects that demonstrate that the crypto- asset is not intended to purport to maintain a stable value by reference to an official currency, with full cross-references to the relevant provisions of the white paper.|
 ||Detailed explanation that the crypto-as- set to which the white paper relates is not an asset-referenced token within the meaning of Article 3(1), point (6), of MiCAR|Explanation may be provided in an Annex and should include all aspects that demonstrate that the crypto- asset is not intended to purport to maintain a stable value by reference to another value or right or a combination thereof, with full cross-references to the relevant provisions of the white paper.|
 ||Detailed explanation that the crypto-asset is not any of the following:||
-
-
 --- Page 13 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
@@ -171,10 +133,7 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 |---|---|---|
 ||- Deposits, including structured deposits, as referred to in Article 2(4), point (b), of MiCAR|Source of definition(s) (EU and/or national law as applicable): Case law (including paragraph references, as ap- propriate) to which reference is made in the expla- nation: Regulatory measures or guidance to which refer- ence is made in the explanation: Explanation: Note: Explanation should include all aspects that demonstrate that the crypto-asset is not a deposit. The explanation should make full reference to any applicable case law, or relevant regulatory or super- visory materials issued by the competent authority for the purposes of [CRD/CRR] in the home Member State within the meaning of Article 3(1), point (33), of MiCAR.|
 ||- Funds as referred to in Article 2(4), point (c), of MiCAR|Source of definition(s) (EU and/or national law as applicable): Case law (including paragraph references, as ap- propriate) to which reference is made in the expla- nation: Regulatory measures or guidance to which refer- ence is made in the explanation:|
-
-
 --- Page 14 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
@@ -190,10 +149,7 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||- Pan-European Pension Products as referred to in Article 2(4), point (i), of MiCAR|Note: Explanation should confirm that the crypto-as- set is not a Pan-European Pension Product.|
 ||- Social security schemes as re- ferred to in Article 2(4), point (j), of MiCAR|Note: Explanation should confirm that the crypto-as- set is not a social security scheme.|
 |Additional relevant information||Note: Please set out such other information as you consider appropriate to explain the regulatory classi- fication of the crypto-asset.|
-
-
 --- Page 15 ---
-
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 #### **ANNEX TO TEMPLATE: INFORMATION ABOUT OFFERORS, PERSONS SEEKING ADMISSION TO TRADING, OPERATORS OF TRADING PLATFORMS **
 
@@ -208,17 +164,11 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||||||
 ||||||
 ||||||
-
-
 --- Page 16 ---
-
 ### EBA Regular Use
 # Annex B - Tem late p
 #### This template is provided for the purposes of the legal opinion referred to in Article 17(1), point (b)(ii) and Article 18(2), point (e) of Regulation (EU) 2023/1114. 
-
-
 --- Page 17 ---
-
 ### EBA Regular Use
 #### **TEMPLATE: LEGAL OPINION FOR THE PURPOSES OF ARTICLE 17(1), point (b)(ii) and ARTICLE ** **18(2), point (e) REGULATION (EU) 2023/1114 ** **An Opinion issued for the pu rp o se s of these articles should contain information for all the below**
 
@@ -255,10 +205,7 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 |Crypto-asset|Applicable law|Please indicate, the law applicable to the crypto-as- set as referred to in the white paper.|
 ||Executive summary of the regulatory classification of the crypto-asset|Please indicate the purported regulatory classifica- tion and any key points you wish to highlight in the executive summary.|
 ||Opinion, with detailed explanation, that the digital representation to which this Opinion relates is a crypto-asset within|Explanation may be provided in an Annex and should cover all aspects of the definition of ‘crypto-asset’, including the value or right, and the distributed|
-
-
 --- Page 18 ---
-
 ### EBA Regular Use
 
 
@@ -273,10 +220,7 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||Opinion, with detailed explanation, that the crypto-asset to which this Opinion re- lates is not any of the following:||
 ||- Financial instrument, as referred to in Article 2(4), point (a), of MiCAR.|Source of definition(s) (EU and/or national law as applicable): Case law (including paragraph references, as ap- propriate) to which reference is made in the expla- nation: Regulatory measures or guidance to which refer- ence is made in the explanation (including the Guidelines pursuant to Article 2(5) of MiCAR): Explanation: Note: Explanation may be supplemented in an Annex and should include all aspects that demonstrate that the crypto-asset is not a financial instrument. The explanation should indicate why the crypto-asset does not correspond to any of the financial instru- ment types (transferable security, money market in- strument etc), make full reference to the ESMA Guidelines under Article 2(5) of MiCAR, and any ap- plicable case law, or relevant regulatory or supervi- sory materials issued by the competent authority for the purposes of [MiFID2] in the home Member State within the meaning of Article 3(1), point (33), of MiCAR.|
 ||- Deposits, including structured deposits, as referred to in Article 2(4), point (b), of MiCAR|Source of definition(s) (EU and/or national law as applicable): Case law (including paragraph references, as ap- propriate) to which reference is made in the expla- nation: Regulatory measures or guidance to which refer- ence is made in the explanation: Explanation:|
-
-
 --- Page 19 ---
-
 ### EBA Regular Use
 
 
@@ -293,27 +237,18 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||- Individual pension products as referred to in Article 2(4), point (h), of MiCAR|Note: Explanation should confirm that the crypto-as- set is not an individual pension product.|
 ||- Pan-European Pension Products as referred to in Article 2(4), point (i), of MiCAR|Note: Explanation should confirm that the crypto-as- set is not a Pan-European Pension Product.|
 ||- Social security schemes as re- ferred to in Article 2(4), point (j), of MiCAR|Note: Explanation should confirm that the crypto-as- set is not a social security scheme.|
-
-
 --- Page 20 ---
-
 ### EBA Regular Use
 
 
 |Opinion, with full explanation that the crypto-asset is within the meaning of Article 3(1), point (6), of MiCAR|Source of definition(s) (EU and/or national law as applicable): Case law (including paragraph references, as ap- propriate) to which reference is made in the expla- nation: Regulatory measures or guidance to which refer- ence is made in the explanation: Explanation: Note: Explanation should not repeat the foregoing but should describe the attributes of the crypto-asset that conform to the definition of ‘asset-referenced token’. The explanation may be provided in an An- nex to this Opinion and should refer to all relevant provisions of the white paper, among any other ma- terials, that are considered relevant in supporting the Opinion as to the regulatory classification of the crypto-asset.|
 |---|---|
 |Additional relevant information|Note: Please set out such other information as you consider appropriate to explain the regulatory classi- fication of the crypto-asset.|
-
-
 --- Page 21 ---
-
 ### EBA Regular Use
 # Annex C – Flow chart
 #### This flow chart is provided for the purposes of the standardised test referred to in Article 97(1) of Regulation (EU) 2023/1114. 
-
-
 --- Page 22 ---
-
 ### EBA Regular Use
 
 

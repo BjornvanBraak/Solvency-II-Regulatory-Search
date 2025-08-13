@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 EIOPA-BoS-14/176 EN
 
 Guidelines on health catastrophe risk
@@ -26,10 +25,7 @@ sub-module](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
-
-
 --- Page 2 ---
-
 **Introduction**
 
 1.1. According to Article 16 of Regulation (EU) No 1094/2010 of the European
@@ -37,12 +33,11 @@ Parliament and of the Council of 24 November 2010 establishing a European
 Supervisory Authority (hereafter, “EIOPA Regulation”) [1] .
 
 EIOPA is drafting Guidelines on the health catastrophe risk sub-module. These
-Guidelines relate to Article 105 (4) of Directive 2009/138/EC of the European
+#### Guidelines relate to Article 105 (4) of Directive 2009/138/EC of the European
 Parliament and of the Council of 25 November 2009 on the taking-up and
 pursuit of the business of Insurance and Reinsurance (hereafter, Solvency II) [2],
 as well as to Articles 160 to 163 and Annex VI of Commission Delegated
-Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive
-2009/138/EC (hereafter, Commission Delegated Regulation 2015/35) [3] .
+Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive/EC (hereafter, Commission Delegated Regulation 2015/35) [3] .
 
 1.2. These Guidelines are addressed to supervisory authorities under Solvency II.
 
@@ -69,7 +64,7 @@ legal acts referred to in the introduction.
 
 1.8. The Guidelines shall apply from 1 April 2015.
 
-### **Guideline 1 – General provisions for the calculation of Health Catastrophe**
+#### **Guideline 1 – General provisions for the calculation of Health Catastrophe**
 **capital charges**
 
 1.9. Where the determination of the cause of a catastrophe scenario is necessary in
@@ -82,11 +77,8 @@ by policy terms and conditions (e.g. terrorism).
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
 3 OJ L 12, 17.01.2015, p. 1-797
-
-
 --- Page 3 ---
-
-### **Guideline 2 – Calculation of the sum insured for accidental death benefits**
+#### **Guideline 2 – Calculation of the sum insured for accidental death benefits**
 
 1.10. Where an insurance contract provides for benefits in case of death, irrespective
 
@@ -123,7 +115,7 @@ expected increases in the amount of recurring benefit payments and claims
 
 management expenses.
 
-### **Guideline 3 – Calculation of the sum insured for permanent disability benefits**
+#### **Guideline 3 – Calculation of the sum insured for permanent disability benefits**
 
 1.14. Where benefits for disability can be paid either as a single payment or as
 
@@ -149,10 +141,7 @@ in step 2 weighted by the proportion calculated in step 1.
 single payment and recurring payments is at the discretion of the beneficiary,
 the undertaking should use the maximum of the two values instead of the
 weighted average.
-
-
 --- Page 4 ---
-
 1.16. Undertakings should justify the assumptions underlying the calculation of the
 
 proportions referred to in paragraph 1. Where undertakings cannot justify the
@@ -198,7 +187,7 @@ expected increases in the amount of recurring benefit payments and claims
 
 management expenses.
 
-### **Guideline 4 – Calculation of the sum insured for ten year disability and twelve**
+#### **Guideline 4 – Calculation of the sum insured for ten year disability and twelve**
 **month disability benefits**
 
 1.22. Where the beneficiary can receive either a single payment or recurring benefit
@@ -215,10 +204,7 @@ set out in Guideline 3 paragraph 4 and 5.
 1.24. When calculating the best estimate of the recurring benefit payments for the
 
 event type “Disability that lasts 10 years caused by an accident” or “Disability
-
-
 --- Page 5 ---
-
 that lasts 12 months caused by an accident”, undertakings should exclude any
 exit cause and take into account all future payments between:
 
@@ -232,7 +218,7 @@ of the coverage period.
 
 amount of recurring benefit payments and claims management expenses.
 
-### **Guideline 5 – Calculation of the sum insured for medical treatment caused by**
+#### **Guideline 5 – Calculation of the sum insured for medical treatment caused by**
 
 **accident**
 
@@ -266,7 +252,7 @@ by expert judgement. Undertakings should base all estimations on public or
 internal statistics. Undertakings should be able to justify these assumptions to
 the satisfaction of the supervisory authority.
 
-### **Guideline 6 – Calculation of the sum insured in the accident concentration**
+#### **Guideline 6 – Calculation of the sum insured in the accident concentration**
 
 **risk sub-module**
 
@@ -281,11 +267,8 @@ payments in the case of the event type *e* and which are not mutually exclusive,
 undertakings should add up the benefit payments for the different contracts to
 determine SI( *e,i* ) as referred to in Article 162 (4) (c) of Commission Delegated
 Regulation 2015/35.
-
-
 --- Page 6 ---
-
-### **Guideline 7 – Calculation of the income protection pandemic exposure**
+#### **Guideline 7 – Calculation of the income protection pandemic exposure**
 
 1.33. Where the contract provides for recurring benefit payments, undertakings
 
@@ -295,7 +278,7 @@ Article 163 (2) (b) of Commission Delegated Regulation 2015/35, in the same
 way as set out in Guideline 3 for the best estimate of the benefit payments in
 case of the event type “Permanent disability caused by an accident”.
 
-### **Guideline 8 – Calculation of the best estimate of medical expense amounts**
+#### **Guideline 8 – Calculation of the best estimate of medical expense amounts**
 
 1.34. Undertakings should calculate the best estimate of amounts payable for
 
@@ -351,10 +334,7 @@ appropriate manner.
 comply with these Guidelines, with reasons for non-compliance, within two
 
 months after the issuance of the translated versions.
-
-
 --- Page 7 ---
-
 1.41. In the absence of a response by this deadline, competent authorities will be
 
 considered as non-compliant to the reporting and reported as such.
@@ -362,4 +342,3 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Reviews**
 
 1.42. The present Guidelines shall be subject to a review by EIOPA.
-

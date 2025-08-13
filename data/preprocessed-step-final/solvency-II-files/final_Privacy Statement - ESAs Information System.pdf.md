@@ -2,7 +2,6 @@
 --- Page 1 ---
 
 
-
 ESAs Regular Use
 ESA 2024 24
 
@@ -33,8 +32,7 @@ employees is strictly defined on a need-to-know basis.
 
 As the creation and use of the ESAs Information System involves the processing of personal data
 by the ESAs for the purposes of setting up, maintaining the ESAs Information System, as well as
-facilitating the exchange of information through it, such processing is subject to Regulation (EU)
-2018/1725 (hereinafter “ **EUDPR** ”).
+facilitating the exchange of information through it, such processing is subject to Regulation (EU) (hereinafter “ **EUDPR** ”).
 
 As the ESAs are jointly determining the concrete purposes mentioned in the previous paragraph
 as well as the (essential) means of the processing of personal data through the ESAs Information
@@ -50,12 +48,7 @@ the affected data subjects may opt to contact the Joint Controllers, via the **P
 specified below through the following contact details:
 
 1
-
-
 --- Page 2 ---
-
-
-
 EIOPA
 
 Postal address: Westhafenplatz 1, 60327 Frankfurt am Main, Germany
@@ -102,12 +95,7 @@ subjects may exercise their rights by contacting the Primary Contact Point via t
 provided in point (II) above.
 
 2
-
-
 --- Page 3 ---
-
-
-
 Data subjects may request access to the essence of the joint controllership arrangement
 concluded between the Joint Controllers pursuant to Article 28 of EUDPR.
 
@@ -121,12 +109,7 @@ Alternatively, data subjects can have recourse to the EDPS **(** www.edps.europa
 as provided in Article 63 of the Regulation **.**
 
 3
-
-
 --- Page 4 ---
-
-
-
 **APPENDIX – ESSENTIAL ELEMENTS OF PROCESSING** **BY THE ESA** **S**
 
 
@@ -142,13 +125,7 @@ as provided in Article 63 of the Regulation **.**
 
 
 4
-
-
-
 --- Page 5 ---
-
-
-
 **2. Setting up,**
 **functioning and**
 **maintainance of**
@@ -263,12 +240,7 @@ Information System
 
 As explained in 1.
 above.
-
-
 --- Page 6 ---
-
-
-
 **ESSENTIAL ELEMENTS OF PROCESSING** **BY THE CAS**
 
 

@@ -1,5 +1,3 @@
-
---- Page 1 ---
 EIOPA-BoS-14/259
 
 28 January 2015
@@ -23,14 +21,19 @@ own risk and solvency assessment](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: [info@eiopa.europa.eu](mailto:info@eiopa.europa.eu) site: [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
---- Page 2 ---
+
+
+-----
+
 **Table of Contents**
 
 **1.** **Executive summary ........................................................................... 3**
 **2.** **Feedback statement .......................................................................... 5**
 
 **Annex I: Guidelines................................................................................. 8**
---- Page 3 ---
+
+-----
+
 ## **1. Executive summary **
 
 **Introduction**
@@ -72,7 +75,9 @@ comments are published on EIOPA’s website.
 1 OJ L 335, 17.12.2009, p. 1.
 2 OJ L 12, 17.01.2015, p. 1.
 3 https://eiopa.europa.eu/Pages/Consultations/Public - consultation - on - the - Set - 1 - of - the - Solvency - II [Guidelines.aspx](https://eiopa.europa.eu/Pages/Consultations/Public-consultation-on-the-Set-1-of-the-Solvency-II-Guidelines.aspx)
---- Page 4 ---
+
+-----
+
 **Next steps**
 
 In accordance with Article 16 of the EIOPA Regulation, within 2 months of the
@@ -90,7 +95,9 @@ EIOPA will, in its annual report, inform the European Parliament, the Council an
 European Commission of the Guidelines issued, stating which competent authority has
 not complied with them, and outlining how EIOPA intends to ensure that concerned
 competent authorities follow its Guidelines in the future.
---- Page 5 ---
+
+-----
+
 ## **2. Feedback statement **
 
 **Introduction**
@@ -145,7 +152,9 @@ generally not very granular; this is exactly the nature of a principlesbased app
 requirements as set out are being interpreted and analysed in order to
 meet full compliance. Thus, the Guidelines provide more clarity on what
 is expected when implementing the relevant articles of Solvency II.
---- Page 6 ---
+
+-----
+
 **2.3.** **Proportionality**
 
 a. There are stakeholders' concerns that small and medium-sized
@@ -189,7 +198,9 @@ entities are involved in the process through to the production of the
 single ORSA document. The Guideline has been redrafted to provide more
 clarity in this context and also that of college involvement during the
 authorisation of the single ORSA document.
---- Page 7 ---
+
+-----
+
 **General nature of participants to the Public Consultation**
 
 EIOPA received comments from the IRSG and nineteen responses from other
@@ -217,7 +228,9 @@ The revised Impact Assessment on the Set 1 of EIOPA Solvency II Guidelines can b
 consulted on EIOPA’s website.
 
 4 https://eiopa.europa.eu/about - [eiopa/organisation/stakeholder](https://eiopa.europa.eu/about-eiopa/organisation/stakeholder-groups/opinions-feedback-from-the-eiopa-stakeholder-groups) - groups/opinions - feedback - from - the eiopa - [stakeholder](https://eiopa.europa.eu/about-eiopa/organisation/stakeholder-groups/opinions-feedback-from-the-eiopa-stakeholder-groups) - groups
---- Page 8 ---
+
+-----
+
 ## **Annex I: Guidelines **
 
 **1.** **Guidelines on own risk and solvency assessment**
@@ -271,7 +284,9 @@ ORSA by directing the process and challenging the outcome.
 5 OJ L 331, 15.12.2010, p. 48–83.
 6 OJ L 335, 17.12.2009, p.1-155.
 7 OJ L 12, 17.01.2015, p. 1.
---- Page 9 ---
+
+-----
+
 1.7. In case a group wishes to apply for the undertaking of the ORSA pursuant to
 the third subparagraph of Article 245(4) of Solvency II, this requires a high
 level of consistency in processes across the group.
@@ -334,7 +349,9 @@ b) record of each ORSA;
 c) an internal report on each ORSA;
 
 d) a supervisory report of the ORSA.
---- Page 10 ---
+
+-----
+
 #### **Guideline 4 – Policy for the ORSA**
 
 1.16. The AMSB of the undertaking should approve the policy for the ORSA. This
@@ -396,7 +413,9 @@ provide an adequate basis for the assessment of the overall solvency needs.
 
 needs is forward-looking, including a medium term or long term perspective as
 appropriate.
---- Page 11 ---
+
+-----
+
 #### **Guideline 9 – Valuation and recognition bases of the overall solvency needs**
 
 1.22. The undertaking should, if it uses recognition and valuation bases that are
@@ -454,7 +473,9 @@ assumptions underlying the SCR calculation and whether these deviations are
 significant. The undertaking may as a first step perform a qualitative analysis
 and if that indicates that the deviation is not significant, a quantitative
 assessment is not required.
---- Page 12 ---
+
+-----
+
 #### **Guideline 13 – Link to the strategic management process and decision-**
 **making framework**
 
@@ -512,7 +533,9 @@ that some risks may be scaled up at the level of the group.
 
 insurance or reinsurance undertaking, the insurance holding company or the
 mixed financial holding company should include in the record of the group
---- Page 13 ---
+
+-----
+
 ORSA at least a description on how the following factors were taken into
 consideration for the assessment of overall solvency needs:
 
@@ -578,7 +601,9 @@ b) a description of how the governance requirements are met at the level of
 
 these undertakings and in particular how the AMSBs of the subsidiaries are
 involved in the assessment process and approval of the outcome;
---- Page 14 ---
+
+-----
+
 c) a description of how the single ORSA document is organised in order to allow
 
 the group supervisor to separate individual assessments for the other
@@ -621,7 +646,9 @@ considered as non-compliant to the reporting and reported as such.
 **Final Provision on Reviews**
 
 1.5. The present Guidelines shall be subject to a review by EIOPA.
---- Page 15 ---
+
+-----
+
 **2.** **Explanatory text on Guidelines on own risk and solvency assessment**
 
 **Section 1: General considerations**
@@ -675,7 +702,9 @@ underlying the SCR calculation.
 regulatory capital position. The undertaking is required to ensure that it can
 meet the regulatory capital requirements in the form of the minimum capital
 requirement (hereinafter "MCR") and the SCR.
---- Page 16 ---
+
+-----
+
 2.6. The undertaking is also expected to consider whether the SCR, calculated
 
 with the standard formula or an internal model, would be appropriate
@@ -729,7 +758,9 @@ the long and short term capital planning, whilst considering the business and
 risk strategies it has decided upon for the undertaking. This plan includes
 alternatives to ensure that capital requirements can be met even under
 unexpectedly adverse circumstances.
---- Page 17 ---
+
+-----
+
 ![An image illustrating "Guideline 3 - Documentation" which lists the minimum documentation an undertaking must have on the ORSA (Own Risk and Solvency Assessment). The required documents are: the policy for the ORSA, a record of each ORSA, an internal report on each ORSA, and a supervisory report of the ORSA.
 
 #### Guideline 3 – Documentation
@@ -786,7 +817,9 @@ implemented.
 
 written policy on risk management. As risk management includes the ORSA,
 undertakings have to develop a policy for ORSA.
---- Page 18 ---
+
+-----
+
 ![This is a presentation slide outlining Guideline 5, which pertains to the record-keeping of each ORSA (Own Risk and Solvency Assessment). The guideline mandates that every ORSA and its outcome must be properly evidenced and documented by the undertaking.
 
 #### Guideline 5 – Record of each ORSA
@@ -855,7 +888,9 @@ addresses how the undertaking has reacted or will react;
 k) a description of what internal and external factors were taken into
 
 consideration in the forward-looking perspective;
---- Page 19 ---
+
+-----
+
 l) details of any planned relevant management actions, including an explanation
 
 and a justification for these actions, and their impact on the assessment;
@@ -912,7 +947,9 @@ reinsurance and other risk mitigation techniques play a role in the ORSA.
 Where there is no effective risk transfer this has to be taken into account in
 
 the assessment of the overall solvency needs.
---- Page 20 ---
+
+-----
+
 2.24. After identifying the material risks it is exposed to, the undertaking takes a
 
 decision on whether they will be covered with capital or managed with risk
@@ -975,7 +1012,9 @@ When relying on such prospective management actions, an undertaking
 assesses the implications of taking these actions, including their financial
 effect, and takes into consideration any preconditions that might affect the
 efficacy of the management actions as risk mitigators. The assessment also
---- Page 21 ---
+
+-----
+
 addresses how any management actions would be enacted in times of
 
 financial stress.
@@ -1034,7 +1073,9 @@ business plan, these changes need to be reflected in the ORSA taking into
 account the new risk profile, the business volume and the business mix that
 is expected. In order to provide a proper basis for decision-making and to
 identify material risks and the consequences for the overall solvency needs
---- Page 22 ---
+
+-----
+
 by changes to the business plan, a range of possible scenarios have to be
 
 tested.
@@ -1083,7 +1124,9 @@ c) the composition of own funds across tiers and how this composition may change
 regulatory capital and technical provisions requirements, the recognition and
 valuation bases have to be in line with the relevant principles provided by
 Solvency II.
---- Page 23 ---
+
+-----
+
 2.41. Changes in an undertaking’s risk profile may affect the future MCR and SCR
 
 calculations and this needs to be taken into consideration in the capital
@@ -1145,7 +1188,9 @@ measures and offsetting actions it could realistically take to restore or
 improve capital adequacy or its cash flow position after some future stress
 
 events.
---- Page 24 ---
+
+-----
+
 ![An image displaying Guideline 11, which details the requirements for continuous compliance with technical provisions. The guideline states that the actuarial function of an undertaking should provide input on compliance with calculation requirements and identify potential risks arising from uncertainties in the calculation.
 
 #### Guideline 11 – Continuous compliance with technical provisions
@@ -1205,7 +1250,9 @@ a) an analysis of the risk profile and an assessment of the reasons why the
 standard formula is appropriate, including a ranking of risks;
 
 8 https://eiopa.europa.eu/Publications/Standards/EIOPA - 14 - [322_Underlying_Assumptions.pdf#search](https://eiopa.europa.eu/Publications/Standards/EIOPA-14-322_Underlying_Assumptions.pdf%23search=underlying%20assumptions) = underlying%20assumptions
---- Page 25 ---
+
+-----
+
 b) an analysis of the sensitivity of the standard formula to changes in the risk
 
 profile, including the influence of reinsurance arrangements, diversification
@@ -1274,7 +1321,9 @@ the ORSA as set out in Article 120 of Solvency II.
 
 models would need to play an important role in the ORSA. This does not
 necessarily mean that the assessment of the overall solvency needs would be
---- Page 26 ---
+
+-----
+
 accomplished solely by running the internal model. In this context, the ORSA
 
 includes the assessment of:
@@ -1333,7 +1382,9 @@ the regulatory capital requirements.
 
 systems and controls, in order to mitigate risks, it considers the effectiveness
 of those systems and controls in a stress situation.
---- Page 27 ---
+
+-----
+
 ![This is a slide detailing Guideline 14 concerning the frequency of the Own Risk and Solvency Assessment (ORSA). It specifies that an undertaking must perform the ORSA at a minimum of once per year.
 
 #### Guideline 14 – Frequency
@@ -1395,7 +1446,9 @@ level.
 
 company responsible for the group ORSA ensures all necessary information
 to carry out the group ORSA and that the results are reliable.
---- Page 28 ---
+
+-----
+
 2.68. The group ORSA adequately captures the material risks arising from all the
 
 entities that are part of the group: insurance and reinsurance undertakings
@@ -1447,7 +1500,9 @@ holdings in subsidiaries as set out in Article 212(1)(f) of Solvency II and have
 no influence in setting the business strategy. The group ORSA will have to be
 sufficiently dynamic to capture the different nature of the material risks from
 all non-regulated entities within the scope of the group.
---- Page 29 ---
+
+-----
+
 ![This is a slide outlining Guideline 16, which details the requirements for reporting to supervisory authorities. It specifies that insurance, reinsurance, and holding companies must submit a group supervisory ORSA report to the group supervisor. The guideline also covers language requirements, stating the report must be in the same language as the Regular Supervisory Reporting and that translations must be provided upon request by a member of the college.
 
 #### Guideline 16 – Reporting to the supervisory authorities
@@ -1478,7 +1533,9 @@ scope of the single ORSA document. However, in case of application to
 undertake the ORSA according to the third subparagraph of Article 246(4) of
 Solvency II, all assessments of individual undertakings covered by the scope
 of the application are covered by the single ORSA document. All relevant
---- Page 30 ---
+
+-----
+
 members in the college given the scope of the application (supervisory
 authorities concerned) will be involved in the decision as set out in the
 
@@ -1529,7 +1586,9 @@ consideration.
 
 participating insurance or reinsurance undertaking or the insurance holding
 company and of the individual undertakings.
---- Page 31 ---
+
+-----
+
 2.81. The group specific risks include for example:
 
 a) contagion risk, for example spill-over effect of risks that have manifested in
@@ -1579,7 +1638,9 @@ e) specific risks the group could be exposed to.](#)
 
 outlines different stress tests and scenario analyses or any other relevant
 analysis.
---- Page 32 ---
+
+-----
+
 ![### Summary for retrieval
 A slide presenting Guideline 19, which details the specific requirements for a single ORSA (Own Risk and Solvency Assessment) document under Solvency II, Article 246(4). The guideline lists four requirements for insurance undertakings to provide to the group supervisor, covering a list of undertakings, governance descriptions, document organization for supervisors, and necessary translations.
 

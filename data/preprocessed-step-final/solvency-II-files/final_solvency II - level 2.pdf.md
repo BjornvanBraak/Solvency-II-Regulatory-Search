@@ -1,8 +1,5 @@
 
 --- Page 5 ---
-
-
-
 THE EUROPEAN COMMISSION
 
 Having regard to the Treaty on the Functioning of the European Union,
@@ -62,12 +59,7 @@ liabilities are valued at the amount for which they could be exchanged in the ca
 settled in the case of liabilities between knowledgeable and willing parties in an arm's length transaction. This
 approach should be applied by undertakings regardless of whether international or other valuation methods
 follow a different valuation hierarchy.
-
-
 --- Page 6 ---
-
-
-
 (8) Insurance and reinsurance undertakings should recognise and value deferred tax assets and liabilities in relation to
 all items that are recognised for solvency purposes or in the tax balance sheet in order to ensure that all amounts
 which could give rise to future tax cash flows are captured.
@@ -124,12 +116,7 @@ calculation should take the diversification of the whole portfolio into account.
 (19) The calculation of the risk margin should be based on a projection of the Solvency Capital Requirement that
 takes the risk mitigation of reinsurance contracts and special purpose vehicles into account. Separate calculations
 of the risk margin gross and net of reinsurance contracts and special purpose vehicles should not be stipulated.
-
-
 --- Page 7 ---
-
-
-
 (20) The adjustment for credit risk to the basic risk-free interest rates should be derived from market rates that capture
 the credit risk reflected in the floating rate of interest rate swaps. For this purpose, in order to align the determin­­
 ation of the adjustment with standard market practice and under market conditions similar to those at the date
@@ -152,8 +139,7 @@ and central banks, the asset class should capture the difference between individ
 recital 29 of Directive 2014/51/EU, the methodology, assumptions and identification of the data used by the
 European Insurance and Occupational Pensions Authority (EIOPA) to calculate the adjustment to swap rates for
 credit risk, the volatility adjustment and the fundamental spread for the matching adjustment, should be
-published by EIOPA as part of the technical information to be published by virtue of Article 77e(1) of Directive
-2009/138/EC.
+published by EIOPA as part of the technical information to be published by virtue of Article 77e(1) of Directive/EC.
 
 (24) The segmentation of insurance and reinsurance obligations into lines of business and homogeneous risk groups
 should reflect the nature of the risks underlying the obligation. The nature of the underlying risks may justify
@@ -179,8 +165,7 @@ authorities all the information that the supervisory authorities may require in 
 The assessment of the application for approval of ancillary own funds by the supervisory authorities should be
 undertaken on a case-by-case basis.
 
-(28) When considering an application for approval of ancillary own funds in accordance with Article 90 of Directive
-2009/138/EC the supervisory authorities should consider the economic substance and the legal enforceability of
+(28) When considering an application for approval of ancillary own funds in accordance with Article 90 of Directive/EC the supervisory authorities should consider the economic substance and the legal enforceability of
 the ancillary own funds item for which approval is being sought.
 
 (29) Tier 1 own funds should be made up of own-fund items which are of a high quality and which fully absorb
@@ -189,12 +174,7 @@ losses to enable an insurance or reinsurance undertaking to continue as a going 
 (30) Where the economic effect of a transaction, or a group of connected transactions, is equivalent to the holding by
 an insurance or reinsurance undertaking of its own shares, the excess of assets over liabilities should be reduced
 to reflect the existence of an encumbrance on that part of own-funds.
-
-
 --- Page 8 ---
-
-
-
 (31) The assessment of whether an individual own-fund item is of sufficient duration should be based on the original
 maturity of that item. The average duration of an insurance or reinsurance undertaking's total own funds, taking
 into account the remaining maturity of all own-fund items, should not be significantly lower than the average
@@ -252,12 +232,7 @@ should apply in such a way that a loss in Tier 1 own funds does not result in a 
 that is higher than that loss. Therefore, the limits should apply to the extent that the Solvency Capital
 Requirement and Minimum Capital Requirement are covered with own funds. Own-fund items in excess of the
 limits should not be counted as eligible own funds.
-
-
 --- Page 9 ---
-
-
-
 (42) When setting up lists of regional governments and local authorities, EIOPA should respect the requirement that
 there is no difference in risk between exposures to these and exposures to the central government in whose
 jurisdiction they are established because of the specific revenue raising powers of the former and that specific
@@ -318,12 +293,7 @@ insurance is not material
 tration risk in the standard formula should be based on the assumption that the accident concentration risk in
 relation to medical expense insurance and income protection insurance other than group contracts is not
 material.
-
-
 --- Page 10 ---
-
-
-
 (53) In order to reflect empirical evidence on natural catastrophes in the calibration of the standard formula, the
 modelling of natural catastrophe risk should be based on geographical divisions that are sufficiently
 homogeneous in relation to the risk that insurance and reinsurance undertakings are exposed to. The risk weights
@@ -378,12 +348,7 @@ on counterparties which do belong to the same group are not independent.
 exposed is captured in the Solvency Capital Requirement calculated with the standard formula, all exposures
 which are neither captured in the spread risk sub-module nor in the counterparty default risk module as type 1
 exposures should be captured in the counterparty default risk module as type 2 exposures.
-
-
 --- Page 11 ---
-
-
-
 (65) The counterparty default risk module of the standard formula should reflect the economic effect of collateral
 arrangements in case of default of the counterparty. In particular, it should be considered whether the full
 ownership of the collateral is transferred or not. It should also be considered whether in case of insolvency of the
@@ -441,12 +406,7 @@ solvency position of the undertaking.
 existence of basis risk, in particular because of a currency mismatch, undertakings should reflect material basis
 risk in the calculation of the Solvency Capital Requirement. Where material basis risk is not reflected in the
 calculation of the Solvency Capital Requirement, the risk mitigation technique should not be recognised.
-
-
 --- Page 12 ---
-
-
-
 (74) The existence of profit participation arrangements, whereby profits are allocated to policy holders or beneficiaries
 should be appropriately reflected in the calculation of the Solvency Capital Requirement.
 
@@ -467,8 +427,7 @@ the purposes of supervision and should not therefore result in additional burden
 
 (77) When providing an opinion on an update to correlation parameters, EIOPA should take into account whether the
 application of the updated correlation parameters by insurance and reinsurance undertakings would result in an
-overall Solvency Capital Requirement which complies with the principles in Article 101 of Directive
-2009/138/EC, and whether dependencies between risks are non-linear or whether there is a lack of diversification
+overall Solvency Capital Requirement which complies with the principles in Article 101 of Directive/EC, and whether dependencies between risks are non-linear or whether there is a lack of diversification
 under extreme scenarios, in which case EIOPA should consider alternative measures of dependence for the
 purposes of calibrating updates to the correlation parameters.
 
@@ -508,12 +467,7 @@ accepted market practice of risk modelling. However, this does not imply that in
 undertakings should always adapt their internal model to the generally accepted market practices. In many cases
 it might be necessary to depart from the generally accepted market practice in order to arrive at an appropriate
 internal model.
-
-
 --- Page 13 ---
-
-
-
 (84) Internal models are likely to be based on a large amount of data stemming from a variety of sources and of
 differing characteristics and quality. In order to ensure the appropriateness of the data used for the internal
 model, insurance and reinsurance undertakings should collect, process and apply data in a transparent and
@@ -537,8 +491,7 @@ calculate its Solvency Capital Requirement.
 Article 129(3) of Directive 2009/138/EC insurance and reinsurance undertakings should not be required to
 calculate a Solvency Capital Requirement on a quarterly basis. Where the calculation of the Minimum Capital
 Requirement does not coincide with an annual calculation of the Solvency Capital Requirement, undertakings
-should use the last calculated Solvency Capital Requirement in accordance with Article 102 of Directive
-2009/138/EC.
+should use the last calculated Solvency Capital Requirement in accordance with Article 102 of Directive/EC.
 
 (89) In accordance with the prudent person principle set out in Article 132 of Directive 2009/138/EC and in order to
 ensure cross-sectoral consistency, the interests of undertakings that re-package loans into tradable securities and
@@ -576,12 +529,7 @@ any transaction or scheme whereby the credit risk associated with an exposure or
 An exposure that creates a direct payment obligation for a transaction or scheme used to finance or operate
 physical assets should not be considered an exposure to a securitisation, even if the transaction or scheme has
 payment obligations of different seniority.
-
-
 --- Page 14 ---
-
-
-
 (93) Good governance is the basis for effective and sound management of insurance and reinsurance undertakings as
 well as a key element of the regulatory framework. The system of governance of an insurance and reinsurance
 undertaking should be based on an appropriate and transparent allocation of oversight and management respon­­
@@ -601,8 +549,7 @@ undertakings' business.
 all persons with operational and oversight responsibilities act in accordance with the undertaking's objectives and
 in compliance with applicable laws, regulations and administrative provisions.
 
-(97) In order to ensure an economic valuation that is reliable, accurate and in compliance with Article 75 of Directive
-2009/138/EC, it is important to establish and implement appropriate internal controls for the valuation of assets
+(97) In order to ensure an economic valuation that is reliable, accurate and in compliance with Article 75 of Directive/EC, it is important to establish and implement appropriate internal controls for the valuation of assets
 and liabilities of insurance and reinsurance undertakings, including an independent review and verification of the
 information, data and assumptions used.
 
@@ -629,8 +576,7 @@ past conduct may be information that is sourced from criminal or financial recor
 conduct could provide indications as to that person's integrity.
 
 (101) In order to ensure that the outsourcing of functions or activities is done in an effective way and does not
-undermine the obligations that insurance and reinsurance undertakings have to comply with under Directive
-2009/138/EC, it is necessary to provide for requirements on how to choose the service provider, on the written
+undermine the obligations that insurance and reinsurance undertakings have to comply with under Directive/EC, it is necessary to provide for requirements on how to choose the service provider, on the written
 agreement to be concluded and on the ongoing verification that the insurance or reinsurance undertaking has to
 perform on the service provider.
 
@@ -639,12 +585,7 @@ tolerance limits of insurance and reinsurance undertakings can undermine the eff
 undertakings. It is therefore necessary to provide for requirements on remuneration for the purposes of the
 sound and prudent management of the business and in order to prevent remuneration arrangements which
 encourage excessive risk-taking.
-
-
 --- Page 15 ---
-
-
-
 (103) The specification of the circumstances in which capital add-ons may be imposed and the methodologies for their
 calculation should ensure that the use of capital add-ons is an effective and practicable supervisory tool for the
 protection of policy holders and beneficiaries through the calculation of a Solvency Capital Requirement which
@@ -702,12 +643,7 @@ Directive 2009/138/EC, supervisory authorities may require an annual submission 
 report. When this is not the case and insurance and reinsurance undertakings submit their regular supervisory
 report only every 3 years, they should nevertheless inform annually the supervisory authorities of any major
 developments that have occurred since the last reporting period.
-
-
 --- Page 16 ---
-
-
-
 (114) Quantitative and qualitative information should be disclosed or submitted to the supervisory authority on a
 regular basis in the form of a narrative report and quantitative templates. Quantitative templates should specify in
 greater detail and supplement, where appropriate, the information provided in the narrative report. The report
@@ -765,12 +701,7 @@ application would not be appropriate. The group supervisor should, when assessin
 (deduction and aggregation method) should be used instead of — or in combination with — method 1, consider
 a number of harmonised relevant elements. One such element is whether the use of method 1 would be overly
 burdensome, and the nature, scale and complexity of the risks of the group are such that the use of method 2
-
-
 --- Page 17 ---
-
-
-
 would not materially affect the results of the group solvency calculation. In ascertaining, for these purposes,
 whether the use of method 2 would materially affect the results of the group solvency calculation, method 2
 should be compared with method 1 using the aggregated group eligible own funds and the aggregated group
@@ -830,12 +761,7 @@ is carried out separately.
 Capital Requirement. Where an internal model is used only for the calculation of the consolidated group
 Solvency Capital Requirement, and is not used to calculate the Solvency Capital Requirement of a related
 insurance or reinsurance undertaking in the group, then Article 230 of Directive 2009/138/EC should apply. In
-
-
 --- Page 18 ---
-
-
-
 this context, it is necessary to ensure that the approval of an internal model used to calculate only the
 consolidated group Solvency Capital Requirement is granted by the group supervisor in a manner consistent with
 the provisions set out in that Directive on the approval procedure of internal models used at individual level,
@@ -877,12 +803,10 @@ relevant criteria in order to ensure harmonised supervision of group solvency fo
 management.
 
 (137) In order to achieve an efficient cooperation in the supervision of insurance or reinsurance subsidiary
-undertakings in a group with a centralised risk management as provided for in Articles 237 to 243 of Directive
-2009/138/EC, it is essential to harmonise the procedures to be followed by supervisory authorities in the
+undertakings in a group with a centralised risk management as provided for in Articles 237 to 243 of Directive/EC, it is essential to harmonise the procedures to be followed by supervisory authorities in the
 supervision of such insurance and reinsurance subsidiary undertakings.
 
-(138) In order to clearly determine when an emergency situation within the meaning of Article 239(2) of Directive
-2009/138/EC has arisen, the supervisory authority having authorised the insurance or reinsurance subsidiary
+(138) In order to clearly determine when an emergency situation within the meaning of Article 239(2) of Directive/EC has arisen, the supervisory authority having authorised the insurance or reinsurance subsidiary
 undertaking which financial condition is deteriorating should take into account a number of harmonised criteria.
 
 (139) The college of supervisors should be a permanent platform for coordination among supervisory authorities,
@@ -892,12 +816,7 @@ to ensure a proper functioning of the college it is necessary to set out criteri
 significant for the purpose of the participation of supervisory authorities of significant branches in the college. It
 is also essential to harmonise the requirements applicable to the coordination of supervision of insurance and
 reinsurance groups, in order to foster the convergence of supervisory practices.
-
-
 --- Page 19 ---
-
-
-
 (140) Directive 2009/138/EC requires participating insurance and reinsurance undertakings or insurance holding
 companies or mixed financial holding companies to disclose publicly information on the solvency and financial
 condition of the group. That Directive also allows them to provide a single solvency and financial condition
@@ -955,12 +874,7 @@ insurance and reinsurance undertakings in a group.
 a positive equivalence decision or for which a temporary or provisional equivalence regime applies should
 cooperate and exchange information in order to ensure that there is a clear mutual understanding of group risks
 and solvency.
-
-
 --- Page 20 ---
-
-
-
 (149) In order to ensure that information can be exchanged between supervisory authorities, supervisory authorities of
 third countries for which there has been a positive equivalence decision or for which a temporary or provisional
 equivalence regime applies should be bound by obligations of professional secrecy.
@@ -1030,12 +944,7 @@ health insurance obligations;
 
 8. ‘medical expense reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance
 covering medical expense insurance obligations;
-
-
 --- Page 21 ---
-
-
-
 9. ‘income protection reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance
 covering income protection insurance obligations;
 
@@ -1111,12 +1020,7 @@ arrangement where the insurance or reinsurance undertaking is not a party to tha
 
 ( [1] ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit
 institutions and investment firms and amending Regulation (EU) No 648/2012, (OJ L 176, 27.6.2013, p. 1).
-
-
 --- Page 22 ---
-
-
-
 30. ‘pool exposure of type B’ means the risk ceded by an insurance or reinsurance undertaking to another member of a
 pooling arrangement, where the insurance or reinsurance undertaking is a party to that pooling arrangement;
 
@@ -1154,8 +1058,7 @@ Article 77(2) of Directive 2009/138/EC but without application of a matching adj
 or a transitional adjustment to the relevant risk-free rate structure in accordance with Article 308c of that Directive;
 
 37. ‘matching adjustment portfolio’ means a portfolio of insurance or reinsurance obligations to which the matching
-adjustment is applied and the assigned portfolio of assets as referred to in Article 77b(1)(a) of Directive
-2009/138/EC.
+adjustment is applied and the assigned portfolio of assets as referred to in Article 77b(1)(a) of Directive/EC.
 
 38. ‘SLT Health obligations’ means health insurance obligations that are assigned to the lines of business for life
 insurance obligations in accordance with Article 55(1).
@@ -1184,12 +1087,7 @@ p. 32).
 ( [2] ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and
 amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011,
 p. 1).
-
-
 --- Page 23 ---
-
-
-
 43. ‘administrative, management or supervisory body’ shall mean, where a two-tier board system comprising of a
 management body and a supervisory body is provided for under national law, the management body or the
 supervisory body or both of those bodies as specified in the relevant national legislation or, where nobody is
@@ -1220,8 +1118,7 @@ discontinue the policy.
 
 47. ‘mortgage insurance’ means credit insurance that provides cover to lenders in case their mortgage loans default.
 
-48. ‘subsidiary undertaking’ means any subsidiary undertaking within the meaning of Article 22(1) and (2) of Directive
-2013/34/EU, including subsidiaries thereof;
+48. ‘subsidiary undertaking’ means any subsidiary undertaking within the meaning of Article 22(1) and (2) of Directive/EU, including subsidiaries thereof;
 
 49. ‘related undertaking’ either a subsidiary undertaking or other undertaking in which a participation is held, or an
 undertaking linked with another undertaking by a relationship as set out in Article 22(7) of Directive 2013/34/EU;
@@ -1239,35 +1136,26 @@ Council ( [2] ) where those activities constitute a significant part of its over
 owning or managing property, managing data-processing services, health and care services or any other similar
 activity which is ancillary to the principal activity of one or more insurance or reinsurance undertakings.
 
-54. ‘UCITS management company’ means a management company within the meaning of Article 2(1)(b) of Directive
-2009/65/EC or an investment company authorised pursuant to Article 27 of that Directive provided that it has not
+54. ‘UCITS management company’ means a management company within the meaning of Article 2(1)(b) of Directive/EC or an investment company authorised pursuant to Article 27 of that Directive provided that it has not
 designated a management company pursuant to that Directive;
 
 55. ‘alternative investment fund manager’ means an alternative investment funds manager within the meaning of
 Article 4(1)(b) of Directive 2011/61/EU;
 
-56. ‘institutions for occupational retirement provision’ means institutions within the meaning of Article 6(a) of Directive
-2003/41/EC of the European Parliament and of the Council ( [3] );
+56. ‘institutions for occupational retirement provision’ means institutions within the meaning of Article 6(a) of Directive/EC of the European Parliament and of the Council ( [3] );
 
 57. ‘domestic insurance undertaking’ means an undertaking authorised and supervised by third-country supervisory
 authorities which would require authorisation as an insurance undertaking in accordance with Article 14 of
 Directive 2009/138/EC if its head office were situated in the Union;
 
 ( [1] ) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit
-institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC,
-79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament
+institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC,/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament
 and of the Council (OJ L 35, 11.2.2003, p. 1).
 ( [2] ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and
-the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives
-2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
 ( [3] ) Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for
 occupational retirement provision (OJ L 235, 23.9.2003, p. 10).
-
-
 --- Page 24 ---
-
-
-
 58. ‘domestic reinsurance undertaking’ means an undertaking authorised and supervised by third-country supervisory
 authorities which would require authorisation as a reinsurance undertaking in accordance with Article 14 of
 Directive 2009/138/EC if its head offices were situated in the Union.
@@ -1338,12 +1226,7 @@ capital requirements are the same, the assessment generating that capital requir
 
 ( [1] ) Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies
 (OJ L 302, 17.11.2009, p. 1).
-
-
 --- Page 25 ---
-
-
-
 5. Where an item is part of the larger or more complex exposures of the insurance or reinsurance undertaking, the
 undertaking shall produce its own internal credit assessment of the item and allocate it to one of the seven steps in a
 credit quality assessment scale. Where the own internal credit assessment generates a lower capital requirement than the
@@ -1402,12 +1285,7 @@ will pursue its business as a going concern.
 **Scope**
 
 Articles 9 to 16 shall apply to the recognition and valuation of assets and liabilities, other than technical provisions.
-
-
 --- Page 26 ---
-
-
-
 ##### Article 9
 
 **Valuation methodology — general principles**
@@ -1417,8 +1295,7 @@ accounting standards adopted by the Commission in accordance with Regulation (EC
 
 2. Insurance and reinsurance undertakings shall value assets and liabilities in accordance with international
 accounting standards adopted by the Commission pursuant to Regulation (EC) No 1606/2002 provided that those
-standards include valuation methods that are consistent with the valuation approach set out in Article 75 of Directive
-2009/138/EC. Where those standards allow for the use of more than one valuation method, insurance and reinsurance
+standards include valuation methods that are consistent with the valuation approach set out in Article 75 of Directive/EC. Where those standards allow for the use of more than one valuation method, insurance and reinsurance
 undertakings shall only use valuation methods that are consistent with Article 75 of Directive 2009/138/EC.
 
 3. Where the valuation methods included in international accounting standards adopted by the Commission in
@@ -1476,12 +1353,7 @@ markets, as defined in international accounting standards adopted by the Commiss
 
 5. Where the criteria referred to in paragraph 4 are not satisfied, insurance and reinsurance undertakings shall, unless
 otherwise provided in this Chapter, use alternative valuation methods.
-
-
 --- Page 27 ---
-
-
-
 6. When using alternative valuation methods, insurance and reinsurance undertakings shall rely as little as possible
 on undertaking-specific inputs and make maximum use of relevant market inputs including the following:
 
@@ -1545,12 +1417,7 @@ Insurance and reinsurance undertakings shall value the following assets at zero:
 2. intangible assets other than goodwill, unless the intangible asset can be sold separately and the insurance and
 reinsurance undertaking can demonstrate that there is a value for the same or similar assets that has been derived in
 accordance with Article 10(2), in which case the asset shall be valued in accordance with Article 10.
-
-
 --- Page 28 ---
-
-
-
 ##### Article 13
 
 **Valuation methods for related undertakings**
@@ -1576,8 +1443,7 @@ reinsurance undertakings, insurance and reinsurance undertakings shall value hol
 
 zero:
 
-(a) undertakings that are excluded from the scope of the group supervision under Article 214(2)(a) of Directive
-2009/138/EC;
+(a) undertakings that are excluded from the scope of the group supervision under Article 214(2)(a) of Directive/EC;
 
 (b) undertakings that are deducted from the own funds eligible for the group solvency in accordance with Article 229
 of Directive 2009/138/EC.
@@ -1618,12 +1484,7 @@ own credit standing of the insurance or reinsurance undertaking after initial re
 with Article 11. The value of contingent liabilities shall be equal to the expected present value of future cash flows
 required to settle the contingent liability over the lifetime of that contingent liability, using the basic risk-free interest
 rate term structure.
-
-
 --- Page 29 ---
-
-
-
 ##### Article 15
 
 **Deferred taxes**
@@ -1691,12 +1552,7 @@ For the calculation of the best estimate and the risk margin of technical provis
 undertakings shall recognise an insurance or reinsurance obligation at the date the undertaking becomes a party to the
 contract that gives rise to the obligation or the date the insurance or reinsurance cover begins, whichever date occurs
 earlier. Insurance and reinsurance undertakings shall only recognise the obligations within the boundary of the contract.
-
-
 --- Page 30 ---
-
-
-
 Insurance and reinsurance undertakings shall derecognise an insurance or reinsurance obligation only when it is
 extinguished, discharged, cancelled or expires.
 
@@ -1758,12 +1614,7 @@ policyholder to pay the future premium of that part.
 reflect the risks covered by a portfolio of insurance or reinsurance obligations, where there is no circumstance under
 which the amount of the benefits and expenses payable under the portfolio exceeds the amount of the premiums
 payable under the portfolio.
-
-
 --- Page 31 ---
-
-
-
 ### Section 2
 
 ***Data quality***
@@ -1831,12 +1682,7 @@ of data which are exclusively available from an internal source;
 
 (b) insurance or reinsurance undertakings know the origin of that data and the assumptions or methodologies used to
 process that data;
-
-
 --- Page 32 ---
-
-
-
 (c) insurance or reinsurance undertakings identify any trends in that data and the variation, over time or across data, of
 the assumptions or methodologies in the use of that data;
 
@@ -1906,12 +1752,7 @@ that information is not possible.
 
 2. Assumptions shall only be used for the purpose of Article 77(3) of Directive 2009/138/EC where they comply
 with paragraph 1 of this Article.
-
-
 --- Page 33 ---
-
-
-
 3. Insurance and reinsurance undertakings shall set assumptions on future financial market parameters or scenarios
 that are appropriate and consistent with Article 75 of Directive 2009/138/EC. Where insurance and reinsurance
 undertakings use a model to produce projections of future financial market parameters, it shall comply with all of the
@@ -1980,12 +1821,7 @@ requirements applicable to those future management actions;
 
 (e) a description of any on-going work required to ensure that the insurance or reinsurance undertaking is in a position
 to carry out each respective future management action referred to in point (a);
-
-
 --- Page 34 ---
-
-
-
 (f) a description of how the future management actions referred to in point (a) have been reflected in the calculation of
 the best estimate;
 
@@ -2049,12 +1885,7 @@ Information shall only be considered to be credible for the purposes of Article 
 insurance and reinsurance undertakings provide evidence of the credibility of the information taking into account the
 consistency and objectivity of that information, the reliability of the source of the information and the transparency of
 the way in which the information is generated and processed.
-
-
 --- Page 35 ---
-
-
-
 #### Subsection 3
 
 **Cash f low projections for the calculation of the best estimate**
@@ -2095,8 +1926,7 @@ or reinsurance obligations.
 The calculation of the best estimate shall take into account expected future developments that will have a material
 impact on the cash in- and out-flows required to settle the insurance and reinsurance obligations over the lifetime
 thereof. For that purpose future developments shall include demographic, legal, medical, technological, social, environ­­
-mental and economic developments including inflation as referred to in point (2) of Article 78 of Directive
-2009/138/EC.
+mental and economic developments including inflation as referred to in point (2) of Article 78 of Directive/EC.
 
 ##### Article 30
 
@@ -2119,12 +1949,7 @@ claims;
 (f) dependency between two or more causes of uncertainty;
 
 (g) dependency of cash flows on circumstances prior to the date of the cash flow.
-
-
 --- Page 36 ---
-
-
-
 ##### Article 31
 
 **Expenses**
@@ -2192,12 +2017,7 @@ could deviate from the expected outcome.
 5. Where the present value of cash flows depends on future events and developments as referred to in paragraph 4,
 insurance and reinsurance undertakings shall use a method to calculate the best estimate for cash flows which reflects
 such dependencies.
-
-
 --- Page 37 ---
-
-
-
 ##### Article 35
 
 **Homogeneous risk groups of life insurance obligations**
@@ -2275,12 +2095,7 @@ of the insurance and reinsurance undertaking.
 internal model and determine that the model is appropriate to calculate the Solvency Capital Requirement referred to in
 Article 38(2) for each point in time over the lifetime of the insurance and reinsurance obligations, the insurance and
 reinsurance undertakings shall use the internal model to calculate the amounts *SCR* ( *t* ) referred to in paragraph 1.
-
-
 --- Page 38 ---
-
-
-
 3. Insurance and reinsurance undertakings shall allocate the risk margin for the whole portfolio of insurance and
 reinsurance obligations to the lines of business referred to in Article 80 of Directive 2009/138/EC. The allocation shall
 adequately reflect the contributions of the lines of business to the Solvency Capital Requirement referred to in
@@ -2343,19 +2158,13 @@ reference undertaking;
 with the assumed future management actions, as referred to in Article 23, of the original undertaking.
 
 2. Over the lifetime of the insurance and reinsurance obligations, the Solvency Capital Requirement necessary to
-support the insurance and reinsurance obligations referred to in the first subparagraph of Article 77(5) of Directive
-2009/138/EC shall be assumed to be equal to the Solvency Capital Requirement of the reference undertaking under the
+support the insurance and reinsurance obligations referred to in the first subparagraph of Article 77(5) of Directive/EC shall be assumed to be equal to the Solvency Capital Requirement of the reference undertaking under the
 assumptions set out in paragraph 1.
 
 3. For the purposes of point (i) of paragraph 1, a risk shall be considered to be material where its impact on the
 calculation of the risk margin could influence the decision-making or the judgment of the users of that information,
 including supervisory authorities.
-
-
 --- Page 39 ---
-
-
-
 ##### Article 39
 
 **Cost-of-Capital rate**
@@ -2415,12 +2224,7 @@ Payments in relation to other events or settled insurance claims shall be accoun
 from reinsurance contracts and special purpose vehicles and other elements of the technical provisions. Where a deposit
 has been made for the cash flows, the amounts recoverable shall be adjusted accordingly to avoid a double counting of
 the assets and liabilities relating to the deposit.
-
-
 --- Page 40 ---
-
-
-
 4. The amounts recoverable from reinsurance contracts and special purpose vehicles for non-life insurance
 obligations shall be calculated separately for premium provisions and provisions for claims outstanding in the following
 
@@ -2487,12 +2291,7 @@ market.
 The rates of the relevant risk-free interest rate term structure shall be calculated separately for each currency and
 maturity, based on all information and data relevant for that currency and that maturity. They shall be determined in a
 transparent, prudent, reliable and objective manner that is consistent over time.
-
-
 --- Page 41 ---
-
-
-
 #### Subsection 2
 
 **Basic risk free interest rate term structure**
@@ -2548,12 +2347,7 @@ undertakings. It shall be determined in a transparent, prudent, reliable and obj
 2. For each currency the ultimate forward rate shall take account of expectations of the long-term real interest rate
 and of expected inflation, provided those expectations can be determined for that currency in a reliable manner. The
 ultimate forward rate shall not include a term premium to reflect the additional risk of holding long-term investments.
-
-
 --- Page 42 ---
-
-
-
 ##### Article 48
 
 **Basic risk-free interest rate term structure of currencies pegged to the euro**
@@ -2625,12 +2419,7 @@ criteria exist for when and how the constituents of those indices will be change
 — equity
 
 — property
-
-
 --- Page 43 ---
-
-
-
 For the purposes of points (a) and (b), investments of insurance and reinsurance undertakings in collective investment
 undertakings and other investments packaged as funds shall be treated as investments in the underlying assets.
 
@@ -2699,12 +2488,7 @@ on those groups of policies instead of single policies, provided that it yields 
 3. With regard to reinsurance obligations, the identification of the policies for which technical provisions increase
 under an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in
 accordance with paragraph 2.
-
-
 --- Page 44 ---
-
-
-
 ##### Article 53
 
 **Calculation of the matching adjustment**
@@ -2769,14 +2553,8 @@ risk.
 health insurance pursued on a similar technical basis to that of life insurance shall be assigned to the lines of business
 for life insurance and obligations of health insurance pursued on a similar technical basis to that of non-life insurance
 shall be assigned to the lines of business for non-life insurance.
-
-
 --- Page 45 ---
-
-
-
-4. Where the insurance obligations arising from the operations referred to in Article 2(3)(b) of Directive
-2009/138/EC cannot clearly be assigned to the lines of business set out in Annex I to this Regulation on the basis of
+4. Where the insurance obligations arising from the operations referred to in Article 2(3)(b) of Directive/EC cannot clearly be assigned to the lines of business set out in Annex I to this Regulation on the basis of
 their nature, they shall be included in line of business 32 as set out in that Annex.
 
 5. Where an insurance or reinsurance contract covers risks across life and non-life insurance, the insurance or
@@ -2844,12 +2622,7 @@ account of the expected loss due to default of the counterparty as the differenc
 (b) the best estimate, after taking into account the amounts recoverable from reinsurance contracts and special purpose
 vehicles and without an adjustment for the expected loss due to default of the counterparty (unadjusted net best
 estimate) calculated in accordance with paragraph 2.
-
-
 --- Page 46 ---
-
-
-
 2. Insurance and reinsurance undertakings may use methods to derive the unadjusted net best estimate from the
 gross best estimate without an explicit projection of the cash flows underlying the amounts recoverable from
 reinsurance contracts and special purpose vehicles. Insurance and reinsurance undertakings shall calculate the unadjusted
@@ -2916,12 +2689,7 @@ in relation to that homogeneous risk group;
 
 (c) *BE* *rec* denotes the amounts recoverable from reinsurance contracts with that counterparty in relation to that
 homogeneous risk group.
-
-
 --- Page 47 ---
-
-
-
 ## *CHAPTER IV*
 
 **OWN FUNDS**
@@ -2993,12 +2761,7 @@ commitments under the ancillary own funds item;
 
 (c) whether the counterparties are subject to legal or regulatory requirements that reduce the counterparties' ability to
 satisfy their commitments under the ancillary own funds item;
-
-
 --- Page 48 ---
-
-
-
 (d) whether the legal form of the counterparties prejudice the counterparties' satisfaction of their commitments under
 the ancillary own funds item;
 
@@ -3068,12 +2831,7 @@ arrangement that complies with Articles 209 to 214;
 
 (d) the ability of the insurance or reinsurance undertaking to take action to enforce the counterparties' satisfaction of
 their commitments under the ancillary own funds item.
-
-
 --- Page 49 ---
-
-
-
 ##### Article 65
 
 **Assessment of the application — Information on the outcome of past calls**
@@ -3147,12 +2905,7 @@ included in points (a)(iii) and (v) and point (b) of Article 69;
 
 (c) holdings of Tier 2 instruments of financial and credit institutions shall be deducted from the basic own-fund items
 included in Article 72.
-
-
 --- Page 50 ---
-
-
-
 ### Section 2
 
 ***Classification of own funds***
@@ -3207,15 +2960,9 @@ funds determined in accordance with Article 81(1);
 
 (ii) that are excluded in accordance with Article 81(2);
 
-(f) the amount of participations held in financial and credit institutions as referred to in Article 92(2) of Directive
-2009/138/EC deducted in accordance with Article 68, to the extent that this is not already included in points (a)
+(f) the amount of participations held in financial and credit institutions as referred to in Article 92(2) of Directive/EC deducted in accordance with Article 68, to the extent that this is not already included in points (a)
 to (e).
-
-
 --- Page 51 ---
-
-
-
 2. The excess of assets over liabilities referred to in paragraph 1 includes the amount that corresponds to the
 expected profit included in future premiums set out in paragraph 2 of Article 260.
 
@@ -3280,12 +3027,7 @@ redemption of the basic own-fund item is subject to prior supervisory approval;
 (i) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 does not include any incentives to repay or redeem that item that increase the likelihood that an insurance or
 reinsurance undertaking will repay or redeem that basic own-fund item where it has the option to do so;
-
-
 --- Page 52 ---
-
-
-
 (j) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 provides for the suspension of repayment or redemption of that item where there is non-compliance with the
 Solvency Capital Requirement or repayment or redemption would lead to such non-compliance until the
@@ -3354,12 +3096,7 @@ at issuance and there is no cap or other restriction on the maximum level of dis
 (d) notwithstanding point (c), in the case of instruments issued by mutual and mutual-type undertakings, a cap or other
 restriction on the maximum level of distribution may be set, provided that cap or other restriction is not an event
 linked to distributions being made, or not made, on other own fund items;
-
-
 --- Page 53 ---
-
-
-
 (e) there is no obligation for an insurance or reinsurance undertaking to make distributions;
 
 (f) non-payment of distributions does not constitute an event of default of the insurance or reinsurance undertaking;
@@ -3426,12 +3163,7 @@ events in addition to the events referred to in points (a) to (c).
 9. For the purposes of points (d), (j) and (l) of paragraph 1, references to the Solvency Capital Requirement shall be
 read as references to the Minimum Capital Requirement where non-compliance with the Minimum Capital Requirement
 occurs before non-compliance with the Solvency Capital Requirement.
-
-
 --- Page 54 ---
-
-
-
 ##### Article 72
 
 **Tier 2 Basic own-funds — List of own-fund items**
@@ -3502,12 +3234,7 @@ where all of the following conditions are met:
 (ii) the payment does not further weaken the solvency position of the insurance or reinsurance undertaking;
 
 (iii) the Minimum Capital Requirement is complied with after the distribution is made.
-
-
 --- Page 55 ---
-
-
-
 (i) the basic own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the basic own-fund item, could result in that basic own-fund item not complying with the first sub­­
 paragraph of Article 94(2) of Directive 2009/138/EC.
@@ -3568,12 +3295,7 @@ trustee and provided by credit institutions authorised in accordance with Articl
 (g) any future claims which mutual or mutual-type associations of shipowners with variable contributions solely
 insuring risks listed in classes 6, 12 and 17 in Part A of Annex 1 of Directive 2009/138/EC may have against their
 members by way of a call for supplementary contributions, within the following 12 months;
-
-
 --- Page 56 ---
-
-
-
 (h) any future claims which mutual or mutual-type associations may have against their members by way of a call for
 supplementary contributions, within the following 12 months, provided that a call can be made on demand and is
 clear of encumbrances;
@@ -3592,12 +3314,10 @@ own fund item classified in Tier 1 in accordance with Articles 69 and 71 once th
 
 **Tier 3 Basic own-funds– List of own-fund items**
 
-The following basic own-fund items shall be deemed to possess the characteristics set out in Article 93(1)(b) of Directive
-2009/138/EC, taking into consideration the features set out in Article 93(2) of that Directive, and shall be classified as
+The following basic own-fund items shall be deemed to possess the characteristics set out in Article 93(1)(b) of Directive/EC, taking into consideration the features set out in Article 93(2) of that Directive, and shall be classified as
 Tier 3 where the following items display all of the features set out in Article 77:
 
-(a) the part excess of assets over liabilities, valued in accordance with Sections 1 and 2 of Chapter VI of Directive
-2009/138/EC, comprising the following items:
+(a) the part excess of assets over liabilities, valued in accordance with Sections 1 and 2 of Chapter VI of Directive/EC, comprising the following items:
 
 (i) subordinated mutual member accounts;
 
@@ -3635,12 +3355,7 @@ for the suspension of repayment or redemption where there is non-compliance with
 Requirement or repayment or redemption would lead to such non-compliance until the undertaking complies with
 the Solvency Capital Requirement and the repayment or redemption would not lead to non-compliance with the
 Solvency Capital Requirement;
-
-
 --- Page 57 ---
-
-
-
 (g) the basic own-fund item, in the case of items referred to in points (a)(i) and (ii) and point (b) of Article 76, provides
 for the deferral of distributions where there is non-compliance with the Minimum Capital Requirement or the
 distribution would lead to such non-compliance until the undertaking complies with the Minimum Capital
@@ -3706,12 +3421,7 @@ eration the features set out in Article 93(2) of that Directive;
 (b) where the undertaking is applying for classification as Tier 2 basic own funds, whether the basic own-fund item
 substantially possesses the characteristics set out in Article 93(1)(b) of Directive 2009/138/EC, taking into consid­­
 eration the features set out in Article 93(2) of that Directive;
-
-
 --- Page 58 ---
-
-
-
 (c) where the undertaking is applying for classification as Tier 2 ancillary own funds, whether the ancillary own-fund
 item substantially possesses the characteristics in Article 93(1)(a) and (b) of Directive 2009/138/EC, taking into
 consideration the features set out in Article 93(2) of that Directive;
@@ -3777,12 +3487,7 @@ included in the ring-fenced fund or matching adjustment portfolio.
 2. By way of derogation from paragraph 1, where the assets, the liabilities and the risk within a ring-fenced fund are
 not material, insurance and reinsurance undertakings may reduce the reconciliation reserve by the total amount of
 restricted own-fund items.
-
-
 --- Page 59 ---
-
-
-
 #### Subsection 2
 
 **Quantitative limits**
@@ -3855,12 +3560,7 @@ comply with Article 23;
 
 (b) any material adverse impact of the scenario or the management actions referred to in point (a) on the likelihood that
 policy holders will exercise contractual options.
-
-
 --- Page 60 ---
-
-
-
 3. Insurance and reinsurance undertakings may use simplified methods to calculate the technical provisions arising as
 a result of determining the impact of a scenario as referred to in paragraph 1, provided that the simplified method does
 not lead to a misstatement of the Solvency Capital Requirement that could influence the decision-making or the
@@ -3924,12 +3624,7 @@ Notwithstanding Article 210(2), where insurance or reinsurance undertakings tran
 reinsurance contracts or special purpose vehicles that are subject to material basis risk from a currency mismatch
 between underwriting risk and the risk-mitigation technique, insurance or reinsurance undertakings may take into
 account the risk-mitigation technique in the calculation of the Solvency Capital Requirement according to the standard
-
-
 --- Page 61 ---
-
-
-
 formula, provided that the risk-mitigation technique complies with Article 209, Article 210(1), (3) and (4) and
 Article 211, and the calculation is carried out as follows:
 
@@ -4008,12 +3703,7 @@ risks where the error referred to in point (b) of paragraph 2 leads to a misstat
 Requirement that could influence the decision-making or the judgement of the user of the information relating to the
 Solvency Capital Requirement, unless the simplified calculation leads to a Solvency Capital Requirement which exceeds
 the Solvency Capital Requirement that results from the standard calculation.
-
-
 --- Page 62 ---
-
-
-
 ##### Article 89
 
 **General provisions for simplifications for captives**
@@ -4106,12 +3796,7 @@ between the following amounts:
 — the amount that the insurance or reinsurance undertaking would currently pay in the event of the death of
 the persons insured under the contract after deduction of the amounts recoverable from reinsurance
 contracts and special purpose vehicles;
-
-
 --- Page 63 ---
-
-
-
 — the expected present value of amounts not covered in the previous indent that the undertaking would pay in
 the future in the event of the immediate death of the persons insured under the contract after deduction of
 the amounts recoverable from reinsurance contracts and special purpose vehicles;
@@ -4188,12 +3873,7 @@ contracts and special purpose vehicles;
 
 (c) *d* *1* denotes the expected average disability-morbidity rate during the following 12 months weighted by the sum
 insured;
-
-
 --- Page 64 ---
-
-
-
 (d) *d* *2* denotes the expected average disability-morbidity rate in the 12 months after the following 12 months weighted
 by the sum insured;
 
@@ -4269,12 +3949,7 @@ following:
 amounts recoverable from policy holders or intermediaries;
 
 (b) the amount of technical provisions without the risk margin.
-
-
 --- Page 65 ---
-
-
-
 ##### Article 96
 
 **Simplified calculation of the capital requirement for life-catastrophe risk**
@@ -4356,12 +4031,7 @@ sum insured;
 (c) *n* denotes the modified duration in years of payments payable on death included in the best estimate;
 
 (d) *i* *k* denotes the annualized spot rate for maturity *k* of the relevant risk-free term structure as referred to in Article 43.
-
-
 --- Page 66 ---
-
-
-
 ##### Article 98
 
 **Simplified calculation of the capital requirement for health longevity risk**
@@ -4442,12 +4112,7 @@ reinsurance contracts and special purpose vehicles;
 — the expected present value of amounts not covered in the previous indent that the undertaking would pay in
 the future in the event of the immediate death or disability of the persons insured under the contract after
 deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles;
-
-
 --- Page 67 ---
-
-
-
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable form reinsurance
 contracts and special purpose vehicles;
 
@@ -4520,12 +4185,7 @@ where:
 (b) *n* *down* denotes the average period in years over which the policies with a negative surrender strains runs off;
 
 (c) *S* *down* denotes the sum of negative surrender strains.
-
-
 --- Page 68 ---
-
-
-
 3. The surrender strain of an insurance policy referred to in paragraphs (1) and (2) is the difference between the
 following:
 
@@ -4623,12 +4283,7 @@ technical provisions for maturity interval *i* ;
 (g) *BE* *lob* denotes the best estimate for line of business *lob* ;
 
 (h) *dur* *lob* denotes the modified duration of the best estimate in line of business *lob* ;
-
-
 --- Page 69 ---
-
-
-
 (i) *rate* *lob* denotes the relevant risk-free rate for modified duration in line of business *lob* ;
 
 (j) *stress* *(lob, down)* denote the relative downward stress of interest rate for modified duration *dur* *lob* .
@@ -4700,12 +4355,7 @@ loans with credit quality step *i*, and *b* *i* is determined in accordance with
 
 
 3. *dur* *norating* referred to in point (e) of paragraph 1 and *dur* *i* referred to in paragraph 2 shall not be lower than 1 year.
-
-
 --- Page 70 ---
-
-
-
 ##### Article 105
 
 **Simplified calculation for captive insurance or reinsurance undertakings of the capital requirement for spread**
@@ -4777,12 +4427,7 @@ Recov *erables* *i*
 
 
 � *SCR* *j*
-
-
 --- Page 71 ---
-
-
-
 where
 
 (a) *BE* denotes the best estimate of obligations gross of the amounts recoverable,
@@ -4850,12 +4495,7 @@ type C.
 Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the loss-given-default set out in
 Article 192 for a group of single name exposures. In that case, the group of single name exposures shall be assigned the
 highest probability of default assigned to single name exposures included in the group in accordance with Article 199.
-
-
 --- Page 72 ---
-
-
-
 ##### Article 111
 
 **Simplified calculation of the risk mitigating effect**
@@ -4936,12 +4576,7 @@ s
 
 
 *i,j*
-
-
 --- Page 73 ---
-
-
-
 where:
 
 (a) the sum covers all possible combinations ( *i*, *j* ) of the sub-modules set out in paragraph 1;
@@ -5009,12 +4644,7 @@ during the following 12 months;
 
 (b) *P* *(last,s)* denotes the premiums earned by the insurance or reinsurance undertaking in the segment *s* during the last
 12 months;
-
-
 --- Page 74 ---
-
-
-
 (c) *FP* *(existing,s)* denotes the expected present value of premiums to be earned by the insurance or reinsurance undertaking
 in the segment *s* after the following 12 months for existing contracts;
 
@@ -5093,12 +4723,7 @@ in Annex IV;
 
 (e) *V* *s* and *V* *t* denote volume measures for premium and reserve risk of segments *s* and *t*, referred to in Article 116,
 respectively.
-
-
 --- Page 75 ---
-
-
-
 2. For all segments set out in Annex II, the standard deviation for non-life premium and reserve risk of a particular
 segment *s* shall be equal to the following:
 
@@ -5184,12 +4809,7 @@ where:
 (a) *SCR* *natCAT* denotes the capital requirement for natural catastrophe risk;
 
 (b) *SCR* *npproperty* denotes the capital requirement for the catastrophe risk of non-proportional property reinsurance;
-
-
 --- Page 76 ---
-
-
-
 (c) *SCR* *mmCAT* denotes the capital requirement for man-made catastrophe risk;
 
 (d) *SCR* *CATother* denotes the capital requirement for other non-life catastrophe risk.
@@ -5277,12 +4897,7 @@ and special purpose vehicles, is equal to 80 % of the specified windstorm loss i
 
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 40 % of the specified windstorm loss in region *r* .
-
-
 --- Page 77 ---
-
-
-
 4. For all regions set out in Annex V the capital requirement for windstorm risk in a particular region *r* according to
 scenario B shall be equal to the loss in basic own funds of insurance and reinsurance undertakings that would result
 from the following sequence of events:
@@ -5362,12 +4977,7 @@ and where the risk is not situated in one of the regions set out in Annex XIII.
 and special purpose vehicles, referred to in paragraph 8 shall be equal to the following amount:
 
 *L* ð *windstorm,other* Þ ¼ 1,75 �ð0,5 � *DIV* *windstorm* þ 0,5Þ � *P* *windstorm*
-
-
 --- Page 78 ---
-
-
-
 where:
 
 (a) *DIV* *windstorm* is calculated in accordance with Annex III, but based on the premiums in relation to the obligations
@@ -5463,12 +5073,7 @@ region *r* ;
 (b) *SI* *(onshore-property,r,i)* denotes the sum insured of the insurance or reinsurance undertaking for lines of business 6 and 18 as
 set out in Annex I in relation to contracts that cover onshore property damage by earthquake and where the risk is
 situated in risk zone *i* of region *r* .
-
-
 --- Page 79 ---
-
-
-
 5. The capital requirement for earthquake risk in regions other than those set out in Annex XIII shall be equal to the
 loss in basic own funds of insurance and reinsurance undertakings that would result from an instantaneous loss in
 relation to each insurance and reinsurance contract that covers one or both of the following insurance or reinsurance
@@ -5550,12 +5155,7 @@ and special purpose vehicles, is equal to 100 % of the specified flood loss in r
 
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 10 % of the specified flood loss in region *r* .
-
-
 --- Page 80 ---
-
-
-
 5. For all regions set out in Annex VII, the specified flood loss in a particular region *r* shall be equal to the following
 amount:
 
@@ -5638,12 +5238,7 @@ to in points (a), (b) and (c) of paragraph 8 and restricted to the regions 5 to 
 (b) *P* *flood* is an estimate of the premiums to be earned by the insurance or reinsurance undertaking for each contract that
 covers the obligations referred to in points (a), (b) and (c) of paragraph 8 during the following 12 months: for this
 purpose, premiums shall be gross, without deduction of premiums for reinsurance contracts.
-
-
 --- Page 81 ---
-
-
-
 ##### Article 124
 
 **Hail risk sub-module**
@@ -5739,12 +5334,7 @@ where:
 (a) *W* *(hail,r,i)* denotes the risk weight for hail risk in risk zone *i* of region *r* set out in Annex X;
 
 (b) *SI* *(hail,r,i)* denotes the sum insured for hail risk in hail zone *i* of region *r* .
-
-
 --- Page 82 ---
-
-
-
 7. For all regions set out in Annex VIII and all hail zones, the sum insured for hail risk in a particular hail zone *i* of a
 particular region *r* shall be equal to the following:
 
@@ -5820,12 +5410,7 @@ where:
 
 (c) *WSI* *(subsidence,i)* and *WSI* *(subsidence,j)* denote the weighted sums insured for subsidence risk in risk zones *i* and *j* of France set
 out in Annex IX.
-
-
 --- Page 83 ---
-
-
-
 2. For all subsidence zones the weighted sum insured for subsidence risk in a particular risk zone *i* of France set out
 in the Annex IX shall be equal to the following:
 
@@ -5899,12 +5484,7 @@ reinsurance contracts.
 (e) the liability risk sub-module;
 
 (f) the credit and suretyship risk sub-module.
-
-
 --- Page 84 ---
-
-
-
 2. The capital requirement for the man-made catastrophe risk shall be equal to the following:
 
 
@@ -5980,12 +5560,7 @@ tanker collision in lines of business 6, 18 and 27 set out in Annex I;
 
 (b) *SI* *(hull,t)* is the sum insured by the insurance or reinsurance undertaking for marine hull insurance and reinsurance in
 relation to tanker *t* ;
-
-
 --- Page 85 ---
-
-
-
 (c) *SI* *(liab,t)* is the sum insured by the insurance or reinsurance undertaking for marine liability insurance and reinsurance
 in relation to tanker *t* ;
 
@@ -6050,12 +5625,7 @@ terrorist attacks;
 
 3. For the purposes of paragraph 2, the set of buildings may be covered by one or several insurance or reinsurance
 contracts.
-
-
 --- Page 86 ---
-
-
-
 ##### Article 133
 
 **Liability risk sub-module**
@@ -6136,12 +5706,7 @@ where:
 (a) *SCR* *default* is the capital requirement for the risk of a large credit default;
 
 (b) *SCR* *recession* is the capital requirement for recession risk.
-
-
 --- Page 87 ---
-
-
-
 2. The capital requirement for the risk of a large credit default shall be equal to the loss in basic own funds of
 insurance and reinsurance undertakings that would result from an instantaneous default of the two largest exposures
 relating to obligations included in the lines of business 9 and 21of an insurance or reinsurance undertaking. The
@@ -6206,18 +5771,15 @@ Annex XII.
 
 (b) the longevity risk sub-module referred to in point (b) of subparagraph 2 of Article 105(3) of Directive 2009/138/EC;
 
-(c) the disability-morbidity risk sub-module referred to in point (c) of subparagraph 2 of Article 105(3) of Directive
-2009/138/EC;
+(c) the disability-morbidity risk sub-module referred to in point (c) of subparagraph 2 of Article 105(3) of Directive/EC;
 
-(d) the life-expense risk sub-module referred to in point (d) of subparagraph 2 of Article 105(3) of Directive
-2009/138/EC;
+(d) the life-expense risk sub-module referred to in point (d) of subparagraph 2 of Article 105(3) of Directive/EC;
 
 (e) the revision risk sub-module referred to in point (e) of subparagraph 2 of Article 105(3) of Directive 2009/138/EC;
 
 (f) the lapse risk sub-module referred to in point (f) of subparagraph 2 of Article 105(3) of Directive 2009/138/EC;
 
-(g) the life-catastrophe risk sub-module referred to in point (g) of subparagraph 2 of Article 105(3) of Directive
-2009/138/EC.
+(g) the life-catastrophe risk sub-module referred to in point (g) of subparagraph 2 of Article 105(3) of Directive/EC.
 
 2. The capital requirement for life underwriting risk shall be equal to the following:
 
@@ -6233,12 +5795,7 @@ s
 
 
 *i,j*
-
-
 --- Page 88 ---
-
-
-
 where:
 
 (a) the sum covers all possible combinations ( *i*, *j* ) of the sub-modules set out in paragraph 1;
@@ -6294,12 +5851,7 @@ accordance with paragraph 2.
 1. The capital requirement for longevity risk referred to in Article 105(3)(b) of Directive 2009/138/EC shall be equal
 to the loss in basic own funds of insurance and reinsurance undertakings that would result from an instantaneous
 permanent decrease of 20 % in the mortality rates used for the calculation of technical provisions.
-
-
 --- Page 89 ---
-
-
-
 2. The decrease in mortality rates referred to in paragraph 1 shall only apply to those insurance policies for which a
 decrease in mortality rates leads to an increase in technical provisions without the risk margin. The identification of
 insurance policies for which a decrease in mortality rates leads to an increase in technical provisions without the risk
@@ -6359,12 +5911,7 @@ loss in basic own funds of insurance and reinsurance undertakings that would res
 increase of 3 % in the amount of annuity benefits only on annuity insurance and reinsurance obligations where the
 benefits payable under the underlying insurance policies could increase as a result of changes in the legal environment
 or in the state of health of the person insured.
-
-
 --- Page 90 ---
-
-
-
 ##### Article 142
 
 **Lapse risk sub-module**
@@ -6435,12 +5982,7 @@ tinuance would result in an increase of technical provisions without the risk ma
 (c) where reinsurance contracts cover insurance or reinsurance contracts that will be written in the future, the decrease
 of 40 % of the number of those future insurance or reinsurance contracts used in the calculation of technical
 provisions.
-
-
 --- Page 91 ---
-
-
-
 The events referred to in the first subparagraph shall apply uniformly to all insurance and reinsurance contracts
 concerned. In relation to reinsurance contracts, the event referred to in point (a) shall apply to the underlying insurance
 contracts.
@@ -6451,8 +5993,7 @@ most negatively affects the basic own funds of the undertaking on a per policy b
 
 7. Where the largest of the capital requirements referred to in points (a), (b) and (c) of paragraph 1 of this Article and
 the largest of the corresponding capital requirements calculated in accordance with Article 206(2) of this Regulation are
-not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive
-2009/138/EC shall be the capital requirement referred to in points (a), (b) and (c) of paragraph 1 of this Article for
+not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive/EC shall be the capital requirement referred to in points (a), (b) and (c) of paragraph 1 of this Article for
 which the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2) of this Regulations.
 
@@ -6512,12 +6053,7 @@ s
 
 
 *i,j*
-
-
 --- Page 92 ---
-
-
-
 where:
 
 (a) the sum covers all possible combinations ( *i*, *j* ) of the sub-modules set out in paragraph 1;
@@ -6586,12 +6122,7 @@ Article 148;
 
 (b) *V* *NSLTh* denotes the volume measure for NSLT health premium and reserve risk determined in accordance with
 Article 147.
-
-
 --- Page 93 ---
-
-
-
 ##### Article 147
 
 **Volume measure for NSLT health premium and reserve risk**
@@ -6658,12 +6189,7 @@ premiums for reinsurance contracts. The following premiums for reinsurance contr
 (a) premiums in relation to non-insurance events or settled insurance claims that are not accounted for in the cashflows referred to in Article 41(3);
 
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213.
-
-
 --- Page 94 ---
-
-
-
 6. For all segments set out in Annex XIV, the volume measure for reserve risk of a particular segment shall be equal
 to the best estimate for the provision for claims outstanding for the segment, after deduction of the amounts recoverable
 from reinsurance contracts and special purpose vehicles, provided that the reinsurance contracts or special purpose
@@ -6746,12 +6272,7 @@ the adjustment factor for non-proportional reinsurance shall be equal to 100 %.
 1. For the purposes of Article 109a(4) of Directive 2009/138/EC, health insurance obligations subject to the health
 risk equalisation systems (‘HRES’) shall be identified, managed and organised separately from the other activities of the
 insurance undertakings, without any possibility of transfer to health insurance obligations that are not subject to HRES.
-
-
 --- Page 95 ---
-
-
-
 2. The standard deviations for NSLT health premium and reserve risk of segments 1, 2 and 3 in Annex XIV for
 business that is subject to a HRES shall meet all of the following requirements:
 
@@ -6816,12 +6337,7 @@ deviation for NSLT health insurance premium risk for business subject to a HRES 
 paragraph 2 of this Article, insurance undertakings shall use this standard deviation instead of the standard deviation for
 NSLT health premium risk of the segment set out in Annex XIV of this Regulation for the calculation of the standard
 deviation for NSLT health premium and reserve risk referred to in Article 148(1) of this Regulation.
-
-
 --- Page 96 ---
-
-
-
 Where only a part of an insurance undertaking's business in a segment *s* is subject to the HRES, the undertaking shall
 use a standard deviation for NSLT health premium risk of the segment in the calculation of the standard deviation for
 NSLT health premium and reserve risk referred to in Article 148(1) that is equal to the following:
@@ -6883,12 +6399,7 @@ risk for business subject to a HRES with parameters specific to the insurance an
 with Article 104(7) of Directive 2009/138/EC. Supervisory authorities may require insurance and reinsurance
 undertakings to replace those standard deviations with parameters specific to the undertaking in accordance with
 Article 110 of that Directive 2009/138/EC.
-
-
 --- Page 97 ---
-
-
-
 ##### Article 150
 
 **NSLT health lapse risk sub-module**
@@ -6964,16 +6475,7 @@ column *j* of the following correlation matrix:
 |j i|Health mortality|Health longevity|Health disability- morbidity|Health expense|Health revi­ sion|SLT health lapse|
 |---|---|---|---|---|---|---|
 |Health mortality|1|– 0,25|0,25|0,25|0|0|
-
-
 --- Page 98 ---
-
-
-
-
-
-
-
 |j i|Health mortality|Health longevity|Health disability- morbidity|Health expense|Health revi­ sion|SLT health lapse|
 |---|---|---|---|---|---|---|
 |Health longevity|– 0,25|1|0|0,25|0,25|0,25|
@@ -7028,12 +6530,7 @@ policy;
 
 cation of the policies for which technical provisions increase under an decrease of mortality rates may also be based
 on those groups of policies instead of single policies, provided that it yields a result which is not materially different.
-
-
 --- Page 99 ---
-
-
-
 3. With regard to reinsurance obligations, the identification of the policies for which technical provisions increase
 under an decrease of mortality rates shall apply only to the underlying insurance policies and shall be carried out in
 accordance with paragraph 2.
@@ -7100,12 +6597,7 @@ reflect the disability and morbidity in the following 12 months;
 
 (b) an increase of 25 % in the disability and morbidity rates which are used in the calculation of technical provisions to
 reflect the disability and morbidity in the years after the following 12 months;
-
-
 --- Page 100 ---
-
-
-
 (c) where the disability and morbidity recovery rates used in the calculation of technical provisions are lower than
 50 %, a decrease of 20 % in those rates;
 
@@ -7172,12 +6664,7 @@ insurance or reinsurance cover.
 
 For the purposes of point (b), the change in the option exercise rate referred to in paragraphs 2 and 3 should be applied
 to the rate reflecting that the relevant option is not exercised.
-
-
 --- Page 101 ---
-
-
-
 5. In relation to reinsurance contracts, the relevant options for the purposes of paragraphs 2 and 3 shall be the
 following:
 
@@ -7209,8 +6696,7 @@ negatively affects the basic own funds of the undertaking on a per policy basis.
 
 7. Where the largest of the capital requirements referred to in points (a) (b), and (c) of paragraph 1 of this Article and
 the largest of the corresponding capital requirements calculated in accordance with Article 206(2) of this Regulation are
-not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive
-2009/138/EC shall be the capital requirement referred to in points (a), (b) or (c) of paragraph 1 of this Article for which
+not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive/EC shall be the capital requirement referred to in points (a), (b) or (c) of paragraph 1 of this Article for which
 the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2) of this Regulation.
 
@@ -7241,12 +6727,7 @@ group income protection insurance and reinsurance obligations;
 
 (c) the pandemic risk sub-module to health insurance and reinsurance obligations other than workers' compensation
 insurance and reinsurance obligations.
-
-
 --- Page 102 ---
-
-
-
 ##### Article 161
 
 **Mass accident risk sub-module**
@@ -7351,12 +6832,7 @@ r *c*
 
 
 *c*
-
-
 --- Page 103 ---
-
-
-
 where:
 
 (a) the sum includes all countries *c* ;
@@ -7438,12 +6914,7 @@ account the specific guarantees the obligations include.
 5. Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the value of the benefits
 payable by the insurance or reinsurance undertaking for the insured person referred to in paragraph 4 based on
 homogenous risk groups, provided that the grouping of policies complies with the requirements set out in Article 35.
-
-
 --- Page 104 ---
-
-
-
 ##### Article 163
 
 **Pandemic risk sub-module**
@@ -7536,14 +7007,8 @@ compensation insurance or reinsurance obligations, for healthcare utilisation *h
 
 1. The market risk module shall consist of all of the following sub-modules:
 
-(a) the interest rate risk sub-module referred to in point (a) of subparagraph 2 of Article 105(5) of Directive
-2009/138/EC;
-
-
+(a) the interest rate risk sub-module referred to in point (a) of subparagraph 2 of Article 105(5) of Directive/EC;
 --- Page 105 ---
-
-
-
 (b) the equity risk sub-module referred to in point (b) of subparagraph 2 of Article 105(5) of Directive 2009/138/EC;
 
 (c) the property risk sub-module referred to in point (c) of subparagraph 2 of Article 105(5) of Directive 2009/138/EC;
@@ -7552,8 +7017,7 @@ compensation insurance or reinsurance obligations, for healthcare utilisation *h
 
 (e) the currency risk sub-module referred to in point (e) of subparagraph 2 of Article 105(5) of Directive 2009/138/EC;
 
-(f) the market risk concentrations sub-module referred to in point (f) of subparagraph 2 of Article 105(5) of Directive
-2009/138/EC.
+(f) the market risk concentrations sub-module referred to in point (f) of subparagraph 2 of Article 105(5) of Directive/EC.
 
 2. The capital requirement for market risk referred to in Article 105(5) of Directive 2009/138/EC shall be equal to
 the following:
@@ -7613,12 +7077,7 @@ rates as set out in Article 166 of this Regulation;
 
 (b) the sum, over all currencies, of the capital requirements for the risk of a decrease in the term structure of interest
 rates as set out in Article 167 of this Regulation.
-
-
 --- Page 106 ---
-
-
-
 2. Where the larger of the capital requirements referred to in points (a) and (b) of paragraph 1 and the larger of the
 corresponding capital requirements calculated in accordance with Article 206(2) are not based on the same scenario, the
 capital requirement for interest rate risk shall be the capital requirement referred to in points (a) or (b) of paragraph 1
@@ -7656,12 +7115,7 @@ rates for that currency at different maturities in accordance with the following
 |19|27 %|
 |20|26 %|
 |90|20 %|
-
-
 --- Page 107 ---
-
-
-
 For maturities not specified in the table above, the value of the increase shall be linearly interpolated. For maturities
 shorter than 1 year, the increase shall be 70 %. For maturities longer than 90 years, the increase shall be 20 %.
 
@@ -7703,12 +7157,7 @@ rates for that currency at different maturities in accordance with the following
 |19|29 %|
 |20|29 %|
 |90|20 %|
-
-
 --- Page 108 ---
-
-
-
 For maturities not specified in the table above, the value of the decrease shall be linearly interpolated. For maturities
 shorter than 1 year, the decrease shall be 75 %. For maturities longer than 90 years, the decrease shall be 20 %.
 
@@ -7727,8 +7176,7 @@ deducted from own funds shall be considered only to the extent that such impact 
 
 **General provisions**
 
-1. The equity risk sub-module referred to in point (b) of the second subparagraph of Article 105(5) of Directive
-2009/138/EC shall include a risk sub-module for type 1 equities and a risk sub-module for type 2 equities.
+1. The equity risk sub-module referred to in point (b) of the second subparagraph of Article 105(5) of Directive/EC shall include a risk sub-module for type 1 equities and a risk sub-module for type 2 equities.
 
 2. Type 1 equities shall comprise equities listed in regulated markets in the countries which are members of the
 European Economic Area (EEA) or the Organisation for Economic Cooperation and Development (OECD).
@@ -7771,15 +7219,9 @@ undertaking;
 
 ( [1] ) Regulation (EU) No 346/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship
 funds (OJ L 115, 25.4.2013, p. 18).
-
-
 --- Page 109 ---
-
-
-
 (c) as regards closed-ended and unleveraged alternative investment funds which are established in the Union or, if they
-are not established in the Union, which are marketed in the Union in accordance with Articles 35 or 40 of Directive
-2011/61/EU:
+are not established in the Union, which are marketed in the Union in accordance with Articles 35 or 40 of Directive/EU:
 
 (i) equities held within such funds where the look-through approach set out in Article 84 of this Regulation is
 possible for all exposures within the alternative investment fund;
@@ -7841,12 +7283,7 @@ Article 212(1)(b) and (2) of Directive 2009/138/EC, where these investments are 
 
 (c) equal to the sum of 49 % and the symmetric adjustment as referred to in Article 172 of this Regulation, in the value
 of type 2 equities, other than those referred to in points (a) or (b).
-
-
 --- Page 110 ---
-
-
-
 ##### Article 171
 
 **Strategic equity investments**
@@ -7911,12 +7348,7 @@ included in the average.
 
 The transitional measure for standard equity risk set out in Article 308b(12) of Directive 2009/138/EC shall only be
 applied to type 1 equities that were purchased on or before 1 January 2016 and which are not subject to the durationbased equity risk pursuant to Article 304 of that Directive.
-
-
 --- Page 111 ---
-
-
-
 #### Subsection 4
 
 **Property risk sub-module**
@@ -7935,8 +7367,7 @@ decrease of 25 % in the value of immovable property.
 
 **Scope of the spread risk sub-module**
 
-The capital requirement for spread risk referred to in point (d) of the second subparagraph of Article 105(5) of Directive
-2009/138/EC shall be equal to the following:
+The capital requirement for spread risk referred to in point (d) of the second subparagraph of Article 105(5) of Directive/EC shall be equal to the following:
 
 *SCR* *spread* ¼ *SCR* *bonds* þ *SCR* *securitisation* þ *SCR* *cd*
 
@@ -7971,12 +7402,7 @@ table.
 |up to 5|b  dur i i|—|0,9 %|—|1,1 %|—|1,4 %|—|2,5 %|—|4,5 %|—|7,5 %|
 |More than 5 and up to 10|a þ b  ðdur − 5Þ i i i|4,5 %|0,5 %|5,5 %|0,6 %|7,0 %|0,7 %|12,5 %|1,5 %|22,5 %|2,5 %|37,5 %|4,2 %|
 |More than 10 and up to 15|a þ b  ðdur − 10Þ i i i|7,0 %|0,5 %|8,4 %|0,5 %|10,5 %|0,5 %|20,0 %|1,0 %|35,0 %|1,8 %|58,5 %|0,5 %|
-
-
 --- Page 112 ---
-
-
-
 |Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Duration (dur) i|stress i|a i|b i|a i|b i|a i|b i|a i|b i|a i|b i|a i|b i|
@@ -8019,8 +7445,7 @@ equal to the risk-adjusted value of the collateral, *stress* *i* shall be determ
 
 The risk-adjusted value of the collateral shall be calculated in accordance with Articles 112, 197, 198.
 
-6. The impact of the instantaneous decrease in the value of participations, as referred to in Article 92(2) of Directive
-2009/138/EC, in financial and credit institutions shall be considered only on the value of the participations that are not
+6. The impact of the instantaneous decrease in the value of participations, as referred to in Article 92(2) of Directive/EC, in financial and credit institutions shall be considered only on the value of the participations that are not
 deducted from own funds pursuant to Article 68 of this Regulation.
 
 ##### Article 177
@@ -8030,12 +7455,7 @@ deducted from own funds pursuant to Article 68 of this Regulation.
 1. The capital requirement *SCR* *securitisation* for spread risk on securitisation positions shall be the sum of a capital
 requirement for type 1 securitisation positions, a capital requirement for type 2 securitisation positions and a capital
 requirement for resecuritisation positions.
-
-
 --- Page 113 ---
-
-
-
 2. Type 1 securitisation positions shall include securitisation positions that meet all of the following criteria:
 
 (a) the position has been assigned to credit quality step 3 or better;
@@ -8097,12 +7517,7 @@ and fee payments, does not exceed 45 %.
 (ii) fully guaranteed residential loans referred to in Article 129(1)(e) of Regulation (EU) No 575/2013, provided
 that the loans meet the collateralisation requirements laid down in that paragraph and meet on average the
 loan-to-value requirement laid down in point (i) of Article 129(1)(d) of Regulation (EU) No 575/2013;
-
-
 --- Page 114 ---
-
-
-
 (iii) commercial loans, leases and credit facilities to undertakings to finance capital expenditures or business
 operations other than the acquisition or development of commercial real estate, provided that at least 80 % of
 the borrowers in the pool in terms of portfolio balance are small and medium-sized enterprises at the time of
@@ -8113,8 +7528,7 @@ Regulation (EU) No 575/2013;
 Article 3 of Directive 2007/46/EC of the European Parliament and of the Council ( [1] ), agricultural or forestry
 tractors as referred to in Directive 2003/37/EC of the European Parliament and of the Council ( [2] ), motorcycles
 or motor tricycles as defined in points (b) and (c) of Article 1(2) of Directive 2002/24/EC of the European
-Parliament and of the Council ( [3] ) or tracked vehicles as referred to in point (c) of Article 2(2) of Directive
-2007/46/EC. Such loans or leases may include ancillary insurance and service products or additional vehicle
+Parliament and of the Council ( [3] ) or tracked vehicles as referred to in point (c) of Article 2(2) of Directive/EC. Such loans or leases may include ancillary insurance and service products or additional vehicle
 parts, and in the case of leases, the residual value of leased vehicles. All loans and leases in the pool shall be
 secured with a first-ranking charge or security over the vehicle or an appropriate guarantee in favour of the
 SSPE, such as a retention of title provision;
@@ -8167,12 +7581,7 @@ tractors, their trailers and interchangeable towed machinery, together with thei
 repealing Directive 74/150/EEC (OJ L 171, 9.7.2003, p. 1–80).
 ( [3] ) Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the Type-approval of two or
 three-wheel motor vehicles and repealing Council Directive 92/61/EEC (OJ L 124, 9.5.2002, p. 1–44).
-
-
 --- Page 115 ---
-
-
-
 (ii) a failure to generate sufficient new underlying exposures of at least similar credit quality;
 
 (iii) the occurrence of an insolvency-related event with regard to the originator or the servicer;
@@ -8232,12 +7641,7 @@ residential immovable property and amending Directives 2008/48/EC and 2013/36/EU
 28.2.2014, p. 34.
 ( [2] ) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and
 repealing Council Directive 87/102/EEC, OJ L 133, 22.5.2008, p. 66.
-
-
 --- Page 116 ---
-
-
-
 ##### Article 178
 
 **Spread risk on securitisation positions: calculation of the capital requirement**
@@ -8301,12 +7705,7 @@ table:
 
 5. Securitisation positions for which a credit assessment from a nominated ECAI is not available shall be assigned a
 risk factor *stress* *i* of 100 %.
-
-
 --- Page 117 ---
-
-
-
 ##### Article 179
 
 **Spread risk on credit derivatives**
@@ -8369,12 +7768,7 @@ central government and the central bank;
 (c) multilateral development banks referred to in paragraph 2 of Article 117 of Regulation (EU) No 575/2013;
 
 (d) international organisations referred to in Article 118 of Regulation (EU) No 575/2013;
-
-
 --- Page 118 ---
-
-
-
 Exposures in the form of bonds and loans that are fully, unconditionally and irrevocably guaranteed by one of the
 counterparties mentioned in points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall
 also be assigned a risk factor *stress* *i* of 0 %.
@@ -8425,12 +7819,7 @@ Minimum Capital Requirement shall be assigned a risk factor *stress* *i* accordi
 |More than 10 and up to 15|58,50 % + 0,50 %.(dur – 10) i|
 |More than 15 and up to 20|61 % + 0,50 %.(dur – 15) i|
 |More than 20|minð63,5% þ 0,5%  ðdur − 20Þ; 1Þ i|
-
-
 --- Page 119 ---
-
-
-
 6. Paragraphs 4 and 5 of this Article shall only apply as of the first date of public disclosure, by the undertaking
 corresponding to the exposure, of the report on its solvency and financial condition referred to in Article 51 of
 Directive 2009/138/EC. Before that date, if a credit assessment by a nominated ECAI is available for the exposures,
@@ -8485,12 +7874,7 @@ relevant risk factor *stress* *i*, referred to in Articles 176, 178 and 180 of t
 
 For assets in the assigned portfolio for which no credit assessment by a nominated ECAI is available, the reduction
 factor shall be equal to 100 %.
-
-
 --- Page 120 ---
-
-
-
 #### Subsection 6
 
 **Market risk concentrations sub-module**
@@ -8566,12 +7950,7 @@ where:
 
 (a) *E* *i* denotes the exposure at default to single name exposure *i* that is included in the calculation base of the market
 risk concentrations sub-module;
-
-
 --- Page 121 ---
-
-
-
 (b) *Assets* denotes the calculation base of the market risk concentrations sub-module;
 
 (c) *CT* *i* denotes the relative excess exposure threshold referred to in Article 185.
@@ -8635,12 +8014,7 @@ accordance with Article 182(4).
 |Weighted average credit quality step of single name exposure i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Risk factor g i|12 %|12 %|21 %|27 %|73 %|73 %|73 %|
-
-
 --- Page 122 ---
-
-
-
 2. Single name exposures to an insurance or reinsurance undertaking for which a credit assessment by a nominated
 ECAI is not available and where the undertaking meets its Minimum Capital Requirement, shall be assigned a risk factor
 *g* *i* for market risk concentration depending on the undertaking's solvency ratio in accordance with the following table:
@@ -8673,8 +8047,7 @@ Article 227 of Directive 2009/138/EC, and which complies with the solvency requi
 shall be assigned a risk factor *g* *i* of 64,5 %.
 
 5. Single name exposures to credit institutions and financial institutions within the meaning of points (1) and (26) of
-Article 4(1) of Regulation (EU) No 575/2013 and which comply with the solvency requirements set out in of Directive
-2013/36/EU and Regulation (EU) No 575/2013, for which a credit assessment by a nominated ECAI is not available,
+Article 4(1) of Regulation (EU) No 575/2013 and which comply with the solvency requirements set out in of Directive/EU and Regulation (EU) No 575/2013, for which a credit assessment by a nominated ECAI is not available,
 shall be assigned a risk factor *g* *i* of 64,5 %.
 
 6. Single name exposures other than those identified in paragraphs 1 to 5 shall be assigned a risk factor *g* *i* for market
@@ -8703,12 +8076,7 @@ central government and central bank;
 (c) multilateral development banks referred to in Article 117(2) of Regulation (EU) No 575/2013;
 
 (d) international organisations referred to in Article 118 of Regulation (EU) No 575/2013.
-
-
 --- Page 123 ---
-
-
-
 Exposures that are fully, unconditionally and irrevocably guaranteed by one of the counterparties mentioned in
 points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall also be assigned a risk factor *g* *i*
 for market risk concentration of 0 %.
@@ -8766,18 +8134,12 @@ equal to the loss in the basic own funds that would result from an instantaneous
 foreign currency against the local currency.
 
 5. For currencies which are pegged to the euro, the 25 % factor referred to in paragraphs 3 and 4 of this Article may
-be adjusted in accordance with the implementing act adopted pursuant to point (d) of Article 109a(2) of Directive
-2009/138/EC, provided that all of the following conditions are met:
+be adjusted in accordance with the implementing act adopted pursuant to point (d) of Article 109a(2) of Directive/EC, provided that all of the following conditions are met:
 
 (a) the pegging arrangement shall ensure that the relative changes in the exchange rate over a one-year period do not
 exceed the relative adjustments to the 25 % factor, in the event of extreme market events, that correspond to the
 confidence level set out in Article 101(3) of Directive 2009/138/EC;
-
-
 --- Page 124 ---
-
-
-
 (b) one of the following criteria is complied with:
 
 (i) participation of the currency in the European Exchange Rate Mechanism (ERM II);
@@ -8849,12 +8211,7 @@ letters of comfort which the undertaking has provided.
 
 ( [1] ) Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings,
 OJ L 374, 31.12.1991, p. 7.
-
-
 --- Page 125 ---
-
-
-
 3. Type 2 exposures shall consist of all credit exposures which are not covered in the spread risk sub-module and
 which are not type 1 exposures, including the following:
 
@@ -8881,8 +8238,7 @@ secured exposure for the purposes of assessing the number of single name exposur
 
 (a) the credit risk transferred by a credit derivative;
 
-(b) the credit risk on debt issuance by special purpose vehicles, whether as defined in Article 13(26) of Directive
-2009/138/EC or not;
+(b) the credit risk on debt issuance by special purpose vehicles, whether as defined in Article 13(26) of Directive/EC or not;
 
 (c) the underwriting risk of credit and suretyship insurance or reinsurance as referred to in lines of business 9, 21
 and 28 of Annex I of this Regulation;
@@ -8917,12 +8273,7 @@ belong to the same pooling arrangement shall be treated as a single name exposur
 under the counterparty default risk provided the requirements in paragraphs 2 to 13 are met.
 
 2. The exposure shall be either to a natural person or persons or to a small or medium sized enterprise.
-
-
 --- Page 126 ---
-
-
-
 3. The exposure shall be one of a significant number of exposures with similar characteristics such that the risks
 associated with such lending are substantially reduced.
 
@@ -8988,12 +8339,7 @@ of paragraph 13, together with historical data, where available. A supervisory a
 another supervisory authority in a Member State, the EBA or the EIOPA provide to that supervisory authority, the EBA
 or the EIOPA more detailed information on the condition of the residential immovable property markets in that
 Member State.
-
-
 --- Page 127 ---
-
-
-
 ##### Article 192
 
 **Loss-given-default**
@@ -9058,19 +8404,13 @@ where:
 (b) *Mortgage* denotes the risk-adjusted value of the mortgage.
 
 5. The loss-given-default on a legally binding commitment as referred to in Article 189(2)(e) of this Regulation shall
-be equal to the difference between its nominal value and its value in accordance with Article 75 of Directive
-2009/138/EC.
+be equal to the difference between its nominal value and its value in accordance with Article 75 of Directive/EC.
 
 6. The loss-given-default on cash at bank as defined in Article 6 item F of Council Directive 91/674/EEC, of a deposit
 with a ceding undertaking, of an item listed in Article 189(2)(d) or Article 189(3)(e) of this Regulation, or of a receivable
 from an intermediary or policyholder debtor, as well as any other exposure not listed elsewhere in this Article shall be
 equal to its value in accordance with Article 75 of Directive 2009/138/EC.
-
-
 --- Page 128 ---
-
-
-
 ##### Article 193
 
 **Loss-given-default for pool exposures of type A**
@@ -9151,12 +8491,7 @@ arrangement, the loss-given-default shall be calculated as follows:
 *P* *U*
 *LGD* ¼ maxððð1 − *RR* *C* Þ � ~~ð~~
 ð1 − *P* *C* Þ [�] *[BE]* *[C]* [ þ][ Δ] *[RM]* *[C]* [Þ][ − ] *[F]* [ �] *[Collateral]* [Þ][; 0][Þ]
-
-
 --- Page 129 ---
-
-
-
 where:
 
 (a) *P* *U* denotes the undertaking's share of the risk according to the terms of the pooling arrangement;
@@ -9225,12 +8560,7 @@ where:
 (i) 10 % if 60 % or more of the assets of the external counterparty are subject to collateral arrangements;
 
 (ii) 50 % otherwise;
-
-
 --- Page 130 ---
-
-
-
 (c) *BE* *CE* denotes the best estimate of the liability ceded to the external counterparty by the pooling arrangement as a
 whole;
 
@@ -9259,8 +8589,7 @@ that would apply if the reinsurance arrangement, securitisation or derivative di
 **Risk-adjusted value of collateral**
 
 1. The risk-adjusted value of collateral provided by way of security, as referred to in Article 1(26)(b), shall be equal to
-the difference between the value of the assets held as collateral, valued in accordance with Article 75 of Directive
-2009/138/EC, and the adjustment for market risk, as referred to in paragraph 5 of this Article, provided both of the
+the difference between the value of the assets held as collateral, valued in accordance with Article 75 of Directive/EC, and the adjustment for market risk, as referred to in paragraph 5 of this Article, provided both of the
 following requirements are fulfilled:
 
 (a) the insurance or reinsurance undertaking has (or is a beneficiary under a trust where the trustee has) the right to
@@ -9295,12 +8624,7 @@ the assets held as collateral were included in the calculation.
 
 6. For the purposes of paragraph 5, the currency risk of the assets held as collateral shall be calculated by comparing
 the currency of the assets held as collateral against the currency of the corresponding exposure.
-
-
 --- Page 131 ---
-
-
-
 7. Where in case of insolvency of the counterparty, the determination of the insurance or reinsurance undertaking's
 proportional share of the counterparty's insolvency estate in excess of the collateral does not take into account that the
 undertaking receives the collateral, the factors *F* and *F'* referred to in Article 192(2) and (3) shall both be 100 %. In all
@@ -9366,12 +8690,7 @@ Where the solvency ratio falls in between the solvency ratios specified in the t
 default shall be linearly interpolated from the closest values of probabilities of default corresponding to the closest
 solvency ratios specified in the table above. Where the solvency ratio is lower than 75 %, the probability of default shall
 be 4,2 %. Where the solvency ratios is higher than 196 %, the probability of default shall be 0,01 %.
-
-
 --- Page 132 ---
-
-
-
 For the purposes of this paragraph, ‘solvency ratio’ denotes the ratio of the eligible amount of own funds to cover the
 Solvency Capital Requirement and the Solvency Capital Requirement, using the latest available values.
 
@@ -9386,8 +8705,7 @@ from the application of paragraph 3 to exposures to an insurance or reinsurance 
 100 %.
 
 6. Exposures to a third country insurance or reinsurance undertaking for which a credit assessment by a nominated
-ECAI is not available, situated in a country whose solvency regime is deemed equivalent to that laid down in Directive
-2009/138/EC in accordance with Article 227 of Directive 2009/138/EC, and which complies with the solvency
+ECAI is not available, situated in a country whose solvency regime is deemed equivalent to that laid down in Directive/EC in accordance with Article 227 of Directive 2009/138/EC, and which complies with the solvency
 requirements of that third-country, shall be assigned a probability of default equal to 0,5 %.
 
 7. Exposures to credit institutions and financial institutions within the meaning of points (1) and (26) of Article 4(1)
@@ -9431,12 +8749,7 @@ where σ denotes the standard deviation of the loss distribution of type 1 expos
 
 3. Where the standard deviation of the loss distribution of type 1 exposures is higher than 20 % of the total lossesgiven-default on all type 1 exposures, the capital requirement for counterparty default risk on type 1 exposures shall be
 equal to the total losses-given-default on all type 1 exposures.
-
-
 --- Page 133 ---
-
-
-
 4. The standard deviation of the loss distribution of type 1 exposures shall be equal to the following:
 
 ffiffiffi
@@ -9532,12 +8845,7 @@ more than three months
 than three months;
 
 (c) *LGD* *i* denotes the loss-given-default on the type 2 exposure *i* .
-
-
 --- Page 134 ---
-
-
-
 ### Section 7
 
 ***Intangible asset module***
@@ -9613,12 +8921,7 @@ reinsurance obligations, without deducting premiums for reinsurance contracts.
 
 For the purposes of this paragraph, earned premiums shall be gross, without deduction of premiums for reinsurance
 contracts.
-
-
 --- Page 135 ---
-
-
-
 4. The capital requirement for operational risk based on technical provisions shall be calculated as follows:
 
 *Op* *provisions* ¼ 0,0045 � max ð0; *TP* *life* − *TP* *life-ul* Þ þ 0,03 � max ð0; *TP* *non-life* Þ
@@ -9678,12 +8981,7 @@ the health catastrophe risk sub-module, the market risk module and the counterpa
 the scenario-based calculation set out in points (c) and (d) shall take into account the impact of the scenario on
 future discretionary benefits included in technical provisions; this shall be done on the basis of assumptions on
 future management actions that comply with Article 23;
-
-
 --- Page 136 ---
-
-
-
 (c) instead of the capital requirement for counterparty default risk on type 1 exposures referred to in Article 189(1), the
 calculation shall be based on the capital requirement that is equal to the loss in basic own funds that would result
 from an instantaneous loss, due to default events relating to type 1 exposures, of the amount of the capital
@@ -9746,12 +9044,7 @@ purpose vehicles that meet the requirements set out in Articles 209, 211 and 213
 provide for protection in several of the scenario-based calculations set out in Title I, Chapter V, Sections 2, 3 and 4, the
 risk-mitigating effects of these contractual arrangements shall be allocated to the scenario-based calculations in a manner
 that, without double-counting, captures the economic effect of the protections provided. In particular, the economic
-
-
 --- Page 137 ---
-
-
-
 effect of the protections provided shall be captured in determining the loss in basic own funds in the scenario-based
 calculations.
 
@@ -9813,12 +9106,7 @@ the insurance or reinsurance undertaking and consistent with its current busines
 
 (e) the risk that the risk-mitigation technique cannot be replaced due to an absence of liquidity in the market is not
 material;
-
-
 --- Page 138 ---
-
-
-
 (f) the risk that the cost of replacing the risk-mitigation technique increases during the following 12 months is reflected
 in the Solvency Capital Requirement;
 
@@ -9876,15 +9164,9 @@ authorities and compliance with the Solvency Capital Requirement will be restore
 recovery plan referred to in Article 138 of Directive 2009/138/EC. For that purpose, the effect of the risk-mitigation
 technique shall be reduced by the percentage by which the Solvency Capital Requirement is breached.
 
-4. Where risk is transferred to a special purpose vehicle the requirements referred to in Article 211(2) of Directive
-2009/138/EC shall be met for the risk-mitigation technique to be taken into account in the Basic Solvency Capital
+4. Where risk is transferred to a special purpose vehicle the requirements referred to in Article 211(2) of Directive/EC shall be met for the risk-mitigation technique to be taken into account in the Basic Solvency Capital
 Requirement; where the requirements for a special purpose vehicle to be fully-funded cease to be fully met after the
-
-
 --- Page 139 ---
-
-
-
 arrangement has been entered into, the protection offered by the insurance risk-mitigation technique may be partially
 recognised, provided that the insurance or reinsurance undertaking can demonstrate that compliance with the fullyfunded requirement will be restored within three months; for this purpose, the effect of the risk-mitigation technique
 shall be reduced by the percentage of the aggregated maximum risk exposure of the special purpose vehicle, referred to
@@ -9943,12 +9225,7 @@ Article 212(3) and (4).
 2. For the purposes of point (a) of paragraph 1 of this Article, where the value, in accordance with Article 75 of
 Directive 2009/138/EC of the collateral is less than the total risk exposure, the collateral arrangement shall only be
 taken into account to the extent that the collateral covers the risk exposure.
-
-
 --- Page 140 ---
-
-
-
 ##### Article 214
 
 **Collateral Arrangements**
@@ -10015,12 +9292,7 @@ exposure;
 original obligor fails to make any payments due;
 
 (iv) could allow the maturity of the credit protection to be reduced by the protection provider;
-
-
 --- Page 141 ---
-
-
-
 (d) on the default, insolvency or bankruptcy or other credit event of the counterparty, the insurance or reinsurance
 undertaking has the right to pursue, in a timely manner, the guarantor for any monies due under the claim in
 respect of which the protection is provided and the payment by the guarantor shall not be subject to the insurance
@@ -10084,12 +9356,7 @@ ring-fenced fund, the estimated change in those basic own funds for the calculat
 Requirement, as referred to in Article 206(2), shall be adjusted to reflect the reduction in future discretionary
 benefits payable to policy holders or beneficiaries of that ring-fenced fund; the adjustment shall not exceed the
 amount of future discretionary benefits within the ring-fenced fund.
-
-
 --- Page 142 ---
-
-
-
 6. Notwithstanding paragraph 1, the notional Solvency Capital Requirement for each ring-fenced fund and each
 matching adjustment portfolio shall be calculated using the scenario-based calculations under which basic own funds for
 the undertaking as a whole are most negatively affected.
@@ -10151,12 +9418,7 @@ this Regulation, provided that the annuities falling under that sub-module are n
 
 Insurance and reinsurance undertakings shall not replace both the standard parameters referred to in point (a)(ii) and (iii)
 of the same segment or both the standard parameters referred to in point (c)(ii) and (iii) of the same segment.
-
-
 --- Page 143 ---
-
-
-
 2. An excess of loss reinsurance contract for a segment shall be considered recognisable provided it meets the
 following conditions:
 
@@ -10226,12 +9488,7 @@ uses the data to calculate undertaking-specific parameters on its basis;
 
 (b) where the data stem from different sources, the assumptions made in the collection, processing and application of
 data ensure that the data are comparable;
-
-
 --- Page 144 ---
-
-
-
 (c) the data stem from insurance and reinsurance undertakings whose business and risk profile is similar to that of the
 insurance or reinsurance undertaking whose undertaking-specific parameter is calculated in the basis of those data;
 
@@ -10265,8 +9522,7 @@ referred to in Article 218(1)(a)(iii) and (c)(iii);
 Article 218(1)(b) and (d).
 
 2. Where the undertaking is able to use more than one standardised method, the method that provides the most
-accurate result for the purposes of fulfilling the calibration requirements included in Article 101(3) of Directive
-2009/138/EC shall be used.
+accurate result for the purposes of fulfilling the calibration requirements included in Article 101(3) of Directive/EC shall be used.
 
 However, where an undertaking is not able to demonstrate the greater accuracy of the results of one standardised
 method over the other standardised methods to calculate an undertaking-specific parameter, the method providing the
@@ -10300,12 +9556,7 @@ correlation parameters.
 For the purposes of this Chapter, a change or error in the outputs of the internal model, including the Solvency Capital
 Requirement, or in the data used in the internal model shall be considered material where it could influence the
 decision-making or the judgement of the users of that information, including the supervisory authorities.
-
-
 --- Page 145 ---
-
-
-
 ### Section 2
 
 ***Use test***
@@ -10372,12 +9623,7 @@ business strategy;
 
 (b) the internal model and its results are regularly discussed and reviewed in the administrative, management or
 supervisory body of the insurance or reinsurance undertaking;
-
-
 --- Page 146 ---
-
-
-
 (c) all material quantifiable risks identified by the risk management system which are within the scope of the internal
 model are covered by the internal model;
 
@@ -10440,12 +9686,7 @@ a sufficient number of events to reflect the risk profile of the undertaking.
 model at the highest level of aggregation of the components of the partial internal model. If a partial internal model
 consists of different components which are separately calculated and not aggregated within the partial internal model,
 the probability distribution forecast shall be calculated for each component.
-
-
 --- Page 147 ---
-
-
-
 ##### Article 229
 
 **Adequate, applicable and relevant actuarial techniques**
@@ -10500,22 +9741,15 @@ those assumptions.
 
 **Data used in the internal model**
 
-1. Data used in the internal model shall only be considered accurate for the purposes of Article 121(3) of Directive
-2009/138/EC where all of the following conditions are met:
+1. Data used in the internal model shall only be considered accurate for the purposes of Article 121(3) of Directive/EC where all of the following conditions are met:
 
 (a) the data are free from material errors;
 
 (b) data from different time periods used for the same estimation are consistent;
 
 (c) the data are recorded in a timely manner and consistently over time.
-
-
 --- Page 148 ---
-
-
-
-2. Data used in the internal model shall only be considered complete for the purposes of Article 121(3) of Directive
-2009/138/EC where all of the following conditions are met:
+2. Data used in the internal model shall only be considered complete for the purposes of Article 121(3) of Directive/EC where all of the following conditions are met:
 
 (a) data include sufficient historical information to assess the characteristics of the underlying risk, in particular to
 identify trends in the risks;
@@ -10581,12 +9815,7 @@ model;
 
 (c) the existence of dedicated risk mitigation techniques for risks other than those that are covered by the internal
 model.
-
-
 --- Page 149 ---
-
-
-
 3. The quantitative indicators referred to in paragraph 1 of this Article shall include the following:
 
 (a) the capital allocation in accordance with Article 120 of Directive 2009/138/EC;
@@ -10652,12 +9881,7 @@ of Article 121(8) of Directive 2009/138/EC where all of the following conditions
 
 (a) the assumptions on future management actions used in the calculations for the internal model are determined in an
 objective manner;
-
-
 --- Page 150 ---
-
-
-
 (b) assumed future management actions are realistic and consistent with the insurance or reinsurance undertaking's
 current business practice and business strategy, including the use of risk-mitigation techniques and, where there is
 sufficient evidence that the undertaking will change its practices or strategy, the assumed management actions are
@@ -10722,12 +9946,7 @@ including their limitations.
 Data used in the internal model obtained from a third party shall not be considered to be appropriate unless the
 insurance or reinsurance undertaking is able to demonstrate a detailed understanding of those data, including their
 limitations.
-
-
 --- Page 151 ---
-
-
-
 ### Section 4
 
 ***Calibration standards***
@@ -10746,8 +9965,7 @@ which is calculated in accordance with the requirements set out in Article 101(1
 Where the approximations are based on the rescaling of modelled risks, the undertakings referred to in Article 122(3) of
 Directive 2009/138/EC shall demonstrate that the rescaling does not impair the outcome of the approximations.
 
-Where the time period of the risk measure used is different from the one provided in Article 101(3) of Directive
-2009/138/EC, the undertakings referred to in Article 122(3) of that Directive shall take into account all of the
+Where the time period of the risk measure used is different from the one provided in Article 101(3) of Directive/EC, the undertakings referred to in Article 122(3) of that Directive shall take into account all of the
 following:
 
 (a) whether events are equally distributed over time and if not, how it is reflected in the approximations;
@@ -10796,12 +10014,7 @@ reinsurance undertaking shall demonstrate the appropriateness of the integration
 4. The alternative integration technique used shall result in a Solvency Capital Requirement that complies with the
 principles set out in Title I, Chapter VI, Section 4, subsections 1 and 3 of Directive 2009/138/EC and which more
 appropriately reflects the risk profile of the insurance or reinsurance undertaking.
-
-
 --- Page 152 ---
-
-
-
 5. An integration technique shall not be appropriate where any of the following conditions is met:
 
 (a) the resulting Solvency Capital Requirement would not comply with Article 101 of Directive 2009/138/EC;
@@ -10809,8 +10022,7 @@ appropriately reflects the risk profile of the insurance or reinsurance undertak
 (b) the resulting Solvency Capital Requirement would not appropriately reflect the risk profile of the insurance or
 reinsurance undertaking;
 
-(c) the design of the partial internal model is consistent with the principles set out in Articles 101 and 102 of Directive
-2009/138/EC but would not allow its integration into the solvency capital requirement standard formula.
+(c) the design of the partial internal model is consistent with the principles set out in Articles 101 and 102 of Directive/EC but would not allow its integration into the solvency capital requirement standard formula.
 
 ### Section 6
 
@@ -10864,12 +10076,7 @@ following:
 
 (b) for each part of the internal model, the frequency of regular validations and the circumstances which trigger
 additional validation;
-
-
 --- Page 153 ---
-
-
-
 (c) the persons who are responsible for each validation task;
 
 (d) the procedure to be followed in the event that the model validation process identifies problems with the reliability of
@@ -10936,12 +10143,7 @@ probable stresses that would threaten the viability of the insurance or reinsura
 Directive 2009/138/EC shall be sufficient to ensure that any independent knowledgeable third party would be able to
 understand the design and operational details of the internal model and form a sound judgement as to its compliance
 with Article 101 and Articles 120 to 124 of Directive.
-
-
 --- Page 154 ---
-
-
-
 2. In the case of a partial internal model, the documentation referred to in paragraph 1 of this Article shall
 additionally cover compliance with Article 113 of Directive 2009/138/EC, in particular in relation to the justification of
 the limited scope of the model and the integration technique used to integrate the partial internal model into the
@@ -11010,12 +10212,7 @@ Article 236 and a description of the relevant deviations referred to in Article 
 
 (iii) the alternatives to the use of external models and data considered by the insurance or reinsurance undertaking
 and an explanation of the decision in favour of a particular external model or a set of external data.
-
-
 --- Page 155 ---
-
-
-
 ##### Article 245
 
 **Circumstances under which the internal model does not work effectively**
@@ -11085,12 +10282,7 @@ this Regulation.
 2. The combined Minimum Capital Requirement shall be equal to the following:
 
 *MCR* *combined* ¼ minðmaxð *MCR* *linear* ; 0,25 � *SCR* Þ; 0,45 � *SCR* Þ
-
-
 --- Page 156 ---
-
-
-
 where:
 
 (a) *MCR* *linear* denotes the linear Minimum Capital Requirement, calculated in accordance with Articles 249 to 251;
@@ -11162,12 +10354,7 @@ point (c) of paragraph (1), the following premiums for reinsurance contracts sha
 1. The linear formula component for life insurance and reinsurance obligations shall be equal to the following:
 
 *MCR* *linear,l* ¼ 0,037 � *TP* ð *life*,1Þ − 0,052 � *TP* ð *life*,2Þ þ 0,007 � *TP* ð *life*,3Þ þ 0,021 � *TP* ð *life*,4Þ þ 0,0007 � *CAR*
-
-
 --- Page 157 ---
-
-
-
 where:
 
 (a) *TP* *(life,1)* denotes the technical provisions without a risk margin in relation to guaranteed benefits for life insurance
@@ -11234,12 +10421,7 @@ this Regulation.
 3. The notional combined non-life Minimum Capital Requirement shall be equal to the following:
 
 *NMCR* ð *combined,nl* Þ ¼ minðmaxð *NMCR* ð *linear,nl* Þ ; 0,25 �ð *NSCR* *nl* þ *Addon* *nl* ÞÞ; 0,45 �ð *NSCR* *nl* þ *Addon* *nl* ÞÞ
-
-
 --- Page 158 ---
-
-
-
 where:
 
 (a) *NMCR* *(linear,nl)* denotes the notional linear Minimum Capital Requirement for non-life insurance or reinsurance activity;
@@ -11283,8 +10465,7 @@ where:
 
 
 (a) *SCR* denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
-Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive
-2009/138/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
+Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
 Article 37 of that Directive;
 
 (b) *NMCR* *(linear,nl)* denotes the notional linear non-life Minimum Capital Requirement for non-life insurance or reinsurance
@@ -11315,12 +10496,7 @@ where:
 (c) *Addon* *l* denotes the part of the capital add-ons, set by the supervisory authority in accordance with Article 37 of
 Directive 2009/138/EC, which has been apportioned by that supervisory authority to the life insurance or
 reinsurance activity of the insurance or reinsurance undertaking.
-
-
 --- Page 159 ---
-
-
-
 9. The notional linear Minimum Capital Requirement for life insurance or reinsurance activity shall be equal to the
 following:
 
@@ -11354,8 +10530,7 @@ where:
 
 
 (a) *SCR* denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
-Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive
-2009/138/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
+Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
 Article 37 of that Directive;
 
 (b) *NMCR* *(linear,nl)* denotes the notional linear non-life Minimum Capital Requirement for non-life insurance or reinsurance
@@ -11392,12 +10567,7 @@ out in point (ii) of Article 129(1) (d) of that Directive.
 retain, on an ongoing basis a material net economic interest which in any event shall not be less than 5 %, as specified
 in paragraph 2 of this Article, and shall explicitly disclose that commitment to the insurance or reinsurance undertaking
 in the documentation governing the investment.
-
-
 --- Page 160 ---
-
-
-
 2. Only the following retentions shall qualify as retentions of a material net economic interest of not less than 5 %:
 
 (a) the retention of no less than 5 % of the nominal value of each of the tranches sold or transferred to investors;
@@ -11456,12 +10626,7 @@ sponsors on the basis of objective criteria including the fee structures, the in
 management of the programme or securitisation scheme and exposure to credit risk of the securitisations;
 
 (b) by each sponsor proportionately in relation to the number of sponsors.
-
-
 --- Page 161 ---
-
-
-
 ##### Article 255
 
 **Exemptions to risk retention requirements**
@@ -11521,12 +10686,7 @@ sation positions and that the risks from those investments are adequately manage
 6. Insurance and reinsurance undertakings investing in securitisation shall regularly perform stress tests on the cash
 flows and collateral values supporting the underlying exposures. Any stress test shall be commensurate with the nature,
 scale and complexity of the risk inherent in the securitisation position.
-
-
 --- Page 162 ---
-
-
-
 7. Insurance and reinsurance undertakings investing in securitisation shall be able to demonstrate to their supervisory
 authorities that for each of those investments they have a comprehensive and thorough understanding of the investment
 and its underlying exposures and that they have implemented written policies and procedures for their risk
@@ -11591,12 +10751,7 @@ qualifications, competency, skills and professional experience to perform the ta
 them properly;
 
 (f) ensure that all personnel are aware of the procedures for the proper carrying out of their responsibilities;
-
-
 --- Page 163 ---
-
-
-
 (g) ensure that the assignment of multiple tasks to individuals and organisational units does not or is not likely to
 prevent the persons concerned from carrying out any particular function in a sound, honest and objective manner;
 
@@ -11660,12 +10815,7 @@ making process.
 
 3. Insurance and reinsurance undertakings shall, where appropriate, include the performance of stress tests and
 scenario analysis with regard to all relevant risks faced by the undertaking, in their risk-management system.
-
-
 --- Page 164 ---
-
-
-
 4. In addition to the requirements set out in Article 44(4a) of Directive 2009/138/EC for the purposes of the
 calculation of technical provisions and the Solvency Capital Requirement, internal risk management methodologies shall
 not rely solely or automatically on external credit assessments. Where the calculation of technical provisions or of the
@@ -11734,12 +10884,7 @@ term liquidity risk;
 meet the undertaking's obligations as they fall due;
 
 (iii) a plan to deal with changes in expected cash in-flows and out-flows.
-
-
 --- Page 165 ---
-
-
-
 (e) Concentration risk management: actions to be taken by the insurance or reinsurance undertaking to identify relevant
 sources of concentration risk to ensure that risk concentrations remain within established limits and actions to
 analyse possible risks of contagion between concentrated exposures.
@@ -11805,12 +10950,7 @@ the undertaking's business strategy or the economic and financial environment, i
 
 (b) the nature and quality of own fund items or other resources appropriate to cover the risks identified in point (a) of
 this paragraph.
-
-
 --- Page 166 ---
-
-
-
 2. The elements referred to paragraph 1 shall take the following into account:
 
 (a) the time periods that are relevant for taking into account the risks the undertaking faces in the long-term;
@@ -11874,16 +11014,10 @@ in their decision-making process.
 3. The validation shall be carried out separately for homogeneous risk groups. It shall be carried out separately for
 the best estimate, the risk margin and technical provisions calculated according to the market value of financial
 instruments which reliably replicate future cash flows in accordance with Article 40 of this Regulation. It shall be
-carried out separately for technical provisions where the matching adjustment referred to in Article 77b of Directive
-2009/138/EC is applied. In relation to the best estimate, it shall be carried out separately for the gross best estimate and
+carried out separately for technical provisions where the matching adjustment referred to in Article 77b of Directive/EC is applied. In relation to the best estimate, it shall be carried out separately for the gross best estimate and
 amounts recoverable from reinsurance contracts and special purpose vehicles. In relation to non-life insurance
 obligations, it shall be carried out separately for premium provisions and provisions for claims outstanding.
-
-
 --- Page 167 ---
-
-
-
 ##### Article 265
 
 **Valuation of technical provisions — documentation**
@@ -11951,12 +11085,7 @@ reliable.
 2. Insurance and reinsurance undertakings shall establish, implement, maintain and document clearly defined policies
 and procedures for the process of valuation, including the description and definition of roles and responsibilities of the
 personnel involved with the valuation, the relevant models, and the sources of information to be used.
-
-
 --- Page 168 ---
-
-
-
 3. At the request of the supervisory authorities, insurance and reinsurance undertakings shall undertake an external,
 independent valuation or verification of the value of material assets and liabilities.
 
@@ -12022,12 +11151,7 @@ and major projects and investments;
 (b) liaise closely with the users of the outputs of the internal model;
 
 (c) co-operate closely with the actuarial function.
-
-
 --- Page 169 ---
-
-
-
 ##### Article 270
 
 **Compliance function**
@@ -12091,12 +11215,7 @@ calculation is consistent with the requirements set out in Articles 75 to 86 of 
 (b) assess the uncertainty associated with the estimates made in the calculation of technical provisions;
 
 (c) ensure that any limitations of data used to calculate technical provisions are properly dealt with;
-
-
 --- Page 170 ---
-
-
-
 (d) ensure that the most appropriate approximations for the purposes of calculating the best estimate are used in cases
 referred to in Article 82 of Directive 2009/138/EC;
 
@@ -12160,12 +11279,7 @@ accordance with Article 48(1)(h) of Directive 2009/138/EC shall include analysis
 supervisory body, at least annually. The report shall document all tasks that have been undertaken by the actuarial
 function and their results, and shall clearly identify any deficiencies and give recommendations as to how such
 deficiencies should be remedied.
-
-
 --- Page 171 ---
-
-
-
 ### Section 3
 
 ***Fit and proper requirements***
@@ -12227,12 +11341,7 @@ trative, management or supervisory body and authorised by them;
 (f) the service provider is subject to the same provisions on the safety and confidentiality of information relating to the
 insurance or reinsurance undertaking or to its policyholders or beneficiaries that are applicable to the insurance or
 reinsurance undertaking.
-
-
 --- Page 172 ---
-
-
-
 4. The written agreement referred to in paragraph 3 (c) to be concluded between the insurance or reinsurance
 undertaking and the service provider shall in particular clearly state all of the following requirements:
 
@@ -12292,12 +11401,7 @@ activities are sufficiently qualified and reliable;
 (d) ensure that the service provider has adequate contingency plans in place to deal with emergency situations or
 business disruptions and periodically tests backup facilities where necessary, taking into account the outsourced
 functions and activities.
-
-
 --- Page 173 ---
-
-
-
 ### Section 5
 
 ***Renumeration policy***
@@ -12367,12 +11471,7 @@ independent from the performance of the operational units and areas that are sub
 
 3. The remuneration policy shall be design in such a way as to take into account the internal organization of the
 insurance or reinsurance undertaking, and the nature, scale and complexity of the risks inherent in its business.
-
-
 --- Page 174 ---
-
-
-
 ## *CHAPTER X*
 
 **CAPITAL ADD-ON**
@@ -12406,8 +11505,7 @@ For the purposes of Article 37(1)(c) of Directive 2009/138/EC, in concluding tha
 insurance or reinsurance undertaking deviates significantly from the standards laid down in Title I, Chapter IV, Section 2
 of that Directive, supervisory authorities shall take into account all relevant factors including all of the following:
 
-(a) the effect of the deviation from the governance standards as laid down in Title I, Chapter IV, Section 2 of Directive
-2009/138/EC on the sound and prudent management of the business and whether the deviation arises from an
+(a) the effect of the deviation from the governance standards as laid down in Title I, Chapter IV, Section 2 of Directive/EC on the sound and prudent management of the business and whether the deviation arises from an
 inadequate implementation of a requirement relating to the system of governance or a failure to implement such a
 requirement;
 
@@ -12441,12 +11539,7 @@ relevant factors including all of the following:
 (d) the anticipated duration and volatility of the deviation over the duration of the deviation;
 
 (e) the impact of the deviation on the Solvency Capital Requirement and own funds of the undertaking.
-
-
 --- Page 175 ---
-
-
-
 2. With respect to the matching adjustment and transitional measures and with respect to the volatility adjustment,
 where Member States require prior approval for this adjustment, where supervisory authorities have allowed an
 insurance or reinsurance undertaking to use one of these adjustments or transitional measures, they may impose a
@@ -12511,12 +11604,7 @@ compliance with Article 101(3) of Directive 2009/138/EC;
 
 (b) the Solvency Capital Requirement of the insurance or reinsurance undertaking, excluding any previous or
 simultaneous capital add-on.
-
-
 --- Page 176 ---
-
-
-
 ##### Article 283
 
 **Scope and approach of modifications as regards a deviation from SCR assumptions**
@@ -12560,8 +11648,7 @@ impact on the amount referred to in Article 282(a) of the aspects which indicate
 Requirement;
 
 (b) it would be inappropriate to address the aspects which indicate a lower Solvency Capital Requirement by replacing
-standard parameters by parameters specific to the undertaking in accordance with Article 104(7) of Directive
-2009/138/EC or by using an internal model in accordance with Article 112 of that Directive;
+standard parameters by parameters specific to the undertaking in accordance with Article 104(7) of Directive/EC or by using an internal model in accordance with Article 112 of that Directive;
 
 (c) the overall Solvency Capital Requirement that would result after setting off the risk profile deviations against each
 other complies with Article 101(3) of Directive 2009/138/EC.
@@ -12576,12 +11663,7 @@ authorities shall calculate the capital add-on as the sum, at a given point in t
 (a) the negative of the amount of eligible own funds that would be calculated if the adjustment or transitional measure
 was modified in a manner that the assumptions underlying the adjustment or transitional measure would fit the
 actual assets, liabilities and risk profile of the insurance or reinsurance undertaking;
-
-
 --- Page 177 ---
-
-
-
 (b) the amount of the Solvency Capital Requirement, excluding any previous or simultaneous capital add-on, that would
 be calculated if the adjustment or transitional measure was modified in a manner that the assumptions underlying
 the adjustment or transitional measure would fit the actual assets, liabilities and risk profile of the insurance or
@@ -12640,12 +11722,7 @@ non-life capital add-on according to the same apportionment.
 the notional life capital add-on and notional non-life capital add-on in the same way as the apportionment between the
 notional life Minimum Capital Requirement and the notional non-life Minimum Capital Requirement as referred to in
 Article 74(2) of Directive 2009/138/EC.
-
-
 --- Page 178 ---
-
-
-
 ## *CHAPTER XI*
 
 **EXTENSION OF THE RECOVERY PERIOD**
@@ -12709,12 +11786,7 @@ or reinsurance undertaking belongs;
 
 (i) any measures taken by the insurance or reinsurance undertaking to limit the outflow of capital and the deterioration
 of its solvency position.
-
-
 --- Page 179 ---
-
-
-
 ## *CHAPTER XII*
 
 **PUBLIC DISCLOSURE**
@@ -12777,12 +11849,7 @@ group;
 
 (g) any significant business or other events that have occurred over the reporting period that have had a material
 impact on the undertaking.
-
-
 --- Page 180 ---
-
-
-
 2. The solvency and financial condition report shall include qualitative and quantitative information on the insurance
 or reinsurance undertaking's underwriting performance, at an aggregate level and by material line of business and
 material geographical areas where it carries out business over the reporting period, together with a comparison of the
@@ -12844,12 +11911,7 @@ persons who effectively run the undertaking or have other key functions;
 
 (b) a description of the undertaking's process for assessing the fitness and the propriety of the persons who effectively
 run the undertaking or have other key functions.
-
-
 --- Page 181 ---
-
-
-
 3. The solvency and financial condition report shall include all of the following information regarding the risk
 management system of the insurance or reinsurance undertaking:
 
@@ -12914,12 +11976,7 @@ following categories of risk:
 (a) underwriting risk;
 
 (b) market risk;
-
-
 --- Page 182 ---
-
-
-
 (c) credit risk;
 
 (d) liquidity risk;
@@ -12984,12 +12041,7 @@ valuation for solvency purposes;
 (c) separately for each material line of business, a quantitative and qualitative explanation of any material differences
 between the bases, methods and main assumptions used by that undertaking for the valuation for solvency purposes
 and those used for their valuation in financial statements;
-
-
 --- Page 183 ---
-
-
-
 (d) where the matching adjustment referred to in Article 77b of Directive 2009/138/EC is applied, a description of the
 matching adjustment and of the portfolio of obligations and assigned assets to which the matching adjustment is
 applied, as well as a quantification of the impact of a change to zero of the matching adjustment on that underta­­
@@ -13003,8 +12055,7 @@ financial position, including on the amount of technical provisions, the Solvenc
 Capital Requirement, the basic own funds and the amounts of own funds eligible to cover the Minimum Capital
 Requirement and the Solvency Capital Requirement;
 
-(f) a statement on whether the transitional risk-free interest rate-term structure referred to Article 308c of Directive
-2009/138/EC is applied and a quantification of the impact of not applying the transitional measure on the underta­­
+(f) a statement on whether the transitional risk-free interest rate-term structure referred to Article 308c of Directive/EC is applied and a quantification of the impact of not applying the transitional measure on the underta­­
 king's financial position, including on the amount of technical provisions, the Solvency Capital Requirement, the
 Minimum Capital Requirement, the basic own funds and the amounts of own funds eligible to cover the Minimum
 Capital Requirement and the Solvency Capital Requirement;
@@ -13055,12 +12106,7 @@ period and at the end of the previous reporting period, including an analysis of
 over the reporting period;
 
 (c) the eligible amount of own funds to cover the Solvency Capital Requirement, classified by tiers;
-
-
 --- Page 184 ---
-
-
-
 (d) the eligible amount of basic own funds to cover the Minimum Capital Requirement, classified by tiers;
 
 (e) a quantitative and qualitative explanation of any material differences between equity as shown in the undertaking's
@@ -13123,12 +12169,7 @@ condition report shall also include all of the following information:
 (a) a description of the various purposes for which that undertaking is using its internal model;
 
 (b) a description of the scope of the internal model in terms of business units and risk categories;
-
-
 --- Page 185 ---
-
-
-
 (c) where a partial internal model is used, a description of the technique which has been used to integrate any partial
 internal model into the standard formula including, where relevant, a description of alternative techniques used;
 
@@ -13171,8 +12212,7 @@ regarding the capital management of the insurance or reinsurance undertaking.
 
 **Additional voluntary information**
 
-Where insurance and reinsurance undertakings disclose publicly, in accordance with Article 54(2) of Directive
-2009/138/EC, any information or explanation related to their solvency and financial condition whose public disclosure
+Where insurance and reinsurance undertakings disclose publicly, in accordance with Article 54(2) of Directive/EC, any information or explanation related to their solvency and financial condition whose public disclosure
 is not legally required these undertakings shall ensure that such additional information is consistent with any
 information provided to the supervisory authorities pursuant to Article 35 of that Directive.
 
@@ -13188,12 +12228,7 @@ long as the reason for non-disclosure continues to exist.
 
 2. Insurance and reinsurance undertakings shall notify supervisory authorities as soon as the reason for any
 permitted non-disclosure ceases to exist.
-
-
 --- Page 186 ---
-
-
-
 ### Section 3
 
 ***Solvency and financial condition report: deadlines, means of disclosure and updates***
@@ -13251,12 +12286,7 @@ updated version.
 undertakings in accordance with the requirements of Article 54(1) of Directive 2009/138/EC, any updated version of
 the solvency and financial condition report shall be disclosed as soon as possible after the major development referred
 to in paragraph 1 of this Article, in accordance with the provisions set out in Article 301 of this Regulation.
-
-
 --- Page 187 ---
-
-
-
 3. Notwithstanding paragraphs 1 and 2, insurance and reinsurance undertakings may decide, for the purposes of
 paragraph 5 of Article 301, to disclose appropriate information on the nature and effects of any major development
 significantly affecting the relevance of their solvency and financial condition report in the form of amendments supple­­
@@ -13304,10 +12334,8 @@ accordance with Article 45(5) of that Directive;
 (d) annual and quarterly quantitative templates specifying in greater detail and supplementing the information presented
 in the solvency and financial condition report and in the regular supervisory report, taking into account possible
 limitations and exemptions in accordance with Article 35(6) and (7) of Directive 2009/138/EC. To the extent that
-undertakings are exempted from quarterly reporting obligations in accordance with Article 35(6) of Directive
-2009/138/EC they shall submit annual quantitative templates only. Annual reporting obligations shall not include
-reporting on an item-by-item basis where undertakings are exempted from it according to Article 35(7) of Directive
-2009/138/EC.
+undertakings are exempted from quarterly reporting obligations in accordance with Article 35(6) of Directive/EC they shall submit annual quantitative templates only. Annual reporting obligations shall not include
+reporting on an item-by-item basis where undertakings are exempted from it according to Article 35(7) of Directive/EC.
 
 2. The regular supervisory report shall include a summary which shall in particular highlight any material changes
 that have occurred in the undertaking's business and performance, system of governance, risk profile, valuation for
@@ -13320,12 +12348,7 @@ purposes of Article 45(6) of Directive 2009/138/EC.
 4. Paragraph 1 shall be without prejudice to the power of supervisory authorities to require insurance and
 reinsurance undertakings to communicate on a regular basis any other information prepared under the responsibility of
 — or at the request of — the administrative, management or supervisory body of those undertakings.
-
-
 --- Page 188 ---
-
-
-
 ##### Article 305
 
 **Materiality**
@@ -13391,12 +12414,7 @@ changes;
 
 (b) an analysis of the undertaking's overall investment performance during the reporting period and also by relevant
 asset class;
-
-
 --- Page 189 ---
-
-
-
 (c) projections of the undertaking's expected investment performance, with information on significant factors that
 might affect such investment performance, over its business planning time period;
 
@@ -13464,12 +12482,7 @@ adjustment, as referred to in Article 44(2a) of Directive 2009/138/EC.
 assessments which were performed over the reporting period by the insurance or reinsurance undertaking:
 
 (a) a description of how the own risk and solvency assessment is performed, internally documented and reviewed;
-
-
 --- Page 190 ---
-
-
-
 (b) a description of how the own risk and solvency assessment is integrated into the management process and into the
 decision-making process of the undertaking.
 
@@ -13538,12 +12551,7 @@ categories of risk:
 (e) operational risk;
 
 (f) other material risks.
-
-
 --- Page 191 ---
-
-
-
 2. The regular supervisory report shall include all of the following information regarding the risk exposure of the
 insurance or reinsurance undertaking, including the exposure arising from off-balance sheet positions and the transfer of
 risk to special purpose vehicles:
@@ -13609,12 +12617,7 @@ undertaking including their outcome;
 8. The regular supervisory report shall include information regarding quantitative data which is necessary for
 determining dependencies between the risks covered by the risk modules or sub-modules and of the Basic Solvency
 Capital Requirement.
-
-
 --- Page 192 ---
-
-
-
 9. The regular supervisory report shall include any other material information regarding their risk profile of the
 insurance or reinsurance undertaking.
 
@@ -13673,20 +12676,14 @@ Directive 2009/138/EC.
 3. Where an internal model is used to calculate the Solvency Capital Requirement, the regular supervisory report
 shall also include all of the following information:
 
-(a) the results of the review of the causes and sources of profits and losses, required by Article 123 of Directive
-2009/138/EC, for each major business unit and how the categorisation of risk chosen in the internal model explains
+(a) the results of the review of the causes and sources of profits and losses, required by Article 123 of Directive/EC, for each major business unit and how the categorisation of risk chosen in the internal model explains
 those causes and sources of profits and losses;
 
 (b) information on whether, and if so to what extent, the risk profile of the undertaking deviates from the assumptions
 underlying the undertaking's internal model;
 
 (c) information about future management actions used in the calculation of the Solvency Capital Requirement.
-
-
 --- Page 193 ---
-
-
-
 4. Where undertaking-specific parameters are used to calculate the Solvency Capital Requirement, or a matching
 adjustment is applied to the relevant risk-free interest term structure, the regular supervisory report shall include
 information regarding whether there have been changes to the information included in the application for approval of
@@ -13752,12 +12749,7 @@ submit to the supervisory authorities the following quantitative and qualitative
 Articles 75 to 86 of Directive 2009/138/EC. The reference date of the opening financial statement shall be the first
 day of the insurance or reinsurance undertaking's financial year starting on or after 1 January 2016 but before
 1 July 2016;
-
-
 --- Page 194 ---
-
-
-
 (b) separately for each material class of assets and liabilities, a qualitative explanation of the main differences between
 the figures reported in the opening valuation as set out in point (a) and those calculated according to the solvency
 regime previously in place;
@@ -13813,12 +12805,7 @@ concerned shall be the calendar year starting on or after 1 January 2016 and inf
 than 3 months after the year start. In relation to the first year, the information to be disclosed in a language customary
 in the sphere of international finance shall be published no later than 12 months after the date in which the
 information in the official language or languages of the Member State concerned is published.
-
-
 --- Page 195 ---
-
-
-
 ## *CHAPTER XV*
 
 **SPECIAL PURPOSE VEHICLES**
@@ -13845,8 +12832,7 @@ Articles 319 to 321;
 
 (d) the persons that effectively run the special purpose vehicle satisfy the requirements referred to in Article 322;
 
-(e) the shareholders or members having a qualifying holding within the meaning of Article 13(21) of Directive
-2009/138/EC in the special purpose vehicle satisfy the conditions set out in Article 323;
+(e) the shareholders or members having a qualifying holding within the meaning of Article 13(21) of Directive/EC in the special purpose vehicle satisfy the conditions set out in Article 323;
 
 (f) the special purpose vehicle has an effective system of governance and meets the requirements set out in Article 324;
 
@@ -13890,12 +12876,7 @@ following:
 
 (a) the claims of the providers of debt or financing mechanisms are at all times subordinated to the reinsurance
 obligations of the special purpose vehicle to the insurance or reinsurance undertaking;
-
-
 --- Page 196 ---
-
-
-
 (b) no payments are made to the providers of debt or financing, if following those payments the special purpose vehicle
 would no longer be fully funded;
 
@@ -13926,8 +12907,7 @@ whether any new persons appointed to run the special purpose vehicle are fit and
 Article 42(1) of Directive 2009/138/EC.
 
 4. Special purpose vehicles shall notify the supervisory authorities if any of the persons who effectively run a special
-purpose vehicle have been replaced because they no longer fulfil the requirements set out in Article 42(1) of Directive
-2009/138/EC.
+purpose vehicle have been replaced because they no longer fulfil the requirements set out in Article 42(1) of Directive/EC.
 
 ##### Article 323
 
@@ -13964,12 +12944,7 @@ assumes and the uses for which it is authorised.
 
 ( [1] ) Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial
 system for the purposes of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).
-
-
 --- Page 197 ---
-
-
-
 2. The system of governance of the special purpose vehicle shall consist of all of the following:
 
 (a) written policies in relation to at least risk management, internal control, administrative and accounting procedures
@@ -14042,12 +13017,7 @@ with Articles 318 to 324 and Article 326.
 1. In order to be considered fully funded special purpose vehicles shall satisfy all of the following requirements:
 
 (a) the assets of the special purpose vehicle are valued in accordance with Article 75 of Directive 2009/138/EC;
-
-
 --- Page 198 ---
-
-
-
 (b) the special purpose vehicle has at all times assets the value of which is equal to or exceeds the aggregate maximum
 risk exposure and the special purpose vehicle is able to pay the amounts it is liable for as they fall due;
 
@@ -14114,12 +13084,7 @@ group of undertakings, or geographical area and excessive accumulation of risk i
 
 (g) investments in assets issued by the same issuer, or by issuers belonging to the same group, shall not expose the
 special purpose vehicle to excessive risk concentration.
-
-
 --- Page 199 ---
-
-
-
 # TITLE II
 
 **INSURANCE GROUPS**
@@ -14187,12 +13152,7 @@ the own funds items of those undertakings calculated according to Articles 17 to
 (c) the capital requirements for related undertakings which are UCITS management companies calculated in accordance
 with Article 7(1)(a) of Directive 2009/65/EC and the own funds of those undertakings calculated in accordance with
 point 1 of Article 2(1) of that Directive;
-
-
 --- Page 200 ---
-
-
-
 (d) the capital requirements for related undertakings which are alternative investment fund managers calculated in
 accordance with Article 9 of Directive 2011/61/EU and the own funds of those undertakings calculated in
 accordance with Article 4(1)(ad) of that Directive;
@@ -14254,12 +13214,7 @@ Requirement:
 (a) ancillary own funds;
 
 (b) preference shares, subordinated mutual members account and subordinated liabilities;
-
-
 --- Page 201 ---
-
-
-
 (c) an amount equal to the value of net deferred tax assets; for this purpose, the amount of deferred tax asset may be
 reduced by the amount of the associated deferred tax liability provided that those deferred tax assets and associated
 deferred tax liabilities both arise from the tax law of one Member State or third country and the taxation authority
@@ -14322,12 +13277,7 @@ solvency, the own-fund item shall be classified in the same tier at group level 
 additional requirements are met:
 
 (a) undertakings comply with the requirements set out in Articles 71, 73 and 77 of this Regulation;
-
-
 --- Page 202 ---
-
-
-
 (b) the own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the own-fund item, could result in that own-fund item not satisfying the requirements set out in
 Article 94 of Directive 2009/138/EC at group level.
@@ -14385,12 +13335,7 @@ with the second subparagraph of Article 230(2) of Directive 2009/138/EC;
 
 (ii) where a combination of methods 1 and 2 is used, the minimum determined in accordance with Article 341 of
 this Regulation.
-
-
 --- Page 203 ---
-
-
-
 ##### Article 333
 
 **Classification of own-fund items of insurance holding companies, mixed financial holding companies, and**
@@ -14456,12 +13401,7 @@ included in point (a), where those undertakings' responsibility is limited to th
 or reinsurance undertakings, third-country insurance or reinsurance undertakings, insurance holding companies,
 mixed financial holding companies which are not subsidiaries of the parent undertaking and which are not covered
 by points (a) and (c);
-
-
 --- Page 204 ---
-
-
-
 (e) the proportional share of the undertakings' own funds calculated according to the relevant sectoral rules, as referred
 to in Article 2(7) of Directive 2002/87/EC, in relation to holdings in related undertakings which are credit
 institutions, investment firms and financial institutions, alternative investment fund managers, UCITS management
@@ -14517,17 +13457,11 @@ currency used for the preparation of the consolidated accounts.
 framework of the standard formula, be calculated by replacing a subset of the standard parameters laid down in
 Article 218 by parameters specific to the group (‘group-specific parameters’).
 
-2. Data used to calculate group-specific parameters shall satisfy the criteria set out in Article 104(7) of Directive
-2009/138/EC and Article 219 of this Regulation.
+2. Data used to calculate group-specific parameters shall satisfy the criteria set out in Article 104(7) of Directive/EC and Article 219 of this Regulation.
 
 3. The standardised methods used to calculate the group-specific parameters are the methods set out in Article 220
 of this Regulation.
-
-
 --- Page 205 ---
-
-
-
 4. For the purposes of this Article, any reference in Articles 218, 219 and 220 of this Regulation to ‘undertakingspecific parameters’ shall be understood as a reference to ‘group-specific parameters’ and any reference to ‘insurance and
 reinsurance undertakings’ shall be understood as a reference to ‘the participating insurance or reinsurance company, the
 insurance holding company or the mixed financial holding company’ applying for the use of group-specific parameters.
@@ -14590,12 +13524,7 @@ the second subparagraph of Article 230(2) of that Directive.
 where the impact of the intra-group transaction affects the best estimates of the insurance and reinsurance undertakings
 in such way that the amount set out in paragraph 2 is different depending on whether the intra-group transaction is
 eliminated in the calculation of that amount or not.
-
-
 --- Page 206 ---
-
-
-
 2. The amount referred to in paragraph 1 shall be the sum of the following:
 
 (a) the best estimate of the participating insurance or reinsurance undertaking calculated in accordance with Articles 75
@@ -14636,8 +13565,7 @@ supervisor, shall first be made to the group supervisor. The group supervisor sh
 supervisory authorities involved in the assessment of the application, require that the application, or the relevant part of
 it, be provided in a language most commonly understood by the supervisory authorities involved.
 
-5. In addition to the documents and information required pursuant to Articles 112 and 113 of Directive
-2009/138/EC, an application to use an internal model to calculate the consolidated group Solvency Capital Requirement
+5. In addition to the documents and information required pursuant to Articles 112 and 113 of Directive/EC, an application to use an internal model to calculate the consolidated group Solvency Capital Requirement
 shall include all of the following documents and information:
 
 (a) regarding the scope of the model:
@@ -14661,18 +13589,12 @@ excluded related undertakings in order to demonstrate that the exclusion does no
 the overall risks to which the group is exposed; the application shall demonstrate that the consolidated group
 Solvency Capital Requirement calculated using a combination of the internal model and the standard formula
 will adequately reflect the overall risk profile of the group;
-
-
 --- Page 207 ---
-
-
-
 (iv) for each related undertaking included in the scope of the internal model for the calculation of the consolidated
 group Solvency Capital Requirement, a justification of the reasons why the internal model covers a related
 undertaking for the calculation of the consolidated group Solvency Capital Requirement but it is not used to
 calculate the Solvency Capital Requirement of that related undertaking; for this purpose and in order to justify
-that an application is not submitted in accordance with the procedure laid down in Article 231 of Directive
-2009/138/EC, the application shall include an explanation of how the internal model used to calculate the
+that an application is not submitted in accordance with the procedure laid down in Article 231 of Directive/EC, the application shall include an explanation of how the internal model used to calculate the
 consolidated group Solvency Capital Requirement differs from and interacts with an internal model used for the
 calculation of the Solvency Capital Requirement of any of the related insurance or reinsurance undertakings
 previously approved by its supervisory authority; the participating undertaking shall provide information on
@@ -14731,12 +13653,7 @@ which the group is exposed are not underestimated by using a partial internal mo
 4. The assessment of the application shall include an evaluation of whether the justification provided in accordance
 with Article 343(5)(a)(iv) of the reasons why the internal model covers a related undertaking for the calculation of the
 consolidated group Solvency Capital Requirement but it is not used to calculate the Solvency Capital Requirement of
-
-
 --- Page 208 ---
-
-
-
 that related undertaking, is appropriate in order to justify that an application is not submitted in accordance with the
 procedure laid down in Article 231 of Directive 2009/138/EC.
 
@@ -14799,12 +13716,7 @@ reinsurance undertaking in the group, as referred to in Article 231(1) of Direct
 
 2. An application to use a group internal model shall be provided in writing in an official language of the group
 supervisor's Member State, or in a language for which the group supervisor has given prior approval.
-
-
 --- Page 209 ---
-
-
-
 3. For the purposes of this Section, the group supervisor and the supervisory authorities of all the Member States in
 which the head offices of each related insurance and reinsurance undertakings applying for the use of the group internal
 model to calculate their Solvency Capital Requirement are situated shall be referred to as ‘the supervisory authorities
@@ -14848,8 +13760,7 @@ applicant that the six month period referred to in Article 231 of Directive 2009
 the documents in respect of which the application is not complete.
 
 3. Where the group supervisor determines that the application is complete, it shall notify the applicant without delay
-that the application is complete and the date from which the six month period referred to in Article 231 of Directive
-2009/138/EC. That date shall be the date on which the complete application was received.
+that the application is complete and the date from which the six month period referred to in Article 231 of Directive/EC. That date shall be the date on which the complete application was received.
 
 ##### Article 349
 
@@ -14865,12 +13776,7 @@ concerned with the decision translated in an official language of the Member Sta
 office. Each related insurance or reinsurance undertaking applying for the use of the group internal model to calculate
 their Solvency Capital Requirement shall be provided with the joint decision or, where relevant, with a translation of
 that decision, by the supervisory authority having authorised that undertaking.
-
-
 --- Page 210 ---
-
-
-
 3. In the joint decision, the supervisory authorities concerned may require the applicant to submit a realistic
 transitional plan to extend the scope of the group internal model.
 
@@ -14924,8 +13830,7 @@ most of the tasks of the compliance function listed in Article 270 of this Regul
 (c) the requirements on outsourcing set out in Article 49 of Directive 2009/138/EC are complied with by the subsidiary
 in relation to the risk management and compliance activities carried out by the parent undertaking.
 
-2. In assessing whether the subsidiary is managed prudently in accordance with Article 236(b) of Directive
-2009/138/EC, the group supervisor and the other supervisory authorities concerned shall consider whether all the
+2. In assessing whether the subsidiary is managed prudently in accordance with Article 236(b) of Directive/EC, the group supervisor and the other supervisory authorities concerned shall consider whether all the
 following criteria are met:
 
 (a) the system of governance of the group, as referred to in Article 246 of Directive 2009/138/EC, is sufficiently
@@ -14938,12 +13843,7 @@ Directive 2009/138/EC;
 
 (c) the system of governance of the subsidiary, as referred to in Article 41 of Directive 2009/138/EC, is not impaired by
 the risk management and compliance functions of the parent undertaking covering the subsidiary.
-
-
 --- Page 211 ---
-
-
-
 ##### Article 352
 
 **Assessment of conditions: procedures**
@@ -15003,12 +13903,7 @@ supervision of a related undertaking in the group, the group supervisor may, whe
 the efficient exchange of information and to facilitate the exercise of group supervision, and after consultation with the
 other supervisory authorities in the college of supervisors, invite that supervisory authority of a related undertaking to
 participate in any relevant activity of the college of supervisors.
-
-
 --- Page 212 ---
-
-
-
 ##### Article 355
 
 **Coordination arrangements**
@@ -15074,12 +13969,7 @@ group supervisor, by the participating insurance or reinsurance undertaking, the
 mixed financial holding company (for the purposes of this Article, referred to as ‘the applicant’) in one of the official
 languages of the group supervisor's Member State or in a language for which the group supervisor has given prior
 approval.
-
-
 --- Page 213 ---
-
-
-
 2. The group supervisor shall inform the other supervisory authorities within the college of supervisors without delay
 of the receipt of the application and shall also forward the application to the other supervisory authorities within the
 college of supervisors.
@@ -15107,8 +13997,7 @@ transmitting the information or by facilitating the access to it.
 systematic basis, for each related insurance or reinsurance undertaking falling within the scope of group supervision, the
 following information:
 
-(a) the solvency and financial condition report, unless the group supervisor has agreed under Article 256(2) of Directive
-2009/138/EC to the inclusion of subsidiaries within the group in a single solvency and financial condition report;
+(a) the solvency and financial condition report, unless the group supervisor has agreed under Article 256(2) of Directive/EC to the inclusion of subsidiaries within the group in a single solvency and financial condition report;
 
 (b) the regular supervisory report, as well as relevant annual and quarterly quantitative templates;
 
@@ -15141,12 +14030,7 @@ Where Member States allow supervisory authorities to exercise group supervision 
 Articles 216 or 217 of Directive 2009/138/EC, such a decision by the supervisory authorities shall only be taken in
 circumstances justified by objective differences in the operations, the organisation or the risk-profile between the
 subgroup and the group.
-
-
 --- Page 214 ---
-
-
-
 ## *CHAPTER V*
 
 **PUBLIC DISCLOSURE**
@@ -15167,8 +14051,7 @@ following information:
 (a) regarding the group's business and performance:
 
 (i) a description of the legal structure and the governance and organisational structure of the group, with a
-description of all subsidiaries, material related undertakings within the meaning of Article 256a of Directive
-2009/138/EC and significant branches within the meaning of Article 354(1) of this Regulation;
+description of all subsidiaries, material related undertakings within the meaning of Article 256a of Directive/EC and significant branches within the meaning of Article 354(1) of this Regulation;
 
 (ii) qualitative and quantitative information on relevant operations and transactions within the group;
 
@@ -15214,12 +14097,7 @@ calculate the group Solvency Capital Requirement;
 
 (vii) a description of the main differences, if any, between any internal model used at individual undertaking level
 and any internal model used to calculate the group Solvency Capital Requirement.
-
-
 --- Page 215 ---
-
-
-
 ##### Article 360
 
 **Languages**
@@ -15276,12 +14154,7 @@ major development referred to in paragraph 1 of this Article.
 
 Article 303 shall apply to the disclosure of comparative information by participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies.
-
-
 --- Page 216 ---
-
-
-
 ### Section 2
 
 ***Single solvency and financial condition report***
@@ -15347,12 +14220,7 @@ Article 300 of this Regulation shall apply to the deadlines for disclosure by pa
 undertakings, insurance holding companies or mixed financial holding companies of their single solvency and financial
 condition report. For the purposes of this Article the deadlines referred to in Article 300 shall be extended by 6 weeks
 only during a period not exceeding four years from 1 January 2016.
-
-
 --- Page 217 ---
-
-
-
 ##### Article 369
 
 **Updates**
@@ -15378,16 +14246,14 @@ all of the following obligations shall apply:
 reinsurance undertaking, insurance holding company or mixed financial holding company shall include in their
 solvency and financial condition report a reference to the single solvency and financial condition report disclosed;
 
-(b) the single solvency and financial condition reports disclosed in accordance with Article 256(2) of Directive
-2009/138/EC shall equally include a reference to the solvency and financial condition report of those other
+(b) the single solvency and financial condition reports disclosed in accordance with Article 256(2) of Directive/EC shall equally include a reference to the solvency and financial condition report of those other
 insurance and reinsurance undertakings.
 
 2. Where participating insurance and reinsurance undertakings, insurance holding companies or mixed financial
 holding companies do not provide a single solvency and financial condition report, the insurance and reinsurance
 undertakings which are subsidiaries of that participating insurance or reinsurance undertaking, insurance holding
 company or mixed financial holding company shall include in their solvency and financial condition report a reference
-to the group solvency and financial condition reports disclosed in accordance with Article 256(1) of Directive
-2009/138/EC.
+to the group solvency and financial condition reports disclosed in accordance with Article 256(1) of Directive/EC.
 
 ##### Article 371
 
@@ -15415,12 +14281,7 @@ quarterly reporting obligations in accordance with Article 35(6) of Directive 20
 supervisory report shall include annual quantitative templates only. Annual reporting obligations shall not include
 reporting on an item-by-item basis where all undertakings in the group are exempted from it according to Article 35 (7)
 of that Directive.
-
-
 --- Page 218 ---
-
-
-
 2. The group regular supervisory report shall include all of the following additional information:
 
 (a) regarding the group's business and performance:
@@ -15481,17 +14342,11 @@ undertaking, in so far as it is included in the calculation of the group solvenc
 Article 211 of Directive 2009/138/EC;
 
 (viii) a description of special purpose vehicles within the group, which are regulated by a third country supervisory
-authority and comply with requirements equivalent to those set out in Article 211(2) of Directive
-2009/138/EC, for the purposes ofincluding a description of the verification carried out by the participating
+authority and comply with requirements equivalent to those set out in Article 211(2) of Directive/EC, for the purposes ofincluding a description of the verification carried out by the participating
 insurance and reinsurance undertaking, insurance holding company or mixed financial holding company
 whether the requirements to which these special purpose vehicles are subject to in the third country are
 equivalent to those set out in Article 211(2) of Directive 2009/138/EC;
-
-
 --- Page 219 ---
-
-
-
 (ix) a description of each special purpose entity within the group other than those referred to in points (vii)
 and (viii) together with qualitative and quantitative information on the solvency requirement and own funds of
 these entities, in so far as they are included in the calculation of the group solvency;
@@ -15553,12 +14408,7 @@ the reference date of the opening financial statement as referred to in Article 
 1. Participating insurance and reinsurance undertakings, insurance holding companies or mixed financial holding
 companies shall consider risk concentrations that could threaten the group solvency or liquidity position as significant
 risk concentrations.
-
-
 --- Page 220 ---
-
-
-
 2. For the purposes of identifying significant risk concentrations, participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies shall consider, at least, direct and
 indirect exposures of undertakings in the group to all of the following:
@@ -15633,12 +14483,7 @@ of Directive 2009/138/EC shall be the following:
 (a) whether the supervisory authorities of that third country have the power, by law or regulation, to effectively
 supervise domestic insurance undertakings carrying out reinsurance activities or reinsurance undertakings and
 impose sanctions or take enforcement action where necessary;
-
-
 --- Page 221 ---
-
-
-
 (b) whether the supervisory authorities of that third country have the necessary means, the relevant expertise,
 capacities including financial and human resources, and mandate to effectively protect policy holders and beneficiar­­
 ies regardless of their nationality or place of residence;
@@ -15703,12 +14548,7 @@ out reinsurance activities to hold adequate financial resources including all of
 
 (i) a requirement that those undertakings establish technical provisions with respect to all of their reinsurance
 obligations towards policy holders and beneficiaries of reinsurance contracts,
-
-
 --- Page 222 ---
-
-
-
 (ii) a requirement that assets held to cover technical provisions are invested in the best interests of all policy
 holders and beneficiaries taking into account any disclosed policy objective,
 
@@ -15766,12 +14606,7 @@ company law, with other authorities, bodies or persons where that authority, bod
 obligation of professional secrecy in the relevant third country and whether that information is only disclosed once
 the express agreement of the supervisory authority from which it originates has been obtained and, where
 appropriate, has been obtained solely for the purposes for which the authority gave its agreement.
-
-
 --- Page 223 ---
-
-
-
 ## *CHAPTER II*
 
 **RELATED THIRD COUNTRY INSURANCE AND REINSURANCE UNDERTAKINGS**
@@ -15840,12 +14675,7 @@ only use that information in the course of their duties and for any of the follo
 and solvency assessment have been met,
 
 (ii) to impose sanctions,
-
-
 --- Page 224 ---
-
-
-
 (iii) in administrative appeals against decisions of the supervisory authorities,
 
 (iv) in court proceedings relating to the solvency regime in that third country;
@@ -15908,12 +14738,7 @@ equivalent to Article 42 of Directive 2009/138/EC;
 to the relevant supervisory authorities;
 
 (iv) requirements for ensuring that the outsourced functions or activities are effectively supervised;
-
-
 --- Page 225 ---
-
-
-
 (h) whether the prudential regime of that third country requires an effective risk-management system in place at the
 group level comprising at least all of the following:
 
@@ -15981,12 +14806,7 @@ third country in the event that the capital requirement referred to in point (n)
 (q) whether the supervisory authorities of the third country restrict the use of own-fund items of a related insurance or
 reinsurance undertaking where they consider that they cannot effectively be made available to cover the capital
 requirement of the participating undertaking for which the group solvency is calculated;
-
-
 --- Page 226 ---
-
-
-
 (r) whether the calculation of group solvency in the third country's prudential regime produces a result that is at least
 equivalent to the result achieved by either one of the calculation methods set out in Articles 230 and 233 of
 Directive 2009/138/EC, or a combination of them, and that calculation ensures that there is no double use of own
@@ -16044,12 +14864,7 @@ Done at Brussels, 10 October 2014.
 *The President*
 
 José Manuel BARROSO
-
-
 --- Page 227 ---
-
-
-
 # *ANNEX I*
 
 **LINES OF BUSINESS**
@@ -16110,12 +14925,7 @@ Insurance obligations which cover legal expenses and cost of litigation.
 
 Insurance obligations which cover assistance for persons who get into difficulties while travelling, while away
 from home or while away from their habitual residence.
-
-
 --- Page 228 ---
-
-
-
 (12) *Miscellaneous financial loss*
 
 Insurance obligations which cover employment risk, insufficiency of income, bad weather, loss of benefit,
@@ -16178,21 +14988,11 @@ E. **Life reinsurance obligations**
 (35) *Health reinsurance*
 
 Reinsurance obligations which relate to the obligations included in lines of business 29 and 33.
-
-
 --- Page 229 ---
-
-
-
 (36) *Life reinsurance*
 
 Reinsurance obligations which relate to the obligations included in lines of business 30 to 32 and 34.
-
-
 --- Page 230 ---
-
-
-
 # *ANNEX II*
 
 **SEGMENTATION OF NON-LIFE INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
@@ -16217,12 +15017,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 |10|Non-proportional casualty reinsurance|26|17 %|20 %|
 |11|Non-proportional marine, aviation and transport reinsurance|27|17 %|20 %|
 |12|Non-proportional property reinsurance|28|17 %|20 %|
-
-
 --- Page 231 ---
-
-
-
 # *ANNEX III*
 
 **FACTOR FOR GEOGRAPHICAL DIVERSIFICATION OF PREMIUM AND RESERVE RISK**
@@ -16269,8 +15064,7 @@ measure for reserve risk of a particular segment *s* and a particular region *r*
 volume measure for non-life or NSLT health reserve risk of the segment *s* as referred to in Articles 116 and 147, but
 taking into account only insurance and reinsurance obligations where the underlying risk is situated in the region *r* .
 
-4. For the purpose of the calculations set out in paragraphs 2 and 3, the criteria set out in Article 13(13) of Directive
-2009/138/EC in the case of non-life insurance and the criteria set out in Article 13(14) of Directive 2009/138/EC in
+4. For the purpose of the calculations set out in paragraphs 2 and 3, the criteria set out in Article 13(13) of Directive/EC in the case of non-life insurance and the criteria set out in Article 13(14) of Directive 2009/138/EC in
 the case of life insurance shall be applied as if references in those criteria to Member States extended to regions also.
 
 5. Notwithstanding paragraph 1, the factor for geographical diversification shall be equal to 1 for segments 6, 10, 11
@@ -16293,15 +15087,7 @@ reserve risk sub-module.
 |1|Northern Europe|Denmark (except Greenland), Estonia, Finland, Guernsey, Iceland, Ireland, Isle of Man, Jersey, Latvia, Lithuania, Norway, Sweden, United Kingdom (except Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, Pitcairn Islands, Saint Helena, Turks and Caicos Islands)|
 |2|Western Europe|Austria, Belgium, France (except French Guiana, French Polynesia, Guadeloupe, Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna), Germany, Liechtenstein, Luxem­ bourg, Monaco, Netherlands (except Aruba, Bonaire, Curaçao, Saba, Sint Eusta­ tius, Sint Maarten), Switzerland|
 |3|Eastern Europe|Belarus, Bulgaria, Czech Republic, Hungary, Moldova, Poland, Romania, Russia, Slovakia, Ukraine|
-
-
 --- Page 232 ---
-
-
-
-
-
-
 |Col1|Region|Territories that the region consists of|
 |---|---|---|
 |4|Southern Europe|Albania, Andorra, Bosnia and Herzegovina, Croatia, Cyprus, the former Yugo­ slav Republic of Macedonia, Gibraltar, Greece, Italy, Malta, Montenegro, Portu­ gal, San Marino, Serbia, Slovenia, Spain, Vatican City State|
@@ -16319,12 +15105,7 @@ reserve risk sub-module.
 |16|South-east United States of America|Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, Puerto Rico, South Carolina, Tennessee, Virginia, West Virginia|
 |17|Mid-west United States of America|Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, Oklahoma, South Dakota, Wisconsin|
 |18|Western United States of America|Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Texas, Utah, Washington, Wyoming|
-
-
 --- Page 233 ---
-
-
-
 # *ANNEX IV*
 
 **CORRELATION MATRIX FOR NON-LIFE PREMIUM AND RESERVE RISK**
@@ -16347,12 +15128,7 @@ segments set out Annex II:
 |10|0,25|0,25|0,25|0,25|0,5|0,5|0,5|0,25|0,25|1|0,25|0,25|
 |11|0,25|0,25|0,5|0,5|0,25|0,25|0,25|0,25|0,5|0,25|1|0,25|
 |12|0,25|0,25|0,25|0,5|0,25|0,25|0,25|0,5|0,25|0,25|0,25|1|
-
-
 --- Page 234 ---
-
-
-
 # *ANNEX V*
 
 **PARAMETERS FOR THE WINDSTORM RISK SUB-MODULE**
@@ -16393,12 +15169,7 @@ segments set out Annex II:
 |AT|1,00|0,25|0,50|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |BE|0,25|1,00|0,25|0,25|0,50|0,25|0,00|0,50|0,50|0,25|0,00|0,75|0,75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |CH|0,50|0,25|1,00|0,25|0,25|0,00|0,25|0,50|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 235 ---
-
-
-
 |Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |CZ|0,25|0,25|0,25|1,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
@@ -16418,12 +15189,7 @@ segments set out Annex II:
 |MA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |SM|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |RE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 236 ---
-
-
-
 # *ANNEX VI*
 
 **PARAMETERS FOR THE EARTHQUAKE RISK SUB-MODULE**
@@ -16464,12 +15230,7 @@ segments set out Annex II:
 |AT|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |BE|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |BG|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 237 ---
-
-
-
 |Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |CR|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
@@ -16489,12 +15250,7 @@ segments set out Annex II:
 |GU|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,75|0,75|
 |MA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|1,00|0,75|
 |ST|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,75|1,00|
-
-
 --- Page 238 ---
-
-
-
 # *ANNEX VII*
 
 **PARAMETERS FOR THE FLOOD RISK SUB-MODULE**
@@ -16534,12 +15290,7 @@ segments set out Annex II:
 |DE|0,75|0,25|0,25|0,50|0,25|1,00|0,25|0,00|0,00|0,75|0,25|0,00|0,25|0,00|
 |HU|0,50|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,25|0,25|0,50|0,00|0,25|0,00|
 |IT|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 239 ---
-
-
-
 |Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |BG|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|1,00|0,00|0,50|0,00|0,00|0,00|
@@ -16548,12 +15299,7 @@ segments set out Annex II:
 |SI|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|1,00|0,25|0,00|
 |SK|0,50|0,00|0,00|0,75|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,25|1,00|0,00|
 |UK|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 240 ---
-
-
-
 # *ANNEX VIII*
 
 **PARAMETETERS FOR THE HAIL RISK SUB-MODULE**
@@ -16589,12 +15335,7 @@ segments set out Annex II:
 |NL|0,00|0,25|0,00|0,00|0,00|0,25|1,00|0,00|0,00|
 |CH|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |ES|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 241 ---
-
-
-
 # *ANNEX IX*
 
 **THE GEOGRAPHICAL DIVISION OF REGIONS SET OUT IN ANNEX V INTO RISK ZONES**
@@ -16645,12 +15386,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |6|21|6|15|07|15|05|15|05|06|06|BD|
 |7|22|7|16|08|16|06|16|06|07|07|BH|
 |8|23|8|17|09|17|07|17|07|08|08|BL|
-
-
 --- Page 242 ---
-
-
-
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |9|24|9|18|10|18|08|18|08|09|09|BN|
@@ -16685,12 +15421,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |38|54||57|40|48|37|47|37||38|FY|
 |39|55||58|41|49|38|48|38||39|G|
 |40|56||59|42|50|39|49|39||40|GL|
-
-
 --- Page 243 ---
-
-
-
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |41|57||60|44|51|40|50|40||41|GU|
@@ -16725,12 +15456,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |70|92|||74|85|72|79|69|||MK|
 |71|93|||75||73|80|70|||ML|
 |72|94|||76||74|81|71|||N|
-
-
 --- Page 244 ---
-
-
-
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |73|95|||77||75|82|72|||NE|
@@ -16765,12 +15491,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |102|||||||||||ST|
 |103|||||||||||SW|
 |104|||||||||||SY|
-
-
 --- Page 245 ---
-
-
-
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |105|||||||||||TA|
@@ -16806,12 +15527,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |4|Kyustendil|Karlovacka|Vas|Bacau|
 |5|Blagoevgrad|Varazdinska|Zala|Bihor|
 |6|Pazardzhik|Koprivnicko-krizevac|Veszprem|Bistrita-Nasaud|
-
-
 --- Page 246 ---
-
-
-
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
 |7|Smolyan|Bjelovarsko-bilogors|Somogy|Botosani|
@@ -16845,12 +15561,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |35||||Teleorman|
 |36||||Timisoara|
 |37||||Tulcea|
-
-
 --- Page 247 ---
-
-
-
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
 |38||||Vaslui|
@@ -16887,12 +15598,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |21|21||SO||22|
 |22|22||TY||23|
 |23|23||WD||24|
-
-
 --- Page 248 ---
-
-
-
 |Region/ Risk Zone|CH|CY|IE|NO|SE|
 |---|---|---|---|---|---|
 |24|24||WH||25|
@@ -16931,12 +15637,7 @@ The mapping of risk zones for the region FR shall be based on the first 2 digits
 |22|22|46|46|70|70|94|94|
 |23|23|47|47|71|71|95|95|
 |24|24|48|48|72|72|||
-
-
 --- Page 249 ---
-
-
-
 **Mapping of risk zones for the Republic of Slovenia**
 
 The mappings for the region SI shall be based on the 4 digits of the postal code.
@@ -16951,12 +15652,7 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 |6|2201 2222 2250 2273 2287 2318 2343 2366 2391|2204 2223 2252 2274 2288 2319 2344 2367 2392|2205 2230 2253 2275 2289 2321 2345 2370 2394|2206 2231 2254 2276 2310 2322 2352 2371 3206|2208 2232 2255 2277 2311 2323 2353 2372 3210|2211 2233 2256 2281 2312 2324 2360 2373 3214|2212 2234 2257 2282 2313 2325 2361 2380 3215|2213 2235 2258 2283 2314 2326 2362 2381|2214 2236 2259 2284 2315 2327 2363 2382|2215 2241 2270 2285 2316 2331 2364 2383|2221 2242 2272 2286 2317 2342 2365 2390|
 |7|2000|2229|2341|2351|2354|||||||
 |8|9000 9222 9242 9264|9201 9223 9243 9265|9202 9224 9244|9203 9225 9245|9204 9226 9250|9205 9227 9251|9206 9231 9252|9207 9232 9253|9208 9233 9261|9220 9240 9262|9221 9241 9263|
-
-
 --- Page 250 ---
-
-
-
 |Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |9|6000 6280|6216 6281|6240 6310|6242 6311|6243 6320|6271 6323|6272 6330|6273 6333|6274|6275|6276|
@@ -16983,12 +15679,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |10|10|11|12|13|14|15|16|17|18|19|
 ||20|21|22|23|24|25|26|27|28|29|
 |11|37||||||||||
-
-
 --- Page 251 ---
-
-
-
 # *ANNEX X*
 
 **RISK WEIGHTS FOR CATASTROPHE RISK ZONES**
@@ -17023,12 +15714,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |24|1,3||1,2|1,4|2,7||2,3|1,3|1,2|1,2||0,4||1,2|
 |25|2,1||0,9|1,3|2,2||1,9|0,8|0,9|1,1||0,5||1,3|
 |26|1,8||1,3|1,6|1,5||1,5|0,8|1,3|0,9||0,6||1,6|
-
-
 --- Page 252 ---
-
-
-
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |27|1,8|||1,6|1,6||2,5|2,2||1,3||0,6||0,9|
@@ -17063,12 +15749,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |56|1,3|||0,6|1,7|||3,3||0,8||1,2||1,6|
 |57|1,6|||0,7|0,8|||1,1||1,1||1,3||0,7|
 |58|1,1|||0,8|1,3|||1,7||0,8||1,1||1,4|
-
-
 --- Page 253 ---
-
-
-
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |59|1,4|||0,8|0,9|||1,6||0,8||1,3||1,2|
@@ -17102,12 +15783,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |87|||||0,9|||1,5||1,0||1,2||1,2|
 |88|||||0,7|||1,0||1,0||1,4||1,0|
 |89|||||0,8|||1,7||1,4||1,9||1,1|
-
-
 --- Page 254 ---
-
-
-
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |90|||||0,8|||0,6||1,4||0,8||0,9|
@@ -17141,12 +15817,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |118||||||||||||||1,0|
 |119||||||||||||||1,1|
 |120||||||||||||||1,4|
-
-
 --- Page 255 ---
-
-
-
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |121||||||||||||||0,8|
@@ -17183,12 +15854,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |21|0,4||0,4|2,5|0,9|1,3||0,1|0,3|3,3|0,2|1,5|0,4|0,0||1,6|
 |22|0,0||0,2|1,5|2,1|||0,1|0,2|7,2|0,0|0,8|0,6|0,0||5,4|
 |23|0,0||0,1|0,1|1,4|||0,1|0,2|3,3|0,0|1,4|0,3|2,0||0,4|
-
-
 --- Page 256 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |24|0,0||0,1|0,1|2,6|||0,1|0,1|7,6|0,1|1,8|0,2|0,3||4,0|
@@ -17222,12 +15888,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |52|3,1|||10,5||||1,9|0,1|3,7||4,2|0,5||||
 |53|1,7|||11,3||||2,0|0,2|1,4||3,2|0,1||||
 |54|3,4|||9,5||||0,2|0,1|0,8||5,9|0,5||||
-
-
 --- Page 257 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |55|1,4|||0,1||||0,1|0,1|0,1||5,1|1,3||||
@@ -17261,12 +15922,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |83||||||||4,0|0,5|||10,5|||||
 |84||||||||3,6|3,5|||6,3|||||
 |85||||||||2,2|0,6|||2,5|||||
-
-
 --- Page 258 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |86||||||||0,1|0,7|||2,1|||||
@@ -17302,12 +15958,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |14|0,5||0,2|3,8|1,5|0,8|1,1|0,4|0,2|2,2|2,0||0,0|2,8|
 |15|0,9||0,2|4,5|2,7|0,3|0,3|2,0|0,3|1,2|1,3||0,2|7,0|
 |16|0,4||0,0|1,3|2,5|0,3|1,1|2,4|0,7|0,0|2,0||2,1|2,0|
-
-
 --- Page 259 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |17|1,4||0,1|2,8|4,5|1,3|2,2|0,0|0,0|1,8|3,3||1,1|1,5|
@@ -17341,12 +15992,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |45|0,6||||0,8|3,5|1,7|1,6||0,3||||2,8|
 |46|0,1||||1,1|2,0|0,8|4,8||2,8||||1,0|
 |47|0,1||||0,7|4,5|2,3|3,2||1,1||||19,5|
-
-
 --- Page 260 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |48|1,5||||3,6|2,5|0,2|0,4||5,6||||0,5|
@@ -17380,12 +16026,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |76|0,0|||||0,8|1,1|1,2||0,1||||4,5|
 |77|0,1|||||0,5|1,3|2,4||0,3||||1,3|
 |78||||||1,0|1,2|1,6||0,6||||2,0|
-
-
 --- Page 261 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |79||||||3,0|0,7|1,6||1,6||||3,8|
@@ -17419,12 +16060,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |107||||||||||||||1,0|
 |108||||||||||||||3,0|
 |109||||||||||||||3,8|
-
-
 --- Page 262 ---
-
-
-
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |110||||||||||||||0,8|
@@ -17459,12 +16095,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |8|0,3|2,8|0,2|2,5|0,8|2,7|0,0|2,9|
 |9|1,4|2,4|1,5|1,7|0,2|27,6|0,0|9,6|
 |10|0,8||0,3|0,0|0,1|1,7|0,0|0,1|
-
-
 --- Page 263 ---
-
-
-
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
 |11|3,1||6,1|7,5|0,9|6,8|10,8|6,1|
@@ -17498,12 +16129,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |39|6,1|||2,5|5,4|11,6|3,3|3,1|
 |40|3,1|||7,5|7,9|2,8|3,3|0,2|
 |41|10,4|||2,5|3,7|2,3|7,5|5,9|
-
-
 --- Page 264 ---
-
-
-
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
 |42|5,4|||3,3|3,5|10,4|7,5|7,2|
@@ -17537,12 +16163,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |70|1,3||||1,7|13,6|0,0|1,6|
 |71|4,5||||6,4|12,1|0,0|2,9|
 |72|15,0||||5,6|0,7|0,0|7,1|
-
-
 --- Page 265 ---
-
-
-
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
 |73|0,3||||5,0|15,3|0,0|4,1|
@@ -17579,12 +16200,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |2|0,3|21|0,5|40|0,3|59|6,0|78|2,0|
 |3|0,5|22|0,3|41|0,5|60|0,3|79|0,8|
 |4|0,3|23|0,3|42|0,3|61|0,3|80|0,3|
-
-
 --- Page 266 ---
-
-
-
 |Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
 |---|---|---|---|---|---|---|---|---|---|
 |5|0,3|24|1,8|43|0,3|62|1,0|81|0,8|
@@ -17602,12 +16218,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |17|2,3|36|0,5|55|0,3|74|0,3|93|0,8|
 |18|0,5|37|1,5|56|0,3|75|0,3|94|1,0|
 |19|0,3|38|0,3|57|1,0|76|0,3|95|0,8|
-
-
 --- Page 267 ---
-
-
-
 # *ANNEX XI*
 
 **LIABILITY RISK GROUPS, RISK FACTORS AND CORRELATION COEFFICIENTS FOR THE LIABILITY RISK**
@@ -17655,12 +16266,7 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 |3|0,5|0|1|0,25|0,5|
 |4|0,25|0,25|0,25|1|0,5|
 |5|0,5|0,5|0,5|0,5|1|
-
-
 --- Page 268 ---
-
-
-
 # *ANNEX XII*
 
 **GROUPS OF OBLIGATIONS AND RISK FACTORS FOR THE SUB-MODULE FOR OTHER NON-LIFE**
@@ -17709,12 +16315,7 @@ in setting up, maintaining and operating the good.
 — Swiss Confederation
 
 — Vatican City State
-
-
 --- Page 269 ---
-
-
-
 # *ANNEX XIV*
 
 **SEGMENTATION OF NSLT HEALTH INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
@@ -17746,12 +16347,7 @@ segments set out Annex XIV:
 |2|0,5|1|0,5|0,5|
 |3|0,5|0,5|1|0,5|
 |4|0,5|0,5|0,5|1|
-
-
 --- Page 270 ---
-
-
-
 # *ANNEX XVI*
 
 **HEALTH CATASTROPHE RISK SUB-MODULE OF THE SOLVENCY CAPITAL REQUIREMENT STANDARD**
@@ -17787,12 +16383,7 @@ segments set out Annex XIV:
 |Portuguese Republic|0,30 %|
 |Romania|0,15 %|
 |Slovak Republic|0,30 %|
-
-
 --- Page 271 ---
-
-
-
 |Country s|rs — Ratio of persons affected by the mass acci­ dent in country s|
 |---|---|
 |Republic of Slovenia|0,40 %|
@@ -17823,12 +16414,7 @@ segments set out Annex XIV:
 |Hospitalisation|1 %|
 |Consultation with a medical practitioner|20 %|
 |No formal medical care sought|79 %|
-
-
 --- Page 272 ---
-
-
-
 # *ANNEX XVII*
 
 **METHOD-SPECIFIC DATA REQUIREMENTS AND METHOD SPECIFICATIONS FOR UNDERTAKING-**
@@ -17892,12 +16478,7 @@ contracts and special purpose vehicles that are in place to provide cover for th
 reflected in the non-life or health catastrophe risk sub-modules;
 
 (f) the aggregated losses include the expenses incurred in servicing the insurance and reinsurance obligations;
-
-
 --- Page 273 ---
-
-
-
 (g) the data fit the following assumptions:
 
 i. expected aggregated losses in a particular segment and accident year are linear proportional in premiums
@@ -17960,12 +16541,7 @@ where:
 where:
 
 i. and are defined in point (c) and (d) of paragraph 4;
-
-
 --- Page 274 ---
-
-
-
 ii. *x* denotes the following amount:
 
 
@@ -18037,12 +16613,7 @@ in the best estimate of the provision for claims outstanding in that particular 
 
 ii. the variance of the amount referred to paragraph 1(a) in a particular segment and financial year is
 quadratic in the provision for claims outstanding in a particular segment and financial year;
-
-
 --- Page 275 ---
-
-
-
 iii. the amount referred to paragraph 1(a) follows a lognormal distribution;
 
 iv. maximum likelihood estimation is appropriate.
@@ -18110,12 +16681,7 @@ ii. *x* denotes the following amount:
 
 
 *x* *t*
-
-
 --- Page 276 ---
-
-
-
 (6) The mixing parameter and the logarithmic variation coefficient shall be the values and respectively for
 which the following amount becomes minimal:
 
@@ -18178,12 +16744,7 @@ amounts:
 i. cumulative claims amounts for different accident years are mutually stochastically independent;
 
 ii. for all accident years the implied incremental claim amounts are stochastically independent;
-
-
 --- Page 277 ---
-
-
-
 iii. for all accident years the expected value of the cumulative claims amount for a development year is
 proportional to the cumulative claims amount for the preceding development year;
 
@@ -18249,12 +16810,7 @@ accident year *i* and development year *j*, as set out in paragraph 4(c).
 
 
 *C* ð *i,j* Þ
-
-
 --- Page 278 ---
-
-
-
 (c) for all development years, *S′* *j* denotes for a specific development year *j* the following amount:
 
 
@@ -18321,12 +16877,7 @@ tically independent.
 data are available;
 
 (b) *T* denotes the latest financial year for which data are available;
-
-
 --- Page 279 ---
-
-
-
 (c) *A* *(i,t)* denotes the annuity benefits of beneficiary *i* in financial year *t* ;
 
 (d) *D* *(i,t)* denotes the change of annuity benefits after financial year *t*, being equal to the following difference:
@@ -18398,12 +16949,7 @@ where:
 (a) *N* *t* denotes the number of changes in annuity benefits in financial years *t* that are larger than zero;
 
 (b) *N* denotes the estimated average change in annuity benefits set out in point (b) of paragraph 5.
-
-
 --- Page 280 ---
-
-
-
 (8) The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
 where:
@@ -18485,12 +17031,7 @@ X
 
 
 *Y* [2] *i*
-
-
 --- Page 281 ---
-
-
-
 (e) *b* 1 denotes the amount of the retention of the recognisable excess of loss reinsurance contract referred to in
 Article 218(2);
 
@@ -18595,12 +17136,7 @@ accordance with paragraph 3 of Article 116;
 
 (b) *NP′* *(h)* denotes the estimated adjustment factor for non-proportional reinsurance of homogeneous risk
 group *h* determined in accordance with paragraph 5.
-
-
 --- Page 282 ---
-
-
-
 G. **Credibility factor**
 
 (1) The credibility factor for segments 1, 5 and 6 set out in Annex II shall be equal to the following:
@@ -18646,12 +17182,7 @@ and for the revision risk method shall be equal to the following:
 (d) for the revision risk method, the number of financial years for which data are available;
 
 (e) for the non-proportional reinsurance method, the number of reporting years for which data are available.
-
-
 --- Page 283 ---
-
-
-
 # *ANNEX XVIII*
 
 **INTEGRATION TECHNIQUES FOR PARTIAL INTERNAL MODELS**
@@ -18730,12 +17261,7 @@ where:
 (c) *SCR* *i* and *SCR* *j* denote the capital requirements for the items *i* and *j* of the aggregation list respectively;
 
 (d) *SCR* *int* denotes the capital requirement for intangible asset risk as set out in Article 203.
-
-
 --- Page 284 ---
-
-
-
 (2) The items on the aggregation list shall meet the following requirements:
 
 (a) they shall cover each of the units of the partial internal model;
@@ -18806,12 +17332,7 @@ where:
 
 (a) *S* *S* denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
-
-
 --- Page 285 ---
-
-
-
 (b) *ω* 1 denotes the first implied correlation parameter as set out in paragraph 2;
 
 (c) *P* *c* denotes the capital requirement reflecting the risks that are both within the scope of the standard formula
@@ -18913,12 +17434,7 @@ t *j* ¼ *k* þ1 *i* ¼1 *i* ¼ *l* þ1
 
 (a) *P* denotes the capital requirement reflecting the risks that are within the scope of the partial internal model,
 calculated with the partial internal model;
-
-
 --- Page 286 ---
-
-
-
 (b) *S* *S* denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
 
@@ -18984,12 +17500,7 @@ denominations:
 
 (a) *P* denotes the capital requirement reflecting the risks of the sub-modules of that particular sub-module
 which are within the scope of the partial internal model, calculated with the partial internal model;
-
-
 --- Page 287 ---
-
-
-
 (b) *S* *S* denotes the capital requirement derived by applying that particular sub-module only to the risks not
 covered by the partial internal model;
 
@@ -19096,12 +17607,7 @@ other sub-modules;
 
 ii. the sub-module is calculated in accordance with paragraph 3 provided that the sub-module consist of
 other sub-modules.
-
-
 --- Page 288 ---
-
-
-
 (3) For all modules of the standard formula referred to in paragraph 2(b)(ii), the capital requirement of a particular
 module shall be calculated with the formula set out in paragraph 1, applying the following denominations:
 
@@ -19115,12 +17621,7 @@ other sub-modules;
 
 ii. the sub-module is calculated in accordance with this paragraph provided that the sub-module consist of
 other sub-modules.
-
-
 --- Page 289 ---
-
-
-
 # *ANNEX XIX*
 
 **MCR RISK FACTORS FOR NON-LIFE AND HEALTH INSURANCE OR REINSURANCE OBLIGATIONS**
@@ -19147,12 +17648,7 @@ other sub-modules.
 |14|Non-proportional marine, aviation and transport reinsurance|27|18,6 %|15,9 %|
 |15|Non-proportional property reinsurance|28|18,6 %|15,9 %|
 |16|Non-proportional health reinsurance|25|18,6 %|15,9 %|
-
-
 --- Page 290 ---
-
-
-
 # *ANNEX XX*
 
 **STRUCTURE OF THE SOLVENCY AND FINANCIAL CONDITION REPORT AND REGULAR SUPERVISORY**
@@ -19218,12 +17714,7 @@ D.3 Other liabilities
 D.4 Alternative methods for valuation
 
 D.5 Any other information
-
-
 --- Page 291 ---
-
-
-
 E. **Capital Management**
 
 E.1 Own funds
@@ -19238,12 +17729,7 @@ E.5 Non-compliance with the Minimum Capital Requirement and non-compliance with 
 Requirement
 
 E.6 Any other information
-
-
 --- Page 292 ---
-
-
-
 # *ANNEX XXI*
 
 **AGGREGATE STATISTICAL DATA**
@@ -19253,8 +17739,7 @@ A. **Data on supervised undertakings and groups**
 **Data with regard to insurance and reinsurance undertakings supervised under Directive 2009/138/EC**
 
 (1) The number of insurance and reinsurance undertakings, the number of branches as referred to in Article 13(11)
-of Directive 2009/138/EC and the number of branches as referred to in Article 162(3) of Directive
-2009/138/EC established in the Member State of the supervisory authority;
+of Directive 2009/138/EC and the number of branches as referred to in Article 162(3) of Directive/EC established in the Member State of the supervisory authority;
 
 (2) The number of branches of insurance and reinsurance undertakings established in the Member State of the
 supervisory authority carrying out relevant business in one or more other Member States;
@@ -19306,12 +17791,7 @@ in own funds, and the total amount of ancillary own funds;
 (19) Where the Solvency Capital Requirement is calculated using the standard formula the total amount of the
 Solvency Capital Requirement by risk module and sub-module — at the level of aggregation available —
 expressed as percentage of the total amount of the Solvency Capital Requirement;
-
-
 --- Page 293 ---
-
-
-
 (20) Where the Solvency Capital Requirement for credit risk is calculated using the standard formula the total
 amount of the Solvency Capital Requirement for spread risk and market risk concentration sub-modules and
 for counterparty default risk module for which a reassessment of the credit quality steps of the larger or more
@@ -19373,12 +17853,7 @@ national level is present as referred to in Article 217 of Directive 2009/138/EC
 (29) The number of insurance groups that have been allowed to use method 2 or a combination of methods 1
 and 2 in accordance with Article 220(2) of Directive 2009/138/EC for the calculation of the solvency at the
 level of the group;
-
-
 --- Page 294 ---
-
-
-
 (30) The total amount of the group eligible own funds for the insurance groups of which the supervisory authority
 is the group supervisor, separately for group eligible own funds calculated in accordance with method 1 as
 referred to in Article 230(1) of Directive 2009/138/EC and for group eligible own funds calculated in
@@ -19387,8 +17862,7 @@ accordance with method 2 as referred to in Article 233 of Directive 2009/138/EC;
 (31) The total amount of the group Solvency Capital Requirement for the insurance groups of which the
 supervisory authority is the group supervisor separately for the group Solvency Capital Requirement calculated
 in accordance with method 1 as referred to in Article 230(1) of Directive 2009/138/EC and for the group
-Solvency Capital Requirement calculated in accordance with method 2 as referred to in Article 233 of Directive
-2009/138/EC;
+Solvency Capital Requirement calculated in accordance with method 2 as referred to in Article 233 of Directive/EC;
 
 (32) The number of insurance groups of which the supervisory authority is the group supervisor using an approved
 full internal model for the calculation of the group Solvency Capital Requirements, and the number of
@@ -19418,8 +17892,7 @@ in order to review and evaluate the reliance of undertakings on external ratings
 were successful, divided into solo undertakings and groups; data on internal models which scope includes credit
 risk in both market risk and counterparty default risk shall be separately disclosed;
 
-(5) The number of corrective measures taken, as defined by Articles 110, 117, 119, 137, 138 and 139 of Directive
-2009/138/EC, by type of measure; the number of corrective measures as defined by Article 119 triggered by a
+(5) The number of corrective measures taken, as defined by Articles 110, 117, 119, 137, 138 and 139 of Directive/EC, by type of measure; the number of corrective measures as defined by Article 119 triggered by a
 deviation of the risk profile of the insurance or reinsurance undertakings with respect to their credit risk;
 
 (6) The number of authorisations withdrawn;
@@ -19439,16 +17912,10 @@ use this adjustment and how many were successful.
 average duration;
 
 (12) The number of authorisations granted in accordance with Article 304 of Directive 2009/138/EC;
-
-
 --- Page 295 ---
-
-
-
 (13) The number of applications submitted to the supervisory authority to use the transitional risk-free interest rate
 term structure referred to in Article 308c Directive 2009/138/EC, how many were successful and the number
-of decisions to revoke the approval of this transitional measure pursuant to article 308e of Directive
-2009/138/EC.
+of decisions to revoke the approval of this transitional measure pursuant to article 308e of Directive/EC.
 
 (14) The number of applications submitted to the supervisory authority to use the transitional deduction to
 technical provisions referred to in Article 308d Directive 2009/138/EC and how many were successful.
@@ -19469,5 +17936,3 @@ them;
 Article 30 of the Regulation (EU) No 1094/2010, in which the supervisory authority participated.
 
 The information set out in paragraphs 2 to 15 shall be provided in relation to the last calendar year.
-
-

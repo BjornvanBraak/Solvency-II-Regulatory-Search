@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 # **Technical Annexes **
 
 **Technical Annex I – Information provided by the other supervisory**
@@ -29,8 +28,7 @@ reporting period that have had a material impact on the undertaking.
 over the reporting period.
 
 1.3. Concerning capital management (Article 297 of Delegated Regulation (EU)
-
-2015/35):
+):
 
 1.3.1. indication if the undertaking is using an internal model or a partial
 
@@ -65,17 +63,13 @@ effects of such remedial measures;
 1.3.6. where non-compliance with the undertaking’s Minimum Capital
 Requirement has not been subsequently resolved: the amount of the
 non-compliance at the reporting date;
-
-
 --- Page 2 ---
-
 1.3.7. regarding any significant non-compliance with the undertaking’s Solvency
 
 Capital Requirement during the reporting period: the period and
 maximum amount of each significant non-compliance and, in addition to
 the explanation of its origin and consequences as well as any remedial
-measures taken, as provided for under Article 51(1)(e)(v) of Directive
-2009/138/EC and an explanation of the effects of such remedial
+measures taken, as provided for under Article 51(1)(e)(v) of Directive/EC and an explanation of the effects of such remedial
 
 measures;
 
@@ -132,10 +126,7 @@ risk concentrations will be managed.
 4. The outcome of the risk assessment framework from the supervisory review
 
 process.
-
-
 --- Page 3 ---
-
 **Technical Annex II – Information provided by the group supervisor to the**
 **other supervisory authorities**
 
@@ -160,8 +151,7 @@ reporting period that have had a material impact on the group.
 over the reporting period.
 
 1.3. Concerning capital management (Article 359 of Delegated Regulation (EU)
-
-2015/35):
+):
 
 1.3.1. indication if the group is using an internal model or a partial internal
 
@@ -202,10 +192,7 @@ amount of each non-compliance, an explanation of its origin and
 consequences, any remedial measures taken, as provided for under
 Article 51(1)(e)(v) of the Directive 2009/138/EC and an explanation of
 the effects of such remedial measures;
-
-
 --- Page 4 ---
-
 1.3.8. where a significant non-compliance with the group Solvency Capital
 
 Requirement, has not been subsequently resolved: the amount of the
@@ -274,10 +261,7 @@ information on (Guideline 27 of EIOPA Guidelines on reporting and public
 disclosure):
 
       commercial rationale for the operation or transaction;
-
-
 --- Page 5 ---
-
       risks borne by, and rewards available to, each party to the operation or
 
 transaction;
@@ -339,10 +323,7 @@ provide the other supervisory authorities with the template S.37.01.04.
 4. The outcome of the group risk assessment framework from the group supervisory
 
 review process.
-
-
 --- Page 6 ---
-
 **Technical Annex III – List of selected data**
 
 
@@ -388,10 +369,7 @@ required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the numerator is calculated by screening the first
 category of the Complementary Identification Code which corresponds to the category
 of government bonds.
-
-
 --- Page 7 ---
-
 The denominator corresponds to the sum of the amount listed in the assets category
 as ‘investments’ and the amount listed in the assets category under ‘Cash and Cash
 Equivalents’ in the balance-sheet.
@@ -444,10 +422,7 @@ economic sector in order to figure out the corporate bonds issued by the compani
 classified as other than financial and insurance activities. The issuer economic sector
 
 is identified based on the NACE code (acronym used to designate the various
-
-
 --- Page 8 ---
-
 statistical classifications of economic activities developed since 1970 in the European
 Union).
 
@@ -503,10 +478,7 @@ participations, of other undertakings.
 The amount of holdings in related undertakings, including participations, (the
 numerator) is divided by the amount of total investments and cash (the denominator)
 and this number will be a percentage between 0 and 100%.
-
-
 --- Page 9 ---
-
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the amount listed in the assets category under
@@ -558,10 +530,7 @@ percentage by deducting 1 and multiplying by 100.
 
 This ratio demonstrates the year-to-date percentage change of gross non-life
 insurance and reinsurance written premiums including direct, proportional and nonproportional reinsurance business accepted.
-
-
 --- Page 10 ---
-
 The amount of total gross non-life insurance written premiums (incl. direct business,
 proportional and non-proportional reinsurance accepted) for the current year (t)
 (numerator) is divided by the amount of total gross premiums written non-life
@@ -614,10 +583,7 @@ into ‘percentage’ format.
 This ratio measures the change in life technical provisions by comparing the current
 year’s amount of technical provisions with the previous year’s gross technical
 provisions.
-
-
 --- Page 11 ---
-
 The current year’s life technical provisions (numerator) is divided by the previous
 year’s life technical provisions (denominator) and then converted into a percentage by
 deducting 1 and multiplying by 100.
@@ -673,10 +639,7 @@ preceding quarters needed to cover the full year period;
 the actual quarter and each of the three preceding quarters.
 
 **13) Gross combined Ratio**
-
-
 --- Page 12 ---
-
 This ratio is a measure of the underwriting performance of a non-life insurance or
 [reinsurance undertaking or group. The result is expressed as a percentage and a](http://www.investorwords.com/7202/result.html)
 value below 100% indicates that the company is making underwriting profit while a
@@ -714,4 +677,3 @@ template where undertakings and groups report the reinsurers’ share of premium
 earned for non-life and for life and the denominator can be computed on the basis of
 the relevant template where undertakings and groups report the total amount of
 premiums earned for non-life and for life.
-

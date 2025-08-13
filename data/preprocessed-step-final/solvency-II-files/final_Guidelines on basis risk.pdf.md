@@ -1,6 +1,5 @@
 
 --- Page 1 ---
-
 EIOPA-BoS-14/172 EN
 
 
@@ -17,10 +16,7 @@ Guidelines on basis risk](#)
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
-
-
 --- Page 2 ---
-
 ## **Introduction **
 
 1.1. According to Article 16 of Regulation (EU) No 1094/2010 of the European
@@ -53,7 +49,7 @@ legal acts referred to in the introduction.
 
 1.8. These Guidelines shall apply from 1 April 2015.
 
-### **Guideline 1 – Risk-mitigation techniques with no material basis risk**
+#### **Guideline 1 – Risk-mitigation techniques with no material basis risk**
 
 1.9. Undertakings should consider that a risk-mitigation technique does not result in
 material basis risk where the following conditions are met:
@@ -71,11 +67,8 @@ scenarios that are consistent with the confidence level set out in Article
 
 1 OJ L 331, 15.12.2010, p. 48–83
 2 OJ L 335, 17.12.2009, p. 1-155
-
-
 --- Page 3 ---
-
-### **Guideline 2 - Financial risk-mitigation techniques: assessment criteria of**
+#### **Guideline 2 - Financial risk-mitigation techniques: assessment criteria of**
 
 **material basis risk**
 
@@ -133,16 +126,13 @@ the risk-mitigation technique when determining whether the basis risk is
 
 material.
 
-### **Guideline 3 - Insurance risk-mitigation techniques with no material basis risk**
+#### **Guideline 3 - Insurance risk-mitigation techniques with no material basis risk**
 
 1.13. Before allowing for an insurance risk-mitigation technique in the calculation of
 
 the Solvency Capital Requirement with the standard formula, undertakings
 should identify whether reinsurance or special purpose vehicle arrangements
-
-
 --- Page 4 ---
-
 behave differently than the insurance policies of the undertaking under a
 comprehensive set of risk scenarios due to differences in terms and conditions.
 
@@ -188,4 +178,3 @@ considered as non-compliant to the reporting and reported as such.
 1.20. The present Guidelines shall be subject to a review by EIOPA.
 
 3 OJ L 12, 17.01.2015, p. 1-797
-

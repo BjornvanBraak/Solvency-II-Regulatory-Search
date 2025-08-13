@@ -1,5 +1,7 @@
 
---- Page 1 ---## I
+--- Page 1 ---
+
+## I
 
 
 *(Acts adopted under the EC Treaty/Euratom Treaty whose publication is obligatory)*
@@ -69,8 +71,7 @@ lished in the Official Journal) and Council Decision of 10 November
 relating to direct insurance other than life assurance and
 laying down provisions to facilitate the effective exercise of
 freedom to provide services ( [6] ); Council Directive
-
-92/49/EEC of 18 June 1992 on the coordination of laws,
+/EEC of 18 June 1992 on the coordination of laws,
 regulations and administrative provisions relating to direct
 insurance other than life assurance (third non-life insur­
 ance Directive) ( [7] ); Directive 98/78/EC of the European
@@ -113,8 +114,6 @@ nity to cover risks and commitments situated therein.
 ( [10] [) OJ L 345, 19.12.2002, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:345:0001:0001:EN:PDF)
 
 ( [11] [) OJ L 323, 9.12.2005, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:323:0001:0001:EN:PDF)
-
-
 --- Page 2 ---
 (3) It is in the interests of the proper functioning of the inter­
 nal market that coordinated rules be established relating to
@@ -169,8 +168,7 @@ use of motor vehicles ( [3] ); Directive 2004/39/EC of the
 
 European Parliament and of the Council of 21 April 2004
 on markets in financial instruments ( [4] ); and Directive
-
-2006/48/EC of the European Parliament and of the Coun­
+/EC of the European Parliament and of the Coun­
 cil of 14 June 2006 relating to the taking up and pursuit
 of the business of credit institutions ( [5] ) lay down general
 
@@ -249,9 +247,8 @@ cial activities.
 ( [6] [) OJ L 181, 20.7.2000, p. 65.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:181:0065:0065:EN:PDF)
 
 ( [7] [) OJ L 35, 11.2.2003, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:035:0001:0001:EN:PDF)
-
-
---- Page 3 ---(14) The protection of policy holders presupposes that insur­
+--- Page 3 ---
+(14) The protection of policy holders presupposes that insur­
 ance and reinsurance undertakings are subject to effective
 solvency requirements that result in an efficient allocation
 of capital across the European Union. In light of market
@@ -366,8 +363,6 @@ file of most insurance and reinsurance undertakings.
 However, there may be some cases where the standardised
 approach does not adequately reflect the very specific risk
 profile of an undertaking.
-
-
 --- Page 4 ---
 (27) The imposition of a capital add-on is exceptional in the
 sense that it should be used only as a measure of last resort,
@@ -490,9 +485,8 @@ regularly to the European Parliament and the Commission
 on the progress made.
 
 ( [1] [) OJ L 25, 29.1.2009, p. 28.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:025:0028:0028:EN:PDF)
-
-
---- Page 5 ---(41) The objective of the information and report to be pre­
+--- Page 5 ---
+(41) The objective of the information and report to be pre­
 sented in relation to capital add-ons by CEIOPS is not to
 inhibit their use as permitted under this Directive but to
 contribute to an ever higher degree of supervisory conver­
@@ -595,8 +589,6 @@ subject to the criteria laid down in this Directive on the
 classification in tiers. This means, *inter alia*, that only sur­
 plus funds which fulfil the requirements for classification
 in Tier 1 should be considered as Tier 1 capital.
-
-
 --- Page 6 ---
 (52) Mutual and mutual-type associations with variable contri­
 butions may call for supplementary contributions from
@@ -700,9 +692,8 @@ of unsustained adverse movements in financial markets,
 the market risk module of the standard formula for the
 Solvency Capital Requirement should include a symmetric
 adjustment mechanism with respect to changes in the level
-
-
---- Page 7 ---of equity prices.In addition, in the event of exceptional falls
+--- Page 7 ---
+of equity prices.In addition, in the event of exceptional falls
 in financial markets, and where that symmetric adjustment
 mechanism is not sufficient to enable insurance and rein­
 surance undertakings to fulfil their Solvency Capital
@@ -813,8 +804,6 @@ when the insurer is reinsured by an insurance or reinsur­
 ance undertaking authorised pursuant to this Directive, or
 by a third-country undertaking where the supervisory
 regime of that third country has been deemed equivalent.
-
-
 --- Page 8 ---
 (74) The legal framework has so far provided neither detailed
 criteria for a prudential assessment of a proposed acquisi­
@@ -823,8 +812,7 @@ of the criteria and the process of prudential assessment is
 therefore needed to provide the necessary legal certainty,
 clarity and predictability with regard to the assessment
 process, as well as to the result thereof. Those criteria and
-procedures were introduced by provisions in Directive
-2007/44/EC. As regards insurance and reinsurance those
+procedures were introduced by provisions in Directive/EC. As regards insurance and reinsurance those
 provisions should therefore be codified and integrated into
 this Directive.
 
@@ -931,9 +919,8 @@ other classes of indemnity insurance and life insurance
 insofar as it is necessary to ensure that policy holders have
 effective access to private health cover or health cover
 taken out on a voluntary basis regardless of their age or
-
-
---- Page 9 ---risk profile. Given the nature and the social consequences
+--- Page 9 ---
+risk profile. Given the nature and the social consequences
 of health insurance contracts, the supervisory authorities
 of the Member State in which a risk is situated should be
 able to require systematic notification of the general and
@@ -1050,8 +1037,6 @@ taking to form a more soundly based judgment of its finan­
 cial situation.
 
 ( [1] [) OJ L 177, 4.7.2008, p. 6.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:177:0006:0006:EN:PDF)
-
-
 --- Page 10 ---
 (96) Such group supervision should take into account insurance
 holding companies and mixed-activity insurance holding
@@ -1167,9 +1152,8 @@ panies and mixed activity insurance holding companies,
 and take appropriate measures at the level of the insurance
 or reinsurance undertaking where its solvency is being or
 may be jeopardised.
-
-
---- Page 11 ---(110) Insurance and reinsurance undertakings within a group
+--- Page 11 ---
+(110) Insurance and reinsurance undertakings within a group
 should have appropriate systems of governance which
 should be subject to supervisory review.
 
@@ -1284,8 +1268,6 @@ should be capable of being subrogated to a national wage
 guarantee scheme. Such subrogated claims should benefit
 from the treatment determined by the law of the home
 Member State (lex concursus).
-
-
 --- Page 12 ---
 (122) Reorganisation measures do not preclude the opening of
 winding-up proceedings. Winding-up proceedings should
@@ -1383,8 +1365,7 @@ Since those measures are of general scope and are designed
 to amend non-essential elements of this Directive, *inter alia*,
 by supplementing it with non-essential elements, they
 must be adopted in accordance with the regulatory proce­
-dure with scrutiny laid down in Article 5a of Decision
-1999/468/EC.
+dure with scrutiny laid down in Article 5a of Decision/EC.
 
 (133) Since the objectives of this Directive cannot be sufficiently
 achieved by the Member States and can therefore, by rea­
@@ -1425,9 +1406,8 @@ ance other than life assurance [4] ); and Council Directive
 ( [3] [) OJ L 228, 16.8.1973, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1973&mm=08&jj=16&type=L&nnn=228&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
 
 ( [4] [) OJ L 189, 13.7.1976, p. 13.](http://eur-lex.europa.eu/Result.do?aaaa=1976&mm=07&jj=13&type=L&nnn=189&pppp=0013&RechType=RECH_reference_pub&Submit=Search)
-
-
---- Page 13 ---84/641/EECof 10 December 1984 amending, particularly
+--- Page 13 ---
+/EECof 10 December 1984 amending, particularly
 as regards tourist assistance, First Directive (73/239/EEC)
 on the coordination of laws, regulations and administra­
 tive provisions relating to the taking-up and pursuit of the
@@ -1546,10 +1526,10 @@ due consideration of the conclusions presented by the
 ( [2] [) OJ L 235, 23.9.2003, p. 10.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:235:0010:0010:EN:PDF)
 
 ( [3] [) OJ L 9, 15.1.2003, p. 3.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:009:0003:0003:EN:PDF)
-
-
 --- Page 18 ---
 # TITLE I
+
+
 The assistance activity shall not cover servicing, maintenance,
 after-sales service or the mere indication or provision of aid as an
 intermediary.
@@ -1663,9 +1643,8 @@ of capital or payment of a minimum interest;
 (v) the operations carried out by life insurance undertakings
 such as those referred to in Chapter 1, Title 4 of Book IV
 of the French ‘Code des assurances’;
-
-
---- Page 19 ---(c) to operations relating to the length of human life which are
+--- Page 19 ---
+(c) to operations relating to the length of human life which are
 prescribed by or provided for in social insurance legislation,
 in so far as they are effected or managed by life insurance
 undertakings at their own risk in accordance with the laws of
@@ -1778,12 +1757,12 @@ ums or constitution of technical reserves; or
 
 (4) export credit insurance operations for the account of or guar­
 anteed by the State, or where the State is the insurer.
-
-
 --- Page 20 ---
 ##### Article 6
 
 **Assistance**
+
+
 ##### Article 7
 
 **Mutual undertakings**
@@ -1902,9 +1881,8 @@ trades, in the event of death or survival or of discontinuance
 or curtailment of activity, whether or not the commitments
 arising from such operations are fully covered at all times by
 mathematical provisions;
-
-
---- Page 21 ---(3) the pension activities of pension insurance undertakings pre­
+--- Page 21 ---
+(3) the pension activities of pension insurance undertakings pre­
 scribed in the Employees Pension Act (TyEL) and other
 related Finnish legislation provided that:
 
@@ -2016,8 +1994,6 @@ purpose of which is to provide reinsurance cover exclusively
 for the risks of the undertaking or undertakings to which it
 belongs or of an undertaking or undertakings of the group
 of which it is a member;
-
-
 --- Page 22 ---
 (6) ‘third-country reinsurance undertaking’ means an undertak­
 ing which would require authorisation as a reinsurance
@@ -2122,9 +2098,8 @@ trol relationship;
 ing and a subsidiary undertaking, as set out in Article 1 of
 Directive 83/349/EEC, or a similar relationship between any
 natural or legal person and an undertaking;
-
-
---- Page 23 ---(19) ‘intra-group transaction’ means any transaction by which an
+--- Page 23 ---
+(19) ‘intra-group transaction’ means any transaction by which an
 insurance or reinsurance undertaking relies, either directly or
 indirectly, on other undertakings within the same group or
 on any natural or legal person linked to the undertakings
@@ -2153,8 +2128,7 @@ financial market which fulfils the following conditions:
 
 (i) it is recognised by the home Member State of the
 insurance undertaking and fulfils requirements
-comparable to those laid down in Directive
-2004/39/EC; and
+comparable to those laid down in Directive/EC; and
 
 (ii) the financial instruments dealt in on that market
 are of a quality comparable to that of the instru­
@@ -2242,8 +2216,6 @@ performed by the insurance or reinsurance undertaking
 itself;
 
 ( [1] [) OJ L 222, 14.8.1978, p. 11.](http://eur-lex.europa.eu/Result.do?aaaa=1978&mm=08&jj=14&type=L&nnn=222&pppp=0011&RechType=RECH_reference_pub&Submit=Search)
-
-
 --- Page 24 ---
 (29) ‘function’, within a system of governance, means an internal
 capacity to undertake practical tasks; a system of governance
@@ -2360,9 +2332,8 @@ assistance activity referred to in Article 6 only if they have received
 authorisation for class 18 in Part A of Annex I, without prejudice
 to Article 16(1). In that event this Directive shall apply to the
 operations in question.
-
-
---- Page 25 ---5. In regard to reinsurance, authorisation shall be granted for
+--- Page 25 ---
+5. In regard to reinsurance, authorisation shall be granted for
 non-life reinsurance activity, life reinsurance activity or all kinds
 of reinsurance activity.
 
@@ -2480,8 +2451,6 @@ It shall, in addition, be required to show proof that it possesses the
 eligible own funds to cover the Solvency Capital Requirement and
 Minimum Capital Requirement provided for in the first paragraph
 of Article 100 and Article 128.
-
-
 --- Page 26 ---
 3. Without prejudice to paragraph 2, an insurance undertak­
 ing pursuing life activities, and seeking authorisation to extend its
@@ -2603,9 +2572,8 @@ or reinsurance undertaking concerned proposes to cover;
 undertaking proposes to make with ceding undertakings;
 
 (c) the guiding principles as to reinsurance and to retrocession;
-
-
---- Page 27 ---(d) the basic own-fund items constituting the absolute floor of
+--- Page 27 ---
+(d) the basic own-fund items constituting the absolute floor of
 the Minimum Capital Requirement;
 
 (e) estimates of the costs of setting up the administrative services
@@ -2679,8 +2647,7 @@ Member States shall not take into account voting rights or shares
 which investment firms or credit institutions may hold as a result
 of providing the underwriting of financial instruments and/or
 placing of financial instruments on a firm commitment basis
-included under point (6) of Section A of Annex I to Directive
-2004/39/EC, provided that those rights are, on the one hand, not
+included under point (6) of Section A of Annex I to Directive/EC, provided that those rights are, on the one hand, not
 exercised or otherwise used to intervene in the management of
 the issuer and, on the other, disposed of within one year of the
 acquisition.
@@ -2720,8 +2687,6 @@ ral or legal, who controls an insurance or reinsurance under­
 taking authorised in that Member State.
 
 ( [1] [) OJ L 390, 31.12.2004, p. 38.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:390:0038:0038:EN:PDF)
-
-
 --- Page 28 ---
 2. The authorities of a Member State involved which are
 responsible for the supervision of credit institutions or investment
@@ -2830,9 +2795,8 @@ the insurance undertaking has at its disposal for the purpose of
 carrying out the assistance operations it has undertaken to per­
 form, where the law of the home Member State provides for the
 monitoring of such resources.
-
-
---- Page 29 ---3. If the supervisory authorities of the Member State in which
+--- Page 29 ---
+3. If the supervisory authorities of the Member State in which
 the risk is situated or the Member State of the commitment or, in
 case of a reinsurance undertaking, the supervisory authorities of
 the host Member State, have reason to consider that the activities
@@ -2948,8 +2912,6 @@ necessary measures, including where appropriate, those of an
 administrative or financial nature, with regard to insurance or
 reinsurance undertakings, and the members of their administra­
 tive, management or supervisory body.
-
-
 --- Page 30 ---
 3. Member States shall ensure that supervisory authorities have
 the power to require all information necessary to conduct super­
@@ -3075,9 +3037,8 @@ review and evaluate the strategies, processes and reporting proce­
 dures which are established by the insurance and reinsurance
 undertakings to comply with the laws, regulations and adminis­
 trative provisions adopted pursuant to this Directive.
-
-
---- Page 31 ---That review and evaluation shall comprise the assessment of the
+--- Page 31 ---
+That review and evaluation shall comprise the assessment of the
 qualitative requirements relating to the system of governance, the
 assessment of the risks which the undertakings concerned face or
 may face and the assessment of the ability of those undertakings
@@ -3193,8 +3154,6 @@ that led to the imposition of the capital add-on.
 reviewed at least once a year by the supervisory authority and be
 removed when the undertaking has remedied the deficiencies
 which led to its imposition.
-
-
 --- Page 32 ---
 5. The Solvency Capital Requirement including the capital
 add-on imposed shall replace the inadequate Solvency Capital
@@ -3305,13 +3264,14 @@ gations arising out of the contracts transferred.
 The first and second subparagraphs of this paragraph shall not
 affect the right of the Member States to give policy holders the
 option of cancelling contracts within a fixed period after a transfer.
-
-
---- Page 33 ---*CHAPTER IV*
+--- Page 33 ---
+## *CHAPTER IV*
 
 ***Conditions governing business***
 
 ### Section 1
+
+
 4. Insurance and reinsurance undertakings shall take reason­
 able steps to ensure continuity and regularity in the performance
 of their activities, including the development of contingency
@@ -3420,8 +3380,6 @@ from the judicial record or, failing this, of an equivalent document
 issued by a competent judicial or administrative authority in the
 home Member State or the Member State from which the foreign
 national comes showing that those requirements have been met.
-
-
 --- Page 34 ---
 2. Where the home Member State or the Member State from
 which the foreign national concerned comes does not issue the
@@ -3546,9 +3504,8 @@ strategy of the undertaking;
 requirements, as laid down in Chapter VI, Sections 4 and 5
 and with the requirements regarding technical provisions, as
 laid down in Chapter VI, Section 2;
-
-
---- Page 35 ---(c) the significance with which the risk profile of the undertak­
+--- Page 35 ---
+(c) the significance with which the risk profile of the undertak­
 ing concerned deviates from the assumptions underlying the
 Solvency Capital Requirement as laid down in Article 101(3),
 calculated with the standard formula in accordance with
@@ -3662,8 +3619,6 @@ ments; and
 with respect to the risk modelling underlying the calculation
 of the capital requirements set out in Chapter VI, Sections 4
 and 5, and to the assessment referred to in Article 45.
-
-
 --- Page 36 ---
 2. The actuarial function shall be carried out by persons who
 have knowledge of actuarial and financial mathematics, commen­
@@ -3779,9 +3734,8 @@ the Minimum Capital Requirement;
 
 (iii) the option set out in Article 304 used for the calculation
 of the Solvency Capital Requirement;
-
-
---- Page 37 ---(iv) information allowing a proper understanding of the
+--- Page 37 ---
+(iv) information allowing a proper understanding of the
 main differences between the underlying assumptions of
 the standard formula and those of any internal model
 used by the undertaking for the calculation of its Sol­
@@ -3896,8 +3850,6 @@ taking would gain significant undue advantage;
 (b) there are obligations to policy holders or other counterparty
 relationships binding an undertaking to secrecy or
 confidentiality.
-
-
 --- Page 38 ---
 2. Where non-disclosure of information is permitted by the
 supervisory authority, undertakings shall make a statement to this
@@ -4020,12 +3972,10 @@ ance undertaking would become its subsidiary (the proposed
 acquisition), first to notify in writing the supervisory authorities
 of the insurance or reinsurance undertaking in which they are
 seeking to acquire or increase a qualifying holding, indicating the
-
-
---- Page 39 ---size of the intended holding and relevant information, as referred
+--- Page 39 ---
+size of the intended holding and relevant information, as referred
 to in Article 59(4). Member States need not apply the 30 %
-threshold where, in accordance with Article 9(3)(a) of Directive
-2004/109/EC, they apply a threshold of one third.
+threshold where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 
 2. Member States shall require any natural or legal person who
 has taken a decision to dispose, directly or indirectly, of a quali­
@@ -4038,8 +3988,7 @@ ing so that the proportion of the voting rights or of the capital
 held would fall below 20 %, 30 % or 50 % or so that the insur­
 ance or reinsurance undertaking would cease to be a subsidiary of
 that person. Member States need not apply the 30 % threshold
-where, in accordance with Article 9(3)(a) of Directive
-2004/109/EC, they apply a threshold of one third.
+where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 
 ##### Article 58
 
@@ -4088,8 +4037,7 @@ Directive, Council Directive 85/611/EEC of 20 December
 1985 on the coordination of laws, regulations and adminis­
 trative provisions relating to undertakings for collective
 investment in transferable securities (UCITS) ( [1] ), Directive
-
-2004/39/EC, or Directive 2006/48/EC.
+/EC, or Directive 2006/48/EC.
 
 4. If the supervisory authorities, upon completion of the
 assessment, decide to oppose the proposed acquisition, they shall,
@@ -4141,8 +4089,6 @@ following criteria:
 (a) the reputation of the proposed acquirer;
 
 ( [1] [) OJ L 375, 31.12.1985, p. 3.](http://eur-lex.europa.eu/Result.do?aaaa=1985&mm=12&jj=31&type=L&nnn=375&pppp=0003&RechType=RECH_reference_pub&Submit=Search)
-
-
 --- Page 40 ---
 (b) the reputation and experience of any person who will direct
 the business of the insurance or reinsurance undertaking as a
@@ -4259,9 +4205,8 @@ holdings and the sizes of such holdings as shown, for example, by
 the information received at annual general meetings of sharehold­
 ers or members or as a result of compliance with the regulations
 relating to companies listed on stock exchanges.
-
-
---- Page 41 ---*Article 62*
+--- Page 41 ---
+##### Article 62
 
 **Qualifying holdings, powers of the supervisory authority**
 
@@ -4302,8 +4247,7 @@ Member States shall not take into account voting rights or shares
 which investment firms or credit institutions may hold as a result
 of providing the underwriting of financial instruments and/or
 placing of financial instruments on a firm commitment basis
-included under point 6 of Section A of Annex I to Directive
-2004/39/EC, provided that those rights are, on the one hand, not
+included under point 6 of Section A of Annex I to Directive/EC, provided that those rights are, on the one hand, not
 exercised or otherwise used to intervene in the management of
 the issuer and, on the other, disposed of within one year of
 acquisition.
@@ -4386,8 +4330,6 @@ Requirement, and the system of governance;
 authorities;
 
 (4) in court proceedings under this Directive.
-
-
 --- Page 42 ---
 ##### Article 68
 
@@ -4515,9 +4457,8 @@ paragraph 3.
 
 Articles 64 and 67 shall not preclude Member States from autho­
 rising, under provisions laid down by law, the disclosure of
-
-
---- Page 43 ---certain information to other departments of their central govern­
+--- Page 43 ---
+certain information to other departments of their central govern­
 ment administrations responsible for legislation on the supervi­
 sion of credit institutions, financial institutions, investment
 services and insurance or reinsurance undertakings and to inspec­
@@ -4596,8 +4537,7 @@ approval of persons responsible for carrying out the statutory
 audits of accounting documents ( [1] ), who perform in an insurance
 
 or reinsurance undertaking the statutory audit referred to in
-Article 51 of Directive 78/660/EEC, Article 37 of Directive
-83/349/EEC or Article 31 of Directive 85/611/EEC or any other
+Article 51 of Directive 78/660/EEC, Article 37 of Directive/EEC or Article 31 of Directive 85/611/EEC or any other
 statutory task, shall have a duty to report promptly to the super­
 visory authorities any fact or decision concerning that undertak­
 ing of which they have become aware while carrying out that task
@@ -4626,16 +4566,13 @@ relationship with the insurance or reinsurance undertaking within
 which they are carrying out that task.
 
 2. The disclosure in good faith to the supervisory authorities,
-by persons authorised within the meaning of Directive
-84/253/EEC, of any fact or decision referred to in paragraph 1
+by persons authorised within the meaning of Directive/EEC, of any fact or decision referred to in paragraph 1
 shall not constitute a breach of any restriction on disclosure of
 information imposed by contract or by any legislative, regulatory
 or administrative provision and shall not involve such persons in
 liability of any kind.
 
 ( [1] [) OJ L 126, 12.5.1984, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1984&mm=05&jj=12&type=L&nnn=126&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
-
-
 --- Page 44 ---
 ## *CHAPTER V*
 
@@ -4755,9 +4692,8 @@ is informed, the undertaking may use to cover the Solvency Capi­
 tal Requirement referred to in Article 100, the explicit eligible
 own-fund items which are still available for one or the other
 activity.
-
-
---- Page 45 ---5. The supervisory authorities shall analyse the results in both
+--- Page 45 ---
+5. The supervisory authorities shall analyse the results in both
 life and non-life insurance activities so as to ensure that the
 requirements of paragraphs 1 to 4 are fulfilled.
 
@@ -4869,8 +4805,6 @@ dance with Articles 77 to 82 and 86.
 1. The value of technical provisions shall be equal to the sum
 of a best estimate and a risk margin as set out in paragraphs 2
 and 3.
-
-
 --- Page 46 ---
 2. The best estimate shall correspond to the probabilityweighted average of future cash-flows, taking account of the time
 value of money (expected present value of future cash-flows),
@@ -4973,10 +4907,10 @@ Insurance and reinsurance undertakings shall segment their insur­
 ance and reinsurance obligations into homogeneous risk groups,
 and as a minimum by lines of business, when calculating their
 technical provisions.
-
-
 --- Page 47 ---
 ##### Article 81
+
+
 
 
 
@@ -5086,8 +5020,6 @@ calculation of technical provisions, and the specific circum­
 stances in which it would be appropriate to use approxima­
 tions, including case-by-case approaches, to calculate the best
 estimate;
-
-
 --- Page 48 ---
 (g) the methodologies to be used when calculating the counter­
 party default adjustment referred to in Article 81 designed to
@@ -5199,9 +5131,8 @@ ability and willingness to pay;
 (b) the recoverability of the funds, taking account of the legal
 form of the item, as well as any conditions which would pre­
 vent the item from being successfully paid in or called up;
-
-
---- Page 49 ---(c) any information on the outcome of past calls which insur­
+--- Page 49 ---
+(c) any information on the outcome of past calls which insur­
 ance and reinsurance undertakings have made for such ancil­
 lary own funds, to the extent that information can be reliably
 used to assess the expected outcome of future calls.
@@ -5313,8 +5244,6 @@ Article 93(2).
 2. Basic own-fund items shall be classified in Tier 2 where they
 substantially possess the characteristic set out in Article 93(1)(b),
 taking into consideration the features set out in Article 93(2).
-
-
 --- Page 50 ---
 Ancillary own-fund items shall be classified in Tier 2 where they
 substantially possess the characteristics set out in Article 93(1)(a)
@@ -5431,9 +5360,8 @@ total amount of eligible basic own funds.
 Capital Requirement set out in Article 100 shall be equal to the
 sum of the amount of Tier 1, the eligible amount of Tier 2 and
 the eligible amount of Tier 3.
-
-
---- Page 51 ---4. The eligible amount of basic own funds to cover the Mini­
+--- Page 51 ---
+4. The eligible amount of basic own funds to cover the Mini­
 mum Capital Requirement set out in Article 128 shall be equal to
 the sum of the amount of Tier 1 and the eligible amount of basic
 own-fund items classified in Tier 2.
@@ -5548,8 +5476,6 @@ ates significantly from the assumptions underlying the last
 reported Solvency Capital Requirement, the undertaking con­
 cerned shall recalculate the Solvency Capital Requirement with­
 out delay and report it to the supervisory authorities.
-
-
 --- Page 52 ---
 2. Where there is evidence to suggest that the risk profile of
 the insurance or reinsurance undertaking has altered significantly
@@ -5665,9 +5591,8 @@ ance liabilities, resulting from fluctuations in the timing, fre­
 quency and severity of insured events, and in the timing and
 amount of claim settlements (non-life premium and reserve
 risk);
-
-
---- Page 53 ---(b) the risk of loss, or of adverse change in the value of insur­
+--- Page 53 ---
+(b) the risk of loss, or of adverse change in the value of insur­
 ance liabilities, resulting from significant uncertainty of pric­
 ing and provisioning assumptions related to extreme or
 exceptional events (non-life catastrophe risk).
@@ -5774,8 +5699,6 @@ credit spreads over the risk-free interest rate term structure
 (e) the sensitivity of the values of assets, liabilities and financial
 instruments to changes in the level or in the volatility of cur­
 rency exchange rates (currency risk);
-
-
 --- Page 54 ---
 (f) additional risks to an insurance or reinsurance undertaking
 stemming either from lack of diversification in the asset port­
@@ -5889,9 +5812,8 @@ reinsurance undertakings to apply the standardised calculation.
 
 Simplified calculations shall be calibrated in accordance with
 Article 101(3).
-
-
---- Page 55 ---*Article 110*
+--- Page 55 ---
+##### Article 110
 
 **Significant deviations from the assumptions underlying**
 **the standard formula calculation**
@@ -6004,8 +5926,6 @@ contracts where the investment risk is borne by the policy hold­
 ers. Those measures shall be reviewed by the Commission in the
 light of developments in the standard formula and financial
 markets.
-
-
 --- Page 56 ---
 Those measures, designed to amend non-essential elements of this
 Directive by supplementing it, shall be adopted in accordance
@@ -6120,9 +6040,8 @@ the following:
 
 (1) the procedure to be followed for the approval of an internal
 model;
-
-
---- Page 57 ---(2) the adaptations to be made to the standards set out in
+--- Page 57 ---
+(2) the adaptations to be made to the standards set out in
 Articles 120 to 125 in order to take account of the limited
 scope of the application of the partial internal model.
 
@@ -6238,8 +6157,6 @@ responsible for ensuring the ongoing appropriateness of the
 design and operations of the internal model, and that the internal
 model continues to appropriately reflect the risk profile of the
 insurance and reinsurance undertakings concerned.
-
-
 --- Page 58 ---
 ##### Article 121
 
@@ -6351,11 +6268,12 @@ mark portfolios and using assumptions based on external rather
 than internal data in order to verify the calibration of the internal
 model and to check that its specification is in line with generally
 accepted market practice.
-
-
---- Page 59 ---*Article 123*
+--- Page 59 ---
+##### Article 123
 
 **Profit and loss attribution**
+
+
 Insurance and reinsurance undertakings shall document all major
 changes to their internal model, as set out in Article 115.
 
@@ -6464,8 +6382,6 @@ such a way as to ensure that the calculation can be audited;
 below which policy holders and beneficiaries are exposed to
 an unacceptable level of risk were insurance and reinsurance
 undertakings allowed to continue their operations;
-
-
 --- Page 60 ---
 (c) the linear function referred to in paragraph 2 used to calcu­
 late the Minimum Capital Requirement shall be calibrated to
@@ -6578,9 +6494,8 @@ undertakings invest all their assets in accordance with the prudent
 person principle, as specified in paragraphs 2, 3 and 4.
 
 ( [1] [) OJ L 3, 7.1.2004, p. 34.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:003:0034:0034:EN:PDF)
-
-
---- Page 61 ---2. With respect to the whole portfolio of assets, insurance and
+--- Page 61 ---
+2. With respect to the whole portfolio of assets, insurance and
 reinsurance undertakings shall only invest in assets and instru­
 ments whose risks the undertaking concerned can properly iden­
 tify, measure, monitor, manage, control and report, and
@@ -6690,8 +6605,6 @@ solvency regime is deemed to be equivalent in accordance with
 Article 172, Member States shall not require the localisation
 within the Community of the assets representing those
 recoverables.
-
-
 --- Page 62 ---
 2. Member States shall not retain or introduce for the estab­
 lishment of technical provisions a system with gross reserving
@@ -6796,9 +6709,8 @@ by three months.
 supervisory authority may extend the period set out in the sec­
 ond subparagraph of paragraph 3 by an appropriate period of
 time taking into account all relevant factors.
-
-
---- Page 63 ---The insurance or reinsurance undertaking concerned shall, every
+--- Page 63 ---
+The insurance or reinsurance undertaking concerned shall, every
 three months, submit a progress report to its supervisory author­
 ity setting out the measures taken and the progress made to
 re-establish the level of eligible own funds covering the Solvency
@@ -6909,8 +6821,6 @@ they shall refrain from issuing a certificate in accordance with
 Article 39 for as long as they consider that the rights of the policy
 holders, or the contractual obligations of the reinsurance under­
 taking are threatened.
-
-
 --- Page 64 ---
 ##### Article 143
 
@@ -7026,9 +6936,8 @@ courts of the host Member State (the authorised agent);
 (d) the address in the host Member State from which documents
 may be obtained and to which they may be delivered, includ­
 ing all communications to the authorised agent.
-
-
---- Page 65 ---With regard to Lloyd’s, in the event of any litigation in the host
+--- Page 65 ---
+With regard to Lloyd’s, in the event of any litigation in the host
 Member State arising out of underwritten commitments, the
 insured persons shall not be treated less favourably than if the liti­
 gation had been brought against businesses of a conventional
@@ -7152,8 +7061,6 @@ Article 18(1)(h);
 (b) a declaration that it has become a member of the national
 bureau and national guarantee fund of the host Member
 State.
-
-
 --- Page 66 ---
 3. Where the supervisory authorities of the home Member
 State do not communicate the information referred to in para­
@@ -7272,9 +7179,8 @@ the information which they are authorised to request with regard
 to the business of insurance undertakings operating in the terri­
 tory of that Member State to be supplied to them in the official
 language or languages of that State.
-
-
---- Page 67 ---*Article 154*
+--- Page 67 ---
+##### Article 154
 
 **Prior notification and prior approval**
 
@@ -7398,8 +7304,6 @@ and parafiscal charges on insurance premiums in the Member
 State in which the risk is situated or the Member State of the
 
 commitment
-
-
 --- Page 68 ---
 For the purposes of the first subparagraph, movable property
 contained in a building situated within the territory of a Member
@@ -7518,9 +7422,8 @@ arising out of contracts underwritten through a branch or under
 the freedom to provide services shall be met in the same way as
 those arising out of the other reinsurance contracts of that
 undertaking.
-
-
---- Page 69 ---*CHAPTER IX*
+--- Page 69 ---
+## *CHAPTER IX*
 
 ***Branches established within the community and belonging to***
 ***insurance or reinsurance undertakings with head offices***
@@ -7640,8 +7543,6 @@ commissions;
 (d) for life insurance, a plan setting out detailed estimates of
 income and expenditure in respect of direct business, rein­
 surance acceptances and reinsurance cessions.
-
-
 --- Page 70 ---
 3. In regard to life insurance, Member States may require
 insurance undertakings to submit systematic notification of the
@@ -7764,9 +7665,8 @@ mum Capital Requirement.
 must be kept within the Member State where the activities are
 pursued up to the amount of the Minimum Capital Requirement
 and the excess within the Community.
-
-
---- Page 71 ---*Article 167*
+--- Page 71 ---
+##### Article 167
 
 **Advantages to undertakings authorised in more than one**
 **Member State**
@@ -7886,10 +7786,10 @@ overall state of solvency as fixed by the Member States which
 agreed to the request referred to in Article 167, the Member States
 which gave their approval shall also withdraw their
 authorisations.
-
-
 --- Page 72 ---
 ##### Article 171
+
+
 
 
 
@@ -8018,9 +7918,8 @@ laws of a third country.
 
 That information shall also contain an indication of the structure
 of the group concerned.
-
-
---- Page 73 ---Where an undertaking governed by the law of a third country
+--- Page 73 ---
+Where an undertaking governed by the law of a third country
 acquires a holding in an insurance or reinsurance undertaking
 authorised in the Community which would turn that insurance or
 reinsurance undertaking into a subsidiary of that third country
@@ -8138,10 +8037,10 @@ under the conditions of Article 14 as long as that conclusion of
 contract does not conflict with legal provisions protecting the
 general good in the Member State in which the risk is situated or
 in the Member State of the commitment.
-
-
 --- Page 74 ---
 ### Section 4
+
+
 
 **s c a l e s o f p r e m i um s**
 
@@ -8249,9 +8148,8 @@ together with the insurance proposal where it is binding upon the
 policy holder, shall state the address of the head office or, where
 appropriate, of the branch of the non-life insurance undertaking
 which grants the cover.
-
-
---- Page 75 ---The Member States may require that the name and address of the
+--- Page 75 ---
+The Member States may require that the name and address of the
 representative of the non-life insurance undertaking referred to in
 Article 148(2)(a) also appear in the documents referred to in the
 first subparagraph of this paragraph.
@@ -8374,8 +8272,6 @@ language of the Member State of the commitment.
 However, such information may be in another language if the
 policy holder so requests and the law of the Member State so per­
 mits or the policy holder is free to choose the law applicable.
-
-
 --- Page 76 ---
 7. The Member State of the commitment may require
 life insurance undertakings to furnish information in addition to
@@ -8490,9 +8386,8 @@ terms and conditions of insurance and rating.
 
 2. Articles 147 to 152 shall apply only to the leading insur­
 ance undertaking.
-
-
---- Page 77 ---3. Co-insurance operations which do not satisfy the conditions
+--- Page 77 ---
+3. Co-insurance operations which do not satisfy the conditions
 set out in paragraph 1 shall remain subject to the provisions of
 this Directive except those of this Section.
 
@@ -8607,8 +8502,6 @@ claim made against that person.
 (a) legal expenses insurance where such insurance concerns dis­
 putes or risks arising out of, or in connection with, the use
 of sea-going vessels;
-
-
 --- Page 78 ---
 (b) the activity pursued by an insurance undertaking providing
 civil liability cover for the purpose of defending or represent­
@@ -8719,10 +8612,10 @@ denominations laid down in Council Directive 77/249/EEC of
 freedom to provide services ( [1] ).
 
 ( [1] [) OJ L 78, 26.3.1977, p. 17.](http://eur-lex.europa.eu/Result.do?aaaa=1977&mm=03&jj=26&type=L&nnn=078&pppp=0017&RechType=RECH_reference_pub&Submit=Search)
-
-
 --- Page 79 ---
 ##### Article 202
+
+
 
 
 1. Member States may provide for exemption from
@@ -8833,8 +8726,6 @@ The supervisory authorities of the Member State concerned shall
 publish the sickness tables and other relevant statistical data
 referred to in point (a) of the first subparagraph and transmit
 them to the supervisory authorities of the home Member State.
-
-
 --- Page 80 ---
 The premiums must be sufficient, on reasonable actuarial assump­
 tions, for insurance undertakings to be able to meet all their com­
@@ -8946,9 +8837,8 @@ ing measures laying down the following:
 (a) the scope of authorisation;
 
 (b) mandatory conditions to be included in all contracts issued;
-
-
---- Page 81 ---(c) fit and proper requirements as referred to in Article 42 of the
+--- Page 81 ---
+(c) fit and proper requirements as referred to in Article 42 of the
 persons running the special purpose vehicle;
 
 (d) fit and proper requirements for shareholders or members
@@ -9062,8 +8952,6 @@ company or a mixed financial holding company within the
 meaning of Directive 2002/87/EC, which includes at least
 one insurance or reinsurance undertaking among its subsid­
 iary undertakings.
-
-
 --- Page 82 ---
 2. For the purposes of this Title, the supervisory authorities
 shall also consider as a parent undertaking any undertaking
@@ -9126,8 +9014,7 @@ where the participating insurance or reinsurance undertaking or
 the insurance holding company which has its head office in the
 Community is a related undertaking of a regulated entity or a
 mixed financial holding company which is subject to supplemen­
-tary supervision in accordance with Article 5(2) of Directive
-2002/87/EC, the group supervisor may, after consulting the other
+tary supervision in accordance with Article 5(2) of Directive/EC, the group supervisor may, after consulting the other
 supervisory authorities concerned, decide not to carry out at the
 level of that participating insurance or reinsurance undertaking or
 that insurance holding company the supervision of risk concen­
@@ -9182,14 +9069,14 @@ Member State in which that undertaking is situated may ask the
 undertaking which is at the head of the group for any informa­
 tion which may facilitate their supervision of the insurance or
 reinsurance undertaking concerned.
-
-
 --- Page 83 ---
 ### Section 3
 
 **L e v e l s**
 
 ##### Article 215
+
+
 3. Where the supervisory authority decides to apply to the ulti­
 mate parent undertaking at national level Chapter II, Section 1,
 the choice of method made in accordance with Article 220 by the
@@ -9298,8 +9185,6 @@ Those measures, designed to amend non-essential elements of this
 Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
-
-
 --- Page 84 ---
 ##### Article 217
 
@@ -9422,9 +9307,8 @@ the insurance and reinsurance undertakings referred to in
 Article 213(2)(a) shall be carried out in accordance with the tech­
 nical principles and one of the methods set out in Articles 221
 to 233.
-
-
---- Page 85 ---2. Member States shall provide that the calculation of the sol­
+--- Page 85 ---
+2. Member States shall provide that the calculation of the sol­
 vency at the level of the group of insurance and reinsurance
 undertakings referred to in Article 213(2)(a) shall be carried out
 in accordance with method 1, which is laid down in Articles 230
@@ -9538,8 +9422,6 @@ calculation:
 
 (i) subscribed but not paid-up capital which represents a poten­
 tial obligation on the part of the participating undertaking;
-
-
 --- Page 86 ---
 (ii) subscribed but not paid-up capital of the participating insur­
 ance or reinsurance undertaking which represents a poten­
@@ -9644,9 +9526,8 @@ insurance undertaking, a related reinsurance undertaking, a thirdcountry insuran
 undertaking, through an insurance holding company, the situa­
 tion of such an insurance holding company shall be taken into
 account.
-
-
---- Page 87 ---For the sole purpose of that calculation, the intermediate insur­
+--- Page 87 ---
+For the sole purpose of that calculation, the intermediate insur­
 ance holding company shall be treated as if it were an insurance
 or reinsurance undertaking subject to the rules laid down in Title I,
 Chapter VI, Section 4, Subsections 1, 2 and 3 in respect of the Sol­
@@ -9756,8 +9637,6 @@ particular group, to decide, at the request of the participating
 undertaking or on their own initiative, to deduct any participa­
 tion as referred to in the first paragraph from the own funds eli­
 gible for the group solvency of the participating undertaking.
-
-
 --- Page 88 ---
 ##### Article 229
 
@@ -9868,9 +9747,8 @@ participating undertaking so requests.
 Where CEIOPS is being consulted, all the supervisory authorities
 concerned shall be informed and the period referred to in para­
 graph 2 shall be extended by two months.
-
-
---- Page 89 ---4. Where CEIOPS has not been consulted in accordance with
+--- Page 89 ---
+4. Where CEIOPS has not been consulted in accordance with
 the first subparagraph of paragraph 3, and in the absence of a
 joint decision of the supervisory authorities concerned within six
 months from the date of receipt of the complete application by
@@ -9979,8 +9857,6 @@ paragraph 2;
 taking of the related insurance or reinsurance undertakings
 and the aggregated group Solvency Capital Requirement, as
 provided for in paragraph 3.
-
-
 --- Page 90 ---
 2. The aggregated group eligible own funds are the sum of the
 following:
@@ -10096,9 +9972,8 @@ satisfied:
 not made a decision under Article 214(2), is included in the
 group supervision carried out by the group supervisor at the
 level of the parent undertaking in accordance with this Title;
-
-
---- Page 91 ---(b) the risk-management processes and internal control mecha­
+--- Page 91 ---
+(b) the risk-management processes and internal control mecha­
 nisms of the parent undertaking cover the subsidiary and the
 parent undertaking satisfies the supervisory authorities con­
 cerned regarding the prudent management of the subsidiary;
@@ -10219,8 +10094,6 @@ that authority may, in exceptional circumstances, propose that
 the undertaking replace a subset of the parameters used in the
 standard formula calculation by parameters specific to that under­
 taking when calculating the life, non-life and health underwriting
-
-
 --- Page 92 ---
 risk modules, as set out in Article 110, or in the cases referred to
 in Article 37, to set a capital add-on to the Solvency Capital
@@ -10334,9 +10207,8 @@ the group supervisor decides, after consulting the college of super­
 visors, no longer to include the subsidiary in the group supervi­
 sion it carries out, it shall immediately inform the supervisory
 authority concerned and the parent undertaking.
-
-
---- Page 93 ---For the purposes of Article 236(b), (c) and (d), the parent under­
+--- Page 93 ---
+For the purposes of Article 236(b), (c) and (d), the parent under­
 taking shall be responsible for ensuring that the conditions are
 complied with on an ongoing basis. In the event of noncompliance, it shall inform the group supervisor and the super­
 visor of the subsidiary concerned without delay. The parent
@@ -10449,8 +10321,6 @@ responsibilities.
 The Commission shall present a report to the European Parlia­
 ment and the Council, accompanied, where appropriate, by pro­
 posals for the amendment of this Directive.
-
-
 --- Page 94 ---
 ##### Article 243
 
@@ -10564,9 +10434,8 @@ Those measures, designed to amend non-essential elements of this
 Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
-
-
---- Page 95 ---S e c t i o n 3
+--- Page 95 ---
+### Section 3
 
 **R i s k m a n a g e m e n t a n d i n t e r n a l c o n t r o l**
 
@@ -10675,8 +10544,6 @@ State in which the insurance holding company has its
 head office, by the supervisory authority of the insurance
 or reinsurance undertaking authorised in that Member
 State;
-
-
 --- Page 96 ---
 (iii) where the group is headed by more than one insurance
 holding company with a head office in different Mem­
@@ -10788,9 +10655,8 @@ situations, in cooperation with the supervisory authorities
 concerned and taking into account the nature, scale and
 complexity of the risks inherent in the business of all under­
 takings that are part of the group;
-
-
---- Page 97 ---(f) other tasks, measures and decisions assigned to the group
+--- Page 97 ---
+(f) other tasks, measures and decisions assigned to the group
 supervisor by this Directive or deriving from the application
 of this Directive, in particular leading the process for valida­
 tion of any internal model at group level as set out in
@@ -10903,8 +10769,6 @@ including the group supervisor, have the same amount of relevant
 information available to them, without prejudice to their respec­
 tive responsibilities, and irrespective of whether they are estab­
 lished in the same Member State, they shall provide one another
-
-
 --- Page 98 ---
 with such information in order to allow and facilitate the exercise
 of the supervisory tasks of the other authorities under this Direc­
@@ -11031,9 +10895,8 @@ Member States shall authorise the exchange of information
 between their supervisory authorities and between their supervi­
 sory authorities and other authorities, as referred to in
 Articles 249 to 252.
-
-
---- Page 99 ---Information received in the framework of group supervision, and
+--- Page 99 ---
+Information received in the framework of group supervision, and
 in particular any exchange of information between supervisory
 authorities and between supervisory authorities and other
 authorities which is provided for in this Title, shall be subject to
@@ -11157,11 +11020,12 @@ the insurance holding company are fit and proper to perform
 their duties.
 
 Article 42 shall apply *mutatis mutandis* .
-
-
---- Page 100 ---*Article 258*
+--- Page 100 ---
+##### Article 258
 
 **Enforcement measures**
+
+
 ##### Article 259
 
 **Reporting of CEIOPS**
@@ -11275,9 +11139,8 @@ Commission had concluded previously in respect of the equiva­
 lence of the third country concerned. In so doing, that supervi­
 sory authority shall consult the other supervisory authorities
 concerned and CEIOPS, before taking a decision.
-
-
---- Page 101 ---2. The Commission may adopt implementing measures speci­
+--- Page 101 ---
+2. The Commission may adopt implementing measures speci­
 fying the criteria to assess whether the prudential regime in a third
 country for the supervision of groups is equivalent to that laid
 down in this Title. Those measures, designed to amend nonessential elements of this Directive by supplementing it, shall be
@@ -11391,10 +11254,10 @@ subparagraph of Article 260(1) shall explain its decision to the
 group.
 
 Article 262 shall apply *mutatis mutandis* .
-
-
 --- Page 102 ---
 ##### Article 264
+
+
 
 
 
@@ -11518,9 +11381,8 @@ authorities, including where the collective proceedings are
 terminated by a composition or other analogous measure,
 whether or not they are founded on insolvency or are volun­
 tary or compulsory;
-
-
---- Page 103 ---(e) ‘administrator’ means a person or body appointed by the
+--- Page 103 ---
+(e) ‘administrator’ means a person or body appointed by the
 competent authorities for the purpose of administering reor­
 ganisation measures;
 
@@ -11639,8 +11501,6 @@ provisions concerning publication set out in paragraphs 1 and 2
 and shall be fully effective as against creditors, unless the compe­
 tent authorities of the home Member State or the law of that
 Member State provide otherwise.
-
-
 --- Page 104 ---
 4. Where reorganisation measures affect exclusively the rights
 of shareholders, members or employees of an insurance under­
@@ -11762,9 +11622,8 @@ winding-up proceedings; and
 
 (l) the rules relating to the nullity, voidability or unenforceabil­
 ity of legal acts detrimental to all the creditors.
-
-
---- Page 105 ---*Article 275*
+--- Page 105 ---
+##### Article 275
 
 **Treatment of insurance claims**
 
@@ -11871,10 +11730,10 @@ The home Member State may provide that, where the rights of
 insurance creditors have been subrogated to a guarantee scheme
 established in that Member State, claims by that scheme shall not
 benefit from the provisions of Article 275(1).
-
-
 --- Page 106 ---
 ##### Article 278
+
+
 
 
 
@@ -11990,9 +11849,8 @@ of title in respect of the claim;
 
 The precedence granted to insurance claims by Article 275 need
 not be indicated.
-
-
---- Page 107 ---*Article 283*
+--- Page 107 ---
+##### Article 283
 
 **Languages and form**
 
@@ -12115,8 +11973,6 @@ vation of title where at the time of the opening of such measures
 or proceedings the asset is situated within the territory of a Mem­
 ber State other than that in which such measures or proceedings
 were opened.
-
-
 --- Page 108 ---
 2. The opening, after delivery of the asset, of reorganisation
 measures or winding-up proceedings against an insurance under­
@@ -12231,9 +12087,8 @@ Member State, administrators or liquidators shall comply with the
 law of the Member States within which they wish to take action,
 in particular with regard to procedures for the realisation of assets
 and the informing of employees.
-
-
---- Page 109 ---Those powers shall not include the use of force or the right to rule
+--- Page 109 ---
+Those powers shall not include the use of force or the right to rule
 on legal proceedings or disputes.
 
 ##### Article 294
@@ -12351,8 +12206,6 @@ within 12 months of the publication in the *Official Journal of the*
 
 1. The Commission shall be assisted by the European Insur­
 ance and Occupational Pensions Committee.
-
-
 --- Page 110 ---
 2. Where reference is made to this paragraph, Articles 5 and 7
 of Decision 1999/468/EC shall apply, having regard to the pro­
@@ -12477,9 +12330,8 @@ tent authority;
 
 (ii) the contract of issue must enable the institution to
 defer the payment of interest on the loan;
-
-
---- Page 111 ---(iii) the lender’s claims on the institution must rank
+--- Page 111 ---
+(iii) the lender’s claims on the institution must rank
 entirely after those of all non-subordinated
 creditors;
 
@@ -12594,8 +12446,6 @@ of the following results:
 a 4 % fraction of the mathematical provisions relating to
 direct business and reinsurance acceptances gross of
 reinsurance cessions shall be multiplied by the ratio,
-
-
 --- Page 112 ---
 which shall not be less than 85 %, for the previous finan­
 cial year, of the mathematical provisions net of reinsur­
@@ -12719,9 +12569,8 @@ between the amount of claims remaining to be borne by the
 institution after deduction of amounts recoverable under
 reinsurance and the gross amount of claims. That ratio shall
 be no less than 50 %.
-
-
---- Page 113 ---4. The claims basis shall be calculated, as follows:
+--- Page 113 ---
+4. The claims basis shall be calculated, as follows:
 
 The amounts of claims paid in respect of direct business
 (without any deduction of claims borne by reinsurers and ret­
@@ -12847,8 +12696,6 @@ to apply an equity risk sub-module of the Solvency Capital
 Requirement, which is calibrated using a Value-at-Risk mea­
 sure, over a time period, which is consistent with the typical
 holding period of equity investments for the undertaking
-
-
 --- Page 114 ---
 concerned, with a confidence level providing the policy hold­
 ers and beneficiaries with a level of protection equivalent to
@@ -12960,8 +12807,6 @@ to the procedure laid down in Articles 145 and 146.
 2. Articles 147 and 148 shall not affect rights acquired by
 insurance undertakings carrying on business under the freedom
 to provide services before 1 July 1994.
-
-
 --- Page 115 ---
 ### Section 2
 
@@ -13034,9 +12879,7 @@ the field covered by this Directive.
 
 **Repeal**
 
-Directives 64/225/EEC, 73/239/EEC, 73/240/EEC, 76/580/EEC,
-78/473/EEC, 84/641/EEC, 87/344/EEC, 88/357/EEC, 92/49/EEC,
-98/78/EC, 2001/17/EC, 2002/83/EC and 2005/68/EC, as
+Directives 64/225/EEC, 73/239/EEC, 73/240/EEC, 76/580/EEC,/EEC, 84/641/EEC, 87/344/EEC, 88/357/EEC, 92/49/EEC,/EC, 2001/17/EC, 2002/83/EC and 2005/68/EC, as
 amended by the acts listed in Part A of Annex VI, are repealed
 with effect from 1 November 2012, without prejudice to the obli­
 gations of the Member States relating to the time-limits for trans­
@@ -13079,9 +12922,8 @@ J. BUZEK
 
 *The President*
 Åsa TORSTENSSON
-
-
---- Page 116 ---*ANNEX I*
+--- Page 116 ---
+# *ANNEX I*
 
 **CLASSES OF NON-LIFE INSURANCE**
 
@@ -13159,9 +13001,8 @@ fire,
 explosion,
 
 — storm,
-
-
---- Page 117 ---—
+--- Page 117 ---
+—
 natural forces other than storm,
 
 —
@@ -13235,9 +13076,10 @@ continuing general expenses,
 
 —
 unforeseen trading expenses,
+--- Page 118 ---
+L 335/118 E N Official Journ al of the E uropean Un ion 17.12.2009
 
-
---- Page 118 ---—
+—
 loss of market value,
 
 —
@@ -13281,9 +13123,8 @@ The following names shall be given to authorisations which simultaneously cover 
 
 (h) All classes, at the choice of the Member States, which shall notify the other Member States and the Commission of
 their choice.
-
-
---- Page 119 ---*ANNEX II*
+--- Page 119 ---
+# *ANNEX II*
 
 **CLASSES OF LIFE INSURANCE**
 
@@ -13304,9 +13145,8 @@ VII. Management of group pension funds, referred to in point (b)(iii) and (iv) o
 VIII. The operations referred to in point (b)(v) of Article 2(3);
 
 IX. The operations referred to in Article 2(3)(c).
-
-
---- Page 120 ---*ANNEX III*
+--- Page 120 ---
+# *ANNEX III*
 
 **LEGAL FORMS OF UNDERTAKINGS**
 
@@ -13371,9 +13211,8 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (23) in the case of the Republic of Slovenia: ‘delniška družba’, ‘družba za vzajemno zavarovanje’;
 
 (24) in the case of the Slovak Republic: ‘akciová spoločnosť’;
-
-
---- Page 121 ---(25) in the case of the Republic of Finland: ‘keskinäinen vakuutusyhtiö/ömsesidigt försäkringsbolag’,
+--- Page 121 ---
+(25) in the case of the Republic of Finland: ‘keskinäinen vakuutusyhtiö/ömsesidigt försäkringsbolag’,
 
 ‘vakuutusosakeyhtiö/försäkringsaktiebolag’, ‘vakuutusyhdistys/försäkringsförening’;
 
@@ -13442,8 +13281,6 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (20) in the case of the Republic of Poland: ‘spółka akcyjna’, ‘towarzystwo ubezpieczeń wzajemnych’;
 
 ( [1] [) OJ L 294, 10.11.2001, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:294:0001:0001:EN:PDF)
-
-
 --- Page 122 ---
 (21) in the case of the Portuguese Republic: ‘sociedade anónima’, ‘mútua de seguros’;
 
@@ -13511,9 +13348,8 @@ biztosító magyarországi fióktelepe’;
 (17) in the case of the Republic of Malta: ‘limited liability company/kumpannija tà responsabbiltà limitata’;
 
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
-
-
---- Page 123 ---(19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
+--- Page 123 ---
+(19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
 (20) in the case of the Republic of Poland: ‘spółka akcyjna’, ‘towarzystwo ubezpieczeń wzajemnych’;
 
@@ -13537,10 +13373,7 @@ Acts, the association of underwriters known as Lloyd’s;
 
 (28) in any event and as an alternative to the forms of reinsurance undertaking listed in points (1) to (27), the form of
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
-
-
 --- Page 124 ---
-
 L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 
 # *ANNEX IV*
@@ -13613,9 +13446,8 @@ following:
 — SCR nl premium and reserve denotes the non-life premium and reserve risk sub-module,
 
 — SCR nl catastrophe denotes the non-life catastrophe risk sub-module,
-
-
---- Page 125 ---3. **Calculation of the life underwriting risk module**
+--- Page 125 ---
+3. **Calculation of the life underwriting risk module**
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
 
@@ -13680,9 +13512,10 @@ following:
 — SCR concentration denotes the market risk concentrations sub-module,
 
 — SCR currency denotes the currency risk sub-module,
+--- Page 126 ---
+L 335/126 E N Official Journ al of the E uropean Un ion 17.12.2009
 
-
---- Page 126 ---*ANNEX V*
+# *ANNEX V*
 
 **GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES OF ARTICLE 159**
 
@@ -13699,10 +13532,7 @@ following:
 6. credit and suretyship (classes 14 and 15 of Annex I),
 
 7. other classes (classes 16, 17 and 18 of Annex I).
-
-
 --- Page 127 ---
-
 11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
 
 # *ANNEX VI*
@@ -13801,8 +13631,6 @@ only Article 8
 only Article 1
 
 only Article 22
-
-
 --- Page 128 ---
 Directive 2005/1/EC of the European Parliament and of
 the Council
@@ -13913,9 +13741,8 @@ only Article 24
 only Article 6
 
 only Article 58
-
-
---- Page 129 ---Directive 2007/44/EC of the European Parliament and
+--- Page 129 ---
+Directive 2007/44/EC of the European Parliament and
 of the Council
 
 [(OJ L 247, 21.9.2007, p. 1).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:247:0001:0001:EN:PDF)
@@ -14026,9 +13853,8 @@ only Article 4
 only Article 1
 
 only Article 1
-
-
---- Page 130 ---PART B
+--- Page 130 ---
+PART B
 
 **List of time-limits for transposition into national law**
 
@@ -14036,59 +13862,31 @@ only Article 1
 
 Directive Time-limit for transposition Time-limit for application
 
-
-64/225/EEC 26 August 1965
-
-73/239/EEC 27 January 1975 27 January 1976
-
-73/240/EEC 27 January 1975
-
-76/580/EEC 31 December 1976
-
-78/473/EEC 2 December 1979 2 June 1980
-
-84/641/EEC 30 June 1987 1 January 1988
-
-87/343/EEC 1 January 1990 1 July 1990
-
-87/344/EEC 1 January 1990 1 July 1990
-
-88/357/EEC 30 December 1989 30 June 1990
-
-90/618/EEC 20 May 1992 20 November 1992
-
-92/49/EEC 31 December 1993 1 July 1994
-
-95/26/EC 18 July 1996 18 July 1996
-
-98/78/EC 5 June 2000
-
-2000/26/EC 20 July 2002 20 January 2003
-
-2000/64/EC 17 November 2002
-
-2001/17/EC 20 April 2003
-
-2002/13/EC 20 September 2003
-
-2002/83/EC 17 November 2002, 20 Septem­
+/EEC 26 August 1965
+/EEC 27 January 1975 27 January 1976
+/EEC 27 January 1975
+/EEC 31 December 1976
+/EEC 2 December 1979 2 June 1980
+/EEC 30 June 1987 1 January 1988
+/EEC 1 January 1990 1 July 1990
+/EEC 1 January 1990 1 July 1990
+/EEC 30 December 1989 30 June 1990
+/EEC 20 May 1992 20 November 1992
+/EEC 31 December 1993 1 July 1994
+/EC 18 July 1996 18 July 1996
+/EC 5 June 2000
+/EC 20 July 2002 20 January 2003
+/EC 17 November 2002
+/EC 20 April 2003
+/EC 20 September 2003
+/EC 17 November 2002, 20 Septem­
 ber 2003, 19 June 2004 (depending
 upon particular provision)
-
-2002/87/EC 11 August 2004
-
-2004/66/EC 1 May 2004
-
-2005/1/EC 13 May 2005
-
-2005/14/EC 11 June 2007
-
-2005/68/EC 10 December 2007
-
-2006/101/EC 1 January 2007
-
-2008/19/EC Not applicable
-
-2008/37/EC Not applicable
-
-
+/EC 11 August 2004
+/EC 1 May 2004
+/EC 13 May 2005
+/EC 11 June 2007
+/EC 10 December 2007
+/EC 1 January 2007
+/EC Not applicable
+/EC Not applicable

@@ -2,7 +2,6 @@
 --- Page 1 ---
 
 
-
 JC 2024 34
 
 5 June 2024
@@ -19,17 +18,11 @@ finalised. The expected date of application of these Guidelines is 17 January 20
 is a delay in finalising these Guidelines, the latest day of application of these Guidelines will be
 two months following the date of the publication of the translations of these Guidelines in all
 official EU lan g ua g es.
-
-
 --- Page 2 ---
-
-
 # Joint Guidelines on the estimation of aggregated annual costs and losses caused b ma or ICT-related incidents  y j
 ## Status of these Joint Guidelines
 
-This document contains Joint Guidelines issued pursuant to Article 16 of Regulation (EU) No
-1093/2010 [1] ; Article 16 of Regulation (EU) No 1094/2010 [2] ; and Article 16 of Regulation (EU) No
-1095/2010 [3] - ‘the ESAs’ Regulations’. In accordance with Article 16(3) of the respective ESAs’
+This document contains Joint Guidelines issued pursuant to Article 16 of Regulation (EU) No [1] ; Article 16 of Regulation (EU) No 1094/2010 [2] ; and Article 16 of Regulation (EU) No [3] - ‘the ESAs’ Regulations’. In accordance with Article 16(3) of the respective ESAs’
 
 Regulations, competent authorities and financial institutions must make every effort to comply with
 
@@ -50,7 +43,7 @@ In accordance with Article 16(3) of the ESAs’ Regulations, competent authoriti
 
 respective ESA whether they comply or intend to comply with these Joint
 
-Guidelines/Recommendations, or otherwise with reasons for non-compliance, by 19.05.2025 (two
+#### Guidelines/Recommendations, or otherwise with reasons for non-compliance, by 19.05.2025 (two
 
 months after issuance). In the absence of any notification by this deadline, competent authorities will
 
@@ -67,8 +60,7 @@ competent authorities.
 Notifications will be published on the ESAs’ websites, in line with Article 16(3).
 
 1 Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
-Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision
-2009/78/EC, (OJ L 331, 15.12.2010, p.12)
+Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision/EC, (OJ L 331, 15.12.2010, p.12)
 2 Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
 Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and
 repealing Commission Decision 2009/79/EC, ( *OJ L 331, 15.12.2010, p. 48–83)*
@@ -77,11 +69,7 @@ Supervisory Authority (European Securities and Markets Authority), amending Deci
 Commission Decision 2009/77/EC, (OJ L 331, 15.12.2010, p. 84–119)
 
 2
-
-
 --- Page 3 ---
-
-
 ## Title I - Subject matter, scope, addressees, and definitions
 ### **Subject matter and Scope of application **
 
@@ -97,8 +85,7 @@ costs and losses.
 ### **Addressees **
 
 2. These guidelines are addressed to competent authorities as defined in Article 46 of Regulation
-
-2022/2554 and to financial institutions as defined in Article 4(1) of Regulation (EU) 1093/2010,
+ and to financial institutions as defined in Article 4(1) of Regulation (EU) 1093/2010,
 
 Article 4(1) of Regulation (EU) 1094/2010 and Article 4(1) of Regulation (EU) 1095/2010 .
 ### **Definitions **
@@ -114,11 +101,7 @@ resilience for the financial sector and amending Regulations (EC) No 1060/2009, 
 No 909/2014 and (EU) 2016/1011, ( *OJ L 333, 27.12.2022, p. 1–79)*
 
 3
-
-
 --- Page 4 ---
-
-
 ## Title III- Provisions on the estimation of aggregated annual costs and losses of major ICT-related incidents
 
 5. Financial entities should estimate the aggregate annual costs and losses of major ICT-related
@@ -145,8 +128,7 @@ costs and losses related to those incidents that fall before or after that refer
 
 6. Financial entities should include in the estimation all ICT-related incidents that, irrespective of the
 
-reason, were classified as major in accordance with Commission Delegated Regulation [OJ L,
-2024/1772, 25.6.2024] [5] on incident classification and
+reason, were classified as major in accordance with Commission Delegated Regulation [OJ L,, 25.6.2024] [5] on incident classification and
 
 (a) for which the financial entity has submitted a final report in accordance with Article 19(4)(c)
 
@@ -186,12 +168,7 @@ forms, templates, and procedures for financial entities to report a major ICT-re
 threat [ *OJ L, 2025/302, 20.2.2025, ELI:* *[http://data.europa.eu/eli/reg_impl/2025/302/oj](http://data.europa.eu/eli/reg_impl/2025/302/oj)* ]
 
 4
-
-
 --- Page 5 ---
-
-
-
 (c) financial entities should aggregate the gross costs and losses and the financial recoveries across
 
 major ICT-related incidents.
@@ -233,11 +210,7 @@ use the same incident reference codes provided by the financial entity as the on
 report in accordance with Article 19(4)(c) of Regulation (EU) 2022/2554.
 
 5
-
-
 --- Page 6 ---
-
-
 ## Annex: Reporting template for gross costs and losses and financial
 
 
