@@ -1,7 +1,6 @@
 
 --- Page 1 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/1
 ## II
 
 *(Non-legislative acts)*
@@ -68,11 +67,7 @@ CHAPTER IV Own funds ...........................................................
 SECTION 1 Determination of own funds ............................................................................................... 47
 
 SUBSECTION 1 Supervisory approval of ancillary own funds ..................................................................... 47
-
-
 --- Page 2 ---
-
-L 12/2 EN Official Journal of the European Union 17.1.2015
 
 SUBSECTION 2 Own funds treatment of participations ............................................................................. 49
 
@@ -159,11 +154,7 @@ SECTION 4 Calibration standards ................................................
 SECTION 5 Integration of partial internal models .................................................................................... 151
 
 SECTION 6 Profit and loss attribution .................................................................................................. 152
-
-
 --- Page 3 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/3
 
 SECTION 7 Validation standards .......................................................................................................... 152
 
@@ -250,11 +241,7 @@ SECTION 3 National or regional subgroup supervision ............................
 CHAPTER V Public disclosure ............................................................................................................. 214
 
 SECTION 1 Group solvency and financial condition report ....................................................................... 214
-
-
 --- Page 4 ---
-
-L 12/4 EN Official Journal of the European Union 17.1.2015
 
 SECTION 2 Single solvency and financial condition report ........................................................................ 216
 
@@ -273,11 +260,7 @@ CHAPTER II Related third country insurance and reinsurance undertakings ........
 CHAPTER III Insurance and reinsurance undertakings with the parent undertakings outside the union ................ 224
 
 CHAPTER IV Final provisions ............................................................................................................. 226
-
-
 --- Page 5 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/5
 
 THE EUROPEAN COMMISSION
 
@@ -338,11 +321,7 @@ liabilities are valued at the amount for which they could be exchanged in the ca
 settled in the case of liabilities between knowledgeable and willing parties in an arm's length transaction. This
 approach should be applied by undertakings regardless of whether international or other valuation methods
 follow a different valuation hierarchy.
-
-
 --- Page 6 ---
-
-L 12/6 EN Official Journal of the European Union 17.1.2015
 
 (8) Insurance and reinsurance undertakings should recognise and value deferred tax assets and liabilities in relation to
 all items that are recognised for solvency purposes or in the tax balance sheet in order to ensure that all amounts
@@ -400,11 +379,7 @@ calculation should take the diversification of the whole portfolio into account.
 (19) The calculation of the risk margin should be based on a projection of the Solvency Capital Requirement that
 takes the risk mitigation of reinsurance contracts and special purpose vehicles into account. Separate calculations
 of the risk margin gross and net of reinsurance contracts and special purpose vehicles should not be stipulated.
-
-
 --- Page 7 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/7
 
 (20) The adjustment for credit risk to the basic risk-free interest rates should be derived from market rates that capture
 the credit risk reflected in the floating rate of interest rate swaps. For this purpose, in order to align the determin­­
@@ -465,11 +440,7 @@ losses to enable an insurance or reinsurance undertaking to continue as a going 
 (30) Where the economic effect of a transaction, or a group of connected transactions, is equivalent to the holding by
 an insurance or reinsurance undertaking of its own shares, the excess of assets over liabilities should be reduced
 to reflect the existence of an encumbrance on that part of own-funds.
-
-
 --- Page 8 ---
-
-L 12/8 EN Official Journal of the European Union 17.1.2015
 
 (31) The assessment of whether an individual own-fund item is of sufficient duration should be based on the original
 maturity of that item. The average duration of an insurance or reinsurance undertaking's total own funds, taking
@@ -528,11 +499,7 @@ should apply in such a way that a loss in Tier 1 own funds does not result in a 
 that is higher than that loss. Therefore, the limits should apply to the extent that the Solvency Capital
 Requirement and Minimum Capital Requirement are covered with own funds. Own-fund items in excess of the
 limits should not be counted as eligible own funds.
-
-
 --- Page 9 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/9
 
 (42) When setting up lists of regional governments and local authorities, EIOPA should respect the requirement that
 there is no difference in risk between exposures to these and exposures to the central government in whose
@@ -594,11 +561,7 @@ insurance is not material
 tration risk in the standard formula should be based on the assumption that the accident concentration risk in
 relation to medical expense insurance and income protection insurance other than group contracts is not
 material.
-
-
 --- Page 10 ---
-
-L 12/10 EN Official Journal of the European Union 17.1.2015
 
 (53) In order to reflect empirical evidence on natural catastrophes in the calibration of the standard formula, the
 modelling of natural catastrophe risk should be based on geographical divisions that are sufficiently
@@ -654,11 +617,7 @@ on counterparties which do belong to the same group are not independent.
 exposed is captured in the Solvency Capital Requirement calculated with the standard formula, all exposures
 which are neither captured in the spread risk sub-module nor in the counterparty default risk module as type 1
 exposures should be captured in the counterparty default risk module as type 2 exposures.
-
-
 --- Page 11 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/11
 
 (65) The counterparty default risk module of the standard formula should reflect the economic effect of collateral
 arrangements in case of default of the counterparty. In particular, it should be considered whether the full
@@ -717,11 +676,7 @@ solvency position of the undertaking.
 existence of basis risk, in particular because of a currency mismatch, undertakings should reflect material basis
 risk in the calculation of the Solvency Capital Requirement. Where material basis risk is not reflected in the
 calculation of the Solvency Capital Requirement, the risk mitigation technique should not be recognised.
-
-
 --- Page 12 ---
-
-L 12/12 EN Official Journal of the European Union 17.1.2015
 
 (74) The existence of profit participation arrangements, whereby profits are allocated to policy holders or beneficiaries
 should be appropriately reflected in the calculation of the Solvency Capital Requirement.
@@ -784,11 +739,7 @@ accepted market practice of risk modelling. However, this does not imply that in
 undertakings should always adapt their internal model to the generally accepted market practices. In many cases
 it might be necessary to depart from the generally accepted market practice in order to arrive at an appropriate
 internal model.
-
-
 --- Page 13 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/13
 
 (84) Internal models are likely to be based on a large amount of data stemming from a variety of sources and of
 differing characteristics and quality. In order to ensure the appropriateness of the data used for the internal
@@ -852,11 +803,7 @@ any transaction or scheme whereby the credit risk associated with an exposure or
 An exposure that creates a direct payment obligation for a transaction or scheme used to finance or operate
 physical assets should not be considered an exposure to a securitisation, even if the transaction or scheme has
 payment obligations of different seniority.
-
-
 --- Page 14 ---
-
-L 12/14 EN Official Journal of the European Union 17.1.2015
 
 (93) Good governance is the basis for effective and sound management of insurance and reinsurance undertakings as
 well as a key element of the regulatory framework. The system of governance of an insurance and reinsurance
@@ -915,11 +862,7 @@ tolerance limits of insurance and reinsurance undertakings can undermine the eff
 undertakings. It is therefore necessary to provide for requirements on remuneration for the purposes of the
 sound and prudent management of the business and in order to prevent remuneration arrangements which
 encourage excessive risk-taking.
-
-
 --- Page 15 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/15
 
 (103) The specification of the circumstances in which capital add-ons may be imposed and the methodologies for their
 calculation should ensure that the use of capital add-ons is an effective and practicable supervisory tool for the
@@ -978,11 +921,7 @@ Directive 2009/138/EC, supervisory authorities may require an annual submission 
 report. When this is not the case and insurance and reinsurance undertakings submit their regular supervisory
 report only every 3 years, they should nevertheless inform annually the supervisory authorities of any major
 developments that have occurred since the last reporting period.
-
-
 --- Page 16 ---
-
-L 12/16 EN Official Journal of the European Union 17.1.2015
 
 (114) Quantitative and qualitative information should be disclosed or submitted to the supervisory authority on a
 regular basis in the form of a narrative report and quantitative templates. Quantitative templates should specify in
@@ -1041,11 +980,7 @@ application would not be appropriate. The group supervisor should, when assessin
 (deduction and aggregation method) should be used instead of — or in combination with — method 1, consider
 a number of harmonised relevant elements. One such element is whether the use of method 1 would be overly
 burdensome, and the nature, scale and complexity of the risks of the group are such that the use of method 2
-
-
 --- Page 17 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/17
 
 would not materially affect the results of the group solvency calculation. In ascertaining, for these purposes,
 whether the use of method 2 would materially affect the results of the group solvency calculation, method 2
@@ -1106,11 +1041,7 @@ is carried out separately.
 Capital Requirement. Where an internal model is used only for the calculation of the consolidated group
 Solvency Capital Requirement, and is not used to calculate the Solvency Capital Requirement of a related
 insurance or reinsurance undertaking in the group, then Article 230 of Directive 2009/138/EC should apply. In
-
-
 --- Page 18 ---
-
-L 12/18 EN Official Journal of the European Union 17.1.2015
 
 this context, it is necessary to ensure that the approval of an internal model used to calculate only the
 consolidated group Solvency Capital Requirement is granted by the group supervisor in a manner consistent with
@@ -1168,11 +1099,7 @@ to ensure a proper functioning of the college it is necessary to set out criteri
 significant for the purpose of the participation of supervisory authorities of significant branches in the college. It
 is also essential to harmonise the requirements applicable to the coordination of supervision of insurance and
 reinsurance groups, in order to foster the convergence of supervisory practices.
-
-
 --- Page 19 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/19
 
 (140) Directive 2009/138/EC requires participating insurance and reinsurance undertakings or insurance holding
 companies or mixed financial holding companies to disclose publicly information on the solvency and financial
@@ -1231,11 +1158,7 @@ insurance and reinsurance undertakings in a group.
 a positive equivalence decision or for which a temporary or provisional equivalence regime applies should
 cooperate and exchange information in order to ensure that there is a clear mutual understanding of group risks
 and solvency.
-
-
 --- Page 20 ---
-
-L 12/20 EN Official Journal of the European Union 17.1.2015
 
 (149) In order to ensure that information can be exchanged between supervisory authorities, supervisory authorities of
 third countries for which there has been a positive equivalence decision or for which a temporary or provisional
@@ -1259,20 +1182,20 @@ the European Union,
 
 HAS ADOPTED THIS REGULATION:
 
-TITLE I
+# TITLE I
 
 **VALUATION AND RISK-BASED CAPTAL REQUIREMENTS (PILLAR I), ENHANCED GOVERNANCE**
 **(PILLAR II) AND INCREASED TRANPARENCY (PILLAR III)**
 
-CHAPTER I
+## *CHAPTER I*
 
 **GENERAL PROVISIONS**
 
-*SECTION 1*
+### Section 1
 
 ***Definitions and general principles***
 
-*Article 1*
+##### Article 1
 
 **Definitions**
 
@@ -1306,11 +1229,7 @@ health insurance obligations;
 
 8. ‘medical expense reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance
 covering medical expense insurance obligations;
-
-
 --- Page 21 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/21
 
 9. ‘income protection reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance
 covering income protection insurance obligations;
@@ -1387,11 +1306,7 @@ arrangement where the insurance or reinsurance undertaking is not a party to tha
 
 ( [1] ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit
 institutions and investment firms and amending Regulation (EU) No 648/2012, (OJ L 176, 27.6.2013, p. 1).
-
-
 --- Page 22 ---
-
-L 12/22 EN Official Journal of the European Union 17.1.2015
 
 30. ‘pool exposure of type B’ means the risk ceded by an insurance or reinsurance undertaking to another member of a
 pooling arrangement, where the insurance or reinsurance undertaking is a party to that pooling arrangement;
@@ -1460,11 +1375,7 @@ p. 32).
 ( [2] ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and
 amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011,
 p. 1).
-
-
 --- Page 23 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/23
 
 43. ‘administrative, management or supervisory body’ shall mean, where a two-tier board system comprising of a
 management body and a supervisory body is provided for under national law, the management body or the
@@ -1538,17 +1449,13 @@ the prudential supervision of credit institutions and investment firms, amending
 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
 ( [3] ) Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for
 occupational retirement provision (OJ L 235, 23.9.2003, p. 10).
-
-
 --- Page 24 ---
-
-L 12/24 EN Official Journal of the European Union 17.1.2015
 
 58. ‘domestic reinsurance undertaking’ means an undertaking authorised and supervised by third-country supervisory
 authorities which would require authorisation as a reinsurance undertaking in accordance with Article 14 of
 Directive 2009/138/EC if its head offices were situated in the Union.
 
-*Article 2*
+##### Article 2
 
 **Expert judgement**
 
@@ -1562,18 +1469,18 @@ internal users of the relevant assumptions are informed about their relevant con
 limitations. For that purpose, service providers to whom functions or activities have been outsourced shall be considered
 to be internal users.
 
-*SECTION 2*
+### Section 2
 
 ***External credit assessments***
 
-*Article 3*
+##### Article 3
 
 **Association of credit assessments to credit quality steps**
 
 The scale of credit quality steps referred to in Article 109a(1) of Directive 2009/138/EC shall include credit quality
 steps 0 to 6.
 
-*Article 4*
+##### Article 4
 
 **General requirements on the use of credit assessments**
 
@@ -1614,11 +1521,7 @@ capital requirements are the same, the assessment generating that capital requir
 
 ( [1] ) Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies
 (OJ L 302, 17.11.2009, p. 1).
-
-
 --- Page 25 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/25
 
 5. Where an item is part of the larger or more complex exposures of the insurance or reinsurance undertaking, the
 undertaking shall produce its own internal credit assessment of the item and allocate it to one of the seven steps in a
@@ -1629,7 +1532,7 @@ not be taken into account for the purposes of this Regulation.
 6. For the purposes of paragraph 5, the larger or more complex exposures of an undertaking shall include type 2
 securitisation positions as referred to in Article 177(3) and resecuritisation positions.
 
-*Article 5*
+##### Article 5
 
 **Issuers and issue credit assessment**
 
@@ -1654,7 +1557,7 @@ ECAI available for the exposure.
 3. Credit assessments for issuers within a corporate group shall not be used as the credit assessment for another
 issuer within the same corporate group.
 
-*Article 6*
+##### Article 6
 
 **Double credit rating for securitisation positions**
 
@@ -1662,29 +1565,25 @@ By way of derogation from Article 4(4)(d), where only one credit assessment is a
 securitisation position, that credit assessment shall not be used. The capital requirements for that item shall be derived
 as if no credit assessment by a nominated ECAI is available.
 
-CHAPTER II
+## *CHAPTER II*
 
 **VALUATION OF ASSETS AND LIABILITIES**
 
-*Article 7*
+##### Article 7
 
 **Valuation assumptions**
 
 Insurance and reinsurance undertakings shall value assets and liabilities based on the assumption that the undertaking
 will pursue its business as a going concern.
 
-*Article 8*
+##### Article 8
 
 **Scope**
 
 Articles 9 to 16 shall apply to the recognition and valuation of assets and liabilities, other than technical provisions.
-
-
 --- Page 26 ---
 
-L 12/26 EN Official Journal of the European Union 17.1.2015
-
-*Article 9*
+##### Article 9
 
 **Valuation methodology — general principles**
 
@@ -1722,7 +1621,7 @@ would be disproportionate with respect to the total administrative expenses.
 
 6. Insurance and reinsurance undertakings shall value individual liabilities separately.
 
-*Article 10*
+##### Article 10
 
 **Valuation methodology — valuation hierarchy**
 
@@ -1752,11 +1651,7 @@ markets, as defined in international accounting standards adopted by the Commiss
 
 5. Where the criteria referred to in paragraph 4 are not satisfied, insurance and reinsurance undertakings shall, unless
 otherwise provided in this Chapter, use alternative valuation methods.
-
-
 --- Page 27 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/27
 
 6. When using alternative valuation methods, insurance and reinsurance undertakings shall rely as little as possible
 on undertaking-specific inputs and make maximum use of relevant market inputs including the following:
@@ -1799,7 +1694,7 @@ the service capacity of an asset. From the perspective of a market participant s
 for the asset is based on the cost to a market participant buyer to acquire or construct a substitute asset of
 comparable quality adjusted for obsolescence.
 
-*Article 11*
+##### Article 11
 
 **Recognition of contingent liabilities**
 
@@ -1810,7 +1705,7 @@ Article 9 of this Regulation, that are material, as liabilities.
 liabilities could influence the decision-making or judgement of the intended user of that information, including the
 supervisory authorities.
 
-*Article 12*
+##### Article 12
 
 **Valuation methods for goodwill and intangible assets**
 
@@ -1821,13 +1716,9 @@ Insurance and reinsurance undertakings shall value the following assets at zero:
 2. intangible assets other than goodwill, unless the intangible asset can be sold separately and the insurance and
 reinsurance undertaking can demonstrate that there is a value for the same or similar assets that has been derived in
 accordance with Article 10(2), in which case the asset shall be valued in accordance with Article 10.
-
-
 --- Page 28 ---
 
-L 12/28 EN Official Journal of the European Union 17.1.2015
-
-*Article 13*
+##### Article 13
 
 **Valuation methods for related undertakings**
 
@@ -1881,7 +1772,7 @@ the valuation method the insurance or reinsurance undertakings uses for preparin
 statements. In such cases, the participating undertaking shall deduct from the value of the related undertaking the value
 of goodwill and other intangible assets that would be valued at zero in accordance with Article 12(2) of this Regulation.
 
-*Article 14*
+##### Article 14
 
 **Valuation methods for specific liabilities**
 
@@ -1894,13 +1785,9 @@ own credit standing of the insurance or reinsurance undertaking after initial re
 with Article 11. The value of contingent liabilities shall be equal to the expected present value of future cash flows
 required to settle the contingent liability over the lifetime of that contingent liability, using the basic risk-free interest
 rate term structure.
-
-
 --- Page 29 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/29
-
-*Article 15*
+##### Article 15
 
 **Deferred taxes**
 
@@ -1918,7 +1805,7 @@ that future taxable profit will be available against which the deferred tax asse
 legal or regulatory requirements on the time limits relating to the carryforward of unused tax losses or the carryforward
 of unused tax credits.
 
-*Article 16*
+##### Article 16
 
 **Exclusion of valuation methods**
 
@@ -1951,15 +1838,15 @@ of the balance sheet, including the supervisory authorities. Valuation at cost s
 7. When valuing biological assets, insurance and reinsurance undertakings shall adjust the value by adding the
 estimated costs to sell if the estimated costs to sell are material.
 
-CHAPTER III
+## *CHAPTER III*
 
 **RULES RELATING TO TECHNICAL PROVISIONS**
 
-*SECTION 1*
+### Section 1
 
 ***General provisions***
 
-*Article 17*
+##### Article 17
 
 **Recognition and derecognition of insurance and reinsurance obligations**
 
@@ -1967,16 +1854,12 @@ For the calculation of the best estimate and the risk margin of technical provis
 undertakings shall recognise an insurance or reinsurance obligation at the date the undertaking becomes a party to the
 contract that gives rise to the obligation or the date the insurance or reinsurance cover begins, whichever date occurs
 earlier. Insurance and reinsurance undertakings shall only recognise the obligations within the boundary of the contract.
-
-
 --- Page 30 ---
-
-L 12/30 EN Official Journal of the European Union 17.1.2015
 
 Insurance and reinsurance undertakings shall derecognise an insurance or reinsurance obligation only when it is
 extinguished, discharged, cancelled or expires.
 
-*Article 18*
+##### Article 18
 
 **Boundary of an insurance or reinsurance contract**
 
@@ -2034,17 +1917,13 @@ policyholder to pay the future premium of that part.
 reflect the risks covered by a portfolio of insurance or reinsurance obligations, where there is no circumstance under
 which the amount of the benefits and expenses payable under the portfolio exceeds the amount of the premiums
 payable under the portfolio.
-
-
 --- Page 31 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/31
-
-*SECTION 2*
+### Section 2
 
 ***Data quality***
 
-*Article 19*
+##### Article 19
 
 **Data used in the calculation of technical provisions**
 
@@ -2107,11 +1986,7 @@ of data which are exclusively available from an internal source;
 
 (b) insurance or reinsurance undertakings know the origin of that data and the assumptions or methodologies used to
 process that data;
-
-
 --- Page 32 ---
-
-L 12/32 EN Official Journal of the European Union 17.1.2015
 
 (c) insurance or reinsurance undertakings identify any trends in that data and the variation, over time or across data, of
 the assumptions or methodologies in the use of that data;
@@ -2120,7 +1995,7 @@ the assumptions or methodologies in the use of that data;
 in points (b) and (c) reflect the characteristics of the insurance or reinsurance undertaking's portfolio of insurance
 and reinsurance obligations.
 
-*Article 20*
+##### Article 20
 
 **Limitations of data**
 
@@ -2129,7 +2004,7 @@ limitations of the data including a description of whether and how such limitati
 functions within the system of governance of the insurance or reinsurance undertaking responsible for that process. The
 data, before adjustments to remedy limitations are made to it, shall be recorded and stored appropriately.
 
-*Article 21*
+##### Article 21
 
 **Appropriate use of approximations to calculate the best estimate**
 
@@ -2144,15 +2019,15 @@ validating data used for the valuation of technical provisions;
 
 (c) it would not be practicable for the undertaking to adjust the data to remedy the insufficiency.
 
-*SECTION 3*
+### Section 3
 
 ***Methodologies to calculate technical provisions***
 
-Subsection 1
+#### Subsection 1
 
 **Assumptions underlying the calculation of technical provisions**
 
-*Article 22*
+##### Article 22
 
 **General provisions**
 
@@ -2182,11 +2057,7 @@ that information is not possible.
 
 2. Assumptions shall only be used for the purpose of Article 77(3) of Directive 2009/138/EC where they comply
 with paragraph 1 of this Article.
-
-
 --- Page 33 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/33
 
 3. Insurance and reinsurance undertakings shall set assumptions on future financial market parameters or scenarios
 that are appropriate and consistent with Article 75 of Directive 2009/138/EC. Where insurance and reinsurance
@@ -2200,7 +2071,7 @@ following requirements:
 (c) the calibration of the parameters and scenarios is consistent with the relevant risk-free interest rate term structure
 used to calculate the best estimate as referred to in Article 77(2) of Directive 2009/138/EC.
 
-*Article 23*
+##### Article 23
 
 **Future management actions**
 
@@ -2256,11 +2127,7 @@ requirements applicable to those future management actions;
 
 (e) a description of any on-going work required to ensure that the insurance or reinsurance undertaking is in a position
 to carry out each respective future management action referred to in point (a);
-
-
 --- Page 34 ---
-
-L 12/34 EN Official Journal of the European Union 17.1.2015
 
 (f) a description of how the future management actions referred to in point (a) have been reflected in the calculation of
 the best estimate;
@@ -2275,7 +2142,7 @@ management actions and any expenses caused by them.
 Article 41(1) of Directive 2009/138/EC where the reporting procedures referred to in point (g) of paragraph 3 of this
 Article include at least an annual communication to the administrative, supervisory or management body.
 
-*Article 24*
+##### Article 24
 
 **Future discretionary benefits**
 
@@ -2286,14 +2153,14 @@ be consistent with the relevant risk-free interest rate term structure, includin
 volatility adjustment, or a transitional measure on the risk-free rate, and the valuation of the assets in accordance with
 Article 75 of Directive 2009/138/EC.
 
-*Article 25*
+##### Article 25
 
 **Separate calculation of the future discretionary benefits**
 
 When calculating technical provisions, insurance and reinsurance undertakings shall determine separately the value of
 future discretionary benefits.
 
-*Article 26*
+##### Article 26
 
 **Policyholder behaviour**
 
@@ -2313,11 +2180,11 @@ exercising the option;
 The likelihood shall only be considered to be independent of the elements referred to in points (a) to (d) where there is
 empirical evidence to support such an assumption.
 
-Subsection 2
+#### Subsection 2
 
 **Information underlying the calculation of best estimates**
 
-*Article 27*
+##### Article 27
 
 **Credibility of information**
 
@@ -2325,17 +2192,13 @@ Information shall only be considered to be credible for the purposes of Article 
 insurance and reinsurance undertakings provide evidence of the credibility of the information taking into account the
 consistency and objectivity of that information, the reliability of the source of the information and the transparency of
 the way in which the information is generated and processed.
-
-
 --- Page 35 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/35
-
-Subsection 3
+#### Subsection 3
 
 **Cash f low projections for the calculation of the best estimate**
 
-*Article 28*
+##### Article 28
 
 **Cash flows**
 
@@ -2364,7 +2227,7 @@ accordance with international accounting standards, as endorsed by the Commissio
 (h) taxation payments which are, or are expected to be, charged to policy holders or are required to settle the insurance
 or reinsurance obligations.
 
-*Article 29*
+##### Article 29
 
 **Expected future developments in the external environment**
 
@@ -2374,7 +2237,7 @@ thereof. For that purpose future developments shall include demographic, legal, 
 mental and economic developments including inflation as referred to in point (2) of Article 78 of Directive
 2009/138/EC.
 
-*Article 30*
+##### Article 30
 
 **Uncertainty of cash flows**
 
@@ -2395,13 +2258,9 @@ claims;
 (f) dependency between two or more causes of uncertainty;
 
 (g) dependency of cash flows on circumstances prior to the date of the cash flow.
-
-
 --- Page 36 ---
 
-L 12/36 EN Official Journal of the European Union 17.1.2015
-
-*Article 31*
+##### Article 31
 
 **Expenses**
 
@@ -2428,7 +2287,7 @@ calculation of the best estimate.
 
 4. Expenses shall be projected on the assumption that the undertaking will write new business in the future.
 
-*Article 32*
+##### Article 32
 
 **Contractual options and financial guarantees**
 
@@ -2439,13 +2298,13 @@ When calculating the best estimate, insurance and reinsurance undertakings shall
 (b) all factors which may affect the likelihood that policy holders will exercise contractual options or realise the value of
 financial guarantees.
 
-*Article 33*
+##### Article 33
 
 **Currency of the obligation**
 
 The best estimate shall be calculated separately for cash flows in different currencies.
 
-*Article 34*
+##### Article 34
 
 **Calculation methods**
 
@@ -2468,13 +2327,9 @@ could deviate from the expected outcome.
 5. Where the present value of cash flows depends on future events and developments as referred to in paragraph 4,
 insurance and reinsurance undertakings shall use a method to calculate the best estimate for cash flows which reflects
 such dependencies.
-
-
 --- Page 37 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/37
-
-*Article 35*
+##### Article 35
 
 **Homogeneous risk groups of life insurance obligations**
 
@@ -2492,7 +2347,7 @@ the same group;
 calculation on a per policy basis, in particular in relation to financial guarantees and contractual options included in
 the policies.
 
-*Article 36*
+##### Article 36
 
 **Non-life insurance obligations**
 
@@ -2509,11 +2364,11 @@ the claims arising from those events have been reported or not.
 4. Cash flow projections for the calculation of the provision for claims outstanding shall include benefits, expenses
 and premiums relating to the events referred to in paragraph 3.
 
-Subsection 4
+#### Subsection 4
 
 **Risk margin**
 
-*Article 37*
+##### Article 37
 
 **Calculation of the risk margin**
 
@@ -2551,18 +2406,14 @@ of the insurance and reinsurance undertaking.
 internal model and determine that the model is appropriate to calculate the Solvency Capital Requirement referred to in
 Article 38(2) for each point in time over the lifetime of the insurance and reinsurance obligations, the insurance and
 reinsurance undertakings shall use the internal model to calculate the amounts *SCR* ( *t* ) referred to in paragraph 1.
-
-
 --- Page 38 ---
-
-L 12/38 EN Official Journal of the European Union 17.1.2015
 
 3. Insurance and reinsurance undertakings shall allocate the risk margin for the whole portfolio of insurance and
 reinsurance obligations to the lines of business referred to in Article 80 of Directive 2009/138/EC. The allocation shall
 adequately reflect the contributions of the lines of business to the Solvency Capital Requirement referred to in
 Article 38(2) over the lifetime of the whole portfolio of insurance and reinsurance obligations.
 
-*Article 38*
+##### Article 38
 
 **Reference undertaking**
 
@@ -2626,23 +2477,19 @@ assumptions set out in paragraph 1.
 3. For the purposes of point (i) of paragraph 1, a risk shall be considered to be material where its impact on the
 calculation of the risk margin could influence the decision-making or the judgment of the users of that information,
 including supervisory authorities.
-
-
 --- Page 39 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/39
-
-*Article 39*
+##### Article 39
 
 **Cost-of-Capital rate**
 
 The Cost-of-Capital rate referred to in Article 77(5) of Directive 2009/138/EC shall be assumed to be equal to 6 %.
 
-Subsection 5
+#### Subsection 5
 
 **Calculation of technical provisions as a whole**
 
-*Article 40*
+##### Article 40
 
 **Circumstances in which technical provisions shall be calculated as a whole and the method to be used**
 
@@ -2669,11 +2516,11 @@ markets shall also comply with Article 10(4).
 4. Insurance and reinsurance undertakings shall determine the value of technical provisions on the basis of the
 market price of the financial instruments used in the replication.
 
-Subsection 6
+#### Subsection 6
 
 **Recoverables from reinsurance contracts and special purpose vehicles**
 
-*Article 41*
+##### Article 41
 
 **General provisions**
 
@@ -2691,11 +2538,7 @@ Payments in relation to other events or settled insurance claims shall be accoun
 from reinsurance contracts and special purpose vehicles and other elements of the technical provisions. Where a deposit
 has been made for the cash flows, the amounts recoverable shall be adjusted accordingly to avoid a double counting of
 the assets and liabilities relating to the deposit.
-
-
 --- Page 40 ---
-
-L 12/40 EN Official Journal of the European Union 17.1.2015
 
 4. The amounts recoverable from reinsurance contracts and special purpose vehicles for non-life insurance
 obligations shall be calculated separately for premium provisions and provisions for claims outstanding in the following
@@ -2714,7 +2557,7 @@ special purpose vehicles for future claims shall only be taken into account to t
 prudent, reliable and objective manner that the structural mismatch between claims and amounts recoverable is not
 material.
 
-*Article 42*
+##### Article 42
 
 **Counterparty default adjustment**
 
@@ -2741,15 +2584,15 @@ paragraph 1, unless there is a reliable basis for another assessment.
 5. The probability of default of a special purpose vehicle shall be calculated on the basis of the credit risk inherent in
 the assets held by the special purpose vehicle.
 
-*SECTION 4*
+### Section 4
 
 ***Relevant risk-free interest rate term structure***
 
-Subsection 1
+#### Subsection 1
 
 **General provisions**
 
-*Article 43*
+##### Article 43
 
 **General provisions**
 
@@ -2763,17 +2606,13 @@ market.
 The rates of the relevant risk-free interest rate term structure shall be calculated separately for each currency and
 maturity, based on all information and data relevant for that currency and that maturity. They shall be determined in a
 transparent, prudent, reliable and objective manner that is consistent over time.
-
-
 --- Page 41 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/41
-
-Subsection 2
+#### Subsection 2
 
 **Basic risk free interest rate term structure**
 
-*Article 44*
+##### Article 44
 
 **Relevant financial instruments to derive the basic risk-free interest rates**
 
@@ -2785,7 +2624,7 @@ financial markets the rates of government bonds issued in that currency, adjuste
 the government bonds, shall be used to derive the basic risk free-interest rates, provided that, such government bond
 rates are available from deep, liquid and transparent financial markets.
 
-*Article 45*
+##### Article 45
 
 **Adjustment to swap rates for credit risk**
 
@@ -2796,7 +2635,7 @@ same maturity, where both rates are available from deep, liquid and transparent 
 adjustment shall be based on 50 percent of the average of that difference over a time period of one year. The adjustment
 shall not be lower than 10 basis points and not higher than 35 basis points.
 
-*Article 46*
+##### Article 46
 
 **Extrapolation**
 
@@ -2812,7 +2651,7 @@ shall be applied to the risk-free interest rates including the volatility adjust
 shall be based on the risk-free interest rates without a matching adjustment. The matching adjustment referred to in that
 Article shall be applied to the extrapolated risk-free interest rates.
 
-*Article 47*
+##### Article 47
 
 **Ultimate forward rate**
 
@@ -2824,13 +2663,9 @@ undertakings. It shall be determined in a transparent, prudent, reliable and obj
 2. For each currency the ultimate forward rate shall take account of expectations of the long-term real interest rate
 and of expected inflation, provided those expectations can be determined for that currency in a reliable manner. The
 ultimate forward rate shall not include a term premium to reflect the additional risk of holding long-term investments.
-
-
 --- Page 42 ---
 
-L 12/42 EN Official Journal of the European Union 17.1.2015
-
-*Article 48*
+##### Article 48
 
 **Basic risk-free interest rate term structure of currencies pegged to the euro**
 
@@ -2866,11 +2701,11 @@ the value in the pegged currency of an investment denominated in euro decreases 
 the exchange rate between the euro and the pegged currency. The adjustment shall be the same for all insurance and
 reinsurance undertakings.
 
-Subsection 3
+#### Subsection 3
 
 **Volatility adjustment**
 
-*Article 49*
+##### Article 49
 
 **Reference portfolios**
 
@@ -2901,16 +2736,12 @@ criteria exist for when and how the constituents of those indices will be change
 — equity
 
 — property
-
-
 --- Page 43 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/43
 
 For the purposes of points (a) and (b), investments of insurance and reinsurance undertakings in collective investment
 undertakings and other investments packaged as funds shall be treated as investments in the underlying assets.
 
-*Article 50*
+##### Article 50
 
 **Formula to calculate the spread underlying the volatility adjustment**
 
@@ -2936,7 +2767,7 @@ in the reference portfolio of assets for that currency or country.
 
 For the purposes of this Article, ‘government bonds’ means exposures to central governments and central banks.
 
-*Article 51*
+##### Article 51
 
 **Risk-corrected spread**
 
@@ -2945,11 +2776,11 @@ credit risk or any other risk referred to in Article 77d(3) and (4) of Directive
 same manner as the fundamental spread referred to in Article 77c (2) of Directive 2009/138/EC and Article 54 of this
 Regulation.
 
-Subsection 4
+#### Subsection 4
 
 **Matching adjustment**
 
-*Article 52*
+##### Article 52
 
 **Mortality risk stress**
 
@@ -2975,13 +2806,9 @@ on those groups of policies instead of single policies, provided that it yields 
 3. With regard to reinsurance obligations, the identification of the policies for which technical provisions increase
 under an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in
 accordance with paragraph 2.
-
-
 --- Page 44 ---
 
-L 12/44 EN Official Journal of the European Union 17.1.2015
-
-*Article 53*
+##### Article 53
 
 **Calculation of the matching adjustment**
 
@@ -2998,7 +2825,7 @@ result of the calculation set out in Article 77c(1)(a) of that Directive, shall 
 spread that has not already been reflected in the adjustment to the cash flows of the assigned portfolio of assets, as set
 out in paragraph 1 of this Article.
 
-*Article 54*
+##### Article 54
 
 **Calculation of the fundamental spread**
 
@@ -3026,11 +2853,11 @@ the replacing asset meets all of the following criteria:
 
 (c) the replacing asset has the same credit quality step as the replaced asset before downgrade or a higher one.
 
-*SECTION 5*
+### Section 5
 
 ***Lines of business***
 
-*Article 55*
+##### Article 55
 
 **Lines of business**
 
@@ -3045,11 +2872,7 @@ risk.
 health insurance pursued on a similar technical basis to that of life insurance shall be assigned to the lines of business
 for life insurance and obligations of health insurance pursued on a similar technical basis to that of non-life insurance
 shall be assigned to the lines of business for non-life insurance.
-
-
 --- Page 45 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/45
 
 4. Where the insurance obligations arising from the operations referred to in Article 2(3)(b) of Directive
 2009/138/EC cannot clearly be assigned to the lines of business set out in Annex I to this Regulation on the basis of
@@ -3065,11 +2888,11 @@ business.
 7. Where an insurance or reinsurance contract includes health insurance or reinsurance obligations and other
 insurance or reinsurance obligations, those obligations shall, where possible, be unbundled.
 
-*SECTION 6*
+### Section 6
 
 ***Proportionality and simplifications***
 
-*Article 56*
+##### Article 56
 
 **Proportionality**
 
@@ -3107,7 +2930,7 @@ amount of technical provisions;
 than the amount that would result from using a proportionate method and the method does not lead to an underes­­
 timation of the risk inherent in the insurance and reinsurance obligations that it is applied to.
 
-*Article 57*
+##### Article 57
 
 **Simplified calculation of recoverables from reinsurance contracts and special purpose vehicles**
 
@@ -3120,11 +2943,7 @@ account of the expected loss due to default of the counterparty as the differenc
 (b) the best estimate, after taking into account the amounts recoverable from reinsurance contracts and special purpose
 vehicles and without an adjustment for the expected loss due to default of the counterparty (unadjusted net best
 estimate) calculated in accordance with paragraph 2.
-
-
 --- Page 46 ---
-
-L 12/46 EN Official Journal of the European Union 17.1.2015
 
 2. Insurance and reinsurance undertakings may use methods to derive the unadjusted net best estimate from the
 gross best estimate without an explicit projection of the cash flows underlying the amounts recoverable from
@@ -3133,7 +2952,7 @@ net best estimate based on homogeneous risk groups. Each of those homogeneous ri
 than one reinsurance contract or special purpose vehicles unless those reinsurance contracts or special purpose vehicles
 provide a transfer of homogeneous risks.
 
-*Article 58*
+##### Article 58
 
 **Simplified calculation of the risk margin**
 
@@ -3145,7 +2964,7 @@ calculate the risk margin, including one or more of the following:
 (b) methods which approximate the discounted sum of the amounts denoted by the terms *SCR(t)* as referred to in
 Article 37(1) without calculating each of those amounts separately.
 
-*Article 59*
+##### Article 59
 
 **Calculations of the risk margin during the financial year**
 
@@ -3153,7 +2972,7 @@ Without prejudice to Article 56, insurance and reinsurance undertakings may deri
 need to be performed quarterly from the result of an earlier calculation of the risk margin without an explicit
 calculation of the formula referred to in Article 37(1).
 
-*Article 60*
+##### Article 60
 
 **Simplified calculation of the best estimate for insurance obligations with premium adjustment mechanism**
 
@@ -3171,7 +2990,7 @@ claims and expenses in a timely manner;
 
 (c) the calculation does not result in an underestimation of the risk inherent in those insurance obligations.
 
-*Article 61*
+##### Article 61
 
 **Simplified calculation of the counterparty default adjustment**
 
@@ -3192,25 +3011,21 @@ in relation to that homogeneous risk group;
 
 (c) *BE* *rec* denotes the amounts recoverable from reinsurance contracts with that counterparty in relation to that
 homogeneous risk group.
-
-
 --- Page 47 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/47
-
-CHAPTER IV
+## *CHAPTER IV*
 
 **OWN FUNDS**
 
-*SECTION 1*
+### Section 1
 
 ***Determination of own funds***
 
-Subsection 1
+#### Subsection 1
 
 **Supervisory approval of ancillary own funds**
 
-*Article 62*
+##### Article 62
 
 **Assessment of the application**
 
@@ -3245,7 +3060,7 @@ item on an ongoing basis.
 4. In addition to the requirements set out in paragraphs 1 to 3, supervisory authorities shall assess the application for
 approval of ancillary own funds on the basis of the criteria set out in Articles 63, 64 and 65.
 
-*Article 63*
+##### Article 63
 
 **Assessment of the application — Status of the counterparties**
 
@@ -3269,11 +3084,7 @@ commitments under the ancillary own funds item;
 
 (c) whether the counterparties are subject to legal or regulatory requirements that reduce the counterparties' ability to
 satisfy their commitments under the ancillary own funds item;
-
-
 --- Page 48 ---
-
-L 12/48 EN Official Journal of the European Union 17.1.2015
 
 (d) whether the legal form of the counterparties prejudice the counterparties' satisfaction of their commitments under
 the ancillary own funds item;
@@ -3328,7 +3139,7 @@ parties included in that group.
 7. A counterparty shall be considered as material where the status of that single counterparty is likely to have a
 significant effect on the assessment of the group of counterparties' ability and willingness to pay.
 
-*Article 64*
+##### Article 64
 
 **Assessment of the application — Recoverability of the funds**
 
@@ -3344,13 +3155,9 @@ arrangement that complies with Articles 209 to 214;
 
 (d) the ability of the insurance or reinsurance undertaking to take action to enforce the counterparties' satisfaction of
 their commitments under the ancillary own funds item.
-
-
 --- Page 49 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/49
-
-*Article 65*
+##### Article 65
 
 **Assessment of the application — Information on the outcome of past calls**
 
@@ -3362,7 +3169,7 @@ the same or similar circumstances;
 
 (b) whether that information is relevant and reliable as regards the expected outcome of future calls.
 
-*Article 66*
+##### Article 66
 
 **Specification of amount relating to an unlimited amount of ancillary own funds**
 
@@ -3372,7 +3179,7 @@ the same or similar circumstances;
 authorities shall specify whether the amount that has been approved is the amount for which the insurance or
 reinsurance undertaking has applied or a lower amount.
 
-*Article 67*
+##### Article 67
 
 **Specification of amount and timing relating to the approval of a method**
 
@@ -3387,11 +3194,11 @@ more frequent than annual, and the reasons for that frequency;
 
 (c) the time period for which the calculation of the ancillary own funds item using that method is granted.
 
-Subsection 2
+#### Subsection 2
 
 **Own funds treatment of participations**
 
-*Article 68*
+##### Article 68
 
 **Treatment of participations in the determination of basic own funds**
 
@@ -3423,17 +3230,13 @@ included in points (a)(iii) and (v) and point (b) of Article 69;
 
 (c) holdings of Tier 2 instruments of financial and credit institutions shall be deducted from the basic own-fund items
 included in Article 72.
-
-
 --- Page 50 ---
 
-L 12/50 EN Official Journal of the European Union 17.1.2015
-
-*SECTION 2*
+### Section 2
 
 ***Classification of own funds***
 
-*Article 69*
+##### Article 69
 
 **Tier 1 — List of own-fund items**
 
@@ -3460,7 +3263,7 @@ Directive 2009/138/EC;
 
 (b) paid-in subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 
-*Article 70*
+##### Article 70
 
 **Reconciliation Reserve**
 
@@ -3486,11 +3289,7 @@ funds determined in accordance with Article 81(1);
 (f) the amount of participations held in financial and credit institutions as referred to in Article 92(2) of Directive
 2009/138/EC deducted in accordance with Article 68, to the extent that this is not already included in points (a)
 to (e).
-
-
 --- Page 51 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/51
 
 2. The excess of assets over liabilities referred to in paragraph 1 includes the amount that corresponds to the
 expected profit included in future premiums set out in paragraph 2 of Article 260.
@@ -3499,7 +3298,7 @@ expected profit included in future premiums set out in paragraph 2 of Article 26
 Article 71 shall not amount to an assessment of the features of the assets and liabilities that are included in computing
 the excess of assets over liabilities or the underlying items in the undertakings' financial statements.
 
-*Article 71*
+##### Article 71
 
 **Tier 1 — Features determining classification**
 
@@ -3556,11 +3355,7 @@ redemption of the basic own-fund item is subject to prior supervisory approval;
 (i) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 does not include any incentives to repay or redeem that item that increase the likelihood that an insurance or
 reinsurance undertaking will repay or redeem that basic own-fund item where it has the option to do so;
-
-
 --- Page 52 ---
-
-L 12/52 EN Official Journal of the European Union 17.1.2015
 
 (j) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 provides for the suspension of repayment or redemption of that item where there is non-compliance with the
@@ -3630,11 +3425,7 @@ at issuance and there is no cap or other restriction on the maximum level of dis
 (d) notwithstanding point (c), in the case of instruments issued by mutual and mutual-type undertakings, a cap or other
 restriction on the maximum level of distribution may be set, provided that cap or other restriction is not an event
 linked to distributions being made, or not made, on other own fund items;
-
-
 --- Page 53 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/53
 
 (e) there is no obligation for an insurance or reinsurance undertaking to make distributions;
 
@@ -3702,13 +3493,9 @@ events in addition to the events referred to in points (a) to (c).
 9. For the purposes of points (d), (j) and (l) of paragraph 1, references to the Solvency Capital Requirement shall be
 read as references to the Minimum Capital Requirement where non-compliance with the Minimum Capital Requirement
 occurs before non-compliance with the Solvency Capital Requirement.
-
-
 --- Page 54 ---
 
-L 12/54 EN Official Journal of the European Union 17.1.2015
-
-*Article 72*
+##### Article 72
 
 **Tier 2 Basic own-funds — List of own-fund items**
 
@@ -3730,7 +3517,7 @@ undertakings;
 
 (b) subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 
-*Article 73*
+##### Article 73
 
 **Tier 2 Basic own-funds — Features determining classification**
 
@@ -3778,11 +3565,7 @@ where all of the following conditions are met:
 (ii) the payment does not further weaken the solvency position of the insurance or reinsurance undertaking;
 
 (iii) the Minimum Capital Requirement is complied with after the distribution is made.
-
-
 --- Page 55 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/55
 
 (i) the basic own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the basic own-fund item, could result in that basic own-fund item not complying with the first sub­­
@@ -3818,7 +3601,7 @@ coupon rate and results in an increase in the initial rate that is no greater th
 
 (b) 50 % of the initial credit spread, less the swap spread between the initial index basis and the stepped-up index basis.
 
-*Article 74*
+##### Article 74
 
 **Tier 2 Ancillary own-funds — List of own-fund items**
 
@@ -3844,11 +3627,7 @@ trustee and provided by credit institutions authorised in accordance with Articl
 (g) any future claims which mutual or mutual-type associations of shipowners with variable contributions solely
 insuring risks listed in classes 6, 12 and 17 in Part A of Annex 1 of Directive 2009/138/EC may have against their
 members by way of a call for supplementary contributions, within the following 12 months;
-
-
 --- Page 56 ---
-
-L 12/56 EN Official Journal of the European Union 17.1.2015
 
 (h) any future claims which mutual or mutual-type associations may have against their members by way of a call for
 supplementary contributions, within the following 12 months, provided that a call can be made on demand and is
@@ -3857,14 +3636,14 @@ clear of encumbrances;
 (i) other legally binding commitments received by the insurance or reinsurance undertaking, provided that the item can
 be called up on demand and is clear of encumbrances.
 
-*Article 75*
+##### Article 75
 
 **Tier 2 Ancillary own-funds — Features determining classification**
 
 In order to be classified as Tier 2, the ancillary own-fund items listed in Article 74 shall display the features of a basic
 own fund item classified in Tier 1 in accordance with Articles 69 and 71 once that item has been called up and paid in.
 
-*Article 76*
+##### Article 76
 
 **Tier 3 Basic own-funds– List of own-fund items**
 
@@ -3883,7 +3662,7 @@ Tier 3 where the following items display all of the features set out in Article 
 
 (b) subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 
-*Article 77*
+##### Article 77
 
 **Tier 3 Basic own-funds– Features determining classification**
 
@@ -3911,11 +3690,7 @@ for the suspension of repayment or redemption where there is non-compliance with
 Requirement or repayment or redemption would lead to such non-compliance until the undertaking complies with
 the Solvency Capital Requirement and the repayment or redemption would not lead to non-compliance with the
 Solvency Capital Requirement;
-
-
 --- Page 57 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/57
 
 (g) the basic own-fund item, in the case of items referred to in points (a)(i) and (ii) and point (b) of Article 76, provides
 for the deferral of distributions where there is non-compliance with the Minimum Capital Requirement or the
@@ -3953,7 +3728,7 @@ coupon rate and results in an increase in the initial rate that is no greater th
 
 (b) 50 % of the initial credit spread, less the swap spread between the initial index basis and the stepped-up index basis.
 
-*Article 78*
+##### Article 78
 
 **Tier 3 Ancillary own-funds– List of own-funds items**
 
@@ -3961,7 +3736,7 @@ Ancillary own-fund items that have been approved by the supervisory authority in
 Directive 2009/138/EC, and which do not display all of the features set out in Article 75 shall be classified as Tier 3
 ancillary own funds.
 
-*Article 79*
+##### Article 79
 
 **Supervisory Authorities approval of the assessment and classification of own-fund items**
 
@@ -3982,11 +3757,7 @@ eration the features set out in Article 93(2) of that Directive;
 (b) where the undertaking is applying for classification as Tier 2 basic own funds, whether the basic own-fund item
 substantially possesses the characteristics set out in Article 93(1)(b) of Directive 2009/138/EC, taking into consid­­
 eration the features set out in Article 93(2) of that Directive;
-
-
 --- Page 58 ---
-
-L 12/58 EN Official Journal of the European Union 17.1.2015
 
 (c) where the undertaking is applying for classification as Tier 2 ancillary own funds, whether the ancillary own-fund
 item substantially possesses the characteristics in Article 93(1)(a) and (b) of Directive 2009/138/EC, taking into
@@ -4006,15 +3777,15 @@ classified as Tier 1 basic own funds where they are fully paid-in.
 4. The inclusion of own-fund items approved by the supervisory authority in accordance with this Article shall be
 subject to quantitative limits set out in Article 82.
 
-*SECTION 3*
+### Section 3
 
 ***Eligibility of own funds***
 
-Subsection 1
+#### Subsection 1
 
 **Ring-fenced funds**
 
-*Article 80*
+##### Article 80
 
 **Ring-fenced funds requiring adjustments**
 
@@ -4032,7 +3803,7 @@ insurance or reinsurance contracts;
 2. The own-fund items referred to in paragraph 1, (hereinafter referred to as ‘restricted own-fund items’), shall not
 include the value of future transfers attributable to shareholders.
 
-*Article 81*
+##### Article 81
 
 **Adjustment for ring-fenced funds and matching adjustment portfolios**
 
@@ -4053,17 +3824,13 @@ included in the ring-fenced fund or matching adjustment portfolio.
 2. By way of derogation from paragraph 1, where the assets, the liabilities and the risk within a ring-fenced fund are
 not material, insurance and reinsurance undertakings may reduce the reconciliation reserve by the total amount of
 restricted own-fund items.
-
-
 --- Page 59 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/59
-
-Subsection 2
+#### Subsection 2
 
 **Quantitative limits**
 
-*Article 82*
+##### Article 82
 
 **Eligibility and limits applicable to Tiers 1, 2 and 3**
 
@@ -4096,19 +3863,19 @@ basic own-fund items shall make up less than 20 % of the total amount of Tier 1 
 (d) items that are included in Tier 1 basic own funds under the transitional arrangement set out in Article 308b(9) of
 Directive 2009/138/EC.
 
-CHAPTER V
+## *CHAPTER V*
 
 **SOLVENCY CAPITAL REQUIREMENT STANDARD FORMULA**
 
-*SECTION 1*
+### Section 1
 
 ***General provisions***
 
-Subsection 1
+#### Subsection 1
 
 **Scenario based calculations**
 
-*Article 83*
+##### Article 83
 
 1. Where the calculation of a module or sub-module of the Basic Solvency Capital Requirement is based on the
 impact of a scenario on the basic own funds of insurance and reinsurance undertakings, all of the following assumptions
@@ -4131,11 +3898,7 @@ comply with Article 23;
 
 (b) any material adverse impact of the scenario or the management actions referred to in point (a) on the likelihood that
 policy holders will exercise contractual options.
-
-
 --- Page 60 ---
-
-L 12/60 EN Official Journal of the European Union 17.1.2015
 
 3. Insurance and reinsurance undertakings may use simplified methods to calculate the technical provisions arising as
 a result of determining the impact of a scenario as referred to in paragraph 1, provided that the simplified method does
@@ -4152,11 +3915,11 @@ held by the undertaking which comply with Articles 209 to 215.
 the calculation of the module or sub-module shall be based on the assumption that the scenario has no impact on the
 basic own funds.
 
-Subsection 2
+#### Subsection 2
 
 **Look-through approach**
 
-*Article 84*
+##### Article 84
 
 1. The Solvency Capital Requirement shall be calculated on the basis of each of the underlying assets of collective
 investment undertakings and other investments packaged as funds (look-through approach).
@@ -4180,31 +3943,27 @@ more than 20 % of the total value of the assets of the insurance or reinsurance 
 4. Paragraph 2 shall not apply to investments in related undertakings within the meaning of Article 212(1)(b) and (2)
 of Directive 2009/138/EC.
 
-Subsection 3
+#### Subsection 3
 
 **Regional governments and local authorities**
 
-*Article 85*
+##### Article 85
 
 The conditions for a categorisation of regional governments and local authorities shall be that there is no difference in
 risk between exposures to these and exposures to the central government, because of the specific revenue-raising power
 of the former, and specific institutional arrangements exist, the effect of which is to reduce the risk of default.
 
-Subsection 4
+#### Subsection 4
 
 **Material basis risk**
 
-*Article 86*
+##### Article 86
 
 Notwithstanding Article 210(2), where insurance or reinsurance undertakings transfer underwriting risk using
 reinsurance contracts or special purpose vehicles that are subject to material basis risk from a currency mismatch
 between underwriting risk and the risk-mitigation technique, insurance or reinsurance undertakings may take into
 account the risk-mitigation technique in the calculation of the Solvency Capital Requirement according to the standard
-
-
 --- Page 61 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/61
 
 formula, provided that the risk-mitigation technique complies with Article 209, Article 210(1), (3) and (4) and
 Article 211, and the calculation is carried out as follows:
@@ -4224,11 +3983,11 @@ to in point (a) shall be carried out for each of those modules, sub-modules and 
 resulting from those calculations shall not exceed 25 % of the capacity of the non-proportional reinsurance contract
 or special purpose vehicle.
 
-Subsection 5
+#### Subsection 5
 
 **Calculation of the basic solvency capital requirement**
 
-*Article 87*
+##### Article 87
 
 The Basic Solvency Capital Requirement shall include a risk module for intangible asset risk. and shall be equal to the
 following:
@@ -4257,11 +4016,11 @@ where:
 
 (b) *SCR* *intangibles* denotes the capital requirement for intangible asset risk referred to in Article 203.
 
-Subsection 6
+#### Subsection 6
 
 **Proportionality and simplifications**
 
-*Article 88*
+##### Article 88
 
 **Proportionality**
 
@@ -4284,13 +4043,9 @@ risks where the error referred to in point (b) of paragraph 2 leads to a misstat
 Requirement that could influence the decision-making or the judgement of the user of the information relating to the
 Solvency Capital Requirement, unless the simplified calculation leads to a Solvency Capital Requirement which exceeds
 the Solvency Capital Requirement that results from the standard calculation.
-
-
 --- Page 62 ---
 
-L 12/62 EN Official Journal of the European Union 17.1.2015
-
-*Article 89*
+##### Article 89
 
 **General provisions for simplifications for captives**
 
@@ -4309,7 +4064,7 @@ group of which the captive insurance or captive reinsurance undertaking is part;
 (c) the insurance obligations and the insurance contracts underlying the reinsurance obligations of the captive insurance
 or captive reinsurance undertaking do not relate to any compulsory third party liability insurance.
 
-*Article 90*
+##### Article 90
 
 **Simplified calculation for captive insurance and reinsurance undertakings of the capital requirement for non-**
 **life premium and reserve risk**
@@ -4351,7 +4106,7 @@ Article 116;
 (b) *V* *(res,s)* denotes the volume measure for reserve risk of a segment calculated in accordance with paragraph 6 of
 Article 116.
 
-*Article 91*
+##### Article 91
 
 **Simplified calculation of the capital requirement for life mortality risk**
 
@@ -4382,11 +4137,7 @@ between the following amounts:
 — the amount that the insurance or reinsurance undertaking would currently pay in the event of the death of
 the persons insured under the contract after deduction of the amounts recoverable from reinsurance
 contracts and special purpose vehicles;
-
-
 --- Page 63 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/63
 
 — the expected present value of amounts not covered in the previous indent that the undertaking would pay in
 the future in the event of the immediate death of the persons insured under the contract after deduction of
@@ -4402,7 +4153,7 @@ the sum insured;
 
 (d) *i* *k* denotes the annualized spot rate for maturity *k* of the relevant risk-free term structure as referred to in Article 43.
 
-*Article 92*
+##### Article 92
 
 **Simplified calculation of the capital requirement for life longevity risk**
 
@@ -4420,7 +4171,7 @@ the sum insured;
 
 (c) *BE* *long* denotes the best estimate of the obligations subject to longevity risk.
 
-*Article 93*
+##### Article 93
 
 **Simplified calculation of the capital requirement for life disability-morbidity risk**
 
@@ -4464,11 +4215,7 @@ contracts and special purpose vehicles;
 
 (c) *d* *1* denotes the expected average disability-morbidity rate during the following 12 months weighted by the sum
 insured;
-
-
 --- Page 64 ---
-
-L 12/64 EN Official Journal of the European Union 17.1.2015
 
 (d) *d* *2* denotes the expected average disability-morbidity rate in the 12 months after the following 12 months weighted
 by the sum insured;
@@ -4479,7 +4226,7 @@ by the sum insured;
 
 (g) *BE* *dis* denotes the best estimate of obligations subject to disability-morbidity risk.
 
-*Article 94*
+##### Article 94
 
 **Simplified calculation of the capital requirement for life-expense risk**
 
@@ -4508,7 +4255,7 @@ insurance and reinsurance obligations during the last year;
 where the weights are based on the present value of expenses included in the calculation of the best estimate for
 servicing existing life obligations.
 
-*Article 95*
+##### Article 95
 
 **Simplified calculation of the capital requirement for permanent changes in lapse rates**
 
@@ -4545,13 +4292,9 @@ following:
 amounts recoverable from policy holders or intermediaries;
 
 (b) the amount of technical provisions without the risk margin.
-
-
 --- Page 65 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/65
-
-*Article 96*
+##### Article 96
 
 **Simplified calculation of the capital requirement for life-catastrophe risk**
 
@@ -4587,7 +4330,7 @@ contract after deduction of the amounts recoverable from reinsurance contracts a
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable from reinsurance
 contracts and special purpose vehicles.
 
-*Article 97*
+##### Article 97
 
 **Simplified calculation of the capital requirement for health mortality risk**
 
@@ -4632,13 +4375,9 @@ sum insured;
 (c) *n* denotes the modified duration in years of payments payable on death included in the best estimate;
 
 (d) *i* *k* denotes the annualized spot rate for maturity *k* of the relevant risk-free term structure as referred to in Article 43.
-
-
 --- Page 66 ---
 
-L 12/66 EN Official Journal of the European Union 17.1.2015
-
-*Article 98*
+##### Article 98
 
 **Simplified calculation of the capital requirement for health longevity risk**
 
@@ -4656,7 +4395,7 @@ the sum insured;
 
 (c) *BE* *long* denotes the best estimate of the obligations subject to longevity risk.
 
-*Article 99*
+##### Article 99
 
 **Simplified calculation of the capital requirement for medical expense disability-morbidity risk**
 
@@ -4683,7 +4422,7 @@ obligations during the last year;
 obligations, where the weights are based on the present value of medical payments included in the calculation of the
 best estimate of those obligations.
 
-*Article 100*
+##### Article 100
 
 **Simplified calculation of the capital requirement for income protection disability-morbidity risk**
 
@@ -4718,11 +4457,7 @@ reinsurance contracts and special purpose vehicles;
 — the expected present value of amounts not covered in the previous indent that the undertaking would pay in
 the future in the event of the immediate death or disability of the persons insured under the contract after
 deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles;
-
-
 --- Page 67 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/67
 
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable form reinsurance
 contracts and special purpose vehicles;
@@ -4741,7 +4476,7 @@ by the sum insured;
 
 (g) *BE* *dis* denotes the best estimate of obligations subject to disability-morbidity risk.
 
-*Article 101*
+##### Article 101
 
 **Simplified calculation of the capital requirement for health expense risk**
 
@@ -4767,7 +4502,7 @@ last year;
 weighted by the present value of expenses included in the calculation of the best estimate for servicing existing
 health obligations.
 
-*Article 102*
+##### Article 102
 
 **Simplified calculation of the capital requirement for SLT health lapse risk**
 
@@ -4796,11 +4531,7 @@ where:
 (b) *n* *down* denotes the average period in years over which the policies with a negative surrender strains runs off;
 
 (c) *S* *down* denotes the sum of negative surrender strains.
-
-
 --- Page 68 ---
-
-L 12/68 EN Official Journal of the European Union 17.1.2015
 
 3. The surrender strain of an insurance policy referred to in paragraphs (1) and (2) is the difference between the
 following:
@@ -4810,7 +4541,7 @@ amounts recoverable from policy holders or intermediaries;
 
 (b) the amount of technical provisions without the risk margin.
 
-*Article 103*
+##### Article 103
 
 **Simplified calculation of the capital requirement for interest rate risk for captive insurance or reinsurance**
 **undertakings**
@@ -4899,11 +4630,7 @@ technical provisions for maturity interval *i* ;
 (g) *BE* *lob* denotes the best estimate for line of business *lob* ;
 
 (h) *dur* *lob* denotes the modified duration of the best estimate in line of business *lob* ;
-
-
 --- Page 69 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/69
 
 (i) *rate* *lob* denotes the relevant risk-free rate for modified duration in line of business *lob* ;
 
@@ -4922,7 +4649,7 @@ point (a) and (c) of paragraph 3 shall be as follows:
 
 (e) from the maturity of 10 years onwards, the simplified duration shall be 12 years.
 
-*Article 104*
+##### Article 104
 
 **Simplified calculation for spread risk on bonds and loans**
 
@@ -4976,13 +4703,9 @@ loans with credit quality step *i*, and *b* *i* is determined in accordance with
 
 
 3. *dur* *norating* referred to in point (e) of paragraph 1 and *dur* *i* referred to in paragraph 2 shall not be lower than 1 year.
-
-
 --- Page 70 ---
 
-L 12/70 EN Official Journal of the European Union 17.1.2015
-
-*Article 105*
+##### Article 105
 
 **Simplified calculation for captive insurance or reinsurance undertakings of the capital requirement for spread**
 **risk on bonds and loans**
@@ -4991,7 +4714,7 @@ Where Articles 88 and 89 are complied with, captive insurance or captive reinsur
 calculation of the capital requirement for spread risk to in Article 176 on the assumption that all assets are assigned to
 credit quality step 3.
 
-*Article 106*
+##### Article 106
 
 **Simplified calculation of the capital requirement for market risk concentration for captive insurance or**
 **reinsurance undertakings**
@@ -5014,7 +4737,7 @@ quality step 2;
 (b) exposures to entities of the group that manages the cash of the captive insurance or reinsurance undertaking
 that have been assigned to the credit quality step 2.
 
-*Article 107*
+##### Article 107
 
 **Simplified calculation of the risk mitigating effect for reinsurance arrangements or securitisation**
 
@@ -5040,7 +4763,7 @@ reinsurance arrangements and securitisations exist;
 
 (b) the capital requirements for underwriting risk of the insurance or reinsurance undertaking.
 
-*Article 108*
+##### Article 108
 
 **Simplified calculation of the risk mitigating effect for proportional reinsurance arrangements**
 
@@ -5053,11 +4776,7 @@ Recov *erables* *i*
 
 
 � *SCR* *j*
-
-
 --- Page 71 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/71
 
 where
 
@@ -5071,7 +4790,7 @@ the corresponding debtors for all counterparties
 
 (d) *SCR* *j* denotes the capital requirements for underwriting risk *j* of the insurance or reinsurance undertaking.
 
-*Article 109*
+##### Article 109
 
 **Simplified calculations for pooling arrangements**
 
@@ -5119,20 +4838,16 @@ arrangement on the underwriting risk of the undertaking;
 assessment by a nominated ECAI, provided there are separate groupings for pooling exposures of type A, type B and
 type C.
 
-*Article 110*
+##### Article 110
 
 **Simplified calculation — grouping of single name exposures**
 
 Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the loss-given-default set out in
 Article 192 for a group of single name exposures. In that case, the group of single name exposures shall be assigned the
 highest probability of default assigned to single name exposures included in the group in accordance with Article 199.
-
-
 --- Page 72 ---
 
-L 12/72 EN Official Journal of the European Union 17.1.2015
-
-*Article 111*
+##### Article 111
 
 **Simplified calculation of the risk mitigating effect**
 
@@ -5147,7 +4862,7 @@ arrangement, securitisation or derivative did not exist;
 (b) the sum of the capital requirements for the sub-modules of the underwriting and market risk modules of the
 insurance or reinsurance undertaking affected by the risk-mitigating technique.
 
-*Article 112*
+##### Article 112
 
 **Simplified calculation of the risk adjusted value of collateral to take into account the economic effect of the**
 **collateral**
@@ -5163,11 +4878,11 @@ reinsurance undertakings may, for the purposes of Article 197, calculate the ris
 by way of security as referred to in Article 1(26)(b), as 75 % of the value of the assets held as collateral, valued in
 accordance with Article 75 of Directive 2009/138/EC.
 
-Subsection 7
+#### Subsection 7
 
 **Scope of the underwriting risk modules**
 
-*Article 113*
+##### Article 113
 
 For the calculation of the capital requirements for non-life underwriting risk, life underwriting risk and health
 underwriting risk, insurance and reinsurance undertakings shall apply:
@@ -5180,11 +4895,11 @@ reinsurance obligations;
 
 (c) the health underwriting risk module to health insurance and reinsurance obligations.
 
-*SECTION 2*
+### Section 2
 
 ***Non-life underwriting risk module***
 
-*Article 114*
+##### Article 114
 
 **Non-life underwriting risk module**
 
@@ -5212,11 +4927,7 @@ s
 
 
 *i,j*
-
-
 --- Page 73 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/73
 
 where:
 
@@ -5240,7 +4951,7 @@ the following correlation matrix:
 |Non-life lapse|0|0|1|
 
 
-*Article 115*
+##### Article 115
 
 **Non-life premium and reserve risk sub-module**
 
@@ -5254,7 +4965,7 @@ where:
 
 (b) *V* *nl* denotes the volume measure for non-life premium and reserve risk determined in accordance with Article 116.
 
-*Article 116*
+##### Article 116
 
 **Volume measure for non-life premium and reserve risk**
 
@@ -5285,11 +4996,7 @@ during the following 12 months;
 
 (b) *P* *(last,s)* denotes the premiums earned by the insurance or reinsurance undertaking in the segment *s* during the last
 12 months;
-
-
 --- Page 74 ---
-
-L 12/74 EN Official Journal of the European Union 17.1.2015
 
 (c) *FP* *(existing,s)* denotes the expected present value of premiums to be earned by the insurance or reinsurance undertaking
 in the segment *s* after the following 12 months for existing contracts;
@@ -5333,7 +5040,7 @@ vehicles comply with Articles 209, 210, 211 and 213. The volume measure shall no
 7. For all segments set out in Annex II, the default factor for geographical diversification of a particular segment shall
 be either 1 or calculated in accordance with Annex III.
 
-*Article 117*
+##### Article 117
 
 **Standard deviation for non-life premium and reserve risk**
 
@@ -5369,11 +5076,7 @@ in Annex IV;
 
 (e) *V* *s* and *V* *t* denote volume measures for premium and reserve risk of segments *s* and *t*, referred to in Article 116,
 respectively.
-
-
 --- Page 75 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/75
 
 2. For all segments set out in Annex II, the standard deviation for non-life premium and reserve risk of a particular
 segment *s* shall be equal to the following:
@@ -5405,7 +5108,7 @@ the adjustment factor for non-proportional reinsurance. For segments 1, 4 and 5 
 factor for non-proportional reinsurance shall be equal to 80 %. For all other segments set out in Annex the adjustment
 factor for non-proportional reinsurance shall be equal to 100 %.
 
-*Article 118*
+##### Article 118
 
 **Non-life lapse risk sub-module**
 
@@ -5428,7 +5131,7 @@ insurance contracts.
 the event referred to in point (a) of paragraph 1, the undertaking shall base the calculation on the type of discontinuance
 which most negatively affects the basic own funds of the undertaking on a per policy basis.
 
-*Article 119*
+##### Article 119
 
 **Non-life catastrophe risk sub-module**
 
@@ -5460,17 +5163,13 @@ where:
 (a) *SCR* *natCAT* denotes the capital requirement for natural catastrophe risk;
 
 (b) *SCR* *npproperty* denotes the capital requirement for the catastrophe risk of non-proportional property reinsurance;
-
-
 --- Page 76 ---
-
-L 12/76 EN Official Journal of the European Union 17.1.2015
 
 (c) *SCR* *mmCAT* denotes the capital requirement for man-made catastrophe risk;
 
 (d) *SCR* *CATother* denotes the capital requirement for other non-life catastrophe risk.
 
-*Article 120*
+##### Article 120
 
 **Natural catastrophe risk sub-module**
 
@@ -5507,7 +5206,7 @@ where:
 
 (b) *SCR* *i* denotes the capital requirement for sub-module *i* .
 
-*Article 121*
+##### Article 121
 
 **Windstorm risk sub-module**
 
@@ -5553,11 +5252,7 @@ and special purpose vehicles, is equal to 80 % of the specified windstorm loss i
 
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 40 % of the specified windstorm loss in region *r* .
-
-
 --- Page 77 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/77
 
 4. For all regions set out in Annex V the capital requirement for windstorm risk in a particular region *r* according to
 scenario B shall be equal to the loss in basic own funds of insurance and reinsurance undertakings that would result
@@ -5638,11 +5333,7 @@ and where the risk is not situated in one of the regions set out in Annex XIII.
 and special purpose vehicles, referred to in paragraph 8 shall be equal to the following amount:
 
 *L* ð *windstorm,other* Þ ¼ 1,75 �ð0,5 � *DIV* *windstorm* þ 0,5Þ � *P* *windstorm*
-
-
 --- Page 78 ---
-
-L 12/78 EN Official Journal of the European Union 17.1.2015
 
 where:
 
@@ -5653,7 +5344,7 @@ referred to in paragraph 8 and restricted to the regions 5 to 18 set out in poin
 that covers the obligations referred to in paragraph 8 during the following 12 months: for this purpose premiums
 shall be gross, without deduction of premiums for reinsurance contracts.
 
-*Article 122*
+##### Article 122
 
 **Earthquake risk sub-module**
 
@@ -5739,11 +5430,7 @@ region *r* ;
 (b) *SI* *(onshore-property,r,i)* denotes the sum insured of the insurance or reinsurance undertaking for lines of business 6 and 18 as
 set out in Annex I in relation to contracts that cover onshore property damage by earthquake and where the risk is
 situated in risk zone *i* of region *r* .
-
-
 --- Page 79 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/79
 
 5. The capital requirement for earthquake risk in regions other than those set out in Annex XIII shall be equal to the
 loss in basic own funds of insurance and reinsurance undertakings that would result from an instantaneous loss in
@@ -5770,7 +5457,7 @@ referred to in points (a) and (b) of paragraph 5 and restricted to the regions 5
 that covers the obligations referred to in points (a) and (b) of paragraph 5 during the following 12 months: for this
 purpose premiums shall be gross, without deduction of premiums for reinsurance contracts.
 
-*Article 123*
+##### Article 123
 
 **Flood risk sub-module**
 
@@ -5826,11 +5513,7 @@ and special purpose vehicles, is equal to 100 % of the specified flood loss in r
 
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 10 % of the specified flood loss in region *r* .
-
-
 --- Page 80 ---
-
-L 12/80 EN Official Journal of the European Union 17.1.2015
 
 5. For all regions set out in Annex VII, the specified flood loss in a particular region *r* shall be equal to the following
 amount:
@@ -5914,13 +5597,9 @@ to in points (a), (b) and (c) of paragraph 8 and restricted to the regions 5 to 
 (b) *P* *flood* is an estimate of the premiums to be earned by the insurance or reinsurance undertaking for each contract that
 covers the obligations referred to in points (a), (b) and (c) of paragraph 8 during the following 12 months: for this
 purpose, premiums shall be gross, without deduction of premiums for reinsurance contracts.
-
-
 --- Page 81 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/81
-
-*Article 124*
+##### Article 124
 
 **Hail risk sub-module**
 
@@ -6015,11 +5694,7 @@ where:
 (a) *W* *(hail,r,i)* denotes the risk weight for hail risk in risk zone *i* of region *r* set out in Annex X;
 
 (b) *SI* *(hail,r,i)* denotes the sum insured for hail risk in hail zone *i* of region *r* .
-
-
 --- Page 82 ---
-
-L 12/82 EN Official Journal of the European Union 17.1.2015
 
 7. For all regions set out in Annex VIII and all hail zones, the sum insured for hail risk in a particular hail zone *i* of a
 particular region *r* shall be equal to the following:
@@ -6066,7 +5741,7 @@ to in points (a), (b) and (c) of paragraph 8 and restricted to the regions 5 to 
 covers the obligations referred to in points (a), (b) and (c) of paragraph 8 during the following 12 months: for this
 purpose premiums shall be gross, without deduction of premiums for reinsurance contracts.
 
-*Article 125*
+##### Article 125
 
 **Subsidence risk sub-module**
 
@@ -6096,11 +5771,7 @@ where:
 
 (c) *WSI* *(subsidence,i)* and *WSI* *(subsidence,j)* denote the weighted sums insured for subsidence risk in risk zones *i* and *j* of France set
 out in Annex IX.
-
-
 --- Page 83 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/83
 
 2. For all subsidence zones the weighted sum insured for subsidence risk in a particular risk zone *i* of France set out
 in the Annex IX shall be equal to the following:
@@ -6114,7 +5785,7 @@ where:
 (b) *SI* *(subsidence,i)* denotes the sum insured of the insurance or reinsurance undertaking for lines of business 7 and 19 as set
 out in Annex I in relation to contracts that cover subsidence risk of residential buildings in subsidence zone *i* .
 
-*Article 126*
+##### Article 126
 
 **Interpretation of catastrophe scenarios**
 
@@ -6131,7 +5802,7 @@ and reinsurance undertakings shall take into account future management actions i
 between the first and the second event. The assumptions about future management actions shall be realistic, objective
 and verifiable.
 
-*Article 127*
+##### Article 127
 
 **Sub-module for catastrophe risk of non-proportional property reinsurance**
 
@@ -6158,7 +5829,7 @@ other than non-proportional reinsurance obligations relating to insurance obliga
 and 21 as set out in Annex I: for this purpose premiums shall be gross, without deduction of premiums for
 reinsurance contracts.
 
-*Article 128*
+##### Article 128
 
 **Man-made catastrophe risk sub-module**
 
@@ -6175,11 +5846,7 @@ reinsurance contracts.
 (e) the liability risk sub-module;
 
 (f) the credit and suretyship risk sub-module.
-
-
 --- Page 84 ---
-
-L 12/84 EN Official Journal of the European Union 17.1.2015
 
 2. The capital requirement for the man-made catastrophe risk shall be equal to the following:
 
@@ -6202,7 +5869,7 @@ where:
 
 (b) *SCR* *i* denotes the capital requirements for sub-module *i* .
 
-*Article 129*
+##### Article 129
 
 **Motor vehicle liability risk sub-module**
 
@@ -6230,7 +5897,7 @@ insurance policy or, where no such overall limit is specified in the terms and c
 limits for damage to property and for personal injury. Where the policy limit is specified as a maximum per victim, the
 deemed policy limit shall be based on the assumption of ten victims.
 
-*Article 130*
+##### Article 130
 
 **Marine risk sub-module**
 
@@ -6256,11 +5923,7 @@ tanker collision in lines of business 6, 18 and 27 set out in Annex I;
 
 (b) *SI* *(hull,t)* is the sum insured by the insurance or reinsurance undertaking for marine hull insurance and reinsurance in
 relation to tanker *t* ;
-
-
 --- Page 85 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/85
 
 (c) *SI* *(liab,t)* is the sum insured by the insurance or reinsurance undertaking for marine liability insurance and reinsurance
 in relation to tanker *t* ;
@@ -6290,7 +5953,7 @@ reinsurance obligations in relation to platform *p* :
 
 (v) liability insurance and reinsurance obligations.
 
-*Article 131*
+##### Article 131
 
 **Aviation risk sub-module**
 
@@ -6306,7 +5969,7 @@ and 27 set out in Annex I;
 (b) *SI* *a* is the sum insured by the insurance or reinsurance undertaking for aviation hull insurance and reinsurance and
 aviation liability insurance and reinsurance in relation to aircraft *a* .
 
-*Article 132*
+##### Article 132
 
 **Fire risk sub-module**
 
@@ -6326,13 +5989,9 @@ terrorist attacks;
 
 3. For the purposes of paragraph 2, the set of buildings may be covered by one or several insurance or reinsurance
 contracts.
-
-
 --- Page 86 ---
 
-L 12/86 EN Official Journal of the European Union 17.1.2015
-
-*Article 133*
+##### Article 133
 
 **Liability risk sub-module**
 
@@ -6398,7 +6057,7 @@ liability risk group *i* ;
 (c) where the insurance or reinsurance undertaking provides unlimited cover in liability risk group *i*, the number of
 claims *n* *i* is equal to one.
 
-*Article 134*
+##### Article 134
 
 **Credit and suretyship risk sub-module**
 
@@ -6412,11 +6071,7 @@ where:
 (a) *SCR* *default* is the capital requirement for the risk of a large credit default;
 
 (b) *SCR* *recession* is the capital requirement for recession risk.
-
-
 --- Page 87 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/87
 
 2. The capital requirement for the risk of a large credit default shall be equal to the loss in basic own funds of
 insurance and reinsurance undertakings that would result from an instantaneous default of the two largest exposures
@@ -6434,7 +6089,7 @@ reinsurance undertakings that would result from an instantaneous loss of an amou
 amounts recoverable from reinsurance contracts and special purpose vehicles, is equal to 100 % of the premiums earned
 by the insurance or reinsurance undertaking during the following 12 months in lines of business 9 and 21.
 
-*Article 135*
+##### Article 135
 
 **Sub-module for other non-life catastrophe risk**
 
@@ -6468,11 +6123,11 @@ reinsurance contracts, expected to be earned by the insurance or reinsurance und
 (b) *c* 1, *c* 2, *c* 3, *c* 4 and *c* 5 denote the risk factors for the groups of insurance and reinsurance obligations 1 to 5 set out in
 Annex XII.
 
-*SECTION 3*
+### Section 3
 
 ***Life underwriting risk module***
 
-*Article 136*
+##### Article 136
 
 **Correlation coefficients**
 
@@ -6509,11 +6164,7 @@ s
 
 
 *i,j*
-
-
 --- Page 88 ---
-
-L 12/88 EN Official Journal of the European Union 17.1.2015
 
 where:
 
@@ -6538,7 +6189,7 @@ item set out in row *i* and in column *j* of the following correlation matrix:
 
 
 
-*Article 137*
+##### Article 137
 
 **Mortality risk sub-module**
 
@@ -6563,18 +6214,14 @@ on those groups of policies instead of single policies, provided that it yields 
 under an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in
 accordance with paragraph 2.
 
-*Article 138*
+##### Article 138
 
 **Longevity risk sub-module**
 
 1. The capital requirement for longevity risk referred to in Article 105(3)(b) of Directive 2009/138/EC shall be equal
 to the loss in basic own funds of insurance and reinsurance undertakings that would result from an instantaneous
 permanent decrease of 20 % in the mortality rates used for the calculation of technical provisions.
-
-
 --- Page 89 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/89
 
 2. The decrease in mortality rates referred to in paragraph 1 shall only apply to those insurance policies for which a
 decrease in mortality rates leads to an increase in technical provisions without the risk margin. The identification of
@@ -6593,7 +6240,7 @@ on those groups of policies instead of single policies, provided that it yields 
 under a decrease of mortality rates shall apply to the underlying insurance policies only and shall be carried out in
 accordance with paragraph 2.
 
-*Article 139*
+##### Article 139
 
 **Disability-morbidity risk sub-module**
 
@@ -6610,7 +6257,7 @@ reflect the disability and morbidity experience for all months after the followi
 (c) a decrease of 20 % in the disability and morbidity recovery rates used in the calculation of technical provisions in
 respect of the following 12 months and for all years thereafter.
 
-*Article 140*
+##### Article 140
 
 **Life-expense risk sub-module**
 
@@ -6626,7 +6273,7 @@ technical provisions.
 With regard to reinsurance obligations, insurance and reinsurance undertakings shall apply those changes to their own
 expenses and, where relevant, to the expenses of the ceding undertakings.
 
-*Article 141*
+##### Article 141
 
 **Revision risk sub-module**
 
@@ -6635,13 +6282,9 @@ loss in basic own funds of insurance and reinsurance undertakings that would res
 increase of 3 % in the amount of annuity benefits only on annuity insurance and reinsurance obligations where the
 benefits payable under the underlying insurance policies could increase as a result of changes in the legal environment
 or in the state of health of the person insured.
-
-
 --- Page 90 ---
 
-L 12/90 EN Official Journal of the European Union 17.1.2015
-
-*Article 142*
+##### Article 142
 
 **Lapse risk sub-module**
 
@@ -6711,11 +6354,7 @@ tinuance would result in an increase of technical provisions without the risk ma
 (c) where reinsurance contracts cover insurance or reinsurance contracts that will be written in the future, the decrease
 of 40 % of the number of those future insurance or reinsurance contracts used in the calculation of technical
 provisions.
-
-
 --- Page 91 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/91
 
 The events referred to in the first subparagraph shall apply uniformly to all insurance and reinsurance contracts
 concerned. In relation to reinsurance contracts, the event referred to in point (a) shall apply to the underlying insurance
@@ -6732,7 +6371,7 @@ not based on the same scenario, the capital requirement for lapse risk referred 
 which the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2) of this Regulations.
 
-*Article 143*
+##### Article 143
 
 **Life-catastrophe risk sub-module**
 
@@ -6758,11 +6397,11 @@ on those groups of policies instead of single policies, provided that it yields 
 an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in accordance
 with paragraph 2.
 
-*SECTION 4*
+### Section 4
 
 ***Health underwriting risk module***
 
-*Article 144*
+##### Article 144
 
 **Health underwriting risk module**
 
@@ -6788,11 +6427,7 @@ s
 
 
 *i,j*
-
-
 --- Page 92 ---
-
-L 12/92 EN Official Journal of the European Union 17.1.2015
 
 where:
 
@@ -6826,7 +6461,7 @@ business 29, 33 and 35 as set out in Annex I;
 
 (c) the health catastrophe risk sub-module to health insurance and reinsurance obligations.
 
-*Article 145*
+##### Article 145
 
 **NSLT health underwriting risk sub-module**
 
@@ -6847,7 +6482,7 @@ where:
 
 (b) *SCR* *(NSLTh,lapse)* denotes the capital requirement for NSLT health lapse risk.
 
-*Article 146*
+##### Article 146
 
 **NSLT health premium and reserve risk sub-module**
 
@@ -6862,13 +6497,9 @@ Article 148;
 
 (b) *V* *NSLTh* denotes the volume measure for NSLT health premium and reserve risk determined in accordance with
 Article 147.
-
-
 --- Page 93 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/93
-
-*Article 147*
+##### Article 147
 
 **Volume measure for NSLT health premium and reserve risk**
 
@@ -6934,11 +6565,7 @@ premiums for reinsurance contracts. The following premiums for reinsurance contr
 (a) premiums in relation to non-insurance events or settled insurance claims that are not accounted for in the cashflows referred to in Article 41(3);
 
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213.
-
-
 --- Page 94 ---
-
-L 12/94 EN Official Journal of the European Union 17.1.2015
 
 6. For all segments set out in Annex XIV, the volume measure for reserve risk of a particular segment shall be equal
 to the best estimate for the provision for claims outstanding for the segment, after deduction of the amounts recoverable
@@ -6948,7 +6575,7 @@ vehicles comply with Articles 209, 210, 211 and 213. The volume measure shall no
 7. For all segments set out in Annex XIV, the default factor for geographical diversification shall be either equal to 1
 or calculated in accordance with Annex III.
 
-*Article 148*
+##### Article 148
 
 **Standard deviation for NSLT health premium and reserve risk**
 
@@ -7015,18 +6642,14 @@ segment shall be equal to the product of the standard deviation for NSLT health 
 out in Annex XIV and the adjustment factor for non-proportional reinsurance. For all segments set out in Annex XIV
 the adjustment factor for non-proportional reinsurance shall be equal to 100 %.
 
-*Article 149*
+##### Article 149
 
 **Health risk equalisation systems**
 
 1. For the purposes of Article 109a(4) of Directive 2009/138/EC, health insurance obligations subject to the health
 risk equalisation systems (‘HRES’) shall be identified, managed and organised separately from the other activities of the
 insurance undertakings, without any possibility of transfer to health insurance obligations that are not subject to HRES.
-
-
 --- Page 95 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/95
 
 2. The standard deviations for NSLT health premium and reserve risk of segments 1, 2 and 3 in Annex XIV for
 business that is subject to a HRES shall meet all of the following requirements:
@@ -7092,11 +6715,7 @@ deviation for NSLT health insurance premium risk for business subject to a HRES 
 paragraph 2 of this Article, insurance undertakings shall use this standard deviation instead of the standard deviation for
 NSLT health premium risk of the segment set out in Annex XIV of this Regulation for the calculation of the standard
 deviation for NSLT health premium and reserve risk referred to in Article 148(1) of this Regulation.
-
-
 --- Page 96 ---
-
-L 12/96 EN Official Journal of the European Union 17.1.2015
 
 Where only a part of an insurance undertaking's business in a segment *s* is subject to the HRES, the undertaking shall
 use a standard deviation for NSLT health premium risk of the segment in the calculation of the standard deviation for
@@ -7159,13 +6778,9 @@ risk for business subject to a HRES with parameters specific to the insurance an
 with Article 104(7) of Directive 2009/138/EC. Supervisory authorities may require insurance and reinsurance
 undertakings to replace those standard deviations with parameters specific to the undertaking in accordance with
 Article 110 of that Directive 2009/138/EC.
-
-
 --- Page 97 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/97
-
-*Article 150*
+##### Article 150
 
 **NSLT health lapse risk sub-module**
 
@@ -7188,7 +6803,7 @@ insurance contracts.
 the event referred to in point (a) of paragraph 1, the undertaking shall base the calculation on the type of discontinuance
 which most negatively affects the basic own funds of the undertaking on a per policy basis.
 
-*Article 151*
+##### Article 151
 
 **SLT health underwriting risk sub-module**
 
@@ -7240,15 +6855,7 @@ column *j* of the following correlation matrix:
 |j i|Health mortality|Health longevity|Health disability- morbidity|Health expense|Health revi­ sion|SLT health lapse|
 |---|---|---|---|---|---|---|
 |Health mortality|1|– 0,25|0,25|0,25|0|0|
-
-
 --- Page 98 ---
-
-L 12/98 EN Official Journal of the European Union 17.1.2015
-
-
-
-
 
 |j i|Health mortality|Health longevity|Health disability- morbidity|Health expense|Health revi­ sion|SLT health lapse|
 |---|---|---|---|---|---|---|
@@ -7259,7 +6866,7 @@ L 12/98 EN Official Journal of the European Union 17.1.2015
 |SLT health lapse|0|0,25|0|0,5|0|1|
 
 
-*Article 152*
+##### Article 152
 
 **Health mortality risk sub-module**
 
@@ -7284,7 +6891,7 @@ on those groups of policies instead of single policies, provided that it yields 
 under an increase of mortality rates shall apply to the underlying insurance policies only and shall be carried out in
 accordance with paragraph 2.
 
-*Article 153*
+##### Article 153
 
 **Health longevity risk sub-module**
 
@@ -7304,17 +6911,13 @@ policy;
 
 cation of the policies for which technical provisions increase under an decrease of mortality rates may also be based
 on those groups of policies instead of single policies, provided that it yields a result which is not materially different.
-
-
 --- Page 99 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/99
 
 3. With regard to reinsurance obligations, the identification of the policies for which technical provisions increase
 under an decrease of mortality rates shall apply only to the underlying insurance policies and shall be carried out in
 accordance with paragraph 2.
 
-*Article 154*
+##### Article 154
 
 **Health disability-morbidity risk sub-module**
 
@@ -7334,7 +6937,7 @@ technical basis to that of life insurance;
 only to income protection insurance and reinsurance obligations where the underlying business is pursued on a
 similar technical basis to that of life insurance.
 
-*Article 155*
+##### Article 155
 
 **Capital requirement for medical expense disability-morbidity risk**
 
@@ -7363,7 +6966,7 @@ changes:
 (b) a decrease by 1 percentage point from the inflation rate of medical payments (expressed as a percentage) used for
 the calculation of technical provisions.
 
-*Article 156*
+##### Article 156
 
 **Capital requirement for income protection disability-morbidity risk**
 
@@ -7376,11 +6979,7 @@ reflect the disability and morbidity in the following 12 months;
 
 (b) an increase of 25 % in the disability and morbidity rates which are used in the calculation of technical provisions to
 reflect the disability and morbidity in the years after the following 12 months;
-
-
 --- Page 100 ---
-
-L 12/100 EN Official Journal of the European Union 17.1.2015
 
 (c) where the disability and morbidity recovery rates used in the calculation of technical provisions are lower than
 50 %, a decrease of 20 % in those rates;
@@ -7388,7 +6987,7 @@ L 12/100 EN Official Journal of the European Union 17.1.2015
 (d) where the disability and morbidity persistency rates used in the calculation of technical provisions are equal or lower
 than 50 %, an increase of 20 % in those rates.
 
-*Article 157*
+##### Article 157
 
 **Health expense risk sub-module**
 
@@ -7403,7 +7002,7 @@ technical provisions.
 With regard to reinsurance obligations, insurance and reinsurance undertakings shall apply those changes to their own
 expenses and, where relevant, to the expenses of the ceding undertakings.
 
-*Article 158*
+##### Article 158
 
 **Health revision risk sub-module**
 
@@ -7413,7 +7012,7 @@ benefits, only on annuity insurance and reinsurance obligations where the benefi
 insurance policies could increase as a result of changes in inflation, the legal environment or the state of health of the
 person insured.
 
-*Article 159*
+##### Article 159
 
 **SLT health lapse risk sub-module**
 
@@ -7448,11 +7047,7 @@ insurance or reinsurance cover.
 
 For the purposes of point (b), the change in the option exercise rate referred to in paragraphs 2 and 3 should be applied
 to the rate reflecting that the relevant option is not exercised.
-
-
 --- Page 101 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/101
 
 5. In relation to reinsurance contracts, the relevant options for the purposes of paragraphs 2 and 3 shall be the
 following:
@@ -7490,7 +7085,7 @@ not based on the same scenario, the capital requirement for lapse risk referred 
 the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2) of this Regulation.
 
-*Article 160*
+##### Article 160
 
 **Health catastrophe risk sub-module**
 
@@ -7517,13 +7112,9 @@ group income protection insurance and reinsurance obligations;
 
 (c) the pandemic risk sub-module to health insurance and reinsurance obligations other than workers' compensation
 insurance and reinsurance obligations.
-
-
 --- Page 102 ---
 
-L 12/102 EN Official Journal of the European Union 17.1.2015
-
-*Article 161*
+##### Article 161
 
 **Mass accident risk sub-module**
 
@@ -7608,7 +7199,7 @@ specific guarantees the obligations include.
 payable to insured person referred to in paragraph 3 based on homogenous risk groups, provided that the grouping of
 policies complies with Article 35.
 
-*Article 162*
+##### Article 162
 
 **Accident concentration risk sub-module**
 
@@ -7627,11 +7218,7 @@ r *c*
 
 
 *c*
-
-
 --- Page 103 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/103
 
 where:
 
@@ -7714,13 +7301,9 @@ account the specific guarantees the obligations include.
 5. Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the value of the benefits
 payable by the insurance or reinsurance undertaking for the insured person referred to in paragraph 4 based on
 homogenous risk groups, provided that the grouping of policies complies with the requirements set out in Article 35.
-
-
 --- Page 104 ---
 
-L 12/104 EN Official Journal of the European Union 17.1.2015
-
-*Article 163*
+##### Article 163
 
 **Pandemic risk sub-module**
 
@@ -7800,25 +7383,21 @@ where:
 person in country *c* in relation to medical expense insurance or reinsurance obligations, other than workers'
 compensation insurance or reinsurance obligations, for healthcare utilisation *h* in the event of a pandemic.
 
-*SECTION 5*
+### Section 5
 
 ***Market risk module***
 
-Subsection 1
+#### Subsection 1
 
 **Correlation coefficients**
 
-*Article 164*
+##### Article 164
 
 1. The market risk module shall consist of all of the following sub-modules:
 
 (a) the interest rate risk sub-module referred to in point (a) of subparagraph 2 of Article 105(5) of Directive
 2009/138/EC;
-
-
 --- Page 105 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/105
 
 (b) the equity risk sub-module referred to in point (b) of subparagraph 2 of Article 105(5) of Directive 2009/138/EC;
 
@@ -7873,11 +7452,11 @@ column *j* of the following correlation matrix:
 The parameter A shall be equal to 0 where the capital requirement for interest rate risk set out in Article 165 is the
 capital requirement referred to in point (a) of that Article. In all other cases, the parameter A shall be equal to 0,5.
 
-Subsection 2
+#### Subsection 2
 
 **Interest rate risk sub-module**
 
-*Article 165*
+##### Article 165
 
 **General provisions**
 
@@ -7889,11 +7468,7 @@ rates as set out in Article 166 of this Regulation;
 
 (b) the sum, over all currencies, of the capital requirements for the risk of a decrease in the term structure of interest
 rates as set out in Article 167 of this Regulation.
-
-
 --- Page 106 ---
-
-L 12/106 EN Official Journal of the European Union 17.1.2015
 
 2. Where the larger of the capital requirements referred to in points (a) and (b) of paragraph 1 and the larger of the
 corresponding capital requirements calculated in accordance with Article 206(2) are not based on the same scenario, the
@@ -7901,7 +7476,7 @@ capital requirement for interest rate risk shall be the capital requirement refe
 for which the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2).
 
-*Article 166*
+##### Article 166
 
 **Increase in the term structure of interest rates**
 
@@ -7932,11 +7507,7 @@ rates for that currency at different maturities in accordance with the following
 |19|27 %|
 |20|26 %|
 |90|20 %|
-
-
 --- Page 107 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/107
 
 For maturities not specified in the table above, the value of the increase shall be linearly interpolated. For maturities
 shorter than 1 year, the increase shall be 70 %. For maturities longer than 90 years, the increase shall be 20 %.
@@ -7948,7 +7519,7 @@ referred to in Article 92(2) of Directive 2009/138/EC in financial and credit in
 value of the participations that are not deducted from own funds pursuant to Article 68 of this Regulation. The part
 deducted from own funds shall be considered only to the extent that such impact increases the basic own funds.
 
-*Article 167*
+##### Article 167
 
 **Decrease in the term structure of interest rates**
 
@@ -7979,11 +7550,7 @@ rates for that currency at different maturities in accordance with the following
 |19|29 %|
 |20|29 %|
 |90|20 %|
-
-
 --- Page 108 ---
-
-L 12/108 EN Official Journal of the European Union 17.1.2015
 
 For maturities not specified in the table above, the value of the decrease shall be linearly interpolated. For maturities
 shorter than 1 year, the decrease shall be 75 %. For maturities longer than 90 years, the decrease shall be 20 %.
@@ -7995,11 +7562,11 @@ credit institutions of the decrease in the term structure of basic risk-free int
 value of the participations that are not deducted from own funds pursuant to Article 68 of this Regulation. The part
 deducted from own funds shall be considered only to the extent that such impact increases the basic own funds.
 
-Subsection 3
+#### Subsection 3
 
 **Equity risk sub-module**
 
-*Article 168*
+##### Article 168
 
 **General provisions**
 
@@ -8047,11 +7614,7 @@ undertaking;
 
 ( [1] ) Regulation (EU) No 346/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship
 funds (OJ L 115, 25.4.2013, p. 18).
-
-
 --- Page 109 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/109
 
 (c) as regards closed-ended and unleveraged alternative investment funds which are established in the Union or, if they
 are not established in the Union, which are marketed in the Union in accordance with Articles 35 or 40 of Directive
@@ -8063,7 +7626,7 @@ possible for all exposures within the alternative investment fund;
 (ii) units or shares of such funds where the look-through approach is not possible for all exposures within the
 alternative investment fund.
 
-*Article 169*
+##### Article 169
 
 **Standard equity risk sub-module**
 
@@ -8087,7 +7650,7 @@ nature;
 (b) an instantaneous decrease equal to the sum of 49 % and the symmetric adjustment as referred to in Article 172, in
 the value of type 2 equities, other than those referred to in point (a).
 
-*Article 170*
+##### Article 170
 
 **Duration-based equity risk sub-module**
 
@@ -8117,13 +7680,9 @@ Article 212(1)(b) and (2) of Directive 2009/138/EC, where these investments are 
 
 (c) equal to the sum of 49 % and the symmetric adjustment as referred to in Article 172 of this Regulation, in the value
 of type 2 equities, other than those referred to in points (a) or (b).
-
-
 --- Page 110 ---
 
-L 12/110 EN Official Journal of the European Union 17.1.2015
-
-*Article 171*
+##### Article 171
 
 **Strategic equity investments**
 
@@ -8149,7 +7708,7 @@ the undertaking;
 (v) where the insurance or reinsurance participating company is part of a group, the consistency of such strategy
 with the main policies guiding or limiting the actions of the group.
 
-*Article 172*
+##### Article 172
 
 **Symmetric adjustment of the equity capital charge**
 
@@ -8181,33 +7740,29 @@ included in the average.
 
 4. The symmetric adjustment shall not be lower than – 10 % or higher than 10 %.
 
-*Article 173*
+##### Article 173
 
 **Criteria for the use of transitional measure for standard equity risk**
 
 The transitional measure for standard equity risk set out in Article 308b(12) of Directive 2009/138/EC shall only be
 applied to type 1 equities that were purchased on or before 1 January 2016 and which are not subject to the durationbased equity risk pursuant to Article 304 of that Directive.
-
-
 --- Page 111 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/111
-
-Subsection 4
+#### Subsection 4
 
 **Property risk sub-module**
 
-*Article 174*
+##### Article 174
 
 The capital requirement for property risk referred to in point (c) of the second subparagraph of Article 105(5) of
 Directive 2009/138/EC shall be equal to the loss in the basic own funds that would result from an instantaneous
 decrease of 25 % in the value of immovable property.
 
-Subsection 5
+#### Subsection 5
 
 **Spread risk sub-module**
 
-*Article 175*
+##### Article 175
 
 **Scope of the spread risk sub-module**
 
@@ -8224,7 +7779,7 @@ where
 
 (c) *SCR* *cd* denotes the capital requirement for spread risk on credit derivatives.
 
-*Article 176*
+##### Article 176
 
 **Spread risk on bonds and loans**
 
@@ -8247,11 +7802,7 @@ table.
 |up to 5|b  dur i i|—|0,9 %|—|1,1 %|—|1,4 %|—|2,5 %|—|4,5 %|—|7,5 %|
 |More than 5 and up to 10|a þ b  ðdur − 5Þ i i i|4,5 %|0,5 %|5,5 %|0,6 %|7,0 %|0,7 %|12,5 %|1,5 %|22,5 %|2,5 %|37,5 %|4,2 %|
 |More than 10 and up to 15|a þ b  ðdur − 10Þ i i i|7,0 %|0,5 %|8,4 %|0,5 %|10,5 %|0,5 %|20,0 %|1,0 %|35,0 %|1,8 %|58,5 %|0,5 %|
-
-
 --- Page 112 ---
-
-L 12/112 EN Official Journal of the European Union 17.1.2015
 
 |Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -8299,18 +7850,14 @@ The risk-adjusted value of the collateral shall be calculated in accordance with
 2009/138/EC, in financial and credit institutions shall be considered only on the value of the participations that are not
 deducted from own funds pursuant to Article 68 of this Regulation.
 
-*Article 177*
+##### Article 177
 
 **Spread risk on securitisation positions: general provisions**
 
 1. The capital requirement *SCR* *securitisation* for spread risk on securitisation positions shall be the sum of a capital
 requirement for type 1 securitisation positions, a capital requirement for type 2 securitisation positions and a capital
 requirement for resecuritisation positions.
-
-
 --- Page 113 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/113
 
 2. Type 1 securitisation positions shall include securitisation positions that meet all of the following criteria:
 
@@ -8373,11 +7920,7 @@ and fee payments, does not exceed 45 %.
 (ii) fully guaranteed residential loans referred to in Article 129(1)(e) of Regulation (EU) No 575/2013, provided
 that the loans meet the collateralisation requirements laid down in that paragraph and meet on average the
 loan-to-value requirement laid down in point (i) of Article 129(1)(d) of Regulation (EU) No 575/2013;
-
-
 --- Page 114 ---
-
-L 12/114 EN Official Journal of the European Union 17.1.2015
 
 (iii) commercial loans, leases and credit facilities to undertakings to finance capital expenditures or business
 operations other than the acquisition or development of commercial real estate, provided that at least 80 % of
@@ -8443,11 +7986,7 @@ tractors, their trailers and interchangeable towed machinery, together with thei
 repealing Directive 74/150/EEC (OJ L 171, 9.7.2003, p. 1–80).
 ( [3] ) Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the Type-approval of two or
 three-wheel motor vehicles and repealing Council Directive 92/61/EEC (OJ L 124, 9.5.2002, p. 1–44).
-
-
 --- Page 115 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/115
 
 (ii) a failure to generate sufficient new underlying exposures of at least similar credit quality;
 
@@ -8508,13 +8047,9 @@ residential immovable property and amending Directives 2008/48/EC and 2013/36/EU
 28.2.2014, p. 34.
 ( [2] ) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and
 repealing Council Directive 87/102/EEC, OJ L 133, 22.5.2008, p. 66.
-
-
 --- Page 116 ---
 
-L 12/116 EN Official Journal of the European Union 17.1.2015
-
-*Article 178*
+##### Article 178
 
 **Spread risk on securitisation positions: calculation of the capital requirement**
 
@@ -8577,13 +8112,9 @@ table:
 
 5. Securitisation positions for which a credit assessment from a nominated ECAI is not available shall be assigned a
 risk factor *stress* *i* of 100 %.
-
-
 --- Page 117 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/117
-
-*Article 179*
+##### Article 179
 
 **Spread risk on credit derivatives**
 
@@ -8621,7 +8152,7 @@ capital requirement for spread risk on credit derivatives shall be the capital r
 which the underlying scenario results in the largest corresponding capital requirement calculated in accordance with
 Article 206(2).
 
-*Article 180*
+##### Article 180
 
 **Specific exposures**
 
@@ -8645,11 +8176,7 @@ central government and the central bank;
 (c) multilateral development banks referred to in paragraph 2 of Article 117 of Regulation (EU) No 575/2013;
 
 (d) international organisations referred to in Article 118 of Regulation (EU) No 575/2013;
-
-
 --- Page 118 ---
-
-L 12/118 EN Official Journal of the European Union 17.1.2015
 
 Exposures in the form of bonds and loans that are fully, unconditionally and irrevocably guaranteed by one of the
 counterparties mentioned in points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall
@@ -8701,11 +8228,7 @@ Minimum Capital Requirement shall be assigned a risk factor *stress* *i* accordi
 |More than 10 and up to 15|58,50 % + 0,50 %.(dur – 10) i|
 |More than 15 and up to 20|61 % + 0,50 %.(dur – 15) i|
 |More than 20|minð63,5% þ 0,5%  ðdur − 20Þ; 1Þ i|
-
-
 --- Page 119 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/119
 
 6. Paragraphs 4 and 5 of this Article shall only apply as of the first date of public disclosure, by the undertaking
 corresponding to the exposure, of the report on its solvency and financial condition referred to in Article 51 of
@@ -8734,7 +8257,7 @@ or a loan to any exposure listed in paragraph 2 shall be nil.
 Investment Fund or the European Investment Bank, where the guarantee meets the requirements set out in Article 215,
 shall be assigned a risk factor *stress* *i* of 0 %.
 
-*Article 181*
+##### Article 181
 
 **Application of the spread risk scenarios to matching adjustment portfolios**
 
@@ -8761,17 +8284,13 @@ relevant risk factor *stress* *i*, referred to in Articles 176, 178 and 180 of t
 
 For assets in the assigned portfolio for which no credit assessment by a nominated ECAI is available, the reduction
 factor shall be equal to 100 %.
-
-
 --- Page 120 ---
 
-L 12/120 EN Official Journal of the European Union 17.1.2015
-
-Subsection 6
+#### Subsection 6
 
 **Market risk concentrations sub-module**
 
-*Article 182*
+##### Article 182
 
 **Single name exposure**
 
@@ -8793,7 +8312,7 @@ value of each exposure.
 be assigned a credit quality step in accordance with Chapter 1 Section 2 of this Title. Exposures for which a credit
 assessment by a nominated ECAI is not available shall be assigned to credit quality step 5.
 
-*Article 183*
+##### Article 183
 
 **Calculation of the capital requirement for market risk concentration**
 
@@ -8830,7 +8349,7 @@ where:
 
 (b) *g* *i* is the risk factor for market risk concentration referred to in Articles 186 and 187;
 
-*Article 184*
+##### Article 184
 
 **Excess exposure**
 
@@ -8842,11 +8361,7 @@ where:
 
 (a) *E* *i* denotes the exposure at default to single name exposure *i* that is included in the calculation base of the market
 risk concentrations sub-module;
-
-
 --- Page 121 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/121
 
 (b) *Assets* denotes the calculation base of the market risk concentrations sub-module;
 
@@ -8886,7 +8401,7 @@ institutions that is deducted from own funds pursuant to Article 68 of this Regu
 counterparties belonging to that single name exposure and for which the risk factor for market risk concentration
 referred to in Articles 168 and 187 is 0 %.
 
-*Article 185*
+##### Article 185
 
 **Relative excess exposure thresholds**
 
@@ -8900,7 +8415,7 @@ with Article 182(4).
 
 
 
-*Article 186*
+##### Article 186
 
 **Risk factor for market risk concentration**
 
@@ -8911,11 +8426,7 @@ accordance with Article 182(4).
 |Weighted average credit quality step of single name exposure i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Risk factor g i|12 %|12 %|21 %|27 %|73 %|73 %|73 %|
-
-
 --- Page 122 ---
-
-L 12/122 EN Official Journal of the European Union 17.1.2015
 
 2. Single name exposures to an insurance or reinsurance undertaking for which a credit assessment by a nominated
 ECAI is not available and where the undertaking meets its Minimum Capital Requirement, shall be assigned a risk factor
@@ -8956,7 +8467,7 @@ shall be assigned a risk factor *g* *i* of 64,5 %.
 6. Single name exposures other than those identified in paragraphs 1 to 5 shall be assigned a risk factor *g* *i* for market
 risk concentration of 73 %.
 
-*Article 187*
+##### Article 187
 
 **Specific exposures**
 
@@ -8979,11 +8490,7 @@ central government and central bank;
 (c) multilateral development banks referred to in Article 117(2) of Regulation (EU) No 575/2013;
 
 (d) international organisations referred to in Article 118 of Regulation (EU) No 575/2013.
-
-
 --- Page 123 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/123
 
 Exposures that are fully, unconditionally and irrevocably guaranteed by one of the counterparties mentioned in
 points (a) to (d), where the guarantee meets the requirements set out in Article 215, shall also be assigned a risk factor *g* *i*
@@ -9009,11 +8516,11 @@ provided they meet all of the following requirements:
 
 (c) there is no double counting of such guarantee in the calculation of the Solvency Capital Requirement.
 
-Subsection 7
+#### Subsection 7
 
 **Currency risk sub-module**
 
-*Article 188*
+##### Article 188
 
 1. The capital requirement for currency risk referred to in point (e) of the second subparagraph of Article 105(5) of
 Directive 2009/138/EC shall be equal to the sum of the capital requirements for currency risk for each foreign currency.
@@ -9048,11 +8555,7 @@ be adjusted in accordance with the implementing act adopted pursuant to point (d
 (a) the pegging arrangement shall ensure that the relative changes in the exchange rate over a one-year period do not
 exceed the relative adjustments to the 25 % factor, in the event of extreme market events, that correspond to the
 confidence level set out in Article 101(3) of Directive 2009/138/EC;
-
-
 --- Page 124 ---
-
-L 12/124 EN Official Journal of the European Union 17.1.2015
 
 (b) one of the following criteria is complied with:
 
@@ -9079,15 +8582,15 @@ capital requirement for currency risk on a given currency shall be the capital r
 of paragraph 2 for which the underlying scenario results in the largest corresponding capital requirement calculated in
 accordance with Article 206(2).
 
-*SECTION 6*
+### Section 6
 
 ***Counterparty default risk module***
 
-Subsection 1
+#### Subsection 1
 
 **General provisions**
 
-*Article 189*
+##### Article 189
 
 **Scope**
 
@@ -9125,11 +8628,7 @@ letters of comfort which the undertaking has provided.
 
 ( [1] ) Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings,
 OJ L 374, 31.12.1991, p. 7.
-
-
 --- Page 125 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/125
 
 3. Type 2 exposures shall consist of all credit exposures which are not covered in the spread risk sub-module and
 which are not type 1 exposures, including the following:
@@ -9169,7 +8668,7 @@ and 28 of Annex I of this Regulation;
 insurance or reinsurance undertaking would be liable should the third party default shall be treated as derivatives in the
 counterparty default risk module.
 
-*Article 190*
+##### Article 190
 
 **Single name exposures**
 
@@ -9185,7 +8684,7 @@ with Article 193 if it is a pool exposure of type A, in accordance with Article 
 in accordance with Article 195 if it is a pool exposure of type C. Alternatively exposures to the undertakings which
 belong to the same pooling arrangement shall be treated as a single name exposure.
 
-*Article 191*
+##### Article 191
 
 **Mortgage loans**
 
@@ -9193,11 +8692,7 @@ belong to the same pooling arrangement shall be treated as a single name exposur
 under the counterparty default risk provided the requirements in paragraphs 2 to 13 are met.
 
 2. The exposure shall be either to a natural person or persons or to a small or medium sized enterprise.
-
-
 --- Page 126 ---
-
-L 12/126 EN Official Journal of the European Union 17.1.2015
 
 3. The exposure shall be one of a significant number of exposures with similar characteristics such that the risks
 associated with such lending are substantially reduced.
@@ -9264,13 +8759,9 @@ of paragraph 13, together with historical data, where available. A supervisory a
 another supervisory authority in a Member State, the EBA or the EIOPA provide to that supervisory authority, the EBA
 or the EIOPA more detailed information on the condition of the residential immovable property markets in that
 Member State.
-
-
 --- Page 127 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/127
-
-*Article 192*
+##### Article 192
 
 **Loss-given-default**
 
@@ -9341,13 +8832,9 @@ be equal to the difference between its nominal value and its value in accordance
 with a ceding undertaking, of an item listed in Article 189(2)(d) or Article 189(3)(e) of this Regulation, or of a receivable
 from an intermediary or policyholder debtor, as well as any other exposure not listed elsewhere in this Article shall be
 equal to its value in accordance with Article 75 of Directive 2009/138/EC.
-
-
 --- Page 128 ---
 
-L 12/128 EN Official Journal of the European Union 17.1.2015
-
-*Article 193*
+##### Article 193
 
 **Loss-given-default for pool exposures of type A**
 
@@ -9416,7 +8903,7 @@ deemed equivalent pursuant to Article 172 of Directive 2009/138/EC.
 central undertaking shall be considered as part of the pooling arrangement and its share of the risk calculated
 accordingly.
 
-*Article 194*
+##### Article 194
 
 **Loss-given-default for pool exposures of type B**
 
@@ -9427,11 +8914,7 @@ arrangement, the loss-given-default shall be calculated as follows:
 *P* *U*
 *LGD* ¼ maxððð1 − *RR* *C* Þ � ~~ð~~
 ð1 − *P* *C* Þ [�] *[BE]* *[C]* [ þ][ Δ] *[RM]* *[C]* [Þ][ − ] *[F]* [ �] *[Collateral]* [Þ][; 0][Þ]
-
-
 --- Page 129 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/129
 
 where:
 
@@ -9483,7 +8966,7 @@ the underwriting risk of the undertaking;
 (f) *F* denotes the factor to take into account the economic effect of the collateral held by the counterparty member,
 calculated in accordance with Article 197.
 
-*Article 195*
+##### Article 195
 
 **Loss-given-default for pool exposures of type C**
 
@@ -9501,11 +8984,7 @@ where:
 (i) 10 % if 60 % or more of the assets of the external counterparty are subject to collateral arrangements;
 
 (ii) 50 % otherwise;
-
-
 --- Page 130 ---
-
-L 12/130 EN Official Journal of the European Union 17.1.2015
 
 (c) *BE* *CE* denotes the best estimate of the liability ceded to the external counterparty by the pooling arrangement as a
 whole;
@@ -9518,7 +8997,7 @@ the underwriting risk of the undertaking;
 (f) *F* denotes the factor to take into account the economic effect of the collateral held by the counterparty member,
 calculated in accordance with Article 197.
 
-*Article 196*
+##### Article 196
 
 **Risk-mitigating effect**
 
@@ -9530,7 +9009,7 @@ that would apply if the reinsurance arrangement, securitisation or derivative di
 
 (b) the capital requirement for underwriting or market risk of the insurance or reinsurance undertaking.
 
-*Article 197*
+##### Article 197
 
 **Risk-adjusted value of collateral**
 
@@ -9571,18 +9050,14 @@ the assets held as collateral were included in the calculation.
 
 6. For the purposes of paragraph 5, the currency risk of the assets held as collateral shall be calculated by comparing
 the currency of the assets held as collateral against the currency of the corresponding exposure.
-
-
 --- Page 131 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/131
 
 7. Where in case of insolvency of the counterparty, the determination of the insurance or reinsurance undertaking's
 proportional share of the counterparty's insolvency estate in excess of the collateral does not take into account that the
 undertaking receives the collateral, the factors *F* and *F'* referred to in Article 192(2) and (3) shall both be 100 %. In all
 other cases these factors shall be 50 % and 90 % respectively.
 
-*Article 198*
+##### Article 198
 
 **Risk-adjusted value of mortgage**
 
@@ -9607,11 +9082,11 @@ the residential property held as mortgage were included in the calculation.
 4. For the purposes of paragraph 2, the currency risk of the residential property held as mortgage shall be calculated
 by comparing the currency of the residential property against the currency of the corresponding loan.
 
-Subsection 2
+#### Subsection 2
 
 **Type 1 exposures**
 
-*Article 199*
+##### Article 199
 
 **Probability of default**
 
@@ -9642,11 +9117,7 @@ Where the solvency ratio falls in between the solvency ratios specified in the t
 default shall be linearly interpolated from the closest values of probabilities of default corresponding to the closest
 solvency ratios specified in the table above. Where the solvency ratio is lower than 75 %, the probability of default shall
 be 4,2 %. Where the solvency ratios is higher than 196 %, the probability of default shall be 0,01 %.
-
-
 --- Page 132 ---
-
-L 12/132 EN Official Journal of the European Union 17.1.2015
 
 For the purposes of this paragraph, ‘solvency ratio’ denotes the ratio of the eligible amount of own funds to cover the
 Solvency Capital Requirement and the Solvency Capital Requirement, using the latest available values.
@@ -9686,7 +9157,7 @@ probability of default of a single name exposure.
 listed in the implementing act adopted pursuant to point (a) of Article 109a(2) of Directive 2009/138/EC shall be
 treated as exposures to the central government.
 
-*Article 200*
+##### Article 200
 
 **Type 1 exposures**
 
@@ -9707,11 +9178,7 @@ where σ denotes the standard deviation of the loss distribution of type 1 expos
 
 3. Where the standard deviation of the loss distribution of type 1 exposures is higher than 20 % of the total lossesgiven-default on all type 1 exposures, the capital requirement for counterparty default risk on type 1 exposures shall be
 equal to the total losses-given-default on all type 1 exposures.
-
-
 --- Page 133 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/133
 
 4. The standard deviation of the loss distribution of type 1 exposures shall be equal to the following:
 
@@ -9720,7 +9187,7 @@ ffiffiffi
 
 where *V* denotes the variance of the loss distribution of type 1 exposures.
 
-*Article 201*
+##### Article 201
 
 **Variance of the loss distribution of type 1 exposures**
 
@@ -9779,11 +9246,11 @@ where:
 
 (c) *LGD* *i* denotes the loss-given-default on the single name exposure *i* .
 
-Subsection 3
+#### Subsection 3
 
 **Type 2 exposures**
 
-*Article 202*
+##### Article 202
 
 **Type 2 exposures**
 
@@ -9808,17 +9275,13 @@ more than three months
 than three months;
 
 (c) *LGD* *i* denotes the loss-given-default on the type 2 exposure *i* .
-
-
 --- Page 134 ---
 
-L 12/134 EN Official Journal of the European Union 17.1.2015
-
-*SECTION 7*
+### Section 7
 
 ***Intangible asset module***
 
-*Article 203*
+##### Article 203
 
 The capital requirement for intangible asset risk shall be equal to the following:
 
@@ -9827,11 +9290,11 @@ The capital requirement for intangible asset risk shall be equal to the followin
 where *V* *intangibles* denotes the amount of intangible assets as recognised and valued in accordance with point 2 of
 Article 12.
 
-*SECTION 8*
+### Section 8
 
 ***Operational risk***
 
-*Article 204*
+##### Article 204
 
 1. The capital requirement for the operational risk module shall be equal to the following:
 
@@ -9889,11 +9352,7 @@ reinsurance obligations, without deducting premiums for reinsurance contracts.
 
 For the purposes of this paragraph, earned premiums shall be gross, without deduction of premiums for reinsurance
 contracts.
-
-
 --- Page 135 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/135
 
 4. The capital requirement for operational risk based on technical provisions shall be calculated as follows:
 
@@ -9911,11 +9370,11 @@ holders;
 For the purposes of this paragraph, technical provisions shall not include the risk margin, and shall be calculated
 without deduction of recoverables from reinsurance contracts and special purpose vehicles.
 
-*SECTION 9*
+### Section 9
 
 ***Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes***
 
-*Article 205*
+##### Article 205
 
 **General provisions**
 
@@ -9926,7 +9385,7 @@ provisions and deferred taxes shall be the sum of the following items:
 
 (b) the adjustment for the loss-absorbing capacity of deferred taxes.
 
-*Article 206*
+##### Article 206
 
 **Adjustment for the loss-absorbing capacity of technical provisions**
 
@@ -9954,11 +9413,7 @@ the health catastrophe risk sub-module, the market risk module and the counterpa
 the scenario-based calculation set out in points (c) and (d) shall take into account the impact of the scenario on
 future discretionary benefits included in technical provisions; this shall be done on the basis of assumptions on
 future management actions that comply with Article 23;
-
-
 --- Page 136 ---
-
-L 12/136 EN Official Journal of the European Union 17.1.2015
 
 (c) instead of the capital requirement for counterparty default risk on type 1 exposures referred to in Article 189(1), the
 calculation shall be based on the capital requirement that is equal to the loss in basic own funds that would result
@@ -9974,7 +9429,7 @@ instantaneous loss is due to the risk that the capital requirement referred to i
 3. For the purposes of point (b) of paragraph 2, insurance and reinsurance undertakings shall take into account any
 legal, regulatory or contractual restrictions in the distribution of future discretionary benefits.
 
-*Article 207*
+##### Article 207
 
 **Adjustment for the loss-absorbing capacity of deferred taxes**
 
@@ -10009,11 +9464,11 @@ where the adjustment to the loss-absorbing capacity of technical provisions and 
 of the model, the allocation shall be consistent with the contribution of the modules and sub-modules of the standard
 formula which are outside of the scope of the model to the Basic Solvency Capital Requirement.
 
-*SECTION 10*
+### Section 10
 
 ***Risk mitigation techniques***
 
-*Article 208*
+##### Article 208
 
 **Methods and Assumptions**
 
@@ -10022,11 +9477,7 @@ purpose vehicles that meet the requirements set out in Articles 209, 211 and 213
 provide for protection in several of the scenario-based calculations set out in Title I, Chapter V, Sections 2, 3 and 4, the
 risk-mitigating effects of these contractual arrangements shall be allocated to the scenario-based calculations in a manner
 that, without double-counting, captures the economic effect of the protections provided. In particular, the economic
-
-
 --- Page 137 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/137
 
 effect of the protections provided shall be captured in determining the loss in basic own funds in the scenario-based
 calculations.
@@ -10040,7 +9491,7 @@ transfer is comparable to that of finite reinsurance, shall not be taken into ac
 volume measures for premium and reserve risk in accordance with in Articles 116 and 147 of this Regulation, or for
 the purposes of calculating undertaking-specific parameters in accordance with Section 13 of this Chapter.
 
-*Article 209*
+##### Article 209
 
 **Qualitative Criteria**
 
@@ -10089,11 +9540,7 @@ the insurance or reinsurance undertaking and consistent with its current busines
 
 (e) the risk that the risk-mitigation technique cannot be replaced due to an absence of liquidity in the market is not
 material;
-
-
 --- Page 138 ---
-
-L 12/138 EN Official Journal of the European Union 17.1.2015
 
 (f) the risk that the cost of replacing the risk-mitigation technique increases during the following 12 months is reflected
 in the Solvency Capital Requirement;
@@ -10101,7 +9548,7 @@ in the Solvency Capital Requirement;
 (g) the replacement of the risk-mitigation technique would not be contrary to requirements that apply to future
 management actions set out in Article 23(5).
 
-*Article 210*
+##### Article 210
 
 **Effective Transfer of Risk**
 
@@ -10123,7 +9570,7 @@ risk, the fulfilment of which is outside the direct control of the insurance or 
 
 (b) whether there are any connected transactions which could undermine the effective transfer of risk.
 
-*Article 211*
+##### Article 211
 
 **Risk-Mitigation techniques using reinsurance contracts or special purpose vehicles**
 
@@ -10155,11 +9602,7 @@ technique shall be reduced by the percentage by which the Solvency Capital Requi
 4. Where risk is transferred to a special purpose vehicle the requirements referred to in Article 211(2) of Directive
 2009/138/EC shall be met for the risk-mitigation technique to be taken into account in the Basic Solvency Capital
 Requirement; where the requirements for a special purpose vehicle to be fully-funded cease to be fully met after the
-
-
 --- Page 139 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/139
 
 arrangement has been entered into, the protection offered by the insurance risk-mitigation technique may be partially
 recognised, provided that the insurance or reinsurance undertaking can demonstrate that compliance with the fullyfunded requirement will be restored within three months; for this purpose, the effect of the risk-mitigation technique
@@ -10176,7 +9619,7 @@ special purpose vehicle.
 risk-mitigation technique shall only be taken into account in the Basic Solvency Capital Requirement where requirements
 equivalent to those set out in Article 211(2) of Directive 2009/138/EC are met by the special purpose vehicle.
 
-*Article 212*
+##### Article 212
 
 **Financial Risk-Mitigation techniques**
 
@@ -10200,7 +9643,7 @@ Title.
 technique shall have a credit quality which has been assigned to credit quality step 3 or better in accordance with
 Section 2, Chapter I of this Title.
 
-*Article 213*
+##### Article 213
 
 **Status of the counterparties**
 
@@ -10219,13 +9662,9 @@ Article 212(3) and (4).
 2. For the purposes of point (a) of paragraph 1 of this Article, where the value, in accordance with Article 75 of
 Directive 2009/138/EC of the collateral is less than the total risk exposure, the collateral arrangement shall only be
 taken into account to the extent that the collateral covers the risk exposure.
-
-
 --- Page 140 ---
 
-L 12/140 EN Official Journal of the European Union 17.1.2015
-
-*Article 214*
+##### Article 214
 
 **Collateral Arrangements**
 
@@ -10267,7 +9706,7 @@ other credit event relating to the custodian or other third party holding the co
 (e) the segregated assets shall not be used to pay, or to provide collateral in favour of, any person other than the
 insurance or reinsurance undertaking or as directed by the insurance or reinsurance undertaking.
 
-*Article 215*
+##### Article 215
 
 **Guarantees**
 
@@ -10291,11 +9730,7 @@ exposure;
 original obligor fails to make any payments due;
 
 (iv) could allow the maturity of the credit protection to be reduced by the protection provider;
-
-
 --- Page 141 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/141
 
 (d) on the default, insolvency or bankruptcy or other credit event of the counterparty, the insurance or reinsurance
 undertaking has the right to pursue, in a timely manner, the guarantor for any monies due under the claim in
@@ -10306,11 +9741,11 @@ or reinsurance undertaking first having to pursue the obligor;
 
 (f) the guarantee fully covers all types of regular payments the obligor is expected to make in respect of the claim.
 
-*SECTION 11*
+### Section 11
 
 ***Ring fenced funds***
 
-*Article 216*
+##### Article 216
 
 **Calculation of the Solvency Capital Requirement in the case of ring-fenced funds and matching adjustment**
 **portfolios**
@@ -10326,7 +9761,7 @@ provisions set out in Article 304 of Directive 2009/138/EC to a ring-fenced fund
 accordance with Article 217 of this Regulation, but base the calculation of the assumption of full diversification
 between the assets and liabilities of the ring-fenced funds and the rest of the undertaking.
 
-*Article 217*
+##### Article 217
 
 **Solvency Capital Requirement calculation method for ring-fenced funds and matching adjustment portfolios**
 
@@ -10360,11 +9795,7 @@ ring-fenced fund, the estimated change in those basic own funds for the calculat
 Requirement, as referred to in Article 206(2), shall be adjusted to reflect the reduction in future discretionary
 benefits payable to policy holders or beneficiaries of that ring-fenced fund; the adjustment shall not exceed the
 amount of future discretionary benefits within the ring-fenced fund.
-
-
 --- Page 142 ---
-
-L 12/142 EN Official Journal of the European Union 17.1.2015
 
 6. Notwithstanding paragraph 1, the notional Solvency Capital Requirement for each ring-fenced fund and each
 matching adjustment portfolio shall be calculated using the scenario-based calculations under which basic own funds for
@@ -10385,11 +9816,11 @@ Capital Requirement.
 ring-fenced funds and each matching adjustment portfolio and the remaining part of the insurance or reinsurance
 undertaking.
 
-*SECTION 12*
+### Section 12
 
 ***Undertaking-specific parameters***
 
-*Article 218*
+##### Article 218
 
 **Subset of standard parameters that may be replaced by undertaking-specific parameters**
 
@@ -10427,11 +9858,7 @@ this Regulation, provided that the annuities falling under that sub-module are n
 
 Insurance and reinsurance undertakings shall not replace both the standard parameters referred to in point (a)(ii) and (iii)
 of the same segment or both the standard parameters referred to in point (c)(ii) and (iii) of the same segment.
-
-
 --- Page 143 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/143
 
 2. An excess of loss reinsurance contract for a segment shall be considered recognisable provided it meets the
 following conditions:
@@ -10460,7 +9887,7 @@ contract.
 ignoring it in the calculation of the capital requirement for revision risk could influence the decision-making or the
 judgement of the users of that information, including the supervisory authorities.
 
-*Article 219*
+##### Article 219
 
 **Data criteria**
 
@@ -10502,11 +9929,7 @@ uses the data to calculate undertaking-specific parameters on its basis;
 
 (b) where the data stem from different sources, the assumptions made in the collection, processing and application of
 data ensure that the data are comparable;
-
-
 --- Page 144 ---
-
-L 12/144 EN Official Journal of the European Union 17.1.2015
 
 (c) the data stem from insurance and reinsurance undertakings whose business and risk profile is similar to that of the
 insurance or reinsurance undertaking whose undertaking-specific parameter is calculated in the basis of those data;
@@ -10521,7 +9944,7 @@ whose business nature and risk profile with respect to the external data is simi
 statistical evidence that the probability distributions underlying the external data will exhibit a high degree of
 homogeneity.
 
-*Article 220*
+##### Article 220
 
 **Standardised methods to calculate the undertaking-specific parameters**
 
@@ -10548,11 +9971,11 @@ However, where an undertaking is not able to demonstrate the greater accuracy of
 method over the other standardised methods to calculate an undertaking-specific parameter, the method providing the
 most conservative result shall be used.
 
-*SECTION 13*
+### Section 13
 
 ***Procedure for updating correlation parameters***
 
-*Article 221*
+##### Article 221
 
 1. Supervisory authorities shall collect the quantitative undertaking-specific data necessary for determining
 dependencies between risks referred to in Article 309(8) and shall provide them on an annual basis to EIOPA for the
@@ -10561,32 +9984,28 @@ purposes of updating correlation parameters.
 2. EIOPA may analyse the data referred to in paragraph 1 for the purposes of providing an opinion on the update of
 correlation parameters.
 
-CHAPTER VI
+## *CHAPTER VI*
 
 **SOLVENCY CAPITAL REQUIREMENT — FULL AND PARTIAL INTERNAL MODELS**
 
-*SECTION 1*
+### Section 1
 
 ***Definitions***
 
-*Article 222*
+##### Article 222
 
 **Materiality**
 
 For the purposes of this Chapter, a change or error in the outputs of the internal model, including the Solvency Capital
 Requirement, or in the data used in the internal model shall be considered material where it could influence the
 decision-making or the judgement of the users of that information, including the supervisory authorities.
-
-
 --- Page 145 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/145
-
-*SECTION 2*
+### Section 2
 
 ***Use test***
 
-*Article 223*
+##### Article 223
 
 **Use of the internal model**
 
@@ -10595,7 +10014,7 @@ their internal model and how they ensure consistency between the different outpu
 different purposes. Where insurance and reinsurance undertakings decide not to use the internal model for a part of the
 system of governance, particularly in the coverage of any material risks, they shall explain that decision.
 
-*Article 224*
+##### Article 224
 
 **Fit to the business**
 
@@ -10615,7 +10034,7 @@ entiate between lines of business, between risk categories and between major bus
 (d) the policy for changing the internal model provides that the internal model is to be adjusted for changes in the
 scope or nature of the activities of the undertaking.
 
-*Article 225*
+##### Article 225
 
 **Understanding of the internal model**
 
@@ -10636,7 +10055,7 @@ overall understanding of the internal model which comprises knowledge about all 
 2. The persons who effectively run the undertaking shall be able to demonstrate a sufficiently detailed understanding
 of the parts of the internal model used in the area for which they are responsible.
 
-*Article 226*
+##### Article 226
 
 **Support of decision-making and integration with risk management**
 
@@ -10648,11 +10067,7 @@ business strategy;
 
 (b) the internal model and its results are regularly discussed and reviewed in the administrative, management or
 supervisory body of the insurance or reinsurance undertaking;
-
-
 --- Page 146 ---
-
-L 12/146 EN Official Journal of the European Union 17.1.2015
 
 (c) all material quantifiable risks identified by the risk management system which are within the scope of the internal
 model are covered by the internal model;
@@ -10678,7 +10093,7 @@ Articles 101, 113, 120 to 125 of that Directive, to ensure compliance with those
 (i) the policy for changing the internal model provides that the internal model is changed, where relevant, to reflect
 changes in the risk management system.
 
-*Article 227*
+##### Article 227
 
 **Simplified calculation**
 
@@ -10698,11 +10113,11 @@ Solvency Capital Requirement would not be materially different from the results 
 4. Insurance and reinsurance undertakings shall not use a simplified calculation of the Solvency Capital Requirement
 when calculating the Solvency Capital Requirement in accordance with Article 102 of Directive 2009/138/EC.
 
-*SECTION 3*
+### Section 3
 
 ***Statistical quality standards***
 
-*Article 228*
+##### Article 228
 
 **Probability distribution forecast**
 
@@ -10716,13 +10131,9 @@ a sufficient number of events to reflect the risk profile of the undertaking.
 model at the highest level of aggregation of the components of the partial internal model. If a partial internal model
 consists of different components which are separately calculated and not aggregated within the partial internal model,
 the probability distribution forecast shall be calculated for each component.
-
-
 --- Page 147 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/147
-
-*Article 229*
+##### Article 229
 
 **Adequate, applicable and relevant actuarial techniques**
 
@@ -10751,7 +10162,7 @@ probability distribution forecast shall be adjusted to account for model and est
 
 (h) the calculation of the outputs of the internal model can be set out in a transparent manner.
 
-*Article 230*
+##### Article 230
 
 **Information and assumptions used for the calculation of the probability distribution forecast**
 
@@ -10772,7 +10183,7 @@ assumptions are not used;
 (c) insurance and reinsurance undertakings establish and maintain a written explanation of the methodology used to set
 those assumptions.
 
-*Article 231*
+##### Article 231
 
 **Data used in the internal model**
 
@@ -10784,11 +10195,7 @@ those assumptions.
 (b) data from different time periods used for the same estimation are consistent;
 
 (c) the data are recorded in a timely manner and consistently over time.
-
-
 --- Page 148 ---
-
-L 12/148 EN Official Journal of the European Union 17.1.2015
 
 2. Data used in the internal model shall only be considered complete for the purposes of Article 121(3) of Directive
 2009/138/EC where all of the following conditions are met:
@@ -10823,7 +10230,7 @@ different data sets;
 (iii) the process for carrying out data updates, including the frequency of regular updates and the circumstances that
 trigger additional updates.
 
-*Article 232*
+##### Article 232
 
 **Ability to rank risk**
 
@@ -10839,7 +10246,7 @@ consistently over time.
 4. The ranking of risks shall be consistent with the capital allocation referred to in point (b) of the first paragraph of
 Article 120 of Directive 2009/138/EC.
 
-*Article 233*
+##### Article 233
 
 **Coverage of all material risks**
 
@@ -10857,11 +10264,7 @@ model;
 
 (c) the existence of dedicated risk mitigation techniques for risks other than those that are covered by the internal
 model.
-
-
 --- Page 149 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/149
 
 3. The quantitative indicators referred to in paragraph 1 of this Article shall include the following:
 
@@ -10871,7 +10274,7 @@ model.
 
 (c) the results of stress testing and scenario analysis and any tool used in the model validation process.
 
-*Article 234*
+##### Article 234
 
 **Diversification effects**
 
@@ -10891,7 +10294,7 @@ portfolio;
 
 (c) the assumptions underlying the system used for measuring diversification effects are justified on an empirical basis.
 
-*Article 235*
+##### Article 235
 
 **Risk-mitigation techniques**
 
@@ -10919,7 +10322,7 @@ shall not be considered to properly reflect the risk arising from the risk-mitig
 Article 121(6) of Directive 2009/138/EC unless it takes into account the effects of those conditions and any reduced
 effectiveness of that risk-mitigation technique.
 
-*Article 236*
+##### Article 236
 
 **Future management actions**
 
@@ -10928,11 +10331,7 @@ of Article 121(8) of Directive 2009/138/EC where all of the following conditions
 
 (a) the assumptions on future management actions used in the calculations for the internal model are determined in an
 objective manner;
-
-
 --- Page 150 ---
-
-L 12/150 EN Official Journal of the European Union 17.1.2015
 
 (b) assumed future management actions are realistic and consistent with the insurance or reinsurance undertaking's
 current business practice and business strategy, including the use of risk-mitigation techniques and, where there is
@@ -10986,7 +10385,7 @@ internal model.
 4. Assumptions on future management actions shall take account of the time needed to implement the management
 actions and any expenses caused by them.
 
-*Article 237*
+##### Article 237
 
 **Understanding of external models and data**
 
@@ -10998,17 +10397,13 @@ including their limitations.
 Data used in the internal model obtained from a third party shall not be considered to be appropriate unless the
 insurance or reinsurance undertaking is able to demonstrate a detailed understanding of those data, including their
 limitations.
-
-
 --- Page 151 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/151
-
-*SECTION 4*
+### Section 4
 
 ***Calibration standards***
 
-*Article 238*
+##### Article 238
 
 1. The option referred to in Article 122 of Directive 2009/138/EC to use a different time period or risk measure than
 that set out in Article 101(3) of that Directive shall apply both to the internal model as a whole and to different risk
@@ -11047,11 +10442,11 @@ significantly.
 4. The approximations referred to in Article 122(3) of Directive 2009/138/EC shall be considered to be part of the
 internal model.
 
-*SECTION 5*
+### Section 5
 
 ***Integration of partial internal models***
 
-*Article 239*
+##### Article 239
 
 1. In order to fully integrate a partial internal model into the Solvency Capital Requirement standard formula,
 insurance and reinsurance undertakings shall use as a default integration technique the correlation matrices and
@@ -11072,11 +10467,7 @@ reinsurance undertaking shall demonstrate the appropriateness of the integration
 4. The alternative integration technique used shall result in a Solvency Capital Requirement that complies with the
 principles set out in Title I, Chapter VI, Section 4, subsections 1 and 3 of Directive 2009/138/EC and which more
 appropriately reflects the risk profile of the insurance or reinsurance undertaking.
-
-
 --- Page 152 ---
-
-L 12/152 EN Official Journal of the European Union 17.1.2015
 
 5. An integration technique shall not be appropriate where any of the following conditions is met:
 
@@ -11088,11 +10479,11 @@ reinsurance undertaking;
 (c) the design of the partial internal model is consistent with the principles set out in Articles 101 and 102 of Directive
 2009/138/EC but would not allow its integration into the solvency capital requirement standard formula.
 
-*SECTION 6*
+### Section 6
 
 ***Profit and loss attribution***
 
-*Article 240*
+##### Article 240
 
 1. For the purpose of profit and loss attribution in accordance with Article 123 of Directive 2009/138/EC, insurance
 and reinsurance undertakings shall specify all of the following:
@@ -11116,11 +10507,11 @@ model.
 4. The attribution of profit and loss shall be made in an objective and transparent manner and be consistent over
 time.
 
-*SECTION 7*
+### Section 7
 
 ***Validation standards***
 
-*Article 241*
+##### Article 241
 
 **Model validation process**
 
@@ -11140,11 +10531,7 @@ following:
 
 (b) for each part of the internal model, the frequency of regular validations and the circumstances which trigger
 additional validation;
-
-
 --- Page 153 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/153
 
 (c) the persons who are responsible for each validation task;
 
@@ -11163,7 +10550,7 @@ process,
 employees or other persons acting on their behalf, who are involved in the process and any other mandates of these
 persons relating to the insurance or reinsurance undertaking.
 
-*Article 242*
+##### Article 242
 
 **Validation tools**
 
@@ -11200,11 +10587,11 @@ insurance and reinsurance undertakings shall compare the coverage and the scope 
 purpose, the statistical process for validating the internal model shall include a reverse stress test, identifying the most
 probable stresses that would threaten the viability of the insurance or reinsurance undertaking.
 
-*SECTION 8*
+### Section 8
 
 ***Documentation standards***
 
-*Article 243*
+##### Article 243
 
 **General provisions**
 
@@ -11212,11 +10599,7 @@ probable stresses that would threaten the viability of the insurance or reinsura
 Directive 2009/138/EC shall be sufficient to ensure that any independent knowledgeable third party would be able to
 understand the design and operational details of the internal model and form a sound judgement as to its compliance
 with Article 101 and Articles 120 to 124 of Directive.
-
-
 --- Page 154 ---
-
-L 12/154 EN Official Journal of the European Union 17.1.2015
 
 2. In the case of a partial internal model, the documentation referred to in paragraph 1 of this Article shall
 additionally cover compliance with Article 113 of Directive 2009/138/EC, in particular in relation to the justification of
@@ -11227,7 +10610,7 @@ standard formula.
 shall be kept up to date. Outputs of the internal model shall be capable of being reproduced using the internal model
 documentation and all of the inputs into the internal model.
 
-*Article 244*
+##### Article 244
 
 **Minimum content of the documentation**
 
@@ -11286,13 +10669,9 @@ Article 236 and a description of the relevant deviations referred to in Article 
 
 (iii) the alternatives to the use of external models and data considered by the insurance or reinsurance undertaking
 and an explanation of the decision in favour of a particular external model or a set of external data.
-
-
 --- Page 155 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/155
-
-*Article 245*
+##### Article 245
 
 **Circumstances under which the internal model does not work effectively**
 
@@ -11314,7 +10693,7 @@ sensitivity of the results for the key assumptions underlying the internal model
 
 (g) the limitations of internal model governance.
 
-*Article 246*
+##### Article 246
 
 **Changes to the internal model**
 
@@ -11329,21 +10708,21 @@ including all of the following:
 model, a quantitative and qualitative comparison of the outputs before and after the change relating to the same
 valuation date.
 
-*SECTION 9*
+### Section 9
 
 ***External models and data***
 
-*Article 247*
+##### Article 247
 
 Insurance and reinsurance undertakings shall monitor any potential limitations arising from the use of external models
 or external data in the internal model to the ongoing fulfilment of the requirements set out in Articles 101 and
 Articles 120 to 125 of Directive 2009/138/EC, and also in Article 113 of that Directive for partial internal models.
 
-CHAPTER VII
+## *CHAPTER VII*
 
 **MINIMUM CAPITAL REQUIREMENT**
 
-*Article 248*
+##### Article 248
 
 **Minimum Capital Requirement**
 
@@ -11361,11 +10740,7 @@ this Regulation.
 2. The combined Minimum Capital Requirement shall be equal to the following:
 
 *MCR* *combined* ¼ minðmaxð *MCR* *linear* ; 0,25 � *SCR* Þ; 0,45 � *SCR* Þ
-
-
 --- Page 156 ---
-
-L 12/156 EN Official Journal of the European Union 17.1.2015
 
 where:
 
@@ -11374,7 +10749,7 @@ where:
 (b) *SCR* denotes the Solvency Capital Requirement, calculated in accordance with Chapter V or in accordance with
 Chapter VI where approval for the use of full or partial internal model has been granted.
 
-*Article 249*
+##### Article 249
 
 **Linear Minimum Capital Requirement**
 
@@ -11388,7 +10763,7 @@ where:
 
 (b) *MCR(linear,l)* denotes the linear formula component for life insurance and reinsurance obligations.
 
-*Article 250*
+##### Article 250
 
 **Linear formula component for non-life insurance and reinsurance obligations**
 
@@ -11431,18 +10806,14 @@ point (c) of paragraph (1), the following premiums for reinsurance contracts sha
 
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213 or with Article 235.
 
-*Article 251*
+##### Article 251
 
 **Linear formula component for life insurance and reinsurance obligations**
 
 1. The linear formula component for life insurance and reinsurance obligations shall be equal to the following:
 
 *MCR* *linear,l* ¼ 0,037 � *TP* ð *life*,1Þ − 0,052 � *TP* ð *life*,2Þ þ 0,007 � *TP* ð *life*,3Þ þ 0,021 � *TP* ð *life*,4Þ þ 0,0007 � *CAR*
-
-
 --- Page 157 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/157
 
 where:
 
@@ -11489,7 +10860,7 @@ accordance with Article 41(3) and (5);
 (b) amounts recoverable from reinsurance contracts or special purpose vehicles that do not comply with Articles 209
 to 215 or Article 235.
 
-*Article 252*
+##### Article 252
 
 **Minimum Capital Requirement: composite insurance undertakings**
 
@@ -11510,11 +10881,7 @@ this Regulation.
 3. The notional combined non-life Minimum Capital Requirement shall be equal to the following:
 
 *NMCR* ð *combined,nl* Þ ¼ minðmaxð *NMCR* ð *linear,nl* Þ ; 0,25 �ð *NSCR* *nl* þ *Addon* *nl* ÞÞ; 0,45 �ð *NSCR* *nl* þ *Addon* *nl* ÞÞ
-
-
 --- Page 158 ---
-
-L 12/158 EN Official Journal of the European Union 17.1.2015
 
 where:
 
@@ -11591,11 +10958,7 @@ where:
 (c) *Addon* *l* denotes the part of the capital add-ons, set by the supervisory authority in accordance with Article 37 of
 Directive 2009/138/EC, which has been apportioned by that supervisory authority to the life insurance or
 reinsurance activity of the insurance or reinsurance undertaking.
-
-
 --- Page 159 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/159
 
 9. The notional linear Minimum Capital Requirement for life insurance or reinsurance activity shall be equal to the
 following:
@@ -11639,7 +11002,7 @@ activity;
 
 (c) *NMCR* *(linear,l)* denotes the notional linear Minimum Capital Requirement for life insurance or reinsurance activity.
 
-*Article 253*
+##### Article 253
 
 **Absolute floor of the Minimum Capital Requirement**
 
@@ -11656,11 +11019,11 @@ Directive.
 of the undertaking as a whole, the absolute floor of the Minimum Capital Requirement shall be equal to the amount set
 out in point (ii) of Article 129(1) (d) of that Directive.
 
-CHAPTER VIII
+## *CHAPTER VIII*
 
 **INVESTMENTS IN SECURITISATION POSITIONS**
 
-*Article 254*
+##### Article 254
 
 **Risk retention requirements relating to the originators, sponsors or original lenders**
 
@@ -11668,11 +11031,7 @@ CHAPTER VIII
 retain, on an ongoing basis a material net economic interest which in any event shall not be less than 5 %, as specified
 in paragraph 2 of this Article, and shall explicitly disclose that commitment to the insurance or reinsurance undertaking
 in the documentation governing the investment.
-
-
 --- Page 160 ---
-
-L 12/160 EN Official Journal of the European Union 17.1.2015
 
 2. Only the following retentions shall qualify as retentions of a material net economic interest of not less than 5 %:
 
@@ -11732,13 +11091,9 @@ sponsors on the basis of objective criteria including the fee structures, the in
 management of the programme or securitisation scheme and exposure to credit risk of the securitisations;
 
 (b) by each sponsor proportionately in relation to the number of sponsors.
-
-
 --- Page 161 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/161
-
-*Article 255*
+##### Article 255
 
 **Exemptions to risk retention requirements**
 
@@ -11750,7 +11105,7 @@ the guarantee meets the requirements set out in Article 215.
 underlying assets of that index are identical to those of an index that is widely traded, or are other tradable securities
 other than securitisation positions.
 
-*Article 256*
+##### Article 256
 
 **Qualitative requirements relating to insurance and reinsurance undertakings**
 
@@ -11797,18 +11152,14 @@ sation positions and that the risks from those investments are adequately manage
 6. Insurance and reinsurance undertakings investing in securitisation shall regularly perform stress tests on the cash
 flows and collateral values supporting the underlying exposures. Any stress test shall be commensurate with the nature,
 scale and complexity of the risk inherent in the securitisation position.
-
-
 --- Page 162 ---
-
-L 12/162 EN Official Journal of the European Union 17.1.2015
 
 7. Insurance and reinsurance undertakings investing in securitisation shall be able to demonstrate to their supervisory
 authorities that for each of those investments they have a comprehensive and thorough understanding of the investment
 and its underlying exposures and that they have implemented written policies and procedures for their risk
 management.
 
-*Article 257*
+##### Article 257
 
 **Requirements for investments in securitisation that no longer comply with the risk-retention and qualitative**
 **requirements**
@@ -11835,15 +11186,15 @@ of this Regulation, by reason of their negligence or omission, the supervisory a
 failure should be considered a significant deviation from the undertaking's system of governance as referred to in
 Article 37(1)(c) of Directive 2009/138/EC.
 
-CHAPTER IX
+## *CHAPTER IX*
 
 **SYSTEM OF GOVERNANCE**
 
-*SECTION 1*
+### Section 1
 
 ***Elements of the system of governance***
 
-*Article 258*
+##### Article 258
 
 **General governance requirements**
 
@@ -11867,11 +11218,7 @@ qualifications, competency, skills and professional experience to perform the ta
 them properly;
 
 (f) ensure that all personnel are aware of the procedures for the proper carrying out of their responsibilities;
-
-
 --- Page 163 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/163
 
 (g) ensure that the assignment of multiple tasks to individuals and organisational units does not or is not likely to
 prevent the persons concerned from carrying out any particular function in a sound, honest and objective manner;
@@ -11908,7 +11255,7 @@ conflicts of interest could arise and how such conflicts are to be addressed.
 6. Insurance and reinsurance undertakings shall monitor, and on a regular basis evaluate, the adequacy and
 effectiveness of their system of governance and take appropriate measures to address any deficiencies.
 
-*Article 259*
+##### Article 259
 
 **Risk Management System**
 
@@ -11936,11 +11283,7 @@ making process.
 
 3. Insurance and reinsurance undertakings shall, where appropriate, include the performance of stress tests and
 scenario analysis with regard to all relevant risks faced by the undertaking, in their risk-management system.
-
-
 --- Page 164 ---
-
-L 12/164 EN Official Journal of the European Union 17.1.2015
 
 4. In addition to the requirements set out in Article 44(4a) of Directive 2009/138/EC for the purposes of the
 calculation of technical provisions and the Solvency Capital Requirement, internal risk management methodologies shall
@@ -11949,7 +11292,7 @@ Solvency Capital Requirement is based on external credit assessments by an ECAI 
 is unrated, that shall not exempt insurance and reinsurance undertakings from additionally considering other relevant
 information.
 
-*Article 260*
+##### Article 260
 
 **Risk management areas**
 
@@ -12010,11 +11353,7 @@ term liquidity risk;
 meet the undertaking's obligations as they fall due;
 
 (iii) a plan to deal with changes in expected cash in-flows and out-flows.
-
-
 --- Page 165 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/165
 
 (e) Concentration risk management: actions to be taken by the insurance or reinsurance undertaking to identify relevant
 sources of concentration risk to ensure that risk concentrations remain within established limits and actions to
@@ -12046,7 +11385,7 @@ reinsurance obligations are also homogeneous in relation to the expected profit 
 
 4. Loss-making policies may only be offset against profit-making policies within a homogeneous risk group.
 
-*Article 261*
+##### Article 261
 
 **Risk management in undertakings providing loans and/or mortgage insurance or reinsurance**
 
@@ -12069,7 +11408,7 @@ the undertaking.
 underwriting on sound and well-defined criteria and comply with the requirements set out in points (b), (c) and (d) of
 paragraph 1 with regard to the mortgage loans underlying their insurance and reinsurance obligations.
 
-*Article 262*
+##### Article 262
 
 **Overall solvency needs**
 
@@ -12081,11 +11420,7 @@ the undertaking's business strategy or the economic and financial environment, i
 
 (b) the nature and quality of own fund items or other resources appropriate to cover the risks identified in point (a) of
 this paragraph.
-
-
 --- Page 166 ---
-
-L 12/166 EN Official Journal of the European Union 17.1.2015
 
 2. The elements referred to paragraph 1 shall take the following into account:
 
@@ -12095,7 +11430,7 @@ L 12/166 EN Official Journal of the European Union 17.1.2015
 
 (c) the undertaking's internal control and risk-management systems and approved risk tolerance limits.
 
-*Article 263*
+##### Article 263
 
 **Alternative methods for valuation**
 
@@ -12113,7 +11448,7 @@ shall:
 (e) regularly compare the adequacy of the valuation of the assets and liabilities referred to in point (a) against
 experience.
 
-*Article 264*
+##### Article 264
 
 **Valuation of technical provisions — validation**
 
@@ -12154,13 +11489,9 @@ carried out separately for technical provisions where the matching adjustment re
 2009/138/EC is applied. In relation to the best estimate, it shall be carried out separately for the gross best estimate and
 amounts recoverable from reinsurance contracts and special purpose vehicles. In relation to non-life insurance
 obligations, it shall be carried out separately for premium provisions and provisions for claims outstanding.
-
-
 --- Page 167 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/167
-
-*Article 265*
+##### Article 265
 
 **Valuation of technical provisions — documentation**
 
@@ -12207,7 +11538,7 @@ material changes;
 
 (h) the relevant deviations referred to in Article 23(2).
 
-*Article 266*
+##### Article 266
 
 **Internal control system**
 
@@ -12215,7 +11546,7 @@ The internal control system shall ensure the insurance and reinsurance undertaki
 regulations and administrative provisions and the effectiveness and the efficiency of the undertaking's operations in light
 of its objectives as well as ensure the availability and reliability of financial and non-financial information.
 
-*Article 267*
+##### Article 267
 
 **Internal control of valuation of assets and liabilities**
 
@@ -12227,11 +11558,7 @@ reliable.
 2. Insurance and reinsurance undertakings shall establish, implement, maintain and document clearly defined policies
 and procedures for the process of valuation, including the description and definition of roles and responsibilities of the
 personnel involved with the valuation, the relevant models, and the sources of information to be used.
-
-
 --- Page 168 ---
-
-L 12/168 EN Official Journal of the European Union 17.1.2015
 
 3. At the request of the supervisory authorities, insurance and reinsurance undertakings shall undertake an external,
 independent valuation or verification of the value of material assets and liabilities.
@@ -12251,11 +11578,11 @@ of the items referred to in point (a) of Article 263;
 valuations and the process in place to take account of any external, independent valuation or verification of the
 value of material assets or liabilities.
 
-*SECTION 2*
+### Section 2
 
 ***Functions***
 
-*Article 268*
+##### Article 268
 
 **Specific provisions**
 
@@ -12272,7 +11599,7 @@ necessary to carry out their responsibilities.
 3. The persons performing a function shall promptly report any major problem in their area of responsibility to the
 administrative, management or supervisory body.
 
-*Article 269*
+##### Article 269
 
 **Risk management function**
 
@@ -12298,13 +11625,9 @@ and major projects and investments;
 (b) liaise closely with the users of the outputs of the internal model;
 
 (c) co-operate closely with the actuarial function.
-
-
 --- Page 169 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/169
-
-*Article 270*
+##### Article 270
 
 **Compliance function**
 
@@ -12317,7 +11640,7 @@ compliance risk.
 2. The duties of the compliance function shall include assessing the adequacy of the measures adopted by the
 insurance or reinsurance undertaking to prevent non-compliance.
 
-*Article 271*
+##### Article 271
 
 **Internal audit function**
 
@@ -12354,7 +11677,7 @@ of those recommendations referred to in point (d).
 
 Where necessary, the internal audit function may carry out audits which are not included in the audit plan.
 
-*Article 272*
+##### Article 272
 
 **Actuarial function**
 
@@ -12367,11 +11690,7 @@ calculation is consistent with the requirements set out in Articles 75 to 86 of 
 (b) assess the uncertainty associated with the estimates made in the calculation of technical provisions;
 
 (c) ensure that any limitations of data used to calculate technical provisions are properly dealt with;
-
-
 --- Page 170 ---
-
-L 12/170 EN Official Journal of the European Union 17.1.2015
 
 (d) ensure that the most appropriate approximations for the purposes of calculating the best estimate are used in cases
 referred to in Article 82 of Directive 2009/138/EC;
@@ -12436,17 +11755,13 @@ accordance with Article 48(1)(h) of Directive 2009/138/EC shall include analysis
 supervisory body, at least annually. The report shall document all tasks that have been undertaken by the actuarial
 function and their results, and shall clearly identify any deficiencies and give recommendations as to how such
 deficiencies should be remedied.
-
-
 --- Page 171 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/171
-
-*SECTION 3*
+### Section 3
 
 ***Fit and proper requirements***
 
-*Article 273*
+##### Article 273
 
 1. Insurance and reinsurance undertakings shall establish, implement and maintain documented policies and adequate
 procedures to ensure that all persons who effectively run the undertaking or have other key functions are at all times fit
@@ -12465,11 +11780,11 @@ knowledge and relevant experience to ensure that the undertaking is managed and 
 soundness based on evidence regarding their character, personal behaviour and business conduct including any criminal,
 financial and supervisory aspects relevant for the purposes of the assessment.
 
-*SECTION 4*
+### Section 4
 
 ***Outsourcing***
 
-*Article 274*
+##### Article 274
 
 1. Any insurance or reinsurance undertaking which outsources or proposes to outsource functions or insurance or
 reinsurance activities to a service provider shall establish a written outsourcing policy which takes into account the
@@ -12503,11 +11818,7 @@ trative, management or supervisory body and authorised by them;
 (f) the service provider is subject to the same provisions on the safety and confidentiality of information relating to the
 insurance or reinsurance undertaking or to its policyholders or beneficiaries that are applicable to the insurance or
 reinsurance undertaking.
-
-
 --- Page 172 ---
-
-L 12/172 EN Official Journal of the European Union 17.1.2015
 
 4. The written agreement referred to in paragraph 3 (c) to be concluded between the insurance or reinsurance
 undertaking and the service provider shall in particular clearly state all of the following requirements:
@@ -12568,17 +11879,13 @@ activities are sufficiently qualified and reliable;
 (d) ensure that the service provider has adequate contingency plans in place to deal with emergency situations or
 business disruptions and periodically tests backup facilities where necessary, taking into account the outsourced
 functions and activities.
-
-
 --- Page 173 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/173
-
-*SECTION 5*
+### Section 5
 
 ***Renumeration policy***
 
-*Article 275*
+##### Article 275
 
 1. When establishing and applying the remuneration policy referred to in Article 258(1) (l), insurance and
 reinsurance undertakings shall comply with all of the following principles:
@@ -12643,21 +11950,17 @@ independent from the performance of the operational units and areas that are sub
 
 3. The remuneration policy shall be design in such a way as to take into account the internal organization of the
 insurance or reinsurance undertaking, and the nature, scale and complexity of the risks inherent in its business.
-
-
 --- Page 174 ---
 
-L 12/174 EN Official Journal of the European Union 17.1.2015
-
-CHAPTER X
+## *CHAPTER X*
 
 **CAPITAL ADD-ON**
 
-*SECTION 1*
+### Section 1
 
 ***Circumstances for imposing a capital add-on***
 
-*Article 276*
+##### Article 276
 
 **Assessment of a significant deviation as regards the SCR**
 
@@ -12674,7 +11977,7 @@ account all relevant factors including all of the following:
 
 (d) the anticipated duration and volatility of the deviation over the duration of the deviation.
 
-*Article 277*
+##### Article 277
 
 **Assessment of a significant deviation as regards the governance**
 
@@ -12696,7 +11999,7 @@ complexity of the risks inherent in the business of the undertaking;
 
 (e) the anticipated duration of the deviation.
 
-*Article 278*
+##### Article 278
 
 **Assessment of a significant deviation as regards adjustments to the relevant risk-free rate and transitional**
 
@@ -12717,11 +12020,7 @@ relevant factors including all of the following:
 (d) the anticipated duration and volatility of the deviation over the duration of the deviation;
 
 (e) the impact of the deviation on the Solvency Capital Requirement and own funds of the undertaking.
-
-
 --- Page 175 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/175
 
 2. With respect to the matching adjustment and transitional measures and with respect to the volatility adjustment,
 where Member States require prior approval for this adjustment, where supervisory authorities have allowed an
@@ -12730,7 +12029,7 @@ capital add-on pursuant to Article 37 paragraph (1)(d) of Directive 2009/138/EC 
 deviation from the assumptions underlying the adjustments or transitional measures is of a temporary nature and does
 not justify revoking the supervisory approval for the use of the adjustment or the transitional measure.
 
-*Article 279*
+##### Article 279
 
 **Add-ons in relation to deviations from Solvency Capital Requirement assumptions**
 
@@ -12745,7 +12044,7 @@ Requirement as calculated in 282(b) by 15 percent or more, supervisory authoriti
 of the insurance or reinsurance undertaking deviates significantly from the assumptions underlying the Solvency Capital
 Requirement within the meaning of Article 37(1)(a) and (b) of Directive 2009/138/EC.
 
-*Article 280*
+##### Article 280
 
 **Assessment of the requirement to use an internal model**
 
@@ -12759,7 +12058,7 @@ ineffective where no internal model has been developed or where the developed in
 conditions for the approval of full and partial internal models as set out in Title I, Chapter VI, Section 4, Subsections 1
 and 3 of Directive 2009/138/EC.
 
-*Article 281*
+##### Article 281
 
 **Appropriate timeframe for adapting the internal model**
 
@@ -12769,11 +12068,11 @@ to improve deficiencies, supervisory authorities shall take account of all relev
 timeframe, including the likelihood and severity of any adverse impact on policy holders and beneficiaries. That
 timeframe shall not exceed 6 months.
 
-*SECTION 2*
+### Section 2
 
 ***Methodologies for calculating capital add-ons***
 
-*Article 282*
+##### Article 282
 
 **Calculation of add-ons in relation to deviations from SCR assumptions**
 
@@ -12787,13 +12086,9 @@ compliance with Article 101(3) of Directive 2009/138/EC;
 
 (b) the Solvency Capital Requirement of the insurance or reinsurance undertaking, excluding any previous or
 simultaneous capital add-on.
-
-
 --- Page 176 ---
 
-L 12/176 EN Official Journal of the European Union 17.1.2015
-
-*Article 283*
+##### Article 283
 
 **Scope and approach of modifications as regards a deviation from SCR assumptions**
 
@@ -12842,7 +12137,7 @@ standard parameters by parameters specific to the undertaking in accordance with
 (c) the overall Solvency Capital Requirement that would result after setting off the risk profile deviations against each
 other complies with Article 101(3) of Directive 2009/138/EC.
 
-*Article 284*
+##### Article 284
 
 **Calculation of add-ons in relation to adjustments to the relevant risk-free rate or transitional measures**
 
@@ -12852,11 +12147,7 @@ authorities shall calculate the capital add-on as the sum, at a given point in t
 (a) the negative of the amount of eligible own funds that would be calculated if the adjustment or transitional measure
 was modified in a manner that the assumptions underlying the adjustment or transitional measure would fit the
 actual assets, liabilities and risk profile of the insurance or reinsurance undertaking;
-
-
 --- Page 177 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/177
 
 (b) the amount of the Solvency Capital Requirement, excluding any previous or simultaneous capital add-on, that would
 be calculated if the adjustment or transitional measure was modified in a manner that the assumptions underlying
@@ -12868,7 +12159,7 @@ reinsurance undertaking, and ensure compliance with Article 101(3) of Directive 
 (d) the negative of the amount of the Solvency Capital Requirement, excluding any previous or simultaneous capital
 add-on, of the insurance or reinsurance undertaking.
 
-*Article 285*
+##### Article 285
 
 **Scope and approach of modifications as regards adjustments to the relevant risk-free rate and transitional**
 
@@ -12887,7 +12178,7 @@ and ensure compliance with Article 101(3) of Directive 2009/138/EC;
 techniques and shall be based on accurate, complete and appropriate data of the undertaking, or where these are not
 available, data which is directly relevant for the operations of that undertaking.
 
-*Article 286*
+##### Article 286
 
 **Calculation of add-ons in relation to deviations from governance standards**
 
@@ -12901,7 +12192,7 @@ undertakings with similar risk profiles provided that supervisory authorities en
 decision to set a capital add-on are stated in accordance with Article 37(1) of Directive 2009/138/EC and this
 statement complies with the professional secrecy requirements set out in Article 64 of that Directive.
 
-*Article 287*
+##### Article 287
 
 **Apportionment of add-ons for undertakings which simultaneously pursue life and non-life insurance activities**
 
@@ -12916,17 +12207,13 @@ non-life capital add-on according to the same apportionment.
 the notional life capital add-on and notional non-life capital add-on in the same way as the apportionment between the
 notional life Minimum Capital Requirement and the notional non-life Minimum Capital Requirement as referred to in
 Article 74(2) of Directive 2009/138/EC.
-
-
 --- Page 178 ---
 
-L 12/178 EN Official Journal of the European Union 17.1.2015
-
-CHAPTER XI
+## *CHAPTER XI*
 
 **EXTENSION OF THE RECOVERY PERIOD**
 
-*Article 288*
+##### Article 288
 
 **Assessment of exceptional adverse situations**
 
@@ -12956,7 +12243,7 @@ that market;
 (h) the availability in financial markets of other means to reduce the risk-exposure of insurance and reinsurance
 undertakings.
 
-*Article 289*
+##### Article 289
 
 **Factors and criteria to determine the extension of the recovery period**
 
@@ -12985,21 +12272,17 @@ or reinsurance undertaking belongs;
 
 (i) any measures taken by the insurance or reinsurance undertaking to limit the outflow of capital and the deterioration
 of its solvency position.
-
-
 --- Page 179 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/179
-
-CHAPTER XII
+## *CHAPTER XII*
 
 **PUBLIC DISCLOSURE**
 
-*SECTION 1*
+### Section 1
 
 ***Solvency and financial condition report: structure and contents***
 
-*Article 290*
+##### Article 290
 
 **Structure**
 
@@ -13009,7 +12292,7 @@ information referred to in Articles 292 to 298 of this Regulation.
 2. The report shall contain narrative information in quantitative and qualitative form supplemented, where
 appropriate, with quantitative templates.
 
-*Article 291*
+##### Article 291
 
 **Materiality**
 
@@ -13017,7 +12300,7 @@ For the purposes of this Chapter, the information to be disclosed in the solvenc
 considered as material if its omission or misstatement could influence the decision-making or the judgement of the
 users of that document, including the supervisory authorities.
 
-*Article 292*
+##### Article 292
 
 **Summary**
 
@@ -13028,7 +12311,7 @@ shall be understandable to policy holders and beneficiaries.
 business and performance, system of governance, risk profile, valuation for solvency purposes and capital management
 over the reporting period.
 
-*Article 293*
+##### Article 293
 
 **Business and performance**
 
@@ -13053,11 +12336,7 @@ group;
 
 (g) any significant business or other events that have occurred over the reporting period that have had a material
 impact on the undertaking.
-
-
 --- Page 180 ---
-
-L 12/180 EN Official Journal of the European Union 17.1.2015
 
 2. The solvency and financial condition report shall include qualitative and quantitative information on the insurance
 or reinsurance undertaking's underwriting performance, at an aggregate level and by material line of business and
@@ -13083,7 +12362,7 @@ with that reported on the previous reporting period, as shown in that undertakin
 5. The solvency and financial condition report shall include in a separate section any other material information
 regarding their business and performance of the insurance or reinsurance undertaking.
 
-*Article 294*
+##### Article 294
 
 **System of governance**
 
@@ -13120,11 +12399,7 @@ persons who effectively run the undertaking or have other key functions;
 
 (b) a description of the undertaking's process for assessing the fitness and the propriety of the persons who effectively
 run the undertaking or have other key functions.
-
-
 --- Page 181 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/181
 
 3. The solvency and financial condition report shall include all of the following information regarding the risk
 management system of the insurance or reinsurance undertaking:
@@ -13179,7 +12454,7 @@ business.
 10. The solvency and financial condition report shall include in a separate section any other material information
 regarding the system of governance of the insurance or reinsurance undertaking.
 
-*Article 295*
+##### Article 295
 
 **Risk profile**
 
@@ -13190,11 +12465,7 @@ following categories of risk:
 (a) underwriting risk;
 
 (b) market risk;
-
-
 --- Page 182 ---
-
-L 12/182 EN Official Journal of the European Union 17.1.2015
 
 (c) credit risk;
 
@@ -13234,7 +12505,7 @@ events.
 7. The solvency and financial condition report shall include in a separate section any other material information
 regarding their risk profile of the insurance or reinsurance undertaking.
 
-*Article 296*
+##### Article 296
 
 **Valuation for solvency purposes**
 
@@ -13260,11 +12531,7 @@ valuation for solvency purposes;
 (c) separately for each material line of business, a quantitative and qualitative explanation of any material differences
 between the bases, methods and main assumptions used by that undertaking for the valuation for solvency purposes
 and those used for their valuation in financial statements;
-
-
 --- Page 183 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/183
 
 (d) where the matching adjustment referred to in Article 77b of Directive 2009/138/EC is applied, a description of the
 matching adjustment and of the portfolio of obligations and assigned assets to which the matching adjustment is
@@ -13315,7 +12582,7 @@ and 3 of this Article.
 5. The solvency and financial condition report shall include in a separate section any other material information
 regarding the valuation of assets and liabilities for solvency purposes.
 
-*Article 297*
+##### Article 297
 
 **Capital management**
 
@@ -13331,11 +12598,7 @@ period and at the end of the previous reporting period, including an analysis of
 over the reporting period;
 
 (c) the eligible amount of own funds to cover the Solvency Capital Requirement, classified by tiers;
-
-
 --- Page 184 ---
-
-L 12/184 EN Official Journal of the European Union 17.1.2015
 
 (d) the eligible amount of basic own funds to cover the Minimum Capital Requirement, classified by tiers;
 
@@ -13399,11 +12662,7 @@ condition report shall also include all of the following information:
 (a) a description of the various purposes for which that undertaking is using its internal model;
 
 (b) a description of the scope of the internal model in terms of business units and risk categories;
-
-
 --- Page 185 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/185
 
 (c) where a partial internal model is used, a description of the technique which has been used to integrate any partial
 internal model into the standard formula including, where relevant, a description of alternative techniques used;
@@ -13443,7 +12702,7 @@ resolved: the amount of the non-compliance at the reporting date.
 6. The solvency and financial condition report shall include in a separate section any other material information
 regarding the capital management of the insurance or reinsurance undertaking.
 
-*Article 298*
+##### Article 298
 
 **Additional voluntary information**
 
@@ -13452,11 +12711,11 @@ Where insurance and reinsurance undertakings disclose publicly, in accordance wi
 is not legally required these undertakings shall ensure that such additional information is consistent with any
 information provided to the supervisory authorities pursuant to Article 35 of that Directive.
 
-*SECTION 2*
+### Section 2
 
 ***Solvency and financial condition report: non-disclosure of information***
 
-*Article 299*
+##### Article 299
 
 1. Where supervisory authorities permit insurance and reinsurance undertakings, in accordance with Article 53(1)
 and (2) of Directive 2009/138/EC, not to disclose certain information, such permission shall remain valid only for as
@@ -13464,17 +12723,13 @@ long as the reason for non-disclosure continues to exist.
 
 2. Insurance and reinsurance undertakings shall notify supervisory authorities as soon as the reason for any
 permitted non-disclosure ceases to exist.
-
-
 --- Page 186 ---
 
-L 12/186 EN Official Journal of the European Union 17.1.2015
-
-*SECTION 3*
+### Section 3
 
 ***Solvency and financial condition report: deadlines, means of disclosure and updates***
 
-*Article 300*
+##### Article 300
 
 **Deadlines**
 
@@ -13485,7 +12740,7 @@ that Article, no later than 14 weeks after the undertaking's financial year end.
 2. As soon as the solvency and financial condition report, as well as any updated version of that report, is disclosed
 by insurance and reinsurance undertakings it shall be submitted to the supervisory authorities.
 
-*Article 301*
+##### Article 301
 
 **Means of disclosure**
 
@@ -13513,7 +12768,7 @@ request.
 6. Insurance and reinsurance undertakings shall submit to the supervisory authorities their solvency and financial
 condition report, and any updated version of that report thereto, in electronic form.
 
-*Article 302*
+##### Article 302
 
 **Updates**
 
@@ -13527,18 +12782,14 @@ updated version.
 undertakings in accordance with the requirements of Article 54(1) of Directive 2009/138/EC, any updated version of
 the solvency and financial condition report shall be disclosed as soon as possible after the major development referred
 to in paragraph 1 of this Article, in accordance with the provisions set out in Article 301 of this Regulation.
-
-
 --- Page 187 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/187
 
 3. Notwithstanding paragraphs 1 and 2, insurance and reinsurance undertakings may decide, for the purposes of
 paragraph 5 of Article 301, to disclose appropriate information on the nature and effects of any major development
 significantly affecting the relevance of their solvency and financial condition report in the form of amendments supple­­
 menting the initial report.
 
-*Article 303*
+##### Article 303
 
 **Transitional arrangements on comparative information**
 
@@ -13546,15 +12797,15 @@ Where a comparison of the information with that reported on the previous reporti
 with this Chapter, insurance and reinsurance undertakings shall comply with such a requirement only where the
 previous reporting period covers a period after the date of application of Directive 2009/138/EC.
 
-CHAPTER XIII
+## *CHAPTER XIII*
 
 **REGULAR SUPERVISORY REPORTING**
 
-*SECTION 1*
+### Section 1
 
 ***Elements and contents***
 
-*Article 304*
+##### Article 304
 
 **Elements of the regular supervisory reporting**
 
@@ -13596,20 +12847,16 @@ purposes of Article 45(6) of Directive 2009/138/EC.
 4. Paragraph 1 shall be without prejudice to the power of supervisory authorities to require insurance and
 reinsurance undertakings to communicate on a regular basis any other information prepared under the responsibility of
 — or at the request of — the administrative, management or supervisory body of those undertakings.
-
-
 --- Page 188 ---
 
-L 12/188 EN Official Journal of the European Union 17.1.2015
-
-*Article 305*
+##### Article 305
 
 **Materiality**
 
 For the purposes of this Chapter, the information submitted to supervisors shall be considered as material where its
 omission or misstatement could influence the decision-making or judgement of the supervisory authorities.
 
-*Article 306*
+##### Article 306
 
 **Own-risk and solvency assessment supervisory report**
 
@@ -13626,7 +12873,7 @@ regulatory capital requirements and the undertaking's own funds;
 (d) qualitative information on, and where significant deviations have been identified a quantification of the extent to
 which quantifiable risks of the undertakings are not reflected in the calculation of the Solvency Capital Requirement;
 
-*Article 307*
+##### Article 307
 
 **Business and performance**
 
@@ -13667,11 +12914,7 @@ changes;
 
 (b) an analysis of the undertaking's overall investment performance during the reporting period and also by relevant
 asset class;
-
-
 --- Page 189 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/189
 
 (c) projections of the undertaking's expected investment performance, with information on significant factors that
 might affect such investment performance, over its business planning time period;
@@ -13688,7 +12931,7 @@ underwriting or investment income and expenses, over the undertaking's business 
 5. The regular supervisory report shall include any other material information regarding their business and
 performance.
 
-*Article 308*
+##### Article 308
 
 **System of governance**
 
@@ -13740,11 +12983,7 @@ adjustment, as referred to in Article 44(2a) of Directive 2009/138/EC.
 assessments which were performed over the reporting period by the insurance or reinsurance undertaking:
 
 (a) a description of how the own risk and solvency assessment is performed, internally documented and reviewed;
-
-
 --- Page 190 ---
-
-L 12/190 EN Official Journal of the European Union 17.1.2015
 
 (b) a description of how the own risk and solvency assessment is integrated into the management process and into the
 decision-making process of the undertaking.
@@ -13795,7 +13034,7 @@ outsourced and on how the undertaking ensures that the service providers comply 
 9. The regular supervisory report shall include any other material information regarding the system of governance of
 the insurance or reinsurance undertaking.
 
-*Article 309*
+##### Article 309
 
 **Risk profile**
 
@@ -13814,11 +13053,7 @@ categories of risk:
 (e) operational risk;
 
 (f) other material risks.
-
-
 --- Page 191 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/191
 
 2. The regular supervisory report shall include all of the following information regarding the risk exposure of the
 insurance or reinsurance undertaking, including the exposure arising from off-balance sheet positions and the transfer of
@@ -13885,16 +13120,12 @@ undertaking including their outcome;
 8. The regular supervisory report shall include information regarding quantitative data which is necessary for
 determining dependencies between the risks covered by the risk modules or sub-modules and of the Basic Solvency
 Capital Requirement.
-
-
 --- Page 192 ---
-
-L 12/192 EN Official Journal of the European Union 17.1.2015
 
 9. The regular supervisory report shall include any other material information regarding their risk profile of the
 insurance or reinsurance undertaking.
 
-*Article 310*
+##### Article 310
 
 **Valuation for solvency purposes**
 
@@ -13916,7 +13147,7 @@ solvency purposes.
 prepare their financial statements in accordance with Article 9(4) of this Regulation, they shall report an assessment, in
 qualitative and quantitative terms, of the criterion set out in Article 9(4)(d).
 
-*Article 311*
+##### Article 311
 
 **Capital management**
 
@@ -13957,11 +13188,7 @@ those causes and sources of profits and losses;
 underlying the undertaking's internal model;
 
 (c) information about future management actions used in the calculation of the Solvency Capital Requirement.
-
-
 --- Page 193 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/193
 
 4. Where undertaking-specific parameters are used to calculate the Solvency Capital Requirement, or a matching
 adjustment is applied to the relevant risk-free interest term structure, the regular supervisory report shall include
@@ -13976,11 +13203,11 @@ ensuring that compliance with each is maintained.
 6. The regular supervisory report shall include any other material information regarding the capital management of
 the insurance or reinsurance undertaking.
 
-*SECTION 2*
+### Section 2
 
 ***Deadlines and means of communication***
 
-*Article 312*
+##### Article 312
 
 **Deadlines**
 
@@ -14010,13 +13237,13 @@ profile, valuation for solvency purposes and capital management over the given f
 explanation about the causes and effects of such changes. That report shall be submitted within the deadlines set out in
 paragraph 1(a).
 
-*Article 313*
+##### Article 313
 
 **Means of communication**
 
 Insurance and reinsurance undertakings shall submit the information referred to in Article 312(1) in electronic form.
 
-*Article 314*
+##### Article 314
 
 **Transitional information requirements**
 
@@ -14028,11 +13255,7 @@ submit to the supervisory authorities the following quantitative and qualitative
 Articles 75 to 86 of Directive 2009/138/EC. The reference date of the opening financial statement shall be the first
 day of the insurance or reinsurance undertaking's financial year starting on or after 1 January 2016 but before
 1 July 2016;
-
-
 --- Page 194 ---
-
-L 12/194 EN Official Journal of the European Union 17.1.2015
 
 (b) separately for each material class of assets and liabilities, a qualitative explanation of the main differences between
 the figures reported in the opening valuation as set out in point (a) and those calculated according to the solvency
@@ -14045,18 +13268,18 @@ date of the opening financial statement referred to in point (a).
 paragraph 1 no later than 20 weeks after the reference date of the opening financial statement as referred to in point (a)
 of paragraph 1.
 
-CHAPTER XIV
+## *CHAPTER XIV*
 
 **TRANSPARENCY AND ACCOUNTABILITY OF SUPERVISORY AUTHORITIES**
 
-*Article 315*
+##### Article 315
 
 **Confidential information**
 
 No confidential information which supervisory authorities may receive in the course of their duties shall be included in
 the disclosure except in summary or aggregate form, such that individual undertakings or groups cannot be identified.
 
-*Article 316*
+##### Article 316
 
 **Aggregate statistical data**
 
@@ -14066,7 +13289,7 @@ include information as specified in Annex XXI.
 2. As of 31 December 2020, the disclosure shall include data of the four previous years. In relation to disclosure
 before 31 December 2018, it shall include data of all previous years starting from 1 January 2016.
 
-*Article 317*
+##### Article 317
 
 **Means of disclosure**
 
@@ -14089,21 +13312,17 @@ concerned shall be the calendar year starting on or after 1 January 2016 and inf
 than 3 months after the year start. In relation to the first year, the information to be disclosed in a language customary
 in the sphere of international finance shall be published no later than 12 months after the date in which the
 information in the official language or languages of the Member State concerned is published.
-
-
 --- Page 195 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/195
-
-CHAPTER XV
+## *CHAPTER XV*
 
 **SPECIAL PURPOSE VEHICLES**
 
-*SECTION 1*
+### Section 1
 
 ***Authorization***
 
-*Article 318*
+##### Article 318
 
 The authorisation of a special purpose vehicle by the supervisory authority of the Member State in whose territory the
 special purpose vehicle is establishing its head office shall be subject to all of the following conditions:
@@ -14130,18 +13349,18 @@ Articles 319 to 321;
 
 (h) the special purpose vehicle satisfies the requirements set out in Articles 326 and 327.
 
-*SECTION 2*
+### Section 2
 
 ***Mandatory contract conditions***
 
-*Article 319*
+##### Article 319
 
 **Fully Funded**
 
 The contractual arrangements relating to the transfer of risk from an insurance or reinsurance undertaking to a special
 purpose vehicle shall ensure that the special purpose vehicle is at all times fully funded in accordance with Article 326.
 
-*Article 320*
+##### Article 320
 
 **Effective transfer of risk**
 
@@ -14156,7 +13375,7 @@ following:
 2. The transfer of risk shall not be deemed to be effective in all circumstances where there are connected transactions
 which could undermine the effective transfer of risk.
 
-*Article 321*
+##### Article 321
 
 **Rights of the providers of debt or financing mechanisms**
 
@@ -14166,11 +13385,7 @@ following:
 
 (a) the claims of the providers of debt or financing mechanisms are at all times subordinated to the reinsurance
 obligations of the special purpose vehicle to the insurance or reinsurance undertaking;
-
-
 --- Page 196 ---
-
-L 12/196 EN Official Journal of the European Union 17.1.2015
 
 (b) no payments are made to the providers of debt or financing, if following those payments the special purpose vehicle
 would no longer be fully funded;
@@ -14181,11 +13396,11 @@ insurance or reinsurance undertaking;
 (d) the providers of debt or finance to the special purpose vehicle have no rights to apply for the winding-up of the
 special purpose vehicle.
 
-*SECTION 3*
+### Section 3
 
 ***System of governance***
 
-*Article 322*
+##### Article 322
 
 **Fit and proper requirements of persons who effectively run a special purpose vehicle**
 
@@ -14205,7 +13420,7 @@ Article 42(1) of Directive 2009/138/EC.
 purpose vehicle have been replaced because they no longer fulfil the requirements set out in Article 42(1) of Directive
 2009/138/EC.
 
-*Article 323*
+##### Article 323
 
 **Fit and proper requirements for shareholders or members with a qualifying holding**
 
@@ -14229,7 +13444,7 @@ or has been committed or attempted, or that the qualifying holding could increas
 2. Special purpose vehicles shall notify the supervisory authorities of the identity of the persons who are
 shareholders or members having a qualifying holding in the special purpose vehicle.
 
-*Article 324*
+##### Article 324
 
 **Sound administrative and accounting procedures, adequate internal control mechanisms and risk-management**
 **requirements**
@@ -14240,11 +13455,7 @@ assumes and the uses for which it is authorised.
 
 ( [1] ) Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial
 system for the purposes of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).
-
-
 --- Page 197 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/197
 
 2. The system of governance of the special purpose vehicle shall consist of all of the following:
 
@@ -14262,11 +13473,11 @@ monitor, manage and report, on an ongoing basis the risk to which the special pu
 3. Special purpose vehicles shall ensure that the policies referred to in point (a) of paragraph 2 are implemented
 effectively.
 
-*SECTION 4*
+### Section 4
 
 ***Supervisory reporting***
 
-*Article 325*
+##### Article 325
 
 **Supervisory reporting**
 
@@ -14307,22 +13518,18 @@ providers of debt or finance;
 special purpose vehicle is established of any changes that could affect the compliance by the special purpose vehicle
 with Articles 318 to 324 and Article 326.
 
-*SECTION 5*
+### Section 5
 
 ***Solvency requirements***
 
-*Article 326*
+##### Article 326
 
 **Solvency requirements**
 
 1. In order to be considered fully funded special purpose vehicles shall satisfy all of the following requirements:
 
 (a) the assets of the special purpose vehicle are valued in accordance with Article 75 of Directive 2009/138/EC;
-
-
 --- Page 198 ---
-
-L 12/198 EN Official Journal of the European Union 17.1.2015
 
 (b) the special purpose vehicle has at all times assets the value of which is equal to or exceeds the aggregate maximum
 risk exposure and the special purpose vehicle is able to pay the amounts it is liable for as they fall due;
@@ -14363,7 +13570,7 @@ received;
 (d) the payments do not relate to expenses that are excluded from the aggregate maximum risk exposure as defined in
 paragraph 42 of Article 1.
 
-*Article 327*
+##### Article 327
 
 **Solvency requirements on investments**
 
@@ -14390,25 +13597,21 @@ group of undertakings, or geographical area and excessive accumulation of risk i
 
 (g) investments in assets issued by the same issuer, or by issuers belonging to the same group, shall not expose the
 special purpose vehicle to excessive risk concentration.
-
-
 --- Page 199 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/199
-
-TITLE II
+# TITLE II
 
 **INSURANCE GROUPS**
 
-CHAPTER I
+## *CHAPTER I*
 
 **SOLVENCY CALCULATION AT GROUP LEVEL**
 
-*SECTION 1*
+### Section 1
 
 ***Group solvency: choice of calculation method and general principles***
 
-*Article 328*
+##### Article 328
 
 **Choice of method**
 
@@ -14445,7 +13648,7 @@ mixed financial holding company to revert to method 1 in relation to any related
 method 2 or a combination of methods 1 and 2 is no longer justified considering the elements referred to in
 paragraph 1.
 
-*Article 329*
+##### Article 329
 
 **Treatment of specific related undertakings**
 
@@ -14463,11 +13666,7 @@ the own funds items of those undertakings calculated according to Articles 17 to
 (c) the capital requirements for related undertakings which are UCITS management companies calculated in accordance
 with Article 7(1)(a) of Directive 2009/65/EC and the own funds of those undertakings calculated in accordance with
 point 1 of Article 2(1) of that Directive;
-
-
 --- Page 200 ---
-
-L 12/200 EN Official Journal of the European Union 17.1.2015
 
 (d) the capital requirements for related undertakings which are alternative investment fund managers calculated in
 accordance with Article 9 of Directive 2011/61/EU and the own funds of those undertakings calculated in
@@ -14494,7 +13693,7 @@ equivalent to those set out in Article 211(2) of Directive 2009/138/EC.
 
 For the purposes of this paragraph, Article 211 of Directive 2009/138/EC shall apply at the level of the group.
 
-*Article 330*
+##### Article 330
 
 **Availability at group level of the eligible own funds of related undertakings**
 
@@ -14530,11 +13729,7 @@ Requirement:
 (a) ancillary own funds;
 
 (b) preference shares, subordinated mutual members account and subordinated liabilities;
-
-
 --- Page 201 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/201
 
 (c) an amount equal to the value of net deferred tax assets; for this purpose, the amount of deferred tax asset may be
 reduced by the amount of the associated deferred tax liability provided that those deferred tax assets and associated
@@ -14584,11 +13779,11 @@ related undertaking, determined by that internal model, provided that the sum of
 insurance and reinsurance undertakings, insurance holding companies or mixed financial holding companies
 included in the consolidated calculation based on the internal model equals 100 %.
 
-*SECTION 2*
+### Section 2
 
 ***Group solvency: calculation methods***
 
-*Article 331*
+##### Article 331
 
 **Classification of own-fund items of related insurance and reinsurance undertakings at group level**
 
@@ -14598,11 +13793,7 @@ solvency, the own-fund item shall be classified in the same tier at group level 
 additional requirements are met:
 
 (a) undertakings comply with the requirements set out in Articles 71, 73 and 77 of this Regulation;
-
-
 --- Page 202 ---
-
-L 12/202 EN Official Journal of the European Union 17.1.2015
 
 (b) the own-fund item is free from encumbrances and is not connected with any other transaction, which when
 considered with the own-fund item, could result in that own-fund item not satisfying the requirements set out in
@@ -14633,7 +13824,7 @@ own-fund item which would qualify for inclusion in Tier 1 in accordance with Art
 not prohibit the classification of the same own-fund item in Tier 1 at group level, provided that the limit set out in
 Article 82(3) are complied with at group level.
 
-*Article 332*
+##### Article 332
 
 **Classification of own-fund items of related third-country insurance or reinsurance undertakings at group level**
 
@@ -14661,13 +13852,9 @@ with the second subparagraph of Article 230(2) of Directive 2009/138/EC;
 
 (ii) where a combination of methods 1 and 2 is used, the minimum determined in accordance with Article 341 of
 this Regulation.
-
-
 --- Page 203 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/203
-
-*Article 333*
+##### Article 333
 
 **Classification of own-fund items of insurance holding companies, mixed financial holding companies, and**
 **subsidiary ancillary services undertakings at group level**
@@ -14697,7 +13884,7 @@ shall mean the insurance holding company, the intermediate insurance holding com
 company, the intermediate mixed financial holding company or the subsidiary ancillary services undertaking which has
 issued the own-fund item.
 
-*Article 334*
+##### Article 334
 
 **Classification of own-fund items of residual related undertakings**
 
@@ -14709,7 +13896,7 @@ materially affect the amount of group own funds or the group solvency, the parti
 undertaking, the insurance holding company or the mixed financial holding company shall classify these own-fund
 items into one of the three tiers based on the criteria set out in Title I, Chapter IV, Section 2.
 
-*Article 335*
+##### Article 335
 
 **Method 1: determination of consolidated data**
 
@@ -14732,11 +13919,7 @@ included in point (a), where those undertakings' responsibility is limited to th
 or reinsurance undertakings, third-country insurance or reinsurance undertakings, insurance holding companies,
 mixed financial holding companies which are not subsidiaries of the parent undertaking and which are not covered
 by points (a) and (c);
-
-
 --- Page 204 ---
-
-L 12/204 EN Official Journal of the European Union 17.1.2015
 
 (e) the proportional share of the undertakings' own funds calculated according to the relevant sectoral rules, as referred
 to in Article 2(7) of Directive 2002/87/EC, in relation to holdings in related undertakings which are credit
@@ -14755,7 +13938,7 @@ Article 221(2)(a) of Directive 2009/138/EC.
 3. For the purposes of the calculation of the consolidated group own funds, the data referred to in paragraphs 1 and
 2 shall be net of any intra-group transaction.
 
-*Article 336*
+##### Article 336
 
 **Method 1: Calculation of the consolidated group Solvency Capital Requirement**
 
@@ -14777,7 +13960,7 @@ capital requirements of non-regulated undertakings carrying out financial activi
 (d) for undertakings referred to in Article 335(1)(f) of this Regulation, the amount determined in accordance with
 Article 13, Articles 168 to 171, Articles 182 to 187 and Article 188 of this Regulation.
 
-*Article 337*
+##### Article 337
 
 **Method 1: determination of the local currency for the purposes of the currency risk calculation**
 
@@ -14785,7 +13968,7 @@ Where the consolidated group Solvency Capital Requirement is calculated, wholly 
 standard formula, the local currency referred to in the first paragraph of Article 188 shall be understood to be the
 currency used for the preparation of the consolidated accounts.
 
-*Article 338*
+##### Article 338
 
 **Method 1: group-specific parameters**
 
@@ -14798,17 +13981,13 @@ Article 218 by parameters specific to the group (‘group-specific parameters’
 
 3. The standardised methods used to calculate the group-specific parameters are the methods set out in Article 220
 of this Regulation.
-
-
 --- Page 205 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/205
 
 4. For the purposes of this Article, any reference in Articles 218, 219 and 220 of this Regulation to ‘undertakingspecific parameters’ shall be understood as a reference to ‘group-specific parameters’ and any reference to ‘insurance and
 reinsurance undertakings’ shall be understood as a reference to ‘the participating insurance or reinsurance company, the
 insurance holding company or the mixed financial holding company’ applying for the use of group-specific parameters.
 
-*Article 339*
+##### Article 339
 
 **Method 1: best estimate**
 
@@ -14836,7 +14015,7 @@ contracts.
 documentation and the directory of data referred to in Article 265 to the data used in the calculation of the adjustments
 of the best estimate referred to in paragraph 2.
 
-*Article 340*
+##### Article 340
 
 **Method 1: Risk margin**
 
@@ -14849,7 +14028,7 @@ the following:
 related insurance or reinsurance undertakings and third-country insurance or reinsurance undertakings referred to in
 Article 335(1)(a) and (c) of this Regulation.
 
-*Article 341*
+##### Article 341
 
 **Combination of methods 1 and 2: minimum consolidated group Solvency Capital Requirement**
 
@@ -14858,7 +14037,7 @@ a combination of methods 1 and 2, the consolidated group Solvency Capital Requir
 group which is covered by method 1 shall have a minimum determined in accordance with the requirements set out in
 the second subparagraph of Article 230(2) of that Directive.
 
-*Article 342*
+##### Article 342
 
 **Method 2: Elimination of intra-group creation of capital in relation to the best estimate**
 
@@ -14866,11 +14045,7 @@ the second subparagraph of Article 230(2) of that Directive.
 where the impact of the intra-group transaction affects the best estimates of the insurance and reinsurance undertakings
 in such way that the amount set out in paragraph 2 is different depending on whether the intra-group transaction is
 eliminated in the calculation of that amount or not.
-
-
 --- Page 206 ---
-
-L 12/206 EN Official Journal of the European Union 17.1.2015
 
 2. The amount referred to in paragraph 1 shall be the sum of the following:
 
@@ -14881,15 +14056,15 @@ to 86 of Directive 2009/138/EC;
 in accordance with Articles 75 to 86 of that Directive for each related insurance and reinsurance undertaking and
 related third-country insurance and reinsurance undertaking.
 
-CHAPTER II
+## *CHAPTER II*
 
 **INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT**
 
-*SECTION 1*
+### Section 1
 
 ***Full and partial internal models used to calculate only the group solvency capital requirement***
 
-*Article 343*
+##### Article 343
 
 **Application for the use of an internal model to calculate only the consolidated group Solvency Capital**
 **Requirement**
@@ -14937,11 +14112,7 @@ excluded related undertakings in order to demonstrate that the exclusion does no
 the overall risks to which the group is exposed; the application shall demonstrate that the consolidated group
 Solvency Capital Requirement calculated using a combination of the internal model and the standard formula
 will adequately reflect the overall risk profile of the group;
-
-
 --- Page 207 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/207
 
 (iv) for each related undertaking included in the scope of the internal model for the calculation of the consolidated
 group Solvency Capital Requirement, a justification of the reasons why the internal model covers a related
@@ -14977,7 +14148,7 @@ In case an application is submitted before any Solvency Capital Requirement must
 Requirements referred to in points (i), (ii) and (iii) shall be calculated for a point in time before the date of the
 submission of the application.
 
-*Article 344*
+##### Article 344
 
 **Assessment of the application for the use of an internal model to calculate only the consolidated group**
 **Solvency Capital Requirement**
@@ -15007,16 +14178,12 @@ which the group is exposed are not underestimated by using a partial internal mo
 4. The assessment of the application shall include an evaluation of whether the justification provided in accordance
 with Article 343(5)(a)(iv) of the reasons why the internal model covers a related undertaking for the calculation of the
 consolidated group Solvency Capital Requirement but it is not used to calculate the Solvency Capital Requirement of
-
-
 --- Page 208 ---
-
-L 12/208 EN Official Journal of the European Union 17.1.2015
 
 that related undertaking, is appropriate in order to justify that an application is not submitted in accordance with the
 procedure laid down in Article 231 of Directive 2009/138/EC.
 
-*Article 345*
+##### Article 345
 
 **Decision on the application and transitional plan to extend the scope of a partial internal model used to**
 **calculate only the consolidated group Solvency Capital Requirement**
@@ -15039,7 +14206,7 @@ calculation of the consolidated group Solvency Capital Requirement, any subseque
 the same internal model for calculating the Solvency Capital Requirement of an insurance or reinsurance undertaking in
 the group shall follow the procedure laid down in Article 231 of Directive 2009/138/EC.
 
-*Article 346*
+##### Article 346
 
 **Use test for internal models used to calculate only the consolidated group Solvency Capital Requirement**
 
@@ -15061,11 +14228,11 @@ mixed financial holding company shall only comply with the requirements set out 
 relation to the parts of the internal model which cover the risks of that undertaking and the risks of its related
 undertakings.
 
-*SECTION 2*
+### Section 2
 
 ***Use of a group internal model***
 
-*Article 347*
+##### Article 347
 
 **Application to use a group internal model**
 
@@ -15075,11 +14242,7 @@ reinsurance undertaking in the group, as referred to in Article 231(1) of Direct
 
 2. An application to use a group internal model shall be provided in writing in an official language of the group
 supervisor's Member State, or in a language for which the group supervisor has given prior approval.
-
-
 --- Page 209 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/209
 
 3. For the purposes of this Section, the group supervisor and the supervisory authorities of all the Member States in
 which the head offices of each related insurance and reinsurance undertakings applying for the use of the group internal
@@ -15111,7 +14274,7 @@ Solvency Capital Requirement; for this purpose, the insurance or reinsurance und
 documents to those whose content is not already covered in the documents submitted by the participating insurance
 or reinsurance undertaking in accordance with point (a).
 
-*Article 348*
+##### Article 348
 
 **Assessment of the completeness of an application to use a group internal model**
 
@@ -15127,7 +14290,7 @@ the documents in respect of which the application is not complete.
 that the application is complete and the date from which the six month period referred to in Article 231 of Directive
 2009/138/EC. That date shall be the date on which the complete application was received.
 
-*Article 349*
+##### Article 349
 
 **Joint decision on the application and transitional plan to extend the scope of the model**
 
@@ -15141,16 +14304,12 @@ concerned with the decision translated in an official language of the Member Sta
 office. Each related insurance or reinsurance undertaking applying for the use of the group internal model to calculate
 their Solvency Capital Requirement shall be provided with the joint decision or, where relevant, with a translation of
 that decision, by the supervisory authority having authorised that undertaking.
-
-
 --- Page 210 ---
-
-L 12/210 EN Official Journal of the European Union 17.1.2015
 
 3. In the joint decision, the supervisory authorities concerned may require the applicant to submit a realistic
 transitional plan to extend the scope of the group internal model.
 
-*Article 350*
+##### Article 350
 
 **Use test for group internal models**
 
@@ -15177,11 +14336,11 @@ mixed financial holding company shall only comply with the requirements set out 
 relation to the parts of the group internal model which cover the risks of that undertaking and the risks of its related
 undertakings.
 
-CHAPTER III
+## *CHAPTER III*
 
 **SUPERVISION OF GROUP SOLVENCY FOR GROUPS WITH CENTRALISED RISK MANAGEMENT**
 
-*Article 351*
+##### Article 351
 
 **Assessment of conditions: criteria**
 
@@ -15214,13 +14373,9 @@ Directive 2009/138/EC;
 
 (c) the system of governance of the subsidiary, as referred to in Article 41 of Directive 2009/138/EC, is not impaired by
 the risk management and compliance functions of the parent undertaking covering the subsidiary.
-
-
 --- Page 211 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/211
-
-*Article 352*
+##### Article 352
 
 **Assessment of conditions: procedures**
 
@@ -15232,7 +14387,7 @@ of Directive 2009/138/EC has been submitted are situated.
 those applications shall be considered jointly by the group supervisor and the other supervisory authorities concerned in
 accordance with Article 237 of Directive 2009/138/EC.
 
-*Article 353*
+##### Article 353
 
 **Assessment of an emergency situation: criteria**
 
@@ -15247,15 +14402,15 @@ effectiveness of the measures to be taken;
 further deteriorate in such a way that there is a risk that the subsidiary will not comply with its Minimum Capital
 Requirement in the following three months.
 
-CHAPTER IV
+## *CHAPTER IV*
 
 **COORDINATION OF GROUP SUPERVISION**
 
-*SECTION 1*
+### Section 1
 
 ***Colleges of supervisors***
 
-*Article 354*
+##### Article 354
 
 **Participation of supervisors of significant branches and related undertakings**
 
@@ -15279,13 +14434,9 @@ supervision of a related undertaking in the group, the group supervisor may, whe
 the efficient exchange of information and to facilitate the exercise of group supervision, and after consultation with the
 other supervisory authorities in the college of supervisors, invite that supervisory authority of a related undertaking to
 participate in any relevant activity of the college of supervisors.
-
-
 --- Page 212 ---
 
-L 12/212 EN Official Journal of the European Union 17.1.2015
-
-*Article 355*
+##### Article 355
 
 **Coordination arrangements**
 
@@ -15341,7 +14492,7 @@ resolution of the crisis.
 5. The coordination arrangements referred to in paragraph 2 shall be regularly tested and reviewed by the college of
 supervisors.
 
-*Article 356*
+##### Article 356
 
 **Supervisory approval of group-specific parameters**
 
@@ -15350,11 +14501,7 @@ group supervisor, by the participating insurance or reinsurance undertaking, the
 mixed financial holding company (for the purposes of this Article, referred to as ‘the applicant’) in one of the official
 languages of the group supervisor's Member State or in a language for which the group supervisor has given prior
 approval.
-
-
 --- Page 213 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/213
 
 2. The group supervisor shall inform the other supervisory authorities within the college of supervisors without delay
 of the receipt of the application and shall also forward the application to the other supervisory authorities within the
@@ -15366,11 +14513,11 @@ group supervisor shall provide its decision to the applicant and to the other su
 supervisors. The decision shall be written in an official language of the Member State of the group supervisor, and in
 another language most commonly understood by the other supervisory authorities.
 
-*SECTION 2*
+### Section 2
 
 ***Exchange of information***
 
-*Article 357*
+##### Article 357
 
 **Information to be exchanged on a systematic basis**
 
@@ -15407,31 +14554,27 @@ level.
 (b) for each related insurance or reinsurance undertaking falling within the scope of group supervision, the information
 referred to in paragraph 2.
 
-*SECTION 3*
+### Section 3
 
 ***National or regional subgroup supervision***
 
-*Article 358*
+##### Article 358
 
 Where Member States allow supervisory authorities to exercise group supervision on a subgroup according to
 Articles 216 or 217 of Directive 2009/138/EC, such a decision by the supervisory authorities shall only be taken in
 circumstances justified by objective differences in the operations, the organisation or the risk-profile between the
 subgroup and the group.
-
-
 --- Page 214 ---
 
-L 12/214 EN Official Journal of the European Union 17.1.2015
-
-CHAPTER V
+## *CHAPTER V*
 
 **PUBLIC DISCLOSURE**
 
-*SECTION 1*
+### Section 1
 
 ***Group solvency and financial condition report***
 
-*Article 359*
+##### Article 359
 
 **Structure and contents**
 
@@ -15490,13 +14633,9 @@ calculate the group Solvency Capital Requirement;
 
 (vii) a description of the main differences, if any, between any internal model used at individual undertaking level
 and any internal model used to calculate the group Solvency Capital Requirement.
-
-
 --- Page 215 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/215
-
-*Article 360*
+##### Article 360
 
 **Languages**
 
@@ -15517,14 +14656,14 @@ report is disclosed by application of paragraphs 1 and 2, the participating insu
 insurance holding company or mixed financial holding company shall disclose a translation of the summary of that
 report into the official language or languages of that Member State.
 
-*Article 361*
+##### Article 361
 
 **Non-disclosure of information**
 
 Article 299 shall apply to non-disclosure of information in the group solvency and financial condition report by partici­­
 pating insurance and reinsurance undertakings, insurance holding companies or mixed financial holding companies.
 
-*Article 362*
+##### Article 362
 
 **Deadlines**
 
@@ -15532,7 +14671,7 @@ Article 300 shall apply to the disclosure by participating insurance and reinsur
 companies or mixed financial holding companies of their group solvency and financial condition report. For the
 purposes of this Article the deadlines referred to in Article 300 shall be extended by 6 weeks.
 
-*Article 363*
+##### Article 363
 
 **Updates**
 
@@ -15546,23 +14685,19 @@ version.
 any updated version of the group solvency and financial condition report shall be disclosed as soon as possible after the
 major development referred to in paragraph 1 of this Article.
 
-*Article 364*
+##### Article 364
 
 **Transitional arrangements on comparative information**
 
 Article 303 shall apply to the disclosure of comparative information by participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies.
-
-
 --- Page 216 ---
 
-L 12/216 EN Official Journal of the European Union 17.1.2015
-
-*SECTION 2*
+### Section 2
 
 ***Single solvency and financial condition report***
 
-*Article 365*
+##### Article 365
 
 **Structure and contents**
 
@@ -15579,7 +14714,7 @@ structure set out in Annex XX. Participating insurance and reinsurance undertaki
 mixed financial holding companies may decide, when providing any part of the information to be disclosed for a
 subsidiary covered, to refer to information at group level, where that information is equivalent in both nature and scope.
 
-*Article 366*
+##### Article 366
 
 **Languages**
 
@@ -15607,7 +14742,7 @@ languages of that Member State of all of the following information:
 (b) the information from that report related to that subsidiary, unless exemption has been granted by the supervisory
 authority concerned.
 
-*Article 367*
+##### Article 367
 
 **Non-disclosure of information**
 
@@ -15615,7 +14750,7 @@ authority concerned.
 
 2. Article 299 shall apply as regards the information for any of the subsidiaries within the group.
 
-*Article 368*
+##### Article 368
 
 **Deadlines**
 
@@ -15623,13 +14758,9 @@ Article 300 of this Regulation shall apply to the deadlines for disclosure by pa
 undertakings, insurance holding companies or mixed financial holding companies of their single solvency and financial
 condition report. For the purposes of this Article the deadlines referred to in Article 300 shall be extended by 6 weeks
 only during a period not exceeding four years from 1 January 2016.
-
-
 --- Page 217 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/217
-
-*Article 369*
+##### Article 369
 
 **Updates**
 
@@ -15642,7 +14773,7 @@ version of that report. Articles 365, 366 and 367 of this Regulation shall apply
 any updated version of the single solvency and financial condition report shall be disclosed as soon as possible after the
 major development referred to in paragraph 1 of this Article.
 
-*Article 370*
+##### Article 370
 
 **Reference**
 
@@ -15665,22 +14796,22 @@ company or mixed financial holding company shall include in their solvency and f
 to the group solvency and financial condition reports disclosed in accordance with Article 256(1) of Directive
 2009/138/EC.
 
-*Article 371*
+##### Article 371
 
 **Transitional arrangements on comparative information**
 
 Article 303 shall apply to the disclosure of comparative information by participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies.
 
-CHAPTER VI
+## *CHAPTER VI*
 
 **GROUP SUPERVISORY REPORTING**
 
-*SECTION 1*
+### Section 1
 
 ***Regular reporting***
 
-*Article 372*
+##### Article 372
 
 **Elements and contents**
 
@@ -15691,11 +14822,7 @@ quarterly reporting obligations in accordance with Article 35(6) of Directive 20
 supervisory report shall include annual quantitative templates only. Annual reporting obligations shall not include
 reporting on an item-by-item basis where all undertakings in the group are exempted from it according to Article 35 (7)
 of that Directive.
-
-
 --- Page 218 ---
-
-L 12/218 EN Official Journal of the European Union 17.1.2015
 
 2. The group regular supervisory report shall include all of the following additional information:
 
@@ -15762,11 +14889,7 @@ authority and comply with requirements equivalent to those set out in Article 21
 insurance and reinsurance undertaking, insurance holding company or mixed financial holding company
 whether the requirements to which these special purpose vehicles are subject to in the third country are
 equivalent to those set out in Article 211(2) of Directive 2009/138/EC;
-
-
 --- Page 219 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/219
 
 (ix) a description of each special purpose entity within the group other than those referred to in points (vii)
 and (viii) together with qualitative and quantitative information on the solvency requirement and own funds of
@@ -15785,7 +14908,7 @@ own funds has been made;
 (xii) where relevant, qualitative information on the reasons for the classification of own-fund items referred to in
 Articles 332 and 333 of this Regulation.
 
-*Article 373*
+##### Article 373
 
 **Deadlines**
 
@@ -15794,7 +14917,7 @@ insurance holding companies or mixed financial holding companies of their group 
 purposes of this Article the deadlines referred to in Article 312 shall be extended by 6 weeks, except for the ORSA
 supervisory report.
 
-*Article 374*
+##### Article 374
 
 **Languages**
 
@@ -15804,7 +14927,7 @@ participating insurance and reinsurance undertaking, insurance holding company o
 report the group regular supervisory reporting in a language most commonly understood by the supervisory authorities
 concerned, as agreed in the college of supervisor.
 
-*Article 375*
+##### Article 375
 
 **Additional transitional information on groups**
 
@@ -15818,22 +14941,18 @@ supervisor.
 companies shall submit to the group supervisor the information referred to in paragraph 1 no later than 20 weeks after
 the reference date of the opening financial statement as referred to in Article 314(1)(a).
 
-*SECTION 2*
+### Section 2
 
 ***Reporting on risk concentrations and intragroup transactions***
 
-*Article 376*
+##### Article 376
 
 **Significant risk concentrations (definition, identification and thresholds)**
 
 1. Participating insurance and reinsurance undertakings, insurance holding companies or mixed financial holding
 companies shall consider risk concentrations that could threaten the group solvency or liquidity position as significant
 risk concentrations.
-
-
 --- Page 220 ---
-
-L 12/220 EN Official Journal of the European Union 17.1.2015
 
 2. For the purposes of identifying significant risk concentrations, participating insurance and reinsurance
 undertakings, insurance holding companies or mixed financial holding companies shall consider, at least, direct and
@@ -15861,7 +14980,7 @@ activities;
 
 (e) the diversification of the group's insurance activities, in terms of geographical areas and lines of business.
 
-*Article 377*
+##### Article 377
 
 **Significant intragroup transactions (definition, identification)**
 
@@ -15890,15 +15009,15 @@ cash;
 
 (h) purchase, sale or lease of assets.
 
-TITLE III
+# TITLE III
 
 **THIRD COUNTRY EEQUIVALENCE AND FINAL PROVISIONS**
 
-CHAPTER I
+## *CHAPTER I*
 
 **UNDERTAKINGS CARRYING OUT REINSURANCE ACTIVITIES WITH THEIR HEAD OFFICE IN A THIRD COUNTRY**
 
-*Article 378*
+##### Article 378
 
 **Criteria for assessing third country equivalence**
 
@@ -15909,11 +15028,7 @@ of Directive 2009/138/EC shall be the following:
 (a) whether the supervisory authorities of that third country have the power, by law or regulation, to effectively
 supervise domestic insurance undertakings carrying out reinsurance activities or reinsurance undertakings and
 impose sanctions or take enforcement action where necessary;
-
-
 --- Page 221 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/221
 
 (b) whether the supervisory authorities of that third country have the necessary means, the relevant expertise,
 capacities including financial and human resources, and mandate to effectively protect policy holders and beneficiar­­
@@ -15979,11 +15094,7 @@ out reinsurance activities to hold adequate financial resources including all of
 
 (i) a requirement that those undertakings establish technical provisions with respect to all of their reinsurance
 obligations towards policy holders and beneficiaries of reinsurance contracts,
-
-
 --- Page 222 ---
-
-L 12/222 EN Official Journal of the European Union 17.1.2015
 
 (ii) a requirement that assets held to cover technical provisions are invested in the best interests of all policy
 holders and beneficiaries taking into account any disclosed policy objective,
@@ -16042,17 +15153,13 @@ company law, with other authorities, bodies or persons where that authority, bod
 obligation of professional secrecy in the relevant third country and whether that information is only disclosed once
 the express agreement of the supervisory authority from which it originates has been obtained and, where
 appropriate, has been obtained solely for the purposes for which the authority gave its agreement.
-
-
 --- Page 223 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/223
-
-CHAPTER II
+## *CHAPTER II*
 
 **RELATED THIRD COUNTRY INSURANCE AND REINSURANCE UNDERTAKINGS**
 
-*Article 379*
+##### Article 379
 
 **Criteria for assessing third country equivalence**
 
@@ -16116,11 +15223,7 @@ only use that information in the course of their duties and for any of the follo
 and solvency assessment have been met,
 
 (ii) to impose sanctions,
-
-
 --- Page 224 ---
-
-L 12/224 EN Official Journal of the European Union 17.1.2015
 
 (iii) in administrative appeals against decisions of the supervisory authorities,
 
@@ -16133,11 +15236,11 @@ professional secrecy in the relevant third country and whether that information 
 agreement of the supervisory authority from which it originates has been obtained and, where appropriate, has been
 obtained solely for the purposes for which the authority gave its agreement.
 
-CHAPTER III
+## *CHAPTER III*
 
 **INSURANCE AND REINSURANCE UNDERTAKINGS WITH THE PARENT UNDERTAKINGS OUTSIDE THE UNION**
 
-*Article 380*
+##### Article 380
 
 **Criteria for assessing third country equivalence**
 
@@ -16184,11 +15287,7 @@ equivalent to Article 42 of Directive 2009/138/EC;
 to the relevant supervisory authorities;
 
 (iv) requirements for ensuring that the outsourced functions or activities are effectively supervised;
-
-
 --- Page 225 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/225
 
 (h) whether the prudential regime of that third country requires an effective risk-management system in place at the
 group level comprising at least all of the following:
@@ -16257,11 +15356,7 @@ third country in the event that the capital requirement referred to in point (n)
 (q) whether the supervisory authorities of the third country restrict the use of own-fund items of a related insurance or
 reinsurance undertaking where they consider that they cannot effectively be made available to cover the capital
 requirement of the participating undertaking for which the group solvency is calculated;
-
-
 --- Page 226 ---
-
-L 12/226 EN Official Journal of the European Union 17.1.2015
 
 (r) whether the calculation of group solvency in the third country's prudential regime produces a result that is at least
 equivalent to the result achieved by either one of the calculation methods set out in Articles 230 and 233 of
@@ -16302,11 +15397,11 @@ obligation of professional secrecy in the relevant third country and whether tha
 the express agreement of the supervisory authority from which it originates has been obtained and, where
 appropriate, has been obtained solely for the purposes for which the authority gave its agreement.
 
-CHAPTER IV
+## *CHAPTER IV*
 
 **FINAL PROVISIONS**
 
-*Article 381*
+##### Article 381
 
 This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European*
 *Union* .
@@ -16320,13 +15415,9 @@ Done at Brussels, 10 October 2014.
 *The President*
 
 José Manuel BARROSO
-
-
 --- Page 227 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/227
-
-*ANNEX I*
+# *ANNEX I*
 
 **LINES OF BUSINESS**
 
@@ -16386,11 +15477,7 @@ Insurance obligations which cover legal expenses and cost of litigation.
 
 Insurance obligations which cover assistance for persons who get into difficulties while travelling, while away
 from home or while away from their habitual residence.
-
-
 --- Page 228 ---
-
-L 12/228 EN Official Journal of the European Union 17.1.2015
 
 (12) *Miscellaneous financial loss*
 
@@ -16454,22 +15541,14 @@ E. **Life reinsurance obligations**
 (35) *Health reinsurance*
 
 Reinsurance obligations which relate to the obligations included in lines of business 29 and 33.
-
-
 --- Page 229 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/229
 
 (36) *Life reinsurance*
 
 Reinsurance obligations which relate to the obligations included in lines of business 30 to 32 and 34.
-
-
 --- Page 230 ---
 
-L 12/230 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX II*
+# *ANNEX II*
 
 **SEGMENTATION OF NON-LIFE INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
 **DEVIATIONS FOR THE NON-LIFE PREMIUM AND RESERVE RISK SUB-MODULE**
@@ -16493,13 +15572,9 @@ L 12/230 EN Official Journal of the European Union 17.1.2015
 |10|Non-proportional casualty reinsurance|26|17 %|20 %|
 |11|Non-proportional marine, aviation and transport reinsurance|27|17 %|20 %|
 |12|Non-proportional property reinsurance|28|17 %|20 %|
-
-
 --- Page 231 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/231
-
-*ANNEX III*
+# *ANNEX III*
 
 **FACTOR FOR GEOGRAPHICAL DIVERSIFICATION OF PREMIUM AND RESERVE RISK**
 
@@ -16569,14 +15644,7 @@ reserve risk sub-module.
 |1|Northern Europe|Denmark (except Greenland), Estonia, Finland, Guernsey, Iceland, Ireland, Isle of Man, Jersey, Latvia, Lithuania, Norway, Sweden, United Kingdom (except Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, Pitcairn Islands, Saint Helena, Turks and Caicos Islands)|
 |2|Western Europe|Austria, Belgium, France (except French Guiana, French Polynesia, Guadeloupe, Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna), Germany, Liechtenstein, Luxem­ bourg, Monaco, Netherlands (except Aruba, Bonaire, Curaçao, Saba, Sint Eusta­ tius, Sint Maarten), Switzerland|
 |3|Eastern Europe|Belarus, Bulgaria, Czech Republic, Hungary, Moldova, Poland, Romania, Russia, Slovakia, Ukraine|
-
-
 --- Page 232 ---
-
-L 12/232 EN Official Journal of the European Union 17.1.2015
-
-
-
 
 |Col1|Region|Territories that the region consists of|
 |---|---|---|
@@ -16595,13 +15663,9 @@ L 12/232 EN Official Journal of the European Union 17.1.2015
 |16|South-east United States of America|Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, Puerto Rico, South Carolina, Tennessee, Virginia, West Virginia|
 |17|Mid-west United States of America|Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, Oklahoma, South Dakota, Wisconsin|
 |18|Western United States of America|Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Texas, Utah, Washington, Wyoming|
-
-
 --- Page 233 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/233
-
-*ANNEX IV*
+# *ANNEX IV*
 
 **CORRELATION MATRIX FOR NON-LIFE PREMIUM AND RESERVE RISK**
 
@@ -16623,13 +15687,9 @@ segments set out Annex II:
 |10|0,25|0,25|0,25|0,25|0,5|0,5|0,5|0,25|0,25|1|0,25|0,25|
 |11|0,25|0,25|0,5|0,5|0,25|0,25|0,25|0,25|0,5|0,25|1|0,25|
 |12|0,25|0,25|0,25|0,5|0,25|0,25|0,25|0,5|0,25|0,25|0,25|1|
-
-
 --- Page 234 ---
 
-L 12/234 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX V*
+# *ANNEX V*
 
 **PARAMETERS FOR THE WINDSTORM RISK SUB-MODULE**
 
@@ -16669,11 +15729,7 @@ L 12/234 EN Official Journal of the European Union 17.1.2015
 |AT|1,00|0,25|0,50|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |BE|0,25|1,00|0,25|0,25|0,50|0,25|0,00|0,50|0,50|0,25|0,00|0,75|0,75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |CH|0,50|0,25|1,00|0,25|0,25|0,00|0,25|0,50|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 235 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/235
 
 |Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16694,13 +15750,9 @@ L 12/234 EN Official Journal of the European Union 17.1.2015
 |MA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |SM|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |RE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 236 ---
 
-L 12/236 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX VI*
+# *ANNEX VI*
 
 **PARAMETERS FOR THE EARTHQUAKE RISK SUB-MODULE**
 
@@ -16740,11 +15792,7 @@ L 12/236 EN Official Journal of the European Union 17.1.2015
 |AT|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |BE|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |BG|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 237 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/237
 
 |Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16765,13 +15813,9 @@ L 12/236 EN Official Journal of the European Union 17.1.2015
 |GU|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,75|0,75|
 |MA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|1,00|0,75|
 |ST|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,75|1,00|
-
-
 --- Page 238 ---
 
-L 12/238 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX VII*
+# *ANNEX VII*
 
 **PARAMETERS FOR THE FLOOD RISK SUB-MODULE**
 
@@ -16810,11 +15854,7 @@ L 12/238 EN Official Journal of the European Union 17.1.2015
 |DE|0,75|0,25|0,25|0,50|0,25|1,00|0,25|0,00|0,00|0,75|0,25|0,00|0,25|0,00|
 |HU|0,50|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,25|0,25|0,50|0,00|0,25|0,00|
 |IT|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 239 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/239
 
 |Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16824,13 +15864,9 @@ L 12/238 EN Official Journal of the European Union 17.1.2015
 |SI|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|1,00|0,25|0,00|
 |SK|0,50|0,00|0,00|0,75|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,25|1,00|0,00|
 |UK|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 240 ---
 
-L 12/240 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX VIII*
+# *ANNEX VIII*
 
 **PARAMETETERS FOR THE HAIL RISK SUB-MODULE**
 
@@ -16865,13 +15901,9 @@ L 12/240 EN Official Journal of the European Union 17.1.2015
 |NL|0,00|0,25|0,00|0,00|0,00|0,25|1,00|0,00|0,00|
 |CH|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |ES|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 241 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/241
-
-*ANNEX IX*
+# *ANNEX IX*
 
 **THE GEOGRAPHICAL DIVISION OF REGIONS SET OUT IN ANNEX V INTO RISK ZONES**
 
@@ -16921,11 +15953,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 |6|21|6|15|07|15|05|15|05|06|06|BD|
 |7|22|7|16|08|16|06|16|06|07|07|BH|
 |8|23|8|17|09|17|07|17|07|08|08|BL|
-
-
 --- Page 242 ---
-
-L 12/242 EN Official Journal of the European Union 17.1.2015
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -16961,11 +15989,7 @@ L 12/242 EN Official Journal of the European Union 17.1.2015
 |38|54||57|40|48|37|47|37||38|FY|
 |39|55||58|41|49|38|48|38||39|G|
 |40|56||59|42|50|39|49|39||40|GL|
-
-
 --- Page 243 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/243
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17001,11 +16025,7 @@ L 12/242 EN Official Journal of the European Union 17.1.2015
 |70|92|||74|85|72|79|69|||MK|
 |71|93|||75||73|80|70|||ML|
 |72|94|||76||74|81|71|||N|
-
-
 --- Page 244 ---
-
-L 12/244 EN Official Journal of the European Union 17.1.2015
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17041,11 +16061,7 @@ L 12/244 EN Official Journal of the European Union 17.1.2015
 |102|||||||||||ST|
 |103|||||||||||SW|
 |104|||||||||||SY|
-
-
 --- Page 245 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/245
 
 |Region/ Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17082,11 +16098,7 @@ L 12/244 EN Official Journal of the European Union 17.1.2015
 |4|Kyustendil|Karlovacka|Vas|Bacau|
 |5|Blagoevgrad|Varazdinska|Zala|Bihor|
 |6|Pazardzhik|Koprivnicko-krizevac|Veszprem|Bistrita-Nasaud|
-
-
 --- Page 246 ---
-
-L 12/246 EN Official Journal of the European Union 17.1.2015
 
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
@@ -17121,11 +16133,7 @@ L 12/246 EN Official Journal of the European Union 17.1.2015
 |35||||Teleorman|
 |36||||Timisoara|
 |37||||Tulcea|
-
-
 --- Page 247 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/247
 
 |Region/ Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
@@ -17163,11 +16171,7 @@ L 12/246 EN Official Journal of the European Union 17.1.2015
 |21|21||SO||22|
 |22|22||TY||23|
 |23|23||WD||24|
-
-
 --- Page 248 ---
-
-L 12/248 EN Official Journal of the European Union 17.1.2015
 
 |Region/ Risk Zone|CH|CY|IE|NO|SE|
 |---|---|---|---|---|---|
@@ -17207,11 +16211,7 @@ The mapping of risk zones for the region FR shall be based on the first 2 digits
 |22|22|46|46|70|70|94|94|
 |23|23|47|47|71|71|95|95|
 |24|24|48|48|72|72|||
-
-
 --- Page 249 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/249
 
 **Mapping of risk zones for the Republic of Slovenia**
 
@@ -17227,11 +16227,7 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 |6|2201 2222 2250 2273 2287 2318 2343 2366 2391|2204 2223 2252 2274 2288 2319 2344 2367 2392|2205 2230 2253 2275 2289 2321 2345 2370 2394|2206 2231 2254 2276 2310 2322 2352 2371 3206|2208 2232 2255 2277 2311 2323 2353 2372 3210|2211 2233 2256 2281 2312 2324 2360 2373 3214|2212 2234 2257 2282 2313 2325 2361 2380 3215|2213 2235 2258 2283 2314 2326 2362 2381|2214 2236 2259 2284 2315 2327 2363 2382|2215 2241 2270 2285 2316 2331 2364 2383|2221 2242 2272 2286 2317 2342 2365 2390|
 |7|2000|2229|2341|2351|2354|||||||
 |8|9000 9222 9242 9264|9201 9223 9243 9265|9202 9224 9244|9203 9225 9245|9204 9226 9250|9205 9227 9251|9206 9231 9252|9207 9232 9253|9208 9233 9261|9220 9240 9262|9221 9241 9263|
-
-
 --- Page 250 ---
-
-L 12/250 EN Official Journal of the European Union 17.1.2015
 
 |Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17259,13 +16255,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |10|10|11|12|13|14|15|16|17|18|19|
 ||20|21|22|23|24|25|26|27|28|29|
 |11|37||||||||||
-
-
 --- Page 251 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/251
-
-*ANNEX X*
+# *ANNEX X*
 
 **RISK WEIGHTS FOR CATASTROPHE RISK ZONES**
 
@@ -17299,11 +16291,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |24|1,3||1,2|1,4|2,7||2,3|1,3|1,2|1,2||0,4||1,2|
 |25|2,1||0,9|1,3|2,2||1,9|0,8|0,9|1,1||0,5||1,3|
 |26|1,8||1,3|1,6|1,5||1,5|0,8|1,3|0,9||0,6||1,6|
-
-
 --- Page 252 ---
-
-L 12/252 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17339,11 +16327,7 @@ L 12/252 EN Official Journal of the European Union 17.1.2015
 |56|1,3|||0,6|1,7|||3,3||0,8||1,2||1,6|
 |57|1,6|||0,7|0,8|||1,1||1,1||1,3||0,7|
 |58|1,1|||0,8|1,3|||1,7||0,8||1,1||1,4|
-
-
 --- Page 253 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/253
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17378,11 +16362,7 @@ L 12/252 EN Official Journal of the European Union 17.1.2015
 |87|||||0,9|||1,5||1,0||1,2||1,2|
 |88|||||0,7|||1,0||1,0||1,4||1,0|
 |89|||||0,8|||1,7||1,4||1,9||1,1|
-
-
 --- Page 254 ---
-
-L 12/254 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17417,11 +16397,7 @@ L 12/254 EN Official Journal of the European Union 17.1.2015
 |118||||||||||||||1,0|
 |119||||||||||||||1,1|
 |120||||||||||||||1,4|
-
-
 --- Page 255 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/255
 
 |Zone/ Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17459,11 +16435,7 @@ L 12/254 EN Official Journal of the European Union 17.1.2015
 |21|0,4||0,4|2,5|0,9|1,3||0,1|0,3|3,3|0,2|1,5|0,4|0,0||1,6|
 |22|0,0||0,2|1,5|2,1|||0,1|0,2|7,2|0,0|0,8|0,6|0,0||5,4|
 |23|0,0||0,1|0,1|1,4|||0,1|0,2|3,3|0,0|1,4|0,3|2,0||0,4|
-
-
 --- Page 256 ---
-
-L 12/256 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17498,11 +16470,7 @@ L 12/256 EN Official Journal of the European Union 17.1.2015
 |52|3,1|||10,5||||1,9|0,1|3,7||4,2|0,5||||
 |53|1,7|||11,3||||2,0|0,2|1,4||3,2|0,1||||
 |54|3,4|||9,5||||0,2|0,1|0,8||5,9|0,5||||
-
-
 --- Page 257 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/257
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17537,11 +16505,7 @@ L 12/256 EN Official Journal of the European Union 17.1.2015
 |83||||||||4,0|0,5|||10,5|||||
 |84||||||||3,6|3,5|||6,3|||||
 |85||||||||2,2|0,6|||2,5|||||
-
-
 --- Page 258 ---
-
-L 12/258 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17578,11 +16542,7 @@ L 12/258 EN Official Journal of the European Union 17.1.2015
 |14|0,5||0,2|3,8|1,5|0,8|1,1|0,4|0,2|2,2|2,0||0,0|2,8|
 |15|0,9||0,2|4,5|2,7|0,3|0,3|2,0|0,3|1,2|1,3||0,2|7,0|
 |16|0,4||0,0|1,3|2,5|0,3|1,1|2,4|0,7|0,0|2,0||2,1|2,0|
-
-
 --- Page 259 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/259
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17617,11 +16577,7 @@ L 12/258 EN Official Journal of the European Union 17.1.2015
 |45|0,6||||0,8|3,5|1,7|1,6||0,3||||2,8|
 |46|0,1||||1,1|2,0|0,8|4,8||2,8||||1,0|
 |47|0,1||||0,7|4,5|2,3|3,2||1,1||||19,5|
-
-
 --- Page 260 ---
-
-L 12/260 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17656,11 +16612,7 @@ L 12/260 EN Official Journal of the European Union 17.1.2015
 |76|0,0|||||0,8|1,1|1,2||0,1||||4,5|
 |77|0,1|||||0,5|1,3|2,4||0,3||||1,3|
 |78||||||1,0|1,2|1,6||0,6||||2,0|
-
-
 --- Page 261 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/261
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17695,11 +16647,7 @@ L 12/260 EN Official Journal of the European Union 17.1.2015
 |107||||||||||||||1,0|
 |108||||||||||||||3,0|
 |109||||||||||||||3,8|
-
-
 --- Page 262 ---
-
-L 12/262 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -17735,11 +16683,7 @@ L 12/262 EN Official Journal of the European Union 17.1.2015
 |8|0,3|2,8|0,2|2,5|0,8|2,7|0,0|2,9|
 |9|1,4|2,4|1,5|1,7|0,2|27,6|0,0|9,6|
 |10|0,8||0,3|0,0|0,1|1,7|0,0|0,1|
-
-
 --- Page 263 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/263
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17774,11 +16718,7 @@ L 12/262 EN Official Journal of the European Union 17.1.2015
 |39|6,1|||2,5|5,4|11,6|3,3|3,1|
 |40|3,1|||7,5|7,9|2,8|3,3|0,2|
 |41|10,4|||2,5|3,7|2,3|7,5|5,9|
-
-
 --- Page 264 ---
-
-L 12/264 EN Official Journal of the European Union 17.1.2015
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17813,11 +16753,7 @@ L 12/264 EN Official Journal of the European Union 17.1.2015
 |70|1,3||||1,7|13,6|0,0|1,6|
 |71|4,5||||6,4|12,1|0,0|2,9|
 |72|15,0||||5,6|0,7|0,0|7,1|
-
-
 --- Page 265 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/265
 
 |Zone/ Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
@@ -17855,11 +16791,7 @@ L 12/264 EN Official Journal of the European Union 17.1.2015
 |2|0,3|21|0,5|40|0,3|59|6,0|78|2,0|
 |3|0,5|22|0,3|41|0,5|60|0,3|79|0,8|
 |4|0,3|23|0,3|42|0,3|61|0,3|80|0,3|
-
-
 --- Page 266 ---
-
-L 12/266 EN Official Journal of the European Union 17.1.2015
 
 |Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
 |---|---|---|---|---|---|---|---|---|---|
@@ -17878,13 +16810,9 @@ L 12/266 EN Official Journal of the European Union 17.1.2015
 |17|2,3|36|0,5|55|0,3|74|0,3|93|0,8|
 |18|0,5|37|1,5|56|0,3|75|0,3|94|1,0|
 |19|0,3|38|0,3|57|1,0|76|0,3|95|0,8|
-
-
 --- Page 267 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/267
-
-*ANNEX XI*
+# *ANNEX XI*
 
 **LIABILITY RISK GROUPS, RISK FACTORS AND CORRELATION COEFFICIENTS FOR THE LIABILITY RISK**
 **SUB-MODULE**
@@ -17931,13 +16859,9 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 |3|0,5|0|1|0,25|0,5|
 |4|0,25|0,25|0,25|1|0,5|
 |5|0,5|0,5|0,5|0,5|1|
-
-
 --- Page 268 ---
 
-L 12/268 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX XII*
+# *ANNEX XII*
 
 **GROUPS OF OBLIGATIONS AND RISK FACTORS FOR THE SUB-MODULE FOR OTHER NON-LIFE**
 **CATASTROPHE RISK**
@@ -17962,7 +16886,7 @@ of repair or replacement in the event of a breakdown of a consumer good used by 
 and which may also provide additional cover against eventualities such as accidental damage, loss or theft and assistance
 in setting up, maintaining and operating the good.
 
-*ANNEX XIII*
+# *ANNEX XIII*
 
 **LIST OF REGIONS FOR WHICH NATURAL CATASTROPHE RISK IS NOT CALCULATED BASED ON**
 
@@ -17985,13 +16909,9 @@ in setting up, maintaining and operating the good.
 — Swiss Confederation
 
 — Vatican City State
-
-
 --- Page 269 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/269
-
-*ANNEX XIV*
+# *ANNEX XIV*
 
 **SEGMENTATION OF NSLT HEALTH INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
 **DEVIATIONS FOR THE NSLT HEALTH PREMIUM AND RESERVE RISK SUB-MODULE**
@@ -18008,7 +16928,7 @@ in setting up, maintaining and operating the good.
 |4|Non-proportional health reinsurance|25|17 %|20 %|
 
 
-*ANNEX XV*
+# *ANNEX XV*
 
 **CORRELATION MATRIX FOR NSLT HEALTH PREMIUM AND RESERVE RISK**
 
@@ -18022,13 +16942,9 @@ segments set out Annex XIV:
 |2|0,5|1|0,5|0,5|
 |3|0,5|0,5|1|0,5|
 |4|0,5|0,5|0,5|1|
-
-
 --- Page 270 ---
 
-L 12/270 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX XVI*
+# *ANNEX XVI*
 
 **HEALTH CATASTROPHE RISK SUB-MODULE OF THE SOLVENCY CAPITAL REQUIREMENT STANDARD**
 **FORMULA**
@@ -18063,11 +16979,7 @@ L 12/270 EN Official Journal of the European Union 17.1.2015
 |Portuguese Republic|0,30 %|
 |Romania|0,15 %|
 |Slovak Republic|0,30 %|
-
-
 --- Page 271 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/271
 
 |Country s|rs — Ratio of persons affected by the mass acci­ dent in country s|
 |---|---|
@@ -18099,13 +17011,9 @@ L 12/270 EN Official Journal of the European Union 17.1.2015
 |Hospitalisation|1 %|
 |Consultation with a medical practitioner|20 %|
 |No formal medical care sought|79 %|
-
-
 --- Page 272 ---
 
-L 12/272 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX XVII*
+# *ANNEX XVII*
 
 **METHOD-SPECIFIC DATA REQUIREMENTS AND METHOD SPECIFICATIONS FOR UNDERTAKING-**
 **SPECIFIC PARAMETERS OF THE STANDARD FORMULA**
@@ -18168,11 +17076,7 @@ contracts and special purpose vehicles that are in place to provide cover for th
 reflected in the non-life or health catastrophe risk sub-modules;
 
 (f) the aggregated losses include the expenses incurred in servicing the insurance and reinsurance obligations;
-
-
 --- Page 273 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/273
 
 (g) the data fit the following assumptions:
 
@@ -18236,11 +17140,7 @@ where:
 where:
 
 i. and are defined in point (c) and (d) of paragraph 4;
-
-
 --- Page 274 ---
-
-L 12/274 EN Official Journal of the European Union 17.1.2015
 
 ii. *x* denotes the following amount:
 
@@ -18313,11 +17213,7 @@ in the best estimate of the provision for claims outstanding in that particular 
 
 ii. the variance of the amount referred to paragraph 1(a) in a particular segment and financial year is
 quadratic in the provision for claims outstanding in a particular segment and financial year;
-
-
 --- Page 275 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/275
 
 iii. the amount referred to paragraph 1(a) follows a lognormal distribution;
 
@@ -18386,11 +17282,7 @@ ii. *x* denotes the following amount:
 
 
 *x* *t*
-
-
 --- Page 276 ---
-
-L 12/276 EN Official Journal of the European Union 17.1.2015
 
 (6) The mixing parameter and the logarithmic variation coefficient shall be the values and respectively for
 which the following amount becomes minimal:
@@ -18454,11 +17346,7 @@ amounts:
 i. cumulative claims amounts for different accident years are mutually stochastically independent;
 
 ii. for all accident years the implied incremental claim amounts are stochastically independent;
-
-
 --- Page 277 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/277
 
 iii. for all accident years the expected value of the cumulative claims amount for a development year is
 proportional to the cumulative claims amount for the preceding development year;
@@ -18525,11 +17413,7 @@ accident year *i* and development year *j*, as set out in paragraph 4(c).
 
 
 *C* ð *i,j* Þ
-
-
 --- Page 278 ---
-
-L 12/278 EN Official Journal of the European Union 17.1.2015
 
 (c) for all development years, *S′* *j* denotes for a specific development year *j* the following amount:
 
@@ -18597,11 +17481,7 @@ tically independent.
 data are available;
 
 (b) *T* denotes the latest financial year for which data are available;
-
-
 --- Page 279 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/279
 
 (c) *A* *(i,t)* denotes the annuity benefits of beneficiary *i* in financial year *t* ;
 
@@ -18674,11 +17554,7 @@ where:
 (a) *N* *t* denotes the number of changes in annuity benefits in financial years *t* that are larger than zero;
 
 (b) *N* denotes the estimated average change in annuity benefits set out in point (b) of paragraph 5.
-
-
 --- Page 280 ---
-
-L 12/280 EN Official Journal of the European Union 17.1.2015
 
 (8) The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
@@ -18761,11 +17637,7 @@ X
 
 
 *Y* [2] *i*
-
-
 --- Page 281 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/281
 
 (e) *b* 1 denotes the amount of the retention of the recognisable excess of loss reinsurance contract referred to in
 Article 218(2);
@@ -18871,11 +17743,7 @@ accordance with paragraph 3 of Article 116;
 
 (b) *NP′* *(h)* denotes the estimated adjustment factor for non-proportional reinsurance of homogeneous risk
 group *h* determined in accordance with paragraph 5.
-
-
 --- Page 282 ---
-
-L 12/282 EN Official Journal of the European Union 17.1.2015
 
 G. **Credibility factor**
 
@@ -18922,13 +17790,9 @@ and for the revision risk method shall be equal to the following:
 (d) for the revision risk method, the number of financial years for which data are available;
 
 (e) for the non-proportional reinsurance method, the number of reporting years for which data are available.
-
-
 --- Page 283 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/283
-
-*ANNEX XVIII*
+# *ANNEX XVIII*
 
 **INTEGRATION TECHNIQUES FOR PARTIAL INTERNAL MODELS**
 
@@ -19006,11 +17870,7 @@ where:
 (c) *SCR* *i* and *SCR* *j* denote the capital requirements for the items *i* and *j* of the aggregation list respectively;
 
 (d) *SCR* *int* denotes the capital requirement for intangible asset risk as set out in Article 203.
-
-
 --- Page 284 ---
-
-L 12/284 EN Official Journal of the European Union 17.1.2015
 
 (2) The items on the aggregation list shall meet the following requirements:
 
@@ -19082,11 +17942,7 @@ where:
 
 (a) *S* *S* denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
-
-
 --- Page 285 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/285
 
 (b) *ω* 1 denotes the first implied correlation parameter as set out in paragraph 2;
 
@@ -19189,11 +18045,7 @@ t *j* ¼ *k* þ1 *i* ¼1 *i* ¼ *l* þ1
 
 (a) *P* denotes the capital requirement reflecting the risks that are within the scope of the partial internal model,
 calculated with the partial internal model;
-
-
 --- Page 286 ---
-
-L 12/286 EN Official Journal of the European Union 17.1.2015
 
 (b) *S* *S* denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
@@ -19260,11 +18112,7 @@ denominations:
 
 (a) *P* denotes the capital requirement reflecting the risks of the sub-modules of that particular sub-module
 which are within the scope of the partial internal model, calculated with the partial internal model;
-
-
 --- Page 287 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/287
 
 (b) *S* *S* denotes the capital requirement derived by applying that particular sub-module only to the risks not
 covered by the partial internal model;
@@ -19372,11 +18220,7 @@ other sub-modules;
 
 ii. the sub-module is calculated in accordance with paragraph 3 provided that the sub-module consist of
 other sub-modules.
-
-
 --- Page 288 ---
-
-L 12/288 EN Official Journal of the European Union 17.1.2015
 
 (3) For all modules of the standard formula referred to in paragraph 2(b)(ii), the capital requirement of a particular
 module shall be calculated with the formula set out in paragraph 1, applying the following denominations:
@@ -19391,13 +18235,9 @@ other sub-modules;
 
 ii. the sub-module is calculated in accordance with this paragraph provided that the sub-module consist of
 other sub-modules.
-
-
 --- Page 289 ---
 
-17.1.2015 EN Official Journal of the European Union L 12/289
-
-*ANNEX XIX*
+# *ANNEX XIX*
 
 **MCR RISK FACTORS FOR NON-LIFE AND HEALTH INSURANCE OR REINSURANCE OBLIGATIONS**
 
@@ -19423,13 +18263,9 @@ other sub-modules.
 |14|Non-proportional marine, aviation and transport reinsurance|27|18,6 %|15,9 %|
 |15|Non-proportional property reinsurance|28|18,6 %|15,9 %|
 |16|Non-proportional health reinsurance|25|18,6 %|15,9 %|
-
-
 --- Page 290 ---
 
-L 12/290 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX XX*
+# *ANNEX XX*
 
 **STRUCTURE OF THE SOLVENCY AND FINANCIAL CONDITION REPORT AND REGULAR SUPERVISORY**
 
@@ -19494,11 +18330,7 @@ D.3 Other liabilities
 D.4 Alternative methods for valuation
 
 D.5 Any other information
-
-
 --- Page 291 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/291
 
 E. **Capital Management**
 
@@ -19514,13 +18346,9 @@ E.5 Non-compliance with the Minimum Capital Requirement and non-compliance with 
 Requirement
 
 E.6 Any other information
-
-
 --- Page 292 ---
 
-L 12/292 EN Official Journal of the European Union 17.1.2015
-
-*ANNEX XXI*
+# *ANNEX XXI*
 
 **AGGREGATE STATISTICAL DATA**
 
@@ -19582,11 +18410,7 @@ in own funds, and the total amount of ancillary own funds;
 (19) Where the Solvency Capital Requirement is calculated using the standard formula the total amount of the
 Solvency Capital Requirement by risk module and sub-module — at the level of aggregation available —
 expressed as percentage of the total amount of the Solvency Capital Requirement;
-
-
 --- Page 293 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/293
 
 (20) Where the Solvency Capital Requirement for credit risk is calculated using the standard formula the total
 amount of the Solvency Capital Requirement for spread risk and market risk concentration sub-modules and
@@ -19649,11 +18473,7 @@ national level is present as referred to in Article 217 of Directive 2009/138/EC
 (29) The number of insurance groups that have been allowed to use method 2 or a combination of methods 1
 and 2 in accordance with Article 220(2) of Directive 2009/138/EC for the calculation of the solvency at the
 level of the group;
-
-
 --- Page 294 ---
-
-L 12/294 EN Official Journal of the European Union 17.1.2015
 
 (30) The total amount of the group eligible own funds for the insurance groups of which the supervisory authority
 is the group supervisor, separately for group eligible own funds calculated in accordance with method 1 as
@@ -19715,11 +18535,7 @@ use this adjustment and how many were successful.
 average duration;
 
 (12) The number of authorisations granted in accordance with Article 304 of Directive 2009/138/EC;
-
-
 --- Page 295 ---
-
-17.1.2015 EN Official Journal of the European Union L 12/295
 
 (13) The number of applications submitted to the supervisory authority to use the transitional risk-free interest rate
 term structure referred to in Article 308c Directive 2009/138/EC, how many were successful and the number
@@ -19745,11 +18561,9 @@ them;
 Article 30 of the Regulation (EU) No 1094/2010, in which the supervisory authority participated.
 
 The information set out in paragraphs 2 to 15 shall be provided in relation to the last calendar year.
-
-
 --- Page 296 ---
 
-*ANNEX XXII*
+# *ANNEX XXII*
 
 **CORRELATION COEFFICIENTS FOR WINDSTORM RISK**
 
@@ -19778,8 +18592,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |27|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |28|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,75|0,50|0,75|0,75|0,50|
 |30|0,75|1,00|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|
-
-
 --- Page 297 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|
@@ -19807,8 +18619,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |48|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|
 |49|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,50|0,75|0,75|1,00|
 |50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|
-
-
 --- Page 298 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|
@@ -19836,8 +18646,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |70|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,75|0,50|0,75|0,50|0,50|
 |71|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,50|0,50|
 |72|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|0,75|0,75|0,75|0,75|0,50|0,75|0,50|0,50|
-
-
 --- Page 299 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|
@@ -19865,8 +18673,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |97|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |98|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|
 |99|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,50|0,25|0,25|0,50|0,50|0,50|
-
-
 --- Page 300 ---
 
 |j i|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|
@@ -19893,8 +18699,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |36|0,75|1,00|0,75|0,75|0,75|0,50|0,50|0,75|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,00|0,00|
 |37|0,75|0,75|0,75|0,50|0,75|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |38|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,00|0,25|
-
-
 --- Page 301 ---
 
 |j i|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|
@@ -19922,8 +18726,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |56|0,50|0,50|0,50|0,75|0,75|0,50|0,75|0,50|0,75|0,75|0,50|0,75|1,00|1,00|1,00|1,00|0,75|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,00|
 |57|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,50|0,50|0,25|0,25|
 |60|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,50|0,50|
-
-
 --- Page 302 ---
 
 |j i|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|
@@ -19951,8 +18753,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |82|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|
 |83|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|
 |84|0,25|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,00|
-
-
 --- Page 303 ---
 
 |j i|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|
@@ -19979,8 +18779,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |11|0,25|0,75|0,75|0,75|0,75|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,75|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |12|0,00|0,75|0,75|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |13|0,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,50|0,25|0,25|0,50|0,25|0,50|0,50|0,00|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 304 ---
 
 |j i|69|70|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -20006,8 +18804,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |39|0,00|0,75|0,75|0,75|0,75|0,50|0,50|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |40|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|
 |41|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
-
-
 --- Page 305 ---
 
 |j i|69|70|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -20033,8 +18829,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |62|0,50|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |63|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |64|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
-
-
 --- Page 306 ---
 
 |j i|69|70|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -20062,8 +18856,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |86|0,00|0,50|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|
 |87|0,00|0,50|0,50|0,25|0,25|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,50|
 |88|0,00|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,75|
-
-
 --- Page 307 ---
 
 |j i|69|70|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -20092,8 +18884,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |5|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
 |6|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
 |7|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 308 ---
 
 |j i|1|2|3|4|5|6|7|8|9|
@@ -20123,8 +18913,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |29|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
 |30|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|
 |31|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|
-
-
 --- Page 309 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|25|26|27|28|29|30|31|32|33|
@@ -20152,8 +18940,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |54|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|
 |55|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|
 |56|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 310 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|25|26|27|28|29|30|31|32|33|
@@ -20181,8 +18967,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |76|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |77|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 311 ---
 
 |j i|34|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|
@@ -20211,8 +18995,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |78|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|
 |79|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|
-
-
 --- Page 312 ---
 
 |j i|34|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|
@@ -20237,8 +19019,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |56|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|
 |57|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|1,00|1,00|
 |58|0,75|0,75|0,75|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|1,00|1,00|
-
-
 --- Page 313 ---
 
 |j i|34|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|
@@ -20263,8 +19043,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |77|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|
 |78|0,8|0,5|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|1|0,8|0,8|1|1|0,8|
 |79|0,8|0,5|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|1|0,8|0,8|1|1|0,8|
-
-
 --- Page 314 ---
 
 |j i|59|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -20288,8 +19066,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |31|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,8|0,8|
 |32|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,8|0,8|
 |33|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,8|0,8|
-
-
 --- Page 315 ---
 
 |j i|59|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -20314,8 +19090,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |56|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|1|1|
 |57|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|1|1|
 |58|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,8|0,8|
-
-
 --- Page 316 ---
 
 |j i|59|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -20340,8 +19114,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |77|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1|1|
 |78|1|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|1|1|1|1|1|1|0,8|1|1|1|
 |79|1|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|0,8|1|1|1|1|1|1|0,8|1|1|1|
-
-
 --- Page 317 ---
 
 **Correlation coefficients for windstorm risk in the Kingdom of Denmark**
@@ -20373,8 +19145,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |5|1,00|0,25|0,75|1,00|1,00|1,00|1,00|0,25|0,75|0,50|0,75|0,75|1,00|0,25|0,75|0,50|0,50|0,50|0,75|0,25|0,75|0,25|0,75|0,75|0,75|
 |6|0,75|0,25|0,50|1,00|1,00|1,00|0,75|0,25|0,50|0,25|0,75|0,75|1,00|0,25|0,75|0,50|0,25|0,50|0,50|0,25|0,50|0,25|0,50|0,50|0,50|
 |7|0,75|0,25|0,75|0,75|1,00|0,75|1,00|0,25|0,75|0,50|0,75|1,00|0,75|0,00|1,00|0,50|0,50|0,50|0,75|0,25|0,75|0,00|0,75|0,75|0,75|
-
-
 --- Page 318 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20402,8 +19172,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |26|1,00|0,25|0,75|1,00|1,00|0,75|1,00|0,25|0,75|0,50|0,75|1,00|1,00|0,00|1,00|0,50|0,50|0,50|0,75|0,25|0,75|0,25|0,75|0,75|0,75|
 |27|0,25|0,75|0,25|0,25|0,25|0,25|0,25|0,75|0,00|0,50|0,25|0,25|0,25|1,00|0,25|0,25|0,50|0,50|0,25|0,00|0,50|0,75|0,25|0,25|0,25|
-
-
 --- Page 319 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20429,8 +19197,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |46|0,75|0,25|0,75|0,75|0,75|0,50|1,00|0,25|0,75|0,50|0,75|1,00|0,50|0,00|1,00|0,50|0,50|0,50|1,00|0,25|0,50|0,00|0,75|1,00|0,50|
 |47|0,75|0,25|0,50|0,75|0,75|0,50|0,75|0,25|0,50|0,50|0,75|0,75|0,50|0,25|0,75|0,75|0,50|0,50|0,75|0,25|0,50|0,25|0,75|1,00|0,50|
 |48|0,75|0,25|0,50|0,75|0,75|0,50|1,00|0,25|0,50|0,25|0,75|1,00|0,75|0,00|1,00|0,50|0,25|0,50|0,75|0,00|0,50|0,00|0,50|0,75|0,50|
-
-
 --- Page 320 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20458,8 +19224,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |66|0,50|0,25|0,50|0,75|0,75|0,50|0,75|0,25|1,00|0,25|1,00|0,75|0,75|0,00|0,50|0,25|0,25|0,25|0,50|0,00|0,50|0,00|0,50|0,50|0,50|
 |67|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,75|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,50|0,25|0,75|0,25|0,50|0,50|0,75|
 |68|0,75|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,50|0,00|0,75|0,25|0,50|0,50|1,00|
-
-
 --- Page 321 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20487,8 +19251,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |86|0,50|0,50|0,75|0,25|0,50|0,25|0,50|0,50|0,25|0,50|0,25|0,50|0,25|0,25|0,50|0,75|1,00|0,75|0,75|0,25|0,50|0,50|0,75|0,50|0,50|
 |87|0,75|0,25|0,75|0,50|0,75|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,75|1,00|1,00|0,75|1,00|0,00|0,50|0,25|1,00|0,75|0,50|
 |88|0,75|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,75|0,50|0,50|0,25|0,25|0,50|0,50|0,25|0,75|0,50|0,00|1,00|0,25|0,50|0,50|1,00|
-
-
 --- Page 322 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20516,8 +19278,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |11|0,75|0,25|0,25|0,00|0,75|1,00|0,75|0,50|1,00|0,00|0,50|0,25|0,75|0,50|0,75|0,25|0,75|0,75|0,00|0,25|0,75|0,75|0,75|0,25|0,00|
 |12|1,00|0,25|0,25|0,00|1,00|1,00|1,00|0,75|0,75|0,00|0,50|0,25|0,75|0,75|0,75|0,25|0,75|1,00|0,25|0,25|1,00|0,75|1,00|0,25|0,00|
 |13|1,00|0,25|0,25|0,25|1,00|0,75|0,50|0,50|1,00|0,25|0,25|0,25|1,00|0,25|0,50|0,25|0,75|0,75|0,25|0,25|0,50|0,50|0,75|0,25|0,25|
-
-
 --- Page 323 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -20545,8 +19305,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |31|0,75|0,25|0,25|0,25|0,75|1,00|1,00|0,75|0,75|0,25|0,50|0,50|0,75|0,50|0,75|0,25|0,75|0,75|0,25|0,25|0,75|0,75|0,75|0,25|0,25|
 |32|0,75|0,25|0,25|0,00|0,75|1,00|1,00|0,75|0,75|0,00|0,50|0,25|0,75|0,50|0,75|0,25|0,75|0,75|0,25|0,25|1,00|1,00|0,75|0,25|0,00|
 |33|0,50|0,25|0,25|0,25|0,50|0,75|0,75|1,00|0,50|0,25|0,50|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,75|1,00|0,50|0,50|0,25|
-
-
 --- Page 324 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -20574,8 +19332,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |51|0,50|0,75|0,75|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,75|0,75|0,50|0,50|0,25|0,75|0,50|0,25|0,50|0,75|0,25|0,25|0,25|0,50|0,50|
 |52|0,50|0,50|0,75|0,25|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,75|0,25|0,75|0,50|0,50|0,50|0,75|0,50|0,25|0,50|0,50|0,25|
 |53|0,25|1,00|1,00|0,75|0,25|0,25|0,25|0,25|0,25|1,00|0,50|0,75|0,50|0,25|0,25|0,75|0,25|0,25|1,00|0,75|0,25|0,25|0,25|1,00|0,75|
-
-
 --- Page 325 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -20602,8 +19358,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |73|1,00|0,50|0,50|0,25|0,75|0,75|0,75|0,50|0,75|0,25|0,75|0,50|1,00|1,00|0,75|0,50|1,00|0,75|0,25|0,50|0,75|0,75|0,75|0,50|0,25|
 |74|0,75|0,50|0,50|0,25|0,75|0,75|0,75|0,50|0,75|0,25|0,75|0,50|1,00|1,00|0,75|0,50|1,00|0,75|0,25|0,50|0,75|0,75|0,75|0,50|0,25|
 |75|0,25|1,00|1,00|0,50|0,25|0,25|0,25|0,50|0,25|0,75|0,75|0,75|0,50|0,50|0,25|0,75|0,50|0,25|0,75|1,00|0,25|0,25|0,25|0,75|0,75|
-
-
 --- Page 326 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -20628,8 +19382,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |93|0,50|1,00|1,00|0,50|0,25|0,50|0,25|0,25|0,25|0,75|0,75|0,75|0,50|0,50|0,25|0,75|0,50|0,25|0,50|0,75|0,25|0,25|0,25|0,75|0,75|
 |94|0,50|1,00|1,00|0,50|0,25|0,50|0,25|0,25|0,25|0,75|0,75|0,75|0,50|0,50|0,25|0,75|0,50|0,25|0,50|1,00|0,25|0,25|0,25|0,75|0,75|
 |95|0,50|1,00|1,00|0,50|0,25|0,50|0,25|0,25|0,25|0,75|0,50|0,75|0,50|0,50|0,25|0,75|0,50|0,25|0,50|0,75|0,25|0,25|0,25|0,75|0,75|
-
-
 --- Page 327 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -20654,8 +19406,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |18|0,75|0,75|0,50|0,75|0,75|0,50|0,50|1,00|0,25|0,50|0,50|0,25|0,75|0,50|0,50|0,25|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |19|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,75|0,25|0,25|0,25|0,00|1,00|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,75|0,25|0,75|0,75|0,25|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,25|0,00|
-
-
 --- Page 328 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -20682,8 +19432,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |37|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,75|0,25|0,75|0,75|0,25|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,50|1,00|0,50|0,50|0,75|
 |38|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,75|0,25|0,50|0,25|0,25|1,00|0,75|0,75|0,50|0,75|0,75|1,00|0,75|1,00|0,50|1,00|1,00|0,50|
 |39|0,50|0,75|0,25|0,75|0,50|0,25|0,50|0,75|0,25|0,25|0,25|0,00|0,75|0,50|0,50|0,50|0,75|0,75|1,00|1,00|1,00|0,25|1,00|1,00|0,50|
-
-
 --- Page 329 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -20711,8 +19459,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |57|1,00|1,00|0,50|1,00|1,00|0,25|1,00|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,25|0,25|1,00|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,75|
 |58|0,75|0,75|0,50|0,75|0,75|0,25|0,75|1,00|0,25|0,50|0,50|0,25|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|
 |59|0,75|0,25|0,50|0,50|0,50|0,50|0,50|0,25|1,00|0,75|0,50|1,00|0,25|0,00|0,00|0,00|0,50|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,75|
-
-
 --- Page 330 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -20739,8 +19485,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |76|0,50|0,25|0,75|0,50|0,50|0,75|0,50|0,25|0,75|0,75|1,00|0,75|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,75|0,25|0,25|0,75|
 |77|1,00|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|1,00|0,75|0,50|0,50|0,25|0,25|0,25|0,75|0,50|0,50|0,50|0,50|0,75|0,50|0,50|1,00|
 |78|0,75|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,75|1,00|1,00|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|1,00|0,50|0,50|1,00|
-
-
 --- Page 331 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -20768,8 +19512,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |1|0,25|0,50|0,25|0,50|0,25|0,75|0,75|0,75|1,00|0,50|0,50|0,75|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,50|
 |2|0,75|1,00|1,00|0,50|1,00|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,75|0,25|0,75|1,00|1,00|1,00|1,00|
 |3|0,25|0,50|0,50|0,75|0,25|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 332 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -20796,8 +19538,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |23|0,25|0,50|0,50|0,75|0,25|0,50|0,50|0,50|0,75|0,75|0,75|1,00|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,50|
 |24|0,25|0,50|0,25|0,50|0,25|0,75|0,75|0,50|0,75|0,50|0,50|0,75|0,50|0,25|0,50|0,50|0,50|0,25|0,50|0,25|
 |25|0,25|0,50|0,50|0,50|0,25|0,75|0,50|0,50|0,75|0,50|0,50|0,50|1,00|0,75|1,00|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 333 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -20823,8 +19563,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |44|0,50|0,50|0,75|0,75|0,50|0,25|0,25|0,25|0,25|1,00|0,75|0,50|0,25|0,50|0,25|0,50|0,75|0,50|0,50|0,50|
 |45|0,50|1,00|0,75|0,75|0,50|0,25|0,25|0,25|0,25|0,50|0,75|0,50|0,75|1,00|0,50|1,00|1,00|0,75|1,00|0,75|
 |46|0,00|0,25|0,25|0,50|0,25|1,00|1,00|0,50|0,75|0,25|0,50|0,75|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 334 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -20852,8 +19590,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |64|0,00|0,25|0,25|0,50|0,25|0,75|0,75|0,50|0,75|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|
 |65|0,00|0,25|0,25|0,25|0,25|0,75|1,00|0,50|0,75|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |66|0,00|0,25|0,25|0,25|0,25|0,75|0,75|0,75|0,75|0,00|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 335 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -20882,8 +19618,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |85|0,50|0,50|0,50|1,00|0,50|0,25|0,25|0,25|0,25|1,00|0,75|0,75|0,25|0,50|0,25|0,50|0,50|0,50|0,50|0,50|
 |86|0,25|0,75|0,50|1,00|0,25|0,50|0,50|0,25|0,50|0,75|1,00|0,75|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,50|
 |87|0,25|0,50|0,50|0,75|0,25|0,50|0,50|0,50|0,75|0,75|0,75|1,00|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 336 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -20912,8 +19646,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |9|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|0,75|0,50|0,50|0,50|0,25|0,25|0,50|0,25|0,25|0,25|
 |10|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,25|0,50|
 |12|0,75|0,75|1,00|0,75|1,00|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,50|0,50|
-
-
 --- Page 337 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20940,8 +19672,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |29|0,50|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,75|0,50|0,50|
 |30|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,50|0,50|
 |31|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,50|0,50|
-
-
 --- Page 338 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20968,8 +19698,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|
 |51|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|
-
-
 --- Page 339 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -20995,8 +19723,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |71|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |72|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |73|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 340 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -21022,8 +19748,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |92|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |93|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |94|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,50|0,50|0,75|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 341 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -21050,8 +19774,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |14|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |15|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |16|0,50|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 342 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -21078,8 +19800,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |33|0,50|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |34|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|
 |35|0,25|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 343 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -21106,8 +19826,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |53|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
 |54|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|1,00|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,50|0,50|
 |55|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|
-
-
 --- Page 344 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -21135,8 +19853,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |74|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |75|0,25|0,25|0,25|0,50|0,50|0,25|0,50|0,50|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|
 |76|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|
-
-
 --- Page 345 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -21162,8 +19878,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |95|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|1,00|0,75|0,50|0,75|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,25|
 |96|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|1,00|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|
 |97|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 346 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -21191,8 +19905,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |18|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |19|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|
 |20|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 347 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|
@@ -21220,8 +19932,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |38|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |39|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |40|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 348 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|
@@ -21249,8 +19959,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |59|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |60|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
 |61|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
-
-
 --- Page 349 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|
@@ -21278,8 +19986,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |80|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|
 |81|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|
 |82|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|
-
-
 --- Page 350 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21306,8 +20012,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |97|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|
 |98|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|
 |99|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 351 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21333,8 +20037,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |23|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |24|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 352 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21360,8 +20062,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |45|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|
 |46|0,50|0,25|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,75|
 |47|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,75|
-
-
 --- Page 353 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21388,8 +20088,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |65|1,00|0,75|1,00|0,75|0,75|0,75|0,25|0,25|0,50|0,25|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|
 |66|1,00|1,00|1,00|1,00|0,75|0,75|0,50|0,25|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |67|1,00|1,00|1,00|1,00|0,75|0,75|0,50|0,25|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|
-
-
 --- Page 354 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21416,8 +20114,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |84|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
 |85|1,00|1,00|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|
 |86|1,00|1,00|1,00|1,00|1,00|1,00|0,50|0,50|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|0,75|
-
-
 --- Page 355 ---
 
 |j i|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21446,8 +20142,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |CN|0,75|0,50|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|1,00|0,75|0,50|
 |CW|0,75|0,75|0,75|1,00|0,25|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,50|1,00|0,75|0,75|0,50|0,75|0,50|0,50|1,00|1,00|0,75|1,00|1,00|
 |DL|0,50|0,25|0,75|0,25|1,00|0,50|0,75|0,50|0,25|0,25|0,75|0,50|0,50|0,75|0,50|0,50|0,75|0,75|0,50|0,75|1,00|0,25|0,25|0,50|0,25|0,25|
-
-
 --- Page 356 ---
 
 |j i|CE|CK|CN|CW|DL|DN|GY|KE|KK|KY|LD|LH|LK|LM|LS|MH|MN|MO|OY|RN|SO|TY|WD|WH|WW|WX|
@@ -21473,8 +20167,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WH|1,00|0,75|1,00|0,75|0,50|1,00|1,00|1,00|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|0,50|1,00|0,75|0,50|
 |WW|0,75|0,75|0,75|1,00|0,25|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,50|1,00|0,75|0,75|0,50|0,75|0,75|0,50|1,00|1,00|0,75|1,00|1,00|
 |WX|0,75|0,75|0,50|1,00|0,25|0,75|0,50|0,75|1,00|0,75|0,50|0,75|0,75|0,25|0,75|0,75|0,50|0,25|0,75|0,50|0,25|0,75|1,00|0,50|1,00|1,00|
-
-
 --- Page 357 ---
 
 **Correlation coefficients for windstorm risk in the Kingdom of the Netherlands**
@@ -21501,8 +20193,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |27|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |28|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |29|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 358 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|
@@ -21529,8 +20219,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |46|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |47|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |48|0,75|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 359 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|
@@ -21557,8 +20245,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |65|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |66|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |67|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 360 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|
@@ -21585,8 +20271,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |84|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|
 |85|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|
 |86|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 361 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|
@@ -21613,8 +20297,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |13|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |14|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |15|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|
-
-
 --- Page 362 ---
 
 |j i|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|
@@ -21639,8 +20321,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |33|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
 |34|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
 |35|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
-
-
 --- Page 363 ---
 
 |j i|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|
@@ -21666,8 +20346,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |54|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |55|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |56|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 364 ---
 
 |j i|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|
@@ -21694,8 +20372,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |73|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |74|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|
 |75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
-
-
 --- Page 365 ---
 
 |j i|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|
@@ -21722,8 +20398,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |92|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |93|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |94|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
-
-
 --- Page 366 ---
 
 |j i|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|
@@ -21750,8 +20424,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |21|0,50|0,50|0,50|0,50|0,75|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|0,75|1,00|1,00|
 |22|0,75|0,50|0,75|0,50|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|0,75|1,00|1,00|
 |23|0,75|0,50|0,75|0,50|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|0,75|1,00|1,00|
-
-
 --- Page 367 ---
 
 |j i|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|
@@ -21778,8 +20450,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |40|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|
 |41|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|
 |42|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|
-
-
 --- Page 368 ---
 
 |j i|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|
@@ -21807,8 +20477,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |61|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|
 |62|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|
-
-
 --- Page 369 ---
 
 |j i|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|
@@ -21836,8 +20504,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |81|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |82|0,50|0,50|0,50|0,50|0,75|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 370 ---
 
 |j i|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|
@@ -21865,8 +20531,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |10|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|
 |11|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|
 |12|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 371 ---
 
 |j i|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21892,8 +20556,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |31|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |32|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |33|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 372 ---
 
 |j i|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21921,8 +20583,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |51|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,50|
 |52|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|
 |53|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,50|
-
-
 --- Page 373 ---
 
 |j i|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21950,8 +20610,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |71|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
 |72|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |73|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|
-
-
 --- Page 374 ---
 
 |j i|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -21979,8 +20637,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |91|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |92|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |93|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 375 ---
 
 |j i|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22009,8 +20665,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |10|0,75|0,75|0,75|0,50|0,25|0,75|0,75|0,75|1,00|1,00|0,75|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |11|0,50|0,75|0,75|0,50|0,50|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,50|0,25|0,25|0,25|0,00|0,00|0,00|
 |12|0,50|0,50|0,50|0,75|0,75|0,75|0,50|0,50|0,25|0,25|0,75|1,00|0,75|0,50|0,50|0,25|0,25|0,00|0,25|
-
-
 --- Page 376 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|14|15|16|17|18|19|20|
@@ -22039,8 +20693,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |08|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|
 |09|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |10|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|1,00|0,50|0,75|0,50|0,50|0,50|0,50|
-
-
 --- Page 377 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22067,8 +20719,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |27|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|1,00|0,75|1,00|1,00|1,00|1,00|
 |28|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|1,00|0,75|1,00|
 |29|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|
-
-
 --- Page 378 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22094,8 +20744,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |48|0,50|0,50|0,75|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,25|0,50|0,50|0,25|0,75|0,50|0,75|0,75|0,75|0,75|
 |49|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|
 |50|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,75|0,75|0,75|
-
-
 --- Page 379 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22122,8 +20770,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |70|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,50|0,50|
 |71|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,50|0,50|
 |72|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|
-
-
 --- Page 380 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22151,8 +20797,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |91|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|
 |92|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|
 |93|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 381 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22180,8 +20824,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |11|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,50|0,50|
 |12|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|
 |13|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 382 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22209,8 +20851,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |31|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|0,75|0,75|0,75|
 |32|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|0,75|0,75|0,75|
 |33|0,75|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 383 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22238,8 +20878,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |51|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|
 |52|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|
 |53|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|
-
-
 --- Page 384 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22266,8 +20904,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |73|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |74|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|
 |75|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,50|0,50|
-
-
 --- Page 385 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22293,8 +20929,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |95|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |96|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |97|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|
-
-
 --- Page 386 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22322,8 +20956,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |15|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |16|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |17|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
-
-
 --- Page 387 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -22351,8 +20983,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |35|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
 |36|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
 |37|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 388 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -22380,8 +21010,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |55|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,50|
 |56|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|0,75|1,00|0,75|1,00|0,75|1,00|1,00|0,75|0,75|0,50|0,50|0,75|0,75|0,50|
 |57|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,25|
-
-
 --- Page 389 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -22409,8 +21037,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |76|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,75|0,75|0,75|0,50|0,75|0,50|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|
 |77|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,75|1,00|
-
-
 --- Page 390 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -22436,8 +21062,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |97|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|
 |98|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,50|
 |99|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|
-
-
 --- Page 391 ---
 
 |j i|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22464,8 +21088,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |19|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,75|
 |20|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |21|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 392 ---
 
 |j i|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22493,8 +21115,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |39|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |40|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |41|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 393 ---
 
 |j i|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22522,8 +21142,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |59|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |60|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |61|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
-
-
 --- Page 394 ---
 
 |j i|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22551,8 +21169,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |80|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |81|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |82|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|1,00|0,50|0,75|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,75|
-
-
 --- Page 395 ---
 
 |j i|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -22582,8 +21198,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|1,00|0,25|0,25|0,00|0,50|0,25|0,25|0,75|1,00|0,50|0,00|0,50|0,25|0,00|0,75|0,50|0,75|0,00|0,75|1,00|0,00|0,75|0,00|0,75|0,75|
 |2|0,25|1,00|1,00|0,75|0,75|0,75|0,75|0,50|0,25|0,75|0,50|0,75|1,00|0,75|0,00|0,75|0,25|0,75|0,75|0,25|0,75|0,50|0,75|0,25|0,50|
-
-
 --- Page 396 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22609,8 +21223,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |21|0,00|0,75|0,50|0,75|0,50|0,75|0,25|0,00|0,00|0,75|0,75|0,25|0,75|0,75|0,00|0,50|0,00|0,75|0,25|0,00|1,00|0,00|0,75|0,00|0,00|
 |22|0,75|0,50|0,25|0,00|0,50|0,25|0,50|0,75|0,75|0,50|0,00|0,75|0,25|0,25|0,50|0,50|0,75|0,00|0,75|0,75|0,00|1,00|0,25|0,75|1,00|
 |23|0,00|0,75|0,75|0,75|0,50|0,75|0,50|0,25|0,25|0,75|0,75|0,50|0,75|1,00|0,00|0,75|0,25|1,00|0,50|0,00|0,75|0,25|1,00|0,25|0,25|
-
-
 --- Page 397 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22637,8 +21249,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |40|0,75|0,50|0,50|0,25|1,00|0,50|0,50|0,50|0,75|0,75|0,25|0,75|0,50|0,50|0,50|0,75|0,50|0,25|1,00|0,75|0,25|0,75|0,50|0,75|0,75|
 |41|0,00|0,75|0,75|0,75|0,50|0,75|0,25|0,00|0,00|0,50|0,75|0,50|0,75|1,00|0,00|0,50|0,00|0,75|0,25|0,00|1,00|0,00|0,75|0,00|0,00|
 |42|0,75|0,50|0,50|0,25|0,75|0,50|0,50|0,75|0,75|0,50|0,00|0,75|0,50|0,25|0,50|0,75|0,75|0,25|1,00|0,75|0,25|0,75|0,25|0,75|0,75|
-
-
 --- Page 398 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -22665,8 +21275,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |9|1,00|0,75|0,75|0,00|0,25|1,00|0,75|0,75|1,00|0,00|0,75|0,75|0,00|0,75|0,75|0,00|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|
 |10|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,25|0,50|0,00|0,50|0,75|0,00|0,25|0,75|0,50|0,50|0,50|0,75|1,00|0,75|0,75|0,25|0,75|0,50|
 |11|0,00|0,00|0,25|1,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,75|0,00|0,00|0,25|0,50|0,50|0,00|0,00|0,00|0,00|
-
-
 --- Page 399 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22693,8 +21301,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |28|0,75|0,50|1,00|0,25|0,50|0,50|0,75|0,50|0,75|0,00|0,50|0,75|0,00|0,50|1,00|0,50|0,75|0,75|0,75|1,00|0,75|0,75|0,50|0,75|0,75|
 |29|0,00|0,00|0,25|1,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|1,00|0,00|0,25|0,25|0,50|0,50|0,00|0,00|0,00|0,00|
 |30|0,25|0,00|0,50|0,75|1,00|0,25|0,25|0,00|0,25|0,00|0,00|0,50|0,00|0,00|0,50|0,75|0,25|0,50|0,50|0,75|0,75|0,25|0,00|0,25|0,25|
-
-
 --- Page 400 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -22719,8 +21325,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |48|0,75|0,75|0,50|0,00|0,00|1,00|0,75|0,75|0,75|0,00|0,75|0,50|0,00|1,00|0,75|0,00|0,75|0,50|0,50|0,50|0,25|0,75|1,00|0,75|0,75|
 |49|0,75|0,75|0,75|0,00|0,25|0,75|1,00|0,75|0,75|0,00|0,75|0,75|0,00|0,75|0,75|0,25|0,75|0,50|0,75|0,75|0,50|1,00|0,75|1,00|0,75|
 |50|0,75|0,50|0,75|0,00|0,25|0,75|0,50|0,50|0,75|0,00|0,50|0,75|0,00|0,75|0,75|0,25|1,00|0,75|0,75|0,75|0,50|0,75|0,75|0,75|1,00|
-
-
 --- Page 401 ---
 
 **Correlation coefficients for windstorm risk in the Kingdom of Sweden**
@@ -22748,8 +21352,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |23|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,50|1,00|0,75|0,00|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,75|1,00|0,75|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|1,00|
-
-
 --- Page 402 ---
 
 **Correlation coefficients for windstorm risk in the Swiss Confederation**
@@ -22777,8 +21379,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |19|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|1,00|1,00|
 |20|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|1,00|1,00|1,00|0,75|0,75|
 |21|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,75|1,00|1,00|
-
-
 --- Page 403 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
@@ -22807,8 +21407,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |BS|0,00|0,75|1,00|1,00|0,50|0,50|0,75|0,50|0,50|0,75|1,00|0,00|0,25|0,75|1,00|0,50|0,75|0,75|0,75|0,75|1,00|0,75|0,75|0,00|0,75|
 |BT|0,50|0,00|0,25|0,00|0,50|0,25|0,00|0,25|0,00|0,00|0,00|1,00|0,75|0,00|0,00|0,25|0,25|0,25|0,00|0,25|0,00|0,25|0,50|0,75|0,25|
 |CA|0,50|0,25|0,25|0,25|0,75|0,75|0,00|0,75|0,00|0,00|0,25|0,75|1,00|0,25|0,25|0,75|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|
-
-
 --- Page 404 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22836,8 +21434,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |DY|0,25|0,75|1,00|0,75|0,75|0,75|0,50|0,75|0,25|0,50|1,00|0,25|0,25|0,75|1,00|0,75|0,75|0,50|0,75|0,50|1,00|1,00|0,50|0,00|1,00|
 |E|0,00|1,00|1,00|1,00|0,50|0,50|1,00|0,50|1,00|1,00|1,00|0,25|0,25|1,00|1,00|0,50|1,00|0,75|1,00|1,00|1,00|0,50|0,75|0,00|0,75|
 |EC|0,00|1,00|0,75|0,75|0,50|0,50|0,75|0,50|0,75|1,00|0,75|0,00|0,25|1,00|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,50|0,75|0,00|0,75|
-
-
 --- Page 405 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22865,8 +21461,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |IG|0,25|1,00|1,00|1,00|0,75|0,75|1,00|0,50|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,50|0,25|1,00|
 |IM|0,50|0,25|0,25|0,25|0,75|0,75|0,00|0,75|0,00|0,00|0,25|0,75|1,00|0,25|0,25|0,75|0,25|0,25|0,00|0,25|0,25|0,50|0,25|0,50|0,50|
 |IP|0,00|1,00|0,75|0,75|0,50|0,50|0,75|0,50|0,75|1,00|0,75|0,25|0,25|1,00|0,75|0,50|1,00|1,00|1,00|0,75|0,75|0,50|0,75|0,00|0,75|
-
-
 --- Page 406 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22893,8 +21487,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |NE|0,25|0,25|0,50|0,25|0,75|0,75|0,25|0,75|0,25|0,25|0,25|0,50|1,00|0,25|0,25|0,50|0,50|0,50|0,25|0,50|0,25|0,50|0,50|0,50|0,50|
 |NG|0,00|0,75|1,00|0,75|0,75|0,75|0,50|0,75|0,25|0,50|0,75|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,50|0,75|1,00|1,00|0,75|0,00|1,00|
 |NN|0,00|1,00|1,00|0,75|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,00|0,25|1,00|0,75|0,75|1,00|0,75|0,75|1,00|1,00|0,75|0,75|0,00|1,00|
-
-
 --- Page 407 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22921,8 +21513,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |SL|0,00|1,00|0,75|1,00|0,25|0,50|0,75|0,50|0,75|1,00|0,75|0,00|0,25|1,00|0,75|0,50|1,00|0,75|1,00|1,00|0,75|0,50|0,75|0,00|0,75|
 |SM|0,00|1,00|0,50|1,00|0,25|0,50|1,00|0,50|1,00|1,00|0,75|0,00|0,25|1,00|0,75|0,50|1,00|0,75|1,00|1,00|0,75|0,50|0,75|0,00|0,75|
 |SN|0,00|1,00|0,75|1,00|0,50|0,50|0,75|0,50|0,75|0,75|1,00|0,00|0,25|0,75|1,00|0,50|1,00|0,75|1,00|1,00|1,00|0,50|0,75|0,00|0,75|
-
-
 --- Page 408 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22950,8 +21540,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WA|0,25|0,50|0,75|0,50|1,00|1,00|0,25|1,00|0,25|0,50|0,50|0,25|0,75|0,50|0,50|1,00|0,50|0,50|0,50|0,50|0,75|1,00|0,50|0,25|0,75|
 |WC|0,00|1,00|0,75|1,00|0,50|0,50|0,75|0,50|0,75|1,00|0,75|0,00|0,25|1,00|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,50|0,75|0,00|0,75|
 |WD|0,00|1,00|0,75|1,00|0,50|0,50|0,75|0,50|0,75|1,00|0,75|0,00|0,25|1,00|0,75|0,50|1,00|0,75|1,00|1,00|0,75|0,50|0,75|0,00|0,75|
-
-
 --- Page 409 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|
@@ -22979,8 +21567,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |BS|0,25|0,25|0,25|0,50|0,75|1,00|1,00|0,75|0,00|0,75|1,00|0,00|0,25|0,00|1,00|0,75|0,25|0,75|0,50|0,50|0,75|1,00|0,00|0,75|0,50|
 |BT|0,75|0,50|0,50|0,25|0,00|0,25|0,25|0,00|0,75|0,00|0,00|0,75|0,50|0,75|0,00|0,00|0,00|0,00|0,25|0,50|0,00|0,00|0,25|0,50|0,25|
 |CA|1,00|1,00|1,00|0,25|0,00|0,25|0,25|0,25|0,75|0,25|0,25|0,50|0,75|0,75|0,25|0,25|0,00|0,25|0,75|0,75|0,25|0,25|0,25|0,75|0,75|
-
-
 --- Page 410 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23008,8 +21594,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |DY|0,25|0,50|0,50|0,50|0,50|1,00|0,75|0,75|0,25|0,75|0,75|0,00|0,50|0,25|1,00|0,50|0,25|0,75|0,75|0,75|0,75|1,00|0,00|1,00|0,75|
 |E|0,00|0,25|0,25|0,25|1,00|0,75|1,00|1,00|0,25|1,00|1,00|0,00|0,25|0,25|1,00|1,00|0,75|1,00|0,50|0,25|1,00|0,75|0,00|0,50|0,25|
 |EC|0,00|0,25|0,25|0,25|0,75|0,75|1,00|1,00|0,25|1,00|0,75|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,50|1,00|0,75|0,00|0,50|0,50|
-
-
 --- Page 411 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23037,8 +21621,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |IG|0,25|0,50|0,50|0,25|1,00|1,00|1,00|1,00|0,50|1,00|1,00|0,25|0,50|0,50|1,00|1,00|1,00|1,00|0,75|0,50|1,00|0,75|0,00|0,50|0,50|
 |IM|0,75|0,75|0,75|0,25|0,00|0,25|0,25|0,00|0,75|0,25|0,25|0,50|0,75|0,75|0,25|0,00|0,00|0,25|0,50|0,75|0,25|0,25|0,00|0,50|0,75|
 |IP|0,25|0,25|0,25|0,50|0,75|0,75|1,00|1,00|0,25|1,00|0,50|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,50|1,00|0,75|0,00|0,75|0,50|
-
-
 --- Page 412 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23065,8 +21647,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |NE|0,75|1,00|1,00|0,50|0,25|0,25|0,50|0,25|0,75|0,25|0,25|0,50|0,75|0,50|0,25|0,25|0,00|0,25|0,50|0,75|0,25|0,25|0,25|0,75|0,50|
 |NG|0,25|0,50|0,50|0,75|0,50|1,00|0,75|0,75|0,25|0,75|0,75|0,00|0,75|0,00|0,75|0,50|0,25|0,75|1,00|0,75|0,75|1,00|0,00|1,00|0,75|
 |NN|0,25|0,25|0,50|0,50|0,75|1,00|1,00|1,00|0,25|1,00|0,75|0,00|0,50|0,00|1,00|0,75|0,25|1,00|0,75|0,50|1,00|1,00|0,00|1,00|0,75|
-
-
 --- Page 413 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23093,8 +21673,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |SL|0,00|0,25|0,25|0,25|0,75|0,75|1,00|1,00|0,00|1,00|0,75|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,25|1,00|0,75|0,00|0,75|0,25|
 |SM|0,00|0,25|0,25|0,25|0,75|0,75|1,00|1,00|0,00|1,00|0,75|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,50|1,00|0,75|0,00|0,50|0,50|
 |SN|0,00|0,25|0,25|0,50|1,00|0,75|1,00|1,00|0,00|1,00|1,00|0,00|0,25|0,00|1,00|1,00|0,50|1,00|0,50|0,50|1,00|1,00|0,00|0,75|0,50|
-
-
 --- Page 414 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23122,8 +21700,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WA|0,50|0,75|0,75|0,50|0,25|0,75|0,50|0,50|0,25|0,50|0,50|0,25|1,00|0,25|0,50|0,25|0,25|0,50|1,00|1,00|0,50|0,75|0,00|1,00|1,00|
 |WC|0,00|0,25|0,25|0,25|0,75|0,75|1,00|1,00|0,00|1,00|0,75|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,50|1,00|0,75|0,00|0,50|0,50|
 |WD|0,00|0,25|0,25|0,25|0,75|0,75|1,00|1,00|0,00|1,00|0,75|0,00|0,25|0,00|0,75|1,00|0,50|1,00|0,50|0,50|1,00|0,75|0,00|0,75|0,50|
-
-
 --- Page 415 ---
 
 |j i|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|HU|HX|
@@ -23151,8 +21727,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |BS|1,00|0,25|0,75|0,00|0,25|0,00|0,75|0,00|0,00|0,50|0,25|1,00|0,75|0,50|0,75|0,50|0,75|0,50|0,25|0,75|0,00|0,75|0,25|0,75|0,75|
 |BT|0,75|0,75|0,25|0,50|0,00|0,75|0,00|0,25|0,75|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,75|0,00|0,50|0,25|0,00|
 |CA|0,50|1,00|0,25|0,25|0,00|0,75|0,25|0,25|0,50|0,75|1,00|0,25|0,25|0,75|0,50|0,75|0,25|0,75|0,25|0,25|0,75|0,25|1,00|0,25|0,25|
-
-
 --- Page 416 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23180,8 +21754,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |DY|1,00|0,25|0,75|0,00|0,25|0,00|0,75|0,00|0,25|0,75|0,50|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,25|1,00|0,00|0,75|0,25|1,00|1,00|
 |E|1,00|0,25|1,00|0,00|0,75|0,00|1,00|0,00|0,00|0,50|0,25|0,50|1,00|0,50|0,75|0,50|1,00|0,75|0,50|1,00|0,00|1,00|0,50|0,75|1,00|
 |EC|1,00|0,00|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,50|0,75|0,50|0,75|0,50|1,00|0,50|0,50|1,00|0,00|1,00|0,25|0,75|1,00|
-
-
 --- Page 417 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23209,8 +21781,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |IG|1,00|0,25|1,00|0,25|1,00|0,25|1,00|0,00|0,25|1,00|0,50|0,75|1,00|1,00|0,50|0,75|1,00|1,00|0,25|1,00|0,25|1,00|0,75|1,00|1,00|
 |IM|0,25|1,00|0,25|0,25|0,00|0,75|0,00|0,25|0,75|0,75|1,00|0,25|0,25|0,75|0,50|0,75|0,25|0,75|0,25|0,25|0,75|0,25|0,75|0,50|0,25|
 |IP|1,00|0,25|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,50|0,75|0,50|0,75|0,50|1,00|0,75|0,50|1,00|0,00|1,00|0,50|0,75|1,00|
-
-
 --- Page 418 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23237,8 +21807,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |NE|0,75|0,75|0,50|0,25|0,00|0,50|0,25|0,25|0,50|0,75|0,75|0,25|0,50|0,50|0,75|0,75|0,25|0,75|0,25|0,25|0,50|0,25|1,00|0,50|0,25|
 |NG|1,00|0,50|0,75|0,00|0,25|0,00|0,50|0,00|0,25|0,75|0,50|0,75|1,00|0,75|1,00|1,00|0,75|1,00|0,25|0,75|0,25|0,75|0,50|1,00|1,00|
 |NN|1,00|0,25|1,00|0,00|0,25|0,00|0,75|0,00|0,00|0,50|0,25|0,75|1,00|0,50|1,00|0,75|1,00|0,75|0,25|1,00|0,00|1,00|0,25|1,00|1,00|
-
-
 --- Page 419 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23265,8 +21833,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |SL|1,00|0,00|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,75|0,75|0,50|0,75|0,50|1,00|0,50|0,25|1,00|0,00|1,00|0,25|0,75|1,00|
 |SM|1,00|0,25|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,50|0,75|0,25|0,50|0,50|1,00|0,50|0,25|1,00|0,00|1,00|0,25|0,75|0,75|
 |SN|1,00|0,25|0,75|0,00|0,25|0,00|1,00|0,00|0,00|0,50|0,25|0,75|0,75|0,50|0,75|0,50|1,00|0,50|0,25|1,00|0,00|1,00|0,25|0,75|1,00|
-
-
 --- Page 420 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23294,8 +21860,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WA|0,75|0,75|0,50|0,00|0,00|0,25|0,50|0,00|0,25|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,50|1,00|0,25|0,50|0,25|0,50|0,50|0,75|0,75|
 |WC|1,00|0,25|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,75|0,75|0,50|0,75|0,50|1,00|0,50|0,50|1,00|0,00|1,00|0,25|0,75|1,00|
 |WD|1,00|0,25|1,00|0,00|0,50|0,00|1,00|0,00|0,00|0,50|0,25|0,75|0,75|0,50|0,75|0,50|1,00|0,50|0,25|1,00|0,00|1,00|0,25|0,75|1,00|
-
-
 --- Page 421 ---
 
 |j i|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|
@@ -23323,8 +21887,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |BS|1,00|1,00|0,75|0,50|1,00|0,00|1,00|0,00|0,75|0,75|0,50|1,00|0,75|1,00|0,75|0,75|1,00|0,75|0,75|0,75|0,75|1,00|0,75|1,00|0,50|
 |BT|0,00|0,25|0,00|0,25|0,00|0,75|0,25|0,75|0,00|0,00|0,50|0,00|0,00|0,75|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,50|
 |CA|0,25|0,25|0,25|0,75|0,25|0,50|0,50|0,50|0,00|0,00|0,75|0,25|0,00|0,50|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,00|0,25|0,75|
-
-
 --- Page 422 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23352,8 +21914,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |DY|1,00|0,75|0,75|0,75|1,00|0,00|1,00|0,00|0,50|0,50|0,75|0,75|0,50|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,50|0,75|0,50|
 |E|0,75|1,00|1,00|0,50|1,00|0,00|0,75|0,00|0,75|1,00|0,50|1,00|1,00|1,00|0,75|0,75|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
 |EC|0,75|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,75|1,00|0,25|1,00|1,00|1,00|0,50|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
-
-
 --- Page 423 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23381,8 +21941,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |IG|1,00|1,00|1,00|0,75|1,00|0,25|0,75|0,25|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,50|
 |IM|0,25|0,25|0,00|0,75|0,25|0,50|0,50|0,50|0,25|0,00|0,75|0,25|0,00|0,25|0,50|0,50|0,00|0,25|0,50|0,00|0,25|0,25|0,25|0,25|0,75|
 |IP|0,75|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,50|0,75|0,50|1,00|1,00|1,00|0,75|0,50|1,00|1,00|0,50|1,00|1,00|0,75|0,75|0,75|0,50|
-
-
 --- Page 424 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23409,8 +21967,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |NE|0,25|0,50|0,25|0,75|0,25|0,50|0,50|0,50|0,25|0,25|0,75|0,25|0,25|0,75|0,50|0,25|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|1,00|
 |NG|0,75|1,00|0,75|0,75|0,75|0,00|1,00|0,00|0,50|0,50|0,75|0,75|0,50|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,50|0,50|0,50|
 |NN|0,75|1,00|1,00|0,75|1,00|0,00|1,00|0,00|0,50|0,50|0,50|0,75|0,75|1,00|0,75|0,75|1,00|1,00|0,75|1,00|0,75|1,00|0,75|0,75|0,50|
-
-
 --- Page 425 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23437,8 +21993,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |SL|0,75|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,75|1,00|0,25|1,00|1,00|1,00|0,50|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
 |SM|0,75|1,00|1,00|0,50|1,00|0,00|0,75|0,00|0,75|1,00|0,25|1,00|1,00|1,00|0,50|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
 |SN|1,00|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,75|0,75|0,25|1,00|0,75|1,00|0,75|0,75|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
-
-
 --- Page 426 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23466,8 +22020,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WA|0,50|0,75|0,50|1,00|0,50|0,25|0,75|0,00|0,25|0,25|1,00|0,50|0,25|0,75|1,00|0,75|0,50|0,50|1,00|0,50|0,50|0,50|0,25|0,50|0,75|
 |WC|0,75|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,75|1,00|0,25|1,00|1,00|1,00|0,50|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
 |WD|0,75|1,00|1,00|0,50|1,00|0,00|1,00|0,00|0,75|0,75|0,25|1,00|1,00|1,00|0,75|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|0,25|
-
-
 --- Page 427 ---
 
 |j i|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|
@@ -23495,8 +22047,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |BS|0,50|0,75|0,75|0,75|1,00|0,25|0,75|0,50|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,50|1,00|0,75|0,75|0,25|0,00|
 |BT|0,25|0,25|0,00|0,25|0,00|0,75|0,25|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|
 |CA|0,25|0,50|0,25|0,50|0,25|0,75|0,50|0,00|0,00|0,00|0,75|0,25|0,25|0,25|0,75|0,25|0,25|0,50|0,75|0,25|0,25|0,25|0,50|0,25|
-
-
 --- Page 428 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23524,8 +22074,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |DY|0,25|1,00|0,75|1,00|0,75|0,25|1,00|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,50|0,00|
 |E|0,50|0,75|1,00|0,75|1,00|0,00|0,50|1,00|0,75|0,75|0,50|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,75|0,75|0,25|0,00|
 |EC|0,50|0,50|1,00|0,50|0,75|0,25|0,50|1,00|0,75|0,50|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,75|0,75|0,25|0,00|
-
-
 --- Page 429 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23553,8 +22101,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |IG|0,25|1,00|1,00|1,00|1,00|0,25|0,75|1,00|1,00|1,00|0,50|1,00|1,00|1,00|0,75|1,00|1,00|0,75|0,50|1,00|1,00|1,00|0,50|0,00|
 |IM|0,25|0,50|0,25|0,50|0,25|0,75|0,50|0,00|0,25|0,25|0,75|0,00|0,00|0,25|0,75|0,25|0,25|0,50|0,75|0,25|0,25|0,25|0,50|0,00|
 |IP|0,75|0,75|1,00|0,50|0,75|0,25|0,75|1,00|0,50|0,50|0,50|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,75|0,75|0,50|0,00|
-
-
 --- Page 430 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23581,8 +22127,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |NE|0,50|0,50|0,25|0,50|0,25|0,75|0,50|0,25|0,25|0,25|1,00|0,25|0,25|0,25|0,50|0,25|0,25|0,50|0,75|0,25|0,50|0,25|0,50|0,25|
 |NG|0,50|1,00|0,75|1,00|0,75|0,25|1,00|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|1,00|1,00|1,00|0,75|0,00|
 |NN|0,50|0,75|0,75|0,75|0,75|0,25|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|1,00|1,00|0,75|0,50|1,00|1,00|1,00|0,50|0,00|
-
-
 --- Page 431 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23609,8 +22153,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |SL|0,50|0,50|1,00|0,50|0,75|0,00|0,50|0,75|0,75|0,50|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,25|0,75|0,75|0,75|0,25|0,00|
 |SM|0,25|0,50|1,00|0,50|0,75|0,25|0,50|1,00|0,75|0,75|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,50|0,50|0,25|0,00|
 |SN|0,50|0,75|1,00|0,75|1,00|0,00|0,75|0,75|0,75|0,75|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|1,00|0,75|0,75|0,25|0,00|
-
-
 --- Page 432 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23638,8 +22180,6 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WA|0,25|1,00|0,50|1,00|0,50|0,50|1,00|0,25|0,25|0,25|0,75|0,50|0,50|0,50|1,00|0,50|0,50|1,00|1,00|0,75|0,75|0,75|0,75|0,00|
 |WC|0,50|0,50|1,00|0,50|0,75|0,25|0,50|1,00|0,75|0,50|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,75|0,75|0,25|0,00|
 |WD|0,50|0,50|1,00|0,50|0,75|0,00|0,75|0,75|0,75|0,50|0,25|1,00|1,00|1,00|0,50|1,00|1,00|0,50|0,50|0,75|0,75|0,75|0,25|0,00|
-
-
 --- Page 433 ---
 
 |j i|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -23651,11 +22191,9 @@ The correlation coefficients for the regions Grand Duchy of Luxembourg, Guadelou
 |WV|0,25|1,00|0,75|1,00|0,75|0,25|1,00|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|1,00|1,00|1,00|0,50|0,00|
 |YO|0,75|0,50|0,25|0,50|0,25|0,50|0,50|0,25|0,25|0,25|0,75|0,25|0,25|0,25|0,75|0,25|0,25|0,75|0,75|0,50|0,50|0,50|1,00|0,00|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 434 ---
 
-*ANNEX XXIII*
+# *ANNEX XXIII*
 
 **CORRELATION COEFFICIENTS FOR EARTHQUAKE RISK**
 
@@ -23683,8 +22221,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |26|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,75|1,00|1,00|0,75|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,00|0,00|0,75|0,25|0,25|
 |27|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,75|1,00|1,00|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,75|0,00|0,25|
 |28|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,75|0,75|1,00|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,75|0,25|0,50|
-
-
 --- Page 435 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|42|
@@ -23711,8 +22247,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |46|0,25|0,25|0,25|0,75|1,00|0,75|0,75|0,25|0,25|0,25|0,50|0,50|0,75|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |47|0,00|0,00|0,00|0,75|0,75|0,50|0,50|0,00|0,25|0,25|0,25|0,25|0,50|0,50|0,50|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |48|0,25|0,00|0,25|0,75|0,75|0,75|0,50|0,25|0,25|0,25|0,50|0,25|0,50|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 436 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|42|
@@ -23737,8 +22271,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |68|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,75|0,25|0,25|
 |69|0,00|0,00|0,00|0,25|0,50|0,50|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,50|0,50|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,50|1,00|0,75|0,75|
 |70|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,50|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,00|0,25|0,75|0,25|0,25|
-
-
 --- Page 437 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|42|
@@ -23764,8 +22296,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |93|0,00|0,00|0,00|0,25|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,75|0,75|0,25|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |94|0,00|0,00|0,00|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,50|0,50|0,75|0,75|0,50|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |95|0,00|0,00|0,00|0,25|0,50|0,50|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|1,00|0,50|0,75|
-
-
 --- Page 438 ---
 
 |j i|10|11|12|13|20|21|22|23|24|25|26|27|28|30|31|32|33|34|35|36|37|38|39|40|41|42|
@@ -23793,8 +22323,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |30|0,50|0,75|0,50|0,75|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|
 |31|0,50|0,75|0,50|0,75|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|
 |32|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|0,75|0,75|0,50|0,75|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|
-
-
 --- Page 439 ---
 
 |j i|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|69|70|
@@ -23822,8 +22350,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,50|
 |51|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,25|0,25|0,50|0,75|0,50|0,75|0,50|0,75|0,25|0,75|0,25|
 |52|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,00|0,25|0,50|0,50|0,50|0,75|0,50|0,75|0,25|0,75|0,25|
-
-
 --- Page 440 ---
 
 |j i|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|69|70|
@@ -23851,8 +22377,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |72|0,50|0,75|0,50|0,75|0,50|0,50|0,50|0,75|0,50|0,25|0,50|0,50|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,75|
 |73|0,75|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,00|0,00|0,25|0,25|0,25|0,50|0,25|0,50|0,00|0,50|0,50|
 |74|0,75|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,00|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,25|0,50|0,50|
-
-
 --- Page 441 ---
 
 |j i|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|60|61|62|63|64|65|66|67|68|69|70|
@@ -23878,8 +22402,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |97|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,00|
 |98|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,50|0,00|
 |99|0,75|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,50|0,00|0,00|0,25|0,25|0,25|0,50|0,25|0,25|0,00|0,25|0,00|
-
-
 --- Page 442 ---
 
 |j i|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -23906,8 +22428,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |36|0,50|0,25|0,75|0,75|1,00|0,75|0,50|0,50|1,00|1,00|0,75|0,25|0,25|0,75|1,00|0,75|0,75|1,00|0,75|0,75|0,50|0,50|0,50|0,50|0,75|
 |37|0,50|0,25|0,50|0,75|1,00|0,50|0,25|0,50|0,75|0,75|0,75|0,25|0,25|0,75|1,00|0,75|0,50|0,75|0,75|0,75|0,25|0,25|0,50|0,50|0,50|
 |38|0,50|0,25|0,75|0,75|1,00|0,75|0,50|0,50|1,00|1,00|0,75|0,00|0,25|0,75|1,00|0,75|0,75|1,00|1,00|1,00|0,50|0,50|0,50|0,75|0,75|
-
-
 --- Page 443 ---
 
 |j i|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -23935,8 +22455,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |56|0,25|0,25|0,50|0,50|0,75|0,50|0,25|0,50|0,75|0,75|0,50|0,00|0,25|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,75|
 |57|0,25|0,25|0,50|0,50|0,75|0,50|0,25|0,50|0,75|0,50|0,50|0,00|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,50|
 |60|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 444 ---
 
 |j i|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -23964,8 +22482,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |82|0,50|0,50|0,75|1,00|1,00|0,75|0,75|1,00|1,00|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|
 |83|0,50|0,50|0,75|0,75|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|
 |84|0,50|0,50|0,75|0,75|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,25|0,50|0,75|1,00|0,75|0,75|1,00|0,75|1,00|0,50|0,50|0,50|0,50|0,75|
-
-
 --- Page 445 ---
 
 |j i|71|72|73|74|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -23994,8 +22510,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |1|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |2|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|
 |3|0,75|1,00|1,00|0,75|0,75|0,50|0,50|0,75|0,75|
-
-
 --- Page 446 ---
 
 |j i|1|2|3|4|5|6|7|8|9|
@@ -24024,8 +22538,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |10|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|1,00|0,50|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,00|0,00|
 |11|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|1,00|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,00|0,00|
 |12|0,00|0,00|0,25|0,25|0,00|0,25|0,50|0,00|0,50|0,25|0,25|1,00|0,75|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,50|0,25|0,25|0,25|0,25|0,00|
-
-
 --- Page 447 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|
@@ -24054,8 +22566,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |10|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|
 |11|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 448 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|25|26|27|28|29|30|31|32|33|34|
@@ -24083,8 +22593,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|
 |36|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,50|
-
-
 --- Page 449 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|25|26|27|28|29|30|31|32|33|34|
@@ -24112,8 +22620,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 450 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|25|26|27|28|29|30|31|32|33|34|
@@ -24141,8 +22647,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |10|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |12|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 451 ---
 
 |j i|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|59|
@@ -24170,8 +22674,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |35|1,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |36|0,50|1,00|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |37|0,00|0,00|1,00|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
-
-
 --- Page 452 ---
 
 |j i|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|59|
@@ -24199,8 +22701,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |62|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 453 ---
 
 |j i|35|36|37|38|39|40|41|43|44|46|47|50|51|53|54|55|56|57|58|59|
@@ -24228,8 +22728,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |12|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |13|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 454 ---
 
 |j i|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -24257,8 +22755,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |36|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |37|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |38|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 455 ---
 
 |j i|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -24286,8 +22782,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |61|0,75|1,00|0,75|0,75|0,75|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |62|0,75|0,75|1,00|0,75|0,75|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |63|0,75|0,75|0,75|1,00|0,75|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 456 ---
 
 |j i|60|61|62|63|64|66|67|68|69|70|71|72|73|74|75|76|77|78|79|
@@ -24317,8 +22811,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |2|0,75|1,00|0,25|0,00|0,75|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,75|
 |3|0,25|0,25|1,00|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
 |4|0,25|0,00|0,25|1,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
-
-
 --- Page 457 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|
@@ -24348,8 +22840,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|
 |1|1,00|0,50|0,50|0,50|0,50|0,75|
 |2|0,50|1,00|0,50|0,75|0,25|0,25|
-
-
 --- Page 458 ---
 
 |j i|1|2|3|4|5|6|
@@ -24378,8 +22868,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |12|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |13|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |14|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 459 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24407,8 +22895,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |32|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|
 |33|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |34|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 460 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24436,8 +22922,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |52|1,00|1,00|1,00|0,75|1,00|0,75|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |53|1,00|1,00|1,00|0,75|1,00|0,75|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |54|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 461 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24463,8 +22947,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |73|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|
 |74|0,50|0,25|0,25|0,50|0,25|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,75|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,00|0,25|0,50|
 |75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 462 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24489,8 +22971,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |93|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |94|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |95|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 463 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -24516,8 +22996,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |19|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,25|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |20|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |21|0,75|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 464 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -24544,8 +23022,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |38|0,75|0,75|0,75|0,75|0,75|0,50|0,50|1,00|1,00|0,75|0,75|0,75|1,00|0,75|0,50|0,75|1,00|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|
 |39|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |40|0,50|0,50|0,50|0,50|0,75|0,25|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|1,00|0,50|0,75|0,50|0,50|0,75|0,50|0,50|0,25|0,50|0,50|
-
-
 --- Page 465 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -24573,8 +23049,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |58|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,25|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |59|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|
 |60|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 466 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -24602,8 +23076,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |78|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |79|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |80|0,75|1,00|1,00|1,00|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 467 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -24630,8 +23102,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |2|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,00|0,25|0,75|0,25|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
 |3|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,00|0,25|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
 |4|1,00|0,75|0,75|1,00|0,75|0,75|1,00|0,75|0,75|1,00|1,00|1,00|1,00|0,25|0,25|0,50|0,75|0,50|1,00|1,00|0,75|1,00|0,75|0,50|1,00|
-
-
 --- Page 468 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -24657,8 +23127,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |23|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|1,00|1,00|1,00|1,00|0,00|0,00|0,00|0,75|0,25|1,00|1,00|1,00|1,00|0,50|0,00|1,00|
 |24|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,00|0,25|0,75|0,25|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
 |25|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,25|0,25|0,75|0,75|1,00|1,00|1,00|1,00|0,75|0,50|1,00|
-
-
 --- Page 469 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -24685,8 +23153,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |45|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,25|0,25|0,50|1,00|0,50|1,00|1,00|1,00|1,00|0,75|0,50|1,00|
 |46|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,00|0,25|0,75|0,25|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
 |47|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,25|0,25|0,25|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
-
-
 --- Page 470 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -24714,8 +23180,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |65|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,50|0,25|0,00|0,25|0,25|0,25|1,00|0,00|0,50|0,25|0,50|0,00|0,00|0,25|0,25|0,25|1,00|
 |66|0,25|0,00|0,25|0,25|0,00|0,25|0,25|0,00|0,50|0,25|0,25|0,50|0,50|0,00|0,00|1,00|0,50|0,50|0,75|0,25|0,25|0,25|0,50|0,25|1,00|
 |67|1,00|0,75|0,75|1,00|0,75|0,75|1,00|0,75|0,75|1,00|0,75|0,75|1,00|0,50|0,50|0,50|1,00|0,75|1,00|0,75|0,75|0,75|0,75|0,75|1,00|
-
-
 --- Page 471 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -24743,8 +23207,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |85|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,00|0,25|0,75|0,25|1,00|1,00|1,00|1,00|0,50|0,25|1,00|
 |86|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,25|0,25|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
 |87|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,00|0,25|0,25|0,75|0,50|1,00|1,00|1,00|1,00|0,75|0,25|1,00|
-
-
 --- Page 472 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -24772,8 +23234,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |10|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |11|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |12|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 473 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -24801,8 +23261,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |30|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |31|0,75|0,75|1,00|0,50|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |32|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 474 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -24830,8 +23288,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |51|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |52|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 475 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -24857,8 +23313,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |71|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |72|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |73|0,75|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 476 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -24885,8 +23339,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |90|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |91|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |92|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 477 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -24917,8 +23369,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |17|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |18|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |19|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 478 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24946,8 +23396,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |37|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |38|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |39|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 479 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -24975,8 +23423,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |58|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |59|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |60|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 480 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -25004,8 +23450,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |79|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,75|1,00|1,00|1,00|0,75|0,75|0,75|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,50|
 |80|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |81|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 481 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25033,8 +23477,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |97|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |98|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |99|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 482 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25060,8 +23502,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |23|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |24|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |25|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|
-
-
 --- Page 483 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25087,8 +23527,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |45|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |46|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |47|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 484 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25116,8 +23554,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |66|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |67|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|
 |68|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 485 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25145,8 +23581,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |86|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|
 |87|0,75|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|
 |88|0,75|0,50|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
-
-
 --- Page 486 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -25174,8 +23608,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |8|1,00|0,50|0,75|0,75|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,50|0,75|0,75|0,75|
 |9|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|
 |10|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|
-
-
 --- Page 487 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -25203,8 +23635,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |29|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|0,25|0,75|1,00|1,00|
 |30|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|
 |31|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|
-
-
 --- Page 488 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -25232,8 +23662,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |51|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|
 |52|0,75|1,00|0,75|0,25|0,75|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,50|0,25|0,50|0,50|0,50|
-
-
 --- Page 489 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -25260,8 +23688,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |73|0,75|0,50|0,75|0,75|1,00|0,75|0,75|1,00|0,75|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|0,75|
 |74|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|1,00|1,00|1,00|
 |75|1,00|0,50|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,75|1,00|1,00|
-
-
 --- Page 490 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -25287,8 +23713,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |94|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,75|1,00|1,00|
 |95|1,00|0,25|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,25|0,75|1,00|1,00|
 |96|1,00|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|
-
-
 --- Page 491 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -25316,8 +23740,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |17|0,75|0,75|0,75|0,50|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |18|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |19|0,75|0,75|0,75|0,50|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 492 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -25345,8 +23767,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |37|0,75|0,75|0,75|0,50|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |38|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |39|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 493 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -25374,8 +23794,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |58|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |59|1,00|1,00|0,75|0,50|1,00|1,00|1,00|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |60|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 494 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -25403,8 +23821,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |79|0,75|0,75|0,50|1,00|0,75|0,75|0,25|0,25|0,50|0,75|0,50|0,25|0,50|0,50|0,75|0,50|0,50|0,50|0,50|0,50|0,75|0,50|0,50|0,75|
 |80|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |81|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 495 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -25434,8 +23850,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |j i|1|
 |---|---|
 |1|1,00|
-
-
 --- Page 496 ---
 
 **Correlation coefficients for earthquake risk in the Hellenic Republic**
@@ -25463,8 +23877,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |28|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
 |29|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|1,00|0,00|0,00|0,00|0,00|
 |30|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|1,00|0,25|0,00|0,25|
-
-
 --- Page 497 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|
@@ -25492,8 +23904,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |49|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |51|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|
-
-
 --- Page 498 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|
@@ -25521,8 +23931,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |69|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |70|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 499 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|
@@ -25550,8 +23958,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |18|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |19|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 500 ---
 
 |j i|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|
@@ -25579,8 +23985,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |38|0,00|0,00|0,00|0,75|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,50|0,25|0,50|0,25|1,00|0,75|0,75|0,75|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |41|0,00|0,25|0,25|0,50|0,25|0,75|1,00|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 501 ---
 
 |j i|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|
@@ -25608,8 +24012,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |59|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,50|
 |60|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,50|0,50|0,25|
-
-
 --- Page 502 ---
 
 |j i|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|
@@ -25638,8 +24040,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |10|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 503 ---
 
 |j i|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|80|81|82|83|84|85|
@@ -25666,8 +24066,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |31|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |32|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 504 ---
 
 |j i|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|80|81|82|83|84|85|
@@ -25693,8 +24091,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |53|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|
 |54|0,25|0,00|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |55|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 505 ---
 
 |j i|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|80|81|82|83|84|85|
@@ -25722,8 +24118,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|1,00|0,75|0,25|0,00|0,00|0,00|0,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,75|0,50|0,75|1,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |80|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 506 ---
 
 |j i|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|80|81|82|83|84|85|
@@ -25752,8 +24146,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |11|0,00|0,25|1,00|0,50|0,00|0,00|0,25|0,25|0,25|0,75|1,00|1,00|0,50|0,00|0,50|0,50|1,00|0,00|0,25|0,50|0,50|0,50|1,00|0,50|
 |12|0,25|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|1,00|1,00|
 |13|0,50|0,25|1,00|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,75|1,00|0,50|0,50|0,50|0,75|0,25|0,25|0,50|0,50|0,50|0,75|0,50|
-
-
 --- Page 507 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|
@@ -25782,8 +24174,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |04|0,25|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,50|0,25|0,00|
 |05|0,00|0,50|0,50|0,00|0,00|1,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|
 |06|0,00|0,00|0,00|0,00|0,00|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 508 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -25811,8 +24201,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,50|0,50|0,50|0,50|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,25|0,25|
 |26|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,50|0,50|0,25|0,25|
-
-
 --- Page 509 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -25838,8 +24226,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,50|0,50|0,25|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,50|0,25|0,25|
 |47|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 510 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -25865,8 +24251,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |67|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |70|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,50|0,50|0,25|
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,00|
-
-
 --- Page 511 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -25894,8 +24278,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |93|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,50|0,50|0,25|
 |94|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,50|0,25|0,00|
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 512 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -25923,8 +24305,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |14|0,00|0,00|0,25|0,50|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |15|0,25|0,00|0,25|0,75|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |16|0,25|0,00|0,25|0,50|0,25|0,50|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|
-
-
 --- Page 513 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -25952,8 +24332,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |34|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,75|1,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |35|0,00|0,00|0,00|0,25|0,25|0,00|0,50|0,50|0,25|0,00|0,25|1,00|0,75|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |36|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,75|1,00|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 514 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -25981,8 +24359,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |55|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |56|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |57|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 515 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -26010,8 +24386,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |81|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |82|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |83|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 516 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -26039,8 +24413,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |02|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|
 |03|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|
 |04|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|
-
-
 --- Page 517 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -26069,8 +24441,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 518 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -26097,8 +24467,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|
 |47|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 519 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -26124,8 +24492,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |67|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|1,00|0,00|0,00|0,00|0,00|0,00|
 |70|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,25|0,25|0,25|0,50|
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|1,00|0,00|0,00|0,00|
-
-
 --- Page 520 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -26153,8 +24519,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |93|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|
 |94|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 521 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -26182,8 +24546,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |14|0,50|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,25|0,00|0,00|0,25|0,00|
 |15|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,00|
 |16|0,25|0,00|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,25|0,50|0,00|
-
-
 --- Page 522 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -26211,8 +24573,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |34|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,00|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |36|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 523 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -26240,8 +24600,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |55|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |56|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |57|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
-
-
 --- Page 524 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -26269,8 +24627,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |81|0,00|0,50|1,00|0,50|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |82|0,00|0,25|0,50|1,00|0,75|0,25|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |83|0,00|0,25|0,25|0,75|1,00|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 525 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -26300,8 +24656,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |11|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|0,75|0,75|0,75|0,50|0,75|1,00|1,00|1,00|0,75|0,75|
 |12|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|
 |13|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|
-
-
 --- Page 526 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
@@ -26329,8 +24683,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |31|0,50|0,50|0,50|0,75|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,75|0,75|0,75|0,50|0,25|0,25|0,25|0,25|0,75|
 |32|0,25|0,50|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,75|0,50|0,50|0,25|0,00|0,00|0,00|0,25|0,75|
 |33|0,25|0,50|0,50|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,75|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,75|
-
-
 --- Page 527 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
@@ -26358,8 +24710,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |53|0,25|0,25|0,25|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,50|
 |54|0,25|0,25|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,50|
-
-
 --- Page 528 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
@@ -26388,8 +24738,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |84|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,50|0,25|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|
 |85|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,50|0,50|0,75|0,50|0,75|0,75|
-
-
 --- Page 529 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
@@ -26417,8 +24765,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |13|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
 |14|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,25|0,50|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,25|
 |15|0,50|0,25|0,00|0,25|0,25|0,25|0,50|0,75|0,25|0,50|0,25|0,25|0,75|0,50|0,50|0,50|0,25|0,25|0,25|0,00|0,00|
-
-
 --- Page 530 ---
 
 |j i|31|32|33|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|
@@ -26446,8 +24792,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |33|0,50|1,00|1,00|0,50|0,75|0,75|0,50|0,75|0,00|0,00|0,00|0,00|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|
 |34|0,75|0,75|0,50|1,00|0,50|0,75|0,50|0,75|0,00|0,00|0,00|0,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|
 |35|0,50|0,75|0,75|0,50|1,00|0,75|0,50|0,75|0,00|0,00|0,00|0,00|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|
-
-
 --- Page 531 ---
 
 |j i|31|32|33|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|
@@ -26475,8 +24819,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |54|0,50|0,50|0,50|0,25|0,25|0,50|0,25|0,50|0,00|0,00|0,00|0,00|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|
 |60|0,50|0,75|0,75|0,50|0,75|0,75|0,50|0,75|0,00|0,00|0,00|0,00|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|
 |61|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,00|0,00|0,25|0,25|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|
-
-
 --- Page 532 ---
 
 |j i|31|32|33|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|
@@ -26504,8 +24846,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |84|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,75|0,25|0,25|0,25|0,25|0,50|0,50|0,75|0,50|0,75|0,50|0,75|0,50|0,50|
 |85|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
 |86|0,75|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,50|
-
-
 --- Page 533 ---
 
 |j i|31|32|33|34|35|36|37|38|40|41|42|43|44|45|46|47|48|49|50|51|52|
@@ -26533,8 +24873,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |14|0,25|0,25|0,50|0,50|0,25|0,00|0,25|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,50|0,75|0,75|0,75|
 |15|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,75|0,75|0,75|0,75|0,50|0,50|0,50|0,75|0,75|
 |16|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,75|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|
-
-
 --- Page 534 ---
 
 |j i|53|54|60|61|62|63|64|70|71|72|73|74|75|76|77|78|79|80|81|82|83|
@@ -26562,8 +24900,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |34|0,25|0,25|0,50|0,75|0,00|0,00|0,00|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,50|0,25|0,50|0,50|0,75|
 |35|0,25|0,25|0,75|0,75|0,00|0,00|0,00|0,50|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,25|0,50|0,50|0,75|
 |36|0,50|0,50|0,75|0,75|0,25|0,00|0,00|0,25|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,00|0,50|0,50|0,75|
-
-
 --- Page 535 ---
 
 |j i|53|54|60|61|62|63|64|70|71|72|73|74|75|76|77|78|79|80|81|82|83|
@@ -26591,8 +24927,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |60|0,50|0,50|1,00|1,00|0,00|0,00|0,00|0,50|0,75|0,75|0,75|0,75|0,50|0,75|1,00|1,00|0,75|0,25|0,50|0,50|0,75|
 |61|0,50|0,50|1,00|1,00|0,25|0,00|0,00|0,50|0,75|0,75|0,75|0,50|0,50|0,75|0,75|0,75|0,75|0,00|0,50|0,50|0,75|
 |62|0,00|0,00|0,00|0,25|1,00|0,00|0,00|0,25|0,25|0,25|0,00|0,25|0,25|0,50|0,50|0,25|0,25|0,00|0,25|0,25|0,50|
-
-
 --- Page 536 ---
 
 |j i|53|54|60|61|62|63|64|70|71|72|73|74|75|76|77|78|79|80|81|82|83|
@@ -26620,8 +24954,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |85|0,50|0,50|0,75|0,75|0,50|0,00|0,25|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|1,00|1,00|1,00|
 |86|0,50|0,50|0,75|0,75|0,50|0,25|0,25|0,75|0,75|0,75|0,75|0,75|0,75|1,00|1,00|1,00|0,75|0,75|0,75|1,00|1,00|
 |87|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,50|0,75|0,75|0,75|0,50|1,00|1,00|1,00|1,00|
-
-
 --- Page 537 ---
 
 |j i|53|54|60|61|62|63|64|70|71|72|73|74|75|76|77|78|79|80|81|82|83|
@@ -26649,8 +24981,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |15|0,50|0,75|0,75|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |16|0,50|0,75|0,75|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |17|0,50|0,75|0,75|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 538 ---
 
 |j i|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -26678,8 +25008,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |35|0,75|0,75|0,75|0,25|0,75|0,50|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,50|0,50|0,50|
 |36|0,75|0,75|0,75|0,25|0,75|0,50|0,00|0,25|0,25|0,25|0,00|0,50|0,50|0,50|0,25|0,25|
 |37|0,50|0,75|0,75|0,50|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,50|0,25|0,25|
-
-
 --- Page 539 ---
 
 |j i|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -26707,8 +25035,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |61|0,75|0,75|0,75|0,25|0,75|0,50|0,00|0,25|0,25|0,25|0,00|0,50|0,50|0,50|0,25|0,25|
 |62|0,25|0,50|0,50|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|
 |63|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 540 ---
 
 |j i|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -26736,8 +25062,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |86|1,00|1,00|1,00|0,75|0,75|0,75|0,00|0,25|0,00|0,25|0,00|0,50|0,50|0,50|0,25|0,25|
 |87|0,75|0,75|0,75|1,00|1,00|0,75|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |88|0,75|0,75|0,75|1,00|1,00|1,00|0,00|0,25|0,00|0,25|0,00|0,25|0,50|0,25|0,25|0,25|
-
-
 --- Page 541 ---
 
 |j i|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -26767,8 +25091,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |07|1,00|0,75|0,25|0,25|0,75|1,00|0,75|0,25|0,50|0,00|0,75|0,25|1,00|0,75|0,25|0,25|0,50|0,25|0,50|0,50|
 |08|0,75|0,00|0,75|1,00|0,25|0,75|1,00|0,75|0,75|0,50|0,00|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,75|0,75|
 |09|0,25|0,00|0,75|0,75|0,00|0,25|0,75|1,00|0,50|1,00|0,00|0,50|0,50|0,50|0,75|1,00|0,75|1,00|0,75|0,25|
-
-
 --- Page 542 ---
 
 |j i|01|03|04|05|06|07|08|09|10|12|13|14|17|18|19|20|21|22|23|24|
@@ -26796,8 +25118,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |30|0,50|0,25|0,25|0,25|0,25|0,75|0,50|0,25|0,25|0,00|0,25|0,25|0,75|0,50|0,25|0,25|0,50|0,25|0,25|0,75|
 |31|1,00|0,50|0,50|0,25|0,50|1,00|0,50|0,25|0,50|0,25|0,50|0,25|1,00|0,75|0,25|0,25|0,50|0,25|0,50|0,50|
 |32|0,25|0,00|0,75|1,00|0,00|0,50|1,00|0,75|0,50|0,75|0,00|0,25|0,50|0,25|0,75|0,75|0,75|0,75|0,75|0,50|
-
-
 --- Page 543 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -26825,8 +25145,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |43|0,50|0,00|0,75|0,50|0,00|0,50|0,75|0,50|0,50|0,50|0,00|0,25|0,50|0,25|0,50|0,75|0,75|0,50|0,50|0,50|
 |44|0,00|0,00|0,50|1,00|0,00|0,00|0,75|0,75|0,50|0,75|0,00|0,25|0,25|0,00|1,00|0,75|0,50|1,00|0,50|0,25|
 |45|0,00|0,00|0,75|0,75|0,00|0,00|0,50|1,00|0,25|0,75|0,00|0,75|0,00|0,50|0,75|1,00|0,75|0,75|1,00|0,25|
-
-
 --- Page 544 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -26853,8 +25171,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |28|0,75|0,00|0,50|1,00|0,25|0,25|0,50|1,00|1,00|0,75|0,25|0,00|0,25|1,00|0,75|0,00|0,75|1,00|0,75|0,75|0,75|
 |29|0,50|0,75|0,25|0,25|1,00|0,50|0,75|0,25|0,25|0,00|0,75|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|
 |30|0,50|0,25|0,25|0,25|0,50|1,00|0,50|0,25|0,50|0,00|0,50|0,25|0,50|0,50|0,25|0,00|0,25|0,25|0,25|0,00|0,25|
-
-
 --- Page 545 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -26883,8 +25199,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |1|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,50|0,00|0,00|
 |2|0,25|1,00|0,75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |3|0,25|0,75|1,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|
-
-
 --- Page 546 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|
@@ -26910,8 +25224,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |22|0,50|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,75|1,00|0,00|0,00|
 |23|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|1,00|0,75|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,00|0,50|0,00|0,75|1,00|
-
-
 --- Page 547 ---
 
 **Correlation coefficients for earthquake risk in the Republic of Slovenia**
@@ -26942,8 +25254,6 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |4|0,75|0,25|0,00|1,00|1,00|0,50|0,50|0,50|0,25|0,25|0,75|0,50|0,50|0,25|0,25|0,50|0,50|1,00|0,50|0,50|0,50|0,25|0,50|0,25|0,75|0,50|
 |5|0,75|0,25|0,00|1,00|1,00|0,50|0,50|0,75|0,25|0,25|0,75|0,50|0,50|0,25|0,25|0,50|0,50|0,75|0,50|0,50|0,50|0,25|0,50|0,25|0,75|0,50|
 |6|0,50|0,00|0,00|0,50|0,50|1,00|0,75|0,50|0,00|0,00|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,75|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|
-
-
 --- Page 548 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
@@ -26968,11 +25278,9 @@ The correlation coefficients for the regions Republic of Malta, Guadeloupe, Mart
 |24|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,50|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,50|1,00|0,25|0,25|
 |25|0,75|0,50|0,50|0,75|0,75|0,50|0,50|0,75|0,50|0,50|0,50|0,75|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,50|0,75|0,50|0,50|0,25|1,00|1,00|
 |26|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|1,00|0,75|0,75|0,75|0,75|1,00|0,50|0,50|0,50|0,75|0,75|0,25|0,25|1,00|1,00|
-
-
 --- Page 549 ---
 
-*ANNEX XXIV*
+# *ANNEX XXIV*
 
 **CORRELATION COEFFICIENTS FOR FLOOD RISK**
 
@@ -26998,8 +25306,6 @@ headings of the rows and columns denote the region specific risk zones according
 |13|1,00|0,75|1,00|0,00|0,75|0,25|0,25|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,25|0,25|0,00|0,75|0,25|0,25|
 |14|1,00|0,75|1,00|0,00|1,00|0,25|0,50|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,25|0,25|0,00|1,00|0,50|0,25|
 |15|1,00|0,75|1,00|0,00|0,75|0,25|0,50|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,25|0,25|0,25|0,75|0,25|0,25|
-
-
 --- Page 550 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -27027,8 +25333,6 @@ headings of the rows and columns denote the region specific risk zones according
 |33|0,50|0,25|0,25|0,00|0,50|0,75|0,75|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,50|0,75|0,75|0,75|0,50|0,75|0,75|
 |34|0,50|0,50|0,75|0,00|0,75|1,00|0,75|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,75|1,00|1,00|1,00|0,75|1,00|1,00|
 |35|0,50|0,25|0,25|0,00|0,50|1,00|0,75|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,50|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 551 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -27056,8 +25360,6 @@ headings of the rows and columns denote the region specific risk zones according
 |53|1,00|0,75|1,00|0,00|0,75|0,50|0,25|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|0,50|0,50|0,25|0,75|0,25|0,25|
 |54|0,75|0,75|0,75|0,00|0,50|0,25|0,25|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,75|0,75|0,50|0,25|0,25|0,00|0,75|0,00|0,00|
 |55|0,75|0,75|0,75|0,00|0,50|0,25|0,25|0,75|0,50|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|0,25|0,00|0,75|0,00|0,00|
-
-
 --- Page 552 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -27084,8 +25386,6 @@ headings of the rows and columns denote the region specific risk zones according
 |75|0,25|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |76|0,50|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|
 |77|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 553 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27111,8 +25411,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,50|0,50|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|1,00|
 |20|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,50|0,50|1,00|1,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|1,00|0,00|1,00|
 |21|0,75|1,00|0,75|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,75|1,00|0,50|0,25|1,00|1,00|0,00|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,75|0,00|0,75|
-
-
 --- Page 554 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27139,8 +25437,6 @@ headings of the rows and columns denote the region specific risk zones according
 |38|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,75|1,00|1,00|0,50|0,50|1,00|1,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|1,00|0,25|1,00|
 |39|0,75|1,00|1,00|0,75|0,75|0,75|1,00|1,00|1,00|0,75|1,00|1,00|0,25|0,50|1,00|1,00|0,50|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,75|0,00|1,00|
 |40|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,50|1,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|
-
-
 --- Page 555 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27167,8 +25463,6 @@ headings of the rows and columns denote the region specific risk zones according
 |57|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |58|0,00|0,25|0,25|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |59|0,50|0,75|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,25|0,50|0,50|0,25|0,25|0,50|0,75|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,50|
-
-
 --- Page 556 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27196,8 +25490,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|0,50|1,00|1,00|0,75|0,75|1,00|0,25|0,75|1,00|0,75|0,75|0,75|0,75|1,00|0,50|0,25|0,50|0,50|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,50|0,25|
 |2|0,00|0,75|0,75|0,75|0,75|0,75|0,25|0,50|0,75|0,50|0,50|0,50|0,50|0,75|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
-
-
 --- Page 557 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -27223,8 +25515,6 @@ headings of the rows and columns denote the region specific risk zones according
 |21|0,75|0,75|0,75|0,75|0,75|0,75|0,00|0,50|1,00|0,50|0,50|0,25|0,50|0,75|0,75|0,50|1,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |22|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,75|0,00|0,00|0,00|0,00|0,25|1,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |23|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,75|0,00|0,00|0,00|0,00|0,25|1,00|0,75|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 558 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -27251,8 +25541,6 @@ headings of the rows and columns denote the region specific risk zones according
 |43|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|
 |44|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|
 |45|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|
-
-
 --- Page 559 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -27281,8 +25569,6 @@ headings of the rows and columns denote the region specific risk zones according
 |64|0,00|1,00|1,00|0,75|0,75|0,75|0,25|0,50|0,75|0,50|0,50|0,50|0,50|1,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |65|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,75|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |66|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|1,00|1,00|0,75|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 560 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -27313,8 +25599,6 @@ headings of the rows and columns denote the region specific risk zones according
 |7|0,25|0,00|0,00|0,00|0,00|0,25|1,00|0,25|0,25|
 |8|0,00|1,00|0,00|0,00|1,00|0,00|0,25|1,00|0,50|
 |9|0,00|0,25|0,00|1,00|0,75|0,00|0,25|0,50|1,00|
-
-
 --- Page 561 ---
 
 **Correlation coefficients for flood risk in the Republic of Bulgaria**
@@ -27342,8 +25626,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |20|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |21|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 562 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
@@ -27371,8 +25653,6 @@ headings of the rows and columns denote the region specific risk zones according
 |11|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |12|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |13|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 563 ---
 
 |j i|16|17|18|19|20|21|22|23|24|25|26|27|28|
@@ -27402,8 +25682,6 @@ headings of the rows and columns denote the region specific risk zones according
 |2|0,50|1,00|0,75|1,00|0,75|1,00|0,75|1,00|1,00|0,75|0,75|0,50|1,00|0,50|0,00|0,75|0,75|0,75|0,50|
 |3|0,75|0,75|1,00|0,75|1,00|0,75|0,75|0,50|0,75|0,75|0,75|0,50|0,75|0,25|0,00|0,50|0,50|0,50|0,50|
 |4|1,00|1,00|0,75|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|0,50|0,75|0,75|0,25|0,75|0,50|0,75|0,50|
-
-
 --- Page 564 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|
@@ -27431,8 +25709,6 @@ headings of the rows and columns denote the region specific risk zones according
 |22|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,25|0,25|0,25|0,25|
 |23|0,00|0,50|0,75|0,25|0,25|0,50|0,50|0,75|0,75|0,25|0,50|0,25|0,50|0,00|0,00|0,25|0,25|0,50|0,25|
 |24|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,75|0,75|0,25|0,75|0,50|0,50|0,00|0,00|0,50|0,50|0,50|0,75|
-
-
 --- Page 565 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|
@@ -27460,8 +25736,6 @@ headings of the rows and columns denote the region specific risk zones according
 |42|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
 |43|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
 |44|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 566 ---
 
 |j i|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|
@@ -27489,8 +25763,6 @@ headings of the rows and columns denote the region specific risk zones according
 |57|0,25|0,25|0,00|0,50|0,00|0,00|0,00|0,50|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
 |58|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
 |59|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 567 ---
 
 |j i|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|
@@ -27518,8 +25790,6 @@ headings of the rows and columns denote the region specific risk zones according
 |23|0,50|0,00|0,25|1,00|0,75|0,75|0,50|0,50|0,25|0,00|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|0,25|
 |24|1,00|0,25|0,25|0,75|1,00|1,00|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,00|0,50|
 |25|1,00|0,25|0,50|0,75|1,00|1,00|0,50|0,50|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|
-
-
 --- Page 568 ---
 
 |j i|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|
@@ -27547,8 +25817,6 @@ headings of the rows and columns denote the region specific risk zones according
 |43|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,50|0,25|0,25|0,50|0,50|0,50|
 |44|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,50|0,25|0,25|0,50|0,50|0,50|
 |45|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,50|
-
-
 --- Page 569 ---
 
 |j i|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|
@@ -27576,8 +25844,6 @@ headings of the rows and columns denote the region specific risk zones according
 |4|0,00|0,75|0,25|0,00|0,25|0,50|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,50|0,00|0,25|
 |5|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |6|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 570 ---
 
 |j i|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|
@@ -27605,8 +25871,6 @@ headings of the rows and columns denote the region specific risk zones according
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |26|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 571 ---
 
 |j i|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|
@@ -27634,8 +25898,6 @@ headings of the rows and columns denote the region specific risk zones according
 |44|1,00|1,00|1,00|0,75|1,00|0,50|0,75|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|0,50|0,25|
 |45|0,75|0,75|0,75|0,75|0,50|1,00|1,00|0,50|0,50|0,75|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|0,50|0,50|
 |46|0,75|0,75|0,75|1,00|0,75|1,00|1,00|1,00|0,75|0,75|0,25|0,25|0,25|0,25|0,25|0,50|0,75|0,50|0,50|0,25|
-
-
 --- Page 572 ---
 
 |j i|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|
@@ -27665,8 +25927,6 @@ headings of the rows and columns denote the region specific risk zones according
 |4|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |5|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |6|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 573 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -27695,8 +25955,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |26|1,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |27|0,00|1,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 574 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -27722,8 +25980,6 @@ headings of the rows and columns denote the region specific risk zones according
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |47|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |48|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 575 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -27751,8 +26007,6 @@ headings of the rows and columns denote the region specific risk zones according
 |66|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |67|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |68|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 576 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -27780,8 +26034,6 @@ headings of the rows and columns denote the region specific risk zones according
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |88|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 577 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -27809,8 +26061,6 @@ headings of the rows and columns denote the region specific risk zones according
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |12|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |13|1,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 578 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27838,8 +26088,6 @@ headings of the rows and columns denote the region specific risk zones according
 |31|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |32|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 579 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27866,8 +26114,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |51|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |52|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 580 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27893,8 +26139,6 @@ headings of the rows and columns denote the region specific risk zones according
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,50|1,00|1,00|0,00|1,00|0,00|0,00|0,00|1,00|0,00|
 |72|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 581 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27922,8 +26166,6 @@ headings of the rows and columns denote the region specific risk zones according
 |91|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |92|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |93|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 582 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -27951,8 +26193,6 @@ headings of the rows and columns denote the region specific risk zones according
 |16|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |17|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |18|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 583 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -27980,8 +26220,6 @@ headings of the rows and columns denote the region specific risk zones according
 |36|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |37|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |38|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 584 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -28009,8 +26247,6 @@ headings of the rows and columns denote the region specific risk zones according
 |56|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |57|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |58|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 585 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -28038,8 +26274,6 @@ headings of the rows and columns denote the region specific risk zones according
 |76|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
 |77|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
 |78|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 586 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -28067,8 +26301,6 @@ headings of the rows and columns denote the region specific risk zones according
 |1|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |2|1,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|1,00|1,00|0,75|1,00|0,75|
 |3|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 587 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -28095,8 +26327,6 @@ headings of the rows and columns denote the region specific risk zones according
 |23|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 588 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -28123,8 +26353,6 @@ headings of the rows and columns denote the region specific risk zones according
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |47|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 589 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -28152,8 +26380,6 @@ headings of the rows and columns denote the region specific risk zones according
 |65|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |66|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |67|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 590 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -28181,8 +26407,6 @@ headings of the rows and columns denote the region specific risk zones according
 |85|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 591 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -28212,8 +26436,6 @@ headings of the rows and columns denote the region specific risk zones according
 |10|0,25|0,00|0,25|0,50|0,50|0,25|0,00|0,00|1,00|1,00|1,00|0,75|0,50|0,75|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,50|
 |12|0,25|0,25|0,25|0,50|0,50|0,25|0,00|0,00|1,00|1,00|1,00|0,75|0,75|0,75|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,50|
 |13|0,25|0,00|0,00|0,50|0,50|0,25|0,00|0,00|1,00|1,00|1,00|0,75|0,50|0,75|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,50|
-
-
 --- Page 592 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28241,8 +26463,6 @@ headings of the rows and columns denote the region specific risk zones according
 |31|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|
 |32|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |33|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 593 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28270,8 +26490,6 @@ headings of the rows and columns denote the region specific risk zones according
 |52|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |53|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,25|
 |54|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 594 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28300,8 +26518,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |76|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 595 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28327,8 +26543,6 @@ headings of the rows and columns denote the region specific risk zones according
 |95|0,25|0,25|0,25|0,00|0,00|0,25|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|
 |96|0,00|0,00|0,25|0,25|0,25|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,25|
 |97|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,25|
-
-
 --- Page 596 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28356,8 +26570,6 @@ headings of the rows and columns denote the region specific risk zones according
 |18|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |19|0,25|0,25|0,25|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,25|0,50|0,50|0,75|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,75|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,25|
-
-
 --- Page 597 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -28385,8 +26597,6 @@ headings of the rows and columns denote the region specific risk zones according
 |38|0,75|0,75|0,75|0,75|0,75|0,75|0,50|0,25|0,50|0,25|0,25|0,75|1,00|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,50|0,50|0,50|
 |39|0,25|0,25|0,25|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,50|0,50|0,50|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,00|1,00|1,00|0,25|0,25|0,25|1,00|1,00|0,50|0,50|
-
-
 --- Page 598 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -28414,8 +26624,6 @@ headings of the rows and columns denote the region specific risk zones according
 |59|0,50|0,25|0,50|0,25|0,25|0,50|0,75|0,75|0,50|0,50|0,25|0,50|0,25|0,00|0,25|0,25|0,50|0,75|0,25|0,25|0,25|0,50|0,50|
 |60|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,50|0,25|0,75|0,75|0,25|0,25|0,25|0,75|0,75|0,25|0,25|
 |61|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,75|0,50|0,25|0,25|0,00|0,25|0,25|0,50|0,25|0,00|0,25|0,25|0,25|0,00|
-
-
 --- Page 599 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|
@@ -28442,8 +26650,6 @@ headings of the rows and columns denote the region specific risk zones according
 |79|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |80|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |81|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 600 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28471,8 +26677,6 @@ headings of the rows and columns denote the region specific risk zones according
 |97|0,50|0,50|0,50|0,25|0,25|0,50|0,25|0,00|0,25|0,25|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,00|0,25|0,50|0,50|0,25|0,25|
 |98|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,75|0,50|0,50|0,00|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|
 |99|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,75|0,75|0,75|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|
-
-
 --- Page 601 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28498,8 +26702,6 @@ headings of the rows and columns denote the region specific risk zones according
 |23|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |25|0,25|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 602 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28525,8 +26727,6 @@ headings of the rows and columns denote the region specific risk zones according
 |45|0,25|0,50|0,00|0,25|0,00|0,25|0,25|0,50|0,75|0,25|0,25|0,00|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |46|0,75|0,75|0,00|0,75|0,50|0,50|0,75|0,25|0,50|0,25|0,75|0,25|0,50|0,50|0,75|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|
 |47|0,75|0,75|0,25|0,75|0,50|0,50|0,75|0,25|0,25|0,25|0,75|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 603 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28554,8 +26754,6 @@ headings of the rows and columns denote the region specific risk zones according
 |66|0,50|0,50|0,00|0,50|0,75|0,75|0,75|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|1,00|0,75|0,00|0,50|0,00|0,00|0,00|0,00|0,00|
 |67|0,50|0,50|0,25|0,50|0,75|1,00|0,75|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,75|1,00|0,50|0,75|0,25|0,25|0,25|0,00|0,25|
 |68|0,25|0,25|0,00|0,25|0,00|0,50|0,50|0,00|0,00|0,00|0,50|0,00|0,25|0,50|0,50|0,00|0,50|1,00|0,75|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 604 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28583,8 +26781,6 @@ headings of the rows and columns denote the region specific risk zones according
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |88|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,50|0,00|0,00|
-
-
 --- Page 605 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|
@@ -28612,8 +26808,6 @@ headings of the rows and columns denote the region specific risk zones according
 |8|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,75|0,75|0,00|0,50|0,25|0,25|0,25|0,25|
 |9|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,50|0,50|0,00|0,50|0,25|0,25|0,00|0,00|
 |10|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
-
-
 --- Page 606 ---
 
 |j i|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -28641,8 +26835,6 @@ headings of the rows and columns denote the region specific risk zones according
 |29|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,50|
 |30|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,50|
 |31|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,50|0,50|0,25|0,50|
-
-
 --- Page 607 ---
 
 |j i|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -28670,8 +26862,6 @@ headings of the rows and columns denote the region specific risk zones according
 |50|0,25|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,50|0,50|0,25|0,25|
 |51|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,50|0,25|0,25|
 |52|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|
-
-
 --- Page 608 ---
 
 |j i|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -28697,8 +26887,6 @@ headings of the rows and columns denote the region specific risk zones according
 |72|0,50|0,25|0,50|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|
 |73|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,75|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|
 |74|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,75|0,75|0,00|0,00|0,00|0,00|0,25|0,50|0,00|0,00|
-
-
 --- Page 609 ---
 
 |j i|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -28725,8 +26913,6 @@ headings of the rows and columns denote the region specific risk zones according
 |94|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,25|0,00|0,50|0,25|0,00|0,00|0,50|1,00|0,00|0,00|0,25|0,00|0,00|
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,75|0,50|0,00|1,00|0,75|0,50|0,50|0,25|
 |96|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,25|0,25|0,00|0,75|1,00|0,75|0,75|0,50|
-
-
 --- Page 610 ---
 
 |j i|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -28755,8 +26941,6 @@ headings of the rows and columns denote the region specific risk zones according
 |13|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |14|1,00|0,50|0,00|0,00|0,25|0,25|0,00|1,00|1,00|0,75|0,75|0,50|0,00|1,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |15|1,00|0,50|0,00|0,00|0,25|0,25|0,00|1,00|1,00|0,75|0,75|0,50|0,00|1,00|1,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 611 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|
@@ -28785,8 +26969,6 @@ headings of the rows and columns denote the region specific risk zones according
 |06|0,25|0,50|0,25|0,00|0,00|0,75|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |07|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |08|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 612 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28814,8 +26996,6 @@ headings of the rows and columns denote the region specific risk zones according
 |26|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,75|0,25|
 |27|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,50|0,50|0,75|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|
 |28|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 613 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28842,8 +27022,6 @@ headings of the rows and columns denote the region specific risk zones according
 |48|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |51|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 614 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28870,8 +27048,6 @@ headings of the rows and columns denote the region specific risk zones according
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 615 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -28898,8 +27074,6 @@ headings of the rows and columns denote the region specific risk zones according
 |96|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |98|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 616 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|50|51|
@@ -28926,8 +27100,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|
 |21|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 617 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|50|51|
@@ -28955,8 +27127,6 @@ headings of the rows and columns denote the region specific risk zones according
 |39|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,50|0,75|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,50|0,00|
 |41|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 618 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|50|51|
@@ -28984,8 +27154,6 @@ headings of the rows and columns denote the region specific risk zones according
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |62|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 619 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|50|51|
@@ -29013,8 +27181,6 @@ headings of the rows and columns denote the region specific risk zones according
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |88|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 620 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|50|51|
@@ -29042,8 +27208,6 @@ headings of the rows and columns denote the region specific risk zones according
 |07|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |08|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |09|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 621 ---
 
 |j i|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|75|80|81|82|
@@ -29071,8 +27235,6 @@ headings of the rows and columns denote the region specific risk zones according
 |27|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |28|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |29|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 622 ---
 
 |j i|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|75|80|81|82|
@@ -29098,8 +27260,6 @@ headings of the rows and columns denote the region specific risk zones according
 |48|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |50|0,75|0,25|0,00|0,25|0,75|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |51|0,25|0,25|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 623 ---
 
 |j i|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|75|80|81|82|
@@ -29126,8 +27286,6 @@ headings of the rows and columns denote the region specific risk zones according
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,75|0,00|0,00|0,00|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,75|1,00|0,00|0,00|0,00|
-
-
 --- Page 624 ---
 
 |j i|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|75|80|81|82|
@@ -29154,8 +27312,6 @@ headings of the rows and columns denote the region specific risk zones according
 |96|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |98|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 625 ---
 
 |j i|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -29182,8 +27338,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |21|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 626 ---
 
 |j i|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -29211,8 +27365,6 @@ headings of the rows and columns denote the region specific risk zones according
 |39|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |41|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 627 ---
 
 |j i|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -29240,8 +27392,6 @@ headings of the rows and columns denote the region specific risk zones according
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |62|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 628 ---
 
 |j i|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -29269,8 +27419,6 @@ headings of the rows and columns denote the region specific risk zones according
 |86|0,25|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |88|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 629 ---
 
 |j i|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -29300,8 +27448,6 @@ headings of the rows and columns denote the region specific risk zones according
 |06|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,25|0,25|0,50|0,25|
 |07|0,50|0,50|0,50|0,75|0,50|0,50|0,75|1,00|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,25|
 |08|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|1,00|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,50|0,50|0,25|0,50|0,75|0,25|0,50|0,50|0,25|
-
-
 --- Page 630 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -29329,8 +27475,6 @@ headings of the rows and columns denote the region specific risk zones according
 |26|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,50|1,00|0,25|
 |27|0,50|0,25|0,50|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|0,50|0,25|0,75|0,75|0,50|
 |28|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,50|0,50|0,50|
-
-
 --- Page 631 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -29356,8 +27500,6 @@ headings of the rows and columns denote the region specific risk zones according
 |47|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |48|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |49|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
-
-
 --- Page 632 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -29383,8 +27525,6 @@ headings of the rows and columns denote the region specific risk zones according
 |68|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |69|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |70|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 633 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -29412,8 +27552,6 @@ headings of the rows and columns denote the region specific risk zones according
 |89|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |90|0,50|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|
 |91|0,25|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|
-
-
 --- Page 634 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -29441,8 +27579,6 @@ headings of the rows and columns denote the region specific risk zones according
 |09|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,50|0,25|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
 |10|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 635 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|
@@ -29470,8 +27606,6 @@ headings of the rows and columns denote the region specific risk zones according
 |29|0,25|0,25|0,50|1,00|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,75|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
 |30|0,50|0,50|0,50|0,50|1,00|0,75|0,75|0,75|0,75|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|
 |31|0,50|0,50|0,50|0,50|0,75|1,00|0,75|0,75|0,50|0,25|0,25|0,25|0,25|0,75|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 636 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|
@@ -29499,8 +27633,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,50|0,50|
 |51|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,75|0,75|0,75|0,50|0,75|
-
-
 --- Page 637 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|
@@ -29527,8 +27659,6 @@ headings of the rows and columns denote the region specific risk zones according
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |72|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 638 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|
@@ -29555,8 +27685,6 @@ headings of the rows and columns denote the region specific risk zones according
 |94|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |95|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |96|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 639 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|
@@ -29584,8 +27712,6 @@ headings of the rows and columns denote the region specific risk zones according
 |14|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |15|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |16|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 640 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|
@@ -29613,8 +27739,6 @@ headings of the rows and columns denote the region specific risk zones according
 |34|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|
 |35|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |36|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 641 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|
@@ -29642,8 +27766,6 @@ headings of the rows and columns denote the region specific risk zones according
 |54|1,00|0,75|0,75|1,00|1,00|0,75|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,75|0,25|0,50|0,00|0,00|0,00|0,00|
 |55|0,75|0,50|0,75|0,75|0,75|1,00|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,25|0,50|0,75|0,25|0,50|0,00|0,00|0,00|0,00|
 |56|0,75|0,75|0,75|0,75|0,75|0,75|1,00|0,50|0,75|0,75|0,50|0,50|0,50|0,50|0,50|0,50|0,75|0,75|0,50|0,50|0,00|0,00|0,00|0,00|
-
-
 --- Page 642 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|
@@ -29671,8 +27793,6 @@ headings of the rows and columns denote the region specific risk zones according
 |74|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,75|0,75|0,75|0,75|0,50|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|
 |76|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 643 ---
 
 |j i|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|
@@ -29699,8 +27819,6 @@ headings of the rows and columns denote the region specific risk zones according
 |97|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|
 |98|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|
 |99|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,75|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 644 ---
 
 |j i|74|75|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -29727,8 +27845,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |21|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 645 ---
 
 |j i|74|75|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -29756,8 +27872,6 @@ headings of the rows and columns denote the region specific risk zones according
 |39|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|
 |40|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|
 |41|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,50|0,50|0,25|
-
-
 --- Page 646 ---
 
 |j i|74|75|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -29786,8 +27900,6 @@ headings of the rows and columns denote the region specific risk zones according
 |60|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
 |61|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|0,50|
 |62|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,50|0,50|0,25|0,25|0,25|0,25|0,25|0,50|0,25|0,50|0,50|0,75|
-
-
 --- Page 647 ---
 
 |j i|74|75|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -29816,8 +27928,6 @@ headings of the rows and columns denote the region specific risk zones according
 |82|0,00|0,25|0,25|0,25|0,25|0,50|0,50|1,00|1,00|0,50|0,75|0,75|0,75|0,25|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|
 |83|0,00|0,25|0,25|0,25|0,25|0,50|0,50|1,00|1,00|0,50|0,75|0,75|0,75|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|
 |84|0,25|0,50|0,50|0,50|0,50|0,50|0,50|0,50|0,50|1,00|0,50|0,25|0,25|0,25|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|0,25|
-
-
 --- Page 648 ---
 
 |j i|74|75|76|77|78|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -29847,8 +27957,6 @@ headings of the rows and columns denote the region specific risk zones according
 |03|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,25|0,25|0,25|0,00|
 |04|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,50|0,00|0,25|0,25|0,00|
 |05|0,00|0,00|0,00|1,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|
-
-
 --- Page 649 ---
 
 |j i|01|03|04|05|06|07|08|09|10|12|13|14|17|18|19|20|21|22|23|24|
@@ -29876,8 +27984,6 @@ headings of the rows and columns denote the region specific risk zones according
 |26|0,50|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|
 |27|0,25|0,25|0,25|0,00|0,25|0,25|0,00|0,50|0,25|0,00|0,25|0,50|0,25|0,50|0,25|0,50|0,25|0,25|0,25|0,00|
 |28|0,00|0,00|0,00|0,25|0,00|0,00|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 650 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -29905,8 +28011,6 @@ headings of the rows and columns denote the region specific risk zones according
 |43|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |44|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|
 |45|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,50|0,00|0,00|0,50|0,00|
-
-
 --- Page 651 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -29935,8 +28039,6 @@ headings of the rows and columns denote the region specific risk zones according
 |26|0,25|1,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|
 |27|0,25|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |28|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,25|0,50|0,00|0,25|0,00|
-
-
 --- Page 652 ---
 
 |j i|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|
@@ -29966,8 +28068,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|1,00|1,00|0,50|0,00|0,25|0,75|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,25|1,00|1,00|0,25|0,50|0,25|0,25|0,00|0,25|0,25|
 |2|1,00|1,00|1,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|1,00|1,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
-
-
 --- Page 653 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|
@@ -29994,8 +28094,6 @@ headings of the rows and columns denote the region specific risk zones according
 |22|0,00|0,25|0,00|1,00|1,00|0,25|1,00|1,00|0,75|0,00|0,00|0,00|1,00|0,00|0,75|0,25|0,25|1,00|0,75|1,00|1,00|1,00|0,50|0,75|
 |23|0,25|0,25|0,00|0,50|0,50|0,00|0,00|0,50|0,25|0,00|0,00|0,00|0,50|0,00|0,50|0,25|0,25|1,00|0,00|0,75|0,50|0,50|1,00|1,00|
 |24|0,25|0,00|1,00|0,75|0,75|0,25|0,00|0,75|0,75|0,00|0,00|0,00|0,75|0,00|0,50|0,25|0,25|1,00|1,00|0,75|0,50|0,75|1,00|1,00|
-
-
 --- Page 654 ---
 
 **Correlation coefficients for flood risk in the Swiss Confederation**
@@ -30023,8 +28121,6 @@ headings of the rows and columns denote the region specific risk zones according
 |19|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,25|0,25|0,00|0,00|1,00|0,25|0,00|0,25|0,00|0,00|0,25|0,50|
 |20|0,25|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,50|
 |21|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 655 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
@@ -30060,8 +28156,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |AB|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,25|
 |AL|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,50|
-
-
 --- Page 656 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30087,8 +28181,6 @@ headings of the rows and columns denote the region specific risk zones according
 |CV|0,00|0,00|1,00|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,75|0,25|1,00|0,25|0,00|0,00|
 |CW|0,00|0,00|0,75|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|1,00|0,00|0,25|1,00|0,00|0,00|
 |DA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|1,00|0,00|
-
-
 --- Page 657 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30116,8 +28208,6 @@ headings of the rows and columns denote the region specific risk zones according
 |GU|0,00|0,25|0,75|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,75|0,00|0,25|0,00|0,00|0,00|
 |GY|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |HA|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,25|1,00|0,25|0,00|0,00|0,00|0,25|
-
-
 --- Page 658 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30145,8 +28235,6 @@ headings of the rows and columns denote the region specific risk zones according
 |LA|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |LD|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
 |LE|0,00|0,00|1,00|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,75|0,25|0,75|0,00|0,00|0,00|
-
-
 --- Page 659 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30174,8 +28262,6 @@ headings of the rows and columns denote the region specific risk zones according
 |PA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
 |PE|0,00|0,50|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,75|0,00|0,25|0,00|0,00|0,00|
 |PH|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 660 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30203,8 +28289,6 @@ headings of the rows and columns denote the region specific risk zones according
 |SS|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,25|0,25|
 |ST|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|1,00|0,00|0,00|0,25|0,00|0,25|
 |SW|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,50|0,00|0,25|0,00|
-
-
 --- Page 661 ---
 
 |j i|AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|
@@ -30230,8 +28314,6 @@ headings of the rows and columns denote the region specific risk zones according
 |WV|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,00|0,00|
 |YO|0,00|0,00|0,75|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,25|0,00|0,00|0,00|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 662 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30258,8 +28340,6 @@ headings of the rows and columns denote the region specific risk zones according
 |CT|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |CV|0,50|0,00|0,25|0,25|0,50|0,00|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,50|0,25|0,50|0,25|0,00|0,00|0,75|0,00|0,00|0,25|0,00|
 |CW|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|
-
-
 --- Page 663 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30287,8 +28367,6 @@ headings of the rows and columns denote the region specific risk zones according
 |GL|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|1,00|0,25|0,00|0,25|0,25|0,25|0,00|0,25|0,00|
 |GU|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|
 |GY|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 664 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30316,8 +28394,6 @@ headings of the rows and columns denote the region specific risk zones according
 |L|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |LA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |LD|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,75|0,00|
-
-
 --- Page 665 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30345,8 +28421,6 @@ headings of the rows and columns denote the region specific risk zones according
 |OX|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,50|0,25|0,00|0,25|0,25|0,00|0,25|0,00|0,00|
 |PA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |PE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 666 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30374,8 +28448,6 @@ headings of the rows and columns denote the region specific risk zones according
 |SR|0,00|0,00|0,75|0,50|0,00|0,25|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,75|0,25|0,00|0,00|
 |SS|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|
 |ST|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 667 ---
 
 |j i|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GU|GY|HA|HD|HG|HP|HR|HS|
@@ -30402,8 +28474,6 @@ headings of the rows and columns denote the region specific risk zones according
 |WV|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |YO|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,75|0,00|0,00|0,00|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
-
-
 --- Page 668 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30430,8 +28500,6 @@ headings of the rows and columns denote the region specific risk zones according
 |CT|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|
 |CV|0,25|0,50|0,00|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,50|0,25|0,00|0,75|0,25|0,00|0,00|0,00|0,00|0,25|0,50|0,00|0,50|
 |CW|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|
-
-
 --- Page 669 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30459,8 +28527,6 @@ headings of the rows and columns denote the region specific risk zones according
 |GL|0,50|0,50|0,25|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,75|
 |GU|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,50|
 |GY|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 670 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30488,8 +28554,6 @@ headings of the rows and columns denote the region specific risk zones according
 |L|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|
 |LA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|1,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |LD|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|
-
-
 --- Page 671 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30517,8 +28581,6 @@ headings of the rows and columns denote the region specific risk zones according
 |OX|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,50|
 |PA|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
 |PE|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,00|0,00|0,50|0,00|0,50|
-
-
 --- Page 672 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30546,8 +28608,6 @@ headings of the rows and columns denote the region specific risk zones according
 |SR|0,25|0,25|0,50|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,50|0,00|0,25|0,00|0,00|0,00|0,25|0,25|
 |SS|0,25|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|
 |ST|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
-
-
 --- Page 673 ---
 
 |j i|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|
@@ -30574,8 +28634,6 @@ headings of the rows and columns denote the region specific risk zones according
 |WV|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |YO|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 674 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30602,8 +28660,6 @@ headings of the rows and columns denote the region specific risk zones according
 |CT|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,50|0,00|0,00|0,00|0,00|
 |CV|0,25|0,25|0,50|0,50|0,00|0,00|0,25|0,75|0,00|0,25|0,00|0,00|0,50|0,25|0,50|0,50|0,50|0,25|0,25|0,75|0,00|0,25|0,00|0,00|
 |CW|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,50|0,00|0,00|
-
-
 --- Page 675 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30631,8 +28687,6 @@ headings of the rows and columns denote the region specific risk zones according
 |GL|0,00|0,00|0,50|0,50|0,00|0,25|0,00|0,50|0,00|0,25|0,00|0,00|0,25|0,00|0,50|0,50|0,25|0,00|0,00|0,50|0,25|0,00|0,25|0,00|
 |GU|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,50|0,25|0,00|0,00|0,50|0,00|0,00|0,25|0,25|
 |GY|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 676 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30660,8 +28714,6 @@ headings of the rows and columns denote the region specific risk zones according
 |L|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|
 |LA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |LD|0,00|0,00|0,25|0,75|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,50|0,50|0,00|0,00|0,00|0,00|
-
-
 --- Page 677 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30689,8 +28741,6 @@ headings of the rows and columns denote the region specific risk zones according
 |OX|0,00|0,00|0,50|0,25|0,00|0,25|0,00|1,00|0,00|0,25|0,00|0,00|0,25|0,00|0,75|0,50|0,25|0,00|0,00|0,75|0,00|0,00|0,50|0,00|
 |PA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |PE|0,00|0,00|0,75|0,00|0,00|0,25|0,00|0,25|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|
-
-
 --- Page 678 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30718,8 +28768,6 @@ headings of the rows and columns denote the region specific risk zones according
 |SR|0,50|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,50|0,00|0,00|0,25|0,25|0,00|0,25|0,25|
 |SS|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,50|0,00|0,00|0,25|0,25|0,00|0,00|0,00|
 |ST|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|
-
-
 --- Page 679 ---
 
 |j i|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|
@@ -30746,8 +28794,6 @@ headings of the rows and columns denote the region specific risk zones according
 |WV|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |YO|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,50|0,00|0,25|0,00|0,25|0,00|0,00|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 680 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30774,8 +28820,6 @@ headings of the rows and columns denote the region specific risk zones according
 |CT|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,75|0,00|0,00|0,00|
 |CV|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,75|0,25|0,25|0,25|0,00|0,00|0,50|0,50|0,25|1,00|0,25|0,25|0,00|
 |CW|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,25|0,25|0,00|0,75|0,00|0,00|0,00|
-
-
 --- Page 681 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30803,8 +28847,6 @@ headings of the rows and columns denote the region specific risk zones according
 |GL|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,50|0,00|0,50|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,25|0,00|0,25|0,50|0,75|1,00|0,25|0,00|0,00|
 |GU|0,25|0,25|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,50|0,25|0,00|0,25|0,25|0,00|0,25|0,25|0,50|0,00|0,00|0,00|
 |GY|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 682 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30832,8 +28874,6 @@ headings of the rows and columns denote the region specific risk zones according
 |L|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,00|0,00|
 |LA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |LD|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,50|0,00|1,00|0,00|0,00|0,00|
-
-
 --- Page 683 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30861,8 +28901,6 @@ headings of the rows and columns denote the region specific risk zones according
 |OX|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,25|0,00|0,25|0,50|0,25|0,75|0,00|0,00|0,00|
 |PA|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,75|0,00|0,00|0,00|
 |PE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,50|0,00|0,00|0,00|
-
-
 --- Page 684 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30890,8 +28928,6 @@ headings of the rows and columns denote the region specific risk zones according
 |SR|0,00|0,50|1,00|0,25|0,25|0,00|0,00|0,25|0,00|0,50|0,00|0,00|0,25|0,75|0,00|0,75|0,00|0,00|1,00|0,50|0,00|0,25|0,00|1,00|0,00|0,25|0,00|
 |SS|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,75|0,00|0,00|0,25|0,00|1,00|0,00|0,00|0,00|
 |ST|0,00|0,25|0,25|0,00|1,00|0,00|0,25|0,25|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,50|0,00|0,00|0,25|0,25|1,00|0,25|0,00|0,00|
-
-
 --- Page 685 ---
 
 |j i|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE|
@@ -30918,11 +28954,9 @@ headings of the rows and columns denote the region specific risk zones according
 |WV|0,00|0,00|0,00|0,00|0,25|0,00|0,50|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,75|1,00|0,00|0,00|
 |YO|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,00|0,50|0,00|1,00|0,00|
 |ZE|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 686 ---
 
-*ANNEX XXV*
+# *ANNEX XXV*
 
 **CORRELATION COEFFICIENTS FOR HAIL RISK**
 
@@ -30951,8 +28985,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |12|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |13|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|
 |14|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 687 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -30980,8 +29012,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |32|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |33|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |34|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 688 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31008,8 +29038,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |51|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |52|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,25|0,00|0,00|0,25|0,25|1,00|0,25|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|
 |53|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,25|0,00|0,00|0,50|0,25|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 689 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31035,8 +29063,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |72|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |73|0,00|0,00|0,50|0,00|0,00|0,25|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,50|0,00|0,25|0,50|0,00|0,00|0,50|0,00|0,00|0,00|
 |74|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 690 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31064,8 +29090,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |15|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |16|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |17|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 691 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31093,8 +29117,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |35|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,25|1,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|
 |36|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |37|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 692 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31121,8 +29143,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |54|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |55|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |56|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 693 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31148,8 +29168,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |76|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |77|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 694 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -31175,8 +29193,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |19|0,00|0,00|0,50|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,00|0,00|0,00|0,50|0,50|0,25|0,00|0,00|
 |20|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |21|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
-
-
 --- Page 695 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -31203,8 +29219,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |38|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |39|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 696 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -31232,8 +29246,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |58|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |59|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,00|0,25|0,00|0,00|
 |60|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|1,00|0,00|0,00|0,50|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 697 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|
@@ -31263,8 +29275,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|
 |1|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |2|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 698 ---
 
 |j i|1|2|3|4|5|6|7|8|9|
@@ -31293,8 +29303,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |9|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|
 |10|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 699 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31323,8 +29331,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |30|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |31|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|
 |32|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
-
-
 --- Page 700 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31352,8 +29358,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |51|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |52|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 701 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31379,8 +29383,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |72|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 702 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31407,8 +29409,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |90|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |91|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |92|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 703 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31437,8 +29437,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |16|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |17|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |18|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 704 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31467,8 +29465,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |37|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |38|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |39|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 705 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31497,8 +29493,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |58|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |59|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |60|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 706 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31527,8 +29521,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |79|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |80|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |81|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|
-
-
 --- Page 707 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -31556,8 +29548,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |4|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |5|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |6|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 708 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -31586,8 +29576,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |26|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|
 |27|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 709 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -31615,8 +29603,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |48|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |49|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 710 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -31644,8 +29630,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|
 |72|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
-
-
 --- Page 711 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -31675,8 +29659,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |93|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |94|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 712 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -31703,8 +29685,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |21|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |22|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 713 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -31732,8 +29712,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |41|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |42|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
-
-
 --- Page 714 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -31761,8 +29739,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |62|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 715 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -31789,8 +29765,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |79|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |80|0,00|0,25|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |81|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 716 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -31818,8 +29792,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |1|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |2|0,25|1,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |3|0,25|0,00|1,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,25|0,00|0,00|
-
-
 --- Page 717 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31844,8 +29816,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |23|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|1,00|
-
-
 --- Page 718 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31871,8 +29841,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |47|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 719 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31899,8 +29867,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |65|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |66|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |67|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 720 ---
 
 |j i|1|2|3|4|6|7|8|9|10|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -31928,8 +29894,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |85|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |87|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,00|0,00|
-
-
 --- Page 721 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -31956,8 +29920,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|
 |98|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |99|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 722 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -31984,8 +29946,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |26|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |27|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |28|0,00|0,00|1,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 723 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -32011,8 +29971,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |48|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |49|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|1,00|
-
-
 --- Page 724 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -32038,8 +29996,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |70|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |71|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |72|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 725 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -32067,8 +30023,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |90|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |91|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |92|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 726 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|44|45|46|47|48|49|50|
@@ -32096,8 +30050,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |13|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |14|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |15|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 727 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -32125,8 +30077,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |34|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 728 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -32154,8 +30104,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |54|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |55|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |56|0,00|0,00|0,50|0,00|0,00|1,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 729 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -32183,8 +30131,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |76|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |77|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 730 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -32209,8 +30155,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |96|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 731 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -32238,8 +30182,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |18|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 732 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -32267,8 +30209,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |38|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |39|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 733 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -32295,8 +30235,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |58|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |59|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 734 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -32322,8 +30260,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |77|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |78|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |79|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 735 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -32348,8 +30284,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |98|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |99|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 736 ---
 
 **Correlation coefficients for hail risk in the Italian Republic**
@@ -32377,8 +30311,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |18|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|
-
-
 --- Page 737 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -32406,8 +30338,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |38|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |39|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 738 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -32434,8 +30364,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |58|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |59|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 739 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -32463,8 +30391,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |84|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |85|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 740 ---
 
 |j i|00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
@@ -32492,8 +30418,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |05|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |06|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |07|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 741 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -32521,8 +30445,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |25|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |26|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |27|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 742 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -32547,8 +30469,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |47|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 743 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -32572,8 +30492,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |65|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |66|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |67|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 744 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -32601,8 +30519,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |91|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |92|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |93|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 745 ---
 
 |j i|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|
@@ -32629,8 +30545,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |11|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |12|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |13|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 746 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -32658,8 +30572,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |31|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |32|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 747 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -32686,8 +30598,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |51|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |52|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |53|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 748 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -32711,8 +30621,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |72|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 749 ---
 
 |j i|48|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|70|71|72|73|74|
@@ -32737,8 +30645,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |96|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |98|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 750 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -32765,8 +30671,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |19|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |20|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |21|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 751 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -32794,8 +30698,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |39|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |40|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |41|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 752 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -32822,8 +30724,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |59|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |60|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |61|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 753 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -32850,8 +30750,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |84|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |85|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 754 ---
 
 |j i|75|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|
@@ -32880,8 +30778,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |13|0,00|0,00|0,50|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |14|0,25|0,25|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,50|0,75|
 |15|0,00|0,75|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 755 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
@@ -32909,8 +30805,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |34|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 756 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
@@ -32938,8 +30832,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |54|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |55|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 757 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
@@ -32964,8 +30856,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 758 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
@@ -32991,8 +30881,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |94|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |95|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
 |96|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 759 ---
 
 |j i|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
@@ -33020,8 +30908,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,25|
 |26|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 760 ---
 
 |j i|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|
@@ -33049,8 +30935,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |44|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |45|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
 |46|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 761 ---
 
 |j i|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|
@@ -33078,8 +30962,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |64|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|
 |65|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,00|0,00|0,00|0,00|0,00|
 |66|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 762 ---
 
 |j i|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|
@@ -33107,8 +30989,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |84|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |85|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,75|0,00|0,00|0,00|0,00|
 |86|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 763 ---
 
 |j i|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|
@@ -33136,8 +31016,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |14|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |15|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |16|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
-
-
 --- Page 764 ---
 
 |j i|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33164,8 +31042,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |33|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |34|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 765 ---
 
 |j i|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33193,8 +31069,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |54|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |55|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 766 ---
 
 |j i|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33219,8 +31093,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |73|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |74|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,50|0,00|0,00|0,00|0,00|1,00|0,00|
 |75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-
-
 --- Page 767 ---
 
 |j i|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33245,8 +31117,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |93|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|
 |94|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |95|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 768 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -33274,8 +31144,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |97|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |98|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,50|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
 |99|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 769 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -33303,8 +31171,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |43|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,50|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|
 |44|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,25|0,00|0,25|0,25|0,25|0,25|0,00|
 |45|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,50|0,25|0,00|0,00|0,50|0,25|0,25|0,25|0,00|0,00|0,00|0,00|0,25|0,00|
-
-
 --- Page 770 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -33332,8 +31198,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |63|0,50|0,25|0,25|0,25|0,25|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,50|0,75|0,00|0,50|0,50|0,25|0,25|0,25|0,25|0,50|0,25|
 |64|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,50|0,75|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |65|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 771 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -33361,8 +31225,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |83|0,25|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |84|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,25|0,00|
 |85|0,50|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,50|0,50|0,00|0,00|0,25|0,50|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 772 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|
@@ -33391,8 +31253,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |2|0,00|1,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|
 |3|0,00|0,25|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |4|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 773 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33418,8 +31278,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |23|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|1,00|
-
-
 --- Page 774 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33444,8 +31302,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |43|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|
 |44|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |45|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 775 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33473,8 +31329,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |13|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |14|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |15|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 776 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33502,8 +31356,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |33|0,00|0,25|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |34|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |35|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 777 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33533,8 +31385,6 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |2|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,25|0,00|0,50|0,25|0,00|0,00|0,25|0,00|
 |3|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |4|0,00|0,00|0,00|1,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
-
-
 --- Page 778 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
@@ -33561,11 +31411,9 @@ The correlation coefficients for the Grand Duchy of Luxembourg shall be equal to
 |24|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|
 |25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,50|0,00|0,25|0,00|0,00|0,00|1,00|0,25|
 |26|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,25|0,00|0,25|1,00|
-
-
 --- Page 779 ---
 
-*ANNEX XXVI*
+# *ANNEX XXVI*
 
 **CORRELATION COEFFICIENTS FOR SUBSIDENCE RISK**
 
@@ -33592,8 +31440,6 @@ headings of the rows and columns denote the region specific risk zones according
 |14|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |15|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |16|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 780 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33621,8 +31467,6 @@ headings of the rows and columns denote the region specific risk zones according
 |34|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |35|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |36|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 781 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33650,8 +31494,6 @@ headings of the rows and columns denote the region specific risk zones according
 |54|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |55|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |56|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 782 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33680,8 +31522,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |76|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |77|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 783 ---
 
 |j i|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|
@@ -33709,8 +31549,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |2|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 784 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33736,8 +31574,6 @@ headings of the rows and columns denote the region specific risk zones according
 |21|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |22|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |23|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 785 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33765,8 +31601,6 @@ headings of the rows and columns denote the region specific risk zones according
 |41|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |42|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |43|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 786 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33794,8 +31628,6 @@ headings of the rows and columns denote the region specific risk zones according
 |61|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |62|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |63|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 787 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33823,8 +31655,6 @@ headings of the rows and columns denote the region specific risk zones according
 |81|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |82|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |83|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 788 ---
 
 |j i|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|
@@ -33852,8 +31682,6 @@ headings of the rows and columns denote the region specific risk zones according
 |6|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |7|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |8|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 789 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33881,8 +31709,6 @@ headings of the rows and columns denote the region specific risk zones according
 |26|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |27|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |28|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 790 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33909,8 +31735,6 @@ headings of the rows and columns denote the region specific risk zones according
 |48|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |49|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |50|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 791 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33936,8 +31760,6 @@ headings of the rows and columns denote the region specific risk zones according
 |69|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |70|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |71|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 792 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33965,8 +31787,6 @@ headings of the rows and columns denote the region specific risk zones according
 |89|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |90|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |91|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 793 ---
 
 |j i|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|
@@ -33995,8 +31815,6 @@ headings of the rows and columns denote the region specific risk zones according
 |15|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |16|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |17|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 794 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -34024,8 +31842,6 @@ headings of the rows and columns denote the region specific risk zones according
 |35|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |36|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |37|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 795 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -34053,8 +31869,6 @@ headings of the rows and columns denote the region specific risk zones according
 |55|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |56|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |57|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 796 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
@@ -34082,8 +31896,6 @@ headings of the rows and columns denote the region specific risk zones according
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |76|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
 |77|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|1,00|
-
-
 --- Page 797 ---
 
 |j i|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|

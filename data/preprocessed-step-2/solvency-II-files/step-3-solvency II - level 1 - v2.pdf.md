@@ -1,9 +1,4 @@
 
---- Page 1 ---
-
-
-
-
 ## I
 
 
@@ -120,9 +115,7 @@ nity to cover risks and commitments situated therein.
 ( [11] [) OJ L 323, 9.12.2005, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:323:0001:0001:EN:PDF)
 
 
---- Page 2 ---
-
-
+-----
 
 
 
@@ -261,10 +254,7 @@ cial activities.
 ( [7] [) OJ L 35, 11.2.2003, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:035:0001:0001:EN:PDF)
 
 
---- Page 3 ---
-
-
-
+-----
 
 
 
@@ -385,9 +375,7 @@ approach does not adequately reflect the very specific risk
 profile of an undertaking.
 
 
---- Page 4 ---
-
-
+-----
 
 
 
@@ -514,10 +502,7 @@ on the progress made.
 ( [1] [) OJ L 25, 29.1.2009, p. 28.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:025:0028:0028:EN:PDF)
 
 
---- Page 5 ---
-
-
-
+-----
 
 
 
@@ -626,9 +611,7 @@ plus funds which fulfil the requirements for classification
 in Tier 1 should be considered as Tier 1 capital.
 
 
---- Page 6 ---
-
-
+-----
 
 
 
@@ -736,10 +719,7 @@ Solvency Capital Requirement should include a symmetric
 adjustment mechanism with respect to changes in the level
 
 
---- Page 7 ---
-
-
-
+-----
 
 
 
@@ -856,9 +836,7 @@ by a third-country undertaking where the supervisory
 regime of that third country has been deemed equivalent.
 
 
---- Page 8 ---
-
-
+-----
 
 
 
@@ -979,10 +957,7 @@ effective access to private health cover or health cover
 taken out on a voluntary basis regardless of their age or
 
 
---- Page 9 ---
-
-
-
+-----
 
 
 
@@ -1105,9 +1080,7 @@ cial situation.
 ( [1] [) OJ L 177, 4.7.2008, p. 6.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:177:0006:0006:EN:PDF)
 
 
---- Page 10 ---
-
-
+-----
 
 
 
@@ -1227,10 +1200,7 @@ or reinsurance undertaking where its solvency is being or
 may be jeopardised.
 
 
---- Page 11 ---
-
-
-
+-----
 
 
 
@@ -1351,9 +1321,7 @@ from the treatment determined by the law of the home
 Member State (lex concursus).
 
 
---- Page 12 ---
-
-
+-----
 
 
 
@@ -1497,10 +1465,7 @@ ance other than life assurance [4] ); and Council Directive
 ( [4] [) OJ L 189, 13.7.1976, p. 13.](http://eur-lex.europa.eu/Result.do?aaaa=1976&mm=07&jj=13&type=L&nnn=189&pppp=0013&RechType=RECH_reference_pub&Submit=Search)
 
 
---- Page 13 ---
-
-
-
+-----
 
 
 
@@ -1625,9 +1590,7 @@ due consideration of the conclusions presented by the
 ( [3] [) OJ L 9, 15.1.2003, p. 3.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:009:0003:0003:EN:PDF)
 
 
---- Page 14 ---
-
-
+-----
 
 
 **TABLE OF CONTENTS**
@@ -1691,10 +1654,7 @@ Subsection 2 Classification of own funds Articles 93 to 97
 Subsection 3 Eligibility of own funds Articles 98 and 99
 
 
---- Page 15 ---
-
-
-
+-----
 
 
 
@@ -1760,9 +1720,7 @@ SECTION 3 General good Article 180
 SECTION 4 Conditions of insurance contracts and scales of premiums Articles 181 and 182
 
 
---- Page 16 ---
-
-
+-----
 
 
 
@@ -1832,10 +1790,7 @@ CHAPTER IV Third countries Articles 260 to 264
 CHAPTER V Mixed-activity insurance holding companies Articles 265 and 266
 
 
---- Page 17 ---
-
-
-
+-----
 
 
 
@@ -1903,12 +1858,10 @@ to in Article 310)
 # *ANNEX VII* CORRELATION TABLE
 
 
---- Page 18 ---
-
+-----
 
 
 # TITLE I
-
 
 
 The assistance activity shall not cover servicing, maintenance,
@@ -2026,10 +1979,7 @@ such as those referred to in Chapter 1, Title 4 of Book IV
 of the French ‘Code des assurances’;
 
 
---- Page 19 ---
-
-
-
+-----
 
 
 
@@ -2148,14 +2098,12 @@ ums or constitution of technical reserves; or
 anteed by the State, or where the State is the insurer.
 
 
---- Page 20 ---
-
+-----
 
 
 ##### Article 6
 
 **Assistance**
-
 
 
 ##### Article 7
@@ -2278,10 +2226,7 @@ arising from such operations are fully covered at all times by
 mathematical provisions;
 
 
---- Page 21 ---
-
-
-
+-----
 
 
 
@@ -2399,9 +2344,7 @@ belongs or of an undertaking or undertakings of the group
 of which it is a member;
 
 
---- Page 22 ---
-
-
+-----
 
 
 
@@ -2510,10 +2453,7 @@ Directive 83/349/EEC, or a similar relationship between any
 natural or legal person and an undertaking;
 
 
---- Page 23 ---
-
-
-
+-----
 
 
 
@@ -2637,9 +2577,7 @@ itself;
 ( [1] [) OJ L 222, 14.8.1978, p. 11.](http://eur-lex.europa.eu/Result.do?aaaa=1978&mm=08&jj=14&type=L&nnn=222&pppp=0011&RechType=RECH_reference_pub&Submit=Search)
 
 
---- Page 24 ---
-
-
+-----
 
 
 
@@ -2760,10 +2698,7 @@ to Article 16(1). In that event this Directive shall apply to the
 operations in question.
 
 
---- Page 25 ---
-
-
-
+-----
 
 
 
@@ -2887,9 +2822,7 @@ Minimum Capital Requirement provided for in the first paragraph
 of Article 100 and Article 128.
 
 
---- Page 26 ---
-
-
+-----
 
 
 
@@ -3015,10 +2948,7 @@ undertaking proposes to make with ceding undertakings;
 (c) the guiding principles as to reinsurance and to retrocession;
 
 
---- Page 27 ---
-
-
-
+-----
 
 
 
@@ -3139,9 +3069,7 @@ taking authorised in that Member State.
 ( [1] [) OJ L 390, 31.12.2004, p. 38.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:390:0038:0038:EN:PDF)
 
 
---- Page 28 ---
-
-
+-----
 
 
 
@@ -3254,10 +3182,7 @@ form, where the law of the home Member State provides for the
 monitoring of such resources.
 
 
---- Page 29 ---
-
-
-
+-----
 
 
 
@@ -3379,9 +3304,7 @@ reinsurance undertakings, and the members of their administra­
 tive, management or supervisory body.
 
 
---- Page 30 ---
-
-
+-----
 
 
 
@@ -3511,10 +3434,7 @@ undertakings to comply with the laws, regulations and adminis­
 trative provisions adopted pursuant to this Directive.
 
 
---- Page 31 ---
-
-
-
+-----
 
 
 
@@ -3636,9 +3556,7 @@ removed when the undertaking has remedied the deficiencies
 which led to its imposition.
 
 
---- Page 32 ---
-
-
+-----
 
 
 
@@ -3753,16 +3671,13 @@ affect the right of the Member States to give policy holders the
 option of cancelling contracts within a fixed period after a transfer.
 
 
---- Page 33 ---
-
-
+-----
 
 ## *CHAPTER IV*
 
 ***Conditions governing business***
 
 ### Section 1
-
 
 
 4. Insurance and reinsurance undertakings shall take reason­
@@ -3875,9 +3790,7 @@ home Member State or the Member State from which the foreign
 national comes showing that those requirements have been met.
 
 
---- Page 34 ---
-
-
+-----
 
 
 
@@ -4006,10 +3919,7 @@ and with the requirements regarding technical provisions, as
 laid down in Chapter VI, Section 2;
 
 
---- Page 35 ---
-
-
-
+-----
 
 
 
@@ -4129,9 +4039,7 @@ of the capital requirements set out in Chapter VI, Sections 4
 and 5, and to the assessment referred to in Article 45.
 
 
---- Page 36 ---
-
-
+-----
 
 
 
@@ -4251,10 +4159,7 @@ the Minimum Capital Requirement;
 of the Solvency Capital Requirement;
 
 
---- Page 37 ---
-
-
-
+-----
 
 
 
@@ -4375,9 +4280,7 @@ relationships binding an undertaking to secrecy or
 confidentiality.
 
 
---- Page 38 ---
-
-
+-----
 
 
 
@@ -4504,10 +4407,7 @@ of the insurance or reinsurance undertaking in which they are
 seeking to acquire or increase a qualifying holding, indicating the
 
 
---- Page 39 ---
-
-
-
+-----
 
 
 
@@ -4632,9 +4532,7 @@ following criteria:
 ( [1] [) OJ L 375, 31.12.1985, p. 3.](http://eur-lex.europa.eu/Result.do?aaaa=1985&mm=12&jj=31&type=L&nnn=375&pppp=0003&RechType=RECH_reference_pub&Submit=Search)
 
 
---- Page 40 ---
-
-
+-----
 
 
 
@@ -4755,10 +4653,7 @@ ers or members or as a result of compliance with the regulations
 relating to companies listed on stock exchanges.
 
 
---- Page 41 ---
-
-
-
+-----
 
 
 
@@ -4889,9 +4784,7 @@ authorities;
 (4) in court proceedings under this Directive.
 
 
---- Page 42 ---
-
-
+-----
 
 
 
@@ -5023,10 +4916,7 @@ Articles 64 and 67 shall not preclude Member States from autho­
 rising, under provisions laid down by law, the disclosure of
 
 
---- Page 43 ---
-
-
-
+-----
 
 
 
@@ -5149,9 +5039,7 @@ liability of any kind.
 ( [1] [) OJ L 126, 12.5.1984, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1984&mm=05&jj=12&type=L&nnn=126&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
 
 
---- Page 44 ---
-
-
+-----
 
 
 
@@ -5275,10 +5163,7 @@ own-fund items which are still available for one or the other
 activity.
 
 
---- Page 45 ---
-
-
-
+-----
 
 
 
@@ -5396,9 +5281,7 @@ of a best estimate and a risk margin as set out in paragraphs 2
 and 3.
 
 
---- Page 46 ---
-
-
+-----
 
 
 
@@ -5505,13 +5388,10 @@ and as a minimum by lines of business, when calculating their
 technical provisions.
 
 
---- Page 47 ---
-
-
+-----
 
 
 ##### Article 81
-
 
 
 
@@ -5625,9 +5505,7 @@ tions, including case-by-case approaches, to calculate the best
 estimate;
 
 
---- Page 48 ---
-
-
+-----
 
 
 
@@ -5743,10 +5621,7 @@ form of the item, as well as any conditions which would pre­
 vent the item from being successfully paid in or called up;
 
 
---- Page 49 ---
-
-
-
+-----
 
 
 
@@ -5864,9 +5739,7 @@ substantially possess the characteristic set out in Article 93(1)(b),
 taking into consideration the features set out in Article 93(2).
 
 
---- Page 50 ---
-
-
+-----
 
 
 
@@ -5987,10 +5860,7 @@ sum of the amount of Tier 1, the eligible amount of Tier 2 and
 the eligible amount of Tier 3.
 
 
---- Page 51 ---
-
-
-
+-----
 
 
 
@@ -6111,9 +5981,7 @@ cerned shall recalculate the Solvency Capital Requirement with­
 out delay and report it to the supervisory authorities.
 
 
---- Page 52 ---
-
-
+-----
 
 
 
@@ -6233,10 +6101,7 @@ amount of claim settlements (non-life premium and reserve
 risk);
 
 
---- Page 53 ---
-
-
-
+-----
 
 
 
@@ -6349,9 +6214,7 @@ instruments to changes in the level or in the volatility of cur­
 rency exchange rates (currency risk);
 
 
---- Page 54 ---
-
-
+-----
 
 
 
@@ -6469,10 +6332,7 @@ Simplified calculations shall be calibrated in accordance with
 Article 101(3).
 
 
---- Page 55 ---
-
-
-
+-----
 
 
 
@@ -6591,9 +6451,7 @@ light of developments in the standard formula and financial
 markets.
 
 
---- Page 56 ---
-
-
+-----
 
 
 
@@ -6712,10 +6570,7 @@ the following:
 model;
 
 
---- Page 57 ---
-
-
-
+-----
 
 
 
@@ -6837,9 +6692,7 @@ model continues to appropriately reflect the risk profile of the
 insurance and reinsurance undertakings concerned.
 
 
---- Page 58 ---
-
-
+-----
 
 
 
@@ -6955,14 +6808,11 @@ model and to check that its specification is in line with generally
 accepted market practice.
 
 
---- Page 59 ---
-
-
+-----
 
 ##### Article 123
 
 **Profit and loss attribution**
-
 
 
 Insurance and reinsurance undertakings shall document all major
@@ -7075,9 +6925,7 @@ an unacceptable level of risk were insurance and reinsurance
 undertakings allowed to continue their operations;
 
 
---- Page 60 ---
-
-
+-----
 
 
 
@@ -7194,10 +7042,7 @@ person principle, as specified in paragraphs 2, 3 and 4.
 ( [1] [) OJ L 3, 7.1.2004, p. 34.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:003:0034:0034:EN:PDF)
 
 
---- Page 61 ---
-
-
-
+-----
 
 
 
@@ -7313,9 +7158,7 @@ within the Community of the assets representing those
 recoverables.
 
 
---- Page 62 ---
-
-
+-----
 
 
 
@@ -7424,10 +7267,7 @@ ond subparagraph of paragraph 3 by an appropriate period of
 time taking into account all relevant factors.
 
 
---- Page 63 ---
-
-
-
+-----
 
 
 
@@ -7544,9 +7384,7 @@ holders, or the contractual obligations of the reinsurance under­
 taking are threatened.
 
 
---- Page 64 ---
-
-
+-----
 
 
 
@@ -7666,10 +7504,7 @@ may be obtained and to which they may be delivered, includ­
 ing all communications to the authorised agent.
 
 
---- Page 65 ---
-
-
-
+-----
 
 
 
@@ -7799,9 +7634,7 @@ bureau and national guarantee fund of the host Member
 State.
 
 
---- Page 66 ---
-
-
+-----
 
 
 
@@ -7924,10 +7757,7 @@ tory of that Member State to be supplied to them in the official
 language or languages of that State.
 
 
---- Page 67 ---
-
-
-
+-----
 
 
 
@@ -8057,9 +7887,7 @@ State in which the risk is situated or the Member State of the
 commitment
 
 
---- Page 68 ---
-
-
+-----
 
 
 
@@ -8182,10 +8010,7 @@ those arising out of the other reinsurance contracts of that
 undertaking.
 
 
---- Page 69 ---
-
-
-
+-----
 
 
 
@@ -8311,9 +8136,7 @@ income and expenditure in respect of direct business, rein­
 surance acceptances and reinsurance cessions.
 
 
---- Page 70 ---
-
-
+-----
 
 
 
@@ -8440,10 +8263,7 @@ pursued up to the amount of the Minimum Capital Requirement
 and the excess within the Community.
 
 
---- Page 71 ---
-
-
-
+-----
 
 
 
@@ -8569,12 +8389,10 @@ which gave their approval shall also withdraw their
 authorisations.
 
 
---- Page 72 ---
-
+-----
 
 
 ##### Article 171
-
 
 
 
@@ -8707,10 +8525,7 @@ That information shall also contain an indication of the structure
 of the group concerned.
 
 
---- Page 73 ---
-
-
-
+-----
 
 
 
@@ -8834,12 +8649,10 @@ general good in the Member State in which the risk is situated or
 in the Member State of the commitment.
 
 
---- Page 74 ---
-
+-----
 
 
 ### Section 4
-
 
 
 
@@ -8951,10 +8764,7 @@ appropriate, of the branch of the non-life insurance undertaking
 which grants the cover.
 
 
---- Page 75 ---
-
-
-
+-----
 
 
 
@@ -9083,9 +8893,7 @@ policy holder so requests and the law of the Member State so per­
 mits or the policy holder is free to choose the law applicable.
 
 
---- Page 76 ---
-
-
+-----
 
 
 
@@ -9204,10 +9012,7 @@ terms and conditions of insurance and rating.
 ance undertaking.
 
 
---- Page 77 ---
-
-
-
+-----
 
 
 
@@ -9328,9 +9133,7 @@ putes or risks arising out of, or in connection with, the use
 of sea-going vessels;
 
 
---- Page 78 ---
-
-
+-----
 
 
 
@@ -9445,13 +9248,10 @@ freedom to provide services ( [1] ).
 ( [1] [) OJ L 78, 26.3.1977, p. 17.](http://eur-lex.europa.eu/Result.do?aaaa=1977&mm=03&jj=26&type=L&nnn=078&pppp=0017&RechType=RECH_reference_pub&Submit=Search)
 
 
---- Page 79 ---
-
-
+-----
 
 
 ##### Article 202
-
 
 
 
@@ -9566,9 +9366,7 @@ referred to in point (a) of the first subparagraph and transmit
 them to the supervisory authorities of the home Member State.
 
 
---- Page 80 ---
-
-
+-----
 
 
 
@@ -9684,10 +9482,7 @@ ing measures laying down the following:
 (b) mandatory conditions to be included in all contracts issued;
 
 
---- Page 81 ---
-
-
-
+-----
 
 
 
@@ -9807,9 +9602,7 @@ one insurance or reinsurance undertaking among its subsid­
 iary undertakings.
 
 
---- Page 82 ---
-
-
+-----
 
 
 
@@ -9932,9 +9725,7 @@ tion which may facilitate their supervision of the insurance or
 reinsurance undertaking concerned.
 
 
---- Page 83 ---
-
-
+-----
 
 
 ### Section 3
@@ -9942,7 +9733,6 @@ reinsurance undertaking concerned.
 **L e v e l s**
 
 ##### Article 215
-
 
 
 3. Where the supervisory authority decides to apply to the ulti­
@@ -10055,9 +9845,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
---- Page 84 ---
-
-
+-----
 
 
 
@@ -10184,10 +9972,7 @@ nical principles and one of the methods set out in Articles 221
 to 233.
 
 
---- Page 85 ---
-
-
-
+-----
 
 
 
@@ -10307,9 +10092,7 @@ calculation:
 tial obligation on the part of the participating undertaking;
 
 
---- Page 86 ---
-
-
+-----
 
 
 
@@ -10418,10 +10201,7 @@ tion of such an insurance holding company shall be taken into
 account.
 
 
---- Page 87 ---
-
-
-
+-----
 
 
 
@@ -10537,9 +10317,7 @@ tion as referred to in the first paragraph from the own funds eli­
 gible for the group solvency of the participating undertaking.
 
 
---- Page 88 ---
-
-
+-----
 
 
 
@@ -10654,10 +10432,7 @@ concerned shall be informed and the period referred to in para­
 graph 2 shall be extended by two months.
 
 
---- Page 89 ---
-
-
-
+-----
 
 
 
@@ -10772,9 +10547,7 @@ and the aggregated group Solvency Capital Requirement, as
 provided for in paragraph 3.
 
 
---- Page 90 ---
-
-
+-----
 
 
 
@@ -10894,10 +10667,7 @@ group supervision carried out by the group supervisor at the
 level of the parent undertaking in accordance with this Title;
 
 
---- Page 91 ---
-
-
-
+-----
 
 
 
@@ -11024,9 +10794,7 @@ standard formula calculation by parameters specific to that under­
 taking when calculating the life, non-life and health underwriting
 
 
---- Page 92 ---
-
-
+-----
 
 
 
@@ -11144,10 +10912,7 @@ sion it carries out, it shall immediately inform the supervisory
 authority concerned and the parent undertaking.
 
 
---- Page 93 ---
-
-
-
+-----
 
 
 
@@ -11266,9 +11031,7 @@ ment and the Council, accompanied, where appropriate, by pro­
 posals for the amendment of this Directive.
 
 
---- Page 94 ---
-
-
+-----
 
 
 
@@ -11386,10 +11149,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
---- Page 95 ---
-
-
-
+-----
 
 
 
@@ -11504,9 +11264,7 @@ or reinsurance undertaking authorised in that Member
 State;
 
 
---- Page 96 ---
-
-
+-----
 
 
 
@@ -11622,10 +11380,7 @@ complexity of the risks inherent in the business of all under­
 takings that are part of the group;
 
 
---- Page 97 ---
-
-
-
+-----
 
 
 
@@ -11744,9 +11499,7 @@ tive responsibilities, and irrespective of whether they are estab­
 lished in the same Member State, they shall provide one another
 
 
---- Page 98 ---
-
-
+-----
 
 
 
@@ -11877,10 +11630,7 @@ sory authorities and other authorities, as referred to in
 Articles 249 to 252.
 
 
---- Page 99 ---
-
-
-
+-----
 
 
 
@@ -12010,13 +11760,11 @@ their duties.
 Article 42 shall apply *mutatis mutandis* .
 
 
---- Page 100 ---
-
+-----
 
 ##### Article 258
 
 **Enforcement measures**
-
 
 
 ##### Article 259
@@ -12134,10 +11882,7 @@ sory authority shall consult the other supervisory authorities
 concerned and CEIOPS, before taking a decision.
 
 
---- Page 101 ---
-
-
-
+-----
 
 
 
@@ -12257,12 +12002,10 @@ group.
 Article 262 shall apply *mutatis mutandis* .
 
 
---- Page 102 ---
-
+-----
 
 
 ##### Article 264
-
 
 
 
@@ -12390,10 +12133,7 @@ whether or not they are founded on insolvency or are volun­
 tary or compulsory;
 
 
---- Page 103 ---
-
-
-
+-----
 
 
 
@@ -12518,9 +12258,7 @@ tent authorities of the home Member State or the law of that
 Member State provide otherwise.
 
 
---- Page 104 ---
-
-
+-----
 
 
 
@@ -12646,10 +12384,7 @@ winding-up proceedings; and
 ity of legal acts detrimental to all the creditors.
 
 
---- Page 105 ---
-
-
-
+-----
 
 
 
@@ -12762,12 +12497,10 @@ established in that Member State, claims by that scheme shall not
 benefit from the provisions of Article 275(1).
 
 
---- Page 106 ---
-
+-----
 
 
 ##### Article 278
-
 
 
 
@@ -12887,10 +12620,7 @@ The precedence granted to insurance claims by Article 275 need
 not be indicated.
 
 
---- Page 107 ---
-
-
-
+-----
 
 
 
@@ -13019,9 +12749,7 @@ ber State other than that in which such measures or proceedings
 were opened.
 
 
---- Page 108 ---
-
-
+-----
 
 
 
@@ -13140,10 +12868,7 @@ in particular with regard to procedures for the realisation of assets
 and the informing of employees.
 
 
---- Page 109 ---
-
-
-
+-----
 
 
 
@@ -13267,9 +12992,7 @@ within 12 months of the publication in the *Official Journal of the*
 ance and Occupational Pensions Committee.
 
 
---- Page 110 ---
-
-
+-----
 
 
 
@@ -13398,10 +13121,7 @@ tent authority;
 defer the payment of interest on the loan;
 
 
---- Page 111 ---
-
-
-
+-----
 
 
 
@@ -13522,9 +13242,7 @@ direct business and reinsurance acceptances gross of
 reinsurance cessions shall be multiplied by the ratio,
 
 
---- Page 112 ---
-
-
+-----
 
 
 
@@ -13652,10 +13370,7 @@ reinsurance and the gross amount of claims. That ratio shall
 be no less than 50 %.
 
 
---- Page 113 ---
-
-
-
+-----
 
 
 
@@ -13787,9 +13502,7 @@ sure, over a time period, which is consistent with the typical
 holding period of equity investments for the undertaking
 
 
---- Page 114 ---
-
-
+-----
 
 
 
@@ -13905,9 +13618,8 @@ insurance undertakings carrying on business under the freedom
 to provide services before 1 July 1994.
 
 
---- Page 115 ---
+-----
 
-17.12.2009 E N 
 
 ### Section 2
 
@@ -14027,9 +13739,7 @@ J. BUZEK
 Åsa TORSTENSSON
 
 
---- Page 116 ---
-
-
+-----
 
 
 # *ANNEX I*
@@ -14112,10 +13822,7 @@ explosion,
 — storm,
 
 
---- Page 117 ---
-
-
-
+-----
 
 
 
@@ -14195,9 +13902,10 @@ continuing general expenses,
 unforeseen trading expenses,
 
 
---- Page 118 ---
+-----
 
-L 335/118 E N 
+L 335/118 E N Official Journ al of the E uropean Un ion 17.12.2009
+
 —
 loss of market value,
 
@@ -14244,9 +13952,8 @@ The following names shall be given to authorisations which simultaneously cover 
 their choice.
 
 
---- Page 119 ---
+-----
 
-17.12.2009 E N 
 # *ANNEX II*
 
 **CLASSES OF LIFE INSURANCE**
@@ -14270,9 +13977,7 @@ VIII. The operations referred to in point (b)(v) of Article 2(3);
 IX. The operations referred to in Article 2(3)(c).
 
 
---- Page 120 ---
-
-
+-----
 
 
 # *ANNEX III*
@@ -14342,10 +14047,7 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (24) in the case of the Slovak Republic: ‘akciová spoločnosť’;
 
 
---- Page 121 ---
-
-
-
+-----
 
 
 
@@ -14420,9 +14122,7 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 ( [1] [) OJ L 294, 10.11.2001, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:294:0001:0001:EN:PDF)
 
 
---- Page 122 ---
-
-
+-----
 
 
 
@@ -14494,9 +14194,8 @@ biztosító magyarországi fióktelepe’;
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 
 
---- Page 123 ---
+-----
 
-17.12.2009 E N 
 (19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
 (20) in the case of the Republic of Poland: ‘spółka akcyjna’, ‘towarzystwo ubezpieczeń wzajemnych’;
@@ -14523,7 +14222,7 @@ Acts, the association of underwriters known as Lloyd’s;
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 
 
---- Page 124 ---
+-----
 
 L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 
@@ -14599,9 +14298,8 @@ following:
 — SCR nl catastrophe denotes the non-life catastrophe risk sub-module,
 
 
---- Page 125 ---
+-----
 
-17.12.2009 E N 
 3. **Calculation of the life underwriting risk module**
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
@@ -14669,9 +14367,10 @@ following:
 — SCR currency denotes the currency risk sub-module,
 
 
---- Page 126 ---
+-----
 
-L 335/126 E N 
+L 335/126 E N Official Journ al of the E uropean Un ion 17.12.2009
+
 # *ANNEX V*
 
 **GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES OF ARTICLE 159**
@@ -14691,7 +14390,7 @@ L 335/126 E N
 7. other classes (classes 16, 17 and 18 of Annex I).
 
 
---- Page 127 ---
+-----
 
 11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
 
@@ -14793,9 +14492,7 @@ only Article 1
 only Article 22
 
 
---- Page 128 ---
-
-
+-----
 
 
 
@@ -14910,10 +14607,7 @@ only Article 6
 only Article 58
 
 
---- Page 129 ---
-
-
-
+-----
 
 
 
@@ -15030,9 +14724,7 @@ only Article 1
 only Article 1
 
 
---- Page 130 ---
-
-
+-----
 
 
 PART B
@@ -15099,7 +14791,7 @@ upon particular provision)
 2008/37/EC Not applicable
 
 
---- Page 131 ---
+-----
 
 Directive
 2001/17/EC
@@ -15209,7 +14901,7 @@ Article 6
 Article 15(4)
 
 
---- Page 132 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -15280,7 +14972,7 @@ Article 6 Article 4 Article 4 Article 3 Article 14(1), (2),
 points (a) and (b)
 
 
---- Page 133 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -15434,7 +15126,7 @@ point (h)
 Article 6(2) Article 7 Article 19
 
 
---- Page 134 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -15562,7 +15254,7 @@ FIRST
 subparagraph
 
 
---- Page 135 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -15680,7 +15372,7 @@ Article 60(3) Article 32(1)
 Article 13(3) Article 9(3) Article 10(3) Article 15(4)
 
 
---- Page 136 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -15792,7 +15484,7 @@ Article 34(1)-(3),
 (5), (6) AND (7)
 
 
---- Page 137 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16009,7 +15701,7 @@ Article 142(1)
 Article 20a(2) Article 38(2) Article 141
 
 
---- Page 138 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16149,7 +15841,7 @@ SENTENCE
 Article 25 Article 55 Article 166
 
 
---- Page 139 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16244,7 +15936,7 @@ Article 33 Article 28 Article 62 Article 54(2) Article 298(2)
 and (3)
 
 
---- Page 140 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16325,7 +16017,7 @@ Article 4(2)
 Article 5 Article 193
 
 
---- Page 141 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16406,7 +16098,7 @@ point (e)
 Article 13(13)
 
 
---- Page 142 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16491,7 +16183,7 @@ Article 12 —
 Article 12a(1)-(3) Article 150
 
 
---- Page 143 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16601,7 +16293,7 @@ Article 13(8),
 point (a)
 
 
---- Page 144 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16743,7 +16435,7 @@ Article 12(2) Article 14(1) Article 18 Article 39(1)
 Article 12(3)-(6) Article 14(2)-(5) Article 39(2)-(6)
 
 
---- Page 145 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16840,7 +16532,7 @@ Article 72(1),
 points (a)-(c)
 
 
---- Page 146 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16924,7 +16616,7 @@ and (3)
 Article 184
 
 
---- Page 147 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -16990,7 +16682,7 @@ point (b)
 Article 13(3)
 
 
---- Page 148 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17062,7 +16754,7 @@ Article 7 Article 59(5) Articles 249(1),
 252, 253
 
 
---- Page 149 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17136,7 +16828,7 @@ Article 268(1),
 point (a)
 
 
---- Page 150 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17206,7 +16898,7 @@ Article 25 Article 291
 Article 26 Article 292
 
 
---- Page 151 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17283,7 +16975,7 @@ SUBPARAGRAPH
 Article 21(1)
 
 
---- Page 152 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17363,7 +17055,7 @@ FIRST SENTENCE
 Annex III(A) Article 185(6)
 
 
---- Page 153 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17445,7 +17137,7 @@ Article 65 Article 55 Article 301(1)
 and (3)
 
 
---- Page 154 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
@@ -17517,7 +17209,7 @@ Article 210(3)
 Article 2(2)
 
 
---- Page 155 ---
+-----
 
 Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce Derivitce
 Tsih Derivitce
