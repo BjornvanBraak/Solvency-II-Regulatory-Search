@@ -10,3 +10,5 @@ __pycache__
 /data/vector_stores/solvency-II-files
 /data/raw/test-data
 static
+
+print-output.txt
