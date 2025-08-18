@@ -517,6 +517,19 @@ chat_col, pdf_col = st.columns([1, 1])
 with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powererd by Triple A")
+
+    chat_col.markdown("""<!--
+*Corr* ð *earthquake,r,i,j* Þ � *WSI* ð *earthquake,r,i* Þ � *WSI* ð *earthquake,r,j* Þ
+
+
+ð *i,j* Þ
+
+
+where:
+
+ replaced equation ['L', 'ð', 'earthquake,r', 'Þ', ' ¼', ' Q', 'ð', 'earthquake,r', 'Þ', ' �', 'Corr', 'ð', 'earthquake,r,i,j', 'Þ', ' �', 'WSI', 'ð', 'earthquake,r,i', 'Þ', ' �', 'WSI', 'ð', 'earthquake,r,j', 'Þ', 'ð', 'i,j', 'Þ'] 
+ --> Hi there, how are you""", unsafe_allow_html=True)
+
     # with st.popover("test"):
     #     st.markdown("# Test")
 
