@@ -4266,7 +4266,7 @@ where:
 
 *BE* *lob* � *dur* *lob* � *rate* *lob* � *stress* ð *lob,down* Þ
 
--
+
 (a) the first sum covers all maturity intervals *i* set out in paragraph 4;
 
 (b) *MVAL* *i* denotes the value in accordance with Article 75 of Directive 2009/138/EC of assets less liabilities other than

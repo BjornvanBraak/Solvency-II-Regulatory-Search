@@ -1,4 +1,3 @@
-
 --- Page 1 ---
 
 ## I
@@ -13371,7 +13370,7 @@ biztosító magyarországi fióktelepe’;
 under the Industrial and Provident Societies Acts, societies registered or incorporated under the Friendly Societies
 Acts, the association of underwriters known as Lloyd’s;
 
-(28) in any event and as an alternative to th)e forms of reinsurance undertaking listed in points (1) to (27), the form of
+(28) in any event and as an alternative to the forms of reinsurance undertaking listed in points (1) to (27), the form of
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 --- Page 124 ---
 L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
@@ -13854,39 +13853,3 @@ only Article 1
 
 only Article 1
 --- Page 130 ---
-PART B
-
-**List of time-limits for transposition into national law**
-
-(referred to in Article *310* )
-
-Directive Time-limit for transposition Time-limit for application
-
-/EEC 26 August 1965
-/EEC 27 January 1975 27 January 1976
-/EEC 27 January 1975
-/EEC 31 December 1976
-/EEC 2 December 1979 2 June 1980
-/EEC 30 June 1987 1 January 1988
-/EEC 1 January 1990 1 July 1990
-/EEC 1 January 1990 1 July 1990
-/EEC 30 December 1989 30 June 1990
-/EEC 20 May 1992 20 November 1992
-/EEC 31 December 1993 1 July 1994
-/EC 18 July 1996 18 July 1996
-/EC 5 June 2000
-/EC 20 July 2002 20 January 2003
-/EC 17 November 2002
-/EC 20 April 2003
-/EC 20 September 2003
-/EC 17 November 2002, 20 Septem­
-ber 2003, 19 June 2004 (depending
-upon particular provision)
-/EC 11 August 2004
-/EC 1 May 2004
-/EC 13 May 2005
-/EC 11 June 2007
-/EC 10 December 2007
-/EC 1 January 2007
-/EC Not applicable
-/EC Not applicable
