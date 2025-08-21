@@ -1,29 +1,30 @@
-## **EIOPA-BoS-14/165 ** **EIOPA-BoS-22/218 **
-
-# **Guidelines on Contract ** **Boundaries – Consolidated ** **Version with Explanatory Text**
+## **EIOPA-BoS-14/165** **EIOPA-BoS-22/218**
 
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union's circle of twelve stars next to the stylized grey text "eiopa" and the full name of the organization.
+# **Guidelines on Contract** **Boundaries – Consolidated** **Version with Explanatory Text**
 
-eıopa
+
+
+![A concise summary of the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union's circle of stars next to the stylized grey text "eiopa" and the full name of the authority below it.
+
+eiopa
 European Insurance and
 Occupational Pensions Authority](#)
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue, diamond-shaped icon with the European Union's circle of stars inside, placed to the left of the stylized acronym "EIOPA". Below this, the full name of the authority is written in a grey sans-serif font.
+![A concise summary of the image is: The logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union circle of stars next to the stylized text "EIOPA" and the full name of the authority below it.
 
-EIOPA
+eIopa
 European Insurance and
 Occupational Pensions Authority](#)
 
-![This is a slide titled "Guideline 0 - Contract Boundaries" which explains how insurance and reinsurance undertakings should define contract boundaries. It clarifies that these boundaries are not a single point in time, but rather a distinction between the premiums and obligations that belong to a contract versus those that do not. The guideline also states that cash flow projections for the contract should be based on realistic assumptions and may extend beyond the dates specified in Article 18(3) of the Delegated Regulation.
+![](#)
 
-Guideline 0 - Contract Boundaries
-Insurance and reinsurance undertakings should not consider contract boundaries as a single point in time, but as a boundary between the premiums and obligations that belong to the contract and the premiums and obligations that do not belong to the contract. Cash flows related to premiums and obligations that belong to the contract should be projected using realistic assumptions, which means that the projection of cash flows might go beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.](#)
 
 
 **Explanatory text** :
+
 
 1. Contract boundaries determine the premiums and obligations that belong to the contract
 
@@ -41,11 +42,13 @@ the premiums fully reflect the risk, these premiums and the related obligations 
 
 the contract because the undertaking has the obligation to cover the risks.
 
+
 2. In most of the cases, paid-in premiums and the related obligations reflect a right and an
 
 obligation for the undertaking, i.e. the right to keep the premium and the obligation to cover
 
 the risk. Therefore, the premium and the related obligations belong to the contract.
+
 
 3. However, under very specific circumstances, this may not be the case. For example, in case
 
@@ -65,14 +68,18 @@ a case, undertakings might still consider that these obligations related to paid
 
 belong to the contract.
 
+
 Page 2/18
+
 
 
 -----
 
-![This is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue emblem on the left, which is a stylized diamond shape containing a circle of stars, reminiscent of the European Union flag. To the right of the emblem is the acronym "EIOPA" in a modern, grey, stylized font. Below this, the full name of the authority is written in a smaller grey sans-serif font.
+![A concise summary of the image for retrieval:
+The logo of EIOPA, the European Insurance and Occupational Pensions Authority. It features a blue emblem with a circle of stars, similar to the European Union flag, next to the acronym "EIOPA" in a stylized, grey font. The full name is written below the acronym.
 
-EIOPA
+Extracted text from the image:
+eIopa
 European Insurance and
 Occupational Pensions Authority](#)
 
@@ -98,13 +105,21 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
+
+
+
+
+
+
+
+
 |Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
 |---|---|---|---|---|---|---|---|---|
-|Premium|100|100|100|100|100||||
-|Obligation||Cover|Cover|Cover|Cover|Cover|Cover|Cover|
-|Cash flow projection||32|48 32|16 48 32|16 48 32|16 48|16||
-|||||||32|48|16|
-|BE undiscounted||||176|||||
+|**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
+|**Obligation**||**Cover **|**Cover **|**Cover **|**Cover**|**Cover **|**Cover**|**Cover**|
+|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
+|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
+|**BE undiscounted**||||**176 **|||||
 
 
 6. The horizon of projection of future cash flows is not affected by the contract boundaries.
@@ -114,25 +129,29 @@ Even if obligations from premiums received in t+1 do not belong to the contract,
 related to previous obligations should be projected beyond t+1.
 
 
-![An image showing Guideline 1, which states that insurance and reinsurance undertakings must consistently apply the principles for determining contract boundaries to all contracts, especially over time.
+
+![A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
 
 Guideline 1 - Consistent application of the principles
-
 Insurance and reinsurance undertakings should ensure that the principles for determining contract boundaries are consistently applied to all insurance and reinsurance contracts, in particular over time.](#)
+
 
 
 Page 3/18
 
 
+
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with a circle of stars, resembling the European Union flag, next to the stylized grey acronym "eiopa". The full name of the authority is written in grey text below the acronym.
+![A concise summary of the image for retrieval:
+The official logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue diamond-shaped emblem containing the European Union's circle of stars, next to the stylized text "eiopa". The full name of the authority is written below the main logo.
 
+Extracted text from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
 
-![An official document detailing Guideline 2 on the unilateral rights of insurance and reinsurance undertakings. It specifies the conditions under which a company can unilaterally terminate, reject, or amend a contract, including premiums and benefits, and lists specific limitations related to external assessments, national laws, policyholder decisions, and claim events.
+![A concise summary of Guideline 2, which defines the concept of a "unilateral right" for insurance and reinsurance undertakings. This guideline outlines the conditions under which the right to terminate, reject, or amend premiums and benefits in a contract is considered unilateral, meaning it cannot be restricted by the policyholder or third parties. It provides specific clarifications regarding external assessments, reputational risk, national laws, and dependency on policyholder decisions or claim events.
 
 Guideline 2 - Unilateral right
 
@@ -162,7 +181,20 @@ e) Undertakings should disregard the right to unilaterally terminate the contrac
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 **Explanatory text**
+
 
 7. In some jurisdictions the undertakings may amend the premiums and benefits only if a body
 
@@ -172,14 +204,18 @@ a body has to be considered as part of the governance of the undertaking or as t
 
 undertakings have to assess the scope of its responsibilities and the extent to which such a
 
+
 Page 4/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue diamond-shaped emblem with the European Union's circle of stars, positioned to the left of the stylized grey acronym "EIOPA". The full name of the authority is written in grey text below.
+![A concise summary of the image for retrieval:
+The logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue diamond-shaped icon containing the European Union's circle of stars, next to the stylized text "eIopa" in grey.
 
-EIOPA
+Extracted text from the image:
+eIopa
 European Insurance and
 Occupational Pensions Authority](#)
 
@@ -198,6 +234,7 @@ to the definition provided in paragraph 1.4 of the EIOPA-BoS-14/165 [1], the gen
 of a mutual insurance company can be considered as a governance body of such an
 
 undertaking.
+
 
 8. Some premium or benefit changes agreed upon at inception of the contract may depend
 
@@ -220,13 +257,16 @@ regarded as an amendment in terms of contract boundaries. The same applies to th
 existence of a predefined bonus/malus system.
 
 
-![This is a presentation slide for "Guideline 3 - Ability to compel," which specifies that insurance or reinsurance companies can only compel a policyholder to pay a premium if the payment is legally enforceable.
+
+![A concise summary of Guideline 3, which concerns the ability of insurance or reinsurance undertakings to compel a policyholder to pay a premium only when the payment is legally enforceable.
 
 Guideline 3 - Ability to compel
-Insurance or reinsurance undertakings should recognise their ability to compel a policy holder to pay a premium only if the policyholder's payment is legally enforceable.](#)
+Insurance or reinsurance undertakings should recognise their ability to compel a policy holder to pay a premium only if the policyholder’s payment is legally enforceable.](#)
+
 
 
 **Explanatory text**
+
 
 9. The undertaking does not have the ability to compel the policyholder to pay the premium
 where the payment of the premium is not legally effective and enforceable. For instance,
@@ -236,28 +276,29 @@ contracts with scheduled future premiums.
 
 
 
+![A light blue banner with the text "Guideline 4 - Full reflection of the risk" in black font.
+Guideline 4 - Full reflection of the risk](#)
+
+
+
 1 Introduction to the original Guidelines on Contract Boundaries.
+
 
 Page 5/18
 
 
+
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, diamond-shaped icon containing the circle of stars from the European Union flag, placed to the left of the stylized acronym "eiopa" in grey. The full name of the authority is written in grey text below the acronym.
+![A concise summary of the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, diamond-shaped emblem with the European Union circle of stars, alongside the stylized text "eiopa" and the full name of the authority below it.
 
 eiopa
-European Insurance and
-Occupational Pensions Authority](#)
+European Insurance and Occupational Pensions Authority](#)
 
-![A document outlining guidelines for insurance and reinsurance undertakings on how to assess whether premiums fully reflect the risks covered by a portfolio. It details the need to compare the present value of future premiums against future benefits and expenses, and to conduct individual risk assessments of the insured person, such as medical examinations or surveys, especially for mortality and health risks, in accordance with Commission Delegated Regulation 2015/35.
-
-When determining whether premiums are fully reflecting the risks covered by a portfolio of insurance or reinsurance obligations, insurance and reinsurance undertakings should assess whether, at the moment at which either premiums or benefits can be amended, under all circumstances the undertaking has the right to amend premiums or benefits such that the expected present value of the future premiums exceeds the expected present value of the future benefits and expenses payable under the portfolio.
-
-For the purpose of assessing whether premiums are fully reflecting the risks covered by a portfolio of insurance or reinsurance obligations in accordance with Article 18 (3) and (7) of Commission Delegated Regulation 2015/35, insurance and reinsurance undertakings should ensure that this portfolio consists of obligations for which the insurance or reinsurance undertaking can amend premiums and benefits under similar circumstances and with similar consequences.
-
-Insurance and reinsurance undertakings should take into account any individual assessment of relevant features of the insured person that allow the undertaking to gather sufficient information in order to form an appropriate understanding of the risks associated with the insured person. In the case of contracts covering mortality risks or health risks similar to life insurance techniques, the individual risk assessment can be a self-assessment by the insured person or can include a medical examination or survey.](#)
+![](#)
 
 **Explanatory text**
+
 
 10. The payment of the future premiums that belong to a contract may be predicated on the
 
@@ -266,6 +307,7 @@ occurrence of an event or be determined by the value of sets of financial or non
 variables. Therefore, a premium does not need to be certain in its timing or amount to
 
 belong to the contract.
+
 
 11. For example, when a future premium payment meets all the conditions to belong to the
 
@@ -277,6 +319,7 @@ specified event occurring is relevant for valuation purposes but not for the det
 
 of the boundary of the contract.
 
+
 12. Future management actions, such as granting discretionary benefits, do not affect the
 
 contract boundaries, but are taken into account when calculating best estimate in
@@ -287,14 +330,16 @@ preapproved by the undertaking may sometimes be considered to be part of the pay
 
 schedule.
 
+
 Page 6/18
+
 
 
 -----
 
-![This is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue emblem with the European Union's circle of stars, next to the stylized grey acronym "eiopa". The full name of the authority is written underneath.
+![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union's circle of stars next to the stylized acronym "EIOPA" in grey.
 
-eiopa
+EIOPA
 European Insurance and
 Occupational Pensions Authority](#)
 
@@ -313,35 +358,36 @@ insurance or reinsurance undertaking can amend premiums and benefits under simil
 circumstances and with similar consequences.
 
 
-![A slide outlining "Guideline 5 - Contract Boundaries" for insurance and reinsurance undertakings. The text details the process and conditions for unbundling contracts, including assessing risk equivalence, handling options and guarantees, and the implications under the Solvency II Directive. Each unbundled part is to be treated as an independent contract.
+
+![A concise summary of "Guideline 5 - Contract Boundaries" for insurance and reinsurance undertakings. The guideline explains the conditions for unbundling contracts based on risk equivalence, assessment at recognition and valuation dates, and a simplified approach. It also covers the treatment of options, implications under the Solvency II Directive, and states that unbundled parts are treated as independent contracts.
 
 Guideline 5 - Contract Boundaries
-
 Insurance and reinsurance undertakings should assess whether at recognition date it is possible to unbundle a contract and, at each valuation date, consider whether there has been any change, which would affect the previous assessment.
-
 Insurance and reinsurance undertakings should consider that a contract can be unbundled for the purpose of contract boundaries if and only if two (or more) parts of the contract are equivalent in terms of risk to two (or more) contracts that could be sold separately. For the purposes of this Guideline, two contracts should be considered to be equivalent in terms of risk if there are no discernible differences in the economics of the contracts regarding the insurance or financial risk borne by the undertaking.
-
 Notwithstanding the previous point, where all the parts of a contract have the same contract boundary, as a simplified approach undertakings may consider not to unbundle the contract for the purpose of setting contract boundaries.
-
 When an option or guarantee covers more than one part of the contract, insurance and reinsurance undertakings should determine whether it is possible to unbundle it or whether it should be attributed to the relevant part of the contract.
-
 If a contract is considered an insurance contract under Solvency II Directive, insurance and reinsurance undertakings should consider all unbundled parts of the contract to give rise to insurance or reinsurance obligations.
-
 If a contract is unbundled for the purposes of assessing contract boundaries, each part should be treated as an independent contract.](#)
+
 
 
 **Explanatory text**
 
+
 14. Unbundling can be performed at two different levels or stages of the valuation process:
+
 
 Page 7/18
 
 
+
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with a circle of stars, similar to the European Union flag, next to the stylized grey text "eiopa".
+![A concise summary of the image for retrieval:
+The logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem with the European Union circle of stars next to the stylized grey text "EIOPA". The full name of the authority is written below the acronym.
 
-eiopa
+Extracted text from the image:
+eIopa
 European Insurance and
 Occupational Pensions Authority](#)
 
@@ -361,6 +407,7 @@ flows would be lost. Therefore, in such a case, cash flows should be projected f
 
 whole contract altogether.
 
+
 b) Unbundling for valuation purposes: The second step for best estimate valuation is to
 
 determine which cash flows belong to the contract, i.e. which cash flows will be
@@ -368,6 +415,7 @@ determine which cash flows belong to the contract, i.e. which cash flows will be
 included in the best estimate. The key criteria for that purpose is Article 18 of the
 
 Delegated Regulation.
+
 
 15. In most of the cases, where unbundling for cash-flow projection purposes is not possible,
 
@@ -381,6 +429,7 @@ different contract boundaries compared to two independent contracts, while in te
 
 risk no discernible differences exist.
 
+
 16. Therefore, any contract that is equivalent in terms of risk to two (or more) parts of the
 
 contract could be sold independently should be unbundled. Conversely, dependencies in
@@ -392,6 +441,7 @@ discernible. To assess such equivalence, only insurance and financial risk shoul
 considered and non-discernible differences should not prevent the contract from being
 
 unbundled.
+
 
 17. For example, a unit-linked contract with a mortality cover where the payout in case of death
 
@@ -411,21 +461,24 @@ value of the unit-linked fund, the risk of the mortality cover depends on the un
 
 so this contract should not be unbundled.
 
+
 18. In some cases, cash flows are projected for a group of contracts altogether but contract
 
 boundaries may be different for some of them. For example, for products with profit sharing
 
 features, the cash flow projection may be done globally for several guarantees, but cash
 
+
 Page 8/18
+
 
 
 -----
 
-![### Summary
-This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, tilted emblem containing the European Union's circle of stars, next to the stylized lowercase acronym "eiopa" in grey. The full name of the authority is written below the acronym.
+![A concise summary of the image for retrieval:
+The logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem with the European Union's circle of stars, next to the stylized grey text "EIOPA". The full name of the authority is written below the acronym.
 
-### Text
+Extracted text from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
@@ -434,6 +487,7 @@ flows are allocated at a later step (unbundled) for valuation purposes and even 
 
 contract boundaries may exist for contracts with different financial guarantees.
 
+
 19. Dependencies at the level of premiums or reserves should also be considered to determine
 
 whether a contract should be unbundled. In particular, these dependencies may prevent a
@@ -441,6 +495,7 @@ whether a contract should be unbundled. In particular, these dependencies may pr
 contract from being unbundled in case they create a discernible dependency in terms of
 
 insurance or financial risk.
+
 
 20. In particular, in case of a product including two savings components where the policyholder
 
@@ -454,6 +509,7 @@ connection between the risk of both savings components and this behaviour could 
 
 replicated with two independent products.
 
+
 21. For example, in a contract with two parts, general account plus unit linked, where the
 
 policyholder may choose the percentage of premium allocated to each part, the
@@ -464,6 +520,7 @@ terms of insurance or financial risk compared to two independent contracts (gene
 
 account and unit linked). Therefore, this contract should be unbundled.
 
+
 22. However, in case there are dynamic reallocations (i.e. not controlled by the policyholder nor
 
 predefined), the risk between both parts is connected as the premium/reserve represents
@@ -471,6 +528,7 @@ predefined), the risk between both parts is connected as the premium/reserve rep
 the risk exposure for savings products and the reallocations depend on the evolution of the
 
 financial risk. Therefore, dynamic reallocations usually prevent from unbundling.
+
 
 23. In case of a combination of a savings product with a rider, if the premium for the rider is
 
@@ -488,6 +546,7 @@ would not be possible provided this dependency has a discernible effect on the e
 
 of the contract.
 
+
 24. Similarly, when the rider is covered through periodical charges from the savings component,
 
 the product may still be unbundled in case these charges are predefined. It should be noted
@@ -498,20 +557,25 @@ benefits agreed within the contract. Conversely, in case the contract can be unb
 
 both parts should be treated as independent contracts. This means that the periodical
 
+
 Page 9/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue icon with the European Union flag's circle of stars, next to the stylized grey acronym "EIOPA" and the full name of the authority written below it.
+![A concise summary of the image for retrieval:
+The logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo consists of a blue emblem with the European Union's circle of stars, next to the acronym "EIOPA" in a stylized, thin, grey font. The full name is written below the acronym.
 
-eiopa
+Text extracted from the image:
+EIOPA
 European Insurance and
 Occupational Pensions Authority](#)
 
 charges should be considered to be equivalent to premiums that should be projected only
 
 within contract boundaries.
+
 
 25. For example, a whole life unit-linked product with a rider (e.g. mortality cover) that has a
 
@@ -523,41 +587,29 @@ unbundled, the periodical charges should not be considered to be equivalent to p
 
 so they are to be projected regardless of contract boundaries.
 
-![This is a document outlining Guideline 6A, which concerns the identification of a financial guarantee of benefits and its discernible effect on the economics of an insurance or reinsurance contract. The guideline details how undertakings should assess this effect by analyzing future cash flows, using either qualitative or quantitative methods, and references Article 77(2) of the Solvency II Directive for calculations.
+![](#)
 
-Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the economics of a contract
-
-When determining whether a financial guarantee has no discernible effect on the economics of a contract, insurance and reinsurance undertakings should take into account all potential future cash flows, which may arise from the contract.
-
-Insurance and reinsurance undertakings should consider a financial guarantee of benefits as having a discernible effect on the economics of a contract only if the financial guarantee is linked to the payment of the future premiums and provides the policyholder with a discernible financial advantage.
-
-When determining whether a financial guarantee provides for a discernible financial advantage, insurance and reinsurance undertakings should consider the extent to which the whole set of future cash flows is expected to discernibly change if the financial guarantee did not exist. Undertakings can assess this on qualitative or quantitative basis.
-
-The qualitative assessment should consider whether the configuration (risk, timing and amount) of the cash flows of the contract with the financial guarantee discernibly differs from the configuration of the contract without the financial guarantee.
-
-The quantitative assessment should be based on whether the relative difference in the value of all future obligations related to the contract with and without the financial guarantee (“value of the financial guarantee”) on an expected present value basis is discernible. When calculating the value of the obligations without the financial guarantee, insurance and reinsurance undertakings should assume cash flows equal to the amount that would be paid if the financial guarantee did not exist. For contracts where the benefits depend on market returns undertakings should assume benefits that are consistent with relevant risk-free interest rate term structure used to calculate the best estimate as referred to in Article 77(2) of Solvency II Directive, without volatility adjustment and matching adjustment. When](#)
 
 Page 10/18
 
 
+
 -----
 
-![**Summary:**
-This is the official logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue, diamond-shaped icon with the European Union's circle of stars on the left. To the right, the acronym "EIOPA" is written in a stylized grey font, with the full name of the authority spelled out below it. The background is white.
+![A concise summary of the image for retrieval:
+The logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union's circle of stars next to the acronym "eiopa" and the full name of the authority below it.
 
-**Text:**
-EIOPA
+Extracted text from the image:
+eiopa
 European Insurance and
 Occupational Pensions Authority](#)
 
-![A black text paragraph on a light blue background discussing the valuation of obligations for insurance and reinsurance undertakings. The text highlights the need to consider financial guarantees, guaranteed benefits, and the time value of options in the assessment.
+![A text discussing the valuation of obligations for insurance and reinsurance companies with financial guarantees. The text emphasizes considering guaranteed benefits and the time value of options and guarantees during this assessment.
 
-calculating the value of the obligations with the financial guarantee, insurance and reinsurance
-undertakings should consider in the valuation any form of guaranteed benefits stemming from
-the financial guarantee. Proper consideration of the time value of options and guarantees is
-relevant for this assessment.](#)
+calculating the value of the obligations with the financial guarantee, insurance and reinsurance undertakings should consider in the valuation any form of guaranteed benefits stemming from the financial guarantee. Proper consideration of the time value of options and guarantees is relevant for this assessment.](#)
 
 **Explanatory text**
+
 
 26. The qualitative assessment may be based on any relevant considerations that provide
 
@@ -579,6 +631,7 @@ notwithstanding the potential need, at some point in time, to repeat the assessm
 
 on Guideline 6c.
 
+
 27. The quantitative assessment should be based on all future obligations related to the
 
 contract, including expenses, as guarantees on the level of expenses may have a discernible
@@ -599,12 +652,14 @@ related obligations within the contractual period (10 years) regardless whether 
 
 the final conclusion is that contract boundaries are shorter.
 
+
 28. In order to properly consider the time value of the financial guarantee stochastic valuation
 
 is usually necessary. This could be achieved using simulation methods based on probability
 weighted potential future scenarios, as well as with some closed-formula approaches for
 
 simple cases.
+
 
 29. The assessment, in particular where quantitative, may depend on contract-specific features
 
@@ -614,17 +669,22 @@ perform the analysis on a contract-by-contract basis and the analysis should con
 
 average features at a higher level.
 
+
 30. In some cases the outcome of the quantitative assessment will require additional
 
 considerations. For example, an undertaking may determine that for a specific product in
 
+
 Page 11/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue diamond-shaped emblem containing the European Union flag, a circle of twelve gold stars on a blue background. To the right is the stylized lowercase acronym "eiopa" in grey, with the full name of the authority written below it.
+![A concise summary of the image for retrieval:
+The logo of the European Insurance and Occupational Pensions Authority (EIOPA). It features a blue emblem with the European Union's circle of stars, next to the stylized acronym 'eiopa' in grey. The full name is written below the acronym.
 
+Extracted text from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
@@ -651,9 +711,11 @@ value of the financial guarantee using deterministic valuation will usually be l
 
 stochastic value.
 
+
 31. In some cases, benefits may not depend on market returns at all. In such a case, it may be
 
 reasonable to use a benchmark that is not linked to the market, e.g. constant capital.
+
 
 32. For the purpose of this assessment, the expected payments linked to future discretionary
 
@@ -671,36 +733,32 @@ policyholders. Any other future discretionary benefit should be considered in th
 
 assessment.
 
-![An image of a slide presenting Guideline 6B for insurance and reinsurance undertakings. The guideline explains how to determine if coverage for an uncertain adverse event has a discernible economic effect on a contract by analyzing future cash flows, its link to future premiums, and whether it provides a discernible financial advantage to the policyholder.
+![A concise summary of Guideline 6B for insurance and reinsurance undertakings on identifying coverage for uncertain events. The guideline specifies that a discernible economic effect on a contract exists only if the cover is linked to future premiums and provides a discernible financial advantage to the policyholder, which is assessed by considering all potential future cash flows.
 
 Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the insured person with a discernible effect on the economics of a contract
-
 When determining whether the coverage for a specified uncertain event that adversely affects the insured person (cover) has no discernible effect on the economics of a contract, insurance and reinsurance undertakings should take into account all potential future cash flows, which may arise from the contract.
-
 Insurance and reinsurance undertakings should consider a cover as having a discernible effect on the economics of a contract only if the cover is linked to the payment of the future premiums and provides the policyholder with a discernible financial advantage.
-
 When determining whether a cover provides a discernible financial advantage, insurance and reinsurance undertakings should consider the extent to which the whole set of future cash](#)
+
 
 Page 12/18
 
 
+
 -----
 
-![This is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue icon with the European Union's circle of stars next to the stylized grey acronym "eiopa". The full name of the authority is written in grey text below.
+![A concise summary of the image for retrieval:
+The logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem with the European Union circle of stars, next to the stylized grey text "eiopa" and the full name of the authority below it.
 
+Extracted text from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
 
-![An excerpt from a document, presented in a table with a light blue background, outlining the qualitative and quantitative assessment methods for insurance and reinsurance contracts. The text explains how to evaluate the impact of "cover" by comparing contract cash flows and obligations with and without it, using criteria like risk, timing, amount, and present value.
-
-flows is expected to discernibly change if the cover did not exist. Insurance and reinsurance undertakings can assess this on qualitative or quantitative basis.
-
-The qualitative assessment should consider whether the configuration (risk, timing and amount) of the cash flows of the contract with the cover discernibly differs from the configuration of the contract without the cover.
-
-The quantitative assessment should be based on whether the relative difference in the value of all future obligations related to the contract with and without the cover (“value of the cover”) on an expected present value basis is discernible. When calculating the value of the obligations without the cover insurance and reinsurance undertakings should assume that the cover does not exist. When calculating the value of the obligations with the cover insurance and reinsurance undertakings should consider all obligations. Considering potential future scenarios in some cases is relevant for this assessment.](#)
+![](#)
 
 **Explanatory text**
+
 
 33. The qualitative assessment may be based on any relevant considerations that provide
 
@@ -722,6 +780,7 @@ quantitative analysis for the same product if available, notwithstanding the pot
 
 at some point in time, to repeat the assessment based on Guideline 6c.
 
+
 34. The quantitative assessment should be based on all future obligations related to the
 
 contract, including expenses. This means that the calculation should include obligations
@@ -731,6 +790,7 @@ related to paid-in and future premiums. This also means that, for the purposes o
 assessment, all obligations related to the contract should be considered regardless of
 
 contract boundaries.
+
 
 35. To properly consider the value of the guarantee, probability-weighted potential future
 
@@ -742,13 +802,17 @@ case of death). For the quantitative assessment, stochastic valuation allows suc
 
 consideration.
 
+
 Page 13/18
+
 
 
 -----
 
-![A concise summary of the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem on the left, which is a rounded diamond shape containing the European Union's circle of stars. To the right is the acronym "eiopa" in a stylized, grey, sans-serif font, with the full name of the authority written below it.
+![A concise summary of the image for retrieval:
+The logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue diamond-shaped emblem containing the European Union's circle of stars, next to the stylized acronym "EIOPA" in grey.
 
+Extracted text from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
@@ -760,6 +824,7 @@ Occupational Pensions Authority](#)
 perform the analysis on a contract-by-contract basis and the analysis should consider
 
 average features at a higher level.
+
 
 37. In some cases the outcome of the quantitative assessment will require additional
 
@@ -784,27 +849,26 @@ consulting NSAs, which may be wider or narrower depending on the contract under
 assessment.
 
 
-![This is a slide presenting Guideline 6C, which details the reassessment of the discernible effect of a cover or financial guarantee for insurance and reinsurance undertakings. It outlines when contract boundaries can be amended, specifically due to extreme changes in the economic environment, and references Article 29 of the Delegated Regulation and Article 77(2) of the Solvency II Directive.
 
-Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee
+![](#)
 
-Insurance and reinsurance undertakings should keep contract boundaries constant through the whole life of a contract in almost all cases. However, due to changes of the external environment as defined in Article 29 of the Delegated Regulation as well as changes in the terms of the contract, contract boundaries may need to be amended.
-
-Insurance and reinsurance undertakings are not expected to reassess whether a cover or financial guarantee has a discernible effect at each valuation date. However, insurance and reinsurance undertakings should perform this reassessment if there is indication that it may lead to a different conclusion. In particular, to assess changes in the economic environment undertakings should compare the current economic environment to the economic environment existing when the assessment used to define the current contract boundaries was performed and do a reassessment only in case these changes are extreme. For this purpose, the changes on the relevant risk-free interest rate term structure used to calculate the best estimate as referred to in Article 77(2) of the Solvency II Directive that are less extreme than the interest rate stress of the Standard Formula should not be considered to be extreme.](#)
 
 
 Page 14/18
 
 
+
 -----
 
-![This is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). It features a blue, diamond-shaped icon with a circle of stars, similar to the European Union flag, next to the acronym "eiopa" in a stylized, grey, sans-serif font. The full name of the authority is written in two lines of grey text below the acronym.
+![A concise summary of the image that is well optimized for retrieval.
+The logo of the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue, diamond-shaped emblem containing the circle of stars from the European Union flag, next to the stylized acronym "eiopa".
 
+extract all the text from the image.
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
 
-![A concise summary of a text document outlining regulations for insurance and reinsurance undertakings. The document specifies the conditions for changing contract boundaries after reassessment, reporting requirements to supervisory authorities for material changes affecting solvency under Article 312(3) of the Delegated Regulation, and instances where reassessment is not permitted, such as for calculating the best estimate or Solvency Capital Requirement (SCR).
+![A concise summary of guidelines for insurance and reinsurance undertakings regarding the reassessment of contract boundaries. It details the specific conditions for changing boundaries, reporting requirements for material impacts on solvency to supervisory authorities under Article 312(3) of the Delegated Regulation, and clarifies that reassessment is not required for calculating the best estimate or SCR under stressed scenarios.
 
 Insurance and reinsurance undertakings should change contract boundaries after this reassessment only if the reassessment leads to a clearly different conclusion than the assessment performed to define the current contract boundaries.
 
@@ -816,11 +880,13 @@ Insurance and reinsurance undertakings should not reassess contract boundaries f
 
 **Explanatory text**
 
+
 38. Changes in the economic environment may have an impact on the assessment whether a
 
 cover or, in particular, a financial guarantee has a discernible effect on the economics of the
 
 contract.
+
 
 39. While Guidelines 6a and 6b already envisage the consideration of potential future scenarios
 
@@ -829,6 +895,7 @@ contract.
 environment may require a reassessment to ensure that contract boundaries properly
 
 reflect the risk borne by the undertaking.
+
 
 40. Changes in the economic environment should only lead to a reassessment when they are
 
@@ -844,13 +911,17 @@ necessarily mean that any change in the risk-free rate term structure beyond the
 
 rate stress in the Standard Formula should be considered to be extreme.
 
+
 Page 15/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue diamond-shaped emblem containing a circle of stars, reminiscent of the European Union flag, placed to the left of the stylized acronym "EIOPA" in grey. The full name of the authority is written in two lines below the acronym.
+![A concise summary of the image for retrieval:
+The logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue emblem with the European Union circle of stars, alongside the stylized acronym "eiopa" in grey text.
 
+Text extracted from the image:
 eiopa
 European Insurance and
 Occupational Pensions Authority](#)
@@ -869,6 +940,7 @@ was performed is lower than the interest rate stress of the Standard Formula for
 
 the change in the risk-free rate term structure would not be considered to be extreme.
 
+
 42. The outcome of a quantitative assessment has clearly changed only in case there has been
 
 a material change in the ratio compared to the outcome at when the assessment used to
@@ -883,6 +955,7 @@ is not expected to change contract boundaries in case a reassessment leads to a 
 
 as it does not lead to clearly different conclusion compared to the previous assessment.
 
+
 43. The point in time when the reassessment is performed may have an impact on the outcome,
 
 regardless of the economic conditions (e.g. assessment performed at inception vs.
@@ -896,6 +969,7 @@ contracts. One alternative to overcome this effect is to perform the reassessmen
 contracts were issued at valuation date or base the reassessment for existing contracts on
 
 the assessment for similar new contracts.
+
 
 44. Where the reassessment leads to a change in the contract boundaries, this should be
 
@@ -913,6 +987,7 @@ triggered the need to issues that annual report, the undertaking should specific
 
 to cover this information.
 
+
 45. Even if contract boundaries may be reassessed after changes in the economic environment,
 
 contract boundaries should not be reassessed in the calculation of the SCR scenarios, even
@@ -927,12 +1002,14 @@ boundaries do not reflect losses for the undertaking but only changes in the sco
 
 valuation of best estimate, so they should not be considered.
 
+
 Page 16/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue diamond-shaped emblem containing the European Union circle of stars, next to the stylized grey text "eiopa" and the full name of the authority underneath.
+![A logo of EIOPA, the European Insurance and Occupational Pensions Authority. The logo consists of a blue emblem with the circle of stars from the European Union flag, next to the stylized acronym "eiopa" in grey.
 
 eiopa
 European Insurance and
@@ -953,14 +1030,17 @@ through all the scenarios in the stochastic valuation to ensure that the valuati
 consistent with the contract boundaries determined at the valuation date.
 
 
-![A slide presenting Guideline 7 on the estimation of obligations for insurance and reinsurance undertakings. It instructs that when full contract details are unavailable, undertakings must estimate the contract boundaries using all available information and revise this estimate once more detailed information is obtained.
+
+![A concise summary of Guideline 7 on the estimation of obligations for insurance and reinsurance undertakings. It advises on estimating contract boundaries using available information when full details are lacking at recognition, and revising the assessment as more information becomes available.
 
 Guideline 7 - Estimation of obligations
 Insurance or reinsurance undertakings should, where details of a contract or the full extent of the obligations covered by a contract are not available to the undertaking at the time of recognition of the contract, estimate the boundaries of the contracts using all available information in a manner consistent with the principles set out in these Guidelines.
 Undertakings should revise this estimated assessment as soon as more detailed information is available.](#)
 
 
+
 **Explanatory text**
+
 
 47. A need to reassess the contract boundaries can arise, where a delegated underwriting
 
@@ -972,11 +1052,13 @@ binder to assess the contracts which fall within the contract boundary at a give
 
 date. If this information is not available, estimates will need to be made.
 
+
 48. Estimates of contracts entered into can be based on historical experience of specific binders
 
 in terms of numbers of contracts likely to be entered into and their terms and conditions
 
 and hence the length of their contract boundaries and likely corresponding cash-flows.
+
 
 49. The undertaking would aim to minimise any delay in receiving detailed information from
 
@@ -986,6 +1068,7 @@ corresponding contract boundaries as soon as reasonable after this information w
 
 received.
 
+
 50. In the situation that updated exposure information becomes available after the signature
 
 of the contract (e.g. because the underlying exposure changes in the case of some liability
@@ -994,12 +1077,14 @@ contracts or underlying exposure is unknown at the time of signing for contracts
 
 voyages undertaken in a certain time period) one would not expect this to lead to a change
 
+
 Page 17/18
+
 
 
 -----
 
-![This is the logo for EIOPA, the European Insurance and Occupational Pensions Authority. The logo features a blue, diamond-shaped emblem containing the European Union's circle of stars, placed to the left of the stylized, grey acronym "eiopa". The full name is written in grey text below the acronym.
+![A concise summary of the logo for the European Insurance and Occupational Pensions Authority (EIOPA). The logo features a blue geometric shape containing the European Union's circle of stars next to the stylized acronym "eiopa" in grey. The full name of the authority is written below the acronym.
 
 eiopa
 European Insurance and
@@ -1010,20 +1095,25 @@ in the contract boundary. If, however, this analysis leads to a change in contra
 the contract boundary would be updated.
 
 
-![This is a concise summary of Guideline 8 on reinsurance contracts, which states that insurance and reinsurance undertakings should apply the provisions of Article 18 of Commission Delegated Regulation 2015/35 to their accepted reinsurance contracts, independent of the boundaries of the underlying insurance or reinsurance contracts.
+
+![A concise summary of Guideline 8 on reinsurance contracts, which states that insurance and reinsurance undertakings must apply the provisions of Article 18 of Commission Delegated Regulation 2015/35 to their accepted reinsurance contracts, independently from the underlying insurance contracts.
 
 Guideline 8 - Reinsurance contracts
 Insurance and reinsurance undertakings should, for their accepted reinsurance contracts, apply the provisions of Article 18 of Commission Delegated Regulation 2015/35 independently from the boundaries of the underlying insurance or reinsurance contracts to which they relate.](#)
 
 
+
 **Explanatory text**
+
 
 51. The boundary of a reinsurance contract may be different in the Solvency II balance sheet of
 the buyer of the reinsurance when compared to the Solvency II balance sheet of the seller
 
 of the reinsurance.
 
+
 **Compliance and Reporting Rules**
+
 
 52. This document contains guidelines issued under Article 16 of Regulation (EU) No
 1094/2010. In accordance with Article 16(3) of that Regulation, competent authorities and
@@ -1031,20 +1121,27 @@ financial institutions are required to make every effort to comply with guidelin
 
 recommendations.
 
+
 53. Competent authorities that comply or intend to comply with these Guidelines should
 incorporate them into their regulatory or supervisory framework in an appropriate manner.
+
 
 54. Competent authorities are to confirm to EIOPA whether they comply or intend to comply
 with these Guidelines, with reasons for non-compliance, within two months after the
 
 issuance of the translated versions.
 
+
 55. In the absence of a response by this deadline, competent authorities will be considered as
 non-compliant to the reporting and reported as such.
 
+
 **Final provision on review**
+
 
 56. These Guidelines will be subject to a review by EIOPA.
 
+
 Page 18/18
+
 

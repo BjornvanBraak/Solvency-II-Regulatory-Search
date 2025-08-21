@@ -1,37 +1,19 @@
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white acronym "EBA" on a patterned background on the left, and the full name "EUROPEAN BANKING AUTHORITY" in white text on a solid blue background on the right, separated by a thin orange line.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is shown below the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 JC 2017 37
 
+
 04/01/2018
 
-![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side. The ESMA logo has the acronym inside a circle of blue stars, and the EIOPA logo is a blue geometric design above its acronym.
-
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
-# Final Guidelines 
-
-![This is the grey text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a sans-serif font, arranged in two centered lines on a plain white background.
-
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
-## Joint Guidelines under Articles 17 and 18(4) of Directive (EU) 2015/849 on simplified and enhanced customer due diligence and the factors credit and financial institutions should consider when assessing the money laundering and terrorist financing risk associated with individual business relationships and occasional transactions **The Risk Factors Guidelines**
-
-
------
-
-![A text-only logo for the Joint Committee of the European Supervisory Authorities in a grey, uppercase, sans-serif font on a white background.
-
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
-
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo features a circle of blue stars, and the EIOPA logo has a blue geometric design.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
@@ -39,12 +21,41 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is an image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the white acronym "EBA" with a wave-like pattern on the left, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+# Final Guidelines
+
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, uppercase font on a white background.
+
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
+
+## Joint Guidelines under Articles 17 and 18(4) of Directive (EU) 2015/849 on simplified and enhanced customer due diligence and the factors credit and financial institutions should consider when assessing the money laundering and terrorist financing risk associated with individual business relationships and occasional transactions **The Risk Factors Guidelines**
+
+
+
+-----
+
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a grey, sans-serif font on a white background.
+
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
+
+![A side-by-side display of the logos for two European Union financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring the EU circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a modern blue graphic.
+
+esma
+European Securities and
+Markets Authority
+eiopa
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
+![A document title, "THE RISK FACTORS GUIDELINES," is displayed above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
-# Com liance and re ortin obli ations  p p g g
+
+# Com liance and re ortin obli ations p p g g
+
 ## Status of these joint guidelines
 
 This document contains joint guidelines issued pursuant to Articles 16 and 56(1) of Regulation
@@ -67,6 +78,7 @@ competent authorities and financial institutions must make every effort to compl
 
 guidelines.
 
+
 Joint guidelines set out the ESAs’ view of appropriate supervisory practices within the European
 
 System of Financial Supervision or of how Union law should be applied in a particular area.
@@ -76,53 +88,57 @@ Competent authorities to whom the joint guidelines apply should comply by incorp
 into their supervisory practices as appropriate (e.g. by amending their legal framework or their
 
 supervisory processes), including where the joint guidelines are directed primarily at institutions.
+
 ## Reporting requirements
+
 
 In accordance with Article 16(3) of the ESAs Regulations, competent authorities must notify the
 
 relevant ESA of whether they comply or intend to comply with these joint guidelines, or otherwise
 
-of reasons for non-compliance [ *two months after the publication of all translations on the ESAs’*
+of reasons for non-compliance [ _two months after the publication of all translations on the ESAs’_
 
-*websites – 05/03/2018* ]. In the absence of any notification by this deadline, competent
+_websites – 05/03/2018_ ]. In the absence of any notification by this deadline, competent
 
 authorities will be considered by the relevant ESA to be non-compliant. Notifications should
 
-be sent to [ [compliance@eba.europa.eu](mailto:compliance@eba.europa.eu), [compliance@eiopa.europa.eu](mailto:compliance@eba.europa.eu) and
+be sent to [[compliance@eba.europa.eu,](mailto:compliance@eba.europa.eu) [compliance@eiopa.europa.eu](mailto:compliance@eba.europa.eu) and
 
-[compliance@esma.europa.eu]](mailto:compliance@esma.europa.eu) with the reference ‘JC/GL/2017/37’. A template for notifications is
+[compliance@esma.europa.eu] with the reference ‘JC/GL/2017/37’. A template for notifications is](mailto:compliance@esma.europa.eu)
 
 available on the ESAs’ websites. Notifications should be submitted by persons with appropriate
 
 authority to report compliance on behalf of their competent authorities.
 
+
 Notifications will be published on the ESAs’ websites, in line with Article 16(3).
+
 
 2
 
 
+
 -----
 
-![A minimalist wordmark logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple, grey, sans-serif font on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in grey, uppercase, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side. The ESMA logo features a circle of blue stars, while the EIOPA logo has a modern blue geometric design.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The logo is a blue rectangle with the white acronym "EBA" on a wavy background on the left, and the full name "EUROPEAN BANKING AUTHORITY" in white text on the right.
+![A close-up of the European Banking Authority (EBA) logo, featured under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" on the left and the full name on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 # Title I – Subject matter, scope and definitions
+
 ## Subject matter
 
 1. These guidelines set out factors firms should consider when assessing the money
@@ -135,16 +151,20 @@ customer due diligence (CDD) measures in a way that is commensurate to the ML/TF
 
 they have identified.
 
+
 2. These guidelines focus on risk assessments of individual business relationships and
 
-occasional transactions, but firms may use these guidelines *mutatis mutandis* when
+occasional transactions, but firms may use these guidelines _mutatis mutandis_ when
 
 assessing ML/TF risk across their business in line with Article 8 of Directive (EU) 2015/849.
+
 
 3. The factors and measures described in these guidelines are not exhaustive and firms
 
 should consider other factors and measures as appropriate.
+
 ## Scope
+
 
 4. These guidelines are addressed to credit and financial institutions as defined in Article
 
@@ -153,9 +173,11 @@ should consider other factors and measures as appropriate.
 supervising these firms’ compliance with their anti-money laundering and counter
 terrorist financing (AML/CFT) obligations.
 
+
 5. Competent authorities should use these guidelines when assessing the adequacy of firms’
 
 risk assessments and AML/CFT policies and procedures.
+
 
 6. Competent authorities should also consider the extent to which these guidelines can
 
@@ -165,24 +187,28 @@ the risk-based approach to supervision. The ESAs have issued guidelines on risk-
 
 supervision in accordance with Article 48(10) of Directive (EU) 2015/849.
 
+
 7. Compliance with the European financial sanctions regime is outside the scope of these
 
 guidelines.
+
 ## Definitions
 
+
 8. For the purpose of these guidelines, the following definitions shall apply:
+
 
 3
 
 
+
 -----
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities in a grey, sans-serif font on a white background.
+![A minimalist logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo features blue text and a circle of stars, while the EIOPA logo has a blue graphic of a transparent cube with stars above its name.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of blue stars, and the EIOPA logo has a blue, cube-like design with stars.
 
 esma
 European Securities and Markets Authority
@@ -190,7 +216,7 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" displayed above it. The blue and grey logo features the acronym "EBA" in large white letters on the left, with its full name written on the right.
+![This is the logo of the European Banking Authority (EBA) with the title "The Risk Factors Guidelines". The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name "European Banking Authority" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -198,12 +224,15 @@ EUROPEAN
 BANKING
 AUTHORITY](#)
 
+
   - ‘Competent authorities’ means the authorities competent for ensuring firms’ compliance
 with the requirements of Directive (EU) 2015/849 as transposed by national legislation. [1]
+
 
   - ‘Firms’ means credit and financial institutions as defined in Article 3(1) and (2) of Directive
 
 (EU) 2015/849.
+
 
   - ‘jurisdictions associated with higher ML/TF risk’ means countries that, based on an
 
@@ -215,9 +244,11 @@ strategic deficiencies in their AML/CFT regime, which pose a significant threat 
 
 Union’s financial system (Article 9 of Directive (EU) 2015/849).
 
+
   - ‘Occasional transaction’ means a transaction that is not carried out as part of a business
 
 relationship as defined in Article 3(13) of Directive (EU) 2015/849.
+
 
   - ‘Pooled account’ means a bank account opened by a customer, for example a legal
 
@@ -227,11 +258,13 @@ commingled, but clients will not be able directly to instruct the bank to carry 
 
 transactions.
 
+
   - ‘Risk’ means the impact and likelihood of ML/TF taking place. Risk refers to inherent risk,
 
 that is, the level of risk that exists before mitigation. It does not refer to residual risk, that
 
 is, the level of risk that remains after mitigation.
+
 
   - ‘Risk factors’ means variables that, either on their own or in combination, may increase or
 
@@ -239,11 +272,13 @@ decrease the ML/TF risk posed by an individual business relationship or occasion
 
 transaction.
 
+
   - ‘Risk-based approach’ means an approach whereby competent authorities and firms
 
 identify, assess and understand the ML/TF risks to which firms are exposed and take
 
 AML/CFT measures that are proportionate to those risks.
+
 
   - ‘Source of funds’ means the origin of the funds involved in a business relationship or
 
@@ -253,38 +288,44 @@ business relationship, for example the customer’s salary, as well as the means
 
 which the customer’s funds were transferred.
 
+
   - ‘Source of wealth’ means the origin of the customer’s total wealth, for example
 
 inheritance or savings.
 
+
 1 Article 4(2)(ii), Regulation (EU) No 1093/2010; Article 4(2)(ii), Regulation (EU) No 1094/2010; Article 4(3)(ii),
 Regulation (EU) No 1093/2010.
+
 
 4
 
 
+
 -----
 
-![The logo of the Joint Committee of the European Supervisory Authorities, presented as simple grey text on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a grey sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of EU stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with a modern blue geometric design above its stylized acronym.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
-eIOPa
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue with the acronym EBA in large white letters.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" on a wavy blue background and the full name "EUROPEAN BANKING AUTHORITY" on a solid blue background.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
 BANKING
 AUTHORITY](#)
+
 # Title II – Assessing and managing risk: eneral g
 
 9. These guidelines come in two parts. Title II is general and applies to all firms. Title III is
@@ -293,11 +334,14 @@ sector-specific. Title III is incomplete on its own and should be read in conjun
 
 Title II.
 
+
 10. Firms’ approach to assessing and managing the ML/TF risk associated with business
 
 relationships and occasional transactions should include the following:
 
+
   - Business-wide risk assessments.
+
 
 Business-wide risk assessments should help firms understand where they are exposed to
 
@@ -319,7 +363,9 @@ and that have limited or no international exposure may not need an overly comple
 
 sophisticated risk assessment.
 
+
   - Customer due diligence.
+
 
 Firms should use the findings from their business-wide risk assessment to inform their
 
@@ -327,11 +373,13 @@ decision on the appropriate level and type of CDD that they will apply to indivi
 
 business relationships and occasional transactions.
 
+
 Before entering into a business relationship or carrying out an occasional transaction,
 
 firms should apply initial CDD in line with Article 13(1)(a), (b) and (c) and Article 14(4) of
 
 Directive (EU) 2015/849. Initial CDD should include at least risk-sensitive measures to:
+
 
 i. identify the customer and, where applicable, the customer’s beneficial owner or legal
 
@@ -345,31 +393,33 @@ satisfied that it knows who the beneficial owner is; and
 
 iii. establish the purpose and intended nature of the business relationship.
 
+
 Firms should adjust the extent of initial CDD measures on a risk-sensitive basis.
 
 Where the risk associated with a business relationship is low, and to the extent
 
 permitted by national legislation, firms may be able to apply simplified customer due
 
+
 5
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as two lines of grey, uppercase, sans-serif text on a plain white background.
+![A grey text logo on a white background for the "Joint Committee of the European Supervisory Authorities". The text is in a sans-serif font, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features the acronym "esma" inside a circle of blue stars, while the EIOPA logo has a blue geometric design above its stylized acronym.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle featuring the acronym "EBA" in large white letters next to the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image is: The logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES".
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -381,7 +431,9 @@ diligence measures (SDD). Where the risk associated with a business relationship
 
 increased, firms must apply enhanced customer due diligence measures (EDD).
 
+
   - Obtaining a holistic view.
+
 
 Firms should gather sufficient information to be satisfied that they have identified all
 
@@ -395,7 +447,9 @@ factors listed in these guidelines are not exhaustive, and that there is no expe
 
 firms will consider all risk factors in all cases.
 
+
   - Monitoring and review.
+
 
 Firms must keep their risk assessment up to date and under review. [2] Firms must monitor
 
@@ -405,17 +459,24 @@ and, where necessary, examine the source of funds, to detect possible ML/TF. The
 
 also keep the documents, data or information they hold up to date, with a view to
 understanding whether the risk associated with the business relationship has changed. [3]
+
 ## Risk assessments: methodology and risk factors
+
 
 11. A risk assessment should consist of two distinct but related steps:
 
+
 a) the identification of ML/TF risk; and
 b) the assessment of ML/TF risk.
-### **Identifying ML/TF risk **
+
+
+**Identifying ML/TF risk**
+
 
 12. Firms should find out which ML/TF risks they are, or would be, exposed to as a result of
 
 entering into a business relationship or carrying out an occasional transaction.
+
 
 13. When identifying ML/TF risks associated with a business relationship or occasional
 
@@ -426,7 +487,10 @@ the countries or geographical areas they operate in, the particular products, se
 transactions the customer requires and the channels the firm uses to deliver these
 
 products, services and transactions.
-### Sources of information
+
+
+Sources of information
+
 
 14. Where possible, information about these ML/TF risk factors should come from a variety of
 
@@ -436,15 +500,18 @@ or databases that pool information from several sources. Firms should determine 
 
 and numbers of sources on a risk-sensitive basis.
 
+
 2 Article 8(2) of Directive (EU) 2015/849.
 3 Article 13(1)(d) of Directive (EU) 2015/849.
+
 
 6
 
 
+
 -----
 
-![This is a side-by-side display of the logos for two European financial authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features its acronym in a circle of EU stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features its acronym below a stylized blue cube with EU stars.
+![An image containing the logos of two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right.
 
 esma
 European Securities and
@@ -453,57 +520,74 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The blue logo features the acronym "EBA" in white sans-serif font.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is presented under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym EBA in large white letters on a blue, patterned background, with the full name written to its right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
 
 15. Firms should always consider the following sources of information:
 
+
   - the European Commission’s supranational risk assessment;
 
-![A gray, text-only logo for the Joint Committee of the European Supervisory Authorities, displayed in a sans-serif font on a plain white background.
-
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font, arranged in two lines on a plain white background.
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
+
 
   - information from government, such as the government’s national risk assessments,
 
 policy statements and alerts, and explanatory memorandums to relevant legislation;
 
+
   - information from regulators, such as guidance and the reasoning set out in regulatory
 
 fines;
+
 
   - information from Financial Intelligence Units (FIUs) and law enforcement agencies,
 
 such as threat reports, alerts and typologies; and
 
+
   - information obtained as part of the initial CDD process.
+
 
 16. Other sources of information firms may consider in this context may include, among others:
 
+
   - the firm’s own knowledge and professional expertise;
+
 
   - information from industry bodies, such as typologies and emerging risks;
 
+
   - information from civil society, such as corruption indices and country reports;
+
 
   - information from international standard-setting bodies such as mutual evaluation reports
 
 or legally non-binding blacklists;
 
+
   - information from credible and reliable open sources, such as reports in reputable
 
 newspapers;
+
 
   - information from credible and reliable commercial organisations, such as risk and
 
 intelligence reports; and
 
+
   - information from statistical organisations and academia.
-### Risk factors
+
+
+Risk factors
+
 
 17. Firms should note that the following risk factors are not exhaustive, nor is there an
 
@@ -514,37 +598,44 @@ view of the risk associated with the situation and note that, unless Directive (
 2015/849 or national legislation states otherwise, the presence of isolated risk factors
 
 does not necessarily move a relationship into a higher or lower risk category.
-### **Customer risk factors **
+
+
+**Customer risk factors**
+
 
 18. When identifying the risk associated with their customers, including their customers’
 
 beneficial owners, [4 ] firms should consider the risk related to:
 
+
 a) the customer’s and the customer’s beneficial owner’s business or professional
 activity;
+
 
 4 For guidance on risk factors associated with beneficiaries of life insurance policies, please refer to Title III,
 Chapter 7.
 
+
 7
+
 
 
 -----
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font in all caps on a plain white background.
+![A simple grey text logo on a white background for the "Joint Committee of the European Supervisory Authorities".
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym in blue surrounded by a circle of EU-style stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a modern blue geometric design above its stylized acronym.
+![A side-by-side display of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right.
 
-esma
-European Securities and Markets Authority
+esma European Securities and
+Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A concise summary of the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue and features the acronym "EBA" in large white letters over a wave pattern, next to the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image featuring the title "THE RISK FACTORS GUIDELINES" and the logo of the European Banking Authority (EBA).
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -553,9 +644,11 @@ EUROPEAN BANKING AUTHORITY](#)
 b) the customer’s and the customer’s beneficial owner’s reputation; and
 c) the customer’s and the customer’s beneficial owner’s nature and behaviour.
 
+
 19. Risk factors that may be relevant when considering the risk associated with a customer’s
 
 or a customer’s beneficial owner’s business or professional activity include:
+
 
   - Does the customer or beneficial owner have links to sectors that are commonly
 
@@ -565,19 +658,23 @@ healthcare, the arms trade and defence, the extractive industries or public
 
 procurement?
 
+
   - Does the customer or beneficial owner have links to sectors that are associated with
 
 higher ML/TF risk, for example certain Money Service Businesses, casinos or dealers in
 
 precious metals?
 
+
   - Does the customer or beneficial owner have links to sectors that involve significant
 
 amounts of cash?
 
+
   - Where the customer is a legal person or a legal arrangement, what is the purpose of
 
 their establishment? For example, what is the nature of their business?
+
 
   - Does the customer have political connections, for example, are they a Politically
 
@@ -593,6 +690,7 @@ PEP, firms must always apply EDD measures in line with Article 20 of Directive (
 
 2015/849.
 
+
   - Does the customer or beneficial owner hold another prominent position or enjoy a
 
 high public profile that might enable them to abuse this position for private gain? For
@@ -605,6 +703,7 @@ bodies or individuals who are known to influence the government and other senior
 
 decision-makers?
 
+
   - Is the customer a legal person subject to enforceable disclosure requirements that
 
 ensure that reliable information about the customer’s beneficial owner is publicly
@@ -612,6 +711,7 @@ ensure that reliable information about the customer’s beneficial owner is publ
 available, for example public companies listed on stock exchanges that make such
 
 disclosure a condition for listing?
+
 
   - Is the customer a credit or financial institution acting on its own account from a
 
@@ -623,25 +723,26 @@ supervisory sanctions or enforcement for failure to comply with AML/CFT obligati
 
 wider conduct requirements in recent years?
 
+
 8
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey, capitalized, sans-serif text on a white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif font and arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features the acronym in blue surrounded by a circle of blue stars. The EIOPA logo has a stylized blue cube with stars and its acronym below.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the heading "THE RISK FACTORS GUIDELINES". The blue logo features the acronym EBA in white letters next to the full name.
+![A concise summary of the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" displayed above it. The EBA logo is blue with its acronym in large white letters.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -649,9 +750,11 @@ EUROPEAN
 BANKING
 AUTHORITY](#)
 
+
   - Is the customer a public administration or enterprise from a jurisdiction with low
 
 levels of corruption?
+
 
   - Is the customer’s or the beneficial owner’s background consistent with what the firm
 
@@ -661,9 +764,11 @@ turnover, the source of funds and the customer’s or beneficial owner’s sourc
 
 wealth?
 
+
 20. The following risk factors may be relevant when considering the risk associated with a
 
 customer’s or beneficial owners’ reputation **:**
+
 
   - Are there adverse media reports or other relevant sources of information about the
 
@@ -679,6 +784,7 @@ considerations. Firms should note that the absence of criminal convictions alone
 
 be sufficient to dismiss allegations of wrongdoing.
 
+
   - Has the customer, beneficial owner or anyone publicly known to be closely associated
 
 with them had their assets frozen due to administrative or criminal proceedings or
@@ -691,15 +797,18 @@ closely associated with them has, at some point in the past, been subject to suc
 
 asset freeze?
 
+
   - Does the firm know if the customer or beneficial owner has been the subject of a
 
 suspicious transactions report in the past?
+
 
   - Does the firm have any in-house information about the customer’s or the beneficial
 
 owner’s integrity, obtained, for example, in the course of a long-standing business
 
 relationship?
+
 
 21. The following risk factors may be relevant when considering the risk associated with a
 
@@ -709,42 +818,46 @@ these risk factors will be apparent at the outset; they may emerge only once a b
 
 relationship has been established:
 
+
   - Does the customer have legitimate reasons for being unable to provide robust evidence
 
 of their identity, perhaps because they are an asylum seeker? [5]
+
 
   - Does the firm have any doubts about the veracity or accuracy of the customer’s or
 
 beneficial owner’s identity?
 
+
 5 The EBA has issued an ‘Opinion on the application of Customer Due Diligence Measures to customers who are
 asylum seekers from higher risk third countries or territories’, see [https://www.eba.europa.eu/documents/](https://www.eba.europa.eu/documents/%E2%80%8C10180/1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf)
-10180/1359456/EBA   - Op   - 2016   - [07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf](https://www.eba.europa.eu/documents/%E2%80%8C10180/1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf) .
+[10180/1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf.](https://www.eba.europa.eu/documents/%E2%80%8C10180/1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf)
+
 
 9
 
 
+
 -----
 
-![A concise summary of the image:
-The logo for the Joint Committee of the European Supervisory Authorities, displayed in grey sans-serif text on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, presented as grey text in a sans-serif font on a plain white background.
 
-Extracted text from the image:
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial supervisory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with a stylized blue cube graphic.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot of a document titled "THE RISK FACTORS GUIDELINES," featuring the logo of the European Banking Authority (EBA). The blue EBA logo displays the acronym "EBA" in large white letters on a patterned background, with the full name "EUROPEAN BANKING AUTHORITY" written to the right.
+![A concise summary of the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo is blue with an orange line, featuring the acronym EBA and the full name of the authority.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 
   - Are there indications that the customer might seek to avoid the establishment of a
 
@@ -754,21 +867,26 @@ transaction or several one-off transactions where the establishment of a busines
 
 relationship might make more economic sense?
 
+
   - Is the customer’s ownership and control structure transparent and does it make sense?
 
 If the customer’s ownership and control structure is complex or opaque, is there an
 
 obvious commercial or lawful rationale?
 
+
   - Does the customer issue bearer shares or does it have nominee shareholders?
+
 
   - Is the customer a legal person or arrangement that could be used as an asset-holding
 
 vehicle?
 
+
   - Is there a sound reason for changes in the customer’s ownership and control
 
 structure?
+
 
   - Does the customer request transactions that are complex, unusually or unexpectedly
 
@@ -780,11 +898,13 @@ the customer is trying to evade specific thresholds such as those set out in Art
 
 11(b) of Directive (EU) 2015/849 and national law where applicable?
 
+
   - Does the customer request unnecessary or unreasonable levels of secrecy? For
 
 example, is the customer reluctant to share CDD information, or do they appear to
 
 want to disguise the true nature of their business?
+
 
   - Can the customer’s or beneficial owner’s source of wealth or source of funds be easily
 
@@ -792,9 +912,11 @@ explained, for example through their occupation, inheritance or investments? Is 
 
 explanation plausible?
 
+
   - Does the customer use the products and services they have taken out as expected
 
 when the business relationship was first established?
+
 
   - Where the customer is a non-resident, could their needs be better serviced elsewhere? Is
 
@@ -807,40 +929,47 @@ creates a right for customers who are legally resident in the Union to obtain a 
 payment account, but this right applies only to the extent that credit institutions can
 comply with their AML/CFT obligations. [6]
 
+
   - Is the customer a non-profit organisation whose activities could be abused for terrorist
 
 financing purposes?
 
+
 6 See, in particular, Articles 1(7) and 16(4) of Directive 2014/92/EU.
+
 
 10
 
 
+
 -----
 
-![This is an image containing the logos of two European regulatory authorities, the European Securities and Markets Authority (ESMA) on the left and the European Insurance and Occupational Pensions Authority (EIOPA) on the right, displayed side-by-side on a white background.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+eiopa
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" in large white letters next to the full name of the organization.
+![A concise summary of the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA on a blue patterned background next to the full name on a solid blue background.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### **Countries and geographical areas **
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey text in a sans-serif font on a white background.
+**Countries and geographical areas**
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name of the organization in a simple, grey, sans-serif font on a white background.
+
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+
 
 22. When identifying the risk associated with countries and geographical areas, firms should
 
 consider the risk related to:
+
 
 a) the jurisdictions in which the customer and beneficial owner are based;
 b) the jurisdictions that are the customer’s and beneficial owner’s main places of
@@ -848,17 +977,20 @@ business; and
 c) the jurisdictions to which the customer and beneficial owner have relevant
 personal links.
 
+
 23. Firms should note that the nature and purpose of the business relationship will often
 
 determine the relative importance of individual country and geographical risk factors (see
 
 also paragraphs 36-38). For example:
 
+
   - Where the funds used in the business relationship have been generated abroad, the
 
 level of predicate offences to money laundering and the effectiveness of a country’s
 
 legal system will be particularly relevant.
+
 
   - Where funds are received from, or sent to, jurisdictions where groups committing
 
@@ -868,11 +1000,13 @@ this could be expected to or might give rise to suspicion, based on what the fir
 
 knows about the purpose and nature of the business relationship.
 
+
   - Where the customer is a credit or financial institution, firms should pay particular
 
 attention to the adequacy of the country’s AML/CFT regime and the effectiveness of
 
 AML/CFT supervision.
+
 
   - Where the customer is a legal vehicle or trust, firms should take into account the
 
@@ -882,9 +1016,11 @@ owner are registered effectively complies with international tax transparency
 
 standards.
 
+
 24. Risk factors firms should consider when identifying the effectiveness of a jurisdiction’s
 
 AML/CFT regime include:
+
 
   - Has the country been identified by the Commission as having strategic deficiencies in its
 
@@ -896,6 +1032,7 @@ Commission has identified as presenting a high ML/TF risk, firms must always app
 
 EDD measures. [7]
 
+
   - Is there information from more than one credible and reliable source about the
 
 quality of the jurisdiction’s AML/CFT controls, including information about the quality
@@ -904,32 +1041,36 @@ and effectiveness of regulatory enforcement and oversight? Examples of possible
 
 sources include mutual evaluation reports by the Financial Action Task Force (FATF) or
 
+
 7 Article 18(1) of Directive (EU) 2015/849.
+
 
 11
 
 
+
 -----
 
-![A minimalist text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, uppercase, sans-serif font on a white background.
+![A concise summary of the logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym "esma" inside a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue geometric shape above its acronym.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring a circle of stars, and the EIOPA logo is on the right with a blue geometric design.
 
 esma
 European Securities and Markets Authority
-eıopa
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, featured below the title "THE RISK FACTORS GUIDELINES". The blue logo includes the acronym "EBA" on a wavy background and the full name "EUROPEAN BANKING AUTHORITY" on a solid background, separated by an orange line.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 FATF-style Regional Bodies (FSRBs) (a good starting point is the executive summary
 
@@ -944,6 +1085,7 @@ the FATF or an FSRB (e.g. MoneyVal) does not, of itself, mean that the jurisdict
 
 AML/CFT regime is adequate and effective.
 
+
 Firms should note that Directive (EU) 2015/849 does not recognise the ‘equivalence’ of third
 
 countries and that EU Member States’ lists of equivalent jurisdictions are no longer being
@@ -952,9 +1094,11 @@ maintained. To the extent permitted by national legislation, firms should be abl
 
 lower risk jurisdictions in line with these guidelines and Annex II of Directive (EU) 2015/849.
 
+
 25. Risk factors firms should consider when identifying the level of terrorist financing risk
 
 associated with a jurisdiction include:
+
 
   - Is there information, for example from law enforcement or credible and reliable open
 
@@ -964,15 +1108,18 @@ activities or that groups committing terrorist offences are known to be operatin
 
 the country or territory?
 
+
   - Is the jurisdiction subject to financial sanctions, embargoes or measures that are
 
 related to terrorism, financing of terrorism or proliferation issued by, for example, the
 
 United Nations or the European Union ?
 
+
 26. Risk factors firms should consider when identifying a jurisdiction’s level of transparency
 
 and tax compliance include:
+
 
   - Is there information from more than one credible and reliable source that the country
 
@@ -996,45 +1143,48 @@ Immediate Outcomes 2 and 5 by the FATF or FSRBs; and IMF assessments (e.g. IMF
 
 staff assessments of offshore financial centres).
 
+
   - Has the jurisdiction committed to, and effectively implemented, the Common
 
 Reporting Standard on Automatic Exchange of Information, which the G20 adopted in
 
 2014?
 
+
   - Has the jurisdiction put in place reliable and accessible beneficial ownership
 
 registers?
 
+
 12
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as simple grey text on a white background.
+![A simple, text-only logo for the Joint Committee of the European Supervisory Authorities, displayed in a grey sans-serif font on a white background.
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
-
-![A horizontal image showing the logos of two European financial authorities on a white background. On the left is the ESMA (European Securities and Markets Authority) logo, featuring the acronym in blue surrounded by a circle of stars. On the right is the EIOPA (European Insurance and Occupational Pensions Authority) logo, with its acronym in a stylized black font below a blue, translucent geometric shape.
+![An image containing the logos of two European financial authorities: the European Securities and Markets Authority (ESMA) on the left and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. Both logos feature blue stars, symbolic of the European Union.
 
 esma
 European Securities and Markets Authority
-eıopa
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A header reading "THE RISK FACTORS GUIDELINES" above the official logo of the European Banking Authority (EBA). The blue logo features the white acronym "EBA" with a wave pattern, an orange vertical line, and the full name of the authority.
+![A concise summary of the image for retrieval:
+This image displays the title "THE RISK FACTORS GUIDELINES" above the official logo of the European Banking Authority (EBA). The logo features the acronym "EBA" in large white letters against a blue, wavy background, with the full name "EUROPEAN BANKING AUTHORITY" written to the right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 27. Risk factors firms should consider when identifying the risk associated with the level of
 
 predicate offences to money laundering include:
+
 
   - Is there information from credible and reliable public sources about the level of
 
@@ -1048,25 +1198,32 @@ implementation of the OECD’s anti-bribery convention; and the United Nations O
 
 Drugs and Crime World Drug Report.
 
+
   - Is there information from more than one credible and reliable source about the
 
 capacity of the jurisdiction’s investigative and judicial system effectively to investigate
 
 and prosecute these offences?
-### **Products, services and transactions risk factors **
+
+
+**Products, services and transactions risk factors**
+
 
 28. When identifying the risk associated with their products, services or transactions, firms
 
 should consider the risk related to:
+
 
 a) the level of transparency, or opaqueness, the product, service or transaction
 affords;
 b) the complexity of the product, service or transaction; and
 c) the value or size of the product, service or transaction.
 
+
 29. Risk factors that may be relevant when considering the risk associated with a product,
 
 service or transaction’s transparency include:
+
 
   - To what extent do products or services allow the customer or beneficial owner or
 
@@ -1080,15 +1237,18 @@ way as to take advantage of anonymity and allow dealings with shell companies or
 
 companies with nominee shareholders.
 
+
   - To what extent is it possible for a third party that is not part of the business relationship
 
 to give instructions, for example in the case of certain correspondent banking
 
 relationships?
 
+
 30. Risk factors that may be relevant when considering the risk associated with a product,
 
 service or transaction’s complexity include:
+
 
   - To what extent is the transaction complex and does it involve multiple parties or
 
@@ -1098,34 +1258,34 @@ Are transactions straightforward, for example are regular payments made into a p
 
 fund?
 
+
   - To what extent do products or services allow payments from third parties or accept
 
 overpayments where this is would not normally be expected? Where third party
 
+
 13
+
 
 
 -----
 
-![A minimalist grey text logo on a white background for the "Joint Committee of the European Supervisory Authorities".
+![A simple, grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a stylized blue cube graphic above the acronym "eiopa".
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the logo for the European Banking Authority (EBA) placed under the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with "EBA" in large white letters on the left and "EUROPEAN BANKING AUTHORITY" on the right, separated by an orange line.
+![A header that reads "THE RISK FACTORS GUIDELINES" is positioned above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 payments are expected, does the firm know the third party’s identity, for example is it a
 
@@ -1137,19 +1297,23 @@ that is subject to AML/CFT standards and oversight that are comparable to those
 
 required under Directive (EU) 2015/849?
 
+
   - Does the firm understand the risks associated with its new or innovative product or
 
 service, in particular where this involves the use of new technologies or payment
 
 methods?
 
+
 31. Risk factors that may be relevant when considering the risk associated with a product,
 
 service or transaction’s value or size include:
 
+
   - To what extent are products or services cash intensive, as are many payment services
 
 but also certain current accounts?
+
 
   - To what extent do products or services facilitate or encourage high-value transactions?
 
@@ -1157,25 +1321,31 @@ Are there any caps on transaction values or levels of premium that could limit t
 
 use of the product or service for ML/TF purposes?
 
-*Delivery channel risk factors*
+
+_Delivery channel risk factors_
+
 
 32. When identifying the risk associated with the way in which the customer obtains the
 
 products or services they require, firms should consider the risk related to:
 
+
 a) the extent to which the business relationship is conducted on a non-face-toface basis; and
 b) any introducers or intermediaries the firm might use and the nature of their
 relationship with the firm.
 
+
 33. When assessing the risk associated with the way in which the customer obtains the
 
 products or services, firms should consider a number of factors including:
+
 
   - Is the customer physically present for identification purposes? If they are not, has the
 
 firm used a reliable form of non-face-to-face CDD? Has it taken steps to prevent
 
 impersonation or identity fraud?
+
 
   - Has the customer been introduced by another part of the same financial group and, if so,
 
@@ -1187,6 +1357,7 @@ satisfy itself that the group entity applies CDD measures to European Economic A
 
 (EEA) standards in line with Article 28 of Directive (EU) 2015/849?
 
+
   - Has the customer been introduced by a third party, for example a bank that is not
 
 part of the same group, and is the third party a financial institution or is its main
@@ -1195,24 +1366,28 @@ business activity unrelated to financial service provision? What has the firm do
 
 satisfied that:
 
+
 14
+
 
 
 -----
 
-![A simple grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name in grey, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side comparison of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which features a stylized blue cube with stars above its name.
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of stars, while the EIOPA logo has a blue, geometric design.
 
 esma
-European Securities and Markets Authority
+European Securities and
+Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the logo for the European Banking Authority (EBA) underneath the title "THE RISK FACTORS GUIDELINES". The blue logo features the white acronym "EBA" with a wave-like pattern and the full name of the authority to its right.
+![A concise summary of the image shows the logo for the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue patterned background, with the full name to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -1232,6 +1407,7 @@ identification and verification data, inter alia in line with Article 27 of Dire
 
 iii. the quality of the third party’s CDD measures is such that it can be relied upon?
 
+
   - Has the customer been introduced through a tied agent, that is, without direct firm
 
 contact? To what extent can the firm be satisfied that the agent has obtained enough
@@ -1240,13 +1416,16 @@ information so that the firm knows its customer and the level of risk associated
 
 the business relationship?
 
+
   - If independent or tied agents are used, to what extent are they involved on an ongoing
 
 basis in the conduct of business? How does this affect the firm’s knowledge of the
 
 customer and ongoing risk management?
 
+
   - Where a firm uses an intermediary:
+
 
 i. Are they a regulated person subject to AML obligations that are consistent with those
 
@@ -1271,7 +1450,10 @@ extent permitted by national legislation, reliance may be possible provided that
 intermediary is a branch or majority-owned subsidiary of another firm established in
 
 the Union, and the firm is confident that the intermediary fully complies with groupwide policies and procedures in line with Article 45 of Directive (EU) 2015/849. [8]
-### **Assessing ML/TF risk **
+
+
+**Assessing ML/TF risk**
+
 
 34. Firms should take a holistic view of the ML/TF risk factors they have identified that,
 
@@ -1279,37 +1461,46 @@ together, will determine the level of ML/TF risk associated with a business rela
 
 occasional transaction.
 
+
 35. As part of this assessment, firms may decide to weigh factors differently depending on
 
 their relative importance.
 
+
 8 Article 26(2) of Directive (EU) 2015/849.
+
 
 15
 
 
+
 -----
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the image for retrieval:
+The logo for the European Banking Authority (EBA) is displayed under the heading "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue background with a wave pattern.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### Weighting risk factors
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey text on a white background.
+Weighting risk factors
+
+![A simple logo for the Joint Committee of the European Supervisory Authorities, featuring grey text on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities side by side. On the left is the logo for esma, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for eiopa, the European Insurance and Occupational Pensions Authority, which includes a blue, stylized geometric graphic.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
 
 36. When weighting risk factors, firms should make an informed judgement about the
 
@@ -1321,19 +1512,24 @@ example, firms may decide that a customer’s personal links to a jurisdiction a
 
 with higher ML/TF risk is less relevant in light of the features of the product they seek.
 
+
 37. Ultimately, the weight given to each of these factors is likely to vary from product to
 
 product and customer to customer (or category of customer) and from one firm to another.
 
 When weighting risk factors, firms should ensure that:
 
+
   - weighting is not unduly influenced by just one factor;
 
+
   - economic or profit considerations do not influence the risk rating;
+
 
   - weighting does not lead to a situation where it is impossible for any business
 
 relationship to be classified as high risk;
+
 
   - the provisions of Directive (EU) 2015/849 or national legislation regarding situations
 
@@ -1341,11 +1537,13 @@ that always present a high money laundering risk cannot be over-ruled by the fir
 
 weighting; and
 
+
   - they are able to over-ride any automatically generated risk scores where necessary.
 
 The rationale for the decision to over-ride such scores should be documented
 
 appropriately.
+
 
 38. Where a firm uses automated IT systems to allocate overall risk scores to categorise
 
@@ -1358,11 +1556,15 @@ and how it combines risk factors to achieve an overall risk score. A firm must a
 able to satisfy itself that the scores allocated reflect the firm’s understanding of ML/TF
 
 risk and it should be able to demonstrate this to the competent authority.
-### Categorising business relationships and occasional transactions
+
+
+Categorising business relationships and occasional transactions
+
 
 39. Following its risk assessment, a firm should categorise its business relationships and
 
 occasional transactions according to the perceived level of ML/TF risk.
+
 
 40. Firms should decide on the most appropriate way to categorise risk. This will depend on
 
@@ -1372,31 +1574,33 @@ Although firms often categorise risk as high, medium and low, other categorisati
 
 possible.
 
+
 16
+
 
 
 -----
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is grey, in an uppercase, sans-serif font, set against a plain white background.
+![A concise summary of the image for retrieval:
+The logo for the Joint Committee of the European Supervisory Authorities, presented in grey, uppercase, sans-serif text on a white background.
 
+Extracted text from the image:
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![A horizontal banner featuring the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, which shows the acronym "esma" within a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which displays a stylized blue cube with stars above the acronym "eiopa".
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the European Banking Authority (EBA) logo, a blue rectangular design with white text, positioned below the title "THE RISK FACTORS GUIDELINES".
+![This is the logo of the European Banking Authority (EBA) underneath the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 ## Risk management: simplified and enhanced customer due diligence
 
 41. A firm’s risk assessment should help it identify where it should focus its AML/CFT risk
@@ -1405,6 +1609,7 @@ management efforts, both at customer take-on and for the duration of the busines
 
 relationship.
 
+
 42. As part of this, firms must apply each of the CDD measures set out in Article 13(1) of
 
 Directive (EU) 2015/849 but may determine the extent of these measures on a risk
@@ -1412,12 +1617,16 @@ sensitive basis. CDD measures should help firms better understand the risk assoc
 
 with individual business relationships or occasional transactions.
 
+
 43. Article 13(4) of Directive (EU) 2015/849 requires firms to be able to demonstrate to their
 
 competent authority that the CDD measures they have applied are commensurate to the
 
 ML/TF risks.
-### **Simplified customer due diligence **
+
+
+**Simplified customer due diligence**
+
 
 44. To the extent permitted by national legislation, firms may apply SDD measures in
 
@@ -1429,11 +1638,14 @@ adjust the amount, timing or type of each or all of the CDD measures in a way th
 
 commensurate to the low risk they have identified.
 
+
 45. SDD measures firms may apply include but are not limited to:
+
 
   - adjusting the timing of CDD, for example where the product or transaction sought has
 
 features that limit its use for ML/TF purposes, for example by:
+
 
 i. verifying the customer’s or beneficial owner’s identity during the establishment of the
 
@@ -1444,6 +1656,7 @@ ii. verifying the customer’s or beneficial owner’s identity once transaction
 defined threshold or once a reasonable time limit has lapsed. Firms must make sure
 
 that:
+
 
 a) this does not result in a de facto exemption from CDD, that is, firms must
 ensure that the customer’s or beneficial owner’s identity will ultimately be
@@ -1459,36 +1672,39 @@ or provisions in national legislation, require that this information be obtained
 
 at the outset.
 
+
 17
+
 
 
 -----
 
-![A concise summary of the image:
-The logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font on a white background.
+![The logo of the Joint Committee of the European Supervisory Authorities in grey, sans-serif text on a white background.
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-Extracted text from the image:
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
-
-![An image displaying the logos of the European Securities and Markets Authority (esma) and the European Insurance and Occupational Pensions Authority (eiopa) side-by-side on a white background. The esma logo features its name in blue surrounded by a circle of EU-style stars. The eiopa logo has a blue, geometric cube design with stars above its name.
+![A side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of European Union stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym in a stylized black font above a blue, translucent, 3D cube-like graphic also containing EU stars.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the white acronym "EBA" with a wavy pattern on the left, separated by a thin orange line from the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the image for retrieval:
+The image displays the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle featuring the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to its right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 
   - adjusting the quantity of information obtained for identification, verification or
 
 monitoring purposes, for example by:
+
 
 i. verifying identity on the basis of information obtained from one reliable, credible
 
@@ -1500,9 +1716,11 @@ is designed for one particular use only, such as a company pension scheme or a
 
 shopping centre gift card.
 
+
   - adjusting the quality or source of information obtained for identification, verification or
 
 monitoring purposes, for example by:
+
 
 i. accepting information obtained from the customer rather than an independent
 
@@ -1518,15 +1736,17 @@ funds are state benefit payments or where the funds have been transferred from a
 
 account in the customer’s name at an EEA firm.
 
+
   - adjusting the frequency of CDD updates and reviews of the business relationship, for
 
 example carrying these out only when trigger events occur such as the customer
 
 looking to take out a new product or service or when a certain transaction threshold is
 
-reached; firms must make sure that this does not result in a *de facto* exemption from
+reached; firms must make sure that this does not result in a _de facto_ exemption from
 
 keeping CDD information up-to-date.
+
 
   - adjusting the frequency and intensity of transaction monitoring, for example by
 
@@ -1538,9 +1758,11 @@ have systems in place to identify linked transactions that, together, would exce
 
 that threshold.
 
+
 46. Title III lists additional SDD measures that may be of particular relevance in different
 
 sectors.
+
 
 47. The information a firm obtains when applying SDD measures must enable the firm to be
 
@@ -1552,30 +1774,39 @@ nature of the business relationship to identify any unusual or suspicious transa
 
 does not exempt an institution from reporting suspicious transactions to the FIU.
 
+
 48. Where there are indications that the risk may not be low, for example where there are
 
 grounds to suspect that ML/TF is being attempted or where the firm has doubts about the
 veracity of the information obtained, SDD must not be applied. [9 ] Equally, where specific
 
+
 9 Article 11(e) and (f) and Article 15(2) of Directive (EU) 2015/849.
+
 
 18
 
 
+
 -----
 
-![This is the gray text-only logo of the Joint Committee of the European Supervisory Authorities on a white background. The text is in a simple, all-caps, sans-serif font.
+![A gray text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), featuring a blue stylized cube.
+![A side-by-side image of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, and the EIOPA logo is on the right.
 
-esma European Securities and Markets Authority
-eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma
+European Securities and Markets Authority
+eiopa
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A concise summary of the logo for the European Banking Authority (EBA) shown below the title "THE RISK FACTORS GUIDELINES". The blue logo features the white acronym "EBA" with a wave pattern and the full name to the right.
+![A concise summary of the image for retrieval:
+This image displays the logo of the European Banking Authority (EBA) underneath the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in white, next to the full name of the authority.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
@@ -1585,14 +1816,19 @@ AUTHORITY](#)
 high-risk scenarios apply and there is an obligation to conduct EDD, SDD must not be
 
 applied.
-### **Enhanced customer due diligence **
+
+
+**Enhanced customer due diligence**
+
 
 49. Firms must apply EDD measures in higher risk situations to manage and mitigate those
 risks appropriately. [10 ] EDD measures cannot be substituted for regular CDD measures but
 
 must be applied in addition to regular CDD measures.
 
+
 50. Directive (EU) 2015/849 lists specific cases that firms must always treat as high risk:
+
 
 i. where the customer, or the customer’s beneficial owner, is a PEP; [11]
 
@@ -1607,7 +1843,9 @@ countries; [13] and
 iv. all complex and unusually large transactions, or unusual patterns of transactions, that have
 no obvious economic or lawful purpose. [14]
 
+
 51. Directive (EU) 2015/849 sets out specific EDD measures that firms must apply:
+
 
 i. where the customer, or the customer’s beneficial owner, is a PEP;
 
@@ -1617,12 +1855,17 @@ iii. with respect to all complex and unusually large transactions, or unusual pa
 
 transactions, that have no obvious economic or lawful purpose.
 
+
 Firms should apply additional EDD measures in those situations where this is commensurate
 
 to the ML/TF risk they have identified.
-### Politically Exposed Persons
+
+
+Politically Exposed Persons
+
 
 52. Firms that have identified that a customer or beneficial owner is a PEP must always:
+
 
   - Take adequate measures to establish the source of wealth and the source of funds to be
 
@@ -1640,38 +1883,42 @@ independent data, documents or information where the risk associated with the PE
 
 relationship is particularly high.
 
+
 10 Articles 18-24 of Directive (EU) 2015/849.
 11 Articles 20-24 of Directive (EU) 2015/849.
 12 Article 19 of Directive (EU) 2015/849.
 13 Article 18(1) of Directive (EU) 2015/849.
 14 Article 18(2) of Directive (EU) 2015/849.
 
+
 19
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, sans-serif text on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo features the acronym in blue lowercase letters surrounded by a circle of blue EU stars. The EIOPA logo consists of a stylized blue cube with EU stars above the acronym "EIOPA" in a modern black font.
+![A side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a stylized blue cube design.
 
 esma
 European Securities and
 Markets Authority
-EIOPA
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header for a document or presentation titled "THE RISK FACTORS GUIDELINES", featuring the logo of the EBA (European Banking Authority). The logo is blue with the white acronym "EBA" and the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image shows the logo for the European Banking Authority (EBA) under the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
 BANKING
 AUTHORITY](#)
+
 
   - Obtain senior management approval for entering into, or continuing, a business
 
@@ -1685,6 +1932,7 @@ seniority and oversight to take informed decisions on issues that directly impac
 
 firm’s risk profile.
 
+
   - When considering whether to approve a PEP relationship, senior management should
 
 base their decision on the level of ML/TF risk the firm would be exposed to if it
@@ -1692,6 +1940,7 @@ base their decision on the level of ML/TF risk the firm would be exposed to if i
 entered into that business relationship and how well equipped the firm is to manage
 
 that risk effectively.
+
 
   - Apply enhanced ongoing monitoring of both transactions and the risk associated with
 
@@ -1705,29 +1954,39 @@ ongoing monitoring should be determined by the level of high risk associated wit
 
 relationship.
 
+
 53. Firms must apply all of these measures to PEPs, their family members and known close
 associates and should adjust the extent of these measures on a risk-sensitive basis. [15]
-### Correspondent relationships
+
+
+Correspondent relationships
+
 
 54. Firms must take specific EDD measures where they have a cross-border correspondent
 relationship with a respondent who is based in a third country. [16 ] Firms must apply all of
 
 these measures and should adjust the extent of these measures on a risk-sensitive basis.
 
+
 55. Firms should refer to Title III for guidelines on EDD in relation to correspondent banking
 
 relationships; these guidelines may also be useful for firms in other correspondent
 
 relationships.
-### Unusual transactions
+
+
+Unusual transactions
+
 
 56. Firms should put in place adequate policies and procedures to detect unusual transactions
 
 or patterns of transactions. Where a firm detects transactions that are unusual because:
 
+
   - they are larger than what the firm would normally expect based on its knowledge of
 
 the customer, the business relationship or the category to which the customer belongs;
+
 
   - they have an unusual or unexpected pattern compared with the customer’s normal
 
@@ -1735,41 +1994,50 @@ activity or the pattern of transactions associated with similar customers, produ
 
 services; or
 
+
 15 Article 20(b) of Directive (EU) 2015/849.
 16 Article 19 of Directive (EU) 2015/849.
+
 
 20
 
 
+
 -----
 
-![A minimalist text logo for the Joint Committee of the European Supervisory Authorities. The name is presented in a simple, grey, sans-serif, all-caps font on a white background, arranged in two lines.
+![A simple logo for the Joint Committee of the European Supervisory Authorities, featuring grey, uppercase, sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features its acronym in blue text surrounded by a circle of blue stars, while the EIOPA logo has a stylized blue cube with stars above its acronym and full name.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma European Securities and Markets Authority
-eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma
+European Securities and Markets Authority
+eiopa
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The logo is a blue rectangle with the acronym "EBA" in white on the left side, which has a wavy line pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue background with a wavy pattern, and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
 
+
   - they are very complex compared with other, similar, transactions associated with
 
 similar customer types, products or services,
+
 
 and the firm is not aware of an economic rationale or lawful purpose or doubts the
 
 veracity of the information it has been given, it must apply EDD measures.
 
+
 57. These EDD measures should be sufficient to help the firm determine whether these
 
 transactions give rise to suspicion and must at least include:
+
 
   - taking reasonable and adequate measures to understand the background and
 
@@ -1779,12 +2047,16 @@ the funds or finding out more about the customer’s business to ascertain the
 
 likelihood of the customer making such transactions; and
 
+
   - monitoring the business relationship and subsequent transactions more frequently
 
 and with greater attention to detail. A firm may decide to monitor individual
 
 transactions where this is commensurate to the risk it has identified.
-### High-risk third countries and other high-risk situations
+
+
+High-risk third countries and other high-risk situations
+
 
 58. When dealing with natural persons or legal persons established or residing in a high-risk
 third country identified by the Commission [17 ] and in all other high-risk situations, firms
@@ -1797,15 +2069,19 @@ information sought, and of the increased monitoring carried out, will depend on 
 
 reason why an occasional transaction or a business relationship was classified as high risk.
 
+
 59. Firms are not required to apply all the EDD measures listed below in all cases. For example,
 
 in certain high-risk situations it may be appropriate to focus on enhanced ongoing
 
 monitoring during the course of the business relationship.
 
+
 60. EDD measures firms should apply may include:
 
+
   - Increasing the quantity of information obtained for CDD purposes:
+
 
 i. Information about the customer’s or beneficial owner’s identity, or the customer’s
 
@@ -1827,31 +2103,35 @@ ii. Information about the intended nature of the business relationship to ascert
 
 the nature and purpose of the business relationship is legitimate and to help firms
 
+
 17 Article 9 of Directive (EU) 2015/849.
+
 
 21
 
 
+
 -----
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font in all caps on a white background.
+![A logo of the Joint Committee of the European Supervisory Authorities, presented as grey text on a white background. The text is in a sans-serif font and arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue EU stars around the acronym "esma". The EIOPA logo features a stylized blue cube with EU stars and the acronym "eiopa" below it.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring the acronym "esma" inside a circle of blue stars. The EIOPA logo is on the right, with a stylized blue cube graphic above the acronym "eiopa".
 
-esma European Securities and
-Markets Authority
+esma
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the title "THE RISK FACTORS GUIDELINES" and the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle with "EBA" in large white letters on the left and "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the image shows the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The logo is a blue rectangle with the white acronym "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 obtain a more complete customer risk profile. This may include obtaining information
 
@@ -1867,9 +2147,11 @@ c. the destination of funds;
 d. the nature of the customer’s or beneficial owner’s business, to enable the firm to
 better understand the likely nature of the business relationship.
 
+
   - Increasing the quality of information obtained for CDD purposes to confirm the
 
 customer’s or beneficial owner’s identity including by:
+
 
 i. requiring the first payment to be carried out through an account verifiably in the
 
@@ -1893,6 +2175,7 @@ verified, inter alia, by reference to VAT and income tax returns, copies of audi
 
 accounts, pay slips, public deeds or independent media reports.
 
+
   - Increasing the frequency of reviews to be satisfied that the firm continues to be able to
 
 manage the risk associated with the individual business relationship or conclude that
@@ -1900,6 +2183,7 @@ manage the risk associated with the individual business relationship or conclude
 the relationship no longer corresponds to the firm’s risk appetite and to help identify
 
 any transactions that require further review, including by:
+
 
 i. increasing the frequency of reviews of the business relationship to ascertain whether
 
@@ -1927,27 +2211,30 @@ include establishing the destination of funds or ascertaining the reason for cer
 
 transactions.
 
+
 22
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey, uppercase, sans-serif text on a white background.
+![A simple, text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars around the acronym "esma". The EIOPA logo has a blue, abstract cube design above the stylized acronym "eiopa".
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of stars around the acronym. The EIOPA logo is a stylized blue cube with stars above the acronym.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo for the European Banking Authority (EBA) shown below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" and the full name "EUROPEAN BANKING AUTHORITY" to its right, separated by a thin orange line.
+![A concise summary of the image for retrieval:
+This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA in large white letters on a blue background with a wave pattern.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
@@ -1955,7 +2242,10 @@ EUROPEAN BANKING AUTHORITY](#)
 61. Title III lists additional EDD measures that may be of particular relevance in different
 
 sectors.
-### Other considerations
+
+
+Other considerations
+
 
 62. Firms should not enter into a business relationship if they are unable to comply with their
 
@@ -1969,9 +2259,11 @@ already exists, firms should terminate it or suspend transactions until it can b
 
 terminated, subject to instructions from law enforcement, where applicable.
 
+
 63. Where firms have reasonable grounds to suspect that ML/TF is being attempted, firms
 
 must report this to their FIU.
+
 
 64. Firms should note that the application of a risk-based approach does not of itself require
 
@@ -1980,7 +2272,13 @@ them to refuse, or terminate, business relationships with entire categories of c
 that they associate with higher ML/TF risk, as the risk associated with individual business
 
 relationships will vary, even within one category.
-### **Monitoring and review ** Risk assessment
+
+
+**Monitoring and review**
+
+
+Risk assessment
+
 
 65. Firms should keep their assessments of the ML/TF risk associated with individual business
 
@@ -1992,6 +2290,7 @@ assess information obtained as part of their ongoing monitoring of a business re
 
 and consider whether this affects the risk assessment.
 
+
 66. Firms should also ensure that they have systems and controls in place to identify
 
 emerging ML/TF risks and that they can assess these risks and, where appropriate,
@@ -2000,9 +2299,11 @@ incorporate them into their business-wide and individual risk assessments in a t
 
 manner.
 
+
 67. Examples of systems and controls firms should put in place to identify emerging risks
 
 include:
+
 
   - Processes to ensure that internal information is reviewed regularly to identify trends
 
@@ -2010,30 +2311,32 @@ and emerging issues, in relation to both individual business relationships and t
 
 firm’s business.
 
+
   - Processes to ensure that the firm regularly reviews relevant information sources such as
 
 those specified in paragraphs 15 and 16 of these guidelines. This should involve, in
 
 particular:
 
+
 23
+
 
 
 -----
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, uppercase, sans-serif font on a white background, split across two lines.
+![A simple logo for the Joint Committee of the European Supervisory Authorities, featuring the name in gray sans-serif text on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features the acronym in blue lowercase letters surrounded by a circle of blue stars, similar to the EU flag. The EIOPA logo includes a stylized blue cube with EU stars and the acronym in a black, modern font.
+![A side-by-side comparison of the logos for two European financial authorities: the European Securities and Markets Authority (ESMA) on the left and the European Insurance and Occupational Pensions Authority (EIOPA) on the right.
 
 esma
 European Securities and Markets Authority
-eIopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+eiopa
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the logo for the European Banking Authority (EBA) beneath the title "THE RISK FACTORS GUIDELINES" on a white background. The logo is a blue rectangle with the white acronym "EBA" on the left over a wave pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the logo of the European Banking Authority (EBA) under the title "The Risk Factors Guidelines".
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -2055,7 +2358,9 @@ iv. regularly reviewing thematic reviews and similar publications issued by comp
 
 authorities.
 
+
   - Processes to capture and review information on risks relating to new products.
+
 
   - Engagement with other industry representatives and competent authorities (e.g. round
 
@@ -2063,13 +2368,16 @@ tables, conferences and training providers), and processes to feed back any find
 
 to relevant staff.
 
+
   - Establishing a culture of information sharing within the firm and strong company
 
 ethics.
 
+
 68. Examples of systems and controls firms should put in place to ensure their individual and
 
 business-wide risk assessments remains up to date may include:
+
 
   - Setting a date on which the next risk assessment update will take place, for example on
 
@@ -2079,25 +2387,33 @@ Where the firm is aware that a new risk has emerged, or an existing one has incr
 
 this should be reflected in risk assessments as soon as possible.
 
+
   - Carefully recording issues throughout the year that could have a bearing on risk
 
 assessments, such as internal suspicious transaction reports, compliance failures and
 
 intelligence from front office staff.
 
+
 69. Like the original risk assessments, any update to a risk assessment and adjustment of
 
 accompanying CDD measures should be proportionate and commensurate to the ML/TF
 
 risk.
-### Systems and controls
+
+
+Systems and controls
+
 
 70. Firms should take steps to ensure that their risk management systems and controls, in
 
 particular those relating to the application of the right level of CDD measures, are effective
 
 and proportionate.
-### Record keeping
+
+
+Record keeping
+
 
 71. Firms should record and document their risk assessments of business relationships, as
 
@@ -2107,20 +2423,22 @@ ensure that they can demonstrate to the competent authorities that their risk as
 
 and associated risk management measures are adequate.
 
+
 24
+
 
 
 -----
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font on a white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
 25
 
 
-![This is a side-by-side comparison of the logos for two European financial authorities. On the left is the blue logo for ESMA, the European Securities and Markets Authority, with a circle of stars. On the right is the blue and black logo for EIOPA, the European Insurance and Occupational Pensions Authority.
+
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring the acronym "esma" inside a circle of stars. The EIOPA logo is on the right, with a blue, abstract design above the acronym "eiopa".
 
 esma
 European Securities and Markets Authority
@@ -2128,7 +2446,7 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) displayed below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym EBA in large white letters on the left and the full name on the right.
+![A concise summary of the image shows the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the acronym "EBA" in large white letters on the left with a wavy pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -2136,29 +2454,31 @@ EUROPEAN BANKING AUTHORITY](#)
 
 -----
 
-![A minimalist text logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text on a white background.
+![A gray text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
+![A composite image displaying the logos of two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of European stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym in a stylized black font below a blue, abstract, cube-like graphic containing European stars.
 
 esma
-European Securities and Markets Authority
-eıopa
+European Securities and
+Markets Authority
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the EBA, the European Banking Authority. The logo is blue and features the acronym "EBA" in large white letters.
+![A concise summary of the logo for the European Banking Authority (EBA) under the heading "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue patterned background, next to the full name "EUROPEAN BANKING AUTHORITY".
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 # Title III – Sector-s ecific uidelines p g
 
 72. The sector-specific guidelines in Title III complement the general guidance in Title II of
 
 these guidelines. They should be read in conjunction with Title II of these guidelines.
+
 
 73. The risk factors described in each chapter of Title III are not exhaustive. Firms should take a
 
@@ -2167,6 +2487,7 @@ holistic view of the risk associated with the situation and note that isolated r
 not necessarily move a business relationship or occasional transaction into a higher or
 
 lower risk category.
+
 
 74. Each chapter in Title III also sets out examples of the CDD measures firms should apply on a
 
@@ -2178,31 +2499,36 @@ appropriate CDD measures in line with the level and type of ML/TF risk they have
 
 identified.
 
+
 26
+
 
 
 -----
 
-![A minimalist, grey text logo for the Joint Committee of the European Supervisory Authorities on a plain white background. The text is written in a sans-serif font and is split into two lines.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, all-caps font on a plain white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym below a blue abstract graphic.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma European Securities and
-Markets Authority
+esma
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the logo for the European Banking Authority (EBA) underneath the title "THE RISK FACTORS GUIDELINES". The blue logo features the acronym EBA in large white letters next to its full name.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" on a blue wavy background and the full name on a solid blue background.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
 BANKING
 AUTHORITY](#)
+
 ## Chapter 1: Sectoral guidelines for correspondent banks
 
 75. This chapter provides guidelines on correspondent banking as defined in Article 3(8)(a) of
@@ -2210,6 +2536,7 @@ AUTHORITY](#)
 Directive (EU) 2015/849. Firms offering other correspondent relationships as defined in
 
 Article 3(8)(b) of Directive (EU) 2015/849 should apply these guidelines as appropriate.
+
 
 76. In a correspondent banking relationship, the correspondent provides banking services to
 
@@ -2223,12 +2550,20 @@ or purpose of the underlying transaction, unless this information is included in
 
 payment instruction.
 
+
 77. Banks should consider the following risk factors and measures alongside those set out in
 
 Title II of these guidelines.
-### **Risk factors ** Product, service and transaction risk factors
+
+
+**Risk factors**
+
+
+Product, service and transaction risk factors
+
 
 78. The following factors may contribute to increasing risk:
+
 
   - The account can be used by other respondent banks that have a direct relationship
 
@@ -2238,9 +2573,11 @@ clearing), which means that the correspondent is indirectly providing services t
 
 banks that are not the respondent.
 
+
   - The account can be used by other entities within the respondent’s group that have not
 
 themselves been subject to the correspondent’s due diligence.
+
 
   - The service includes the opening of a payable-through account, which allows the
 
@@ -2248,13 +2585,16 @@ respondent’s customers to carry out transactions directly on the account of th
 
 respondent.
 
+
 79. The following factors may contribute to reducing risk:
+
 
   - The relationship is limited to a SWIFT RMA capability, which is designed to manage
 
 communications between financial institutions. In a SWIFT RMA relationship, the
 
 respondent, or counterparty, does not have a payment account relationship.
+
 
   - Banks are acting in a principal-to-principal capacity, rather than processing transactions
 
@@ -2268,38 +2608,45 @@ payment to a third party. In those cases, the transaction is for the own account
 
 respondent bank.
 
+
 27
+
 
 
 -----
 
-![This is a minimalist text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, grey, sans-serif font, centered in two lines on a plain white background.
+![A logo of the Joint Committee of the European Supervisory Authorities in gray text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars, while the EIOPA logo has a modern blue geometric design.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos incorporate the European Union's circle of stars emblem.
 
 esma
-European Securities and Markets Authority
+European Securities and
+Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white acronym "EBA" on the left and the full name on the right.
+![A concise summary of the image shows the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA).
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 
   - The transaction relates to the selling, buying or pledging of securities on regulated
 
 markets, for example when acting as or using a custodian with direct access, usually
 
 through a local participant, to an EU or non-EU securities settlement system.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 80. The following factors may contribute to increasing risk:
+
 
   - The respondent’s AML/CFT policies and the systems and controls the respondent has in
 
@@ -2307,13 +2654,16 @@ place to implement them fall short of the standards required by Directive (EU)
 
 2015/849.
 
+
   - The respondent is not subject to adequate AML/CFT supervision.
+
 
   - The respondent, its parent or a firm belonging to the same group as the respondent
 
 has recently been the subject of regulatory enforcement for inadequate AML/CFT
 
 policies and procedures and/or breaches of AML/CFT obligations.
+
 
   - The respondent conducts significant business with sectors that are associated with
 
@@ -2324,6 +2674,7 @@ remittance business or business on behalf of certain money remitters or exchange
 houses, with non-residents or in a currency other than that of the country in which it is
 
 based.
+
 
   - The respondent’s management or ownership includes PEPs, in particular where a PEP
 
@@ -2337,6 +2688,7 @@ ML/TF risk. Firms should pay particular attention to those jurisdictions where
 
 corruption is perceived to be systemic or widespread.
 
+
   - The history of the business relationship with the respondent gives rise to concern, for
 
 example because the amount of transactions are not in line with what the
@@ -2345,32 +2697,40 @@ correspondent would expect based on its knowledge of the nature and size of the
 
 respondent.
 
+
 81. The following factors may contribute to reducing risk: The correspondent is satisfied that:
+
 
   - the respondent’s AML/CFT controls are not less robust than those required by
 
 Directive (EU) 2015/849;
+
 
   - the respondent is part of the same group as the correspondent, is not based in a
 
 jurisdiction associated with higher ML/TF risk and complies effectively with group AML
 
 standards that are not less strict than those required by Directive (EU) 2015/849.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 82. The following factors may contribute to increasing risk:
+
 
 28
 
 
+
 -----
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, all-caps font on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars, and the EIOPA logo has a blue geometric design.
+![A side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its name and a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with its stylized name and a blue, geometric design incorporating the EU stars.
 
 esma
 European Securities and Markets Authority
@@ -2378,15 +2738,17 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the logo for the European Banking Authority (EBA) under the heading "THE RISK FACTORS GUIDELINES." The logo is blue and features the acronym "EBA" in large white letters next to the full name of the organization.
+![A concise summary of the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA in large white letters on a blue patterned background, next to the full name in a solid blue box.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
 
+
   - The respondent is based in a jurisdiction associated with higher ML/TF risk. Firms
 
 should pay particular attention to those jurisdictions
+
 
 i. with significant levels of corruption and/or other predicate offences to money
 
@@ -2398,17 +2760,22 @@ those offences; or
 
 iii. without effective AML/CFT supervision. [18]
 
+
   - The respondent conducts significant business with customers based in a jurisdiction
 
 associated with higher ML/TF risk.
+
 
   - The respondent’s parent is headquartered or is incorporated in a jurisdiction
 
 associated with higher ML/TF risk.
 
+
 83. The following factors may contribute to reducing risk:
 
+
   - The respondent is based in an EEA member country.
+
 
   - The respondent is based in a third country that has AML/CFT requirements not less
 
@@ -2417,10 +2784,14 @@ robust than those required by Directive (EU) 2015/849 and effectively implements
 those requirements (although correspondents should note that this does not exempt
 
 them from applying EDD measures set out in Article 19 of Directive (EU) 2015/849).
-### **Measures **
+
+
+**Measures**
+
 
 84. All correspondents must carry out CDD on the respondent, who is the correspondent’s
 customer, on a risk-sensitive basis. [19 ] This means that correspondents must:
+
 
   - Identify, and verify the identity of, the respondent and its beneficial owner. As part of
 
@@ -2429,6 +2800,7 @@ this, correspondents should obtain sufficient information about the respondent�
 business and reputation to establish that the money-laundering risk associated with
 
 the respondent is not increased. In particular, correspondents should:
+
 
 i. obtain information about the respondent’s management and consider the
 
@@ -2448,20 +2820,22 @@ respondent is a branch, subsidiary or affiliate, correspondents should also cons
 
 status, reputation and AML controls of the parent.
 
+
 18 See also Title II, paragraphs 22-27.
 19 Article 13 of Directive (EU) 2015/849.
+
 
 29
 
 
+
 -----
 
-![The logo of the Joint Committee of the European Supervisory Authorities, presented in plain grey text on a white background.
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background, arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side. The ESMA logo is on the left, featuring the blue acronym "esma" surrounded by a circle of stars. The EIOPA logo is on the right, with a modern blue graphic above the stylized acronym "eiopa".
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
@@ -2469,11 +2843,14 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is a blue rectangle with the acronym "EBA" in white, next to the full name "EUROPEAN BANKING AUTHORITY". Above the logo is the black text "THE RISK FACTORS GUIDELINES".
+![A concise summary of the image for retrieval:
+This image displays the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is blue and features the acronym "EBA" in large white letters next to the full name of the organization.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 
   - Establish and document the nature and purpose of the service provided, as well as the
 
@@ -2484,6 +2861,7 @@ the relationship, which products and services will be supplied, and how and by w
 the correspondent banking facility can be used (e.g. if it can be used by other banks
 
 through their relationship with the respondent).
+
 
   - Monitor the business relationship, including transactions, to identify changes in the
 
@@ -2501,7 +2879,9 @@ conduct enhanced ongoing monitoring of the business relationship. Due to the nat
 
 correspondent banking, post-execution monitoring is the norm.
 
+
   - Ensure that the CDD information they hold is up to date.
+
 
 85. Correspondents must also establish that the respondent does not permit its accounts to
 be used by a shell bank, [20 ] in line with Article 24 of Directive (EU) 2015/849. This may
@@ -2514,6 +2894,7 @@ considering publicly available information, such as legal provisions that prohib
 
 servicing of shell banks.
 
+
 86. In cases of cross-border correspondent relationships with respondent institutions from
 
 third countries, Article 19 of Directive (EU) 2015/849 requires that the correspondent also
@@ -2522,9 +2903,11 @@ apply specific EDD measures in addition to the CDD measures set out in Article 1
 
 Directive (EU) 2015/849.
 
+
 87. There is no requirement in Directive (EU) 2015/849 for correspondents to apply CDD
 
 measures to the respondent’s individual customers.
+
 
 88. Correspondents should bear in mind that CDD questionnaires provided by international
 
@@ -2537,7 +2920,10 @@ questionnaires, correspondents should assess whether they will be sufficient to 
 them to comply with their obligations under Directive (EU) 2015/849 and should take
 
 additional steps where necessary.
-### Respondents based in non-EEA countries
+
+
+Respondents based in non-EEA countries
+
 
 89. Where the respondent is based in a third country, Article 19 of Directive (EU) 2015/849
 
@@ -2545,29 +2931,34 @@ requires correspondents to apply specific EDD measures in addition to the CDD me
 
 set out in Article 13 of Directive (EU) 2015/849.
 
+
 20 Article 3(17) of Directive (EU) 2015/849.
+
 
 30
 
 
+
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a simple, grey, sans-serif font on a white background, arranged in two lines.
+![A concise summary of the image for retrieval:
+The logo for the Joint Committee of the European Supervisory Authorities, displayed in grey sans-serif text on a white background.
 
+Extracted text from the image:
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side. The ESMA logo is on the left in blue with a circle of stars, and the EIOPA logo is on the right with a blue geometric design and black text.
+![A side-by-side display of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo for the European Banking Authority (EBA) set against a white background. Above the blue logo, the black text "THE RISK FACTORS GUIDELINES" is visible. The logo itself features the acronym "EBA" in white letters over a wavy blue pattern, next to the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" and the full name of the authority.
 
+All text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
@@ -2586,12 +2977,16 @@ recently been deemed, inadequate, then the assessment of the respondent’s AML
 
 controls may not necessarily have to be carried out in full detail.
 
+
 91. Correspondents should always adequately document their CDD and EDD measures and
 
 decision-making processes.
 
+
 92. Article 19 of Directive (EU) 2015/849 requires correspondents to take risk-sensitive
-### measures to :
+
+measures to :
+
 
   - Gather sufficient information about a respondent institution to understand fully the
 
@@ -2605,6 +3000,7 @@ respondent’s customer base and the type of activities that the respondent will
 
 through the correspondent account.
 
+
   - Determine from publicly available information the reputation of the institution and the
 
 quality of supervision. This means that the correspondent should assess the extent to
@@ -2616,6 +3012,7 @@ adequately supervised for compliance with its AML obligations. A number of publi
 available resources, for example FATF or FSAP assessments, which contain sections on
 
 effective supervision, may help correspondents establish this.
+
 
   - Assess the respondent institution's AML/CFT controls. This implies that the
 
@@ -2633,6 +3030,7 @@ should consider on-site visits and/or sample testing to be satisfied that the re
 
 AML policies and procedures are implemented effectively.
 
+
   - Obtain approval from senior management, as defined in Article 3(12) of Directive (EU)
 
 2015/849, before establishing new correspondent relationships. The approving senior
@@ -2647,30 +3045,35 @@ correspondent banking relationships and the steps the correspondent takes to man
 
 that risk effectively.
 
+
 31
+
 
 
 -----
 
-![A simple, text-only logo for the "Joint Committee of the European Supervisory Authorities". The name is written in a grey, sans-serif, all-caps font on a white background, arranged in two centered lines.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif font and arranged in two lines.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars, while the EIOPA logo has a modern blue geometric design.
+![A horizontal banner displaying the logos of two European financial authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring the acronym "esma" within a circle of blue European Union stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its stylized acronym above the full name and a blue, translucent cube graphic containing EU stars.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue and features the acronym EBA in large white letters.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white acronym "EBA" and the full name to the right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 
   - Document the responsibilities of each institution. This may be part of the
 
@@ -2688,6 +3091,7 @@ the respondent complies with its responsibilities under this agreement, for exam
 
 through ex post transaction monitoring.
 
+
   - With respect to payable-through accounts and nested accounts, be satisfied that the
 
 respondent credit or financial institution has verified the identity of and performed
@@ -2699,13 +3103,17 @@ correspondent and that it is able to provide relevant CDD data to the correspond
 institution upon request. Correspondents should seek to obtain confirmation from the
 
 respondent that the relevant data can be provided upon request.
-### Respondents based in EEA countries
+
+
+Respondents based in EEA countries
+
 
 93. Where the respondent is based in an EEA country, Article 19 of Directive (EU) 2015/849
 
 does not apply. The correspondent is, however, still obliged to apply risk-sensitive CDD
 
 measures pursuant to Article 13 of Directive (EU) 2015/849.
+
 
 94. Where the risk associated with a respondent based in an EEA Member State is increased,
 
@@ -2717,29 +3125,30 @@ measures described in Article 19 of Directive (EU) 2015/849, in particular Artic
 
 and (b).
 
+
 32
+
 
 
 -----
 
-![A horizontal banner displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo is on the left, and the EIOPA logo is on the right.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo has a circle of stars around the acronym, and the EIOPA logo features a blue geometric design.
 
-esma European Securities and
-Markets Authority
+esma
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) underneath the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white letters "EBA" on a wavy background, separated by an orange line from the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the logo for the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo is blue with an orange vertical line, featuring the acronym "EBA" and the full name of the authority.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 ## Chapter 2: Sectoral guidelines for retail banks
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a plain white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
@@ -2751,6 +3160,7 @@ to natural persons and small and medium-sized enterprises. Examples of retail ba
 products and services include current accounts, mortgages, savings accounts, consumer
 
 and term loans, and credit lines.
+
 
 96. Due to the nature of the products and services offered, the relative ease of access and the
 
@@ -2764,12 +3174,23 @@ make identifying ML/TF risk associated with individual relationships and spottin
 
 suspicious transactions particularly challenging.
 
+
 97. Banks should consider the following risk factors and measures alongside those set out in
 
 Title II of these guidelines.
-### **Risk factors ** Product, service and transaction risk factors 98. The following factors may contribute to increasing risk :
+
+
+**Risk factors**
+
+
+Product, service and transaction risk factors
+
+
+98. The following factors may contribute to increasing risk :
+
 
   - the product’s features favour anonymity;
+
 
   - the product allows payments from third parties that are neither associated with the
 
@@ -2777,15 +3198,18 @@ product nor identified upfront, where such payments would not be expected, for
 
 example for mortgages or loans;
 
+
   - the product places no restrictions on turnover, cross-border transactions or similar
 
 product features;
+
 
   - new products and new business practices, including new delivery mechanisms, and the
 
 use of new or developing technologies for both new and existing products where these
 
 are not yet well understood;
+
 
   - lending (including mortgages) secured against the value of assets in other jurisdictions,
 
@@ -2795,38 +3219,37 @@ legitimate title to the collateral, or where the identities of parties guarantee
 
 are hard to verify;
 
+
   - an unusually high volume or large value of transactions.
+
 
 99. The following factors may contribute to reducing risk:
 
+
   - The product has limited functionality, for example in the case of:
+
 
 i. a fixed term savings product with low savings thresholds;
 
 ii. a product where the benefits cannot be realised for the benefit of a third party;
 
+
 33
+
 
 
 -----
 
-![A concise summary of the image for retrieval:
-The logo of the Joint Committee of the European Supervisory Authorities, featuring grey, sans-serif, all-caps text on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name of the organization in grey, sans-serif, all-caps text on a white background.
 
-Extracted text from the image:
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo with the title "THE RISK FACTORS GUIDELINES" written above it.
+![A concise summary of the image is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA in large white letters against a blue, wavy background, with "EUROPEAN BANKING AUTHORITY" written to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -2848,11 +3271,13 @@ not transferred to the customer until the contractual relationship is terminated
 
 never passed at all.
 
+
   - The product can only be held by certain categories of customers, for example
 
 pensioners, parents on behalf of their children, or minors until they reach the age of
 
 majority.
+
 
   - Transactions must be carried out through an account in the customer’s name at a
 
@@ -2860,12 +3285,18 @@ credit or financial institution that is subject to AML/CFT requirements that are
 
 robust than those required by Directive (EU) 2015/849.
 
+
   - There is no overpayment facility.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 100. The following factors may contribute to increasing risk:
 
+
   - The nature of the customer, for example:
+
 
 i. The customer is a cash-intensive undertaking.
 
@@ -2899,30 +3330,32 @@ assess ML/TF risk, including the risk associated with the customer not being a r
 
 of the Member State in which the bank is based. [21]
 
+
 21 See the EBA’s ‘Opinion on the application of customer due diligence measures to customers who are asylum
 seekers from higher-risk third countries or territories’: [http://www.eba.europa.eu/documents/10180/](http://www.eba.europa.eu/documents/10180/%E2%80%8C1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf)
-1359456/EBA   - Op   - 2016   - [07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf](http://www.eba.europa.eu/documents/10180/%E2%80%8C1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf)
+1359456/EBA-Op-2016- [07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf](http://www.eba.europa.eu/documents/10180/%E2%80%8C1359456/EBA-Op-2016-07+%28Opinion+on+Customer+Due+Diligence+on+Asylum+Seekers%29.pdf)
+
 
 34
 
 
+
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey text on a white background. The text is in a simple, sans-serif font.
+![A simple logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, uppercase, sans-serif text on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a modern blue geometric design.
+![A concise summary of the logos of two European financial authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, and the EIOPA logo is on the right. Both logos incorporate the European Union's circle of stars.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is blue with white text. The acronym "EBA" is prominent, with the full name "European Banking Authority" to its right. Above the logo, the black text "THE RISK FACTORS GUIDELINES" is visible.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo features the acronym EBA in large white letters and the full name "EUROPEAN BANKING AUTHORITY" on a blue background.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
@@ -2933,7 +3366,9 @@ customer’s ownership structure is unusual, unduly complex or opaque, or becaus
 
 customer issues bearer shares.
 
+
   - The customer’s behaviour, for example:
+
 
 i. The customer is reluctant to provide CDD information or appears deliberately to avoid
 
@@ -2957,20 +3392,27 @@ high-value bank notes without apparent reason; increases activity after a period
 
 dormancy; or makes transactions that appear to have no economic rationale.
 
+
 101. The following factor may contribute to reducing risk:
+
 
   - The customer is a long-standing client whose previous transactions have not given rise
 
 to suspicion or concern, and the product or service sought is in line with the
 
 customer’s risk profile.
-### Country or geographical risk factors [22]
+
+
+Country or geographical risk factors [22]
+
 
 102. The following factors may contribute to increasing risk:
+
 
   - The customer’s funds are derived from personal or business links to jurisdictions
 
 associated with higher ML/TF risk.
+
 
   - The payee is located in a jurisdiction associated with higher ML/TF risk. Firms should
 
@@ -2982,30 +3424,38 @@ operating, and jurisdictions subject to financial sanctions, embargoes or measur
 
 are related to terrorism, financing of terrorism or proliferation.
 
+
 103. The following factor may contribute to reducing risk:
+
 
   - Countries associated with the transaction have an AML/CFT regime that is not less
 
 robust than that required under Directive (EU) 2015/849 and are associated with low
 
 levels of predicate offences.
-### Distribution channel risk factors
+
+
+Distribution channel risk factors
+
 
 104. The following factors may contribute to increasing risk:
 
+
 22 See also Title II.
+
 
 35
 
 
+
 -----
 
-![A gray text logo on a white background for the Joint Committee of the European Supervisory Authorities.
+![A simple text-based logo of the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a plain white background, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the blue logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue stylized cube graphic.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
@@ -3013,13 +3463,12 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle featuring the white acronym "EBA" with a wave pattern, and the full name "EUROPEAN BANKING AUTHORITY" to the right.
+![A concise summary of the image shows the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in white on the left side with a wavy pattern, and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - non-face-to-face business relationships, where no adequate additional safeguards –
 
@@ -3029,20 +3478,27 @@ accordance with Regulation EU (No) 910/2014 and anti-impersonation fraud checks 
 
 are in place;
 
+
   - reliance on a third party’s CDD measures in situations where the bank does not have a
 
 long-standing relationship with the referring third party;
 
+
   - new delivery channels that have not been tested yet.
 
+
 105. The following factor may contribute to reducing risk:
+
 
   - The product is available only to customers who meet specific eligibility criteria set out
 
 by national public authorities, as in the case of state benefit recipients or specific
 
 savings products for children registered in a particular Member State.
-### **Measures **
+
+
+**Measures**
+
 
 106. Where banks use automated systems to identify ML/TF risk associated with individual
 
@@ -3053,14 +3509,19 @@ they should ensure that these systems are fit for purpose in line with the crite
 Title II. The use of automated IT systems should never be considered a substitute for staff
 
 vigilance.
-### Enhanced customer due diligence
+
+
+Enhanced customer due diligence
+
 
 107. Where the risk associated with a business relationship or occasional transaction is
 increased, banks must apply EDD measures. [23 ] These may include:
 
+
   - Verifying the customer’s and the beneficial owner’s identity on the basis of more than
 
 one reliable and independent source.
+
 
   - Identifying, and verifying the identity of, other shareholders who are not the
 
@@ -3070,6 +3531,7 @@ account or give instructions concerning the transfer of funds or the transfer of
 
 securities.
 
+
   - Obtaining more information about the customer and the nature and purpose of the
 
 business relationship to build a more complete customer profile, for example by carrying
@@ -3077,6 +3539,7 @@ business relationship to build a more complete customer profile, for example by 
 out open source or adverse media searches or commissioning a third party
 
 intelligence report. Examples of the type of information banks may seek include:
+
 
 i. the nature of the customer’s business or employment;
 
@@ -3086,27 +3549,31 @@ involved in the business relationship, to be reasonably satisfied that these are
 
 legitimate;
 
+
 23 Article 18 of Directive (EU) 2015/849.
+
 
 36
 
 
+
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring gray, sans-serif, uppercase text on a plain white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA (European Securities and Markets Authority), featuring its acronym inside a circle of blue stars. On the right is the logo for EIOPA (European Insurance and Occupational Pensions Authority), showing its acronym below a stylized blue cube with stars.
+![A side-by-side display of the logos for two European financial supervisory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), and on the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA). Both logos incorporate the European Union's circle of stars.
 
 esma
-European Securities and Markets Authority
+European Securities and
+Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the EBA (European Banking Authority) with the title "THE RISK FACTORS GUIDELINES" written above it. The logo is a blue rectangle with "EBA" in large white letters on the left and "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the European Banking Authority (EBA) logo under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue patterned background, with the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -3128,18 +3595,24 @@ v. where the customer is based in another country, why they seek retail banking 
 
 outside their home jurisdiction.
 
+
   - Increasing the frequency of transaction monitoring.
+
 
   - Reviewing and, where necessary, updating information and documentation held more
 
 frequently. Where the risk associated with the relationship is particularly high, banks
 
 should review the business relationship annually.
-### Simplified customer due diligence
+
+
+Simplified customer due diligence
+
 
 108. In low-risk situations, and to the extent permitted by national legislation, banks may apply
 
 SDD measures, which may include:
+
 
   - for customers that are subject to a statutory licensing and regulatory regime, verifying
 
@@ -3147,17 +3620,20 @@ identity based on evidence of the customer being subject to that regime, for exa
 
 through a search of the regulator’s public register;
 
+
   - verifying the customer’s and, where applicable, the beneficial owner’s identities during
 
 the establishment of the business relationship in accordance with Article 14(2) of
 
 Directive (EU) 2015/849;
 
+
   - assuming that a payment drawn on an account in the sole or joint name of the
 
 customer at a regulated credit or financial institution in an EEA country satisfies the
 
 requirements stipulated by Article 13(1)(a) and (b) of Directive (EU) 2015/849;
+
 
   - accepting alternative forms of identity that meet the independent and reliable source
 
@@ -3169,6 +3645,7 @@ reasonable grounds for the customer not to be able to provide standard evidence 
 
 identity and provided that there are no grounds for suspicion;
 
+
   - updating CDD information only in case of specific trigger events, such as the customer
 
 requesting a new or higher risk product, or changes in the customer’s behaviour or
@@ -3176,42 +3653,48 @@ requesting a new or higher risk product, or changes in the customer’s behaviou
 transaction profile that suggest that the risk associated with the relationship is no
 
 longer low.
-### Pooled accounts
+
+
+Pooled accounts
+
 
 109. Where a bank’s customer opens a ‘pooled account’ in order to administer funds that
 
 belong to the customer’s own clients, the bank should apply full CDD measures, including
 
+
 37
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a grey, sans-serif font on a plain white background, split across two lines.
+![A concise summary of the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, uppercase text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" inside a circle of blue stars, resembling the EU flag. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a blue, translucent cube graphic above its stylized acronym and full name.
+![A side-by-side image displaying the logos of two European Union regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue, stylized design incorporating the EU stars.
 
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle with the white acronym "EBA" next to the full name.
+![A concise summary of the image for retrieval: The logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES".
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 treating the customer’s clients as the beneficial owners of funds held in the pooled
 
 account and verifying their identities.
 
+
 110. Where there are indications that the risk associated with the business relationship is high,
 banks must apply EDD measures as appropriate. [24]
+
 
 111. However, to the extent permitted by national legislation, where the risk associated with
 
@@ -3219,17 +3702,20 @@ the business relationship is low and subject to the conditions set out below, a 
 
 apply SDD measures provided that:
 
+
   - The customer is a firm that is subject to AML/CFT obligations in an EEA state or a third
 
 country with an AML/CFT regime that is not less robust than that required by Directive
 
 (EU) 2015/849, and is supervised effectively for compliance with these requirements.
 
+
   - The customer is not a firm but another obliged entity that is subject to AML/CFT
 
 obligations in an EEA state and is supervised effectively for compliance with these
 
 requirements.
+
 
   - The ML/TF risk associated with the business relationship is low, based on the bank’s
 
@@ -3239,6 +3725,7 @@ serves and the jurisdictions the customer’s business is exposed to, among othe
 
 considerations;
 
+
   - the bank is satisfied that the customer applies robust and risk-sensitive CDD measures
 
 to its own clients and its clients’ beneficial owners (it may be appropriate for the bank to
@@ -3246,6 +3733,7 @@ to its own clients and its clients’ beneficial owners (it may be appropriate f
 take risk-sensitive measures to assess the adequacy of its customer’s CDD policies and
 
 procedures, for example by liaising directly with the customer); and
+
 
   - the bank has taken risk-sensitive steps to be satisfied that the customer will provide
 
@@ -3257,44 +3745,55 @@ relevant provisions in a contract with the customer or by sample-testing the cus
 
 ability to provide CDD information upon request.
 
+
 112. Where the conditions for the application of SDD to pooled accounts are met, SDD
-### measures may consist of the bank :
+
+measures may consist of the bank :
+
 
   - identifying and verifying the identity of the customer, including the customer’s beneficial
 
 owners (but not the customer’s underlying clients);
 
+
   - assessing the purpose and intended nature of the business relationship; and
+
 
   - conducting ongoing monitoring of the business relationship.
 
+
 24 Articles 13(1) and 18(1) of Directive (EU) 2015/849.
+
 
 38
 
 
+
 -----
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif font on a white background, split into two lines.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif font and is split into two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its name next to a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring its name below a stylized blue cube with stars.
+![An image containing the logos for two European financial authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, featuring a blue, abstract, three-dimensional cube-like shape.
 
 esma
 European Securities and Markets Authority
-eIopa
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in white on a wavy background on the left, and the full name on the right.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo is blue with the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to its right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
 BANKING
 AUTHORITY](#)
+
 ## Chapter 3: Sectoral guidelines for electronic money issuers
 
 113. This chapter provides guidelines for electronic money issuers (e-money issuers) as defined
@@ -3305,24 +3804,37 @@ money [25 ] (e-money) depends primarily on the features of individual e-money pr
 
 the degree to which e-money issuers use other persons to distribute and redeem emoney on their behalf. [26]
 
+
 114. Firms that issue e-money should consider the following risk factors and measures
 
 alongside those set out in Title II of these guidelines. The sectoral guidelines for money
 
 remitters in Title III, Chapter 4, may also be relevant in this context.
-### **Risk factors ** Product risk factors
+
+
+**Risk factors**
+
+
+Product risk factors
+
 
 115. E-money issuers should consider the ML/TF risk related to:
 
+
   - thresholds;
+
 
   - the funding method; and
 
+
   - utility and negotiability.
+
 
 116. The following factors may contribute to increasing risk:
 
+
   - Thresholds: the product allows
+
 
 i. high-value or unlimited-value payments, loading or redemption, including cash
 
@@ -3332,7 +3844,9 @@ ii. high-value payments, loading or redemption, including cash withdrawal;
 
 iii. high or unlimited amount of funds to be stored on the e-money product/account.
 
+
   - Funding method: the product can be
+
 
 i. loaded anonymously, for example with cash, anonymous e-money or e-money products
 
@@ -3342,26 +3856,31 @@ ii. funded with payments from unidentified third parties;
 
 iii. funded with other e-money products.
 
+
   - Utility and negotiability: the product
+
 
 i. allows person-to-person transfers;
 
 ii. is accepted as a means of payment by a large number of merchants or points of sale;
 
+
 25 Article 2(2) of Directive 2009/110/EC.
 26 Article 3(4) of Directive 2009/110/EC.
+
 
 39
 
 
+
 -----
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple, grey, sans-serif font on a white background.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in grey, all-caps, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its name inside a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a modern blue geometric design.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos feature the European Union circle of stars.
 
 esma
 European Securities and Markets Authority
@@ -3369,11 +3888,13 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo is blue and features the acronym "EBA" in large white letters next to the full name of the organization.
+![A header image for "THE RISK FACTORS GUIDELINES" featuring the logo of the European Banking Authority (EBA). The logo is blue and features the acronym EBA in large white letters next to the full name of the authority.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 iii. is designed specifically to be accepted as a means of payment by merchants dealing in
 
@@ -3389,9 +3910,12 @@ card products (but not low-value gift cards);
 
 vi. allows high-value cash withdrawals.
 
+
 117. The following factors may contribute to reducing risk:
 
+
   - Thresholds: the product
+
 
 i. sets low-value limits on payments, loading or redemption, including cash withdrawal
 
@@ -3407,12 +3931,16 @@ iii. limits the amount of funds that can be stored on the e-money product/accoun
 
 one time.
 
+
   - Funding: the product
+
 
 i. requires that the funds for purchase or reloading are verifiably drawn from an account
 held in the customer’s sole or joint name at an EEA credit or financial institution;
 
+
   - Utility and negotiability: the product
+
 
 i. does not allow or strictly limits cash withdrawal;
 
@@ -3427,9 +3955,13 @@ iv. is designed specifically to restrict its use by merchants dealing in goods a
 that are associated with a high risk of financial crime;
 
 v. is accepted as a means of payment for limited types of low-risk services or products.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 118. The following factors may contribute to increasing risk:
+
 
   - The customer purchases several e-money products from the same issuer, frequently
 
@@ -3441,22 +3973,26 @@ are obliged entities themselves, this also applies to e-money products from diff
 
 issuers purchased from the same distributor.
 
+
   - The customer’s transactions are always just below any value/transaction limits.
+
 
   - The product appears to be used by several people whose identity is not known to the
 
 issuer (e.g. the product is used from several IP addresses at the same time).
 
+
 40
+
 
 
 -----
 
-![This is the text-based logo for the "Joint Committee of the European Supervisory Authorities". The name is written in a simple, grey, sans-serif font in all caps, arranged in two lines on a plain white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo on the left features a circle of blue stars around the acronym "esma". The EIOPA logo on the right has a blue geometric graphic with stars above its stylized acronym.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
@@ -3464,32 +4000,39 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is blue and features the white acronym "EBA" next to the full name of the authority.
-
+![A blue logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The logo features the acronym EBA and the full name of the institution.
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
 BANKING
 AUTHORITY](#)
 
+
   - There are frequent changes in the customer’s identification data, such as home address
 
 or IP address, or linked bank accounts.
+
 
   - The product is not used for the purpose it was designed for, for example it is used
 
 overseas when it was designed as a shopping centre gift card.
 
+
 119. The following factor may contribute to reducing risk:
+
 
   - The product is available only to certain categories of customers, for example social
 
 benefit recipients or members of staff of a company that issues them to cover corporate
 
 expenses.
-### Distribution channel risk factors
+
+
+Distribution channel risk factors
+
 
 120. The following factors may contribute to increasing risk:
+
 
   - Online and non-face-to-face distribution without adequate safeguards, such as
 
@@ -3497,11 +4040,13 @@ electronic signatures, electronic identification documents meeting the criteria 
 
 Regulation (EU) No 910/2014 and anti-impersonation fraud measures.
 
+
   - Distribution through intermediaries that are not themselves obliged entities under
 
 Directive (EU) 2015/849 or national legislation where applicable, where the e-money
 
 issuer:
+
 
 i. relies on the intermediary to carry out some of the AML/CFT obligations of the e
 money issuer; and
@@ -3510,12 +4055,17 @@ ii. has not satisfied itself that the intermediary has in place adequate AML/CFT
 
 and controls.
 
+
   - Segmentation of services, that is, the provision of e-money services by several
 
 operationally independent service providers without due oversight and coordination.
-### Country or geographical risk factors [27]
+
+
+Country or geographical risk factors [27]
+
 
 121. The following factors may contribute to increasing risk:
+
 
   - The payee is located in, or the product receives funds from sources in, a jurisdiction
 
@@ -3529,34 +4079,40 @@ financial sanctions, embargoes or measures that are related to terrorism, financ
 
 terrorism or proliferation.
 
+
 27 See Title II, paragraphs 22-27.
+
 
 41
 
 
+
 -----
 
-![This is a concise summary of the image for retrieval:
-A header featuring the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with white text and wavy line patterns.
+![A concise summary of the image for retrieval.
+The logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES". The logo features the acronym EBA on a blue background with a wavy pattern, next to the full name of the authority.
 
-This is all the text from the image:
+extract all the text from the image.
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### **Measures **
+EUROPEAN BANKING AUTHORITY
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif font in two lines on a plain white background.
+In case the image is a equation, extract equation(s) in latex format return in code blocks with language identifier latex, e.g. ```latex {equation} ```](#)
+
+**Measures**
+
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (esma) and the European Insurance and Occupational Pensions Authority (eiopa) side-by-side on a white background. The esma logo on the left features a circle of blue stars, similar to the EU flag. The eiopa logo on the right has a modern blue geometric design.
+![A side-by-side display of the logos for two European Union regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue, stylized, three-dimensional cube graphic.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
 
 122. National legislation may provide for an exemption from identification and verification of
 
@@ -3565,6 +4121,7 @@ the customer’s and beneficial owners’ identities and assessment of the natur
 purpose of the business relationship for certain E-money products in accordance with
 
 Article 12 of Directive (EU) 2015/849.
+
 
 123. Firms should note that the exemption under Article 12 of Directive (EU) 2015/849 does
 
@@ -3577,7 +4134,10 @@ suspicious transactions; this means that firms should ensure that they obtain su
 information about their customers, or the types of customers their product will target, to
 
 be able to carry out meaningful ongoing monitoring of the business relationship.
-### 124. Examples of the types of monitoring systems firms should put in place include :
+
+
+124. Examples of the types of monitoring systems firms should put in place include :
+
 
   - transaction monitoring systems that detect anomalies or suspicious patterns of
 
@@ -3588,11 +4148,13 @@ chip controls until it has been able to satisfy itself that there are no grounds
 
 suspicion;
 
+
   - systems that identify discrepancies between submitted and detected information, for
 
 example, between submitted country of origin information and the electronically
 
 detected IP address;
+
 
   - systems that compare data submitted with data held on other business relationships
 
@@ -3600,16 +4162,22 @@ and that can identify patterns such as the same funding instrument or the same
 
 contact details;
 
+
   - systems that identify whether the product is used with merchants dealing in goods
 
 and services that are associated with a high risk of financial crime.
-### Enhanced customer due diligence
+
+
+Enhanced customer due diligence
+
 
 125. Examples of EDD measures firms should apply in a high-risk situation include:
+
 
   - obtaining additional customer information during identification, such as the source of
 
 funds;
+
 
   - applying additional verification measures from a wider variety of reliable and
 
@@ -3617,35 +4185,40 @@ independent sources (e.g. checking against online databases) in order to verify 
 
 customer’s or beneficial owner’s identity;
 
+
   - obtaining additional information about the intended nature of the business relationship,
 
 for example by asking customers about their business or the jurisdictions to which they
 
 intend to transfer E-money;
 
+
 42
+
 
 
 -----
 
-![A black text-only logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif, all-caps font.
+![A logo of the Joint Committee of the European Supervisory Authorities, presented in a simple, gray, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side presentation of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue, stylized cube graphic.
+![A side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a stylized blue cube design also incorporating the EU stars.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) under a heading that reads "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in white on a blue background with a wave pattern.
+![A header "THE RISK FACTORS GUIDELINES" is displayed above the logo of the European Banking Authority (EBA). The logo is blue with the acronym EBA in large white letters.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 
   - obtaining information about the merchant/payee, in particular where the E-money
 
@@ -3653,22 +4226,31 @@ issuer has grounds to suspect that its products are being used to purchase illic
 
 age-restricted goods;
 
+
   - applying identity fraud checks to ensure that the customer is who they claim to be;
+
 
   - applying enhanced monitoring to the customer relationship and individual
 
 transactions;
 
+
   - establishing the source and/or the destination of funds.
-### Simplified customer due diligence
+
+
+Simplified customer due diligence
+
 
 126. To the extent permitted by national legislation, firms may consider applying SDD to low
 risk e-money products that do not benefit from the exemption provided by Article 12 of
 
 Directive (EU) 2015/849.
 
+
 127. To the extent permitted by national legislation, examples of SDD measures firms may
-### apply in low-risk situations include :
+
+apply in low-risk situations include :
+
 
   - postponing the verification of the customer’s or beneficial owner’s identity to a certain
 
@@ -3682,23 +4264,29 @@ jurisdictions or for cross-border transactions or EUR 500 where permitted by nat
 
 legislation (in this case, the product can be used only domestically);
 
+
   - verifying the customer’s identity on the basis of a payment drawn on an account in
 
 the sole or joint name of the customer or an account over which the customer can be
 
 shown to have control with an EEA-regulated credit or financial institution;
 
+
   - verifying identity on the basis of fewer sources;
+
 
   - verifying identity on the basis of less reliable sources;
 
+
   - using alternative methods to verify identity;
+
 
   - assuming the nature and intended purpose of the business relationship where this is
 
 obvious, for example in the case of certain gift cards that do not fall under the closed
 
 loop/closed network exemption;
+
 
   - reducing the intensity of monitoring as long as a certain monetary threshold is not
 
@@ -3712,24 +4300,33 @@ over the course of 12 months should be set at a level that the firm has assessed
 
 presenting a low risk for both terrorist financing and money laundering purposes.
 
+
 43
+
 
 
 -----
 
-![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. Both are European financial regulatory bodies.
+![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
 
-esma European Securities and Markets Authority
-eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma
+European Securities and Markets Authority
+eiopa
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The EBA logo is a blue rectangle featuring the white acronym "EBA" on a wavy background, next to the full name "EUROPEAN BANKING AUTHORITY" in white text.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is shown, along with the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 ## Chapter 4: Sectoral guidelines for money remitters
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, uppercase, sans-serif font on a plain white background.
+![A gray text logo on a white background for the Joint Committee of the European Supervisory Authorities. The text is in a sans-serif font, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
@@ -3742,6 +4339,7 @@ in this sector are diverse and range from individual businesses to complex chain
 
 operators.
 
+
 129. Many money remitters use agents to provide payment services on their behalf. Agents
 
 often provide payment services as an ancillary component to their main business and
@@ -3749,6 +4347,7 @@ often provide payment services as an ancillary component to their main business 
 they may not themselves be obliged entities under applicable AML/CFT legislation;
 
 accordingly, their AML/CFT expertise may be limited.
+
 
 130. The nature of the service provided can expose money remitters to ML/TF risk. This is due
 
@@ -3761,14 +4360,26 @@ relationship with their customers, which means that their understanding of the M
 
 associated with the customer may be limited.
 
+
 131. Money remitters should consider the following risk factors and measures alongside those
 
 set out in Title II of these guidelines.
-### **Risk factors ** Product, service and transaction risk factors 132. The following factors may contribute to increasing risk:
+
+
+**Risk factors**
+
+
+Product, service and transaction risk factors
+
+
+132. The following factors may contribute to increasing risk:
+
 
   - the product allows high-value or unlimited-value transactions;
 
+
   - the product or service has a global reach;
+
 
   - the transaction is cash-based or funded with anonymous electronic money, including
 
@@ -3776,48 +4387,62 @@ electronic money benefiting from the exemption under Article 12 of Directive (EU
 
 2015/849;
 
+
   - transfers are made from one or more payers in different countries to a local payee.
 
+
 133. The following factor may contribute to reducing risk:
+
 
   - the funds used in the transfer come from an account held in the payer’s name at an
 
 EEA credit or financial institution
-### Customer risk factors
+
+
+Customer risk factors
+
 
 134. The following factors may contribute to increasing risk:
 
+
   - The customer’s business activity:
 
+
 i. The customer owns or operates a business that handles large amounts of cash.
+
 
 44
 
 
+
 -----
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for esma, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for eiopa, the European Insurance and Occupational Pensions Authority, which has a blue, translucent, cube-like design.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features the acronym 'esma' within a circle of blue stars, while the EIOPA logo has a modern blue geometric design above its name.
 
-esma European Securities and
-Markets Authority
+esma
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header for a document titled "THE RISK FACTORS GUIDELINES," featuring the logo of the European Banking Authority (EBA). The blue and orange logo displays the acronym EBA in large white letters.
+![A concise summary of the image for retrieval:
+The image shows the title "THE RISK FACTORS GUIDELINES" above the logo for the EBA, the European Banking Authority. The logo is a blue rectangle with the acronym "EBA" in large white letters.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 ii. The customer’s business has a complicated ownership structure.
 
+
   - The customer’s behaviour:
 
-![A concise summary of the logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name in grey, sans-serif text on a plain white background, arranged in two lines.
+![A logo of the Joint Committee of the European Supervisory Authorities in grey text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+
 
 i. The customer’s needs may be better serviced elsewhere, for example because the
 
@@ -3867,7 +4492,9 @@ or payee.
 
 ix. The amount sent or received is at odds with the customer’s income (if known).
 
+
 135. The following factors may contribute to reducing risk:
+
 
   - The customer is a long-standing customer of the firm whose past behaviour has not
 
@@ -3875,40 +4502,48 @@ given rise to suspicion and there are no indications that the ML/TF risk might b
 
 increased.
 
+
   - The amount transferred is low; however, firms should note that low amounts alone
 
 will not be enough to discount TF risk.
-### Distribution channel risk factors
+
+
+Distribution channel risk factors
+
 
 136. The following factors may contribute to increasing risk:
+
 
 28 Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May2015 on information
 accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (Text with EEA relevance).
 
+
 45
+
 
 
 -----
 
-![A concise summary of the image:
-The text-only logo for the Joint Committee of the European Supervisory Authorities, presented in a grey sans-serif font on a plain white background.
+![A minimalist gray text logo on a white background for the Joint Committee of the European Supervisory Authorities.
 
-Extracted text from the image:
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features the acronym "esma" surrounded by a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue cube graphic above its name.
+![A side-by-side comparison of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue, abstract, cube-like design.
 
 esma
 European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) displayed under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the white letters "EBA" on the left and the words "EUROPEAN BANKING AUTHORITY" on the right, separated by a thin orange line.
+![A concise summary of the image for retrieval.
+The logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA in large white letters on a blue patterned background, with the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
+Extracted text from the image.
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 
   - There are no restrictions on the funding instrument, for example in the case of cash or
 
@@ -3916,11 +4551,15 @@ payments from E-money products that benefit from the exemption in Article 12 of
 
 Directive (EU) 2015/849, wire transfers or cheques.
 
+
   - The distribution channel used provides a degree of anonymity.
+
 
   - The service is provided entirely online without adequate safeguards.
 
+
   - The money remittance service is provided through agents that:
+
 
 i. represent more than one principal;
 
@@ -3942,9 +4581,11 @@ policies; or
 
 v. are not from the financial sector and conduct another business as their main business.
 
+
   - The money remittance service is provided through a large network of agents in different
 
 jurisdictions.
+
 
   - The money remittance service is provided through an overly complex payment chain, for
 
@@ -3952,53 +4593,67 @@ example with a large number of intermediaries operating in different jurisdictio
 
 allowing for untraceable (formal and informal) settlement systems.
 
+
 137. The following factors may contribute to reducing risk:
 
+
   - Agents are themselves regulated financial institutions.
+
 
   - The service can be funded only by transfers from an account held in the customer’s
 
 name at an EEA credit or financial institution or an account over which the customer
 
 can be shown to have control.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 138. The following factors may contribute to increasing risk:
 
+
   - The payer or the payee is located in a jurisdiction associated with higher ML/TF risk.
+
 
   - The payee is resident in a jurisdiction that has no, or a less developed, formal banking
 
 sector, which means that informal money remittance services, such as hawala, may be
 
 used at point of payment.
-### **Measures **
+
+
+**Measures**
+
 
 139. Since many money remitters’ business is primarily transaction-based, firms should
 
 consider which monitoring systems and controls they put in place to ensure that they
 
+
 46
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple grey sans-serif font, presented in two lines on a plain white background.
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, uppercase font on a plain white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features a blue, stylized cube with stars.
+![A side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a stylized blue cube graphic.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the image for retrieval.
-The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The blue logo features the white acronym "EBA" and the full name of the organization.
+![A concise summary of the image for retrieval:
+The logo for the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue, wavy background, with the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
-This is all the text from the image.
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN
@@ -4010,25 +4665,33 @@ detect money-laundering and terrorist financing attempts even where the CDD
 information they hold on the customer is basic or missing because no business
 
 relationship has been established.
-### 140. Firms should in any case put in place :
+
+
+140. Firms should in any case put in place :
+
 
   - systems to identify linked transactions;
+
 
   - systems to identify whether transactions from different customers are destined for the
 
 same payee;
 
+
   - systems to permit as far as possible the establishment of the source of funds and the
 
 destination of funds;
+
 
   - systems that allow the full traceability of both transactions and the number of operators
 
 included in the payment chain; and
 
+
   - systems to ensure that throughout the payment chain only those duly authorised to
 
 provide money remittance services can intervene.
+
 
 141. Where the risk associated with an occasional transaction or business relationship is
 
@@ -4041,7 +4704,10 @@ Conversely, where the risk associated with an occasional transaction or business
 relationship is low and to the extent permitted by national legislation, firms may be able
 
 to apply SDD measures in line with Title II.
-### Use of agents
+
+
+Use of agents
+
 
 142. Money remitters using agents to provide payment services should know who their agents
 are. [29 ] As part of this, money remitters should establish and maintain appropriate and risk
@@ -4049,11 +4715,13 @@ sensitive policies and procedures to counter the risk that their agents may enga
 
 be used for, ML/TF, including by:
 
+
   - Identifying the person who owns or controls the agent where the agent is a legal
 
 person, to be satisfied that the ML/TF risk to which the money remitter is exposed as a
 
 result of its use of the agent is not increased.
+
 
   - Obtaining evidence, in line with the requirements of Article 19(1)(c) of Directive (EU)
 
@@ -4067,34 +4735,36 @@ the nature, complexity and scale of the ML/TF risk inherent in the payment servi
 
 provided by the agent and could be based on the money remitter’s CDD procedures.
 
+
 29 Article 19 of Directive (EU) 2366/2015.
+
 
 47
 
 
+
 -----
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, written in grey sans-serif text on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![An image featuring the logos of two European financial authorities, the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), placed side-by-side on a white background. The ESMA logo on the left has a circle of blue stars, and the EIOPA logo on the right has a stylized blue cube with stars.
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of stars around the acronym, while the EIOPA logo has a blue, stylized cube with stars.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A header with the text "THE RISK FACTORS GUIDELINES" above the blue logo for the European Banking Authority (EBA).
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle featuring the acronym "EBA" and the full name of the authority.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - Taking reasonable measures to satisfy themselves that the agent’s AML/CFT internal
 
@@ -4112,35 +4782,40 @@ money remitter should assess and manage the risk that these differences might af
 
 its own, and the agent’s, AML/CFT compliance.
 
+
   - Providing AML/CFT training to agents to ensure that agents have an adequate
 
 understanding of relevant ML/TF risks and the quality of the AML/CFT controls the
 
 money remitter expects.
 
+
 48
+
 
 
 -----
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font, presented in two lines on a plain white background.
+![A concise summary of the logo of the Joint Committee of the European Supervisory Authorities. The text is in a gray, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo on the left features a circle of blue stars, and the EIOPA logo on the right is a modern blue geometric design.
+![This image displays the logos for two European financial supervisory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of blue stars around the acronym "esma". On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue graphic above its acronym.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header image for a document or presentation titled "THE RISK FACTORS GUIDELINES", featuring the logo of the European Banking Authority (EBA). The blue EBA logo displays the acronym "EBA" over a wave pattern.
+![A logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym EBA in large white letters on the left and the full name on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 ## Chapter 5: Sectoral guidelines for wealth management
 
 143. Wealth management is the provision of banking and other financial services to high-net
@@ -4156,6 +4831,7 @@ safe custody, insurance, family office services, tax and estate planning and ass
 
 facilities, including legal support.
 
+
 144. Many of the features typically associated with wealth management, such as wealthy and
 
 influential clients; very high-value transactions and portfolios; complex products and
@@ -4170,25 +4846,36 @@ vulnerable to abuse by clients who wish to conceal the origins of their funds or
 
 example, evade tax in their home jurisdiction.
 
+
 145. Firms in this sector should consider the following risk factors and measures alongside
 
 those set out in Title II of these guidelines. The sectoral guidelines in Title III, Chapters 2, 7
 
 and 9, may also be relevant in this context.
-### **Risk factors ** Product, service and transaction risk factors
+
+
+**Risk factors**
+
+
+Product, service and transaction risk factors
+
 
 146. The following factors may contribute to increasing risk:
+
 
   - customers requesting large amounts of cash or other physical stores of value such as
 
 precious metals;
 
+
   - very high-value transactions;
+
 
    financial arrangements involving jurisdictions associated with higher ML/TF risk (firms
 
 should pay particular attention to countries that have a culture of banking secrecy or
 that do not comply with international tax transparency standards); [30]
+
 
   - lending (including mortgages) secured against the value of assets in other jurisdictions,
 
@@ -4198,39 +4885,45 @@ legitimate title to the collateral, or where the identities of parties guarantee
 
 are hard to verify;
 
+
   - the use of complex business structures such as trusts and private investment vehicles,
 
 particularly where the identity of the ultimate beneficial owner may be unclear;
 
+
 30 See also Title II, paragraph 26.
+
 
 49
 
 
+
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring grey, uppercase, sans-serif text on a white background.
+![A simple logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a grey sans-serif font on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities on a white background. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue text surrounded by a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a stylized blue cube graphic above its name.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a concise summary of the logo for the European Banking Authority (EBA) with the heading "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the white letters "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue with the acronym EBA in large white letters next to the full name of the authority.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 
   - business taking place across multiple countries, particularly where it involves multiple
 
 providers of financial services;
+
 
   - cross-border arrangements where assets are deposited or managed in another
 
@@ -4243,21 +4936,29 @@ with higher ML/TF risk. Firms should pay particular attention to jurisdictions w
 higher levels of predicate offences, a weak AML/CFT regime or weak tax transparency
 
 standards.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 147. The following factors may contribute to increasing risk:
+
 
   - Customers with income and/or wealth from high-risk sectors such as arms, the
 
 extractive industries, construction, gambling or private military contractors.
 
+
   - Customers about whom credible allegations of wrongdoing have been made.
 
+
   - Customers who expect unusually high levels of confidentiality or discretion.
+
 
   - Customers whose spending or transactional behaviour makes it difficult to establish
 
 ‘normal’, or expected patterns of behaviour.
+
 
   - Very wealthy and influential clients, including customers with a high public profile,
 
@@ -4267,21 +4968,30 @@ a PEP, firms must always apply EDD in line with Articles 18 to 22 of Directive (
 
 2015/849.
 
+
   - The customer requests that the firm facilitates the customer being provided with a
 
 product or service by a third party without a clear business or economic rationale.
-### Country or geographical risk factors [31]
+
+
+Country or geographical risk factors [31]
+
 
 148. The following factors may contribute to increasing risk:
+
 
   - Business is conducted in countries that have a culture of banking secrecy or do not
 
 comply with international tax transparency standards.
 
+
   - The customer lives in, or their funds derive from activity in, a jurisdiction associated
 
 with higher ML/TF risk.
-### **Measures **
+
+
+**Measures**
+
 
 149. The staff member managing a wealth management firm’s relationship with a customer
 
@@ -4289,32 +4999,37 @@ with higher ML/TF risk.
 
 manager’s close contact with the customer will facilitate the collection of information
 
+
 31 See also Title II.
+
 
 50
 
 
+
 -----
 
-![A minimalist text-based logo for the Joint Committee of the European Supervisory Authorities. The name is displayed in two lines of grey, uppercase, sans-serif text on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, featuring the name in grey, uppercase, sans-serif text on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars around the blue lowercase acronym "esma". The EIOPA logo has a stylized blue cube with stars above the black acronym "eiopa".
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring the acronym "esma" within a circle of stars, representing the European Union. The EIOPA logo is on the right, with a modern blue graphic above its acronym "eiopa".
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the white acronym "EBA" on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right, separated by a thin orange line.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 that allows a fuller picture of the purpose and nature of the customer’s business to be
 
@@ -4331,9 +5046,13 @@ efforts to manage the risk of financial crime. Consequently, independent oversig
 assessment will also be appropriate, provided by, for example, the compliance department
 
 and senior management.
-### Enhanced customer due diligence
+
+
+Enhanced customer due diligence
+
 
 150. The following EDD measures may be appropriate in high-risk situations:
+
 
   - Obtaining and verifying more information about clients than in standard risk
 
@@ -4349,6 +5068,7 @@ to clients’ premises, whether at their home or business, including any changes
 
 profile or other information that may affect risk assessment that these visits prompt.
 
+
   - Establishing the source of wealth and funds; where the risk is particularly high and/or
 
 where the firm has doubts about the legitimate origin of the funds, verifying the
@@ -4356,6 +5076,7 @@ where the firm has doubts about the legitimate origin of the funds, verifying th
 source of wealth and funds may be the only adequate risk mitigation tool. The source of
 
 funds or wealth can be verified, by reference to, inter alia:
+
 
 i. an original or certified copy of a recent pay slip;
 
@@ -4375,7 +5096,9 @@ executor;
 
 vii. an internet search of a company registry to confirm the sale of a company.
 
+
   - Establishing the destination of funds.
+
 
   - Performing greater levels of scrutiny and due diligence on business relationships than
 
@@ -4383,44 +5106,46 @@ would be typical in mainstream financial service provision, such as in retail ba
 
 investment management.
 
+
   - Carrying out an independent internal review and, where appropriate, seeking senior
 
 management approval of new clients and existing clients on a risk-sensitive basis.
+
 
   - Monitoring transactions on an ongoing basis, including, where necessary, reviewing
 
 each transaction as it occurs, to detect unusual or suspicious activity. This may include
 
+
 51
+
 
 
 -----
 
-![A grey text logo for the Joint Committee of the European Supervisory Authorities. The name is written in a sans-serif, all-caps font, centered on a white background.
+![A simple, grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side comparison of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym inside a circle of stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym below a stylized blue cube graphic containing stars.
+![A side-by-side comparison of the logos for two European Union financial regulatory bodies: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo under the title "THE RISK FACTORS GUIDELINES". The blue logo features the acronym "EBA" in white sans-serif font with a wave pattern on the left. To the right, separated by a thin orange line, is the full name "EUROPEAN BANKING AUTHORITY".
+![This is a header for "THE RISK FACTORS GUIDELINES" featuring the logo of the European Banking Authority (EBA). The logo is a blue rectangle with the acronym "EBA" in large white letters on the left and the full name "EUROPEAN BANKING AUTHORITY" on the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 measures to determine whether any of the following are out of line with the business
 
 risk profile:
+
 
 i. transfers (of cash, investments or other assets);
 
@@ -4430,11 +5155,13 @@ iii. significant changes in activity;
 
 iv. transactions involving jurisdictions associated with higher ML/TF risk.
 
+
 Monitoring measures may include the use of thresholds, and an appropriate review
 
 process by which unusual behaviours are promptly reviewed by relationship management
 
 staff or (at certain thresholds) the compliance functions or senior management.
+
 
   - Monitoring public reports or other sources of intelligence to identify information that
 
@@ -4444,41 +5171,49 @@ connected, potential corporate acquisition targets or third party beneficiaries 
 
 the client makes payments.
 
+
   - Ensuring that cash or other physical stores of value (e.g. travellers’ cheques) are
 
 handled only at bank counters, and never by relationship managers.
+
 
   - Ensuring that the firm is satisfied that a client’s use of complex business structures
 
 such as trusts and private investment vehicles is for legitimate and genuine purposes,
 
 and that the identity of the ultimate beneficial owner is understood.
-### Simplified customer due diligence
+
+
+Simplified customer due diligence
+
 
 151. Simplified due diligence is not appropriate in a wealth management context.
+
 
 52
 
 
+
 -----
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, uppercase, sans-serif font on a plain white background.
+![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the name in a simple, grey, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image containing the logos of two European Union financial regulatory authorities, the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), displayed side-by-side on a white background. The ESMA logo features a circle of blue stars around the acronym, while the EIOPA logo has a blue, stylized cube.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) under the heading "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters on a patterned background, next to the full name "EUROPEAN BANKING AUTHORITY".
+![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the acronym EBA in white, a wavy pattern, and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 ## Chapter 6: Sectoral guidelines for trade finance providers
 
 152. Trade finance means managing a payment to facilitate the movement of goods (and the
@@ -4491,7 +5226,9 @@ may be concerned that payment will not be forthcoming. To lessen these dangers, 
 
 trade finance instruments therefore place banks in the middle of the transaction.
 
+
 153. Trade finance can take many different forms. These include:
+
 
   - ‘Open account’ transactions: these are transactions where the buyer makes a
 
@@ -4503,6 +5240,7 @@ not be known to the banks executing the fund transfer. Banks should refer to the
 
 guidance in Title II to manage the risk associated with such transactions.
 
+
   - Documentary letters of credit (LCs): an LC is a financial instrument issued by a bank
 
 that guarantees payment to a named beneficiary (typically an exporter) upon
@@ -4510,6 +5248,7 @@ that guarantees payment to a named beneficiary (typically an exporter) upon
 presentation of certain ‘complying’ documents specified in the credit terms (e.g.
 
 evidence that goods have been dispatched).
+
 
   - Documentary bills for collection (BCs): a BC refers to a process by which payment, or an
 
@@ -4521,17 +5260,20 @@ documentation (which will have been received from the exporter, normally through
 
 their bank) to the importer in return.
 
+
 154. Other trade finance products such as forfaiting or structured financing, or wider activity
 
 such as project finance, are outside the scope of these sectoral guidelines. Banks offering
 
 these products should refer to the general guidance in Title II.
 
+
 155. Trade finance products can be abused for money-laundering or terrorist financing
 
 purposes. For example, the buyer and seller may collude to misrepresent the price, type,
 
 quality or quantity of goods in order to transfer funds or value between countries.
+
 
 156. The International Chamber of Commerce (ICC) has developed standards that govern the
 use of LCs and BCs, but these do not cover matters related to financial crime. [32] Banks
@@ -4540,39 +5282,51 @@ should note that these standards do not have legal force and their use does not 
 
 that banks do not need to comply with their legal and regulatory AML/CFT obligations.
 
+
 157. Firms in this sector should consider the following risk factors and measures alongside
 
 those set out in Title II of these guidelines. The sectoral guidelines in Title III, Chapter 1,
 
 may also be relevant in this context.
 
+
 32 Uniform Customs and Practice for Documentary Credits (UCP 600) for LCs and Uniform Rules for Collections
 
+
 (URC 522) for BCs.
+
 
 53
 
 
+
 -----
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on a wavy background, separated by an orange line from the text "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo is blue with the acronym EBA in large white letters.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### **Risk factors **
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
-![This is the text-only logo for the Joint Committee of the European Supervisory Authorities. The name is presented in a simple, grey, sans-serif font on a white background, arranged in two lines.
+**Risk factors**
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+![A concise summary of the logo for the Joint Committee of the European Supervisory Authorities. The text is presented in a grey, sans-serif, all-caps font on a plain white background.
 
-![A horizontal banner displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background.
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
+
+![An image containing the logos of two European financial authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, which features a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which features a stylized blue cube with the European Union stars.
 
 esma
 European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
 
 158. Banks party to trade finance transactions often have access only to partial information
 
@@ -4582,28 +5336,37 @@ banks may not have expert knowledge of the different types of trade documentatio
 
 receive. This can make the identification and assessment of ML/TF risk challenging.
 
+
 159. Banks should, nevertheless, use common sense and professional judgement to assess the
 
 extent to which the information and documentation they have could give rise to concern
 
 or suspicion of ML/TF.
 
+
 160. To the extent possible, banks should consider the following risk factors:
-### Transaction risk factors
+
+
+Transaction risk factors
+
 
 161. The following factors may contribute to increasing risk:
+
 
   - The transaction is unusually large given what is known about a customer’s previous
 
 trading activity.
 
+
   - The transaction is highly structured, fragmented or complex, involving multiple parties,
 
 without apparent legitimate justification.
 
+
   - Copy documents are used in situations where original documentation would be
 
 expected, without reasonable explanation.
+
 
   - There are significant discrepancies in documentation, for example between the
 
@@ -4611,9 +5374,11 @@ description of goods in key documents (i.e. invoices and transport documents) an
 
 actual goods shipped, to the extent that this is known.
 
+
   - The type, quantity and value of goods is inconsistent with the bank’s knowledge of
 
 the buyer’s business.
+
 
   - The goods transacted are higher risk for money-laundering purposes, for example
 
@@ -4621,13 +5386,17 @@ certain commodities the prices of which can fluctuate significantly, which can m
 
 bogus prices difficult to detect.
 
+
   - The goods transacted require export licences.
 
+
   - The trade documentation does not comply with applicable laws or standards.
+
 
   - Unit pricing appears unusual, based on what the bank knows about the goods and
 
 trade.
+
 
   - The transaction is otherwise unusual, for example LCs are frequently amended without
 
@@ -4635,42 +5404,47 @@ a clear rationale or goods are shipped through another jurisdiction for no appar
 
 commercial reason.
 
+
 162. The following factors may contribute to reducing risk:
 
+
   - Independent inspection agents have verified the quality and quantity of the goods.
+
 
 54
 
 
+
 -----
 
-![This is the logo of the Joint Committee of the European Supervisory Authorities. It features the name of the organization in a simple, grey, sans-serif font on a white background.
-
+![A simple, text-based logo for the Joint Committee of the European Supervisory Authorities in a grey, sans-serif font on a white background.
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image containing the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), two European Union financial regulatory bodies.
+![This image displays the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with its acronym in a stylized black font below a blue, geometric emblem.
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" in large white letters and the full name to the right.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) with the heading "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - Transactions involve established counterparties that have a proven track record of
 
 transacting with each other and due diligence has previously been carried out.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 163. The following factors may contribute to increasing risk:
+
 
   - The transaction and/or the parties involved are out of line with what the bank knows
 
@@ -4680,7 +5454,9 @@ or the shipping volumes, are inconsistent with what is known about the importer 
 
 exporter’s business).
 
+
   - There are indications that the buyer and seller may be colluding, for example:
+
 
 i. the buyer and seller are controlled by the same person;
 
@@ -4690,24 +5466,33 @@ address, or have other address inconsistencies;
 
 iii. the buyer is willing or keen to accept or waive discrepancies in the documentation.
 
+
   - The customer is unable or reluctant to provide relevant documentation to support
 
 the transaction.
 
+
   - The buyer uses agents or third parties.
 
+
 164. The following factors may contribute to reducing risk:
+
 
   - The customer is an existing customer whose business is well known to the bank and
 
 the transaction is in line with that business.
 
+
   - The customer is listed on a stock exchange with disclosure requirements similar to the
 
 EU’s.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 165. The following factors may contribute to increasing risk:
+
 
   - A country associated with the transaction (including that where the goods originated
 
@@ -4719,52 +5504,59 @@ increases the risk that the transaction’s true purpose is to export currency i
 
 contravention of local law.
 
+
   - A country associated with the transaction has higher levels of predicate offences (e.g.
 
 those related to the narcotics trade, smuggling or counterfeiting) or free trade zones.
 
+
 166. The following factors may contribute to reducing risk:
 
+
   - The trade is within the EU/EEA.
+
 
 55
 
 
+
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The text is in a simple, grey, sans-serif font on a white background.
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a simple, gray, uppercase, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side. The ESMA logo features the acronym in blue lowercase letters surrounded by a circle of blue stars. The EIOPA logo includes a stylized blue cube graphic above its acronym.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos feature the European Union stars.
 
 esma
 European Securities and Markets Authority
-EIOPA
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+eiopa
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is a blue rectangle with the acronym "EBA" in large white letters. The title "THE RISK FACTORS GUIDELINES" is visible in black capital letters above the logo.
+![A logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo features the acronym EBA in large white letters and the full name to the right on a blue background.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - Countries associated with the transaction have an AML/CFT regime not less robust
 
 than that required under Directive (EU) 2015/849 and are associated with low levels of
 
 predicate offences.
-### **Measures **
+
+
+**Measures**
+
 
 167. Banks must carry out CDD on the instructing party. In practice, most banks will only
 
 accept instructions from existing customers and the wider business relationship that the
 
 bank has with the customer may assist its due diligence efforts.
+
 
 168. Where a bank provides trade finance services to a customer, it should take steps, as part
 
@@ -4780,12 +5572,16 @@ so, where these are based. This should help banks understand who the customer is
 
 aid the detection of unusual or suspicious transactions.
 
+
 169. Where a bank is a correspondent, it must apply CDD measures to the respondent.
 
 Correspondent banks should follow the guidelines on correspondent banking in Title III,
 
 Chapter 1.
-### Enhanced customer due diligence
+
+
+Enhanced customer due diligence
+
 
 170. In higher risk situations, banks must apply EDD. As part of this, banks should consider
 
@@ -4793,7 +5589,9 @@ whether performing more thorough due diligence checks on the transaction itself 
 
 other parties to the transaction (including non-customers) would be appropriate.
 
+
 171. Checks on other parties to the transaction may include:
+
 
   - Taking steps to better understand the ownership or background of other parties to
 
@@ -4805,9 +5603,12 @@ company registries and third party intelligence sources, and open source interne
 
 searches.
 
+
   - Obtaining more information on the financial situation of the parties involved.
 
+
 172. Checks on transactions may include:
+
 
   - using third party or open source data sources, for example the International Maritime
 
@@ -4817,37 +5618,44 @@ lines’ free container tracking service to verify the information provided and 
 
 that the purpose of the transaction is legitimate;
 
+
   - using professional judgement to consider whether the pricing of goods makes
 
 commercial sense, in particular in relation to traded commodities for which reliable
 
 and up-to-date pricing information can be obtained;
 
+
 56
+
 
 
 -----
 
-![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background. The text is in a sans-serif font and arranged in two lines.
+![A simple text-based logo for the "Joint Committee of the European Supervisory Authorities". The text is in a grey, uppercase, sans-serif font against a plain white background.
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
-
-![This is a side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for ESMA (European Securities and Markets Authority), which features the acronym "esma" inside a circle of blue stars. On the right is the logo for EIOPA (European Insurance and Occupational Pensions Authority), which has a blue, stylized cube emblem with stars above the acronym "eiopa".
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos feature the circle of stars from the European Union flag.
 
 esma
 European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is a blue rectangle with the acronym "EBA" on the left and the full name "European Banking Authority" on the right. Above the logo is the title "THE RISK FACTORS GUIDELINES" in black text.
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is shown below the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
 
+
   - checking that the weights and volumes of goods being shipped are consistent with
 
 the shipping method.
+
 
 173. Since LCs and BCs are largely paper-based and accompanied by trade-related documents
 
@@ -4859,7 +5667,10 @@ terms of the trade transaction and require staff to use professional expertise a
 
 judgement to consider whether any unusual features warrant the application of EDD
 measures or give rise to suspicion of ML/TF. [33]
-### Simplified customer due diligence
+
+
+Simplified customer due diligence
+
 
 174. The checks banks routinely carry out to detect fraud and ensure the transaction conforms
 
@@ -4867,32 +5678,36 @@ to the standards set by the International Chamber of Commerce mean that, in prac
 
 they will not apply SDD measures even in lower risk situations.
 
+
 33 Banks routinely check documents to detect attempts to defraud the bank or its customer. They are a key part
 of the service provided by a bank offering trade finance. It may be possible for banks to build on these
 existing controls to meet their AML/CFT obligations.
 
+
 57
+
 
 
 -----
 
-![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
+![A concise summary of the image for retrieval:
+The logo for the Joint Committee of the European Supervisory Authorities, presented as grey text in a sans-serif font on a white background.
 
+Extracted text from the image:
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities, the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), side-by-side on a white background. The ESMA logo features blue EU stars in a circle, while the EIOPA logo has a blue geometric design.
+![A side-by-side comparison of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
-esma
-European Securities and Markets Authority
-eiopa
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+esma European Securities and Markets Authority
+eiopa EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The blue logo features the white acronym "EBA" with a wave-like pattern on the left.
+![A logo for the European Banking Authority (EBA) is displayed under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in large white letters on the left side, which has a wavy line pattern. The right side of the logo is a solid darker blue with the full name "EUROPEAN BANKING AUTHORITY" in smaller white text.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 ## Chapter 7: Sectoral guidelines for life insurance undertakings
 
 175. Life insurance products are designed to financially protect the policy holder against the
@@ -4905,6 +5720,7 @@ many different policy holders are faced with. Life insurance products can also b
 
 as investment products or for pension purposes.
 
+
 176. Life insurance products are provided through different distribution channels to customers
 
 who may be natural or legal persons or legal arrangements. The beneficiary of the contract
@@ -4912,6 +5728,7 @@ who may be natural or legal persons or legal arrangements. The beneficiary of th
 may be the policy holder or a nominated or designated third party; the beneficiary may
 
 also change during the term and the original beneficiary may never benefit.
+
 
 177. Most life insurance products are designed for the long term and some will only pay out on a
 
@@ -4923,6 +5740,7 @@ launderers. However, as with other financial services products, there is a risk 
 
 funds used to purchase life insurance may be the proceeds of crime.
 
+
 178. Firms in this sector should consider the following risk factors and measures alongside
 
 those set out in Title II of these guidelines. The sectoral guidelines in Title III, Chapters 5
@@ -4931,12 +5749,21 @@ and 9, may also be relevant in this context. Where intermediaries are used, the 
 
 channel risk factors set out in Title II, paragraphs 32-33, will be relevant.
 
+
 179. Intermediaries may also find these guidelines useful.
-### **Risk factors ** Product, service and transaction risk factors
+
+
+**Risk factors**
+
+
+Product, service and transaction risk factors
+
 
 180. The following factors may contribute to increasing risk:
 
+
   - Flexibility of payments, for example the product allows:
+
 
 i. payments from unidentified third parties;
 
@@ -4946,46 +5773,50 @@ lower value premium payments;
 
 iii. cash payments.
 
+
   - Ease of access to accumulated funds, for example the product allows partial
 
 withdrawals or early surrender at any time, with limited charges or fees.
 
+
   - Negotiability, for example the product can be:
+
 
 i. traded on a secondary market;
 
 ii. used as collateral for a loan.
 
+
   - Anonymity, for example the product facilitates or allows the anonymity of the customer.
+
 
 58
 
 
+
 -----
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a modern blue graphic above its acronym.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![A document header with the title "THE RISK FACTORS GUIDELINES" positioned above the logo of the European Banking Authority (EBA). The EBA logo is blue and features the acronym "EBA" and the full name "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the white letters "EBA" and the text "EUROPEAN BANKING AUTHORITY" to the right.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 181. Factors that may contribute to reducing risk include: The product:
 
-![A minimalist logo for the Joint Committee of the European Supervisory Authorities, featuring its name in two lines of grey, uppercase, sans-serif text on a plain white background.
+![A gray text logo on a white background for the Joint Committee of the European Supervisory Authorities.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
+
 
   - only pays out against a pre-defined event, for example death, or on a specific date,
 
@@ -4993,17 +5824,24 @@ such as in the case of credit life insurance policies covering consumer and mort
 
 loans and paying out only on death of the insured person;
 
+
   - has no surrender value;
+
 
   - has no investment element;
 
+
   - has no third party payment facility;
+
 
   - requires that total investment is curtailed at a low value;
 
+
   - is a life insurance policy where the premium is low;
 
+
   - only allows small-value regular premium payments, for example no overpayment;
+
 
   - is accessible only through employers, for example a pension, superannuation or similar
 
@@ -5013,20 +5851,29 @@ by way of deduction from wages and the scheme rules do not permit the assignment
 
 of a member’s interest under the scheme;
 
+
   - cannot be redeemed in the short or medium term, as in the case of pension schemes
 
 without an early surrender option;
 
+
   - cannot be used as collateral;
+
 
   - does not allow cash payments;
 
+
   - has conditions that must be met to benefit from tax relief.
-### Customer and beneficiary risk factors
+
+
+Customer and beneficiary risk factors
+
 
 182. The following factors may contribute to increasing risk:
 
+
   - The nature of the customer, for example:
+
 
 i. legal persons whose structure makes it difficult to identify the beneficial owner;
 
@@ -5054,32 +5901,33 @@ viii. the policy holder and/or the beneficiary of the contract are companies wit
 
 shareholders and/or shares in bearer form.
 
+
 59
+
 
 
 -----
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for the European Securities and Markets Authority (ESMA), which features the acronym "esma" inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a stylized blue cube with stars above the acronym "eiopa".
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos feature the European Union stars.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a header from a document titled "THE RISK FACTORS GUIDELINES", featuring the blue logo of the EBA (European Banking Authority).
+![A concise summary of the image shows the logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - The customer’s behaviour:
 
+
 i. In relation to the contract, for example:
 
-![A simple text-based logo for the "Joint Committee of the European Supervisory Authorities". The text is in a grey sans-serif font on a white background, arranged in two lines.
+![A simple, text-based logo of the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font, displayed on a plain white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
@@ -5095,6 +5943,7 @@ e. the customer transfers the contract to an apparently unrelated third party;
 f. the customer’s request to change or increase the sum insured and/or the
 premium payment are unusual or excessive.
 
+
 ii. In relation to the beneficiary, for example:
 
 a. the insurer is made aware of a change in beneficiary only when the claim is made;
@@ -5102,6 +5951,7 @@ b. the customer changes the beneficiary clause and nominates an apparently
 unrelated third party;
 c. the insurer, the customer, the beneficial owner, the beneficiary or the beneficial
 owner of the beneficiary are in different jurisdictions.
+
 
 iii. In relation to payments, for example:
 
@@ -5116,15 +5966,19 @@ expected;
 e. payments received from unrelated third parties;
 f. catch-up contribution to a retirement plan close to retirement date.
 
+
 183. The following factors may contribute to reducing risk:
 
+
 In the case of corporate-owned life insurance, the customer is:
+
 
   - a credit or financial institution that is subject to requirements to combat money
 
 laundering and the financing of terrorism and supervised for compliance with these
 
 requirements in a manner that is consistent with Directive (EU) 2015/849;
+
 
   - a public company listed on a stock exchange and subject to regulatory disclosure
 
@@ -5134,41 +5988,45 @@ that impose requirements to ensure adequate transparency of beneficial ownership
 
 a majority-owned subsidiary of such a company;
 
+
   - a public administration or a public enterprise from an EEA jurisdiction.
+
 
 34 A ‘free look’ provision is a contractual provision, often mandatory under local law, which allows a policy
 owner or annuitant of a life insurance or annuity contract to examine a contract for a certain number of days
 and return it for a full refund.
 
+
 60
+
 
 
 -----
 
-![A concise summary of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), displayed side-by-side on a white background.
+![A concise summary of the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the blue logo for the EBA, the European Banking Authority. The logo features the acronym "EBA" in large white letters on a patterned background next to the full name on a solid blue background.
+![A concise summary of the image for retrieval: The logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES".
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
-### Distribution channel risk factors
+EUROPEAN BANKING AUTHORITY](#)
+
+Distribution channel risk factors
+
 
 184. The following factors may contribute to increasing risk:
 
-![This is a minimalist, text-based logo for the Joint Committee of the European Supervisory Authorities. The text is grey, in a sans-serif font, and presented in two lines on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey sans-serif font on a white background, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
+
 
   - non-face-to-face sales, such as online, postal or telephone sales, without adequate
 
@@ -5176,13 +6034,17 @@ safeguards, such as electronic signatures or electronic identification documents
 
 comply with Regulation (EU) No 910/2014;
 
+
   - long chains of intermediaries;
+
 
   - an intermediary is used in unusual circumstances (e.g. unexplained geographical
 
 distance).
 
+
 185. The following factors may contribute to reducing risk:
+
 
   - Intermediaries are well known to the insurer, who is satisfied that the intermediary
 
@@ -5190,14 +6052,19 @@ applies CDD measures commensurate to the risk associated with the relationship a
 
 line with those required under Directive (EU) 2015/849.
 
+
   - The product is only available to employees of certain companies that have a contract
 
 with the insurer to provide life insurance for their employees, for example as part of a
 
 benefits package.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 186. The following factors may contribute to increasing risk:
+
 
   - The insurer, the customer, the beneficial owner, the beneficiary or the beneficial
 
@@ -5207,11 +6074,13 @@ higher ML/TF risk. Firms should pay particular attention to jurisdictions withou
 
 effective AML/CFT supervision.
 
+
   - Premiums are paid through accounts held with financial institutions established in
 
 jurisdictions associated with higher ML/TF risk. Firms should pay particular attention to
 
 jurisdictions without effective AML/CFT supervision.
+
 
   - The intermediary is based in, or associated with, jurisdictions associated with higher
 
@@ -5219,41 +6088,50 @@ ML/TF risk. Firms should pay particular attention to jurisdictions without effec
 
 AML/CFT supervision.
 
+
 187. The following factors may contribute to reducing risk:
+
 
   - Countries are identified by credible sources, such as mutual evaluations or detailed
 
 assessment reports, as having effective AML/CFT systems.
 
+
   - Countries are identified by credible sources as having a low level of corruption and
 
 other criminal activity.
 
+
 61
+
 
 
 -----
 
-![This is the logo for the European Banking Authority (EBA) shown under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with the acronym "EBA" in a white sans-serif font, with a wavy line pattern in the background.
+![A concise summary of the image for retrieval:
+The logo for the EBA (European Banking Authority) is displayed below the title "THE RISK FACTORS GUIDELINES". The logo features the acronym "EBA" in large white letters on a blue, wave-patterned background, with "EUROPEAN BANKING AUTHORITY" written to the right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### **Measures **
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
-![This is the logotype for the Joint Committee of the European Supervisory Authorities, featuring grey, sans-serif text on a plain white background.
+**Measures**
+
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA (European Securities and Markets Authority) with a circle of blue stars, and on the right is the logo for EIOPA (European Insurance and Occupational Pensions Authority) with a blue geometric design.
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
 
 188. Article 13(5) of Directive (EU) 2015/849 provides that, for life insurance business, firms
 
@@ -5261,9 +6139,11 @@ must apply CDD measures not only to the customer and beneficial owner but also t
 
 beneficiaries as soon as they are identified or designated. This means that firms must:
 
+
   - obtain the name of the beneficiary where either a natural or legal person or an
 
 arrangement is identified as the beneficiary; or
+
 
   - obtain sufficient information to be satisfied that the identities of the beneficiaries can be
 
@@ -5273,16 +6153,22 @@ designated by certain characteristics. For example, where the beneficiary is ‘
 
 grandchildren’, the insurer could obtain information about the policy holder’s children.
 
+
 189. Firms must verify the beneficiaries’ identities at the latest at the time of payout.
+
 
 190. Where the firm knows that the life insurance has been assigned to a third party who will
 
 receive the value of the policy, they must identify the beneficial owner at the time of the
 
 assignment.
-### Enhanced customer due diligence
+
+
+Enhanced customer due diligence
+
 
 191. The following EDD measures may be appropriate in a high-risk situation:
+
 
   - Where the customer makes use of the ‘free look’/‘cooling-off’ period, the premium
 
@@ -5298,11 +6184,13 @@ whether the cancellation gives rise to suspicion about the transaction and wheth
 
 submitting a suspicious activity report would be appropriate.
 
+
   - Additional steps may be taken to strengthen the firm’s knowledge about the
 
 customer, the beneficial owner, the beneficiary or the beneficiary’s beneficial owner,
 
 the third party payers and payees. Examples include:
+
 
 i. not using the derogation in Article 14(2) of Directive (EU) 2015/849, which provides for
 
@@ -5324,31 +6212,30 @@ v. if the payer is different from the customer, establishing the reason why;
 
 vi. verifying identities on the basis of more than one reliable and independent source;
 
+
 62
+
 
 
 -----
 
-![A text-only logo for the Joint Committee of the European Supervisory Authorities, featuring grey sans-serif text on a white background.
+![A simple text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym within a circle of stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue geometric design above its name.
+![A side-by-side comparison of the logos for two European financial regulatory bodies. On the left is the ESMA (European Securities and Markets Authority) logo, featuring a circle of stars. On the right is the EIOPA (European Insurance and Occupational Pensions Authority) logo, with a blue, abstract cube design.
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up image showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The logo is a blue rectangle with "EBA" in large white letters on a patterned background on the left, and the full name "EUROPEAN BANKING AUTHORITY" in smaller white letters on the right.
+![A document header for "THE RISK FACTORS GUIDELINES" featuring the logo of the European Banking Authority (EBA).
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 vii. establishing the customer’s source of wealth and source of funds, for example
 
@@ -5376,6 +6263,7 @@ name with a bank subject to CDD standards that are not less robust than those re
 
 under Directive (EU) 2015/849.
 
+
 192. Article 20 of Directive (EU) 2015/849 requires that, where the risk associated with a PEP
 
 relationship is high, firms must not only apply CDD measures in line with Article 13 of the
@@ -5388,14 +6276,19 @@ situation and decide on the most appropriate measures to mitigate that risk; in 
 
 firms must conduct EDD on the entire business relationship.
 
+
 193. More frequent and more in-depth monitoring of transactions may be required (including
 
 where necessary, establishing the source of funds).
-### Simplified customer due diligence
+
+
+Simplified customer due diligence
+
 
 194. The following measures may satisfy some of the CDD requirements in low-risk situations
 
 (to the extent permitted by national legislation):
+
 
   - Firms may be able to assume that the verification of the identity of the customer is
 
@@ -5403,34 +6296,36 @@ fulfilled on the basis of a payment drawn on an account that the firm is satisfi
 
 the sole or joint name of the customer with an EEA-regulated credit institution.
 
+
   - Firms may be able to assume that the verification of the identity of the beneficiary of
 
 the contract is fulfilled on the basis of a payment made to an account in the
 
 beneficiary’s name at a regulated EEA credit institution.
 
+
 63
+
 
 
 -----
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side by side on a white background. The ESMA logo on the left features a circle of blue stars, while the EIOPA logo on the right has a modern blue geometric design.
+![A concise summary of the two logos of European financial regulatory authorities: the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos incorporate the European Union's circle of stars.
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial image showing the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The EBA logo is a blue rectangle with the acronym "EBA" on the left over a wavy pattern and the full name "EUROPEAN BANKING AUTHORITY" on the right.
+![A concise summary of the European Banking Authority (EBA) logo under the title "THE RISK FACTORS GUIDELINES". The logo is blue with the white acronym "EBA" and the full name of the authority.
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
+
 ## Chapter 8: Sectoral guidelines for investment firms
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, featuring the organization's name in two lines of grey, uppercase, sans-serif text on a plain white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
@@ -5445,6 +6340,7 @@ investment management, where investment managers advise their customers on which
 
 investments to make but do not execute transactions on their customers’ behalf.
 
+
 196. Investment managers usually have a limited number of private or institutional customers
 
 many of which are wealthy, for example high-net-worth individuals, trusts, companies,
@@ -5457,27 +6353,42 @@ associated with investment management is therefore driven primarily by the risk
 
 associated with the type of customers investment managers serve.
 
+
 197. Firms in this sector should consider the following risk factors and measures alongside
 
 those set out in Title II of these guidelines. The sectoral guidelines in Title III, Chapter 5,
 
 may also be relevant in this context.
-### **Risk factors ** Product, service or transaction risk factors
+
+
+**Risk factors**
+
+
+Product, service or transaction risk factors
+
 
 198. The following factors may contribute to increasing risk:
 
+
   - transactions are unusually large;
 
+
   - third party payments are possible;
+
 
   - the product or service is used for subscriptions that are quickly followed by redemption
 
 possibilities, with limited intervention by the investment manager.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 199. The following factors may contribute to increasing risk:
 
+
   - The customer’s behaviour, for example:
+
 
 i. the rationale for the investment lacks an obvious economic purpose;
 
@@ -5495,32 +6406,30 @@ iv. unwillingness to provide CDD information on the customer and the beneficial 
 
 v. frequent changes to CDD information or payment details;
 
+
 64
+
 
 
 -----
 
-![This is the text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in a grey, sans-serif, all-caps font on a plain white background.
+![A grey text logo on a white background for the Joint Committee of the European Supervisory Authorities.
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side comparison of the logos for two European Union financial regulatory authorities: ESMA and EIOPA. The ESMA (European Securities and Markets Authority) logo is on the left, featuring the acronym 'esma' within a circle of blue stars. The EIOPA (European Insurance and Occupational Pensions Authority) logo is on the right, with a stylized blue cube and the acronym 'eiopa' in a modern font.
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). Both logos feature the European Union circle of stars.
 
 esma
-European Securities and
-Markets Authority
-EIOPA
+European Securities and Markets Authority
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is blue and white with an orange accent line. The image also includes the title text "THE RISK FACTORS GUIDELINES" above the logo.
+![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is blue with the acronym EBA in large white letters.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 vi. the customer transfers funds in excess of those required for the investment and asks for
 
@@ -5540,7 +6449,9 @@ example nominee companies, are used in different jurisdictions, particularly whe
 
 jurisdictions are associated with higher ML/TF risk.
 
+
   - The customer’s nature, for example:
+
 
 i. the customer is a company or trust established in a jurisdiction associated with higher
 
@@ -5562,87 +6473,62 @@ might enable them to abuse their position for private gain;
 
 vi. the customer is a non-regulated nominee company with unknown shareholders.
 
+
   - The customer’s business, for example the customer’s funds are derived from business in
 
 sectors that are associated with a high risk of financial crime.
 
+
 200. The following factors may contribute to reducing risk:
+
 
   - The customer is an institutional investor whose status has been verified by an EEA
 
 government agency, for example a government-approved pensions scheme.
 
+
   - The customer is a government body from an EEA jurisdiction.
 
+
   - The customer is a financial institution established in an EEA jurisdiction.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 201. The following factors may contribute to increasing risk:
+
 
   - The investor or their custodian is based in a jurisdiction associated with higher ML/TF
 
 risk.
 
+
   - The funds come from a jurisdiction associated with higher ML/TF risk.
+
 
 65
 
 
+
 -----
 
-![An image featuring the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The blue logo contains the acronym "EBA" in large white letters and the full name "EUROPEAN BANKING AUTHORITY" to the right.
+![A concise summary of the logo of the EBA (European Banking Authority) with the title "The Risk Factors Guidelines".
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
-### **Measures **
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
-![A text-based logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, uppercase, sans-serif text on a plain white background.
+**Measures**
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
-
-![This is a side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of EU stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), with a modern blue diamond graphic and its stylized acronym.
-
-esma
-European Securities and
-Markets Authority
-eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
-
-202. Investment managers typically need to develop a good understanding of their customers
-
-to help them identify suitable investment portfolios. The information gathered will be
-
-similar to that which firms obtain for AML/CFT purposes.
-
-203. Firms should follow the EDD guidelines set out in Title II in higher risk situations. In
-### addition, where the risk associated with a business relationship is high, firms should :
-
-  - identify and, where necessary, verify the identity of the underlying investors of the
-
-firm’s customer where the customer is an unregulated third party investment vehicle;
-
-  - understand the reason for any payment or transfer to or from an unverified third
-
-party.
-
-204. To the extent permitted by national legislation, investment managers may apply the SDD
-
-guidelines set out in Title II in low-risk situations.
-
-66
-
-
------
-
-![This is a minimalist logo for the Joint Committee of the European Supervisory Authorities. The logo consists of the organization's name in a grey, uppercase, sans-serif font on a white background, split into two lines.
+![A logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background, split into two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial authorities: the European Securities and Markets Authority (ESMA) on the left, and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. The ESMA logo features the acronym 'esma' inside a circle of blue stars, while the EIOPA logo has a blue abstract cube design.
+![A side-by-side display of the logos for two European financial regulatory authorities: the European Securities and Markets Authority (ESMA) on the left and the European Insurance and Occupational Pensions Authority (EIOPA) on the right. Both logos feature their respective acronyms and full names.
 
 esma
 European Securities and Markets Authority
@@ -5650,11 +6536,60 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![The logo of the European Banking Authority (EBA) with the heading 'THE RISK FACTORS GUIDELINES'.
+
+202. Investment managers typically need to develop a good understanding of their customers
+
+to help them identify suitable investment portfolios. The information gathered will be
+
+similar to that which firms obtain for AML/CFT purposes.
+
+
+203. Firms should follow the EDD guidelines set out in Title II in higher risk situations. In
+
+addition, where the risk associated with a business relationship is high, firms should :
+
+
+  - identify and, where necessary, verify the identity of the underlying investors of the
+
+firm’s customer where the customer is an unregulated third party investment vehicle;
+
+
+  - understand the reason for any payment or transfer to or from an unverified third
+
+party.
+
+
+204. To the extent permitted by national legislation, investment managers may apply the SDD
+
+guidelines set out in Title II in low-risk situations.
+
+
+66
+
+
+
+-----
+
+![A text logo for the Joint Committee of the European Supervisory Authorities in a gray, sans-serif font on a white background.
+
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+
+![A side-by-side comparison of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
+
+esma
+European Securities and Markets Authority
+eiopa
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+
+![A close-up view of the title "THE RISK FACTORS GUIDELINES" above the official logo of the European Banking Authority (EBA). The logo features the acronym "EBA" in large white letters on a blue background with a wave pattern, next to the full name "EUROPEAN BANKING AUTHORITY".
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
+
 ## Chapter 9: Sectoral guidelines for providers of investment funds
 
 205. The provision of investment funds can involve multiple parties: the fund manager,
@@ -5666,6 +6601,7 @@ prime brokers. Similarly, the distribution of these funds can involve parties su
 agents, advisory and discretionary wealth managers, platform service providers and
 
 independent financial advisers.
+
 
 206. The type and number of parties involved in the funds distribution process depends on the
 
@@ -5679,13 +6615,16 @@ the fund’s CDD obligations may be carried out by one or more of these other pa
 
 subject to certain conditions.
 
+
 207. Investment funds may be used by persons or entities for ML/TF purposes:
+
 
   - Retail funds are often distributed on a non-face-to-face basis; access to such funds is
 
 often easy and relatively quick to achieve, and holdings in such funds can be
 
 transferred between different parties.
+
 
   - Alternative investment funds, such as hedge funds, real estate and private equity
 
@@ -5705,6 +6644,7 @@ are mentioned as a factor indicating potentially higher risk in Annex III to Dir
 
 (EU) 2015/849.
 
+
   - Notwithstanding the often medium- to long-term nature of the investment, which can
 
 contribute to limiting the attractiveness of these products for money laundering
@@ -5713,7 +6653,9 @@ purposes, they may still appeal to money launderers on the basis of their abilit
 
 generate growth and income.
 
+
 208. This chapter is directed at:
+
 
 a) investment fund managers performing activities under Article 3(2)(a) of Directive
 
@@ -5723,22 +6665,26 @@ b) investment funds marketing their own shares or units, under Article 3(2)(d) o
 
 Directive (EU) 2015/849.
 
+
 Other parties involved in the provision or distribution of the fund, for example
 
 intermediaries, may have to comply with their own CDD obligations and should refer to
 
 relevant chapters in these guidelines as appropriate.
 
+
 67
+
 
 
 -----
 
-![The text logo for the Joint Committee of the European Supervisory Authorities, featuring grey uppercase text on a white background.
+![A grey text logo for the Joint Committee of the European Supervisory Authorities on a white background.
 
-JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+JOINT COMMITTEE OF THE EUROPEAN
+SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, blue with a circle of stars. The EIOPA logo is on the right, with a stylized blue and black design.
+![A side-by-side display of the logos for two European financial regulatory authorities. On the left is the logo for the European Securities and Markets Authority (ESMA), and on the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
@@ -5746,7 +6692,7 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a partial screenshot showing the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA). The blue logo features the acronym "EBA" on the left and the full name on the right.
+![A concise summary of the image shows the title "THE RISK FACTORS GUIDELINES" above the logo for the European Banking Authority (EBA).
 
 THE RISK FACTORS GUIDELINES
 EBA
@@ -5755,17 +6701,26 @@ EUROPEAN BANKING AUTHORITY](#)
 209. For funds and fund managers, the sectoral guidelines in Title III, Chapters 1, 7 and 8, may
 
 also be relevant.
-### **Risk factors ** Product, service or transaction risk factors
+
+
+**Risk factors**
+
+
+Product, service or transaction risk factors
+
 
 210. The following factors may contribute to increasing the risk associated with the fund:
+
 
   - The fund is designed for a limited number of individuals or family offices, for example a
 
 private fund or single investor fund.
 
+
   - It is possible to subscribe to the fund and then quickly redeem the investment without
 
 the investor incurring significant administrative costs.
+
 
   - Units of or shares in the fund can be traded without the fund or fund manager being
 
@@ -5775,9 +6730,11 @@ divided among several subjects (as is the case with closed-ended funds traded on
 
 secondary markets).
 
+
 211. The following factors may contribute to increasing the risk associated with the
 
 subscription:
+
 
   - The subscription involves accounts or third parties in multiple jurisdictions, in
 
@@ -5785,20 +6742,29 @@ particular where these jurisdictions are associated with a high ML/TF risk as de
 
 paragraphs 22-27 of Title II of the guidelines.
 
+
   - The subscription involves third party subscribers or payees, in particular where this is
 
 unexpected.
 
+
 212. The following factors may contribute to reducing the risk associated with the fund:
+
 
   - Third party payments are not allowed.
 
+
   - The fund is open to small-scale investors only, with investments capped.
-### Customer risk factors
+
+
+Customer risk factors
+
 
 213. The following factors may contribute to increasing risk:
 
+
   - The customer’s behaviour is unusual, for example:
+
 
 i. The rationale for the investment lacks an obvious strategy or economic purpose or the
 
@@ -5816,30 +6782,34 @@ iv. The customer requests the repeated purchase and sale of shares within a shor
 
 time without an obvious strategy or economic rationale.
 
+
 68
+
 
 
 -----
 
-![A simple, text-only logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, uppercase, sans-serif font, arranged in two lines on a white background.
+![A simple text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif, all-caps font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side display of the logos for two European Union financial regulatory authorities. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring the EU stars in a circle. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, with a blue geometric design.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
-European Securities and
-Markets Authority
+European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the European Banking Authority (EBA) presented under the heading "THE RISK FACTORS GUIDELINES." The logo is a blue rectangle with the acronym "EBA" in large white letters on the left, which has a wavy line pattern. On the right, the full name "EUROPEAN BANKING AUTHORITY" is written in smaller white text.
+![A concise summary of the image for retrieval:
+This image displays the title "THE RISK FACTORS GUIDELINES" above the logo of the European Banking Authority (EBA). The logo is a blue rectangle with the white letters "EBA" on a wavy background, and the full name "EUROPEAN BANKING AUTHORITY" to the right.
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN BANKING AUTHORITY](#)
+EUROPEAN
+BANKING
+AUTHORITY](#)
 
 v. The customer transfers funds in excess of those required for the investment and asks for
 
@@ -5873,18 +6843,25 @@ ML/TF risk, in particular where the jurisdiction is associated with higher level
 
 predicate offences to ML/TF.
 
+
 214. The following factors may contribute to reducing risk:
+
 
   - the customer is an institutional investor whose status has been verified by an EEA
 
 government agency, for example a government-approved pensions scheme;
 
+
   - the customer is a firm in an EEA country or a third country that has AML/CFT
 
 requirements that are not less robust than those required by Directive (EU) 2015/849.
-### Distribution channel risk factors
+
+
+Distribution channel risk factors
+
 
 215. The following factors may contribute to increasing risk:
+
 
   - unclear or complex distribution channels that limit the fund’s oversight of its business
 
@@ -5892,35 +6869,45 @@ relationships and restrict its ability to monitor transactions, for example the 
 
 large number of sub-distributors for distribution in third countries;
 
+
   - the distributor is located in a jurisdiction associated with higher ML/TF risk as defined in
 
 the general part of these guidelines.
 
+
 216. The following factors may indicate lower risk:
+
 
   - The fund admits only a designated type of low-risk investor, such as regulated firms
 
 investing as a principal (e.g. life companies) or corporate pension schemes.
+
 
   - The fund can be purchased and redeemed only through a firm, for example a financial
 
 intermediary, in an EEA country or a third country that has AML/CFT requirements
 
 that are not less robust than those required by Directive (EU) 2015/849.
-### Country or geographical risk factors
+
+
+Country or geographical risk factors
+
 
 217. The following factors may contribute to increasing risk:
+
 
 69
 
 
+
 -----
 
-![A simple text logo for the Joint Committee of the European Supervisory Authorities. The name is written in two lines of grey, sans-serif, all-caps text on a plain white background.
+![A logo for the Joint Committee of the European Supervisory Authorities, presented in a simple grey sans-serif font on a white background.
+
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of two European financial regulatory authorities side-by-side. On the left is the logo for ESMA, the European Securities and Markets Authority, featuring its acronym in blue surrounded by a circle of blue stars. On the right is the logo for EIOPA, the European Insurance and Occupational Pensions Authority, which has a stylized blue cube design above its name.
+![A concise summary of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo is on the left, featuring a circle of stars. The EIOPA logo is on the right, with a blue geometric design.
 
 esma
 European Securities and Markets Authority
@@ -5928,19 +6915,21 @@ eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo for the EBA (European Banking Authority) under the title "THE RISK FACTORS GUIDELINES". The logo is a blue rectangle with a wavy pattern and the white text "EBA" next to a smaller blue rectangle with the text "EUROPEAN BANKING AUTHORITY".
+![A concise summary of the image for retrieval:
+The logo of the European Banking Authority (EBA) is shown below the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 
   - Investors’ monies have been generated in jurisdictions associated with higher ML/TF
 
 risk, in particular those associated with higher levels of predicate offences to money
 
 laundering.
+
 
   - The fund or fund manager invests in sectors with higher corruption risk (e.g. the
 
@@ -5949,7 +6938,10 @@ extractive industries or the arms trade) in jurisdictions identified by credible
 having significant levels of corruption or other predicate offences to ML/TF, in
 
 particular where the fund is a single investor fund or has a limited number of investors.
-### **Measures **
+
+
+**Measures**
+
 
 218. The measures funds or fund managers should take to comply with their CDD obligations
 
@@ -5967,17 +6959,21 @@ fund, whether they are investing on their own behalf or whether they are an inte
 
 investing on someone else’s behalf.
 
+
 219. The customer is:
+
 
 a) a natural or legal person who directly purchases units of or shares in a fund on their own
 
 account, and not on behalf of other, underlying investors; or
+
 
 b) a firm that, as part of its economic activity, directly purchases units of or shares in its
 
 own name and exercises control over the investment for the ultimate benefit of one or
 
 more third parties who do not control the investment or investment decisions; or
+
 
 c) a firm, for example a financial intermediary, that acts in its own name and is the
 
@@ -5989,6 +6985,7 @@ intermediary is a nominee, broker, multi-client pooled account/omnibus type acco
 
 operator or operator of a similar passive-type arrangement); or
 
+
 d) a firm’s customer, for example a financial intermediary’s customer, where the firm is not
 
 the registered owner of the shares or units (e.g. because the investment fund uses a
@@ -5998,51 +6995,63 @@ financial intermediary to distribute fund shares or units, and the investor purc
 units or shares through the firm and the firm does not become the legal owner of the
 
 units or shares).
-### SDD and EDD measures to be taken in the situations described in paragraphs 219a and 219b
+
+
+SDD and EDD measures to be taken in the situations described in paragraphs 219a and
+
+219b
+
 
 220. In the situations described in paragraphs 219a and 219b, examples of EDD measures a
 
 fund or fund manager should apply in high-risk situations include:
 
+
 70
+
 
 
 -----
 
-![A minimalist grey text logo for the Joint Committee of the European Supervisory Authorities on a plain white background. The text is in a sans-serif font, arranged in two lines.
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background, arranged in two lines.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![This is a side-by-side image of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA). The ESMA logo features a circle of blue stars, while the EIOPA logo has a blue, geometric emblem.
+![A side-by-side display of the logos for the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA).
 
 esma
 European Securities and Markets Authority
 eiopa
-EUROPEAN INSURANCE
-AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a close-up of the European Banking Authority (EBA) logo, which is blue and features the acronym "EBA" in large white letters. The image also includes the text "THE RISK FACTORS GUIDELINES" above the logo.
+![A logo of the European Banking Authority (EBA) with the title "The Risk Factors Guidelines".
 
 THE RISK FACTORS GUIDELINES
 EBA
 EUROPEAN BANKING AUTHORITY](#)
 
+
   - obtaining additional customer information, such as the customer’s reputation and
 
 background, before the establishment of the business relationship;
 
+
   - taking additional steps to further verify the documents, data or information obtained;
+
 
   - obtaining information on the source of funds and/or the source wealth of the customer
 
 and of the customer’s beneficial owner;
 
+
   - requiring that the redemption payment is made through the initial account used for
 
 investment or an account in the sole or joint name of the customer;
 
+
   - increasing the frequency and intensity of transaction monitoring;
+
 
   - requiring that the first payment is made through a payment account held in the sole or
 
@@ -6052,11 +7061,14 @@ regulated credit or financial institution in a third country that has AML/CFT re
 
 that are not less robust than those required by Directive (EU) 2015/849;
 
+
   - obtaining approval from senior management at the time of the transaction when a
 
 customer uses a product or service for the first time;
 
+
   - enhanced monitoring of the customer relationship and individual transactions.
+
 
 221. In lower risk situations, to the extent permitted by national legislation, and provided that
 
@@ -6067,7 +7079,10 @@ customer’s sole or joint name with an EEA-regulated credit or financial instit
 example of the SDD measures the fund or fund manager may apply is using the source of
 
 funds to meet some of the CDD requirements.
-### SDD and EDD measures to be taken in situations described in paragraph 219c
+
+
+SDD and EDD measures to be taken in situations described in paragraph 219c
+
 
 222. In the situations described in paragraph 219c, where the financial intermediary is the fund
 
@@ -6084,50 +7099,57 @@ funds or fund managers may apply SDD measures similar to those described in para
 
 112 of these guidelines, subject to the following conditions:
 
+
   - The financial intermediary is subject to AML/CFT obligations in an EEA jurisdiction or in a
 
 third country that has AML/CFT requirements that are not less robust than those
 
 required by Directive (EU) 2015/849.
 
+
   - The financial intermediary is effectively supervised for compliance with these
 
 requirements.
+
 
   - The fund or fund manager has taken risk-sensitive steps to be satisfied that the ML/TF
 
 risk associated with the business relationship is low, based on, inter alia, the fund or
 
+
 71
+
 
 
 -----
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities, presented as grey, sans-serif text on a plain white background.
+![A text-based logo for the Joint Committee of the European Supervisory Authorities. The text is in a grey, sans-serif font on a white background.
 
 JOINT COMMITTEE OF THE EUROPEAN
 SUPERVISORY AUTHORITIES](#)
 
-![An image displaying the logos of the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA) side-by-side on a white background. The ESMA logo features a circle of blue stars around the acronym "esma". The EIOPA logo has a blue geometric design above the stylized acronym "eiopa".
+![A side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of European Union stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which includes a modern blue graphic above its acronym.
 
 esma
 European Securities and Markets Authority
-eIopA
-EUROPEAN INSURANCE AND OCCUPATIONAL PENSIONS AUTHORITY](#)
+eiopa
+EUROPEAN INSURANCE
+AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is a logo for the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" written above it. The logo is blue and features the acronym EBA on a background with a wavy pattern.
+![A concise summary of the image for retrieval:
+The logo for the European Banking Authority (EBA) is shown below the title "THE RISK FACTORS GUIDELINES".
 
+Extracted text from the image:
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
 
 fund manager’s assessment of the financial intermediary’s business, the types of clients
 
 the intermediary’s business serves and the jurisdictions the intermediary’s business is
 
 exposed to.
+
 
   - The fund or fund manager has taken risk-sensitive steps to be satisfied that the
 
@@ -6141,6 +7163,7 @@ procedures, for example by referring to publicly available information about the
 
 intermediary’s compliance record or liaising directly with the intermediary.
 
+
   - The fund or fund manager has taken risk-sensitive steps to be satisfied that the
 
 intermediary will provide CDD information and documents on the underlying investors
@@ -6151,12 +7174,16 @@ with the intermediary or by sample-testing the intermediary’s ability to provi
 
 information upon request.
 
+
 223. Where the risk is increased, in particular where the fund is designated for a limited
 
 number of investors, EDD measures must apply and may include those set out in
 
 paragraph 220 above.
-### SDD and EDD measures to be taken in situations described in paragraph 219d
+
+
+SDD and EDD measures to be taken in situations described in paragraph 219d
+
 
 224. In the situations described in paragraph 219d, the fund or fund manager should apply
 
@@ -6167,6 +7194,7 @@ customer. To meet its CDD obligations, the fund or fund manager may rely upon th
 intermediary in line with, and subject to, the conditions set out in Chapter II, Section 4, of
 
 Directive (EU) 2015/849.
+
 
 225. To the extent permitted by national law, in low-risk situations, funds or fund managers
 
@@ -6182,42 +7210,47 @@ intermediary within a reasonable timeframe. The fund or fund manager should set 
 
 timeframe in line with the risk-based approach.
 
+
 226. Where the risk is increased, in particular where the fund is designated for a limited
 
 number of investors, EDD measures must apply and may include those set out in paragraph
 
 220 above.
 
+
 72
+
 
 
 -----
 
-![This is a side-by-side comparison of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring the acronym "esma" inside a circle of blue stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which has a blue, translucent, cube-like graphic above its name.
+![A side-by-side display of the logos for two European financial regulatory bodies. On the left is the logo for the European Securities and Markets Authority (ESMA), featuring its acronym in blue surrounded by a circle of European Union stars. On the right is the logo for the European Insurance and Occupational Pensions Authority (EIOPA), which includes a stylized blue cube with EU stars and its acronym below.
 
 esma
 European Securities and Markets Authority
-eIopa
+eiopa
 EUROPEAN INSURANCE
 AND OCCUPATIONAL PENSIONS AUTHORITY](#)
 
-![This is the logo of the European Banking Authority (EBA) with the title "THE RISK FACTORS GUIDELINES" above it. The logo is a blue rectangle with the white letters "EBA" and the full name "EUROPEAN BANKING AUTHORITY" to the right.
+![A concise summary of the logo of the European Banking Authority (EBA) under the title "THE RISK FACTORS GUIDELINES". The logo features the acronym EBA in large white letters on a blue patterned background, next to the full name "EUROPEAN BANKING AUTHORITY" in a solid blue box.
 
 THE RISK FACTORS GUIDELINES
 EBA
-EUROPEAN
-BANKING
-AUTHORITY](#)
+EUROPEAN BANKING AUTHORITY](#)
+
 # Title IV – Im lementation p
-### Implementation
 
-![This is the logo for the Joint Committee of the European Supervisory Authorities. The logo is text-based, featuring grey, uppercase, sans-serif font on a plain white background.
+Implementation
 
-JOINT COMMITTEE OF THE EUROPEAN
-SUPERVISORY AUTHORITIES](#)
+![A grey text logo on a white background for the Joint Committee of the European Supervisory Authorities.
+
+JOINT COMMITTEE OF THE EUROPEAN SUPERVISORY AUTHORITIES](#)
+
 
 227. Competent authorities and firms should comply with these guidelines by 26 June 2018.
 
 
+
 73
+
 
