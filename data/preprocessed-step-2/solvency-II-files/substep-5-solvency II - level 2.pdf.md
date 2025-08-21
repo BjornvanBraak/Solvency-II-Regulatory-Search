@@ -1,4 +1,261 @@
 
+--- Page 1 ---
+## II
+
+*(Non-legislative acts)*
+# REGULATIONS
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/35**
+
+**of 10 October 2014**
+
+**supplementing Directive 2009/138/EC of the European Parliament and of the Council on the**
+**taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)**
+
+**(Text with EEA relevance)**
+
+TABLE OF CONTENTS
+
+TITLE I VALUATION AND RISK-BASED CAPTAL REQUIREMENTS (PILLAR I), ENHANCED GOVERNANCE (PILLAR II) AND
+INCREASED TRANPARENCY (PILLAR III) ................................................................................................... 20
+
+CHAPTER I General provisions ........................................................................................................... 20
+
+SECTION 1 Definitions and general principles ........................................................................................ 20
+
+SECTION 2 External credit assessments ................................................................................................. 24
+
+CHAPTER II Valuation of assets and liabilities ......................................................................................... 25
+
+CHAPTER III Rules relating to technical provisions .................................................................................. 29
+
+SECTION 1 General provisions ........................................................................................................... 29
+
+SECTION 2 Data quality .................................................................................................................... 31
+
+SECTION 3 Methodologies to calculate technical provisions ....................................................................... 32
+
+SUBSECTION 1 Assumptions underlying the calculation of technical provisions ............................................. 32
+
+SUBSECTION 2 Information underlying the calculation of best estimates ...................................................... 34
+
+SUBSECTION 3 Cash flow projections for the calculation of the best estimate ................................................ 35
+
+SUBSECTION 4 Risk margin ............................................................................................................... 37
+
+SUBSECTION 5 Calculation of technical provisions as a whole ................................................................... 39
+
+SUBSECTION 6 Recoverables from reinsurance contracts and special purpose vehicles ..................................... 39
+
+SECTION 4 Relevant risk-free interest rate term structure .......................................................................... 40
+
+SUBSECTION 1 General provisions ....................................................................................................... 40
+
+SUBSECTION 2 Basic risk free interest rate term structure ......................................................................... 41
+
+SUBSECTION 3 Volatility adjustment .................................................................................................... 42
+
+SUBSECTION 4 Matching adjustment .................................................................................................... 43
+
+SECTION 5 Lines of business .............................................................................................................. 44
+
+SECTION 6 Proportionality and simplifications ....................................................................................... 45
+
+CHAPTER IV Own funds ................................................................................................................... 47
+
+SECTION 1 Determination of own funds ............................................................................................... 47
+
+SUBSECTION 1 Supervisory approval of ancillary own funds ..................................................................... 47
+--- Page 2 ---
+SUBSECTION 2 Own funds treatment of participations ............................................................................. 49
+
+SECTION 2 Classification of own funds ................................................................................................ 50
+
+SECTION 3 Eligibility of own funds ..................................................................................................... 58
+
+SUBSECTION 1 Ring-fenced funds ....................................................................................................... 58
+
+SUBSECTION 2 Quantitative limits ....................................................................................................... 59
+
+CHAPTER V Solvency capital requirement standard formula ...................................................................... 59
+
+SECTION 1 General provisions ........................................................................................................... 59
+
+SUBSECTION 1 Scenario based calculations ............................................................................................ 59
+
+SUBSECTION 2 Look-through approach ................................................................................................ 60
+
+SUBSECTION 3 Regional governments and local authorities ....................................................................... 60
+
+SUBSECTION 4 Material basis risk ....................................................................................................... 60
+
+SUBSECTION 5 Calculation of the basic solvency capital requirement .......................................................... 61
+
+SUBSECTION 6 Proportionality and simplifications .................................................................................. 61
+
+SUBSECTION 7 Scope of the underwriting risk modules ........................................................................... 72
+
+SECTION 2 Non-life underwriting risk module ....................................................................................... 72
+
+SECTION 3 Life underwriting risk module ............................................................................................. 87
+
+SECTION 4 Health underwriting risk module ......................................................................................... 91
+
+SECTION 5 Market risk module .......................................................................................................... 104
+
+SUBSECTION 1 Correlation coefficients ................................................................................................. 104
+
+SUBSECTION 2 Interest rate risk sub-module .......................................................................................... 105
+
+SUBSECTION 3 Equity risk sub-module ................................................................................................. 108
+
+SUBSECTION 4 Property risk sub-module .............................................................................................. 111
+
+SUBSECTION 5 Spread risk sub-module ................................................................................................ 111
+
+SUBSECTION 6 Market risk concentrations sub-module ............................................................................ 120
+
+SUBSECTION 7 Currency risk sub-module ............................................................................................. 123
+
+SECTION 6 Counterparty default risk module ........................................................................................ 124
+
+SUBSECTION 1 General provisions ....................................................................................................... 124
+
+SUBSECTION 2 Type 1 exposures ........................................................................................................ 131
+
+SUBSECTION 3 Type 2 exposures ........................................................................................................ 133
+
+SECTION 7 Intangible asset module ..................................................................................................... 134
+
+SECTION 8 Operational risk ............................................................................................................... 134
+
+SECTION 9 Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes ..................... 135
+
+SECTION 10 Risk mitigation techniques ................................................................................................ 136
+
+SECTION 11 Ring fenced funds ........................................................................................................... 141
+
+SECTION 12 Undertaking-specific parameters ........................................................................................ 142
+
+SECTION 13 Procedure for updating correlation parameters ...................................................................... 144
+
+CHAPTER VI Solvency capital requirement — full and partial internal models ............................................... 144
+
+SECTION 1 Definitions ..................................................................................................................... 144
+
+SECTION 2 Use test .......................................................................................................................... 145
+
+SECTION 3 Statistical quality standards ................................................................................................. 146
+
+SECTION 4 Calibration standards ........................................................................................................ 151
+
+SECTION 5 Integration of partial internal models .................................................................................... 151
+
+SECTION 6 Profit and loss attribution .................................................................................................. 152
+--- Page 3 ---
+SECTION 7 Validation standards .......................................................................................................... 152
+
+SECTION 8 Documentation standards .................................................................................................. 153
+
+SECTION 9 External models and data ................................................................................................... 155
+
+CHAPTER VII Minimum capital requirement .......................................................................................... 155
+
+CHAPTER VIII Investments in securitisation positions ............................................................................... 159
+
+CHAPTER IX System of governance ..................................................................................................... 162
+
+SECTION 1 Elements of the system of governance .................................................................................. 162
+
+SECTION 2 Functions ....................................................................................................................... 168
+
+SECTION 3 Fit and proper requirements ............................................................................................... 171
+
+SECTION 4 Outsourcing .................................................................................................................... 171
+
+SECTION 5 Renumeration policy ......................................................................................................... 173
+
+CHAPTER X Capital add-on ................................................................................................................ 174
+
+SECTION 1 Circumstances for imposing a capital add-on .......................................................................... 174
+
+SECTION 2 Methodologies for calculating capital add-ons ......................................................................... 175
+
+CHAPTER XI Extension of the recovery period ....................................................................................... 178
+
+CHAPTER XII Public disclosure ........................................................................................................... 179
+
+SECTION 1 Solvency and financial condition report: structure and contents .................................................. 179
+
+SECTION 2 Solvency and financial condition report: non-disclosure of information ........................................ 185
+
+SECTION 3 Solvency and financial condition report: deadlines, means of disclosure and updates ....................... 186
+
+CHAPTER XIII Regular supervisory reporting ......................................................................................... 187
+
+SECTION 1 Elements and contents ....................................................................................................... 187
+
+SECTION 2 Deadlines and means of communication ............................................................................... 193
+
+CHAPTER XIV Transparency and accountability of supervisory authorities .................................................... 194
+
+CHAPTER XV Special purpose vehicles .................................................................................................. 195
+
+SECTION 1 Authorization ................................................................................................................. 195
+
+SECTION 2 Mandatory contract conditions ............................................................................................ 195
+
+SECTION 3 System of governance ....................................................................................................... 196
+
+SECTION 4 Supervisory reporting ....................................................................................................... 197
+
+SECTION 5 Solvency requirements ...................................................................................................... 197
+
+TITLE II INSURANCE GROUPS .............................................................................................................. 199
+
+CHAPTER I Solvency calculation at group level ....................................................................................... 199
+
+SECTION 1 Group solvency: choice of calculation method and general principles .......................................... 199
+
+SECTION 2 Group solvency: calculation methods .................................................................................... 201
+
+CHAPTER II Internal models for the calculation of the consolidated group solvency capital requirement .............. 206
+
+SECTION 1 Full and partial internal models used to calculate only the group solvency capital requirement .......... 206
+
+SECTION 2 Use of a group internal model ............................................................................................ 208
+
+CHAPTER III Supervision of group solvency for groups with centralised risk management ............................... 210
+
+CHAPTER IV Coordination of group supervision ..................................................................................... 211
+
+SECTION 1 Colleges of supervisors ...................................................................................................... 211
+
+SECTION 2 Exchange of information .................................................................................................... 213
+
+SECTION 3 National or regional subgroup supervision ............................................................................. 213
+
+CHAPTER V Public disclosure ............................................................................................................. 214
+
+SECTION 1 Group solvency and financial condition report ....................................................................... 214
+--- Page 4 ---
+SECTION 2 Single solvency and financial condition report ........................................................................ 216
+
+CHAPTER VI Group supervisory reporting ............................................................................................. 217
+
+SECTION 1 Regular reporting ............................................................................................................. 217
+
+SECTION 2 Reporting on risk concentrations and intragroup transactions .................................................... 219
+
+TITLE III THIRD COUNTRY EEQUIVALENCE AND FINAL PROVISIONS ............................................................... 220
+
+CHAPTER I Undertakings carrying out reinsurance activities with their head office in a third country ................. 220
+
+CHAPTER II Related third country insurance and reinsurance undertakings ................................................... 223
+
+CHAPTER III Insurance and reinsurance undertakings with the parent undertakings outside the union ................ 224
+
+CHAPTER IV Final provisions ............................................................................................................. 226
 --- Page 5 ---
 THE EUROPEAN COMMISSION
 

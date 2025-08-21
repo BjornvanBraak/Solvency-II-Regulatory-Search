@@ -518,26 +518,6 @@ with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powered by Triple A")
 
-    chat_col.markdown("""<!--
-*Corr* ð *earthquake,r,i,j* Þ � *WSI* ð *earthquake,r,i* Þ � *WSI* ð *earthquake,r,j* Þ
-
-
-ð *i,j* Þ
-
-
-where:
-
- replaced equation ['L', 'ð', 'earthquake,r', 'Þ', ' ¼', ' Q', 'ð', 'earthquake,r', 'Þ', ' �', 'Corr', 'ð', 'earthquake,r,i,j', 'Þ', ' �', 'WSI', 'ð', 'earthquake,r,i', 'Þ', ' �', 'WSI', 'ð', 'earthquake,r,j', 'Þ', 'ð', 'i,j', 'Þ'] 
- --> Hi there, how are you""", unsafe_allow_html=True)
-    
-    chat_col.markdown(
-            "$$\n" + r"\sigma_{(prem,s,USP)} = c \cdot \hat{\sigma}(\hat{\delta}, \hat{\gamma}) \frac{1}{2} \cdot \sqrt{T+1 \cdot T-1} + (1-c) \cdot \sigma_{\text{prem,s}}" + "\n$$", unsafe_allow_html=True
-    )
-    # chat_col.chat_message
-    chat_col.chat_message("ai").markdown("$$\nBSCR = \\sqrt{ \\sum_{i} \\sum_{j} Corr(i,j) \\cdot SCR_i \\cdot SCR_j } + SCR_{int}\n$$", unsafe_allow_html=True)
-    chat_col.markdown("$$\n \sigma \n$$")
-
-
     # with st.popover("test"):
     #     st.markdown("# Test")
 

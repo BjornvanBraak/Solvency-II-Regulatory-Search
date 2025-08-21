@@ -1525,6 +1525,255 @@ due consideration of the conclusions presented by the
 ( [2] [) OJ L 235, 23.9.2003, p. 10.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:235:0010:0010:EN:PDF)
 
 ( [3] [) OJ L 9, 15.1.2003, p. 3.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:009:0003:0003:EN:PDF)
+--- Page 14 ---
+**TABLE OF CONTENTS**
+
+
+TITLE I GENERAL RULES ON THE TAKING-UP AND PURSUIT OF DIRECT
+INSURANCE AND REINSURANCE ACTIVITIES
+
+CHAPTER I Subject matter, scope and definitions
+
+SECTION 1 Subject matter and scope Articles 1 and 2
+
+SECTION 2 Exclusions from scope
+
+Subsection 1 General Articles 3 and 4
+
+Subsection 2 Non-life Articles 5 to 8
+
+Subsection 3 Life Articles 9 and 10
+
+Subsection 4 Reinsurance Articles 11 and 12
+
+SECTION 3 Definitions Article 13
+
+CHAPTER II Taking-up of business Articles 14 to 26
+
+CHAPTER III Supervisory authorities and general rules Articles 27 to 39
+
+CHAPTER IV Conditions governing business
+
+SECTION 1 Responsibility of the administrative, management or supervi­
+sory body Article 40
+
+SECTION 2 System of governance Articles 41 to 50
+
+SECTION 3 Public disclosure Article 51 to 56
+
+SECTION 4 Qualifying holdings Articles 57 to 63
+
+SECTION 5 Professional sedcrecy, exchange of information and promo­
+tion of supervisory convergence Articles 64 to 71
+
+SECTION 6 Duties of auditors Article 72
+
+CHAPTER V Pursuit of life and non-life insurance activity Articles 73 and 74
+
+CHAPTER VI Rules relating to the valuation of assets and liabilities, techni­
+cal provisions, own funds, solvency capital requirement, mini­
+mum capital requirement and investment rules
+
+SECTION 1 Valuation of assets and liabilities Article 75
+
+SECTION 2 Rules relating to technical provisions Articles 76 to 86
+
+SECTION 3 Own funds
+
+Subsection 1 Determination of own funds Articles 87 to 92
+
+Subsection 2 Classification of own funds Articles 93 to 97
+
+Subsection 3 Eligibility of own funds Articles 98 and 99
+--- Page 15 ---
+SECTION 4 Solvency capital requirement
+
+Subsection 1 General provisions for the solvency capital requirement using
+the standard formula or an internal model Articles 100 to 102
+
+Subsection 2 Solvency capital requirement standard formula Articles 103 to 111
+
+Subsection 3 Solvency capital requirement full and partial internal models Articles 112 to 127
+
+SECTION 5 Minimum capital requirement Articles 128 to 131
+
+SECTION 6 Investments Articles 132 to 135
+
+CHAPTER VII Insurance and reinsurance undertakings in difficulty or in an
+irregular situation Article 136 to 144
+
+CHAPTER VIII Right of establishment and freedom to provide services
+
+SECTION 1 Establishment by insurance undertakings Article 145 to 146
+
+SECTION 2 Freedom to provide services: by insurance undertakings
+
+Subsection 1 General provisions Article 147 to 149
+
+Subsection 2 Third party motor vehicle liability Article 150 to 152
+
+SECTION 3 Competencies of the supervisory authorities of the host mem­
+ber state
+
+Subsection 1 Insurance Articles 153 to 157
+
+Subsection 2 Reinsurance Article 158
+
+SECTION 4 Statistical information Article 159
+
+SECTION 5 Treatment of contracts of branches in winding-up proceedings Articles 160 to 161
+
+CHAPTER IX Branches established within the community and belonging to
+insurance or reinsurance undertakings with head offices situ­
+ated outside the community
+
+SECTION 1 Taking-up of business Articles 162 to 171
+
+SECTION 2 Reinsurance Articles 172 to 175
+
+CHAPTER X Subsidiaries of insurance and reinsurance undertakings gov­
+erned by the laws of a third country and acquisitions of hold­
+ings by such undertakings Articles 176 and 177
+
+TITLE II SPECIFIC PROVISIONS FOR INSURANCE AND REINSURANCE
+
+CHAPTER I Applicable law and conditions of direct insurance contracts
+
+SECTION 1 Applicable law Article 178
+
+SECTION 2 Compulsory insurance Article 179
+
+SECTION 3 General good Article 180
+
+SECTION 4 Conditions of insurance contracts and scales of premiums Articles 181 and 182
+--- Page 16 ---
+SECTION 5 Information for policy holders
+
+Subsection 1 Non-life insurance Articles 183 and 184
+
+Subsection 2 Life insurance Articles 185 and 186
+
+CHAPTER II Provisions specific to non-life insurance
+
+SECTION 1 General provisions Articles 187 to 189
+
+SECTION 2 Community co-insurance Articles 190 to 196
+
+SECTION 3 Assistance Article 197
+
+SECTION 4 Legal expenses insurance Articles 198 to 205
+
+SECTION 5 Health insurance Article 206
+
+SECTION 6 Insurance against accidents at work Article 207
+
+CHAPTER III Provisions specific to life insurance Articles 208 and 209
+
+CHAPTER IV Rules specific to reinsurance Articles 210 and 211
+
+TITLE III SUPERVISION OF INSURANCE AND REINSURANCE UNDERTAK­
+INGS IN A GROUP
+
+CHAPTER I Group supervision: definitions, cases of application, scope and
+levels
+
+SECTION 1 Definitions Article 212
+
+SECTION 2 Cases of application and scope Articles 213 and 214
+
+SECTION 3 Levels Articles 215 to 217
+
+CHAPTER II Financial position
+
+SECTION 1 Group solvency
+
+Subsection 1 General provisions Articles 218 and 219
+
+Subsection 2 Choice of calculation method and general principles Articles 220 to 224
+
+Subsection 3 Application of the calculation methods Articles 225 to 229
+
+Subsection 4 Calculation methods Articles 230 to 234
+
+Subsection 5 Supervision of group solvency for insurance and reinsurance
+undertakings that are subsidiaries of an insurance holding
+company Article 235
+
+Subsection 6 Supervision of group solvency for groups with centralised risk
+management Articles 236 to 243
+
+SECTION 2 Risk concentration and intra-group transactions Articles 244 and 245
+
+SECTION 3 Risk management and internal control Article 246
+
+CHAPTER III Measures to facilitate group supervision Articles 247 to 259
+
+CHAPTER IV Third countries Articles 260 to 264
+
+CHAPTER V Mixed-activity insurance holding companies Articles 265 and 266
+--- Page 17 ---
+TITLE IV REORGANISATION AND WINDING-UP OF INSURANCE UNDER­
+TAKINGS
+
+CHAPTER I Scope and definitions Articles 267 and 268
+
+CHAPTER II Reorganisation measures Articles 269 to 272
+
+CHAPTER III Winding-up proceedings Articles 273 to 284
+
+CHAPTER IV Common provisions Articles 285 to 296
+
+TITLE V OTHER PROVISIONS Articles 297 to 304
+
+TITLE VI TRANSITIONAL AND FINAL PROVISIONS
+
+CHAPTER I Transitional provisions
+
+SECTION 1 Insurance Articles 305 and 306
+
+SECTION 2 Reinsurance Articles 307 and 308
+
+CHAPTER II Final provisions Articles 309 to 312
+
+# *ANNEX I* CLASSES OF NON-LIFE INSURANCE
+
+A. Classification of risks according to classes of insurance
+
+B. Description of *authorisations* granted for more than one class
+of insurance
+
+# *ANNEX II* CLASSES OF LIFE INSURANCE
+
+# *ANNEX III* LEGAL FORMS OF UNDERTAKINGS
+
+A. Forms of non-life insurance *undertaking* :
+
+B. Forms of life insurance *undertaking* :
+
+C. Forms of reinsurance *undertaking* :
+
+# *ANNEX IV* SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
+
+1. Calculation of the Basic Solvency Capital Requirement
+
+2. Calculation of the non-life underwriting risk module
+
+3. Calculation of the life underwriting risk module
+
+4. Calculation of the market risk module
+
+# *ANNEX V* GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES
+OF ARTICLE 159
+
+# *ANNEX VI*
+
+Part A Repealed Directives with list of their successive amendments
+(referred to in Article 310)
+
+Part B List of time-limits for transposition into national law (referred
+to in Article 310)
+
+# *ANNEX VII* CORRELATION TABLE
 --- Page 18 ---
 # TITLE I
 
@@ -13382,19 +13631,12 @@ L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 1. **Calculation of the Basic Solvency Capital Requirement**
 
 The Basic Solvency Capital Requirement set out in Article 104(1) shall be equal to the following:
-
-### Bcisa SCR = ∑
-# √
-
-j,i
+ $$
+\text{Basic SCR} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_i \times \text{SCR}_j}
+$$ 
 
 
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
-
-where SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
+ SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -13426,19 +13668,12 @@ Non-life 0,25 0,5 0 0 1
 2. **Calculation of the non-life underwriting risk module**
 
 The non-life underwriting risk module set out in Article 105(2) shall be equal to the following:
-
-### SCR nonefil- = ∑
-# √
-
-j,i
+ $$
+\text{SCR}_{\text{non-life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_i \times \text{SCR}_j}
+$$ 
 
 
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
-
-where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+ SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -13449,19 +13684,12 @@ following:
 3. **Calculation of the life underwriting risk module**
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
-
-### SC [R] efil = ∑
-# √
-
-j,i
+ $$
+\text{SCR}_{\text{life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
+$$ 
 
 
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
-
-where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+ SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -13484,19 +13712,12 @@ following:
 Structure of the market risk module
 
 The market risk module, set out in Article 105(5) shall be equal to the following:
-
-### SCR mrakte = ∑
-# √
-
-j,i
+ $$
+\text{SCR}_{\text{market}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
+$$ 
 
 
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
-
-where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+ SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
