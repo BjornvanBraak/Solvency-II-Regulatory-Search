@@ -2,7 +2,7 @@
 --- Page 1 ---
 # **Revised Guidelines on Contract** **Boundaries**
 --- Page 2 ---
-_Guideline 0 - Contract Boundaries (New Guideline)_
+#### _Guideline 0 - Contract Boundaries (New Guideline)_
 
 
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
@@ -20,7 +20,7 @@ using realistic assumptions, which means that the projection of cash flows might
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
 
 
-_Guideline 5 - Contract Boundaries (Amended Guideline)_
+#### _Guideline 5 - Contract Boundaries (Amended Guideline)_
 
 
 2. Insurance and reinsurance undertakings should assess whether at recognition date it is
@@ -75,11 +75,11 @@ to insurance or reinsurance obligations.
 should be treated as an independent contract.
 
 
-_Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted_
+#### _Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted_
 
 _Guideline)_
 --- Page 3 ---
-_Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
+#### _Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
 _economics of a contract (New Guideline)_
 
 
@@ -151,7 +151,7 @@ valuation any form of guaranteed benefits stemming from the financial guarantee.
 consideration of the time value of options and guarantees is relevant for this assessment.
 
 
-_Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_
+#### _Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_
 
 _insured person with a discernible effect on the economics of a contract (New Guideline)_
 
@@ -210,7 +210,7 @@ the cover insurance and reinsurance undertakings should consider all obligations
 Considering potential future scenarios in some cases is relevant for this assessment.
 
 
-_Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New_
+#### _Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New_
 
 _Guideline)_
 

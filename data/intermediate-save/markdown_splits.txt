@@ -27328,7 +27328,15 @@ Header hierachy : ['', '', '', '', '']
 Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '', '']
 --- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- Page 2 ---
-_Guideline 0 - Contract Boundaries (New Guideline)_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 0 - Contract Boundaries (New Guideline)_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 
 
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
@@ -27346,7 +27354,15 @@ using realistic assumptions, which means that the projection of cash flows might
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
 
 
-_Guideline 5 - Contract Boundaries (Amended Guideline)_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 5 - Contract Boundaries (Amended Guideline)_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 
 
 2. Insurance and reinsurance undertakings should assess whether at recognition date it is
@@ -27401,11 +27417,27 @@ to insurance or reinsurance obligations.
 should be treated as an independent contract.
 
 
-_Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 
 _Guideline)_
 --- Page 3 ---
-_Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 _economics of a contract (New Guideline)_
 
 
@@ -27477,7 +27509,15 @@ valuation any form of guaranteed benefits stemming from the financial guarantee.
 consideration of the time value of options and guarantees is relevant for this assessment.
 
 
-_Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 
 _insured person with a discernible effect on the economics of a contract (New Guideline)_
 
@@ -27536,7 +27576,15 @@ the cover insurance and reinsurance undertakings should consider all obligations
 Considering potential future scenarios in some cases is relevant for this assessment.
 
 
-_Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New_
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['**Revised Guidelines on Contract** **Boundaries**', '', '', '_Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New_', '']
+--- Source: data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 
 _Guideline)_
 
@@ -28489,6 +28537,7 @@ premiums earned for non-life and for life.
 --- Begin of split ---
 Header hierachy : ['', '', '', '', '']
 --- Source: data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+
 --- Page 1 ---
 
 
@@ -47346,10 +47395,6 @@ to the procedure laid down in Articles 145 and 146.
 insurance undertakings carrying on business under the freedom
 to provide services before 1 July 1994.
 --- Page 115 ---
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/115
-
-
-
 
 
 --- End of split ---
@@ -47782,9 +47827,6 @@ continuing general expenses,
 —
 unforeseen trading expenses,
 --- Page 118 ---
-L 335/118 EN Official Journ al of the E uropean Un ion 17.12.2009
-
-
 —
 loss of market value,
 
@@ -47848,9 +47890,6 @@ The following names shall be given to authorisations which simultaneously cover 
 (h) All classes, at the choice of the Member States, which shall notify the other Member States and the Commission of
 their choice.
 --- Page 119 ---
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/119
-
-
 
 
 --- End of split ---
@@ -48179,9 +48218,6 @@ biztosító magyarországi fióktelepe’;
 
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 --- Page 123 ---
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/123
-
-
 (19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
 
@@ -48216,9 +48252,6 @@ Acts, the association of underwriters known as Lloyd’s;
 (28) in any event and as an alternative to the forms of reinsurance undertaking listed in points (1) to (27), the form of
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 --- Page 124 ---
-L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
-
-
 
 
 --- End of split ---
@@ -48237,12 +48270,31 @@ Header hierachy : ['_ANNEX IV_', '', '', '', '']
 
 
 The Basic Solvency Capital Requirement set out in Article 104(1) shall be equal to the following:
- $$
-\text{Basic SCR} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$ 
 
 
- SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
+
+Bcisa SCR = ∑
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['√', '', '', '', '']
+--- Source: data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -48298,12 +48350,31 @@ Non-life 0,25 0,5 0 0 1
 
 
 The non-life underwriting risk module set out in Article 105(2) shall be equal to the following:
- $$
-\text{SCR}_{\text{non-life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$ 
 
 
- SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+
+SCR nonefil- = ∑
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['~~√~~', '', '', '', '']
+--- Source: data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -48313,19 +48384,35 @@ following:
 
 — SCR nl catastrophe denotes the non-life catastrophe risk sub-module,
 --- Page 125 ---
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/125
-
-
 3. **Calculation of the life underwriting risk module**
 
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
- $$
-\text{SCR}_{\text{life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$ 
 
 
- SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+
+SC [R] efil = ∑
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['√', '', '', '', '']
+--- Source: data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -48358,12 +48445,31 @@ Structure of the market risk module
 
 
 The market risk module, set out in Article 105(5) shall be equal to the following:
- $$
-\text{SCR}_{\text{market}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$ 
 
 
- SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+
+SCR mrakte = ∑
+
+
+--- End of split ---
+
+
+
+--- Begin of split ---
+Header hierachy : ['~~√~~', '', '', '', '']
+--- Source: data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -48385,9 +48491,6 @@ following:
 
 — SCR currency denotes the currency risk sub-module,
 --- Page 126 ---
-L 335/126 EN Official Journ al of the E uropean Un ion 17.12.2009
-
-
 
 
 --- End of split ---
@@ -48422,9 +48525,6 @@ Header hierachy : ['_ANNEX V_', '', '', '', '']
 
 7. other classes (classes 16, 17 and 18 of Annex I).
 --- Page 127 ---
-11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
-
-
 
 
 --- End of split ---
@@ -48883,6 +48983,72 @@ only Article 1
 
 only Article 1
 --- Page 130 ---
+PART B
+
+
+**List of time-limits for transposition into national law**
+
+
+(referred to in Article _310_ )
+
+
+Directive Time-limit for transposition Time-limit for application
+
+
+/EEC 26 August 1965
+
+/EEC 27 January 1975 27 January 1976
+
+/EEC 27 January 1975
+
+/EEC 31 December 1976
+
+/EEC 2 December 1979 2 June 1980
+
+/EEC 30 June 1987 1 January 1988
+
+/EEC 1 January 1990 1 July 1990
+
+/EEC 1 January 1990 1 July 1990
+
+/EEC 30 December 1989 30 June 1990
+
+/EEC 20 May 1992 20 November 1992
+
+/EEC 31 December 1993 1 July 1994
+
+/EC 18 July 1996 18 July 1996
+
+/EC 5 June 2000
+
+/EC 20 July 2002 20 January 2003
+
+/EC 17 November 2002
+
+/EC 20 April 2003
+
+/EC 20 September 2003
+
+/EC 17 November 2002, 20 Septem­
+ber 2003, 19 June 2004 (depending
+upon particular provision)
+
+/EC 11 August 2004
+
+/EC 1 May 2004
+
+/EC 13 May 2005
+
+/EC 11 June 2007
+
+/EC 10 December 2007
+
+/EC 1 January 2007
+
+/EC Not applicable
+
+/EC Not applicable
+
 
 --- End of split ---
 

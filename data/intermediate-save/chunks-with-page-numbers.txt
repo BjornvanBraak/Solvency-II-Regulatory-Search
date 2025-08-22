@@ -32726,8 +32726,12 @@ CAs (ECB or CAs) that initially created the data input into the ESAs Information
 --- Start of Chunk ---
 
 
-_Guideline 0 - Contract Boundaries (New Guideline)_
+--- End of Chunk ---
 
+
+--- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
+--- METADATA Page 2 ---
+--- Start of Chunk ---
 
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
 
@@ -32742,26 +32746,17 @@ flows related to premiums and obligations that belong to the contract should be 
 using realistic assumptions, which means that the projection of cash flows might go
 
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
-
-
-_Guideline 5 - Contract Boundaries (Amended Guideline)_
-
-
-2. Insurance and reinsurance undertakings should assess whether at recognition date it is
-
-
-possible to unbundle a contract and, at each valuation date, consider whether there has
-
-been any change, which would affect the previous assessment.
-
-
-3. Insurance and reinsurance undertakings should consider that a contract can be unbundled
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
+
+2. Insurance and reinsurance undertakings should assess whether at recognition date it is
+
+
+possible to unbundle a contract and, at each valuation date, consider whether there has
 
 been any change, which would affect the previous assessment.
 
@@ -32784,17 +32779,17 @@ regarding the insurance or financial risk borne by the undertaking.
 
 
 contract boundary, as a simplified approach undertakings may consider not to unbundle
-
-the contract for the purpose of setting contract boundaries.
-
-
-5. When an option or guarantee covers more than one part of the contract, insurance and
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
+
+4. Notwithstanding the previous point, where all the parts of a contract have the same
+
+
+contract boundary, as a simplified approach undertakings may consider not to unbundle
 
 the contract for the purpose of setting contract boundaries.
 
@@ -32819,14 +32814,15 @@ to insurance or reinsurance obligations.
 
 
 should be treated as an independent contract.
+--- End of Chunk ---
 
 
-_Guideline 6 - Identification of a discernible effect on the economics of a contract (Deleted_
+--- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
+--- METADATA Page 2 ---
+--- Start of Chunk ---
 
 _Guideline)_
 
-_Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
-_economics of a contract (New Guideline)_
 --- End of Chunk ---
 
 
@@ -32834,9 +32830,6 @@ _economics of a contract (New Guideline)_
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
-_Guideline)_
-
-_Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
 _economics of a contract (New Guideline)_
 
 
@@ -32866,14 +32859,14 @@ with a discernible financial advantage.
 advantage, insurance and reinsurance undertakings should consider the extent to which
 
 the whole set of future cash flows is expected to discernibly change if the financial
+
+guarantee did not exist. Undertakings can assess this on qualitative or quantitative basis.
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
-
-advantage, insurance and reinsurance undertakings should consider the extent to which
 
 the whole set of future cash flows is expected to discernibly change if the financial
 
@@ -32899,14 +32892,14 @@ guarantee (“value of the financial guarantee”) on an expected present value 
 discernible. When calculating the value of the obligations without the financial guarantee,
 
 insurance and reinsurance undertakings should assume cash flows equal to the amount
+
+that would be paid if the financial guarantee did not exist. For contracts where the
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
-
-discernible. When calculating the value of the obligations without the financial guarantee,
 
 insurance and reinsurance undertakings should assume cash flows equal to the amount
 
@@ -32926,20 +32919,12 @@ the financial guarantee, insurance and reinsurance undertakings should consider 
 valuation any form of guaranteed benefits stemming from the financial guarantee. Proper
 
 consideration of the time value of options and guarantees is relevant for this assessment.
-
-
-_Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
-
-consideration of the time value of options and guarantees is relevant for this assessment.
-
-
-_Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the_
 
 _insured person with a discernible effect on the economics of a contract (New Guideline)_
 
@@ -32964,18 +32949,17 @@ future premiums and provides the policyholder with a discernible financial advan
 
 
 15. When determining whether a cover provides a discernible financial advantage, insurance
+
+
+and reinsurance undertakings should consider the extent to which the whole set of future
+
+cash flows is expected to discernibly change if the cover did not exist. Insurance and
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
-
-future premiums and provides the policyholder with a discernible financial advantage.
-
-
-15. When determining whether a cover provides a discernible financial advantage, insurance
-
 
 and reinsurance undertakings should consider the extent to which the whole set of future
 
@@ -32998,17 +32982,17 @@ configuration of the contract without the cover.
 value of all future obligations related to the contract with and without the cover (“value of
 
 the cover”) on an expected present value basis is discernible. When calculating the value
+
+
+of the obligations without the cover insurance and reinsurance undertakings should
+
+assume that the cover does not exist. When calculating the value of the obligations with
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
-
-value of all future obligations related to the contract with and without the cover (“value of
-
-the cover”) on an expected present value basis is discernible. When calculating the value
-
 
 of the obligations without the cover insurance and reinsurance undertakings should
 
@@ -33017,9 +33001,12 @@ assume that the cover does not exist. When calculating the value of the obligati
 the cover insurance and reinsurance undertakings should consider all obligations.
 
 Considering potential future scenarios in some cases is relevant for this assessment.
+--- End of Chunk ---
 
 
-_Guideline 6C - Reassessment of the discernible effect of a cover or financial guarantee (New_
+--- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
+--- METADATA Page 4 ---
+--- Start of Chunk ---
 
 _Guideline)_
 
@@ -33028,16 +33015,6 @@ _Guideline)_
 
 
 through the whole life of a contract in almost all cases. However, due to changes of the
-
-external environment as defined in Article 29 of the Delegated Regulation as well as
-
-changes in the terms of the contract, contract boundaries may need to be amended.
---- End of Chunk ---
-
-
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
---- METADATA Page 4 ---
---- Start of Chunk ---
 
 external environment as defined in Article 29 of the Delegated Regulation as well as
 
@@ -33058,14 +33035,14 @@ environment undertakings should compare the current economic environment to the
 economic environment existing when the assessment used to define the current contract
 
 boundaries was performed and do a reassessment only in case these changes are
-
-extreme. For this purpose, the changes on the relevant risk-free interest rate term
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
+
+economic environment existing when the assessment used to define the current contract
 
 boundaries was performed and do a reassessment only in case these changes are
 
@@ -33092,14 +33069,15 @@ assessment performed to define the current contract boundaries.
 
 
 change in contract boundaries resulting on a material impact on the valuation of technical
-
-provisions and the solvency of the undertaking, insurance and reinsurance undertakings
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
+
+21. When the reassessment of the discernible effect of a cover or financial guarantee led to a
+
 
 change in contract boundaries resulting on a material impact on the valuation of technical
 
@@ -33123,17 +33101,18 @@ on the economics of the contract should not change.
 
 
 23. Insurance and reinsurance undertakings should not reassess contract boundaries for the
-
-
-different scenarios used to calculate the best estimate using simulation methods nor for
-
-the stressed scenarios used to calculate the SCR.
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
+
+on the economics of the contract should not change.
+
+
+23. Insurance and reinsurance undertakings should not reassess contract boundaries for the
+
 
 different scenarios used to calculate the best estimate using simulation methods nor for
 
@@ -33160,16 +33139,14 @@ manner.
 with these Guidelines, with reasons for non-compliance, within two months after the
 
 issuance of the translated versions.
-
-27. In the absence of a response by this deadline, competent authorities will be considered as
-
-non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Revised Guidelines on Contract Boundaries.pdf ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
+
+with these Guidelines, with reasons for non-compliance, within two months after the
 
 issuance of the translated versions.
 
@@ -54011,7 +53988,6 @@ to the procedure laid down in Articles 145 and 146.
 insurance undertakings carrying on business under the freedom
 to provide services before 1 July 1994.
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/115
 --- End of Chunk ---
 
 
@@ -54433,9 +54409,6 @@ continuing general expenses,
 —
 unforeseen trading expenses,
 
-L 335/118 EN Official Journ al of the E uropean Un ion 17.12.2009
-
-
 —
 loss of market value,
 
@@ -54446,16 +54419,20 @@ loss of rent or revenue,
 
 —
 other indirect trading loss,
+
+
+—
+other non-trading financial loss,
+
+
+—
+other forms of financial loss,
 --- End of Chunk ---
 
 
 --- METADATA Source data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
 --- METADATA Page 118 ---
 --- Start of Chunk ---
-
-—
-loss of market value,
-
 
 —
 loss of rent or revenue,
@@ -54508,6 +54485,9 @@ The following names shall be given to authorisations which simultaneously cover 
 
 
 (f) Classes 10, 11, 12 and 13: ‘Liability Insurance’;
+
+
+(g) Classes 14 and 15: ‘Credit and Suretyship Insurance’;
 --- End of Chunk ---
 
 
@@ -54527,7 +54507,6 @@ The following names shall be given to authorisations which simultaneously cover 
 (h) All classes, at the choice of the Member States, which shall notify the other Member States and the Commission of
 their choice.
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/119
 --- End of Chunk ---
 
 
@@ -54940,9 +54919,6 @@ biztosító magyarországi fióktelepe’;
 
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/123
-
-
 (19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
 
@@ -54987,7 +54963,6 @@ Acts, the association of underwriters known as Lloyd’s;
 (28) in any event and as an alternative to the forms of reinsurance undertaking listed in points (1) to (27), the form of
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 
-L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 --- End of Chunk ---
 
 
@@ -55002,12 +54977,28 @@ L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 
 
 The Basic Solvency Capital Requirement set out in Article 104(1) shall be equal to the following:
- $$
-\text{Basic SCR} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$ 
 
 
- SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
+
+Bcisa SCR = ∑
+--- End of Chunk ---
+
+
+--- METADATA Source data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+--- METADATA Page 124 ---
+--- Start of Chunk ---
+
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -55023,17 +55014,6 @@ following:
 
 — SCR market denotes the market risk module,
 
-
-— SCR default denotes the counterparty default risk module,
-
-
-The factor Corr i,j denotes the item set out in row i and in column j of the following correlation matrix:
---- End of Chunk ---
-
-
---- METADATA Source data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
---- METADATA Page 124 ---
---- Start of Chunk ---
 
 — SCR default denotes the counterparty default risk module,
 
@@ -55056,6 +55036,14 @@ Non-life](#)
 
 
 Market 1 0,25 0,25 0,25 0,25
+--- End of Chunk ---
+
+
+--- METADATA Source data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+--- METADATA Page 124 ---
+--- Start of Chunk ---
+
+Market 1 0,25 0,25 0,25 0,25
 
 
 Default 0,25 1 0,25 0,25 0,5
@@ -55074,9 +55062,10 @@ Non-life 0,25 0,5 0 0 1
 
 
 The non-life underwriting risk module set out in Article 105(2) shall be equal to the following:
- $$
-\text{SCR}_{\text{non-life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$
+
+
+
+SCR nonefil- = ∑
 --- End of Chunk ---
 
 
@@ -55084,7 +55073,17 @@ $$
 --- METADATA Page 124 ---
 --- Start of Chunk ---
 
-SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -55094,16 +55093,14 @@ following:
 
 — SCR nl catastrophe denotes the non-life catastrophe risk sub-module,
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/125
-
-
 3. **Calculation of the life underwriting risk module**
 
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
- $$
-\text{SCR}_{\text{life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$
+
+
+
+SC [R] efil = ∑
 --- End of Chunk ---
 
 
@@ -55111,7 +55108,17 @@ $$
 --- METADATA Page 125 ---
 --- Start of Chunk ---
 
-SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -55144,9 +55151,10 @@ Structure of the market risk module
 
 
 The market risk module, set out in Article 105(5) shall be equal to the following:
- $$
-\text{SCR}_{\text{market}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
-$$
+
+
+
+SCR mrakte = ∑
 --- End of Chunk ---
 
 
@@ -55154,7 +55162,17 @@ $$
 --- METADATA Page 125 ---
 --- Start of Chunk ---
 
-SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
+j,i
+
+
+
+Co × SC × SC
+
+[rr] j,i [R] i [R] j
+
+
+
+where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
 ferent terms should cover all possible combinations of i and j. In the calculation, SCR i and SCR j are replaced by the
 following:
 
@@ -55176,7 +55194,6 @@ following:
 
 — SCR currency denotes the currency risk sub-module,
 
-L 335/126 EN Official Journ al of the E uropean Un ion 17.12.2009
 --- End of Chunk ---
 
 
@@ -55207,7 +55224,6 @@ L 335/126 EN Official Journ al of the E uropean Un ion 17.12.2009
 
 7. other classes (classes 16, 17 and 18 of Annex I).
 
-11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
 --- End of Chunk ---
 
 
@@ -55821,6 +55837,91 @@ only Article 1
 
 only Article 1
 
+PART B
+
+
+**List of time-limits for transposition into national law**
+
+
+(referred to in Article _310_ )
+
+
+Directive Time-limit for transposition Time-limit for application
+
+
+/EEC 26 August 1965
+
+/EEC 27 January 1975 27 January 1976
+
+/EEC 27 January 1975
+
+/EEC 31 December 1976
+
+/EEC 2 December 1979 2 June 1980
+
+/EEC 30 June 1987 1 January 1988
+
+/EEC 1 January 1990 1 July 1990
+
+/EEC 1 January 1990 1 July 1990
+
+/EEC 30 December 1989 30 June 1990
+
+/EEC 20 May 1992 20 November 1992
+
+/EEC 31 December 1993 1 July 1994
+
+/EC 18 July 1996 18 July 1996
+
+/EC 5 June 2000
+
+/EC 20 July 2002 20 January 2003
+
+/EC 17 November 2002
+
+/EC 20 April 2003
+
+/EC 20 September 2003
+--- End of Chunk ---
+
+
+--- METADATA Source data\raw\solvency-II-files\solvency II - level 1 - v2.pdf ---
+--- METADATA Page 130 ---
+--- Start of Chunk ---
+
+/EEC 31 December 1993 1 July 1994
+
+/EC 18 July 1996 18 July 1996
+
+/EC 5 June 2000
+
+/EC 20 July 2002 20 January 2003
+
+/EC 17 November 2002
+
+/EC 20 April 2003
+
+/EC 20 September 2003
+
+/EC 17 November 2002, 20 Septem­
+ber 2003, 19 June 2004 (depending
+upon particular provision)
+
+/EC 11 August 2004
+
+/EC 1 May 2004
+
+/EC 13 May 2005
+
+/EC 11 June 2007
+
+/EC 10 December 2007
+
+/EC 1 January 2007
+
+/EC Not applicable
+
+/EC Not applicable
 --- End of Chunk ---
 
 
