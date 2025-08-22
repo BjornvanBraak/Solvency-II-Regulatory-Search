@@ -2121,7 +2121,7 @@ SECTION 2 Reinsurance Articles 307 and 308
 CHAPTER II Final provisions Articles 309 to 312
 
 
-_ANNEX I_ CLASSES OF NON-LIFE INSURANCE
+# _ANNEX I_ CLASSES OF NON-LIFE INSURANCE
 
 
 A. Classification of risks according to classes of insurance
@@ -2131,10 +2131,10 @@ B. Description of _authorisations_ granted for more than one class
 of insurance
 
 
-_ANNEX II_ CLASSES OF LIFE INSURANCE
+# _ANNEX II_ CLASSES OF LIFE INSURANCE
 
 
-_ANNEX III_ LEGAL FORMS OF UNDERTAKINGS
+# _ANNEX III_ LEGAL FORMS OF UNDERTAKINGS
 
 
 A. Forms of non-life insurance _undertaking_ :
@@ -2146,7 +2146,7 @@ B. Forms of life insurance _undertaking_ :
 C. Forms of reinsurance _undertaking_ :
 
 
-_ANNEX IV_ SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
+# _ANNEX IV_ SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
 
 
 1. Calculation of the Basic Solvency Capital Requirement
@@ -2161,11 +2161,11 @@ _ANNEX IV_ SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
 4. Calculation of the market risk module
 
 
-_ANNEX V_ GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES
+# _ANNEX V_ GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES
 OF ARTICLE 159
 
 
-_ANNEX VI_
+# _ANNEX VI_
 
 
 Part A Repealed Directives with list of their successive amendments
@@ -2176,7 +2176,7 @@ Part B List of time-limits for transposition into national law (referred
 to in Article 310)
 
 
-_ANNEX VII_ CORRELATION TABLE
+# _ANNEX VII_ CORRELATION TABLE
 
 
 
@@ -2200,7 +2200,7 @@ intermediary.
 **DIRECT INSURANCE AND REINSURANCE ACTIVITIES**
 
 
-_CHAPTER I_
+## *CHAPTER I*
 
 
 _**Subject matter, scope and definitions**_
@@ -2212,7 +2212,7 @@ _**Subject matter, scope and definitions**_
 **S ub j e c t m a t t e r a n d s c o p e**
 
 
-_Article 1_
+##### Article 1
 
 
 **Subject matter**
@@ -2231,7 +2231,7 @@ This Directive lays down rules concerning the following:
 undertakings.
 
 
-_Article 2_
+##### Article 2
 
 
 **Scope**
@@ -2359,7 +2359,7 @@ a Member State.
 **G e n e r a l**
 
 
-_Article 3_
+##### Article 3
 
 
 **Statutory systems**
@@ -2369,7 +2369,7 @@ Without prejudice to Article 2(3)(c), this Directive shall not apply
 to insurance forming part of a statutory system of social security.
 
 
-_Article 4_
+##### Article 4
 
 
 **Exclusion from scope due to size**
@@ -2456,7 +2456,7 @@ this Directive.
 **Non- life**
 
 
-_Article 5_
+##### Article 5
 
 
 **Operations**
@@ -2491,7 +2491,7 @@ anteed by the State, or where the State is the insurer.
 
 
 
-_Article 6_
+##### Article 6
 
 
 **Assistance**
@@ -2499,7 +2499,7 @@ _Article 6_
 
 
 
-_Article 7_
+##### Article 7
 
 
 **Mutual undertakings**
@@ -2586,7 +2586,7 @@ a case the accepting undertaking shall be subject to the rules of
 this Directive.
 
 
-_Article 8_
+##### Article 8
 
 
 **Institutions**
@@ -2621,7 +2621,7 @@ applicable law are amended as regards capacity:
 **Life**
 
 
-_Article 9_
+##### Article 9
 
 
 **Operations and activities**
@@ -2676,7 +2676,7 @@ participation of new insurance companies or groups,
 including pension insurance companies.
 
 
-_Article 10_
+##### Article 10
 
 
 **Organisations, undertakings and institutions**
@@ -2708,7 +2708,7 @@ or capacity.
 **Reinsurance**
 
 
-_Article 11_
+##### Article 11
 
 
 **Reinsurance**
@@ -2724,7 +2724,7 @@ obtain adequate commercial cover.
 
 
 
-_Article 12_
+##### Article 12
 
 
 **Reinsurance undertakings closing their activity**
@@ -2747,7 +2747,7 @@ Member States.
 **D e f i n i t i o n s**
 
 
-_Article 13_
+##### Article 13
 
 
 **Definitions**
@@ -3159,13 +3159,13 @@ sure underlying that probability distribution forecast.
 
 
 
-_CHAPTER II_
+## *CHAPTER II*
 
 
 _**Taking-up of business**_
 
 
-_Article 14_
+##### Article 14
 
 
 **Principle of authorisation**
@@ -3191,7 +3191,7 @@ ness to an entire insurance class or to insurance classes other
 than those already authorised.
 
 
-_Article 15_
+##### Article 15
 
 
 **Scope of authorisation**
@@ -3254,7 +3254,7 @@ authorisation by the Member State from which the authorisation
 is sought.
 
 
-_Article 16_
+##### Article 16
 
 
 **Ancillary risks**
@@ -3298,7 +3298,7 @@ from their home or their habitual residence; or
 connection with, the use of sea-going vessels.
 
 
-_Article 17_
+##### Article 17
 
 
 **Legal form of the insurance or reinsurance undertaking**
@@ -3326,7 +3326,7 @@ Article 301(3).
 
 
 
-_Article 18_
+##### Article 18
 
 
 **Conditions for authorisation**
@@ -3434,7 +3434,7 @@ to in Article 129(1)(d);
 referred to in Article 74(3) going forward.
 
 
-_Article 19_
+##### Article 19
 
 
 **Close links**
@@ -3461,7 +3461,7 @@ require to monitor compliance with the conditions referred to in
 the first paragraph on a continuous basis.
 
 
-_Article 20_
+##### Article 20
 
 
 **Head office of insurance undertakings and reinsurance**
@@ -3474,7 +3474,7 @@ their registered offices.
 
 
 
-_Article 21_
+##### Article 21
 
 
 **Policy conditions and scales of premiums**
@@ -3518,7 +3518,7 @@ any other documents necessary for the normal exercise of
 supervision.
 
 
-_Article 22_
+##### Article 22
 
 
 **Economic requirements of the market**
@@ -3529,7 +3529,7 @@ sation be considered in the light of the economic requirements of
 the market.
 
 
-_Article 23_
+##### Article 23
 
 
 **Scheme of operations**
@@ -3611,7 +3611,7 @@ mates of income and expenditure in respect of direct busi­
 ness, reinsurance acceptances and reinsurance cessions.
 
 
-_Article 24_
+##### Article 24
 
 
 **Shareholders and members with qualifying holdings**
@@ -3653,7 +3653,7 @@ the issuer and, on the other, disposed of within one year of the
 acquisition.
 
 
-_Article 25_
+##### Article 25
 
 
 **Refusal of authorisation**
@@ -3672,7 +3672,7 @@ supervisory authorities have not dealt with an application for an
 authorisation within six months of the date of its receipt.
 
 
-_Article 26_
+##### Article 26
 
 
 **Prior consultation of the authorities of other Member**
@@ -3744,13 +3744,13 @@ ties concerned for the granting of an authorisation as well as for
 the ongoing assessment of compliance with operating conditions.
 
 
-_CHAPTER III_
+## *CHAPTER III*
 
 
 **Supervisory authorities and general rules**
 
 
-_Article 27_
+##### Article 27
 
 
 **Main objective of supervision**
@@ -3762,7 +3762,7 @@ tise, capacity, and mandate to achieve the main objective of super­
 vision, namely the protection of policy holders and beneficiaries.
 
 
-_Article 28_
+##### Article 28
 
 
 **Financial stability and pro-cyclicality**
@@ -3782,7 +3782,7 @@ In times of exceptional movements in the financial markets,
 supervisory authorities shall take into account the potential procyclical effects of their actions.
 
 
-_Article 29_
+##### Article 29
 
 
 **General principles of supervision**
@@ -3812,7 +3812,7 @@ the proportionate application of this Directive, in particular to
 small insurance undertakings.
 
 
-_Article 30_
+##### Article 30
 
 
 **Supervisory authorities and scope of supervision**
@@ -3863,7 +3863,7 @@ mine whether the undertaking is complying with the prudential
 principles laid down in this Directive.
 
 
-_Article 31_
+##### Article 31
 
 
 **Transparency and accountability**
@@ -3929,7 +3929,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 32_
+##### Article 32
 
 
 **Prohibition of refusal of reinsurance contracts or**
@@ -3953,7 +3953,7 @@ directly related to the financial soundness of that reinsurance
 undertaking or that insurance undertaking.
 
 
-_Article 33_
+##### Article 33
 
 
 **Supervision of branches established in another Member**
@@ -3974,7 +3974,7 @@ The authorities of the host Member State concerned may partici­
 pate in those verifications.
 
 
-_Article 34_
+##### Article 34
 
 
 **General supervisory powers**
@@ -4038,7 +4038,7 @@ exercised, if need be by enforcement and, where appropriate,
 through judicial channels.
 
 
-_Article 35_
+##### Article 35
 
 
 **Information to be provided for supervisory purposes**
@@ -4145,7 +4145,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 36_
+##### Article 36
 
 
 **Supervisory review process**
@@ -4237,7 +4237,7 @@ activities of the insurance or reinsurance undertaking concerned.
 
 
 
-_Article 37_
+##### Article 37
 
 
 **Capital add-on**
@@ -4338,7 +4338,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 38_
+##### Article 38
 
 
 **Supervision of outsourced functions and activities**
@@ -4383,7 +4383,7 @@ vice provider is located.
 
 
 
-_Article 39_
+##### Article 39
 
 
 **Transfer of portfolio**
@@ -4453,7 +4453,7 @@ option of cancelling contracts within a fixed period after a transfer.
 -----
 
 
-_CHAPTER IV_
+## *CHAPTER IV*
 
 
 _**Conditions governing business**_
@@ -4476,7 +4476,7 @@ proportionate systems, resources and procedures.
 **m a n a g e m e n t o r s up e r v i s o r y b o d y**
 
 
-_Article 40_
+##### Article 40
 
 
 **Responsibility of the administrative, management or**
@@ -4496,7 +4496,7 @@ provisions adopted pursuant to this Directive.
 **S y s t e m o f g o v e r n a n c e**
 
 
-_Article 41_
+##### Article 41
 
 
 **General governance requirements**
@@ -4550,7 +4550,7 @@ nance be improved and strengthened to ensure compliance with
 the requirements set out in Articles 42 to 49.
 
 
-_Article 42_
+##### Article 42
 
 
 **Fit and proper requirements for persons who effectively**
@@ -4584,7 +4584,7 @@ graphs 1 and 2 have been replaced because they no longer fulfil
 the requirements referred to in paragraph 1.
 
 
-_Article 43_
+##### Article 43
 
 
 **Proof of good repute**
@@ -4645,7 +4645,7 @@ support of an application to pursue in the territory of that Mem­
 ber State the activities referred to in Article 2.
 
 
-_Article 44_
+##### Article 44
 
 
 **Risk management**
@@ -4739,7 +4739,7 @@ the status of efforts to improve previously identified
 weaknesses.
 
 
-_Article 45_
+##### Article 45
 
 
 **Own risk and solvency assessment**
@@ -4817,7 +4817,7 @@ shall be adjusted only in accordance with Articles 37, 231 to 233
 and 238.
 
 
-_Article 46_
+##### Article 46
 
 
 **Internal control**
@@ -4843,7 +4843,7 @@ and assessment of compliance risk.
 
 
 
-_Article 47_
+##### Article 47
 
 
 **Internal audit**
@@ -4869,7 +4869,7 @@ with respect to each of the internal audit findings and recommen­
 dations and shall ensure that those actions are carried out.
 
 
-_Article 48_
+##### Article 48
 
 
 **Actuarial function**
@@ -4931,7 +4931,7 @@ who are able to demonstrate their relevant experience with appli­
 cable professional and other standards.
 
 
-_Article 49_
+##### Article 49
 
 
 **Outsourcing**
@@ -4970,7 +4970,7 @@ subsequent material developments with respect to those functions
 or activities.
 
 
-_Article 50_
+##### Article 50
 
 
 **Implementing measures**
@@ -5017,7 +5017,7 @@ Article 301(3).
 **P ub l i c d i s c l o s ur e**
 
 
-_Article 51_
+##### Article 51
 
 
 **Report on solvency and financial condition: contents**
@@ -5125,7 +5125,7 @@ accompanied, where applicable, by an indication that its final
 amount is still subject to supervisory assessment.
 
 
-_Article 52_
+##### Article 52
 
 
 **Information for and reports by CEIOPS**
@@ -5205,7 +5205,7 @@ convergence in the use of capital add-ons between supervisory
 authorities in the different Member States.
 
 
-_Article 53_
+##### Article 53
 
 
 **Report on solvency and financial condition: applicable**
@@ -5249,7 +5249,7 @@ required under Article 51 in both their nature and scope.
 referred to in Article 51(1)(e).
 
 
-_Article 54_
+##### Article 54
 
 
 **Report on solvency and financial condition: updates and**
@@ -5313,7 +5313,7 @@ be disclosed in accordance with Articles 51 and 53 and para­
 graph 1 of this Article.
 
 
-_Article 55_
+##### Article 55
 
 
 **Report on solvency and financial condition: policy and**
@@ -5334,7 +5334,7 @@ body of the insurance or reinsurance undertaking and be pub­
 lished only after that approval.
 
 
-_Article 56_
+##### Article 56
 
 
 **Solvency and financial condition report: implementing**
@@ -5359,7 +5359,7 @@ Article 301(3).
 **Q ua l i f y i n g h o l d i n g s**
 
 
-_Article 57_
+##### Article 57
 
 
 **Acquisitions**
@@ -5405,7 +5405,7 @@ that person. Member States need not apply the 30 % threshold
 where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 
 
-_Article 58_
+##### Article 58
 
 
 **Assessment period**
@@ -5503,7 +5503,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 59_
+##### Article 59
 
 
 **Assessment**
@@ -5600,7 +5600,7 @@ acquirers in a non-discriminatory manner.
 
 
 
-_Article 60_
+##### Article 60
 
 
 **Acquisitions by regulated financial undertakings**
@@ -5646,7 +5646,7 @@ expressed by the supervisory authority responsible for the pro­
 posed acquirer.
 
 
-_Article 61_
+##### Article 61
 
 
 **Information to the supervisory authority by the insurance**
@@ -5676,7 +5676,7 @@ relating to companies listed on stock exchanges.
 
 
 
-_Article 62_
+##### Article 62
 
 
 **Qualifying holdings, powers of the supervisory authority**
@@ -5711,7 +5711,7 @@ rights; or
 annulment.
 
 
-_Article 63_
+##### Article 63
 
 
 **Voting rights**
@@ -5741,7 +5741,7 @@ acquisition.
 **c o n v e r g e n c e**
 
 
-_Article 64_
+##### Article 64
 
 
 **Professional secrecy**
@@ -5768,7 +5768,7 @@ involved in attempts to rescue that undertaking may be divulged
 in civil or commercial proceedings.
 
 
-_Article 65_
+##### Article 65
 
 
 **Exchange of information between supervisory authorities**
@@ -5781,7 +5781,7 @@ tion shall be subject to the obligation of professional secrecy laid
 down in Article 64.
 
 
-_Article 66_
+##### Article 66
 
 
 **Cooperation agreements with third countries**
@@ -5804,7 +5804,7 @@ authority of that Member State and, where appropriate, solely for
 the purposes for which that authority gave its agreement.
 
 
-_Article 67_
+##### Article 67
 
 
 **Use of confidential information**
@@ -5840,7 +5840,7 @@ authorities;
 
 
 
-_Article 68_
+##### Article 68
 
 
 **Exchange of information with other authorities**
@@ -5987,7 +5987,7 @@ or bodies which may receive information pursuant to
 paragraph 3.
 
 
-_Article 69_
+##### Article 69
 
 
 **Disclosure of information to government administrations**
@@ -6022,7 +6022,7 @@ or of the supervisory authority of the Member State in which the
 on-site verification was carried out.
 
 
-_Article 70_
+##### Article 70
 
 
 **Transmission of information to central banks and**
@@ -6049,7 +6049,7 @@ subject to the provisions on professional secrecy laid down in this
 Section..
 
 
-_Article 71_
+##### Article 71
 
 
 **Supervisory convergence**
@@ -6088,7 +6088,7 @@ the Community.
 **D ut i e s o f a ud i t o r s**
 
 
-_Article 72_
+##### Article 72
 
 
 **Duties of auditors**
@@ -6154,13 +6154,13 @@ liability of any kind.
 
 
 
-_CHAPTER V_
+## *CHAPTER V*
 
 
 _**Pursuit of life and non-life insurance activity**_
 
 
-_Article 73_
+##### Article 73
 
 
 **Pursuit of life and non-life insurance activity**
@@ -6245,7 +6245,7 @@ which they were engaged on the dates referred to in the first
 subparagraph.
 
 
-_Article 74_
+##### Article 74
 
 
 **Separation of life and non-life insurance management**
@@ -6348,7 +6348,7 @@ fer of explicit eligible basic own-fund items from one activity to
 the other.
 
 
-_CHAPTER VI_
+## *CHAPTER VI*
 
 
 _**Rules relating to the valuation of assets and liabilities,**_
@@ -6363,7 +6363,7 @@ _**rules**_
 **V a l ua t i o n o f a s s e t s a n d l i a b i l i t i e s**
 
 
-_Article 75_
+##### Article 75
 
 
 **Valuation of assets and liabilities**
@@ -6407,7 +6407,7 @@ Article 301(3).
 **R ul e s r e l a t i n g t o t e c h n i c a l p r o v i s i o n s**
 
 
-_Article 76_
+##### Article 76
 
 
 **General provisions**
@@ -6442,7 +6442,7 @@ calculation of technical provisions shall be carried out in accor­
 dance with Articles 77 to 82 and 86.
 
 
-_Article 77_
+##### Article 77
 
 
 **Calculation of technical provisions**
@@ -6525,7 +6525,7 @@ Requirement necessary to support insurance and reinsurance obli­
 gations over the lifetime of those obligations.
 
 
-_Article 78_
+##### Article 78
 
 
 **Other elements to be taken into account in the calculation**
@@ -6551,7 +6551,7 @@ ments are contractually guaranteed, unless those payments
 fall under Article 91(2).
 
 
-_Article 79_
+##### Article 79
 
 
 **Valuation of financial guarantees and contractual options**
@@ -6573,7 +6573,7 @@ the impact that future changes in financial and non-financial con­
 ditions may have on the exercise of those options.
 
 
-_Article 80_
+##### Article 80
 
 
 **Segmentation**
@@ -6590,12 +6590,12 @@ technical provisions.
 
 
 
-_Article 81_
+##### Article 81
 
 
 
 
-_Article 84_
+##### Article 84
 
 
 
@@ -6621,7 +6621,7 @@ of the counterparty and the average loss resulting therefrom
 (loss-given-default).
 
 
-_Article 82_
+##### Article 82
 
 
 **Data quality and application of approximations, including**
@@ -6643,7 +6643,7 @@ tions, including case-by-case approaches, may be used in the cal­
 culation of the best estimate.
 
 
-_Article 83_
+##### Article 83
 
 
 **Comparison against experience**
@@ -6673,7 +6673,7 @@ ity and relevance of the methods applied, and the adequacy of the
 underlying statistical data used.
 
 
-_Article 85_
+##### Article 85
 
 
 **Increase of technical provisions**
@@ -6687,7 +6687,7 @@ technical provisions so that they correspond to the level deter­
 mined pursuant to those Articles.
 
 
-_Article 86_
+##### Article 86
 
 
 **Implementing measures**
@@ -6768,7 +6768,7 @@ Article 301(3).
 **D e t e r m i n a t i o n o f o w n f un d s**
 
 
-_Article 87_
+##### Article 87
 
 
 **Own funds**
@@ -6778,7 +6778,7 @@ Own funds shall comprise the sum of basic own funds, referred
 to in Article 88 and ancillary own funds referred to in Article 89.
 
 
-_Article 88_
+##### Article 88
 
 
 **Basic own funds**
@@ -6799,7 +6799,7 @@ amount of own shares held by the insurance or reinsurance
 undertaking.
 
 
-_Article 89_
+##### Article 89
 
 
 **Ancillary own funds**
@@ -6838,7 +6838,7 @@ up, it shall be treated as an asset and cease to form part of ancil­
 lary own-fund items.
 
 
-_Article 90_
+##### Article 90
 
 
 **Supervisory approval of ancillary own funds**
@@ -6896,7 +6896,7 @@ lary own funds, to the extent that information can be reliably
 used to assess the expected outcome of future calls.
 
 
-_Article 91_
+##### Article 91
 
 
 **Surplus funds**
@@ -6912,7 +6912,7 @@ shall not be considered as insurance and reinsurance liabilities to
 the extent that they fulfil the criteria set out in Article 94(1).
 
 
-_Article 92_
+##### Article 92
 
 
 **Implementing measures**
@@ -6967,7 +6967,7 @@ participation.
 **Classification of own funds**
 
 
-_Article 93_
+##### Article 93
 
 
 **Characteristics and features used to classify own funds**
@@ -7018,7 +7018,7 @@ redeem the nominal sum (absence of incentives to redeem);
 encumbrances).
 
 
-_Article 94_
+##### Article 94
 
 
 **Main criteria for the classification into tiers**
@@ -7052,7 +7052,7 @@ Article 93(2).
 under paragraphs 1 and 2 shall be classified in Tier 3.
 
 
-_Article 95_
+##### Article 95
 
 
 **Classification of own funds into tiers**
@@ -7074,7 +7074,7 @@ in accordance with the first paragraph. That classification shall be
 subject to approval by the supervisory authority.
 
 
-_Article 96_
+##### Article 96
 
 
 **Classification of specific insurance own-fund items**
@@ -7114,7 +7114,7 @@ eration the features set out in Article 93(2).
 
 
 
-_Article 97_
+##### Article 97
 
 
 **Implementing measures**
@@ -7152,7 +7152,7 @@ market developments.
 **Eligibility of own funds**
 
 
-_Article 98_
+##### Article 98
 
 
 **Eligibility and limits applicable to Tiers 1, 2 and 3**
@@ -7201,7 +7201,7 @@ the sum of the amount of Tier 1 and the eligible amount of basic
 own-fund items classified in Tier 2.
 
 
-_Article 99_
+##### Article 99
 
 
 **Implementing measures**
@@ -7240,7 +7240,7 @@ Article 301(3).
 **i n t e r n a l m o d e l**
 
 
-_Article 100_
+##### Article 100
 
 
 **General provisions**
@@ -7256,7 +7256,7 @@ accordance with the standard formula in Subsection 2 or using an
 internal model, as set out in Subsection 3.
 
 
-_Article 101_
+##### Article 101
 
 
 **Calculation of the Solvency Capital Requirement**
@@ -7319,7 +7319,7 @@ risks arising from the use of such techniques are properly reflected
 in the Solvency Capital Requirement.
 
 
-_Article 102_
+##### Article 102
 
 
 **Frequency of calculation**
@@ -7367,7 +7367,7 @@ taking concerned to recalculate the Solvency Capital Requirement.
 **Solvency capital requirement standard formula**
 
 
-_Article 103_
+##### Article 103
 
 
 **Structure of the standard formula**
@@ -7389,7 +7389,7 @@ Article 107;
 provisions and deferred taxes, as laid down in Article 108.
 
 
-_Article 104_
+##### Article 104
 
 
 **Design of the Basic Solvency Capital Requirement**
@@ -7470,7 +7470,7 @@ verify the completeness, accuracy and appropriateness of the data
 used.
 
 
-_Article 105_
+##### Article 105
 
 
 **Calculation of the Basic Solvency Capital Requirement**
@@ -7674,7 +7674,7 @@ party, irrespective of the legal form of its contractual obligations
 to that undertaking.
 
 
-_Article 106_
+##### Article 106
 
 
 **Calculation of the equity risk sub-module: symmetric**
@@ -7704,7 +7704,7 @@ applied that is more than 10 percentage points lower or 10 per­
 centage points higher than the standard equity capital charge.
 
 
-_Article 107_
+##### Article 107
 
 
 **Capital requirement for operational risk**
@@ -7735,7 +7735,7 @@ Capital Requirement relating to those insurance and reinsurance
 operations.
 
 
-_Article 108_
+##### Article 108
 
 
 **Adjustment for the loss-absorbing capacity of technical**
@@ -7765,7 +7765,7 @@ pared to the value of such benefits under the underlying
 assumptions of the best-estimate calculation.
 
 
-_Article 109_
+##### Article 109
 
 
 **Simplifications in the standard formula**
@@ -7789,7 +7789,7 @@ Article 101(3).
 
 
 
-_Article 110_
+##### Article 110
 
 
 **Significant deviations from the assumptions underlying**
@@ -7810,7 +7810,7 @@ such a way to ensure that the undertaking complies with
 Article 101(3).
 
 
-_Article 111_
+##### Article 111
 
 
 **Implementing measures**
@@ -7944,7 +7944,7 @@ Article 301(3).
 **internal models**
 
 
-_Article 112_
+##### Article 112
 
 
 **General provisions for the approval of full and partial**
@@ -8017,7 +8017,7 @@ Capital Requirement determined in accordance with the standard
 formula, as set out in Subsection 2.
 
 
-_Article 113_
+##### Article 113
 
 
 **Specific provisions for the approval of partial internal**
@@ -8060,7 +8060,7 @@ that the model covers a predominant part of their insurance
 operations with respect to that specific risk module.
 
 
-_Article 114_
+##### Article 114
 
 
 **Implementing measures**
@@ -8092,7 +8092,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 115_
+##### Article 115
 
 
 **Policy for changing the full and partial internal models**
@@ -8119,7 +8119,7 @@ supervisory approval, insofar as they are developed in accordance
 with that policy.
 
 
-_Article 116_
+##### Article 116
 
 
 **Responsibilities of the administrative, management or**
@@ -8138,7 +8138,7 @@ responsibility for putting in place systems which ensure that the
 internal model operates properly on a continuous basis.
 
 
-_Article 117_
+##### Article 117
 
 
 **Reversion to the standard formula**
@@ -8153,7 +8153,7 @@ approval of the supervisory authorities.
 
 
 
-_Article 118_
+##### Article 118
 
 
 **Non-compliance of the internal model**
@@ -8174,7 +8174,7 @@ to revert to calculating the Solvency Capital Requirement in accor­
 dance with the standard formula, as set out in Subsection 2.
 
 
-_Article 119_
+##### Article 119
 
 
 **Significant deviations from the assumptions underlying**
@@ -8192,7 +8192,7 @@ model to calculate the Solvency Capital Requirement, or the rel­
 evant risk modules thereof.
 
 
-_Article 120_
+##### Article 120
 
 
 **Use test**
@@ -8234,7 +8234,7 @@ insurance and reinsurance undertakings concerned.
 
 
 
-_Article 121_
+##### Article 121
 
 
 **Statistical quality standards**
@@ -8328,7 +8328,7 @@ eficiaries which they expect to make, whether or not those
 payments are contractually guaranteed.
 
 
-_Article 122_
+##### Article 122
 
 
 **Calibration standards**
@@ -8372,7 +8372,7 @@ accepted market practice.
 -----
 
 
-_Article 123_
+##### Article 123
 
 
 **Profit and loss attribution**
@@ -8397,7 +8397,7 @@ losses shall reflect the risk profile of the insurance and reinsur­
 ance undertakings.
 
 
-_Article 124_
+##### Article 124
 
 
 **Validation standards**
@@ -8430,7 +8430,7 @@ accuracy, completeness and appropriateness of the data used by
 the internal model.
 
 
-_Article 125_
+##### Article 125
 
 
 **Documentation standards**
@@ -8454,7 +8454,7 @@ the internal model does not work effectively.
 
 
 
-_Article 126_
+##### Article 126
 
 
 **External models and data**
@@ -8465,7 +8465,7 @@ be considered to be a justification for exemption from any of the
 requirements for the internal model set out in Articles 120 to 125.
 
 
-_Article 127_
+##### Article 127
 
 
 **Implementing measures**
@@ -8490,7 +8490,7 @@ Article 301(3).
 **M i n i m um c a p i t a l r e q ui r e m e n t**
 
 
-_Article 128_
+##### Article 128
 
 
 **General provisions**
@@ -8501,7 +8501,7 @@ takings hold eligible basic own funds, to cover the Minimum
 Capital Requirement.
 
 
-_Article 129_
+##### Article 129
 
 
 **Calculation of the Minimum Capital Requirement**
@@ -8607,7 +8607,7 @@ by supervisory authorities and by undertakings in the application
 of this Article.
 
 
-_Article 130_
+##### Article 130
 
 
 **Implementing measures**
@@ -8624,7 +8624,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 131_
+##### Article 131
 
 
 **Transitional arrangements regarding compliance with the**
@@ -8653,7 +8653,7 @@ the applicable processes provided for in the national legislation.
 **I n v e s t m e n t s**
 
 
-_Article 132_
+##### Article 132
 
 
 **Prudent person principle**
@@ -8762,7 +8762,7 @@ belonging to the same group, shall not expose the insurance
 undertakings to excessive risk concentration.
 
 
-_Article 133_
+##### Article 133
 
 
 **Freedom of investment**
@@ -8786,7 +8786,7 @@ a natural person and shall not be more restrictive than those set
 out in the Directive 85/611/EEC.
 
 
-_Article 134_
+##### Article 134
 
 
 **Localisation of assets and prohibition of pledging of assets**
@@ -8822,7 +8822,7 @@ ance or reinsurance undertaking authorised in accordance with
 this Directive.
 
 
-_Article 135_
+##### Article 135
 
 
 **Implementing measures**
@@ -8872,14 +8872,14 @@ Article 301(3).
 
 
 
-_CHAPTER VII_
+## *CHAPTER VII*
 
 
 _**Insurance and reinsurance undertakings in difficulty or in an**_
 _**irregular situation**_
 
 
-_Article 136_
+##### Article 136
 
 
 **Identification and notification of deteriorating financial**
@@ -8892,7 +8892,7 @@ immediately notify the supervisory authorities when such dete­
 rioration occurs.
 
 
-_Article 137_
+##### Article 137
 
 
 **Non-Compliance with technical provisions**
@@ -8907,7 +8907,7 @@ home Member State shall designate the assets to be covered by
 such measures.
 
 
-_Article 138_
+##### Article 138
 
 
 **Non-Compliance with the Solvency Capital Requirement**
@@ -8980,7 +8980,7 @@ authority of the home Member State shall designate the assets to
 be covered by such measures.
 
 
-_Article 139_
+##### Article 139
 
 
 **Non-Compliance with the Minimum Capital Requirement**
@@ -9014,7 +9014,7 @@ ered by such measures.
 
 
 
-_Article 140_
+##### Article 140
 
 
 **Prohibition of free disposal of assets located within the**
@@ -9029,7 +9029,7 @@ taking’s home Member State, which shall designate the assets to
 be covered by such measures.
 
 
-_Article 141_
+##### Article 141
 
 
 **Supervisory powers in deteriorating financial conditions**
@@ -9047,7 +9047,7 @@ and duration of the deterioration of the solvency position of the
 insurance or reinsurance undertaking concerned.
 
 
-_Article 142_
+##### Article 142
 
 
 **Recovery plan and finance scheme**
@@ -9093,7 +9093,7 @@ taking are threatened.
 
 
 
-_Article 143_
+##### Article 143
 
 
 **Implementing measures**
@@ -9120,7 +9120,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 144_
+##### Article 144
 
 
 **Withdrawal of authorisation**
@@ -9178,7 +9178,7 @@ reasons and shall be communicated to the insurance or reinsur­
 ance undertaking concerned.
 
 
-_CHAPTER VIII_
+## *CHAPTER VIII*
 
 
 _**Right of establishment and freedom to provide services**_
@@ -9190,7 +9190,7 @@ _**Right of establishment and freedom to provide services**_
 **E s t a b l i s h m e n t b y i n s ur a n c e un d e r t a k i n g s**
 
 
-_Article 145_
+##### Article 145
 
 
 **Conditions for branch establishment**
@@ -9268,7 +9268,7 @@ where that branch is situated may fulfil their respective obliga­
 tions under Article 146.
 
 
-_Article 146_
+##### Article 146
 
 
 **Communication of information**
@@ -9335,7 +9335,7 @@ for in the first subparagraph.
 **G e n e r a l p r o v i s i o n s**
 
 
-_Article 147_
+##### Article 147
 
 
 **Prior notification to the home Member State**
@@ -9348,7 +9348,7 @@ home Member State, indicating the nature of the risks or com­
 mitments it proposes to cover.
 
 
-_Article 148_
+##### Article 148
 
 
 **Notification by the home Member State**
@@ -9419,7 +9419,7 @@ date on which it is informed of the communication provided for
 in the first subparagraph of paragraph 1.
 
 
-_Article 149_
+##### Article 149
 
 
 **Changes in the nature of the risks or commitments**
@@ -9436,7 +9436,7 @@ procedure provided for in Articles 147 and 148.
 **Third party motor vehicle liability**
 
 
-_Article 150_
+##### Article 150
 
 
 **Compulsory insurance on third party motor vehicle**
@@ -9472,7 +9472,7 @@ apply to non-life insurance undertakings established in that State.
 
 
 
-_Article 151_
+##### Article 151
 
 
 **Non-discrimination of persons pursuing claims**
@@ -9487,7 +9487,7 @@ Annex I by way of provision of services rather than through an
 establishment situated in that State.
 
 
-_Article 152_
+##### Article 152
 
 
 **Representative**
@@ -9539,7 +9539,7 @@ tive referred to in paragraph 1 of this Article.
 **I n s ur a n c e**
 
 
-_Article 153_
+##### Article 153
 
 
 **Language**
@@ -9559,7 +9559,7 @@ language or languages of that State.
 
 
 
-_Article 154_
+##### Article 154
 
 
 **Prior notification and prior approval**
@@ -9589,7 +9589,7 @@ increases in premium rates except as part of general price-control
 systems.
 
 
-_Article 155_
+##### Article 155
 
 
 **Insurance undertakings not complying with the legal**
@@ -9683,7 +9683,7 @@ European Insurance and Occupational Pensions Committee every
 two years.
 
 
-_Article 156_
+##### Article 156
 
 
 **Advertising**
@@ -9696,7 +9696,7 @@ the form and content of such advertising adopted in the interest
 of the general good.
 
 
-_Article 157_
+##### Article 157
 
 
 **Taxes on premiums**
@@ -9749,7 +9749,7 @@ paragraph 1.
 **Reinsurance**
 
 
-_Article 158_
+##### Article 158
 
 
 **Reinsurance undertakings not complying with the legal**
@@ -9796,7 +9796,7 @@ ance undertaking concerned.
 **S t a t i s t i c a l i n f o r m a t i o n**
 
 
-_Article 159_
+##### Article 159
 
 
 **Statistical information on cross-border activities**
@@ -9837,7 +9837,7 @@ upon their request.
 **w i n d i n g - up p r o c e e d i n g s**
 
 
-_Article 160_
+##### Article 160
 
 
 **Winding-up of insurance undertakings**
@@ -9851,7 +9851,7 @@ without distinction as to nationality as far as the persons insured
 and the beneficiaries are concerned.
 
 
-_Article 161_
+##### Article 161
 
 
 **Winding-up of reinsurance undertakings**
@@ -9871,7 +9871,7 @@ undertaking.
 
 
 
-_CHAPTER IX_
+## *CHAPTER IX*
 
 
 _**Branches established within the community and belonging to**_
@@ -9885,7 +9885,7 @@ _**situated outside the community**_
 **T a k i n g - up o f b us i n e s s**
 
 
-_Article 162_
+##### Article 162
 
 
 **Principle of authorisation and conditions**
@@ -9952,7 +9952,7 @@ ing referred to in paragraph 1, which receives authorisation in
 that Member State and which pursues insurance business.
 
 
-_Article 163_
+##### Article 163
 
 
 **Scheme of operations of the branch**
@@ -10041,7 +10041,7 @@ nical provisions, without that requirement constituting a prior
 condition for a life insurance undertaking to pursue its business.
 
 
-_Article 164_
+##### Article 164
 
 
 **Transfer of portfolio**
@@ -10122,7 +10122,7 @@ insured persons and any other persons having rights or obliga­
 tions arising out of the contracts transferred.
 
 
-_Article 165_
+##### Article 165
 
 
 **Technical provisions**
@@ -10137,7 +10137,7 @@ tion 1 and determine own funds in accordance with Chapter VI,
 Section 3.
 
 
-_Article 166_
+##### Article 166
 
 
 **Solvency Capital Requirement and Minimum Capital**
@@ -10188,7 +10188,7 @@ and the excess within the Community.
 
 
 
-_Article 167_
+##### Article 167
 
 
 **Advantages to undertakings authorised in more than one**
@@ -10254,7 +10254,7 @@ cerned, the advantages granted under paragraphs 1, 2 and 3 shall
 be withdrawn simultaneously by all Member States concerned.
 
 
-_Article 168_
+##### Article 168
 
 
 **Accounting, prudential and statistical information and**
@@ -10276,7 +10276,7 @@ in the territory of which the head office of an undertaking estab­
 lished in the Community.
 
 
-_Article 169_
+##### Article 169
 
 
 **Separation of non-life and life business**
@@ -10314,7 +10314,7 @@ territory it may only pursue life insurance activity through a
 subsidiary.
 
 
-_Article 170_
+##### Article 170
 
 
 **Withdrawal of authorisation for undertakings authorised**
@@ -10341,12 +10341,12 @@ authorisations.
 
 
 
-_Article 171_
+##### Article 171
 
 
 
 
-_Article 174_
+##### Article 174
 
 
 
@@ -10367,7 +10367,7 @@ sons in the Member States.
 **R e i n s ur a n c e**
 
 
-_Article 172_
+##### Article 172
 
 
 **Equivalence**
@@ -10405,7 +10405,7 @@ be treated in the same manner as reinsurance contracts concluded
 with undertakings authorised in accordance with this Directive.
 
 
-_Article 173_
+##### Article 173
 
 
 **Prohibition of pledging of assets**
@@ -10432,7 +10432,7 @@ than that granted to reinsurance undertakings which have their
 head office in that Member State.
 
 
-_Article 175_
+##### Article 175
 
 
 **Agreements with third countries**
@@ -10480,7 +10480,7 @@ come of the negotiations referred to in paragraph 1 of this Article
 and the resulting situation.
 
 
-_CHAPTER X_
+## *CHAPTER X*
 
 
 _**Subsidiaries of insurance and reinsurance undertakings**_
@@ -10488,7 +10488,7 @@ _**governed by the laws of a third country and acquisitions of**_
 _**holdings by such undertakings**_
 
 
-_Article 176_
+##### Article 176
 
 
 **Information from Member States to the Commission**
@@ -10521,7 +10521,7 @@ State shall inform the Commission and the supervisory authori­
 ties of the other Member States.
 
 
-_Article 177_
+##### Article 177
 
 
 **Third-country treatment of Community insurance and**
@@ -10566,7 +10566,7 @@ together with any appropriate proposals or recommendations.
 **SPECIFIC PROVISIONS FOR INSURANCE AND REINSURANCE**
 
 
-_CHAPTER I_
+## *CHAPTER I*
 
 
 _**Applicable law and conditions of direct insurance contracts**_
@@ -10578,7 +10578,7 @@ _**Applicable law and conditions of direct insurance contracts**_
 **A p p l i c a b l e l a w**
 
 
-_Article 178_
+##### Article 178
 
 
 **Applicable Law**
@@ -10597,7 +10597,7 @@ falling within the scope of Article 7 of that Regulation.
 **C o m p ul s o r y i n s ur a n c e**
 
 
-_Article 179_
+##### Article 179
 
 
 **Related obligations**
@@ -10652,7 +10652,7 @@ _pean Union_ .
 **G e n e r a l g o o d**
 
 
-_Article 180_
+##### Article 180
 
 
 **General good**
@@ -10685,7 +10685,7 @@ in the Member State of the commitment.
 **s c a l e s o f p r e m i um s**
 
 
-_Article 181_
+##### Article 181
 
 
 **Non-life insurance**
@@ -10716,7 +10716,7 @@ prior notification or approval of proposed increases in premium
 rates except as part of general price-control systems.
 
 
-_Article 182_
+##### Article 182
 
 
 **Life insurance**
@@ -10748,7 +10748,7 @@ prior condition for an insurance undertaking to pursue business.
 **N o n - l i f e i n s ur a n c e**
 
 
-_Article 183_
+##### Article 183
 
 
 **General Information for policy holders**
@@ -10782,7 +10782,7 @@ shall be laid down by the Member State in which the risk is
 situated.
 
 
-_Article 184_
+##### Article 184
 
 
 **Additional information in the case of non-life insurance**
@@ -10831,7 +10831,7 @@ first subparagraph of this paragraph.
 **Life insurance**
 
 
-_Article 185_
+##### Article 185
 
 
 **Information for policy holders**
@@ -10996,7 +10996,7 @@ the commitment.
 be laid down by the Member State of the commitment.
 
 
-_Article 186_
+##### Article 186
 
 
 **Cancellation period**
@@ -11037,7 +11037,7 @@ Where Member States make use of the option set out in the first
 subparagraph they shall specify that fact in their law.
 
 
-_CHAPTER II_
+## *CHAPTER II*
 
 
 _**Provisions specific to non-life insurance**_
@@ -11049,7 +11049,7 @@ _**Provisions specific to non-life insurance**_
 **G e n e r a l p r o v i s i o n s**
 
 
-_Article 187_
+##### Article 187
 
 
 **Policy Conditions**
@@ -11061,7 +11061,7 @@ cumstances of the risk to be covered.
 
 
 
-_Article 188_
+##### Article 188
 
 
 **Abolition of monopolies**
@@ -11073,7 +11073,7 @@ to bodies established within their territories and referred to in
 Article 8, are abolished.
 
 
-_Article 189_
+##### Article 189
 
 
 **Participation in national guarantee schemes**
@@ -11092,7 +11092,7 @@ persons and injured third parties.
 **C o m m un i t y c o - i n s ur a n c e**
 
 
-_Article 190_
+##### Article 190
 
 
 **Community co-insurance operations**
@@ -11147,7 +11147,7 @@ set out in paragraph 1 shall remain subject to the provisions of
 this Directive except those of this Section.
 
 
-_Article 191_
+##### Article 191
 
 
 **Participation in Community co-insurance**
@@ -11158,7 +11158,7 @@ co-insurance shall not be made subject to any provisions other
 than those of this Section.
 
 
-_Article 192_
+##### Article 192
 
 
 **Technical provisions**
@@ -11175,7 +11175,7 @@ determined by the leading insurer according to the rules of its
 home Member State.
 
 
-_Article 193_
+##### Article 193
 
 
 **Statistical data**
@@ -11186,7 +11186,7 @@ data showing the extent of Community co-insurance operations
 in which they participate and the Member States concerned.
 
 
-_Article 194_
+##### Article 194
 
 
 **Treatment of co-insurance contracts in winding-up**
@@ -11200,7 +11200,7 @@ other insurance contracts of that undertaking without distinction
 as to the nationality of the insured and of the beneficiaries.
 
 
-_Article 195_
+##### Article 195
 
 
 **Exchange of information between supervisory authorities**
@@ -11213,7 +11213,7 @@ vide each other with all necessary information.
 
 
 
-_Article 196_
+##### Article 196
 
 
 **Cooperation on implementation**
@@ -11237,7 +11237,7 @@ of two or more insurers for their coverage.
 **A s s i s t a n c e**
 
 
-_Article 197_
+##### Article 197
 
 
 **Activities similar to tourist assistance**
@@ -11263,7 +11263,7 @@ come under other classes.
 **L e g a l e x p e n s e s i n s ur a n c e**
 
 
-_Article 198_
+##### Article 198
 
 
 **Scope of this Section**
@@ -11330,7 +11330,7 @@ circumstances referred to in that point and is ancillary to the
 assistance.
 
 
-_Article 199_
+##### Article 199
 
 
 **Separate contracts**
@@ -11343,7 +11343,7 @@ nature of the legal expenses cover and, should the Member State
 so request, the amount of the relevant premium are specified.
 
 
-_Article 200_
+##### Article 200
 
 
 **Management of claims**
@@ -11403,7 +11403,7 @@ moment that those insured persons have a claim under that
 contract.
 
 
-_Article 201_
+##### Article 201
 
 
 **Free choice of lawyer**
@@ -11441,7 +11441,7 @@ freedom to provide services ( [1] ).
 
 
 
-_Article 202_
+##### Article 202
 
 
 
@@ -11481,7 +11481,7 @@ expenses by the same insurance undertaking.
 affect the application of Article 200.
 
 
-_Article 203_
+##### Article 203
 
 
 **Arbitration**
@@ -11498,7 +11498,7 @@ The insurance contract shall provide for the right of the insured
 person to have recourse to such procedures.
 
 
-_Article 204_
+##### Article 204
 
 
 **Conflict of interest**
@@ -11512,7 +11512,7 @@ possibility of having recourse to the procedure referred to in
 Article 203.
 
 
-_Article 205_
+##### Article 205
 
 
 **Abolition of specialisation of legal expenses insurance**
@@ -11528,7 +11528,7 @@ time.
 **H e a l t h i n s ur a n c e**
 
 
-_Article 206_
+##### Article 206
 
 
 **Health insurance as an alternative to social security**
@@ -11615,7 +11615,7 @@ ing contracts are modified.
 **I n s ur a n c e a g a i n s t a c c i d e n t s a t w o r k**
 
 
-_Article 207_
+##### Article 207
 
 
 **Compulsory insurance against accidents at work**
@@ -11629,13 +11629,13 @@ provisions concerning financial supervision, which shall be the
 exclusive responsibility of the home Member State.
 
 
-_CHAPTER III_
+## *CHAPTER III*
 
 
 _**Provisions specific to life insurance**_
 
 
-_Article 208_
+##### Article 208
 
 
 **Prohibition on compulsory ceding of part of underwriting**
@@ -11646,7 +11646,7 @@ cede part of their underwriting of activities listed in Article 2(3)
 to an organisation or organisations designated by national law.
 
 
-_Article 209_
+##### Article 209
 
 
 **Premiums for new business**
@@ -11667,13 +11667,13 @@ term.
 
 
 
-_CHAPTER IV_
+## *CHAPTER IV*
 
 
 _**Rules specific to reinsurance**_
 
 
-_Article 210_
+##### Article 210
 
 
 **Finite reinsurance**
@@ -11718,7 +11718,7 @@ experience between the parties over time to achieve the tar­
 get risk transfer.
 
 
-_Article 211_
+##### Article 211
 
 
 **Special purpose vehicles**
@@ -11788,7 +11788,7 @@ shall be subject to paragraphs 1 and 2.
 **UNDERTAKINGS IN A GROUP**
 
 
-_CHAPTER I_
+## *CHAPTER I*
 
 
 _**Group supervision: definitions, cases of application, scope**_
@@ -11801,7 +11801,7 @@ _**and levels**_
 **D e f i n i t i o n s**
 
 
-_Article 212_
+##### Article 212
 
 
 **Definitions**
@@ -11920,7 +11920,7 @@ influence is effectively exercised.
 **C a s e s o f a p p l i c a t i o n a n d s c o p e**
 
 
-_Article 213_
+##### Article 213
 
 
 **Cases of application of group supervision**
@@ -11981,7 +11981,7 @@ of intra-group transactions referred to in Article 245 of this Direc­
 tive, or both.
 
 
-_Article 214_
+##### Article 214
 
 
 **Scope of group supervision**
@@ -12050,7 +12050,7 @@ reinsurance undertaking concerned.
 **L e v e l s**
 
 
-_Article 215_
+##### Article 215
 
 
 
@@ -12091,7 +12091,7 @@ referred to in Article 244, the supervision of intra-group transac­
 tions referred to in Article 245, or both.
 
 
-_Article 216_
+##### Article 216
 
 
 **Ultimate parent undertaking at national level**
@@ -12188,7 +12188,7 @@ Article 301(3).
 
 
 
-_Article 217_
+##### Article 217
 
 
 **Parent undertaking covering several Member States**
@@ -12225,7 +12225,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_CHAPTER II_
+## *CHAPTER II*
 
 
 _**Financial position**_
@@ -12243,7 +12243,7 @@ _**Financial position**_
 **G e n e r a l p r o v i s i o n s**
 
 
-_Article 218_
+##### Article 218
 
 
 **Supervision of group solvency**
@@ -12284,7 +12284,7 @@ visor shall inform the other supervisory authorities within the col­
 lege of supervisors, which shall analyse the situation of the group.
 
 
-_Article 219_
+##### Article 219
 
 
 **Frequency of calculation**
@@ -12328,7 +12328,7 @@ Requirement.
 **principles**
 
 
-_Article 220_
+##### Article 220
 
 
 **Choice of method**
@@ -12364,7 +12364,7 @@ bination of methods 1 and 2, where the exclusive application of
 method 1 would not be appropriate.
 
 
-_Article 221_
+##### Article 221
 
 
 **Inclusion of proportional share**
@@ -12425,7 +12425,7 @@ a dominant influence over that other undertaking.
 
 
 
-_Article 222_
+##### Article 222
 
 
 **Elimination of double use of eligible own funds**
@@ -12535,7 +12535,7 @@ authority responsible for the supervision of that related
 undertaking.
 
 
-_Article 223_
+##### Article 223
 
 
 **Elimination of the intra-group creation of capital**
@@ -12574,7 +12574,7 @@ taking which, directly or indirectly, holds own funds eligible for
 the Solvency Capital Requirement of the first undertaking.
 
 
-_Article 224_
+##### Article 224
 
 
 **Valuation**
@@ -12590,7 +12590,7 @@ dance with Article 75.
 **Application of the calculation methods**
 
 
-_Article 225_
+##### Article 225
 
 
 **Related insurance and reinsurance undertakings**
@@ -12611,7 +12611,7 @@ Solvency Capital Requirement and the own funds eligible to sat­
 isfy that requirement as laid down in that other Member State.
 
 
-_Article 226_
+##### Article 226
 
 
 **Intermediate insurance holding companies**
@@ -12659,7 +12659,7 @@ in the calculation of the group solvency only in so far as they have
 been duly authorised by the group supervisor.
 
 
-_Article 227_
+##### Article 227
 
 
 **Related third-country insurance and reinsurance**
@@ -12734,7 +12734,7 @@ insurance or reinsurance undertaking shall be treated exclusively
 in accordance with the first subparagraph of paragraph 1.
 
 
-_Article 228_
+##### Article 228
 
 
 **Related credit institutions, investment firms and financial**
@@ -12769,7 +12769,7 @@ gible for the group solvency of the participating undertaking.
 
 
 
-_Article 229_
+##### Article 229
 
 
 **Non-availability of the necessary information**
@@ -12795,7 +12795,7 @@ solvency.
 **Calculation methods**
 
 
-_Article 230_
+##### Article 230
 
 
 **Method 1 (Default method): Accounting**
@@ -12860,7 +12860,7 @@ apply _mutatis mutandis_ . Article 139(1) and (2) shall apply _mutatis_
 _mutandis_ .
 
 
-_Article 231_
+##### Article 231
 
 
 **Group internal model**
@@ -12996,7 +12996,7 @@ the first and second subparagraphs to both the insurance or rein­
 surance undertaking and the group supervisor.
 
 
-_Article 232_
+##### Article 232
 
 
 **Group capital add-on**
@@ -13029,7 +13029,7 @@ Article 37(1) to (5), together with implementing measures taken
 in accordance with Article 37(6), shall apply _mutatis mutandis_ .
 
 
-_Article 233_
+##### Article 233
 
 
 **Method 2 (Alternative method): Deduction and**
@@ -13124,7 +13124,7 @@ in accordance with Article 37(6), shall apply _mutatis mutandis_ .
 
 
 
-_Article 234_
+##### Article 234
 
 
 **Implementing measures**
@@ -13150,7 +13150,7 @@ Article 301(3).
 **an insurance holding company**
 
 
-_Article 235_
+##### Article 235
 
 
 **Group solvency of an insurance holding company**
@@ -13179,7 +13179,7 @@ funds eligible for the Solvency Capital Requirement.
 **centralised risk management**
 
 
-_Article 236_
+##### Article 236
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13226,7 +13226,7 @@ a favourable decision has been made on such application in
 accordance with the procedure set out in Article _237_ .
 
 
-_Article 237_
+##### Article 237
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13309,7 +13309,7 @@ other supervisory authorities concerned with a copy of the
 decision.
 
 
-_Article 238_
+##### Article 238
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13394,7 +13394,7 @@ The decision shall be submitted to the subsidiary and to the col­
 lege of supervisors.
 
 
-_Article 239_
+##### Article 239
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13463,7 +13463,7 @@ enforce the Minimum Capital Requirement at the level of the
 subsidiary.
 
 
-_Article 240_
+##### Article 240
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13538,7 +13538,7 @@ application and obtains a favourable decision in accordance with
 the procedure set out in Article 237.
 
 
-_Article 241_
+##### Article 241
 
 
 **Subsidiaries of an insurance or reinsurance undertaking:**
@@ -13569,7 +13569,7 @@ Article 301(3).
 
 
 
-_Article 242_
+##### Article 242
 
 
 **Review**
@@ -13648,7 +13648,7 @@ posals for the amendment of this Directive.
 
 
 
-_Article 243_
+##### Article 243
 
 
 **Subsidiaries of an insurance holding company**
@@ -13666,7 +13666,7 @@ holding company.
 **t r a n s a c t i o n s**
 
 
-_Article 244_
+##### Article 244
 
 
 **Supervision of risk concentration**
@@ -13734,7 +13734,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 245_
+##### Article 245
 
 
 **Supervision of intra-group transactions**
@@ -13801,7 +13801,7 @@ Article 301(3).
 **R i s k m a n a g e m e n t a n d i n t e r n a l c o n t r o l**
 
 
-_Article 246_
+##### Article 246
 
 
 **Supervision of the system of governance**
@@ -13878,13 +13878,13 @@ not exempt the subsidiaries concerned from the obligation to
 ensure that the requirements of Article 45 are met.
 
 
-_CHAPTER III_
+## *CHAPTER III*
 
 
 _**Measures to facilitate group supervision**_
 
 
-_Article 247_
+##### Article 247
 
 
 **Group Supervisor**
@@ -14027,7 +14027,7 @@ ance undertakings, such Member State shall take the necessary
 measures to ensure coordination between those authorities.
 
 
-_Article 248_
+##### Article 248
 
 
 **Rights and duties of the group supervisor and the other**
@@ -14193,7 +14193,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 249_
+##### Article 249
 
 
 **Cooperation and exchange of information between**
@@ -14274,7 +14274,7 @@ be adopted in accordance with the regulatory procedure with
 scrutiny referred to in Article 301(3).
 
 
-_Article 250_
+##### Article 250
 
 
 **Consultation between supervisory authorities**
@@ -14318,7 +14318,7 @@ case, the supervisory authority shall, without delay, inform the
 other supervisory authorities concerned.
 
 
-_Article 251_
+##### Article 251
 
 
 **Requests from the group supervisor to other supervisory**
@@ -14341,7 +14341,7 @@ order to prevent duplication of reporting to the various authori­
 ties involved in supervision.
 
 
-_Article 252_
+##### Article 252
 
 
 **Cooperation with authorities responsible for credit**
@@ -14362,7 +14362,7 @@ authorities shall provide one another with any information likely
 to simplify their task, in particular as set out in this Title.
 
 
-_Article 253_
+##### Article 253
 
 
 **Professional secrecy and confidentiality**
@@ -14388,7 +14388,7 @@ authorities which is provided for in this Title, shall be subject to
 the provisions of Article 295.
 
 
-_Article 254_
+##### Article 254
 
 
 **Access to information**
@@ -14416,7 +14416,7 @@ supervision and has not been supplied by it within a reasonable
 period of time.
 
 
-_Article 255_
+##### Article 255
 
 
 **Verification of information**
@@ -14466,7 +14466,7 @@ so wishes, participate in the verification when it does not carry
 out the verification directly.
 
 
-_Article 256_
+##### Article 256
 
 
 **Group solvency and financial condition report**
@@ -14521,7 +14521,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 
 
-_Article 257_
+##### Article 257
 
 
 **Administrative, management or supervisory body of**
@@ -14540,7 +14540,7 @@ Article 42 shall apply _mutatis mutandis_ .
 -----
 
 
-_Article 258_
+##### Article 258
 
 
 **Enforcement measures**
@@ -14548,7 +14548,7 @@ _Article 258_
 
 
 
-_Article 259_
+##### Article 259
 
 
 **Reporting of CEIOPS**
@@ -14651,13 +14651,13 @@ on the main lessons drawn from the reviews referred to in
 Article 248(6), where appropriate.
 
 
-_CHAPTER IV_
+## *CHAPTER IV*
 
 
 _**Third countries**_
 
 
-_Article 260_
+##### Article 260
 
 
 **Parent undertakings outside the Community: verification**
@@ -14722,7 +14722,7 @@ that decision shall be recognised as determinative for the purposes
 of the verification referred to in paragraph 1.
 
 
-_Article 261_
+##### Article 261
 
 
 **Parent undertakings outside the Community: equivalence**
@@ -14738,7 +14738,7 @@ in accordance with paragraph 2.
 cooperation with third-country supervisory authorities.
 
 
-_Article 262_
+##### Article 262
 
 
 **Parent undertakings outside the Community: absence of**
@@ -14797,7 +14797,7 @@ to the other supervisory authorities concerned and the
 Commission.
 
 
-_Article 263_
+##### Article 263
 
 
 **Parent undertakings outside the Community: levels**
@@ -14836,12 +14836,12 @@ Article 262 shall apply _mutatis mutandis_ .
 
 
 
-_Article 264_
+##### Article 264
 
 
 
 
-_Article 266_
+##### Article 266
 
 
 
@@ -14891,13 +14891,13 @@ ance and Occupational Pensions Committee, examine the out­
 come of the negotiations referred to in paragraph 1.
 
 
-_CHAPTER V_
+## *CHAPTER V*
 
 
 _**Mixed-activity insurance holding companies**_
 
 
-_Article 265_
+##### Article 265
 
 
 **Intra-group transactions**
@@ -14932,13 +14932,13 @@ apply _mutatis mutandis_ .
 **UNDERTAKINGS**
 
 
-_CHAPTER I_
+## *CHAPTER I*
 
 
 _**Scope and definitions**_
 
 
-_Article 267_
+##### Article 267
 
 
 **Scope of this Title**
@@ -14954,7 +14954,7 @@ proceedings concerning the following:
 (b) branches situated in the territory of the Community of thirdcountry insurance undertakings.
 
 
-_Article 268_
+##### Article 268
 
 
 **Definitions**
@@ -15051,13 +15051,13 @@ the home Member State;
 the home Member State.
 
 
-_CHAPTER II_
+## *CHAPTER II*
 
 
 _**Reorganisation measures**_
 
 
-_Article 269_
+##### Article 269
 
 
 **Adoption of reorganisation measures applicable law**
@@ -15092,7 +15092,7 @@ the Community once they become effective in the home Member
 State.
 
 
-_Article 270_
+##### Article 270
 
 
 **Information to the supervisory authorities**
@@ -15111,7 +15111,7 @@ other Member States of the decision to adopt reorganisation mea­
 sures including the possible practical effects of such measures.
 
 
-_Article 271_
+##### Article 271
 
 
 **Publication of decisions on reorganisation measures**
@@ -15169,7 +15169,7 @@ the parties referred to in the first subparagraph are to be informed
 in accordance with the applicable law.
 
 
-_Article 272_
+##### Article 272
 
 
 **Information to known creditors right to lodge claims**
@@ -15195,13 +15195,13 @@ Member State shall have the same right in accordance with
 Article 282 and Article 283(2).
 
 
-_CHAPTER III_
+## *CHAPTER III*
 
 
 _**Winding-up proceedings**_
 
 
-_Article 273_
+##### Article 273
 
 
 **Opening of winding-up proceedings information to the**
@@ -15239,7 +15239,7 @@ other Member States of the decision to open winding-up proceed­
 ings including the possible practical effects of such proceedings.
 
 
-_Article 274_
+##### Article 274
 
 
 **Applicable law**
@@ -15315,7 +15315,7 @@ ity of legal acts detrimental to all the creditors.
 
 
 
-_Article 275_
+##### Article 275
 
 
 **Treatment of insurance claims**
@@ -15362,7 +15362,7 @@ lish and keep up to date a special register in accordance with
 Article 276.
 
 
-_Article 276_
+##### Article 276
 
 
 **Special register**
@@ -15439,7 +15439,7 @@ their estimated value in the registers, the liquidators shall justify
 this to the supervisory authorities of the home Member States.
 
 
-_Article 277_
+##### Article 277
 
 
 **Subrogation to a guarantee scheme**
@@ -15456,12 +15456,12 @@ benefit from the provisions of Article 275(1).
 
 
 
-_Article 278_
+##### Article 278
 
 
 
 
-_Article 281_
+##### Article 281
 
 
 
@@ -15476,7 +15476,7 @@ the insurance undertaking’s accounts are represented, at any
 moment and independently of a possible winding-up, by assets.
 
 
-_Article 279_
+##### Article 279
 
 
 **Withdrawal of the authorisation**
@@ -15501,7 +15501,7 @@ pursued with the consent and under the supervision of the super­
 visory authorities of that Member State.
 
 
-_Article 280_
+##### Article 280
 
 
 **Publication of decisions on winding-up proceedings**
@@ -15559,7 +15559,7 @@ and duties of insured persons with regard to the contract or
 operation.
 
 
-_Article 282_
+##### Article 282
 
 
 **Right to lodge claims**
@@ -15610,7 +15610,7 @@ not be indicated.
 
 
 
-_Article 283_
+##### Article 283
 
 
 **Languages and form**
@@ -15656,7 +15656,7 @@ relating to claims’, as appropriate, in the official language or in
 one of the official languages of the home Member State.
 
 
-_Article 284_
+##### Article 284
 
 
 **Regular information to the creditors**
@@ -15671,13 +15671,13 @@ request information on developments in the winding-up proce­
 dure from the supervisory authorities of the home Member State.
 
 
-_CHAPTER IV_
+## *CHAPTER IV*
 
 
 _**Common provisions**_
 
 
-_Article 285_
+##### Article 285
 
 
 **Effects on certain contracts and rights**
@@ -15706,7 +15706,7 @@ Member State under the authority of which the register is
 kept.
 
 
-_Article 286_
+##### Article 286
 
 
 **Rights in rem of third parties**
@@ -15753,7 +15753,7 @@ right in rem.
 ity or unenforceability referred to in Article 274(2)(l).
 
 
-_Article 287_
+##### Article 287
 
 
 **Reservation of title**
@@ -15789,7 +15789,7 @@ sures or proceedings were opened.
 voidability or unenforceability referred to in Article 274(2)(l).
 
 
-_Article 288_
+##### Article 288
 
 
 **Set-off**
@@ -15805,7 +15805,7 @@ claim of the insurance undertaking.
 ity or unenforceability referred to in Article 274(2)(l).
 
 
-_Article 289_
+##### Article 289
 
 
 **Regulated markets**
@@ -15823,7 +15823,7 @@ be taken to set aside payments or transactions under the law
 applicable to that market.
 
 
-_Article 290_
+##### Article 290
 
 
 **Detrimental acts**
@@ -15837,7 +15837,7 @@ allow any means of challenging that act in the relevant case.
 
 
 
-_Article 291_
+##### Article 291
 
 
 **Protection of third-party purchasers**
@@ -15866,7 +15866,7 @@ Member State under the authority of which the register,
 account or system is kept.
 
 
-_Article 292_
+##### Article 292
 
 
 **Lawsuits pending**
@@ -15878,7 +15878,7 @@ insurance undertaking has been divested shall be governed solely
 by the law of the Member State in which the lawsuit is pending.
 
 
-_Article 293_
+##### Article 293
 
 
 **Administrators and liquidators**
@@ -15929,7 +15929,7 @@ Those powers shall not include the use of force or the right to rule
 on legal proceedings or disputes.
 
 
-_Article 294_
+##### Article 294
 
 
 **Registration in a public register**
@@ -15951,7 +15951,7 @@ shall take all the measures necessary to ensure such registration.
 expenses incurred in the proceedings.
 
 
-_Article 295_
+##### Article 295
 
 
 **Professional secrecy**
@@ -15964,7 +15964,7 @@ down in Articles 64 to 69, with the exception of any judicial
 authorities to which existing national provisions apply.
 
 
-_Article 296_
+##### Article 296
 
 
 **Treatment of branches of third-country insurance**
@@ -15990,7 +15990,7 @@ coordinate their actions.
 **OTHER PROVISIONS**
 
 
-_Article 297_
+##### Article 297
 
 
 **Right to apply to the courts**
@@ -16003,7 +16003,7 @@ subject to the right to apply to the courts.
 
 
 
-_Article 298_
+##### Article 298
 
 
 **Cooperation between the Member States and the**
@@ -16031,7 +16031,7 @@ States concerned shall examine those difficulties as quickly as pos­
 sible in order to find an appropriate solution.
 
 
-_Article 299_
+##### Article 299
 
 
 **Euro**
@@ -16044,7 +16044,7 @@ of the preceding October for which exchange values for the _euro_
 are available in all Community currencies.
 
 
-_Article 300_
+##### Article 300
 
 
 **Revision of amounts expressed in euro**
@@ -16071,7 +16071,7 @@ within 12 months of the publication in the _Official Journal of the_
 _European Union_ .
 
 
-_Article 301_
+##### Article 301
 
 
 **Committee procedure**
@@ -16098,7 +16098,7 @@ to (4) and Article 7 of Decision 1999/468/EC shall apply, having
 regard to the provisions of Article 8 thereof.
 
 
-_Article 302_
+##### Article 302
 
 
 **Notifications submitted prior to entry into force of the**
@@ -16115,7 +16115,7 @@ the national law of Member States in force at the time of
 notification.
 
 
-_Article 303_
+##### Article 303
 
 
 **Amendments to Directive 2003/41/EC**
@@ -16362,7 +16362,7 @@ accordance with the regulatory procedure with scrutiny
 referred to in Article 21b.
 
 
-_Article 17b_
+##### Article 17b
 
 
 **Required solvency margin**
@@ -16468,7 +16468,7 @@ fraction of the capital at risk calculated in compliance
 with paragraph 2(b).
 
 
-_Article 17c_
+##### Article 17c
 
 
 **Guarantee fund**
@@ -16488,7 +16488,7 @@ the minimum guarantee fund in the case of mutual and
 mutual-type undertakings.
 
 
-_Article 17d_
+##### Article 17d
 
 
 **Required solvency margin for the purpose of**
@@ -16637,7 +16637,7 @@ and the Council annually of the review and the adapted
 amount referred to in paragraph 1.
 
 
-_Article 21b_
+##### Article 21b
 
 
 **Committee procedure**
@@ -16659,7 +16659,7 @@ having regard to the provisions of Article 8 thereof.
 ( [*] [) OJ L 3, 7.1.2004, p. 34’.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:003:0034:0034:EN:PDF)
 
 
-_Article 304_
+##### Article 304
 
 
 **Duration-based equity risk sub-module**
@@ -16776,7 +16776,7 @@ _**Transitional provisions**_
 **I n s ur a n c e**
 
 
-_Article 305_
+##### Article 305
 
 
 **Derogations and abolition of restrictive measures**
@@ -16830,7 +16830,7 @@ measures such as those relating to mortgages, deposits and
 securities.
 
 
-_Article 306_
+##### Article 306
 
 
 **Rights acquired by existing branches and insurance**
@@ -16851,8 +16851,6 @@ to provide services before 1 July 1994.
 
 -----
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/115
-
 
 
 ### Section 2
@@ -16861,7 +16859,7 @@ to provide services before 1 July 1994.
 **R e i n s ur a n c e**
 
 
-_Article 307_
+##### Article 307
 
 
 **Transitional period for Articles 57(3) and 60(6) of**
@@ -16874,7 +16872,7 @@ of Directive 73/239/EEC and of the provision of Article 60(6) of
 Directive 2005/68/EC until 10 December 2008.
 
 
-_Article 308_
+##### Article 308
 
 
 **Right acquired by existing reinsurance undertakings**
@@ -16901,13 +16899,13 @@ Sections 2, 3 and 4 until 10 December 2008 in order to comply
 with such requirements.
 
 
-_CHAPTER II_
+## *CHAPTER II*
 
 
 _**Final provisions**_
 
 
-_Article 309_
+##### Article 309
 
 
 **Transposition**
@@ -16939,7 +16937,7 @@ text of the main provisions of national law which they adopt in
 the field covered by this Directive.
 
 
-_Article 310_
+##### Article 310
 
 
 **Repeal**
@@ -16958,7 +16956,7 @@ ences to this Directive and shall be read in accordance with the
 correlation table in Annex VII.
 
 
-_Article 311_
+##### Article 311
 
 
 **Entry into force**
@@ -16974,7 +16972,7 @@ Articles 1-3, 5-9, 11, 12, 15-17, 19-22, 24, 25, 33, 56-66, 69,
 and II, V, VI and VII shall apply from 1 November 2012.
 
 
-_Article 312_
+##### Article 312
 
 
 **Addressees**
@@ -17009,7 +17007,7 @@ _The President_
 
 
 
-_ANNEX I_
+# _ANNEX I_
 
 
 **CLASSES OF NON-LIFE INSURANCE**
@@ -17234,8 +17232,6 @@ unforeseen trading expenses,
 
 -----
 
-L 335/118 EN Official Journ al of the E uropean Un ion 17.12.2009
-
 
 —
 loss of market value,
@@ -17304,10 +17300,8 @@ their choice.
 
 -----
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/119
 
-
-_ANNEX II_
+# _ANNEX II_
 
 
 **CLASSES OF LIFE INSURANCE**
@@ -17346,7 +17340,7 @@ IX. The operations referred to in Article 2(3)(c).
 
 
 
-_ANNEX III_
+# _ANNEX III_
 
 
 **LEGAL FORMS OF UNDERTAKINGS**
@@ -17646,8 +17640,6 @@ biztosító magyarországi fióktelepe’;
 
 -----
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/123
-
 
 (19) in the case of the Republic of Austria: ‘Aktiengesellschaft’, ‘Versicherungsverein auf Gegenseitigkeit’;
 
@@ -17687,10 +17679,8 @@ a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 
 -----
 
-L 335/124 EN OoJlaiciffurnla fo the European Uoinn 11.72.2009
 
-
-_ANNEX IV_
+# _ANNEX IV_
 
 
 **SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA**
@@ -17802,8 +17792,6 @@ following:
 
 -----
 
-17.12.2009 EN Official Journ al of the E uropean Un ion L 335/125
-
 
 3. **Calculation of the life underwriting risk module**
 
@@ -17900,10 +17888,8 @@ following:
 
 -----
 
-L 335/126 EN Official Journ al of the E uropean Un ion 17.12.2009
 
-
-_ANNEX V_
+# _ANNEX V_
 
 
 **GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES OF ARTICLE 159**
@@ -17933,10 +17919,8 @@ _ANNEX V_
 
 -----
 
-11.72.2009 EN OoJlaiciffurnla fo the European Uoinn L 335/127
 
-
-_ANNEX VI_
+# _ANNEX VI_
 
 
 PART A
@@ -18503,7 +18487,7 @@ Directive/EEC
 
 
 
-_ANNEX VII_
+# _ANNEX VII_
 
 
 **CORRELATION TABLE**
