@@ -1973,15 +1973,11 @@ name of supervisors (supervisory authority), country
 
 
 
-
-<table>
 |Date|Signature 1|
 |---|---|
 ||<br>Name and Position<br> <br>|
 |<br>Date|<br>Signature 2|
 |<br>|<br>Name and Position|
-</table>
-
 --- Page 29 ---
 **Annex 1.E - Emergency plan**
 
@@ -1991,13 +1987,10 @@ name of supervisors (supervisory authority), country
 
 
 
-
-<table>
 |College of supervisors|Col2|
 |---|---|
 |**Supervised group:**|**Group supervisor:**|
 |_[Please insert name of the supervised_<br>_group]_|_[Please insert name of the supervisory_<br>_authority and country]_|
-</table>
 
 
 **Information Regarding this Document:**
@@ -2010,16 +2003,12 @@ name of supervisors (supervisory authority), country
 
 
 
-
-<table>
 |History of changes to the emergency plan|Col2|Col3|Col4|Col5|
 |---|---|---|---|---|
 |Version<br>number|Date<br>of<br>change|Responsible<br>group<br>supervisor|Supervisor<br>y <br>Authority|Reason for change|
 |**0.1**|_[insert date]_|_[insert_<br>_name]_|_[insert_<br>_supervisor_<br>_y _<br>_authority]_|**First draft version**|
 |**1.0**||||<br>|
 ||||||
-</table>
-
 --- Page 30 ---
 {Explanations or best practices are provided in brackets. They provide guidance to the
 drafting of individual arrangements which should be adapted to the specific needs of
@@ -2359,8 +2348,6 @@ insurance supervisory authority
 
 
 
-
-<table>
 |Col1|Type of<br>information|Description|Source|
 |---|---|---|---|
 ||**Crisis information and impact assessment**|**Crisis information and impact assessment**|**Crisis information and impact assessment**|
@@ -2374,11 +2361,7 @@ insurance supervisory authority
 ||**Actions and resolution measures**|**Actions and resolution measures**|**Actions and resolution measures**|
 |8|Measures and<br>recovery actions<br>by the group|Measures and actions taken and planned by<br>the undertaking/group, and its impact on the<br>solvency and financial position.|GS, IS|
 |9|Actions taken by<br>supervisors|Description of the action, its purpose and<br>effect.|RSR, GS,<br>IS|
-</table>
-
 --- Page 37 ---
-
-<table>
 |10|External<br>communication|Information on communication made without<br>involving all supervisors.|RSR, IS,<br>GS|
 |---|---|---|---|
 |11|Legal powers|Description of the powers of the supervisory<br>authorities including restrictions, transfer of<br>capital, and non-compliance with regulatory<br>requirements.|RSR, IS,<br>GS|
@@ -2393,11 +2376,7 @@ insurance supervisory authority
 ||**Governance**|||
 |19|Significant<br>governance<br>failures|Information on significant governance failures<br>if not already previously described, including<br>information on the impact of the failure on the<br>undertaking(s)<br>and the<br>action taken in<br>response to it. Where applicable reference to<br>crisis management and contingency plans.|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
 |20|Outsourcing|Information on the outsourcing of any critical<br>or important operational functions or activities<br>and the jurisdiction in which the service<br>providers of such functions or activities are<br>located.|SFCR, GS,<br>IS|
-</table>
-
 --- Page 38 ---
-
-<table>
 |21|ORSA|Information on eventual additional ORSA’s on<br>account of significant change in risk profile<br>including proposed management actions<br>considered necessary and planned capital<br>measures.|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
 |---|---|---|---|
 ||**Risk information**|**Risk information**|**Risk information**|
@@ -2410,7 +2389,6 @@ insurance supervisory authority
 |27|Changes in own<br>funds levels,<br>MCR, SCR,<br>technical<br>provisions and/or<br>other balance<br>sheet items|Amount and reason for the changes and<br>consideration of any potential or actual<br>consequence of those changes. In relation to<br>technical provisions, information can include<br>details on emergence of any future claims<br>that have not been include in previous<br>reported technical provisions.|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
 |28|Availability of<br>capital|A description of any item deducted from own<br>funds and a brief description of any significant<br>restriction<br>affecting<br>the<br>availability<br>and<br>transferability<br>of<br>own<br>funds<br>within<br>the<br>undertaking or group. Capital ability to absorb<br>the impact of the crisis. Group’s ability to<br>raise additional capital and an indication<br>where it may be able to source this capital<br>from.|SFCR and<br>RSR, GS,<br>IS|
 |29|Allocation of<br>capital and<br>possibility of<br>transferability|If available, how the capital is allocated within<br>the group and discussion on the possibility of<br>transferring the capital within the group (e.g.<br>through intra-company loans, reinsurance<br>dividends).|RSR: GS|
-</table>
 
 
 

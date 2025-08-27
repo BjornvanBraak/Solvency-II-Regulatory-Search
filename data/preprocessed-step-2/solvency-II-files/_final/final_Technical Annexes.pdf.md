@@ -405,8 +405,6 @@ review process.
 
 
 
-
-<table>
 |No|Selected data|At individual level|At group level|
 |---|---|---|---|
 |1|Government bonds|X|X|
@@ -423,7 +421,6 @@ review process.
 |12|Investment returns|X|X|
 |13|Net combined ratio|X|X|
 |14|Reinsurance part of<br>premiums|X|X|
-</table>
 
 
 

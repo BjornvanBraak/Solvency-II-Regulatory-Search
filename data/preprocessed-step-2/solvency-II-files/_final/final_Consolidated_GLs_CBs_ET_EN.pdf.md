@@ -84,8 +84,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
-
-<table>
 |Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
 |---|---|---|---|---|---|---|---|---|
 |**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
@@ -93,7 +91,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
 |**BE undiscounted**||||**176 **|||||
-</table>
 
 
 6. The horizon of projection of future cash flows is not affected by the contract boundaries.

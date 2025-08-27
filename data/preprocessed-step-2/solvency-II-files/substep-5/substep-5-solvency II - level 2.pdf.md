@@ -5701,12 +5701,9 @@ _i_
 the modified duration denominated in years of the assets subject to a capital requirement for spread risk on bonds and
 loans with credit quality step _i_, and _b_ _i_ is determined in accordance with the following table:
 
-
-<table>
 |Credit quality step i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |_bi _|0,9 %|1,1 %|1,4 %|2,5 %|4,5 %|7,5 %|7,5 %|
-</table>
 
 
 
@@ -6039,15 +6036,12 @@ the following correlation matrix:
 
 
 
-
-<table>
 |(i,j) elation matrix:|Col2|Col3|Col4|
 |---|---|---|---|
 |_j _<br>_i_|Non-life premium<br>and reserve|Non-life cata­<br>strophe|Non-life lapse|
 |Non-life premium and<br>reserve|1|0,25|0|
 |Non-life catastrophe|0,25|1|0|
 |Non-life lapse|0|0|1|
-</table>
 
 
 ##### Article 115
@@ -8059,8 +8053,6 @@ where:
 3. The correlation coefficient _Corr_ _i,j_ referred to in point 3 of Annex IV of Directive 2009/138/EC shall be equal to the
 item set out in row _i_ and in column _j_ of the following correlation matrix:
 
-
-<table>
 |j<br>i|Mortality|Longevity|Disability|Life expense|Revision|Lapse|Life cata­<br>strophe|
 |---|---|---|---|---|---|---|---|
 |Mortality|1|– 0,25|0,25|0,25|0|0|0,25|
@@ -8070,7 +8062,6 @@ item set out in row _i_ and in column _j_ of the following correlation matrix:
 |Revision|0|0,25|0|0,5|1|0|0|
 |Lapse|0|0,25|0|0,5|0|1|0,25|
 |Life catastrophe|0,25|0|0,25|0,25|0|0,25|1|
-</table>
 
 
 
@@ -8418,15 +8409,12 @@ the following correlation matrix:
 
 
 
-
-<table>
 |(i,j) elation matrix:|Col2|Col3|Col4|
 |---|---|---|---|
 |_j _<br>_i_|NSLT health<br>underwriting|SLT health<br>underwriting|Health catastrophe|
 |NSLT health underwrit­<br>ing|1|0,5|0,25|
 |SLT health underwrit­<br>ing|0,5|1|0,25|
 |Health catastrophe|0,25|0,25|1|
-</table>
 
 
 4. Insurance and reinsurance undertakings shall apply:
@@ -9030,22 +9018,17 @@ column _j_ of the following correlation matrix:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
-
-<table>
 |j<br>i|Health<br>mortality|Health<br>longevity|Health<br>disability-<br>morbidity|Health<br>expense|Health revi­<br>sion|SLT health lapse|
 |---|---|---|---|---|---|---|
 |Health mortality|1|– 0,25|0,25|0,25|0|0|
+--- Page 98 ---
+|j<br>i|Health<br>mortality|Health<br>longevity|Health<br>disability-<br>morbidity|Health<br>expense|Health revi­<br>sion|SLT health lapse|
+|---|---|---|---|---|---|---|
 |Health longevity|– 0,25|1|0|0,25|0,25|0,25|
 |Health disability-morbidity|0,25|0|1|0,5|0|0|
 |Health expense|0,25|0,25|0,5|1|0,5|0,5|
 |Health revision|0|0,25|0|0,5|1|0|
 |SLT health lapse|0|0,25|0|0,5|0|1|
-</table>
-
-
---- Page 98 ---
-
-
 
 
 ##### Article 152
@@ -9880,8 +9863,6 @@ where:
 3. The correlation parameter _Corr_ _(i,j)_ referred to in paragraph 2 shall be equal to the item set out in row _i_ and in
 column _j_ of the following correlation matrix:
 
-
-<table>
 |j<br>i|Interest rate|Equity|Property|Spread|Concentration|Currency|
 |---|---|---|---|---|---|---|
 |Interest rate|1|A|A|A|0|0,25|
@@ -9890,7 +9871,6 @@ column _j_ of the following correlation matrix:
 |Spread|A|0,75|0,5|1|0|0,25|
 |Concentration|0|0|0|0|1|0|
 |Currency|0,25|0,25|0,25|0,25|0|1|
-</table>
 
 
 
@@ -9939,8 +9919,6 @@ be equal to the loss in the basic own funds that would result from an instantane
 rates for that currency at different maturities in accordance with the following table:
 
 
-
-<table>
 |Maturity<br>(in years)|Increase|
 |---|---|
 |1|70 %|
@@ -9964,8 +9942,6 @@ rates for that currency at different maturities in accordance with the following
 |19|27 %|
 |20|26 %|
 |90|20 %|
-</table>
-
 --- Page 107 ---
 For maturities not specified in the table above, the value of the increase shall be linearly interpolated. For maturities
 shorter than 1 year, the increase shall be 70 %. For maturities longer than 90 years, the increase shall be 20 %.
@@ -9991,8 +9967,6 @@ be equal to the loss in the basic own funds that would result from an instantane
 rates for that currency at different maturities in accordance with the following table:
 
 
-
-<table>
 |Maturity<br>(in years)|Decrease|
 |---|---|
 |1|75 %|
@@ -10016,8 +9990,6 @@ rates for that currency at different maturities in accordance with the following
 |19|29 %|
 |20|29 %|
 |90|20 %|
-</table>
-
 --- Page 108 ---
 For maturities not specified in the table above, the value of the decrease shall be linearly interpolated. For maturities
 shorter than 1 year, the decrease shall be 75 %. For maturities longer than 90 years, the decrease shall be 20 %.
@@ -10341,23 +10313,18 @@ depending on the credit quality step and the modified duration _dur_ _i_ of the 
 table.
 
 
-
-<table>
 |Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Duration<br>(_duri_)|_stressi _|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|
 |up to 5|_b_ _i_ _ dur_ _i _|—|0,9<br>%|—|1,1<br>%|—|1,4<br>%|—|2,5<br>%|—|4,5<br>%|—|7,5<br>%|
 |More than 5<br>and up to 10|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 5Þ|4,5<br>%|0,5<br>%|5,5<br>%|0,6<br>%|7,0<br>%|0,7<br>%|12,5<br>%|1,5<br>%|22,5<br>%|2,5<br>%|37,5<br>%|4,2<br>%|
 |More than 10<br>and up to 15|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 10Þ|7,0<br>%|0,5<br>%|8,4<br>%|0,5<br>%|10,5<br>%|0,5<br>%|20,0<br>%|1,0<br>%|35,0<br>%|1,8<br>%|58,5<br>%|0,5<br>%|
+--- Page 112 ---
+|Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Duration<br>(_duri_)|_stressi _|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|
 |More than 15<br>and up to 20|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 15Þ|9,5<br>%|0,5<br>%|10,9<br>%|0,5<br>%|13,0<br>%|0,5<br>%|25,0<br>%|1,0<br>%|44,0<br>%|0,5<br>%|61,0<br>%|0,5<br>%|
 |More than 20|min_ a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 20Þ;1<br><br>|12,0<br>%|0,5<br>%|13,4<br>%|0,5<br>%|15,5<br>%|0,5<br>%|30,0<br>%|0,5<br>%|46,5<br>%|0,5<br>%|63,5<br>%|0,5<br>%|
-</table>
-
-
---- Page 112 ---
-
-
 
 
 
@@ -10365,15 +10332,12 @@ table.
 not posted collateral that meets the criteria set out in Article 214 shall be assigned a risk factor _stress_ _i_ depending on the
 duration _dur_ _i_ of the bond or loan _i_ according to the following table:
 
-
-<table>
 |Duration (dur)<br>i|stress<br>i|
 |---|---|
 |up to 5|3% _ dur_ _i _|
 |More than 5 and up to 10|15 þ 1,7%  ð_dur_ _i_ − 5Þ|
 |More than 10 and up to 20|23,5% þ 1,2%  ð_dur_ _i_ − 10Þ|
 |More than 20|minð35,5% þ 0,5%  ð_dur_ _i_ − 20Þ ; 1Þ|
-</table>
 
 
 
@@ -10668,12 +10632,9 @@ where:
 
 (b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
 
-
-<table>
 |Credit quality step|0|1|2|3|
 |---|---|---|---|---|
 |_bi _|2,1 %|3 %|3 %|3 %|
-</table>
 
 
 
@@ -10693,12 +10654,9 @@ where:
 
 (b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |_bi _|12,5 %|13,4 %|16,6 %|19,7 %|82 %|100 %|100 %|
-</table>
 
 
 
@@ -10719,12 +10677,9 @@ where:
 (b) b _i_ shall be assigned depending on the credit quality step of resecuritisation position _i_ according to the following
 table:
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |_bi _|33 %|40 %|51 %|91 %|100 %|100 %|100 %|
-</table>
 
 
 
@@ -10756,12 +10711,9 @@ For the purposes of point (a), the instantaneous increase of the credit spread o
 derivatives for which a credit assessment by a nominated ECAI is available shall be calculated according to the following
 table.
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Instantaneous increase in spread<br>(in percentage points)|1,3|1,5|2,6|4,5|8,4|16,20|16,20|
-</table>
 
 
 
@@ -10792,13 +10744,10 @@ Article 206(2).
 1. Exposures in the form of bonds referred to Article 52(4) of Directive 2009/65/EC (covered bonds) which have
 been assigned to credit quality step 0 or 1 shall be assigned a risk factor _stress_ _i_ according to the following table.
 
-
-<table>
 |Credit quality step<br>Duration (dur)<br>i|0|1|
 |---|---|---|
 |up to 5|0,7 %._duri _|0,9 %._duri _|
 |More than 5 years|minð3,5% þ 0,5%  ð_duri_ − 5Þ; 1Þ|minð4,5% þ 0,5%  ð_duri_ − 5Þ; 1Þ|
-</table>
 
 
 
@@ -10827,8 +10776,6 @@ in point (b) of paragraph 2, denominated and funded in the domestic currency of 
 bank, and for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor _stress_ _i_ depending
 on the credit quality step and the duration of the exposure according to the following table:
 
-
-<table>
 |Credit quality step|Col2|0 and 1|Col4|2|Col6|3|Col8|4|Col10|5 and 6|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |Duration<br>(_duri_)|_stressi _|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|
@@ -10837,7 +10784,6 @@ on the credit quality step and the duration of the exposure according to the fol
 |More than 10 and up<br>to 15|_ai_ þ_ bi_  ð_duri_ − 10Þ|0,0 %|0,0 %|8,4 %|0,5 %|10,5<br>%|0,5 %|20,0<br>%|1,0 %|35,0<br>%|1,8 %|
 |More than 15 and up<br>to 20|_ai_ þ_ bi_  ð_duri_ − 15Þ|0,0 %|0,0 %|10,9<br>%|0,5 %|13,0<br>%|0,5 %|25,0<br>%|1,0 %|44,0<br>%|0,5 %|
 |More than 20|min_ ai_ þ_ bi_  ð_duri_ − 20Þ; 1<br><br>|0,0 %|0,0 %|13,4<br>%|0,5 %|15,5<br>%|0,5 %|30,0<br>%|0,5 %|46,5<br>%|0,5 %|
-</table>
 
 
 
@@ -10846,12 +10792,9 @@ assessment by a nominated ECAI is not available and where this undertaking meets
 shall be assigned a risk factor _stress_ _i_ from the table in Article 176(3) depending on the undertaking's solvency ratio,
 using the following mapping between solvency ratios and credit quality steps:
 
-
-<table>
 |Solvency ratio|196 %|175 %|122 %|95 %|75 %|75 %|
 |---|---|---|---|---|---|---|
 |Credit quality step|1|2|3|4|5|6|
-</table>
 
 
 
@@ -10870,8 +10813,6 @@ Solvency Capital Requirement and the Solvency Capital Requirement, using the lat
 Minimum Capital Requirement shall be assigned a risk factor _stress_ _i_ according to the following table:
 
 
-
-<table>
 |Duration (dur)<br>i|risk factor stress<br>i|
 |---|---|
 |up to 5|7,5 %._duri _|
@@ -10879,8 +10820,6 @@ Minimum Capital Requirement shall be assigned a risk factor _stress_ _i_ accordi
 |More than 10 and up to 15|58,50 % + 0,50 %.(_duri _– 10)|
 |More than 15 and up to 20|61 % + 0,50 %.(_duri _– 15)|
 |More than 20|minð63,5% þ 0,5%  ð_duri_ − 20Þ; 1Þ|
-</table>
-
 --- Page 119 ---
 6. Paragraphs 4 and 5 of this Article shall only apply as of the first date of public disclosure, by the undertaking
 corresponding to the exposure, of the report on its solvency and financial condition referred to in Article 51 of
@@ -10939,12 +10878,9 @@ relevant risk factor _stress_ _i_, referred to in Articles 176, 178 and 180 of t
 
 (ii) a reduction factor, depending on the credit quality as set out in the following table:
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Reduction factor|45 %|50 %|60 %|75 %|100 %|100 %|100 %|
-</table>
 
 
 
@@ -11127,12 +11063,9 @@ Each single name exposure _i_ shall be assigned, in accordance with the followin
 threshold depending on the weighted average credit quality step of the single name exposure _i_, calculated in accordance
 with Article 182(4).
 
-
-<table>
 |Weighted average credit quality step of<br>single name exposure i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Relative excess exposure threshold CT_i _|3 %|3 %|3 %|1,5 %|1,5 %|1,5 %|1,5 %|
-</table>
 
 
 
@@ -11147,24 +11080,17 @@ risk concentration depending on the weighted average credit quality step of the 
 accordance with Article 182(4).
 
 
-
-<table>
 |Weighted average credit quality step of<br>single name exposure i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Risk factor_gi _|12 %|12 %|21 %|27 %|73 %|73 %|73 %|
-</table>
-
 --- Page 122 ---
 2. Single name exposures to an insurance or reinsurance undertaking for which a credit assessment by a nominated
 ECAI is not available and where the undertaking meets its Minimum Capital Requirement, shall be assigned a risk factor
 _g_ _i_ for market risk concentration depending on the undertaking's solvency ratio in accordance with the following table:
 
-
-<table>
 |Solvency ratio|95 %|100 %|122 %|175 %|196 %|
 |---|---|---|---|---|---|
 |Risk factor_gi _|73 %|64,5 %|27 %|21 %|12 %|
-</table>
 
 
 
@@ -11245,12 +11171,9 @@ denominated and funded in the domestic currency of that central government and c
 factor _g_ _i_ for market risk concentration depending on their weighted average credit quality steps, in accordance with the
 following table.
 
-
-<table>
 |Weighted average credit quality step of<br>single name exposure i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Risk factor_gi _|0 %|0 %|12 %|21 %|27 %|73 %|73 %|
-</table>
 
 
 
@@ -11738,12 +11661,9 @@ pool members excluded from the scope of Article 2 of that Directive;
 (e) for pool members for which a credit assessment by a nominated ECAI is available, _SR_ _i_ and _SR_ _j_ shall be assigned in
 accordance with the following table:
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |SRi|196 %|196 %|175 %|122 %|95 %|75 %|75 %|
-</table>
 
 
 
@@ -12024,12 +11944,9 @@ respect of those exposures.
 2. Single name exposure _i_ for which a credit assessment by a nominated ECAI is available shall be assigned a
 probability of default _PD_ _i_ in accordance with the following table.
 
-
-<table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |Probability of default_PDi _|0,002 %|0,01 %|0,05 %|0,24 %|1,20 %|4,2 %|4,2 %|
-</table>
 
 
 
@@ -12037,12 +11954,9 @@ probability of default _PD_ _i_ in accordance with the following table.
 ECAI is not available and where this undertaking meets its Minimum Capital Requirement, shall be assigned a
 probability of default _PD_ _i_ depending on the undertaking's solvency ratio, in accordance with the following table:
 
-
-<table>
 |Solvency ratio|196 %|175 %|150 %|125 %|122 %|100 %|95 %|75 %|
 |---|---|---|---|---|---|---|---|---|
 |Probability of default|0,01 %|0,05 %|0,1 %|0,2 %|0,24 %|0,5 %|1,2 %|4,2 %|
-</table>
 
 
 
@@ -20424,8 +20338,6 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 
 
 
-
-<table>
 |Col1|Segment|Lines of business, as<br>set out in Annex I,<br>that the segment<br>consists of|Standard deviation for<br>gross premium risk of<br>the segment|Standard deviation for<br>reserve risk of the<br>segment|
 |---|---|---|---|---|
 |1|Motor vehicle liability insurance and pro­<br>portional reinsurance|4 and 16|10 %|9 %|
@@ -20440,8 +20352,6 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 |10|Non-proportional casualty reinsurance|26|17 %|20 %|
 |11|Non-proportional<br>marine,<br>aviation<br>and<br>transport reinsurance|27|17 %|20 %|
 |12|Non-proportional property reinsurance|28|17 %|20 %|
-</table>
-
 --- Page 231 ---
 # _ANNEX III_
 
@@ -20526,13 +20436,14 @@ reserve risk sub-module.
 8. Regions for the calculation of the factor for geographical diversification
 
 
-
-<table>
 |Col1|Region|Territories that the region consists of|
 |---|---|---|
 |1|Northern Europe|Denmark (except Greenland), Estonia, Finland, Guernsey, Iceland, Ireland, Isle<br>of Man, Jersey, Latvia, Lithuania, Norway, Sweden, United Kingdom (except<br>Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands,<br>Gibraltar, Montserrat, Pitcairn Islands, Saint Helena, Turks and Caicos Islands)|
 |2|Western Europe|Austria, Belgium, France (except French Guiana, French Polynesia, Guadeloupe,<br>Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin,<br>Saint Pierre and Miquelon, Wallis and Futuna), Germany, Liechtenstein, Luxem­<br>bourg, Monaco, Netherlands (except Aruba, Bonaire, Curaçao, Saba, Sint Eusta­<br>tius, Sint Maarten), Switzerland|
 |3|Eastern Europe|Belarus, Bulgaria, Czech Republic, Hungary, Moldova, Poland, Romania, Russia,<br>Slovakia, Ukraine|
+--- Page 232 ---
+|Col1|Region|Territories that the region consists of|
+|---|---|---|
 |4|Southern Europe|Albania, Andorra, Bosnia and Herzegovina, Croatia, Cyprus, the former Yugo­<br>slav Republic of Macedonia, Gibraltar, Greece, Italy, Malta, Montenegro, Portu­<br>gal, San Marino, Serbia, Slovenia, Spain, Vatican City State|
 |5|Central and Western Asia|Armenia, Azerbaijan, Bahrain, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait,<br>Kyrgyzstan, Lebanon, Oman, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey,<br>Turkmenistan, United Arab Emirates, Uzbekistan, Yemen|
 |6|Eastern Asia|China, Japan, Mongolia, North Korea, South Korea, Taiwan|
@@ -20548,13 +20459,6 @@ reserve risk sub-module.
 |16|South-east United States of<br>America|Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North<br>Carolina, Puerto Rico, South Carolina, Tennessee, Virginia, West Virginia|
 |17|Mid-west United States of<br>America|Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North<br>Dakota, Ohio, Oklahoma, South Dakota, Wisconsin|
 |18|Western United States of<br>America|Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New<br>Mexico, Oregon, Texas, Utah, Washington, Wyoming|
-</table>
-
-
---- Page 232 ---
-
-
-
 --- Page 233 ---
 # _ANNEX IV_
 
@@ -20567,8 +20471,6 @@ column t of the following correlation matrix. The headings of the rows and colum
 segments set out Annex II:
 
 
-
-<table>
 |t<br>s|1|2|3|4|5|6|7|8|9|10|11|12|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|1|0,5|0,5|0,25|0,5|0,25|0,5|0,25|0,5|0,25|0,25|0,25|
@@ -20583,8 +20485,6 @@ segments set out Annex II:
 |10|0,25|0,25|0,25|0,25|0,5|0,5|0,5|0,25|0,25|1|0,25|0,25|
 |11|0,25|0,25|0,5|0,5|0,25|0,25|0,25|0,25|0,5|0,25|1|0,25|
 |12|0,25|0,25|0,25|0,5|0,25|0,25|0,25|0,5|0,25|0,25|0,25|1|
-</table>
-
 --- Page 234 ---
 # _ANNEX V_
 
@@ -20594,8 +20494,6 @@ segments set out Annex II:
 
 **Regions and windstorm risk factors**
 
-
-<table>
 |Abbreviation of region r|Region r|Windstorm risk factor Q<br>(windstorm,r)|
 |---|---|---|
 |AT|Republic of Austria|0,08 %|
@@ -20618,7 +20516,6 @@ segments set out Annex II:
 |MA|Martinique|3,19 %|
 |SM|Collectivity of Saint Martin|5,16 %|
 |RE|Réunion|2,50 %|
-</table>
 
 
 
@@ -20628,13 +20525,14 @@ segments set out Annex II:
 **WINDSTORM RISK CORRELATION COEFFICIENTS FOR REGIONS**
 
 
-
-<table>
 |Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**AT**|1,00|0,25|0,50|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**BE**|0,25|1,00|0,25|0,25|0,50|0,25|0,00|0,50|0,50|0,25|0,00|0,75|0,75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |**CH**|0,50|0,25|1,00|0,25|0,25|0,00|0,25|0,50|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
+--- Page 235 ---
+|Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**CZ**|0,25|0,25|0,25|1,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |**DE**|0,25|0,50|0,25|0,25|1,00|0,50|0,00|0,50|0,25|0,25|0,00|0,50|0,50|0,25|0,50|0,00|0,00|0,00|0,00|0,00|
 |**DK**|0,00|0,25|0,00|0,00|0,50|1,00|0,00|0,25|0,25|0,00|0,00|0,25|0,50|0,50|0,25|0,50|0,00|0,00|0,00|0,00|
@@ -20652,13 +20550,6 @@ segments set out Annex II:
 |**MA**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |**SM**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |**RE**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-</table>
-
-
---- Page 235 ---
-
-
-
 --- Page 236 ---
 # _ANNEX VI_
 
@@ -20668,8 +20559,6 @@ segments set out Annex II:
 
 **Regions and earthquake risk factors**
 
-
-<table>
 |Abbreviation of region r|Region r|Earthquake risk factor Q<br>(earthquake,r)|
 |---|---|---|
 |AT|Republic of Austria|0,10 %|
@@ -20692,7 +20581,6 @@ segments set out Annex II:
 |GU|Guadeloupe|4,09 %|
 |MA|Martinique|4,71 %|
 |SM|Collectivity of Saint Martin|5,00 %|
-</table>
 
 
 
@@ -20702,13 +20590,14 @@ segments set out Annex II:
 **EARTHQUAKE RISK CORRELATION COEFFICIENTS FOR REGIONS**
 
 
-
-<table>
 |Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**AT**|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |**BE**|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**BG**|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
+--- Page 237 ---
+|Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**CR**|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |**CY**|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**FR**|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
@@ -20726,13 +20615,6 @@ segments set out Annex II:
 |**GU**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,75|0,75|
 |**MA**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|1,00|0,75|
 |**ST**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,75|1,00|
-</table>
-
-
---- Page 237 ---
-
-
-
 --- Page 238 ---
 # _ANNEX VII_
 
@@ -20742,8 +20624,6 @@ segments set out Annex II:
 
 **Regions and flood risk factors**
 
-
-<table>
 |Abbreviation of region r|Region r|Flood risk factor Q<br>(flood,r)|
 |---|---|---|
 |AT|Republic of Austria|0,13 %|
@@ -20760,7 +20640,6 @@ segments set out Annex II:
 |SK|Slovak Republic|0,45 %|
 |SI|Republic of Slovenia|0,30 %|
 |UK|United Kingdom of Great Britain and Northern<br>Ireland|0,10 %|
-</table>
 
 
 
@@ -20770,8 +20649,6 @@ segments set out Annex II:
 **FLOOD RISK CORRELATION COEFFICIENTS FOR REGIONS**
 
 
-
-<table>
 |Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**AT**|1,00|0,00|0,25|0,50|0,00|0,75|0,50|0,00|0,25|0,25|0,25|0,00|0,50|0,00|
@@ -20782,19 +20659,15 @@ segments set out Annex II:
 |**DE**|0,75|0,25|0,25|0,50|0,25|1,00|0,25|0,00|0,00|0,75|0,25|0,00|0,25|0,00|
 |**HU**|0,50|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,25|0,25|0,50|0,00|0,25|0,00|
 |**IT**|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|
+--- Page 239 ---
+|Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**BG**|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|1,00|0,00|0,50|0,00|0,00|0,00|
 |**PL**|0,25|0,00|0,00|0,75|0,00|0,75|0,25|0,00|0,00|1,00|0,25|0,00|0,25|0,00|
 |**RO**|0,25|0,00|0,00|0,25|0,00|0,25|0,50|0,00|0,50|0,25|1,00|0,00|0,25|0,00|
 |**SI**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|1,00|0,25|0,00|
 |**SK**|0,50|0,00|0,00|0,75|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,25|1,00|0,00|
 |**UK**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-</table>
-
-
---- Page 239 ---
-
-
-
 --- Page 240 ---
 # _ANNEX VIII_
 
@@ -20804,8 +20677,6 @@ segments set out Annex II:
 
 **Regions and hail risk factors**
 
-
-<table>
 |Abbreviation of region r|Region r|Hail risk factor Q<br>(hail,r)|
 |---|---|---|
 |AT|Republic of Austria|0,08 %|
@@ -20817,7 +20688,6 @@ segments set out Annex II:
 |LU|Grand Duchy of Luxemburg|0,03 %|
 |NL|Kingdom of the Netherlands|0,02 %|
 |ES|Kingdom of Spain|0,01 %|
-</table>
 
 
 
@@ -20827,8 +20697,6 @@ segments set out Annex II:
 **HAIL RISK CORRELATION COEFFICIENTS FOR REGIONS**
 
 
-
-<table>
 |Col1|AT|BE|FR|DE|IT|LU|NL|CH|ES|
 |---|---|---|---|---|---|---|---|---|---|
 |**AT**|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
@@ -20840,8 +20708,6 @@ segments set out Annex II:
 |**NL**|0,00|0,25|0,00|0,00|0,00|0,25|1,00|0,00|0,00|
 |**CH**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|0,00|
 |**ES**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
-</table>
-
 --- Page 241 ---
 # _ANNEX IX_
 
@@ -20865,15 +20731,12 @@ Mappings of risk zones for the regions with only one risk zone which are part of
 The regions Principality of Andorra, Principality of Lichtenstein, Principality of Monaco, Republic of San Marino and
 Vatican City State shall consist of only one zone each. The zones shall be mapped to the following regions:
 
-
-<table>
 |Principality of Andorra|zone 9 of the region FR|
 |---|---|
 |Principality of Lichtenstein|zone 19 of the region CH|
 |Principality of Monaco|zone 06 of the region FR|
 |Republic of San Marino|zone 47 of the region IT|
 |Vatican City State|zone 00 of the region IT|
-</table>
 
 
 
@@ -20898,8 +20761,6 @@ with the exception of postal codes which have a digit in the second position. Th
 codes which have a digit in the second position shall be mapped to zones identified by a 1-letter code.
 
 
-
-<table>
 |Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|10|1|10|01|10|00|10|00|01|01|AB|
@@ -20910,6 +20771,9 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**6 **|21|6|15|07|15|05|15|05|06|06|BD|
 |**7 **|22|7|16|08|16|06|16|06|07|07|BH|
 |**8 **|23|8|17|09|17|07|17|07|08|08|BL|
+--- Page 242 ---
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**9 **|24|9|18|10|18|08|18|08|09|09|BN|
 |**10**|25||19|12|19|09|19|09|81|10|BR|
 |**11**|26||25|13|20|10|20|10|82|11|BS|
@@ -20942,6 +20806,9 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**38**|54||57|40|48|37|47|37||38|FY|
 |**39**|55||58|41|49|38|48|38||39|G|
 |**40**|56||59|42|50|39|49|39||40|GL|
+--- Page 243 ---
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**41**|57||60|44|51|40|50|40||41|GU|
 |**42**|60||61|45|52|41|51|41||42|GY|
 |**43**|61||62|46|53|42|52|42||43|HA|
@@ -20974,6 +20841,9 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**70**|92|||74|85|72|79|69|||MK|
 |**71**|93|||75||73|80|70|||ML|
 |**72**|94|||76||74|81|71|||N|
+--- Page 244 ---
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**73**|95|||77||75|82|72|||NE|
 |**74**|96|||78||80|83|73|||NG|
 |**75**|97|||79||81|84|74|||NN|
@@ -21006,6 +20876,9 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**102**|||||||||||ST|
 |**103**|||||||||||SW|
 |**104**|||||||||||SY|
+--- Page 245 ---
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**105**|||||||||||TA|
 |**106**|||||||||||TD|
 |**107**|||||||||||TF|
@@ -21026,18 +20899,12 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**122**|||||||||||WV|
 |**123**|||||||||||YO|
 |**124**|||||||||||ZE|
-</table>
---- Page 245 ---
-
-
 
 
 
 **Mapping of risk zones for regions where the zonation is based on administrative units — part 1**
 
 
-
-<table>
 |Region/<br>Risk Zone|BG|CR|HU|RO|
 |---|---|---|---|---|
 |**1 **|Sofiya-Grad (incl. City of<br>Sofiya)|Zagrebacka|City of Budapest|Alba|
@@ -21046,6 +20913,9 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**4 **|Kyustendil|Karlovacka|Vas|Bacau|
 |**5 **|Blagoevgrad|Varazdinska|Zala|Bihor|
 |**6 **|Pazardzhik|Koprivnicko-krizevac|Veszprem|Bistrita-Nasaud|
+--- Page 246 ---
+|Region/<br>Risk Zone|BG|CR|HU|RO|
+|---|---|---|---|---|
 |**7 **|Smolyan|Bjelovarsko-bilogors|Somogy|Botosani|
 |**8 **|Plovdiv|Primorsko-goranska|Komarom|Braila|
 |**9 **|Kurdzahli|Licko-senjska|Fejer|Brasov|
@@ -21077,22 +20947,19 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**35**||||Teleorman|
 |**36**||||Timisoara|
 |**37**||||Tulcea|
+--- Page 247 ---
+|Region/<br>Risk Zone|BG|CR|HU|RO|
+|---|---|---|---|---|
 |**38**||||Vaslui|
 |**39**||||Vilcea|
 |**40**||||Vrancea|
 |**41**||||Bucuresti|
-</table>
---- Page 247 ---
-
-
 
 
 
 **Mappings of risk zones for regions where the zonation is based on administrative units — part 2**
 
 
-
-<table>
 |Region/<br>Risk Zone|CH|CY|IE|NO|SE|
 |---|---|---|---|---|---|
 |**1 **|1|1|CE|01|01|
@@ -21118,15 +20985,12 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**21**|21||SO||22|
 |**22**|22||TY||23|
 |**23**|23||WD||24|
+--- Page 248 ---
+|Region/<br>Risk Zone|CH|CY|IE|NO|SE|
+|---|---|---|---|---|---|
 |**24**|24||WH||25|
 |**25**|25||WW|||
 |**26**|26||WX|||
-</table>
-
-
---- Page 248 ---
-
-
 
 
 
@@ -21136,8 +21000,6 @@ codes which have a digit in the second position shall be mapped to zones identif
 The mapping of risk zones for the region FR shall be based on the first 2 digits of the postal code.
 
 
-
-<table>
 |Risk Zone|FR|Risk<br>Zone|FR|Risk<br>Zone|FR|Risk<br>Zone|FR|
 |---|---|---|---|---|---|---|---|
 |**1 **|01|**25**|25|**49**|49|**73**|73|
@@ -21164,8 +21026,6 @@ The mapping of risk zones for the region FR shall be based on the first 2 digits
 |**22**|22|**46**|46|**70**|70|**94**|94|
 |**23**|23|**47**|47|**71**|71|**95**|95|
 |**24**|24|**48**|48|**72**|72|||
-</table>
-
 --- Page 249 ---
 **Mapping of risk zones for the Republic of Slovenia**
 
@@ -21173,8 +21033,6 @@ The mapping of risk zones for the region FR shall be based on the first 2 digits
 The mappings for the region SI shall be based on the 4 digits of the postal code.
 
 
-
-<table>
 |Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|5000<br>5224<br>5262<br>5283|5210<br>5230<br>5263<br>5290|5211<br>5231<br>5270<br>5291|5212<br>5232<br>5271<br>5292|5213<br>5242<br>5272<br>5293|5214<br>5243<br>5273<br>5294|5215<br>5250<br>5274<br>5295|5216<br>5251<br>5275<br>5296|5220<br>5252<br>5280<br>5297|5222<br>5253<br>5281|5223<br>5261<br>5282|
@@ -21185,15 +21043,12 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 |**6 **|2201<br>2222<br>2250<br>2273<br>2287<br>2318<br>2343<br>2366<br>2391|2204<br>2223<br>2252<br>2274<br>2288<br>2319<br>2344<br>2367<br>2392|2205<br>2230<br>2253<br>2275<br>2289<br>2321<br>2345<br>2370<br>2394|2206<br>2231<br>2254<br>2276<br>2310<br>2322<br>2352<br>2371<br>3206|2208<br>2232<br>2255<br>2277<br>2311<br>2323<br>2353<br>2372<br>3210|2211<br>2233<br>2256<br>2281<br>2312<br>2324<br>2360<br>2373<br>3214|2212<br>2234<br>2257<br>2282<br>2313<br>2325<br>2361<br>2380<br>3215|2213<br>2235<br>2258<br>2283<br>2314<br>2326<br>2362<br>2381<br>|2214<br>2236<br>2259<br>2284<br>2315<br>2327<br>2363<br>2382|2215<br>2241<br>2270<br>2285<br>2316<br>2331<br>2364<br>2383|2221<br>2242<br>2272<br>2286<br>2317<br>2342<br>2365<br>2390|
 |**7 **|2000|2229|2341|2351|2354|||||||
 |**8 **|9000<br>9222<br>9242<br>9264|9201<br>9223<br>9243<br>9265|9202<br>9224<br>9244<br>|9203<br>9225<br>9245|9204<br>9226<br>9250|9205<br>9227<br>9251|9206<br>9231<br>9252|9207<br>9232<br>9253|9208<br>9233<br>9261|9220<br>9240<br>9262|9221<br>9241<br>9263|
+--- Page 250 ---
+|Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**9 **|6000<br>6280|6216<br>6281|6240<br>6310|6242<br>6311|6243<br>6320|6271<br>6323|6272<br>6330|6273<br>6333|6274|6275|6276|
 |**10**|5271<br>6230|5272<br>6232|6210<br>6244|6215<br>6250|6217<br>6253|6219<br>6254|6221<br>6255|6222<br>6256|6223<br>6257|6224<br>6258|6225|
 |**11**|1434<br>8232<br>8261<br>8282<br>8312<br>8344|8000<br>8233<br>8262<br>8283<br>8321<br>8350|8210<br>8250<br>8263<br>8290<br>8322<br>8351|8211<br>8251<br>8270<br>8292<br>8323<br>8360|8212<br>8253<br>8272<br>8293<br>8330<br>8361|8213<br>8254<br>8273<br>8294<br>8331<br>8362|8216<br>8255<br>8274<br>8295<br>8332<br>|8220<br>8256<br>8275<br>8296<br>8333|8222<br>8257<br>8276<br>8297<br>8340|8230<br>8258<br>8280<br>8310<br>8341|8231<br>8259<br>8281<br>8311<br>8343|
-</table>
-
-
---- Page 250 ---
-
-
 
 
 
@@ -21203,8 +21058,6 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 The mapping of risk zones for the region DK shall be based on the first 2 digits of the postal code.
 
 
-
-<table>
 |Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|
 |---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|90|92|93|94|95|96|97|98|99||
@@ -21219,8 +21072,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**10**|10|11|12|13|14|15|16|17|18|19|
 |**10**|20|21|22|23|24|25|26|27|28|29|
 |**11**|37||||||||||
-</table>
-
 --- Page 251 ---
 # _ANNEX X_
 
@@ -21231,8 +21082,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 **Risk weights for windstorm risk**
 
 
-
-<table>
 |Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|0,6|0,9|1,4|1,2|0,9|1,1|2,3|1,0|1,4|0,9|1,4|0,6|0,6|0,9|
@@ -21261,6 +21110,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**24**|1,3||1,2|1,4|2,7||2,3|1,3|1,2|1,2||0,4||1,2|
 |**25**|2,1||0,9|1,3|2,2||1,9|0,8|0,9|1,1||0,5||1,3|
 |**26**|1,8||1,3|1,6|1,5||1,5|0,8|1,3|0,9||0,6||1,6|
+--- Page 252 ---
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**27**|1,8|||1,6|1,6||2,5|2,2||1,3||0,6||0,9|
 |**28**|1,5|||1,7|1,6||1,1|2,3||0,9||0,5||1,1|
 |**29**|1,5|||1,7|1,8||1,3|3,4||0,9||0,5||3,8|
@@ -21293,6 +21145,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**56**|1,3|||0,6|1,7|||3,3||0,8||1,2||1,6|
 |**57**|1,6|||0,7|0,8|||1,1||1,1||1,3||0,7|
 |**58**|1,1|||0,8|1,3|||1,7||0,8||1,1||1,4|
+--- Page 253 ---
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**59**|1,4|||0,8|0,9|||1,6||0,8||1,3||1,2|
 |**60**|1,5||||1,1|||1,9||0,9||1,7||1,1|
 |**61**|1,6||||1,1|||3,2||0,8||1,7||1,7|
@@ -21324,6 +21179,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**87**|||||0,9|||1,5||1,0||1,2||1,2|
 |**88**|||||0,7|||1,0||1,0||1,4||1,0|
 |**89**|||||0,8|||1,7||1,4||1,9||1,1|
+--- Page 254 ---
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**90**|||||0,8|||0,6||1,4||0,8||0,9|
 |**91**|||||0,9|||1,1||||0,8||2,1|
 |**92**|||||0,9|||0,6||||0,8||0,6|
@@ -21355,22 +21213,19 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**118**||||||||||||||1,0|
 |**119**||||||||||||||1,1|
 |**120**||||||||||||||1,4|
+--- Page 255 ---
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**121**||||||||||||||0,8|
 |**122**||||||||||||||0,8|
 |**123**||||||||||||||2,0|
 |**124**||||||||||||||1,5|
-</table>
---- Page 255 ---
-
-
 
 
 
 **Risk weights for earthquake risk**
 
 
-
-<table>
 |Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|3,5|0,8|1,5|0,1|1,1|0,8|0,6|0,1|1,4|1,5|2,6|4,3|1,7|0,0|1,4|4,3|
@@ -21396,6 +21251,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**21**|0,4||0,4|2,5|0,9|1,3||0,1|0,3|3,3|0,2|1,5|0,4|0,0||1,6|
 |**22**|0,0||0,2|1,5|2,1|||0,1|0,2|7,2|0,0|0,8|0,6|0,0||5,4|
 |**23**|0,0||0,1|0,1|1,4|||0,1|0,2|3,3|0,0|1,4|0,3|2,0||0,4|
+--- Page 256 ---
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**24**|0,0||0,1|0,1|2,6|||0,1|0,1|7,6|0,1|1,8|0,2|0,3||4,0|
 |**25**|0,0||0,1|0,1|0,8|||0,1|2,0|2,9||4,3|0,1|0,1|||
 |**26**|0,0||0,2|0,1|1,3|||0,2|2,5|3,8||4,5|0,1|0,3|||
@@ -21427,6 +21285,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**52**|3,1|||10,5||||1,9|0,1|3,7||4,2|0,5||||
 |**53**|1,7|||11,3||||2,0|0,2|1,4||3,2|0,1||||
 |**54**|3,4|||9,5||||0,2|0,1|0,8||5,9|0,5||||
+--- Page 257 ---
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**55**|1,4|||0,1||||0,1|0,1|0,1||5,1|1,3||||
 |**56**|0,9|||0,1||||0,1|0,3|0,8||4,2|0,9||||
 |**57**|0,4|||0,1||||2,2|0,1|0,5||3,0|0,6||||
@@ -21458,6 +21319,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**83**||||||||4,0|0,5|||10,5|||||
 |**84**||||||||3,6|3,5|||6,3|||||
 |**85**||||||||2,2|0,6|||2,5|||||
+--- Page 258 ---
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**86**||||||||0,1|0,7|||2,1|||||
 |**87**||||||||0,1|0,2|||3,6|||||
 |**88**||||||||0,2|0,5|||5,3|||||
@@ -21468,23 +21332,12 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**93**||||||||0,1|0,1||||||||
 |**94**||||||||0,3|0,2||||||||
 |**95**||||||||0,3|0,1||||||||
-</table>
---- Page 257 ---
-
-
-
-
---- Page 258 ---
-
-
 
 
 
 **Risk weights for flood risk**
 
 
-
-<table>
 |Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**1 **|0,1|0,3|1,3|2,0|0,6|1,5|1,9|8,0|0,6|0,4|1,3|1,3|1,5|1,3|
@@ -21503,6 +21356,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**14**|0,5||0,2|3,8|1,5|0,8|1,1|0,4|0,2|2,2|2,0||0,0|2,8|
 |**15**|0,9||0,2|4,5|2,7|0,3|0,3|2,0|0,3|1,2|1,3||0,2|7,0|
 |**16**|0,4||0,0|1,3|2,5|0,3|1,1|2,4|0,7|0,0|2,0||2,1|2,0|
+--- Page 259 ---
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**17**|1,4||0,1|2,8|4,5|1,3|2,2|0,0|0,0|1,8|3,3||1,1|1,5|
 |**18**|2,6||2,5|1,8|1,1|2,3|1,3|0,8|0,1|1,3|4,0||1,3|1,5|
 |**19**|3,6||0,8|2,5|1,8|4,5|0,4|0,8|2,4|1,4|3,3||0,9|2,0|
@@ -21534,6 +21390,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**45**|0,6||||0,8|3,5|1,7|1,6||0,3||||2,8|
 |**46**|0,1||||1,1|2,0|0,8|4,8||2,8||||1,0|
 |**47**|0,1||||0,7|4,5|2,3|3,2||1,1||||19,5|
+--- Page 260 ---
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**48**|1,5||||3,6|2,5|0,2|0,4||5,6||||0,5|
 |**49**|0,1||||2,1|0,3|2,5|1,6||2,2||||3,0|
 |**50**|2,4||||1,9|3,3|0,9|3,6||3,0||||5,8|
@@ -21565,6 +21424,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**76**|0,0|||||0,8|1,1|1,2||0,1||||4,5|
 |**77**|0,1|||||0,5|1,3|2,4||0,3||||1,3|
 |**78**||||||1,0|1,2|1,6||0,6||||2,0|
+--- Page 261 ---
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**79**||||||3,0|0,7|1,6||1,6||||3,8|
 |**80**||||||2,3|0,8|0,8||1,5||||2,5|
 |**81**||||||2,3|0,5|1,2||0,1||||2,8|
@@ -21596,6 +21458,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**107**||||||||||||||1,0|
 |**108**||||||||||||||3,0|
 |**109**||||||||||||||3,8|
+--- Page 262 ---
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**110**||||||||||||||0,8|
 |**111**||||||||||||||3,8|
 |**112**||||||||||||||2,8|
@@ -21611,18 +21476,12 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**122**||||||||||||||2,3|
 |**123**||||||||||||||2,3|
 |**124**||||||||||||||0,5|
-</table>
---- Page 262 ---
-
-
 
 
 
 **Risk weights for hail risk**
 
 
-
-<table>
 |Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
 |---|---|---|---|---|---|---|---|---|
 |**1 **|3,1|2,8|2,8|7,5|0,5|12,6|3,7|4,0|
@@ -21635,6 +21494,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**8 **|0,3|2,8|0,2|2,5|0,8|2,7|0,0|2,9|
 |**9 **|1,4|2,4|1,5|1,7|0,2|27,6|0,0|9,6|
 |**10**|0,8||0,3|0,0|0,1|1,7|0,0|0,1|
+--- Page 263 ---
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**11**|3,1||6,1|7,5|0,9|6,8|10,8|6,1|
 |**12**|2,8||3,0|0,0|0,1|8,7|10,8|2,8|
 |**13**|1,0||0,1|0,0|0,0|2,8|10,8|2,0|
@@ -21666,6 +21528,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**39**|6,1|||2,5|5,4|11,6|3,3|3,1|
 |**40**|3,1|||7,5|7,9|2,8|3,3|0,2|
 |**41**|10,4|||2,5|3,7|2,3|7,5|5,9|
+--- Page 264 ---
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**42**|5,4|||3,3|3,5|10,4|7,5|7,2|
 |**43**|1,1|||6,7|3,0|4,8|7,5|3,8|
 |**44**|5,9|||3,3|9,8|0,1|7,5|3,5|
@@ -21697,6 +21562,9 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**70**|1,3||||1,7|13,6|0,0|1,6|
 |**71**|4,5||||6,4|12,1|0,0|2,9|
 |**72**|15,0||||5,6|0,7|0,0|7,1|
+--- Page 265 ---
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**73**|0,3||||5,0|15,3|0,0|4,1|
 |**74**|1,2||||7,8|9,5|0,0|1,6|
 |**75**|1,3||||8,0|6,2|0,0|1,4|
@@ -21720,29 +21588,21 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**93**|||||2,5|4,0|||
 |**94**|||||2,5|0,7|||
 |**95**|||||1,4|2,3|||
-</table>
---- Page 264 ---
-
-
-
-
---- Page 265 ---
-
-
 
 
 
 **Risk weights for subsidence risk**
 
 
-
-<table>
 |Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
 |---|---|---|---|---|---|---|---|---|---|
 |**1 **|0,5|**20**|0,3|**39**|0,5|**58**|0,3|**77**|2,5|
 |**2 **|0,3|**21**|0,5|**40**|0,3|**59**|6,0|**78**|2,0|
 |**3 **|0,5|**22**|0,3|**41**|0,5|**60**|0,3|**79**|0,8|
 |**4 **|0,3|**23**|0,3|**42**|0,3|**61**|0,3|**80**|0,3|
+--- Page 266 ---
+|Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
+|---|---|---|---|---|---|---|---|---|---|
 |**5 **|0,3|**24**|1,8|**43**|0,3|**62**|1,0|**81**|0,8|
 |**6 **|0,5|**25**|0,3|**44**|0,5|**63**|0,8|**82**|0,8|
 |**7 **|0,3|**26**|0,3|**45**|1,5|**64**|0,5|**83**|0,5|
@@ -21758,13 +21618,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**17**|2,3|**36**|0,5|**55**|0,3|**74**|0,3|**93**|0,8|
 |**18**|0,5|**37**|1,5|**56**|0,3|**75**|0,3|**94**|1,0|
 |**19**|0,3|**38**|0,3|**57**|1,0|**76**|0,3|**95**|0,8|
-</table>
-
-
---- Page 266 ---
-
-
-
 --- Page 267 ---
 # _ANNEX XI_
 
@@ -21784,8 +21637,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 
 
 
-
-<table>
 |i|Liability risk group i|Risk factor f<br>(liability,i)|
 |---|---|---|
 |1|Professional malpractice liability insurance and proportional reinsurance obligations<br>other than professional malpractice liability insurance and reinsurance for self-em­<br>ployed craftspersons or artisans|100 %|
@@ -21793,7 +21644,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |3|Directors and officers liability insurance and proportional reinsurance obligations|160 %|
 |4|Liability insurance and reinsurance obligations included in lines of business 8 and 20<br>as set out in Annex I, other than obligations included in liability risk groups 1 to 3 and<br>other than personal liability insurance and proportional reinsurance and other than<br>professional malpractice liability insurance and reinsurance for self-employed craftsper­<br>sons or artisans|100 %|
 |5|Non-proportional reinsurance of obligations relating to insurance obligations included<br>in line of business 8 as set out in Annex I|210 %|
-</table>
 
 
 For the purpose of the above table, the following definitions shall apply:
@@ -21822,8 +21672,6 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 **LIABILITY RISK CORRELATION COEFFICIENTS**
 
 
-
-<table>
 |j<br>i|1|2|3|4|5|
 |---|---|---|---|---|---|
 |1|1|0|0,5|0,25|0,5|
@@ -21831,8 +21679,6 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 |3|0,5|0|1|0,25|0,5|
 |4|0,25|0,25|0,25|1|0,5|
 |5|0,5|0,5|0,5|0,5|1|
-</table>
-
 --- Page 268 ---
 # _ANNEX XII_
 
@@ -21852,8 +21698,6 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 
 
 
-
-<table>
 |i|Group of insurance and reinsurance obligations i|Risk factor c<br>i|
 |---|---|---|
 |1|Insurance and reinsurance obligations included in lines of business 6 and 18 as set out<br>in Annex I other than marine insurance and reinsurance and aviation insurance and<br>reinsurance|100 %|
@@ -21861,7 +21705,6 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 |3|Insurance and reinsurance obligations included in lines of business 12 and 24 as set<br>out in Annex I, other than extended warranty insurance and reinsurance obligations<br>provided that the portfolio of these obligations is highly diversified and these obligation<br>do not cover the costs of product recalls|40 %|
 |4|Reinsurance obligations included in line of business 26 as set out in Annex I other<br>than general liability reinsurance|250 %|
 |5|Non-proportional reinsurance obligations relating to insurance obligations included in<br>lines of business 9 and 21 as set out in Annex I|250 %|
-</table>
 
 
 For the purpose of group 3, ‘extended warranty insurance obligation’ means insurance obligations which cover the cost
@@ -21918,15 +21761,12 @@ in setting up, maintaining and operating the good.
 
 
 
-
-<table>
 |Col1|Segment|Lines of business, as set<br>out in Annex I that the<br>segment consists of|Standard deviation for<br>gross premium risk of<br>the segment|Standard deviation for<br>reserve risk of the<br>segment|
 |---|---|---|---|---|
 |1|Medical expense insurance and pro­<br>portional reinsurance|1 and 13|5 %|5 %|
 |2|Income protection insurance and pro­<br>portional reinsurance|2 and 14|8.5 %|14 %|
 |3|Workers' compensation insurance<br>and proportional reinsurance|3 and 15|8 %|11 %|
 |4|Non-proportional health reinsurance|25|17 %|20 %|
-</table>
 
 
 # _ANNEX XV_
@@ -21940,16 +21780,12 @@ column t of the following correlation matrix. The headings of the rows and colum
 segments set out Annex XIV:
 
 
-
-<table>
 |t<br>s|1|2|3|4|
 |---|---|---|---|---|
 |1|1|0,5|0,5|0,5|
 |2|0,5|1|0,5|0,5|
 |3|0,5|0,5|1|0,5|
 |4|0,5|0,5|0,5|1|
-</table>
-
 --- Page 270 ---
 # _ANNEX XVI_
 
@@ -21961,8 +21797,6 @@ segments set out Annex XIV:
 **GEOGRAPHICAL SEGMENTATION AND RISK FACTORS FOR THE MASS ACCIDENT RISK SUB-MODULE**
 
 
-
-<table>
 |Country s|rs — Ratio of persons affected by the mass acci­<br>dent in country s|
 |---|---|
 |Republic of Austria|0,30 %|
@@ -21991,25 +21825,20 @@ segments set out Annex XIV:
 |Portuguese Republic|0,30 %|
 |Romania|0,15 %|
 |Slovak Republic|0,30 %|
+--- Page 271 ---
+|Country s|rs — Ratio of persons affected by the mass acci­<br>dent in country s|
+|---|---|
 |Republic of Slovenia|0,40 %|
 |Kingdom of Spain|0,10 %|
 |Kingdom of Sweden|0,25 %|
 |Swiss Confederation|0,25 %|
 |United Kingdom of Great Britain and Northern Ireland|0,05 %|
-</table>
-
-
---- Page 271 ---
-
-
 
 
 
 **DEFINITION OF EVENTS AND RISK FACTORS FOR THE MASS ACCIDENT RISK SUB-MODULE AND ACCIDENT**
 **CONCENTRATION RISK SUB-MODULE**
 
-
-<table>
 |Event type e|x — Ratio of persons which will be affected by<br>e<br>event type e as the result of the accident|
 |---|---|
 |Death caused by an accident|10 %|
@@ -22017,22 +21846,17 @@ segments set out Annex XIV:
 |Disability that lasts 10 years caused by an accident|5 %|
 |Disability that lasts 12 months caused by an accident|13,5 %|
 |Medical treatment caused by an accident|30 %|
-</table>
 
 
 
 **DEFINITION OF HEALTHCARE UTILISATION AND RISK FACTORS FOR THE PANDEMIC RISK SUB-MODULE**
 
 
-
-<table>
 |Healthcare utilisation type h|H — Ratio of persons with clinical symptoms<br>h<br>which will utilise healthcare of type h|
 |---|---|
 |Hospitalisation|1 %|
 |Consultation with a medical practitioner|20 %|
 |No formal medical care sought|79 %|
-</table>
-
 --- Page 272 ---
 # _ANNEX XVII_
 
@@ -23225,8 +23049,6 @@ G. **Credibility factor**
 
 (1) The credibility factor for segments 1, 5 and 6 set out in Annex II shall be equal to the following:
 
-
-<table>
 |Time lengths in years|Credibility factor c|
 |---|---|
 |5|34 %|
@@ -23240,15 +23062,12 @@ G. **Credibility factor**
 |13|92 %|
 |14|96 %|
 |15 and larger|100 %|
-</table>
 
 
 
 (2) The credibility factor for segments 2 to 4 and 7 to 12 set out in Annex II, for the segments set out Annex XIV
 and for the revision risk method shall be equal to the following:
 
-
-<table>
 |Time lengths in years|Credibility factor c|
 |---|---|
 |5|34 %|
@@ -23257,7 +23076,6 @@ and for the revision risk method shall be equal to the following:
 |8|81 %|
 |9|92 %|
 |10 and larger|100 %|
-</table>
 
 
 
@@ -24008,8 +23826,6 @@ other sub-modules.
 
 
 
-
-<table>
 |Col1|Segment|Lines of business, as set<br>out in Annex I, that the<br>segment consists of|Factor for technical<br>provisions for segment<br>s (α)<br>s|Factor for premiums<br>written for segment<br>s (β)<br>s|
 |---|---|---|---|---|
 |1|Medical expense insurance|1 and 13|4,7 %|4,7 %|
@@ -24028,8 +23844,6 @@ other sub-modules.
 |14|Non-proportional marine, aviation and<br>transport reinsurance|27|18,6 %|15,9 %|
 |15|Non-proportional property reinsurance|28|18,6 %|15,9 %|
 |16|Non-proportional health reinsurance|25|18,6 %|15,9 %|
-</table>
-
 --- Page 290 ---
 # _ANNEX XX_
 

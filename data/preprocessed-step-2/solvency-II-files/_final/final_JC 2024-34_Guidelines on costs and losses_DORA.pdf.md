@@ -274,8 +274,6 @@ report in accordance with Article 19(4)(c) of Regulation (EU) 2022/2554.
 
 
 
-
-<table>
 |Name of the financial entity|Col2|Col3|Col4|Col5|
 |---|---|---|---|---|
 |Legal Entity Identifier|Legal Entity Identifier|Legal Entity Identifier|||
@@ -286,7 +284,6 @@ report in accordance with Article 19(4)(c) of Regulation (EU) 2022/2554.
 |2|||||
 |… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|
 |Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|
-</table>
 
 
 6

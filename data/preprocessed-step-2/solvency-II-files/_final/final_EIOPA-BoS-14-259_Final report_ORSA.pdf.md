@@ -1695,14 +1695,11 @@ group ORSA:
 
 
 
-
-<table>
 |Col1|Col2|Article 254(2), Article<br>35(2) (a)(i) of<br>Solvency II and Article<br>304 of the Commission<br>Delegated Regulation<br>2015/35|Article 254(2) and<br>Article 35(2) (a)(ii) of<br>Solvency II|
 |---|---|---|---|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Participating<br>undertaking|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor<br>whenever<br>an ORSA is performed|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Subsidiary|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report)|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report).|
 |Single<br>ORSA<br>document<br>covering all the<br>assessments<br>(Article<br>246(4)<br>3rd subparagraph<br>option)|Participating<br>undertaking|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>regular<br>ORSA<br>is<br>performed|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>non-regular<br>ORSA<br>is<br>performed|
-</table>
 
 
 

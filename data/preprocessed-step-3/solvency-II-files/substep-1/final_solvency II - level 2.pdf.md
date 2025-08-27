@@ -9035,17 +9035,19 @@ column _j_ of the following correlation matrix:
 |j<br>i|Health<br>mortality|Health<br>longevity|Health<br>disability-<br>morbidity|Health<br>expense|Health revi­<br>sion|SLT health lapse|
 |---|---|---|---|---|---|---|
 |Health mortality|1|– 0,25|0,25|0,25|0|0|
+</table>
+
+--- Page 98 ---
+
+<table>
+|j<br>i|Health<br>mortality|Health<br>longevity|Health<br>disability-<br>morbidity|Health<br>expense|Health revi­<br>sion|SLT health lapse|
+|---|---|---|---|---|---|---|
 |Health longevity|– 0,25|1|0|0,25|0,25|0,25|
 |Health disability-morbidity|0,25|0|1|0,5|0|0|
 |Health expense|0,25|0,25|0,5|1|0,5|0,5|
 |Health revision|0|0,25|0|0,5|1|0|
 |SLT health lapse|0|0,25|0|0,5|0|1|
 </table>
-
-
---- Page 98 ---
-
-
 
 
 ##### Article 152
@@ -10349,15 +10351,17 @@ table.
 |up to 5|_b_ _i_ _ dur_ _i _|—|0,9<br>%|—|1,1<br>%|—|1,4<br>%|—|2,5<br>%|—|4,5<br>%|—|7,5<br>%|
 |More than 5<br>and up to 10|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 5Þ|4,5<br>%|0,5<br>%|5,5<br>%|0,6<br>%|7,0<br>%|0,7<br>%|12,5<br>%|1,5<br>%|22,5<br>%|2,5<br>%|37,5<br>%|4,2<br>%|
 |More than 10<br>and up to 15|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 10Þ|7,0<br>%|0,5<br>%|8,4<br>%|0,5<br>%|10,5<br>%|0,5<br>%|20,0<br>%|1,0<br>%|35,0<br>%|1,8<br>%|58,5<br>%|0,5<br>%|
+</table>
+
+--- Page 112 ---
+
+<table>
+|Credit quality step|Col2|0|Col4|1|Col6|2|Col8|3|Col10|4|Col12|5 and 6|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Duration<br>(_duri_)|_stressi _|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|ai|bi|
 |More than 15<br>and up to 20|_a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 15Þ|9,5<br>%|0,5<br>%|10,9<br>%|0,5<br>%|13,0<br>%|0,5<br>%|25,0<br>%|1,0<br>%|44,0<br>%|0,5<br>%|61,0<br>%|0,5<br>%|
 |More than 20|min_ a_ _i_ þ_ b_ _i_  ð_dur_ _i_ − 20Þ;1<br><br>|12,0<br>%|0,5<br>%|13,4<br>%|0,5<br>%|15,5<br>%|0,5<br>%|30,0<br>%|0,5<br>%|46,5<br>%|0,5<br>%|63,5<br>%|0,5<br>%|
 </table>
-
-
---- Page 112 ---
-
-
 
 
 
@@ -20533,6 +20537,13 @@ reserve risk sub-module.
 |1|Northern Europe|Denmark (except Greenland), Estonia, Finland, Guernsey, Iceland, Ireland, Isle<br>of Man, Jersey, Latvia, Lithuania, Norway, Sweden, United Kingdom (except<br>Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands,<br>Gibraltar, Montserrat, Pitcairn Islands, Saint Helena, Turks and Caicos Islands)|
 |2|Western Europe|Austria, Belgium, France (except French Guiana, French Polynesia, Guadeloupe,<br>Martinique, Mayotte, New Caledonia, Réunion, Saint Barthélemy, Saint Martin,<br>Saint Pierre and Miquelon, Wallis and Futuna), Germany, Liechtenstein, Luxem­<br>bourg, Monaco, Netherlands (except Aruba, Bonaire, Curaçao, Saba, Sint Eusta­<br>tius, Sint Maarten), Switzerland|
 |3|Eastern Europe|Belarus, Bulgaria, Czech Republic, Hungary, Moldova, Poland, Romania, Russia,<br>Slovakia, Ukraine|
+</table>
+
+--- Page 232 ---
+
+<table>
+|Col1|Region|Territories that the region consists of|
+|---|---|---|
 |4|Southern Europe|Albania, Andorra, Bosnia and Herzegovina, Croatia, Cyprus, the former Yugo­<br>slav Republic of Macedonia, Gibraltar, Greece, Italy, Malta, Montenegro, Portu­<br>gal, San Marino, Serbia, Slovenia, Spain, Vatican City State|
 |5|Central and Western Asia|Armenia, Azerbaijan, Bahrain, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait,<br>Kyrgyzstan, Lebanon, Oman, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey,<br>Turkmenistan, United Arab Emirates, Uzbekistan, Yemen|
 |6|Eastern Asia|China, Japan, Mongolia, North Korea, South Korea, Taiwan|
@@ -20549,11 +20560,6 @@ reserve risk sub-module.
 |17|Mid-west United States of<br>America|Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North<br>Dakota, Ohio, Oklahoma, South Dakota, Wisconsin|
 |18|Western United States of<br>America|Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New<br>Mexico, Oregon, Texas, Utah, Washington, Wyoming|
 </table>
-
-
---- Page 232 ---
-
-
 
 --- Page 233 ---
 # _ANNEX IV_
@@ -20635,6 +20641,13 @@ segments set out Annex II:
 |**AT**|1,00|0,25|0,50|0,25|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**BE**|0,25|1,00|0,25|0,25|0,50|0,25|0,00|0,50|0,50|0,25|0,00|0,75|0,75|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |**CH**|0,50|0,25|1,00|0,25|0,25|0,00|0,25|0,50|0,00|0,00|0,00|0,25|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
+</table>
+
+--- Page 235 ---
+
+<table>
+|Col1|AT|BE|CH|CZ|DE|DK|ES|FR|UK|IE|IS|LU|NL|NO|PL|SE|GU|MA|SM|RE|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**CZ**|0,25|0,25|0,25|1,00|0,25|0,00|0,00|0,25|0,00|0,00|0,00|0,25|0,25|0,00|0,25|0,00|0,00|0,00|0,00|0,00|
 |**DE**|0,25|0,50|0,25|0,25|1,00|0,50|0,00|0,50|0,25|0,25|0,00|0,50|0,50|0,25|0,50|0,00|0,00|0,00|0,00|0,00|
 |**DK**|0,00|0,25|0,00|0,00|0,50|1,00|0,00|0,25|0,25|0,00|0,00|0,25|0,50|0,50|0,25|0,50|0,00|0,00|0,00|0,00|
@@ -20653,11 +20666,6 @@ segments set out Annex II:
 |**SM**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|1,00|1,00|0,00|
 |**RE**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
 </table>
-
-
---- Page 235 ---
-
-
 
 --- Page 236 ---
 # _ANNEX VI_
@@ -20709,6 +20717,13 @@ segments set out Annex II:
 |**AT**|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|
 |**BE**|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**BG**|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
+</table>
+
+--- Page 237 ---
+
+<table>
+|Col1|AT|BE|BG|CR|CY|FR|DE|HE|HU|IT|MT|PT|RO|SI|CZ|CH|SK|GU|MA|ST|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**CR**|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|0,00|0,00|
 |**CY**|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|
 |**FR**|0,00|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,25|0,00|0,00|0,00|0,00|
@@ -20727,11 +20742,6 @@ segments set out Annex II:
 |**MA**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|1,00|0,75|
 |**ST**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,75|0,75|1,00|
 </table>
-
-
---- Page 237 ---
-
-
 
 --- Page 238 ---
 # _ANNEX VII_
@@ -20782,6 +20792,13 @@ segments set out Annex II:
 |**DE**|0,75|0,25|0,25|0,50|0,25|1,00|0,25|0,00|0,00|0,75|0,25|0,00|0,25|0,00|
 |**HU**|0,50|0,00|0,00|0,25|0,00|0,25|1,00|0,00|0,25|0,25|0,50|0,00|0,25|0,00|
 |**IT**|0,00|0,00|0,25|0,00|0,00|0,00|0,00|1,00|0,00|0,00|0,00|0,25|0,00|0,00|
+</table>
+
+--- Page 239 ---
+
+<table>
+|Col1|AT|BE|CH|CZ|FR|DE|HU|IT|BG|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**BG**|0,25|0,00|0,00|0,00|0,00|0,00|0,25|0,00|1,00|0,00|0,50|0,00|0,00|0,00|
 |**PL**|0,25|0,00|0,00|0,75|0,00|0,75|0,25|0,00|0,00|1,00|0,25|0,00|0,25|0,00|
 |**RO**|0,25|0,00|0,00|0,25|0,00|0,25|0,50|0,00|0,50|0,25|1,00|0,00|0,25|0,00|
@@ -20789,11 +20806,6 @@ segments set out Annex II:
 |**SK**|0,50|0,00|0,00|0,75|0,00|0,25|0,25|0,00|0,00|0,25|0,25|0,25|1,00|0,00|
 |**UK**|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|0,00|1,00|
 </table>
-
-
---- Page 239 ---
-
-
 
 --- Page 240 ---
 # _ANNEX VIII_
@@ -20910,6 +20922,13 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**6 **|21|6|15|07|15|05|15|05|06|06|BD|
 |**7 **|22|7|16|08|16|06|16|06|07|07|BH|
 |**8 **|23|8|17|09|17|07|17|07|08|08|BL|
+</table>
+
+--- Page 242 ---
+
+<table>
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**9 **|24|9|18|10|18|08|18|08|09|09|BN|
 |**10**|25||19|12|19|09|19|09|81|10|BR|
 |**11**|26||25|13|20|10|20|10|82|11|BS|
@@ -20942,6 +20961,13 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**38**|54||57|40|48|37|47|37||38|FY|
 |**39**|55||58|41|49|38|48|38||39|G|
 |**40**|56||59|42|50|39|49|39||40|GL|
+</table>
+
+--- Page 243 ---
+
+<table>
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**41**|57||60|44|51|40|50|40||41|GU|
 |**42**|60||61|45|52|41|51|41||42|GY|
 |**43**|61||62|46|53|42|52|42||43|HA|
@@ -20974,6 +21000,13 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**70**|92|||74|85|72|79|69|||MK|
 |**71**|93|||75||73|80|70|||ML|
 |**72**|94|||76||74|81|71|||N|
+</table>
+
+--- Page 244 ---
+
+<table>
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**73**|95|||77||75|82|72|||NE|
 |**74**|96|||78||80|83|73|||NG|
 |**75**|97|||79||81|84|74|||NN|
@@ -21006,6 +21039,13 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**102**|||||||||||ST|
 |**103**|||||||||||SW|
 |**104**|||||||||||SY|
+</table>
+
+--- Page 245 ---
+
+<table>
+|Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**105**|||||||||||TA|
 |**106**|||||||||||TD|
 |**107**|||||||||||TF|
@@ -21027,9 +21067,6 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**123**|||||||||||YO|
 |**124**|||||||||||ZE|
 </table>
---- Page 245 ---
-
-
 
 
 
@@ -21046,6 +21083,13 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**4 **|Kyustendil|Karlovacka|Vas|Bacau|
 |**5 **|Blagoevgrad|Varazdinska|Zala|Bihor|
 |**6 **|Pazardzhik|Koprivnicko-krizevac|Veszprem|Bistrita-Nasaud|
+</table>
+
+--- Page 246 ---
+
+<table>
+|Region/<br>Risk Zone|BG|CR|HU|RO|
+|---|---|---|---|---|
 |**7 **|Smolyan|Bjelovarsko-bilogors|Somogy|Botosani|
 |**8 **|Plovdiv|Primorsko-goranska|Komarom|Braila|
 |**9 **|Kurdzahli|Licko-senjska|Fejer|Brasov|
@@ -21077,14 +21121,18 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**35**||||Teleorman|
 |**36**||||Timisoara|
 |**37**||||Tulcea|
+</table>
+
+--- Page 247 ---
+
+<table>
+|Region/<br>Risk Zone|BG|CR|HU|RO|
+|---|---|---|---|---|
 |**38**||||Vaslui|
 |**39**||||Vilcea|
 |**40**||||Vrancea|
 |**41**||||Bucuresti|
 </table>
---- Page 247 ---
-
-
 
 
 
@@ -21118,15 +21166,17 @@ codes which have a digit in the second position shall be mapped to zones identif
 |**21**|21||SO||22|
 |**22**|22||TY||23|
 |**23**|23||WD||24|
+</table>
+
+--- Page 248 ---
+
+<table>
+|Region/<br>Risk Zone|CH|CY|IE|NO|SE|
+|---|---|---|---|---|---|
 |**24**|24||WH||25|
 |**25**|25||WW|||
 |**26**|26||WX|||
 </table>
-
-
---- Page 248 ---
-
-
 
 
 
@@ -21185,15 +21235,17 @@ The mappings for the region SI shall be based on the 4 digits of the postal code
 |**6 **|2201<br>2222<br>2250<br>2273<br>2287<br>2318<br>2343<br>2366<br>2391|2204<br>2223<br>2252<br>2274<br>2288<br>2319<br>2344<br>2367<br>2392|2205<br>2230<br>2253<br>2275<br>2289<br>2321<br>2345<br>2370<br>2394|2206<br>2231<br>2254<br>2276<br>2310<br>2322<br>2352<br>2371<br>3206|2208<br>2232<br>2255<br>2277<br>2311<br>2323<br>2353<br>2372<br>3210|2211<br>2233<br>2256<br>2281<br>2312<br>2324<br>2360<br>2373<br>3214|2212<br>2234<br>2257<br>2282<br>2313<br>2325<br>2361<br>2380<br>3215|2213<br>2235<br>2258<br>2283<br>2314<br>2326<br>2362<br>2381<br>|2214<br>2236<br>2259<br>2284<br>2315<br>2327<br>2363<br>2382|2215<br>2241<br>2270<br>2285<br>2316<br>2331<br>2364<br>2383|2221<br>2242<br>2272<br>2286<br>2317<br>2342<br>2365<br>2390|
 |**7 **|2000|2229|2341|2351|2354|||||||
 |**8 **|9000<br>9222<br>9242<br>9264|9201<br>9223<br>9243<br>9265|9202<br>9224<br>9244<br>|9203<br>9225<br>9245|9204<br>9226<br>9250|9205<br>9227<br>9251|9206<br>9231<br>9252|9207<br>9232<br>9253|9208<br>9233<br>9261|9220<br>9240<br>9262|9221<br>9241<br>9263|
+</table>
+
+--- Page 250 ---
+
+<table>
+|Risk Zone|Region|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |**9 **|6000<br>6280|6216<br>6281|6240<br>6310|6242<br>6311|6243<br>6320|6271<br>6323|6272<br>6330|6273<br>6333|6274|6275|6276|
 |**10**|5271<br>6230|5272<br>6232|6210<br>6244|6215<br>6250|6217<br>6253|6219<br>6254|6221<br>6255|6222<br>6256|6223<br>6257|6224<br>6258|6225|
 |**11**|1434<br>8232<br>8261<br>8282<br>8312<br>8344|8000<br>8233<br>8262<br>8283<br>8321<br>8350|8210<br>8250<br>8263<br>8290<br>8322<br>8351|8211<br>8251<br>8270<br>8292<br>8323<br>8360|8212<br>8253<br>8272<br>8293<br>8330<br>8361|8213<br>8254<br>8273<br>8294<br>8331<br>8362|8216<br>8255<br>8274<br>8295<br>8332<br>|8220<br>8256<br>8275<br>8296<br>8333|8222<br>8257<br>8276<br>8297<br>8340|8230<br>8258<br>8280<br>8310<br>8341|8231<br>8259<br>8281<br>8311<br>8343|
 </table>
-
-
---- Page 250 ---
-
-
 
 
 
@@ -21261,6 +21313,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**24**|1,3||1,2|1,4|2,7||2,3|1,3|1,2|1,2||0,4||1,2|
 |**25**|2,1||0,9|1,3|2,2||1,9|0,8|0,9|1,1||0,5||1,3|
 |**26**|1,8||1,3|1,6|1,5||1,5|0,8|1,3|0,9||0,6||1,6|
+</table>
+
+--- Page 252 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**27**|1,8|||1,6|1,6||2,5|2,2||1,3||0,6||0,9|
 |**28**|1,5|||1,7|1,6||1,1|2,3||0,9||0,5||1,1|
 |**29**|1,5|||1,7|1,8||1,3|3,4||0,9||0,5||3,8|
@@ -21293,6 +21352,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**56**|1,3|||0,6|1,7|||3,3||0,8||1,2||1,6|
 |**57**|1,6|||0,7|0,8|||1,1||1,1||1,3||0,7|
 |**58**|1,1|||0,8|1,3|||1,7||0,8||1,1||1,4|
+</table>
+
+--- Page 253 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**59**|1,4|||0,8|0,9|||1,6||0,8||1,3||1,2|
 |**60**|1,5||||1,1|||1,9||0,9||1,7||1,1|
 |**61**|1,6||||1,1|||3,2||0,8||1,7||1,7|
@@ -21324,6 +21390,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**87**|||||0,9|||1,5||1,0||1,2||1,2|
 |**88**|||||0,7|||1,0||1,0||1,4||1,0|
 |**89**|||||0,8|||1,7||1,4||1,9||1,1|
+</table>
+
+--- Page 254 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**90**|||||0,8|||0,6||1,4||0,8||0,9|
 |**91**|||||0,9|||1,1||||0,8||2,1|
 |**92**|||||0,9|||0,6||||0,8||0,6|
@@ -21355,14 +21428,18 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**118**||||||||||||||1,0|
 |**119**||||||||||||||1,1|
 |**120**||||||||||||||1,4|
+</table>
+
+--- Page 255 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|CZ|DE|DK|ES|FR|IE|NL|NO|PL|SE|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**121**||||||||||||||0,8|
 |**122**||||||||||||||0,8|
 |**123**||||||||||||||2,0|
 |**124**||||||||||||||1,5|
 </table>
---- Page 255 ---
-
-
 
 
 
@@ -21396,6 +21473,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**21**|0,4||0,4|2,5|0,9|1,3||0,1|0,3|3,3|0,2|1,5|0,4|0,0||1,6|
 |**22**|0,0||0,2|1,5|2,1|||0,1|0,2|7,2|0,0|0,8|0,6|0,0||5,4|
 |**23**|0,0||0,1|0,1|1,4|||0,1|0,2|3,3|0,0|1,4|0,3|2,0||0,4|
+</table>
+
+--- Page 256 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**24**|0,0||0,1|0,1|2,6|||0,1|0,1|7,6|0,1|1,8|0,2|0,3||4,0|
 |**25**|0,0||0,1|0,1|0,8|||0,1|2,0|2,9||4,3|0,1|0,1|||
 |**26**|0,0||0,2|0,1|1,3|||0,2|2,5|3,8||4,5|0,1|0,3|||
@@ -21427,6 +21511,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**52**|3,1|||10,5||||1,9|0,1|3,7||4,2|0,5||||
 |**53**|1,7|||11,3||||2,0|0,2|1,4||3,2|0,1||||
 |**54**|3,4|||9,5||||0,2|0,1|0,8||5,9|0,5||||
+</table>
+
+--- Page 257 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**55**|1,4|||0,1||||0,1|0,1|0,1||5,1|1,3||||
 |**56**|0,9|||0,1||||0,1|0,3|0,8||4,2|0,9||||
 |**57**|0,4|||0,1||||2,2|0,1|0,5||3,0|0,6||||
@@ -21458,6 +21549,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**83**||||||||4,0|0,5|||10,5|||||
 |**84**||||||||3,6|3,5|||6,3|||||
 |**85**||||||||2,2|0,6|||2,5|||||
+</table>
+
+--- Page 258 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CZ|CH|CR|CY|DE|FR|HE|HU|IT|PT|RO|SI|SK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**86**||||||||0,1|0,7|||2,1|||||
 |**87**||||||||0,1|0,2|||3,6|||||
 |**88**||||||||0,2|0,5|||5,3|||||
@@ -21469,14 +21567,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**94**||||||||0,3|0,2||||||||
 |**95**||||||||0,3|0,1||||||||
 </table>
---- Page 257 ---
-
-
-
-
---- Page 258 ---
-
-
 
 
 
@@ -21503,6 +21593,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**14**|0,5||0,2|3,8|1,5|0,8|1,1|0,4|0,2|2,2|2,0||0,0|2,8|
 |**15**|0,9||0,2|4,5|2,7|0,3|0,3|2,0|0,3|1,2|1,3||0,2|7,0|
 |**16**|0,4||0,0|1,3|2,5|0,3|1,1|2,4|0,7|0,0|2,0||2,1|2,0|
+</table>
+
+--- Page 259 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**17**|1,4||0,1|2,8|4,5|1,3|2,2|0,0|0,0|1,8|3,3||1,1|1,5|
 |**18**|2,6||2,5|1,8|1,1|2,3|1,3|0,8|0,1|1,3|4,0||1,3|1,5|
 |**19**|3,6||0,8|2,5|1,8|4,5|0,4|0,8|2,4|1,4|3,3||0,9|2,0|
@@ -21534,6 +21631,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**45**|0,6||||0,8|3,5|1,7|1,6||0,3||||2,8|
 |**46**|0,1||||1,1|2,0|0,8|4,8||2,8||||1,0|
 |**47**|0,1||||0,7|4,5|2,3|3,2||1,1||||19,5|
+</table>
+
+--- Page 260 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**48**|1,5||||3,6|2,5|0,2|0,4||5,6||||0,5|
 |**49**|0,1||||2,1|0,3|2,5|1,6||2,2||||3,0|
 |**50**|2,4||||1,9|3,3|0,9|3,6||3,0||||5,8|
@@ -21565,6 +21669,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**76**|0,0|||||0,8|1,1|1,2||0,1||||4,5|
 |**77**|0,1|||||0,5|1,3|2,4||0,3||||1,3|
 |**78**||||||1,0|1,2|1,6||0,6||||2,0|
+</table>
+
+--- Page 261 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**79**||||||3,0|0,7|1,6||1,6||||3,8|
 |**80**||||||2,3|0,8|0,8||1,5||||2,5|
 |**81**||||||2,3|0,5|1,2||0,1||||2,8|
@@ -21596,6 +21707,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**107**||||||||||||||1,0|
 |**108**||||||||||||||3,0|
 |**109**||||||||||||||3,8|
+</table>
+
+--- Page 262 ---
+
+<table>
+|Zone/<br>Region|AT|BE|BG|CH|CZ|DE|FR|IT|HU|PL|RO|SI|SK|UK|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**110**||||||||||||||0,8|
 |**111**||||||||||||||3,8|
 |**112**||||||||||||||2,8|
@@ -21612,9 +21730,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**123**||||||||||||||2,3|
 |**124**||||||||||||||0,5|
 </table>
---- Page 262 ---
-
-
 
 
 
@@ -21635,6 +21750,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**8 **|0,3|2,8|0,2|2,5|0,8|2,7|0,0|2,9|
 |**9 **|1,4|2,4|1,5|1,7|0,2|27,6|0,0|9,6|
 |**10**|0,8||0,3|0,0|0,1|1,7|0,0|0,1|
+</table>
+
+--- Page 263 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**11**|3,1||6,1|7,5|0,9|6,8|10,8|6,1|
 |**12**|2,8||3,0|0,0|0,1|8,7|10,8|2,8|
 |**13**|1,0||0,1|0,0|0,0|2,8|10,8|2,0|
@@ -21666,6 +21788,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**39**|6,1|||2,5|5,4|11,6|3,3|3,1|
 |**40**|3,1|||7,5|7,9|2,8|3,3|0,2|
 |**41**|10,4|||2,5|3,7|2,3|7,5|5,9|
+</table>
+
+--- Page 264 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**42**|5,4|||3,3|3,5|10,4|7,5|7,2|
 |**43**|1,1|||6,7|3,0|4,8|7,5|3,8|
 |**44**|5,9|||3,3|9,8|0,1|7,5|3,5|
@@ -21697,6 +21826,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**70**|1,3||||1,7|13,6|0,0|1,6|
 |**71**|4,5||||6,4|12,1|0,0|2,9|
 |**72**|15,0||||5,6|0,7|0,0|7,1|
+</table>
+
+--- Page 265 ---
+
+<table>
+|Zone/<br>Region|AT|BE|CH|ES|DE|FR|IT|NL|
+|---|---|---|---|---|---|---|---|---|
 |**73**|0,3||||5,0|15,3|0,0|4,1|
 |**74**|1,2||||7,8|9,5|0,0|1,6|
 |**75**|1,3||||8,0|6,2|0,0|1,4|
@@ -21721,14 +21857,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**94**|||||2,5|0,7|||
 |**95**|||||1,4|2,3|||
 </table>
---- Page 264 ---
-
-
-
-
---- Page 265 ---
-
-
 
 
 
@@ -21743,6 +21871,13 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**2 **|0,3|**21**|0,5|**40**|0,3|**59**|6,0|**78**|2,0|
 |**3 **|0,5|**22**|0,3|**41**|0,5|**60**|0,3|**79**|0,8|
 |**4 **|0,3|**23**|0,3|**42**|0,3|**61**|0,3|**80**|0,3|
+</table>
+
+--- Page 266 ---
+
+<table>
+|Zone|FR|Zone|FR|Zone|FR|Zone|FR|Zone|FR|
+|---|---|---|---|---|---|---|---|---|---|
 |**5 **|0,3|**24**|1,8|**43**|0,3|**62**|1,0|**81**|0,8|
 |**6 **|0,5|**25**|0,3|**44**|0,5|**63**|0,8|**82**|0,8|
 |**7 **|0,3|**26**|0,3|**45**|1,5|**64**|0,5|**83**|0,5|
@@ -21759,11 +21894,6 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 |**18**|0,5|**37**|1,5|**56**|0,3|**75**|0,3|**94**|1,0|
 |**19**|0,3|**38**|0,3|**57**|1,0|**76**|0,3|**95**|0,8|
 </table>
-
-
---- Page 266 ---
-
-
 
 --- Page 267 ---
 # _ANNEX XI_
@@ -21991,17 +22121,19 @@ segments set out Annex XIV:
 |Portuguese Republic|0,30 %|
 |Romania|0,15 %|
 |Slovak Republic|0,30 %|
+</table>
+
+--- Page 271 ---
+
+<table>
+|Country s|rs — Ratio of persons affected by the mass acci­<br>dent in country s|
+|---|---|
 |Republic of Slovenia|0,40 %|
 |Kingdom of Spain|0,10 %|
 |Kingdom of Sweden|0,25 %|
 |Swiss Confederation|0,25 %|
 |United Kingdom of Great Britain and Northern Ireland|0,05 %|
 </table>
-
-
---- Page 271 ---
-
-
 
 
 

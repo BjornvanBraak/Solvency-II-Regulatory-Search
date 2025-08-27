@@ -154,12 +154,9 @@ as provided in Article 63 of the Regulation **.**
 
 
 
-
-<table>
 |Purpose of the<br>processing<br>activity|Categories of<br>data subjects|Categories of<br>personal data|Legal basis|Recipients/<br>Categories of<br>recipients/process<br>ors|Retention<br>period|Joint<br>Controller|Primary<br>Contact<br>Point|
 |---|---|---|---|---|---|---|---|
 |**1. Granting access**<br>**to the ESAs**<br>**Information**<br>**System**|Users/End-<br>users of ESAs<br>Information<br>System (ESAs,<br>and CAs staff<br>members)|Contact data (name,<br>professional e-mail<br>address)|- Necessary for<br>compliance with a<br>legal obligation<br>(Articles 2(4), 31a<br>and 35 of the ESAs<br>Regulation)<br> <br>- Necessary for the<br>performance of a<br>task carried out in<br>the public interest<br>(Article 5(1)(a) of<br>EUDPR)|- ESAs as owners<br>of the system<br>- EIOPA’s IT Unit<br>as processor of<br>personal data<br>related to the<br>hosting and use of<br>the ESAs<br>Information System|Until the ESAs<br>or CAs staff<br>member is no<br>longer<br>appointed as the<br>respective<br>authority’s<br>representative<br>for the ESAs<br>Information<br>System.|Joint<br>controllership<br>between the<br>ESAs.<br>|EIOPA|
-</table>
 
 
 4

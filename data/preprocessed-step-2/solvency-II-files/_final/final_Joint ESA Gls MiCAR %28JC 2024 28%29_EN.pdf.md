@@ -516,8 +516,6 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
 
-
-<table>
 |Information about explanation|Date on which this explanation is is-<br>sued|Col3|
 |---|---|---|
 |**Information about**<br>**explanation**|~~**Name of the person(s) (legal or natural)**~~<br>**issuing this explanation**<br>|~~_Please include: name, address, email address, and_~~<br>_telephone number._|
@@ -532,8 +530,6 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 |**Crypto-asset**|**Detailed explanation that the crypto-as-**<br>**set to which the white paper relates is**<br>**not an electronic money token within the**<br>**meaning of Article 3(1), point (7), of**<br>**MiCAR**|~~_Explanation may be provided in an Annex and should_~~<br>_include all aspects that demonstrate that the crypto-_<br>_asset is not intended to purport to maintain a stable_<br>_value by reference to an official currency, with full_<br>_cross-references to the relevant provisions of the_<br>_white paper._<br>|
 |**Crypto-asset**|**Detailed explanation that the crypto-as-**<br>**set to which the white paper relates is**<br>**not an asset-referenced token within the**<br>**meaning of Article 3(1), point (6), of**<br>**MiCAR**|~~_Explanation may be provided in an Annex and should_~~<br>_include all aspects that demonstrate that the crypto-_<br>_asset is not intended to purport to maintain a stable_<br>_value by reference to another value or right or a_<br>_combination thereof, with full cross-references to_<br>_the relevant provisions of the white paper._|
 |**Crypto-asset**|**Detailed explanation that the**<br>**crypto-asset is not any of the following:**||
-</table>
-
 --- Page 13 ---
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
@@ -542,14 +538,10 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
 
-
-<table>
 |Col1|- Financial instrument, as referred<br>to in Article 2(4), point (a), of<br>MiCAR.|Source of definition(s) (EU and/or national law as<br>applicable):<br>Case law (including paragraph references, as ap-<br>propriate) to which reference is made in the expla-<br>nation:<br>Regulatory measures or guidance to which refer-<br>ence is made in the explanation (including the<br>Guidelines adopted pursuant to Article 2(5) of<br>MiCAR):<br>Explanation:<br>Note: Explanation may be supplemented in an Annex<br>and should include all aspects that demonstrate that<br>the crypto-asset is not a financial instrument. The<br>explanation should indicate why the crypto-asset<br>does not correspond to any of the financial instru-<br>ment types (transferable security, money market in-<br>strument etc), make full reference to the ESMA<br>Guidelines under Article 2(5) of MiCAR, and any ap-<br>plicable case law, or relevant regulatory or supervi-<br>sory materials issued by the competent authority for<br>the purposes of [MiFID2] in the home Member State<br>within the meaning of Article 3(1), point (33), of<br>MiCAR.|
 |---|---|---|
 ||- <br>**Deposits, including structured**<br>**deposits, as referred to in Article**<br>**2(4), point (b), of MiCAR**|~~**Source of definition(s) (EU and/or national law as**~~<br>**applicable):**<br> <br>**Case law (including paragraph references, as ap-**<br>**propriate) to which reference is made in the expla-**<br>**nation:**<br> <br>**Regulatory measures or guidance to which refer-**<br>**ence is made in the explanation:**<br> <br>**Explanation:**<br> <br>_Note: Explanation should include all aspects that_<br>_demonstrate that the crypto-asset is not a deposit._<br>_The explanation should make full reference to any_<br>_applicable case law, or relevant regulatory or super-_<br>_visory materials issued by the competent authority_<br>_for the purposes of [CRD/CRR] in the home Member_<br>_State within the meaning of Article 3(1), point (33),_<br>_of MiCAR._<br>|
 ||- <br>**Funds as referred to in Article**<br>**2(4), point (c), of MiCAR**|~~**Source of definition(s) (EU and/or national law as**~~<br>**applicable):**<br> <br>**Case law (including paragraph references, as ap-**<br>**propriate) to which reference is made in the expla-**<br>**nation:**<br> <br>**Regulatory measures or guidance to which refer-**<br>**ence is made in the explanation:**<br>|
-</table>
-
 --- Page 14 ---
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
@@ -558,8 +550,6 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
 
-
-<table>
 |Col1|Col2|Explanation:<br>Note: Explanation should include all aspects that<br>demonstrate that the crypto-asset is not funds. The<br>explanation should make full reference to any appli-<br>cable case law, or relevant regulatory or supervisory<br>materials issued by the competent authority for the<br>purposes of Directive (EU) 2015/2366 of the Euro-<br>pean Parliament and of the Council in the home<br>Member State within the meaning of Article 3(1),<br>point (33), of MiCAR.|
 |---|---|---|
 ||~~**Brief explanation, unless more detailed**~~<br>**assessment is relevant, that the crypto-**<br>**asset is not any of the following:**<br><br>||
@@ -571,8 +561,6 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 ||~~- ~~<br>~~**Pan-European Pension Products**~~<br>**as referred to in Article 2(4),**<br>**point (i), of MiCAR**<br><br>|_Note: Explanation should confirm that the crypto-as-_<br>_set is not a Pan-European Pension Product._|
 ||~~- ~~<br>~~**Social security schemes as re-**~~<br>**ferred to in Article 2(4), point (j),**<br>**of MiCAR**|_Note: Explanation should confirm that the crypto-as-_<br>_set is not a social security scheme._<br>|
 |**Additional relevant information**|**Additional relevant information**|~~_Note: Please set out such other information as you_~~<br>_consider appropriate to explain the regulatory classi-_<br>_fication of the crypto-asset._|
-</table>
-
 --- Page 15 ---
 FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
@@ -590,16 +578,12 @@ FINAL REPORT ON GUIDELINES UNDER ARTICLE 97 OF REGULATION (EU) 2023/1114
 
 
 
-
-<table>
 |Name of the offeror(s), per-<br>son(s) seeking admission to<br>trading, or operator(s) of<br>trading platforms, on<br>whose behalf this explana-<br>tion is issued|Regulated status (if any) of<br>the offeror(s), person(s)<br>seeking admission to trad-<br>ing, or operator(s) (authori-<br>sation or registration to<br>carry out financial services<br>activity/ies)|LEI (if applicable)|EEA/Member State of es-<br>tablishment, branch or reg-<br>istered office (as applicable)|Point of contact|
 |---|---|---|---|---|
 |<br>|<br>|<br>|~~_Please indicate jurisdiction and_~~<br>_status (establishment, branch,_<br>_registered office)._<br>|~~_Please include: name, address,_~~<br>_email address, and telephone_<br>_number._ <br>|
 |<br>|<br>|<br>|<br>|<br>|
 |<br>|<br>|<br>|<br>|<br>|
 ||||||
-</table>
-
 --- Page 16 ---
 EBA Regular Use
 
@@ -648,8 +632,6 @@ EBA Regular Use
 
 
 
-
-<table>
 |An Opini fields.|ion issued for the purposes of these artic Date on which this Opinion is issued|cles should contain information for all the below|
 |---|---|---|
 |**Information about Opinion**|~~**Date on which this Opinion is issued**~~<br>|<br>|
@@ -669,8 +651,6 @@ EBA Regular Use
 |**Crypto-asset**|**Applicable law**|~~_Please indicate, the law applicable to the crypto-as-_~~<br>_set as referred to in the white paper._<br>|
 |**Crypto-asset**|**Executive summary of the regulatory**<br>**classification of the crypto-asset**<br>|~~_Please indicate the purported regulatory classifica-_~~<br>_tion and any key points you wish to highlight in the_<br>_executive summary._<br>|
 |**Crypto-asset**|~~**Opinion, with detailed explanation, that**~~<br>**the digital representation to which this**<br>**Opinion relates is a crypto-asset within**|~~_Explanation may be provided in an Annex and should_~~<br>_cover all aspects of the definition of ‘crypto-asset’,_<br>_including the value or right, and the distributed_|
-</table>
-
 --- Page 18 ---
 EBA Regular Use
 
@@ -685,8 +665,6 @@ EBA Regular Use
 
 
 
-
-<table>
 |Col1|the meaning of Article 3(1), point (5), of<br>MiCAR|ledger technology or similar technology on which the<br>crypto-asset may be transferred or stored.|
 |---|---|---|
 ||**Detailed description of the value or right**<br>**or official currencies to which the crypto-**<br>**asset refers**|~~_Description should set out the value, right or official_~~<br>_currencies to which the crypto-asset refers and is in-_<br>_tended to purport to maintain a stable value, with_<br>_full cross-references to the relevant provisions of the_<br>_white paper._<br>|
@@ -694,8 +672,6 @@ EBA Regular Use
 ||~~**Opinion, with detailed explanation, that**~~<br>**the crypto-asset to which this Opinion re-**<br>**lates is not any of the following:**|<br>|
 ||- <br>**Financial instrument, as referred**<br>**to in Article 2(4), point (a), of**<br>**MiCAR.**|~~**Source of definition(s) (EU and/or national law as**~~<br>**applicable):**<br> <br>**Case law (including paragraph references, as ap-**<br>**propriate) to which reference is made in the expla-**<br>**nation:**<br> <br>**Regulatory measures or guidance to which refer-**<br>**ence is made in the explanation (including the**<br>**Guidelines pursuant to Article 2(5) of MiCAR):**<br> <br>**Explanation:**<br> <br>_Note: Explanation may be supplemented in an Annex_<br>_and should include all aspects that demonstrate that_<br>_the crypto-asset is not a financial instrument. The_<br>_explanation should indicate why the crypto-asset_<br>_does not correspond to any of the financial instru-_<br>_ment types (transferable security, money market in-_<br>_strument etc), make full reference to the ESMA_<br>_Guidelines under Article 2(5) of MiCAR, and any ap-_<br>_plicable case law, or relevant regulatory or supervi-_<br>_sory materials issued by the competent authority for_<br>_the purposes of [MiFID2] in the home Member State_<br>_within the meaning of Article 3(1), point (33), of_<br>_MiCAR._<br>|
 ||- <br>**Deposits, including structured**<br>**deposits, as referred to in Article**<br>**2(4), point (b), of MiCAR**|~~**Source of definition(s) (EU and/or national law as**~~<br>**applicable):**<br> <br>**Case law (including paragraph references, as ap-**<br>**propriate) to which reference is made in the expla-**<br>**nation:**<br> <br>**Regulatory measures or guidance to which refer-**<br>**ence is made in the explanation:**<br> <br>**Explanation:**<br>|
-</table>
-
 --- Page 19 ---
 EBA Regular Use
 
@@ -706,8 +682,6 @@ EBA Regular Use
 
 
 
-
-<table>
 |Col1|Col2|Note: Explanation may be provided in an Annex and<br>should include all aspects that demonstrate that the<br>crypto-asset is not a deposit. The explanation should<br>make full reference to any applicable case law, or<br>relevant regulatory or supervisory materials issued<br>by the competent authority for the purposes of<br>[CRD/CRR] in the home Member State within the<br>meaning of Article 3(1), point (33) of MiCAR.|
 |---|---|---|
 ||- <br>**Funds as referred to in Article**<br>**2(4), point (c), of MiCAR**<br>|~~**Source of definition(s) (EU and/or national law as**~~<br>**applicable):**<br> <br>**Case law (including paragraph references, as ap-**<br>**propriate) to which reference is made in the expla-**<br>**nation:**<br> <br>**Regulatory measures or guidance to which refer-**<br>**ence is made in the explanation:**<br> <br>**Explanation:**<br> <br>_Note: Explanation may be provided in an Annex  and_<br>_that demonstrate that the crypto-asset is not funds._<br>_The explanation should make full reference to any_<br>_applicable case law, or relevant regulatory or super-_<br>_visory materials issued by the competent authority_<br>_for the purposes of [PSD] in the home Member State_<br>_within the meaning of Article 3(1), point (33), of_<br>_MiCAR_.|
@@ -719,21 +693,15 @@ EBA Regular Use
 ||~~- ~~<br>~~**Individual pension products as**~~<br>**referred to in Article 2(4), point**<br>**(h), of MiCAR**<br><br>|_Note: Explanation should confirm that the crypto-as-_<br>_set is not an individual pension product._|
 ||~~- ~~<br>~~**Pan-European Pension Products**~~<br>**as referred to in Article 2(4),**<br>**point (i), of MiCAR**<br><br>|_Note: Explanation should confirm that the crypto-as-_<br>_set is not a Pan-European Pension Product._|
 ||~~- ~~<br>~~**Social security schemes as re-**~~<br>**ferred to in Article 2(4), point (j),**<br>**of MiCAR**|_Note: Explanation should confirm that the crypto-as-_<br>_set is not a social security scheme._|
-</table>
-
 --- Page 20 ---
 EBA Regular Use
 
 
 
 
-
-<table>
 |Opinion, with full explanation that the crypto-asset<br>is within the meaning of Article 3(1), point (6), of<br>MiCAR|Source of definition(s) (EU and/or national law as<br>applicable):<br>Case law (including paragraph references, as ap-<br>propriate) to which reference is made in the expla-<br>nation:<br>Regulatory measures or guidance to which refer-<br>ence is made in the explanation:<br>Explanation:<br>Note: Explanation should not repeat the foregoing<br>but should describe the attributes of the crypto-asset<br>that conform to the definition of ‘asset-referenced<br>token’. The explanation may be provided in an An-<br>nex to this Opinion and should refer to all relevant<br>provisions of the white paper, among any other ma-<br>terials, that are considered relevant in supporting<br>the Opinion as to the regulatory classification of the<br>crypto-asset.|
 |---|---|
 |**Additional relevant information**<br>|~~_Note: Please set out such other information as you_~~<br>_consider appropriate to explain the regulatory classi-_<br>_fication of the crypto-asset._|
-</table>
-
 --- Page 21 ---
 EBA Regular Use
 
