@@ -662,7 +662,31 @@ with chat_col:
             # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
         else:
             print(f"[INFO] Reranking documents with {reranker_model_option.value['model']}")
-            retriever = vectorstore.as_retriever(search_kwargs={"k": k})
+            if ENRICHED_VECTOR_STORE:
+                # EXAMPLE ON HOW TO USE MultiVectorRetriever
+                from langchain.retrievers.multi_vector import MultiVectorRetriever
+                from langchain.storage import InMemoryByteStore
+
+                # NOTE: ENTIRE DOCSTORE IS SAVED AS A PICKLE FILE FOR PROOF OF CONCEPT
+                # load in list(zip(chunk_ids, chunks))
+                with open(os.path.join("doc_stores", "table_data.pkl"), "rb") as f:
+                    doc_store = pickle.load(f)
+
+                byte_store = InMemoryByteStore()
+                id_key = "parent_doc_id"
+
+                retriever = MultiVectorRetriever(
+                    vectorstore=vectorstore,
+                    byte_store=byte_store,
+                    id_key=id_key,
+                )
+
+                # load docstore into memory
+                retriever.docstore.mset(doc_store)
+            else:
+                retriever = vectorstore.as_retriever(search_kwargs={"k": k})
+            
+            # create retriever + reranker
             compressor = ContextualCompressionRetriever(base_compressor=reranker_model, 
                                         base_retriever=retriever
             )
