@@ -4,20 +4,18 @@ EIOPA-BoS-14/259 EN
 
 
 Guidelines on own risk and solvency
+<image>
+A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
 
+Guidelines on own risk and solvency
+</image>
 
-
-
-
-!A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
-
-Guidelines on own risk and solvency](#)
 
 
 <image>
-![A title slide with the heading "Guidelines on own risk and solvency assessment" in black bold text on a light blue background.
+A title slide with the heading "Guidelines on own risk and solvency assessment" in black bold text on a light blue background.
 Guidelines on own risk and solvency
-assessment](#)
+assessment
 </image>
 
 
@@ -25,18 +23,18 @@ assessment](#)
 
 
 <image>
-![A concise summary of the image shows the word "assessment" in a bold, black, sans-serif font, centered on a solid light blue background.
+A concise summary of the image shows the word "assessment" in a bold, black, sans-serif font, centered on a solid light blue background.
 
 assessment
+</image>
+
 
 
 
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 
-[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu)
-</image>
- [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu) [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **Guidelines on own risk and solvency assessment**
 

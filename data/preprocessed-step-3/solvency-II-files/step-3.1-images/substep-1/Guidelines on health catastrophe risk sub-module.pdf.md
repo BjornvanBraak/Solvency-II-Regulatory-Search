@@ -4,28 +4,30 @@ EIOPA-BoS-14/176 EN
 
 
 Guidelines on health catastrophe risk
-
-
-
-
-
-!A concise summary of the image for retrieval: A presentation slide title or document heading that reads "Guidelines on health catastrophe risk" in bold black text on a light blue background.
+<image>
+A concise summary of the image for retrieval: A presentation slide title or document heading that reads "Guidelines on health catastrophe risk" in bold black text on a light blue background.
 
 Extracted text from the image:
-Guidelines on health catastrophe risk](#)
+Guidelines on health catastrophe risk
+</image>
+
 
 
 <image>
-![A title slide with the text "Guidelines on health catastrophe risk sub-module" in bold black font on a light blue background.
+A title slide with the text "Guidelines on health catastrophe risk sub-module" in bold black font on a light blue background.
 Guidelines on health catastrophe risk
-sub-module](#)
+sub-module
 </image>
 
 
 
 
-![A concise summary of the word "sub-module" written in black bold text on a light blue background.
+
+<image>
+A concise summary of the word "sub-module" written in black bold text on a light blue background.
 sub-module
+</image>
+
 
 
 

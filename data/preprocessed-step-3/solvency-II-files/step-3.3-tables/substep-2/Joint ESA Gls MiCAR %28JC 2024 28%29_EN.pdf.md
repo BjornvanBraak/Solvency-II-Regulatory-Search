@@ -1,7 +1,4 @@
-
 --- Page 1 ---
-
-
 JC 2024 28
 
 
@@ -15,7 +12,7 @@ JC 2024 28
 
 
 1. These Guidelines are issued pursuant to Article 16 of Regulation (EU) No 1093/2010, Regulation
-(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) 1] . In accordance with
+(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) [1] . In accordance with
 
 Article 16(3) of the ESA Regulations, competent authorities, financial market participants and
 
@@ -700,60 +697,3 @@ This flow chart is provided for the purposes of the standardised test referred t
 
 Regulation (EU) 2023/1114.
 --- Page 22 ---
-EBA Regular Use
-
-
-
-![A flowchart illustrating the decision-making process for classifying crypto-assets under the MiCAR (Markets in Crypto-Assets) regulation. The diagram helps determine if a token is a crypto-asset, an asset-referenced token (ART), an e-money token (EMT), or falls outside the scope of MiCAR based on a series of questions about its nature, technology, issuance, and value.
-
-Is the token a digital representation of a value or of a right?
-No
-Not a 'crypto-asset' under Article 3(1)(5) MiCAR
-Yes
-Can it be transferred and stored electronically?
-No
-Yes
-What is the technology used for this purpose?
-Distributed ledger technology (DLT)
-Technology similar to DLT
-Other
-Yes
-Is it issued by a person in scope of Article 2(2) MiCAR?
-Yes
-MiCAR does not apply to the crypto-asset
-No
-Is it unique and not fungible with other crypto-assets?
-Yes
-MiCAR does not apply to the crypto-asset
-No
-Is it excluded under Article 2(4) MiCAR?
-Yes
-MiCAR does not apply to the crypto-asset
-No
-Does it purport to maintain a stable value?
-No
-Crypto-asset other than ART or EMT (Title II)
-Yes
-Is a value or right referenced?
-No
-Yes
-Is it referencing the value of only one official currency?
-Yes
-Electronic money token (subject to Title IV)
-No
-Is it referencing a value or right or a combination thereof, including one or more official currencies?
-Yes
-Asset referenced token (subject to Title III)
-
-List of items excluded under Article 2(4) MiCAR:
-Financial instrument as defined in Article 4(1)(15) Directive 2014/65/EU (MiFID II)
-Deposit as defined in Article 2(1)(3) Directive 2014/49/EU (DGSG), incl. structured deposits defined in Article 4(1)(43) MiFID II
-Funds as defined in Article 4, point (25), of Directive (EU) 2015/2366 (PSDII) - except if they qualify as e-money tokens
-Securitisation positions in the context of a securitisation as defined in Article 2(1) of Regulation (EU) 2017/2402 (Securitisation Regulation)
-Non-life or life insurance products falling within the classes of insurance listed in Annexes I & II Directive 2009/138/EC (Solvency II)
-Reinsurance and retrocession contracts referred to in the Directive 2009/138/EC (Solvency II)
-Pension products recognised under national law as having the primary purpose of providing investor with income in retirement and entitle to certain benefits
-Officially recognised occupational pension schemes falling within the scope of Directive (EU) 2016/2341 (IORP II) or Directive 2009/138/EC (Solvency II)
-Individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider
-Pan-European Personal Pension Product as defined in Article 2(2) of Regulation (EU) 2019/1238 (PEPP)
-Social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009

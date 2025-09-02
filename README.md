@@ -151,6 +151,36 @@ Future research
     - removal of unnecessary \n at page end and page start (interferes with recursive text splitting )
     - improved headers for guidelines files
 
+## 5.0 - Modalities (images, tables, and equations)
+- Improved data cleaning
+- Specialised preprocessing of non-text modalities (images, tables, and equations)
+    - Images (based on description)
+        - Is image of equation? --> convert to equation
+        - Is image of logo? --> remove
+        - Is image summary --> remove .md markdown format
+        - Add <image></image> block
+    - Tables (based on size)
+        - Merge multipage tables
+        - Add <table></table> block
+    - Equation
+        - Detect equations
+        - Find position of equation on page
+        - Convert equation image to LaTeX format
+        - Add <equation></equation>
+- Chunking
+    - Splitting while preserving blocks <tag></tag>
+- Enrich (added to make equations and tables)
+    - Generate summary of <equation> or <table>
+- Embedding
+    - Store enriched_chunks in vectorstore
+    - Store original chunks in docstore
+- Retrieval
+    - Retrieve based on similarity score between enriched_chunk and query
+    - Give original chunk to reranker
+- UI
+    - Warning for AI generated content
+    - Support for markdown tables
+
 ## suggestions for future versions
 
 ### general

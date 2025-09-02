@@ -1,13 +1,7 @@
 
 --- Page 1 ---
 # **Revised Guidelines on Contract** **Boundaries**
-
-
-
-
 --- Page 2 ---
-
-
 #### _Guideline 0 - Contract Boundaries (New Guideline)_
 
 
@@ -85,8 +79,6 @@ should be treated as an independent contract.
 
 _Guideline)_
 --- Page 3 ---
-
-
 #### _Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
 _economics of a contract (New Guideline)_
 
@@ -169,8 +161,6 @@ _insured person with a discernible effect on the economics of a contract (New Gu
 
 affects the insured person (cover) has no discernible effect on the economics of a
 --- Page 4 ---
-
-
 contract, insurance and reinsurance undertakings should take into account all potential
 
 future cash flows, which may arise from the contract.
@@ -255,8 +245,6 @@ extreme. For this purpose, the changes on the relevant risk-free interest rate t
 
 structure used to calculate the best estimate as referred to in Article 77(2) of the Solvency
 --- Page 5 ---
-
-
 II Directive that are less extreme than the interest rate stress of the Standard Formula
 
 should not be considered to be extreme.

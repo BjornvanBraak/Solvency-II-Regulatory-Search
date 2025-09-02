@@ -1,7 +1,5 @@
 
 --- Page 1 ---
-
-
 ESA 2024 28
 
 
@@ -55,7 +53,7 @@ ESA 2024 28
 # 1. Executive Summar y
 
 
-MiCAR 1] regulates the offering to the public and admission to trading of asset-referenced tokens
+MiCAR [1] regulates the offering to the public and admission to trading of asset-referenced tokens
 
 (ARTs), e-money tokens (EMTs), and other types of crypto-assets, as well as the provision of crypto
 asset services in the European Union (EU). Inter alia, MiCAR sets out a wide range of regulatory
@@ -1013,7 +1011,9 @@ This flow chart is provided for the purposes of the standardised test referred t
 
 Regulation (EU) 2023/1114.
 --- Page 30 ---
-![A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
+
+<image>
+A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
 
 Is the token a digital representation of a value or of a right?
 Yes
@@ -1065,6 +1065,8 @@ Officially recognised occupational pension schemes falling within the scope of D
 Individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider
 Pan-European Personal Pension Product as defined in Article 2(2) of Regulation (EU) 2019/1238 (PEPP)
 Social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009
+</image>
+
 --- Page 31 ---
 # 5. Accom an in documents p y g
 

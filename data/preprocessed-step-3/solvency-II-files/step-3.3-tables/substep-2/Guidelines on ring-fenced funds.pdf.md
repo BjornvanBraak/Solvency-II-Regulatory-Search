@@ -1,18 +1,9 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/169 EN
-
-
-
-
-
-!A title card with the text "Guidelines on ring-fenced funds" in bold black font on a light blue background.
+<image>
+A title card with the text "Guidelines on ring-fenced funds" in bold black font on a light blue background.
 Guidelines on ring-fenced funds
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
@@ -757,74 +748,3 @@ considered as non-compliant to the reporting and reported as such.
 
 1.40. The present Guidelines shall be subject to a review by EIOPA.
 --- Page 13 ---
-**Technical Annex - Simplifications for the calculation of the SCR as if there**
-**was no loss of diversification (Guideline 17)**
-
-
-                       Simplification 1 (direct summation at sub module level)
-
-
-1.41. The SCR as if there was no loss of diversification is calculated as follows:
-
-
-(a) for each sub-module of Life underwriting, Non-Life underwriting, Health
-
-underwriting, market and counterparty default risk modules, the (gross)
-capital charge of the entity is calculated as the sum of the (gross)
-capital charges across all ring-fenced funds and the remaining part;
-
-
-(b) the capital charges of the entity for Life underwriting, Non-Life
-
-underwriting, Health underwriting, market and counterparty default risk
-modules are calculated by aggregating the sub-module results
-determined above, using the relevant correlation matrices;
-
-
-(c) the capital charge of the entity for operational risk and intangibles is
-calculated as the sum of the capital charges across all ring-fenced funds
-and the remaining part;
-
-
-(d) the adjustment for loss absorbing capacity of technical provisions and
-
-deferred taxes is calculated as the sum of those adjustments across all
-ring-fenced funds and the remaining part;
-
-
-(e) the SCR as if there was no loss of diversification is obtained by using the
-
-usual SCR formula (as defined by Article 103 of Solvency II), taking as
-inputs all the numbers calculated above.
-
-
-Simplification 2 (direct summation at module level)
-
-
-1.42. The SCR as if there was no loss of diversification is calculated as follows:
-
-
-(a) for each risk module (Life underwriting, Non-Life underwriting, Health
-
-underwriting, market and counterparty default), the (gross) capital
-charge of the entity is calculated as the sum of the (gross) capital
-charges across all ring-fenced funds and the remaining part;
-
-
-(b) the capital charge of the entity for operational risk and intangibles is
-
-calculated as the sum of the capital charges across all ring-fenced funds
-and the remaining part;
-
-
-(c) the adjustment for loss absorbing capacity of technical provisions and
-deferred taxes is calculated as the sum of those adjustments across all
-ring-fenced funds and the remaining part;
-
-
-(d) the SCR as if there was no loss of diversification is obtained by using the
-
-usual SCR formula (as defined by Article 103 of Solvency II) taking as
-inputs all the numbers calculated above.
-
-

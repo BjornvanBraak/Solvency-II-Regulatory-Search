@@ -1,7 +1,4 @@
-
 --- Page 1 ---
-
-
 ESA 2024 28
 
 
@@ -55,7 +52,7 @@ ESA 2024 28
 # 1. Executive Summar y
 
 
-MiCAR 1] regulates the offering to the public and admission to trading of asset-referenced tokens
+MiCAR [1] regulates the offering to the public and admission to trading of asset-referenced tokens
 
 (ARTs), e-money tokens (EMTs), and other types of crypto-assets, as well as the provision of crypto
 asset services in the European Union (EU). Inter alia, MiCAR sets out a wide range of regulatory
@@ -1045,7 +1042,9 @@ This flow chart is provided for the purposes of the standardised test referred t
 
 Regulation (EU) 2023/1114.
 --- Page 30 ---
-![A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
+
+<image>
+A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
 
 Is the token a digital representation of a value or of a right?
 Yes
@@ -1097,6 +1096,8 @@ Officially recognised occupational pension schemes falling within the scope of D
 Individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider
 Pan-European Personal Pension Product as defined in Article 2(2) of Regulation (EU) 2019/1238 (PEPP)
 Social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009
+</image>
+
 --- Page 31 ---
 # 5. Accom an in documents p y g
 
@@ -2481,72 +2482,3 @@ crypto-asset may be appropriate to have regard to case law which
 
 47
 --- Page 48 ---
-EBA Regular Use
-
-
-**No** **Summary of responses received** **ESA analysis** **Amendments to the proposals**
-
-
-
-**No changes made**
-
-
-**No changes made**
-
-
-
-provides further clarification as to regulatory terms or concepts in
-
-the Member State concerned.
-
-
-The ESAs note the standardised test relates to the (regulatory
-classification of the) crypto-asset itself and not persons who may
-be carrying out activities involving crypto-assets, ecosystems in
-which crypto-assets may be transacted, nor the use to which the
-crypto-asset may be put.
-
-
-
-38.
-
-
-39.
-
-
-
-solely on applicable EU and national law, without incorporating
-
-national case law.
-
-
-One respondent suggested to include in the standardised test the
-exclusions from the scope of MiCAR based on the identity of the
-‘person’ carrying out the activity – e.g. person who provide cryptoasset services exclusively for their parent companies, for their own
-subsidiaries or for other subsidiaries of their parent companies
-(Article 2(2) MiCAR). Another respondent requested further clarity on
-what constitutes "issuance" in decentralised or community-driven
-projects where there may not be an identifiable issuer. Another
-respondent offered a set of suggested questions in place of the
-standardised test proposed in the consultation paper, including
-questions about the location in which the crypto-asset is being
-offered, the proposed use of a crypto-asset and obligations on the
-
-issuer.
-
-
-
-One respondent suggested to conduct user testing and pilot programs
-The ESAs recognise that the continuous nature of market
-to assess its practical application before full implementation.
-developments and note that the GL can be updated from time-totime if appropriate based on market developments and
-experience acquired in the classification of crypto-assets,
-including pursuant to the performance by the ESAs of their roles
-
-under Article 97 MiCAR.
-
-
-
-48
-
-

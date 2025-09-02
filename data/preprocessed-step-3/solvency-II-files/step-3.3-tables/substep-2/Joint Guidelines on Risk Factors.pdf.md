@@ -1,23 +1,10 @@
-
 --- Page 1 ---
-
-
 JC 2017 37
 
 /2018
-
-
-
 # Final Guidelines
-
-
-
 ## Joint Guidelines under Articles 17 and 18(4) of Directive (EU) 2015/849 on simplified and enhanced customer due diligence and the factors credit and financial institutions should consider when assessing the money laundering and terrorist financing risk associated with individual business relationships and occasional transactions **The Risk Factors Guidelines**
 --- Page 2 ---
-
-
-
-
 
 
 # Com liance and re ortin obli ations p p g g
@@ -83,10 +70,6 @@ Notifications will be published on the ESAs’ websites, in line with Article 16
 --- Page 3 ---
 
 
-
-
-
-
 # Title I – Subject matter, scope and definitions
 
 ## Subject matter
@@ -150,11 +133,6 @@ guidelines.
 
 3
 --- Page 4 ---
-
-
-
-
-
 
 
   - ‘Competent authorities’ means the authorities competent for ensuring firms’ compliance
@@ -234,10 +212,6 @@ Regulation (EU) No 1093/2010.
 --- Page 5 ---
 
 
-
-
-
-
 # Title II – Assessing and managing risk: eneral g
 
 9. These guidelines come in two parts. Title II is general and applies to all firms. Title III is
@@ -315,10 +289,6 @@ permitted by national legislation, firms may be able to apply simplified custome
 
 5
 --- Page 6 ---
-
-
-
-
 
 
 diligence measures (SDD). Where the risk associated with a business relationship is
@@ -402,17 +372,10 @@ and numbers of sources on a risk-sensitive basis.
 6
 --- Page 7 ---
 
-
-
-
 15. Firms should always consider the following sources of information:
 
 
   - the European Commission’s supranational risk assessment;
-
-
-
-
   - information from government, such as the government’s national risk assessments,
 
 policy statements and alerts, and explanatory memorandums to relevant legislation;
@@ -492,10 +455,6 @@ Chapter 7.
 
 7
 --- Page 8 ---
-
-
-
-
 
 
 b) the customer’s and the customer’s beneficial owner’s reputation; and
@@ -582,11 +541,6 @@ wider conduct requirements in recent years?
 
 8
 --- Page 9 ---
-
-
-
-
-
 
 
   - Is the customer a public administration or enterprise from a jurisdiction with low
@@ -676,11 +630,6 @@ asylum seekers from higher risk third countries or territories’, see [https://
 --- Page 10 ---
 
 
-
-
-
-
-
   - Are there indications that the customer might seek to avoid the establishment of a
 
 business relationship? For example, does the customer look to carry out one
@@ -763,14 +712,7 @@ financing purposes?
 10
 --- Page 11 ---
 
-
-
-
 **Countries and geographical areas**
-
-
-
-
 22. When identifying the risk associated with countries and geographical areas, firms should
 
 consider the risk related to:
@@ -852,10 +794,6 @@ sources include mutual evaluation reports by the Financial Action Task Force (FA
 
 11
 --- Page 12 ---
-
-
-
-
 
 
 FATF-style Regional Bodies (FSRBs) (a good starting point is the executive summary
@@ -946,10 +884,6 @@ registers?
 --- Page 13 ---
 
 
-
-
-
-
 27. Risk factors firms should consider when identifying the risk associated with the level of
 
 predicate offences to money laundering include:
@@ -1036,10 +970,6 @@ overpayments where this is would not normally be expected? Where third party
 --- Page 14 ---
 
 
-
-
-
-
 payments are expected, does the firm know the third party’s identity, for example is it a
 
 state benefit authority or a guarantor? Or are products and services funded exclusively
@@ -1124,10 +1054,6 @@ satisfied that:
 --- Page 15 ---
 
 
-
-
-
-
 i. the third party applies CDD measures and keeps records to EEA standards and that it
 
 is supervised for compliance with comparable AML/CFT obligations in line with Article
@@ -1206,14 +1132,7 @@ their relative importance.
 
 15
 --- Page 16 ---
-
-
 Weighting risk factors
-
-
-
-
-
 
 36. When weighting risk factors, firms should make an informed judgement about the
 
@@ -1292,10 +1211,6 @@ possible.
 --- Page 17 ---
 
 
-
-
-
-
 ## Risk management: simplified and enhanced customer due diligence
 
 41. A firm’s risk assessment should help it identify where it should focus its AML/CFT risk
@@ -1370,11 +1285,6 @@ at the outset.
 
 17
 --- Page 18 ---
-
-
-
-
-
 
 
   - adjusting the quantity of information obtained for identification, verification or
@@ -1464,10 +1374,6 @@ veracity of the information obtained, SDD must not be applied. [9 ] Equally, whe
 --- Page 19 ---
 
 
-
-
-
-
 high-risk scenarios apply and there is an obligation to conduct EDD, SDD must not be
 
 applied.
@@ -1548,11 +1454,6 @@ relationship is particularly high.
 
 19
 --- Page 20 ---
-
-
-
-
-
 
 
   - Obtain senior management approval for entering into, or continuing, a business
@@ -1636,11 +1537,6 @@ services; or
 
 20
 --- Page 21 ---
-
-
-
-
-
 
 
   - they are very complex compared with other, similar, transactions associated with
@@ -1730,10 +1626,6 @@ the nature and purpose of the business relationship is legitimate and to help fi
 --- Page 22 ---
 
 
-
-
-
-
 obtain a more complete customer risk profile. This may include obtaining information
 
 on:
@@ -1815,10 +1707,6 @@ transactions.
 
 22
 --- Page 23 ---
-
-
-
-
 
 
 61. Title III lists additional EDD measures that may be of particular relevance in different
@@ -1905,10 +1793,6 @@ particular:
 --- Page 24 ---
 
 
-
-
-
-
 i. regularly reviewing media reports that are relevant to the sectors or jurisdictions in
 
 which the firm is active;
@@ -1993,20 +1877,9 @@ and associated risk management measures are adequate.
 
 24
 --- Page 25 ---
-
-
 25
 
-
-
-
-
-
 --- Page 26 ---
-
-
-
-
 
 
 # Title III – Sector-s ecific uidelines p g
@@ -2038,10 +1911,6 @@ identified.
 
 26
 --- Page 27 ---
-
-
-
-
 
 
 ## Chapter 1: Sectoral guidelines for correspondent banks
@@ -2126,11 +1995,6 @@ respondent bank.
 
 27
 --- Page 28 ---
-
-
-
-
-
 
 
   - The transaction relates to the selling, buying or pledging of securities on regulated
@@ -2220,11 +2084,6 @@ Country or geographical risk factors
 --- Page 29 ---
 
 
-
-
-
-
-
   - The respondent is based in a jurisdiction associated with higher ML/TF risk. Firms
 
 should pay particular attention to those jurisdictions
@@ -2307,11 +2166,6 @@ status, reputation and AML controls of the parent.
 
 29
 --- Page 30 ---
-
-
-
-
-
 
 
   - Establish and document the nature and purpose of the service provided, as well as the
@@ -2401,10 +2255,6 @@ set out in Article 13 of Directive (EU) 2015/849.
 --- Page 31 ---
 
 
-
-
-
-
 90. Correspondents must apply each of these EDD measures to respondents based in a non
 EEA country, but correspondents can adjust the extent of these measures on a risk
 sensitive basis. For example, if the correspondent is satisfied, based on adequate
@@ -2491,11 +2341,6 @@ that risk effectively.
 --- Page 32 ---
 
 
-
-
-
-
-
   - Document the responsibilities of each institution. This may be part of the
 
 correspondent’s standard terms and conditions but correspondents should set out, in
@@ -2549,13 +2394,7 @@ and (b).
 32
 --- Page 33 ---
 
-
-
-
 ## Chapter 2: Sectoral guidelines for retail banks
-
-
-
 95. For the purpose of these guidelines, retail banking means the provision of banking services
 
 to natural persons and small and medium-sized enterprises. Examples of retail banking
@@ -2641,10 +2480,6 @@ ii. a product where the benefits cannot be realised for the benefit of a third p
 --- Page 34 ---
 
 
-
-
-
-
 iii. a product where the benefits are only realisable in the long term or for a specific
 
 purpose, such as retirement or a property purchase;
@@ -2725,10 +2560,6 @@ seekers from higher-risk third countries or territories’: [http://www.eba.euro
 
 34
 --- Page 35 ---
-
-
-
-
 
 
 vii. The customer’s beneficial owner cannot easily be identified, for example because the
@@ -2819,11 +2650,6 @@ Distribution channel risk factors
 --- Page 36 ---
 
 
-
-
-
-
-
   - non-face-to-face business relationships, where no adequate additional safeguards –
 
 for example electronic signatures, electronic identification certificates issued in
@@ -2909,10 +2735,6 @@ legitimate;
 
 36
 --- Page 37 ---
-
-
-
-
 
 
 iii. the purpose of the transaction, including, where appropriate, the destination of the
@@ -3001,10 +2823,6 @@ belong to the customer’s own clients, the bank should apply full CDD measures,
 --- Page 38 ---
 
 
-
-
-
-
 treating the customer’s clients as the beneficial owners of funds held in the pooled
 
 account and verifying their identities.
@@ -3087,10 +2905,6 @@ owners (but not the customer’s underlying clients);
 --- Page 39 ---
 
 
-
-
-
-
 ## Chapter 3: Sectoral guidelines for electronic money issuers
 
 113. This chapter provides guidelines for electronic money issuers (e-money issuers) as defined
@@ -3168,10 +2982,6 @@ ii. is accepted as a means of payment by a large number of merchants or points o
 
 39
 --- Page 40 ---
-
-
-
-
 
 
 iii. is designed specifically to be accepted as a means of payment by merchants dealing in
@@ -3264,11 +3074,6 @@ issuer (e.g. the product is used from several IP addresses at the same time).
 --- Page 41 ---
 
 
-
-
-
-
-
   - There are frequent changes in the customer’s identification data, such as home address
 
 or IP address, or linked bank accounts.
@@ -3346,14 +3151,7 @@ terrorism or proliferation.
 
 41
 --- Page 42 ---
-
-
 **Measures**
-
-
-
-
-
 
 122. National legislation may provide for an exemption from identification and verification of
 
@@ -3436,11 +3234,6 @@ intend to transfer E-money;
 
 42
 --- Page 43 ---
-
-
-
-
-
 
 
   - obtaining information about the merchant/payee, in particular where the E-money
@@ -3527,13 +3320,7 @@ presenting a low risk for both terrorist financing and money laundering purposes
 43
 --- Page 44 ---
 
-
-
-
 ## Chapter 4: Sectoral guidelines for money remitters
-
-
-
 128. Money remitters are payment institutions that have been authorised in line with Directive
 /EC to provide and execute payment services throughout the EU. The businesses
 
@@ -3615,17 +3402,10 @@ i. The customer owns or operates a business that handles large amounts of cash.
 44
 --- Page 45 ---
 
-
-
-
 ii. The customer’s business has a complicated ownership structure.
 
 
   - The customer’s behaviour:
-
-
-
-
 i. The customer’s needs may be better serviced elsewhere, for example because the
 
 money remitter is not local to the customer or the customer’s business.
@@ -3702,11 +3482,6 @@ accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (Text
 
 45
 --- Page 46 ---
-
-
-
-
-
 
 
   - There are no restrictions on the funding instrument, for example in the case of cash or
@@ -3799,10 +3574,6 @@ consider which monitoring systems and controls they put in place to ensure that 
 --- Page 47 ---
 
 
-
-
-
-
 detect money-laundering and terrorist financing attempts even where the CDD
 
 information they hold on the customer is basic or missing because no business
@@ -3885,11 +3656,6 @@ provided by the agent and could be based on the money remitter’s CDD procedure
 --- Page 48 ---
 
 
-
-
-
-
-
   - Taking reasonable measures to satisfy themselves that the agent’s AML/CFT internal
 
 controls are appropriate and remain appropriate throughout the agency relationship, for
@@ -3916,10 +3682,6 @@ money remitter expects.
 
 48
 --- Page 49 ---
-
-
-
-
 
 
 ## Chapter 5: Sectoral guidelines for wealth management
@@ -4002,11 +3764,6 @@ particularly where the identity of the ultimate beneficial owner may be unclear;
 
 49
 --- Page 50 ---
-
-
-
-
-
 
 
   - business taking place across multiple countries, particularly where it involves multiple
@@ -4093,10 +3850,6 @@ manager’s close contact with the customer will facilitate the collection of in
 
 50
 --- Page 51 ---
-
-
-
-
 
 
 that allows a fuller picture of the purpose and nature of the customer’s business to be
@@ -4189,10 +3942,6 @@ each transaction as it occurs, to detect unusual or suspicious activity. This ma
 --- Page 52 ---
 
 
-
-
-
-
 measures to determine whether any of the following are out of line with the business
 
 risk profile:
@@ -4243,10 +3992,6 @@ Simplified customer due diligence
 
 52
 --- Page 53 ---
-
-
-
-
 
 
 ## Chapter 6: Sectoral guidelines for trade finance providers
@@ -4333,14 +4078,7 @@ may also be relevant in this context.
 
 53
 --- Page 54 ---
-
-
 **Risk factors**
-
-
-
-
-
 
 158. Banks party to trade finance transactions often have access only to partial information
 
@@ -4429,11 +4167,6 @@ commercial reason.
 --- Page 55 ---
 
 
-
-
-
-
-
   - Transactions involve established counterparties that have a proven track record of
 
 transacting with each other and due diligence has previously been carried out.
@@ -4517,11 +4250,6 @@ those related to the narcotics trade, smuggling or counterfeiting) or free trade
 
 55
 --- Page 56 ---
-
-
-
-
-
 
 
   - Countries associated with the transaction have an AML/CFT regime not less robust
@@ -4613,11 +4341,6 @@ and up-to-date pricing information can be obtained;
 --- Page 57 ---
 
 
-
-
-
-
-
   - checking that the weights and volumes of goods being shipped are consistent with
 
 the shipping method.
@@ -4652,10 +4375,6 @@ existing controls to meet their AML/CFT obligations.
 
 57
 --- Page 58 ---
-
-
-
-
 
 
 ## Chapter 7: Sectoral guidelines for life insurance undertakings
@@ -4743,14 +4462,7 @@ ii. used as collateral for a loan.
 58
 --- Page 59 ---
 
-
-
-
 181. Factors that may contribute to reducing risk include: The product:
-
-
-
-
   - only pays out against a pre-defined event, for example death, or on a specific date,
 
 such as in the case of credit life insurance policies covering consumer and mortgage
@@ -4838,17 +4550,10 @@ shareholders and/or shares in bearer form.
 59
 --- Page 60 ---
 
-
-
-
-
   - The customer’s behaviour:
 
 
 i. In relation to the contract, for example:
-
-
-
 a. the customer frequently transfers the contract to another insurer;
 b. frequent and unexplained surrenders, especially when the refund is done to
 different bank accounts;
@@ -4917,17 +4622,10 @@ and return it for a full refund.
 60
 --- Page 61 ---
 
-
-
-
 Distribution channel risk factors
 
 
 184. The following factors may contribute to increasing risk:
-
-
-
-
   - non-face-to-face sales, such as online, postal or telephone sales, without adequate
 
 safeguards, such as electronic signatures or electronic identification documents that
@@ -5004,14 +4702,7 @@ other criminal activity.
 
 61
 --- Page 62 ---
-
-
 **Measures**
-
-
-
-
-
 
 188. Article 13(5) of Directive (EU) 2015/849 provides that, for life insurance business, firms
 
@@ -5097,10 +4788,6 @@ vi. verifying identities on the basis of more than one reliable and independent 
 --- Page 63 ---
 
 
-
-
-
-
 vii. establishing the customer’s source of wealth and source of funds, for example
 
 employment and salary details, inheritance or divorce settlements;
@@ -5171,13 +4858,7 @@ beneficiary’s name at a regulated EEA credit institution.
 63
 --- Page 64 ---
 
-
-
-
 ## Chapter 8: Sectoral guidelines for investment firms
-
-
-
 195. Investment management is the management of an investor’s assets to achieve specific
 
 investment goals. It includes both discretionary investment management, where
@@ -5259,10 +4940,6 @@ v. frequent changes to CDD information or payment details;
 --- Page 65 ---
 
 
-
-
-
-
 vi. the customer transfers funds in excess of those required for the investment and asks for
 
 surplus amounts to be reimbursed;
@@ -5341,14 +5018,7 @@ risk.
 
 65
 --- Page 66 ---
-
-
 **Measures**
-
-
-
-
-
 
 202. Investment managers typically need to develop a good understanding of their customers
 
@@ -5379,10 +5049,6 @@ guidelines set out in Title II in low-risk situations.
 
 66
 --- Page 67 ---
-
-
-
-
 
 
 ## Chapter 9: Sectoral guidelines for providers of investment funds
@@ -5470,10 +5136,6 @@ relevant chapters in these guidelines as appropriate.
 
 67
 --- Page 68 ---
-
-
-
-
 
 
 209. For funds and fund managers, the sectoral guidelines in Title III, Chapters 1, 7 and 8, may
@@ -5565,10 +5227,6 @@ time without an obvious strategy or economic rationale.
 --- Page 69 ---
 
 
-
-
-
-
 v. The customer transfers funds in excess of those required for the investment and asks for
 
 surplus amounts to be reimbursed.
@@ -5658,11 +5316,6 @@ Country or geographical risk factors
 --- Page 70 ---
 
 
-
-
-
-
-
   - Investors’ monies have been generated in jurisdictions associated with higher ML/TF
 
 risk, in particular those associated with higher levels of predicate offences to money
@@ -5748,11 +5401,6 @@ fund or fund manager should apply in high-risk situations include:
 
 70
 --- Page 71 ---
-
-
-
-
-
 
 
   - obtaining additional customer information, such as the customer’s reputation and
@@ -5844,10 +5492,6 @@ risk associated with the business relationship is low, based on, inter alia, the
 --- Page 72 ---
 
 
-
-
-
-
 fund manager’s assessment of the financial intermediary’s business, the types of clients
 
 the intermediary’s business serves and the jurisdictions the intermediary’s business is
@@ -5924,21 +5568,3 @@ number of investors, EDD measures must apply and may include those set out in pa
 
 72
 --- Page 73 ---
-
-
-
-
-# Title IV – Im lementation p
-
-Implementation
-
-
-
-
-227. Competent authorities and firms should comply with these guidelines by 26 June 2018.
-
-
-
-73
-
-

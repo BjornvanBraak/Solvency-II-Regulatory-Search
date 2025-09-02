@@ -1,4 +1,3 @@
-
 --- Page 1 ---
 # **Technical Annexes**
 
@@ -769,50 +768,3 @@ the actual quarter and each of the three preceding quarters.
 
 **13) Gross combined Ratio**
 --- Page 12 ---
-This ratio is a measure of the underwriting performance of a non-life insurance or
-[reinsurance undertaking or group. The result is expressed as a percentage and a](http://www.investorwords.com/7202/result.html)
-value below 100% indicates that the company is making underwriting profit while a
-ratio above 100% means that it is paying out more money in claims and expenses
-that it is receiving from premiums. The gross combined ratio is comprised of the loss
-ratio and the expense ratio.
-
-
-The sum of incurred losses and expenses (the numerator) is divided by the amount of
-premiums earned (the denominator).
-
-
-The ratio can be calculated using the templates to be received under the regular
-supervisory reporting as required by Article 35 of Directive 2009/138/EC. The value of
-the numerator can be obtained from the relevant template where non-life
-undertakings and groups report claims paid under the various lines of business and
-total Expenses.
-
-
-The value of the denominator can be obtained from the relevant template where
-undertakings and groups report gross premiums earned under the various lines of
-
-business.
-
-
-**14) Reinsurance Part of Premiums**
-
-
-The ratio is used to measure the amount of reliance on reinsurance the group or
-undertaking has.
-
-
-The amount of premiums ceded to a reinsurer (the numerator) is divided by the total
-amount of premiums earned (the denominator).
-
-
-The ratio can be calculated using the templates to be received under the regular
-supervisory reporting as required by Article 35 of Directive 2009/138/EC.
-
-
-The numerator can be computed, annually and quarterly, on the basis of the relevant
-template where undertakings and groups report the reinsurers’ share of premium
-earned for non-life and for life and the denominator can be computed on the basis of
-the relevant template where undertakings and groups report the total amount of
-premiums earned for non-life and for life.
-
-

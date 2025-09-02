@@ -1,19 +1,11 @@
 
 --- Page 1 ---
 EIOPA-BoS-14/172 EN
-
-
-
-
-
-!A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
+<image>
+A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
 
 Guidelines on basis risk
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/

@@ -1,23 +1,20 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/259 EN
 
 
 Guidelines on own risk and solvency
+<image>
+A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
 
+Guidelines on own risk and solvency
+</image>
 
-
-
-
-!A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
-
-Guidelines on own risk and solvency](#)
 
 
 <image>
-![A title slide with the heading "Guidelines on own risk and solvency assessment" in black bold text on a light blue background.
+A title slide with the heading "Guidelines on own risk and solvency assessment" in black bold text on a light blue background.
 Guidelines on own risk and solvency
-assessment](#)
+assessment
 </image>
 
 
@@ -25,18 +22,18 @@ assessment](#)
 
 
 <image>
-![A concise summary of the image shows the word "assessment" in a bold, black, sans-serif font, centered on a solid light blue background.
+A concise summary of the image shows the word "assessment" in a bold, black, sans-serif font, centered on a solid light blue background.
 
 assessment
+</image>
+
 
 
 
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 
-[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu)
-</image>
- [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu) [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **Guidelines on own risk and solvency assessment**
 
@@ -483,61 +480,3 @@ b) a description of how the governance requirements are met at the level of
 these undertakings and in particular how the AMSBs of the subsidiaries are
 involved in the assessment process and approval of the outcome;
 --- Page 8 ---
-c) a description of how the single ORSA document is organised in order to allow
-
-the group supervisor to separate individual assessments for the other
-supervisors in the college;
-
-
-d) where necessary, a specific indication on required translations, with specific
-
-attention to timing and content.
-
-
-#### **Guideline 20 – Integration of related third-country insurance and re-**
-**insurance undertakings**
-
-
-1.36. In the assessment of the group overall solvency needs, the participating
-
-insurance or reinsurance undertaking, the insurance holding company or the
-mixed financial holding company should include the risks of the business in
-third countries in a consistent manner as it does for European Economic Areabusiness with special attention to the assessment of transferability and
-fungibility of capital.
-
-
-**Compliance and Reporting Rules**
-
-
-1.37. This document contains Guidelines issued under Article 16 of the EIOPA
-
-
-Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
-competent authorities and financial institutions shall make every effort to
-comply with guidelines and recommendations.
-
-
-1.38. Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.39. Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.40. In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.41. The present Guidelines shall be subject to a review by EIOPA.
-
-

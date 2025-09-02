@@ -1,7 +1,4 @@
-
 --- Page 1 ---
-
-
 JC 2024 34
 
 
@@ -23,7 +20,6 @@ is a delay in finalising these Guidelines, the latest day of application of thes
 two months following the date of the publication of the translations of these Guidelines in all
 official EU languages.
 --- Page 2 ---
-
 # Joint Guidelines on the estimation of aggregated annual costs and losses caused b ma or ICT-related incidents y j
 
 ## Status of these Joint Guidelines
@@ -84,7 +80,6 @@ Commission Decision 2009/77/EC, (OJ L 331, 15.12.2010, p. 84 119)
 
 2
 --- Page 3 ---
-
 ## Title I - Subject matter, scope, addressees, and definitions
 
 **Subject matter and Scope of application**
@@ -134,7 +129,6 @@ No 909/2014 and (EU) 2016/1011, ( _OJ L 333, 27.12.2022, p. 1_ _79)_
 
 3
 --- Page 4 ---
-
 ## Title III- Provisions on the estimation of aggregated annual costs and losses of major ICT-related incidents
 
 5. Financial entities should estimate the aggregate annual costs and losses of major ICT-related
@@ -217,8 +211,6 @@ threat [ _[OJ L, 2025/302, 20.2.2025, ELI: http://data.europa.eu/eli/reg_impl/20
 
 4
 --- Page 5 ---
-
-
 (c) financial entities should aggregate the gross costs and losses and the financial recoveries across
 
 
@@ -271,36 +263,3 @@ report in accordance with Article 19(4)(c) of Regulation (EU) 2022/2554.
 
 5
 --- Page 6 ---
-
-## Annex: Reporting template for gross costs and losses and financial recoveries in a reference year
-
-
-
-
-
-
-
-
-<table>
-|Name of the financial entity|Col2|Col3|Col4|Col5|
-|---|---|---|---|---|
-|Legal Entity Identifier|Legal Entity Identifier|Legal Entity Identifier|||
-|Start and end date of the reference year of the<br>financial entity|Start and end date of the reference year of the<br>financial entity|Start and end date of the reference year of the<br>financial entity|||
-|Currency<br>|Currency<br>|Currency<br>|Currency<br>|Currency<br>|
-|Number of<br>incident|Date of the<br>submission of the<br>final incident report|Incident<br>reference<br>number|Gross costs and losses<br>of the incident in the<br>reference year (1000s of<br>units)|Recoveries of the<br>incident in the<br>reference year<br>(1000s of units)|
-|1|||||
-|2|||||
-|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|… <br> <br> <br> <br> <br>Total for<br>reference<br>year<br>-----------<br>-----------<br> <br>|
-|Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|Total for<br>reference<br>year|
-</table>
-
-
-6
-
-
-
-
-
-
-
-

@@ -1,7 +1,4 @@
-
 --- Page 1 ---
-
-
 ESAs Regular Use
 ESA 2024 24
 
@@ -60,13 +57,11 @@ specified below through the following contact details:
 
 1
 --- Page 2 ---
-
-
 EIOPA
 
 Postal address: Westhafenplatz 1, 60327 Frankfurt am Main, Germany
 
-Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
+[Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
 
 B) When a request is related to the personal data inserted in the ESAs Information System by the
 CAs, this request will be redirected to the CA from which the data originated.
@@ -122,8 +117,6 @@ provided in point (II) above.
 
 2
 --- Page 3 ---
-
-
 Data subjects may request access to the essence of the joint controllership arrangement
 concluded between the Joint Controllers pursuant to Article 28 of EUDPR.
 
@@ -142,8 +135,6 @@ as provided in Article 63 of the Regulation **.**
 
 3
 --- Page 4 ---
-
-
 **APPENDIX – ESSENTIAL ELEMENTS OF PROCESSING BY THE ESA** **S**
 
 
@@ -170,11 +161,8 @@ as provided in Article 63 of the Regulation **.**
 
 4
 --- Page 5 ---
-
-
-
 <image>
-![This is a table detailing the setup, functioning, and maintenance of the ESAs Information System. It outlines the data subjects, which include persons of interest and end-users, and the types of data processed, such as identification and contact information. The table specifies a data retention period of fifteen years and notes a joint controllership between the ESAs, with EIOPA also mentioned.
+This is a table detailing the setup, functioning, and maintenance of the ESAs Information System. It outlines the data subjects, which include persons of interest and end-users, and the types of data processed, such as identification and contact information. The table specifies a data retention period of fifteen years and notes a joint controllership between the ESAs, with EIOPA also mentioned.
 
 2. Setting up, functioning and maintainance of the ESAs Information System
 Potentially:
@@ -190,7 +178,7 @@ Fifteen years (15).
 Shorter retention periods may apply in line with applicable legislation.
 - For the contact data of the users of the ESAs Information System, the retention period explained in 1. above.
 Joint controllership between the ESAs.
-EIOPA](#)
+EIOPA
 </image>
 
 
@@ -212,41 +200,3 @@ EIOPA](#)
 
 5
 --- Page 6 ---
-
-
-**ESSENTIAL ELEMENTS OF PROCESSING BY THE CAS**
-
-
-
-![A table detailing the policies for personal data inserted by Competent Authorities (CAs) into the European Supervisory Authorities (ESAs) Information System for supervisory purposes. The table covers data subjects, types of identification data, legal basis, data recipients (CAs or ECB), a fifteen-year retention period, and separate data controllership.
-
-Personal data inserted by CA(s) in the ESAs Information System for fulfilling their supervisory purposes
-Persons of interest subject to fit and proper assessment
-- Identification data (first name(s), surname/family name, date of birth, place of birth, birth name, other names used by the person)
-- National and EU laws, as applicable, providing for the collection of information on fitness and propriety
-- ECB's Founding Regulation
-- Relevant CA or the ECB
-Fifteen years (15)
-Shorter retention periods may apply in line with applicable legislation.
-Separate controllership for the ECB and each of the CAs
-CAs (ECB or CAs) that initially created the data input into the ESAs Information System.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6
-
-

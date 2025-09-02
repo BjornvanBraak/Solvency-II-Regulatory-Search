@@ -1,25 +1,19 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/146 EN
 
 
 Guidelines on operational functioning of
-
-
-
-
-
-!A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
-Guidelines on operational functioning of](#)
-
-
-
-
-
-![A concise summary of the word "colleges" in black bold text on a light blue background.
+<image>
+A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
+Guidelines on operational functioning of
+</image>
+<image>
+A concise summary of the word "colleges" in black bold text on a light blue background.
 
 -
 colleges
+</image>
+
 
 
 
@@ -2393,22 +2387,3 @@ insurance supervisory authority
 </table>
 
 --- Page 38 ---
-
-<table>
-|21|ORSA|Information on eventual additional ORSA’s on<br>account of significant change in risk profile<br>including proposed management actions<br>considered necessary and planned capital<br>measures.|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
-|---|---|---|---|
-||**Risk information**|**Risk information**|**Risk information**|
-|22|New, emerging<br>internal or<br>external risks of<br>a material nature|Details on emerging risks and information on<br>their actual or potential impact as well as<br>identified mitigation plans (whether planned<br>or already in place).|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
-|23|Prudent person<br>principle|Concerns on the compliance with the prudent<br>person principle (e.g. risk of a negative<br>overall return).|RSR, IS,<br>GS|
-|24|Liquidity risk|Concerns on liquidity problems. Information<br>on the liquidity position, the sources of<br>liquidity and short term liabilities.|RSR, IS,<br>GS|
-|25|Risk sensitivity|Information on relevant stress tests and<br>scenario analysis.|RSR, IS,<br>GS|
-||**Solvency and Financial Condition**|**Solvency and Financial Condition**|**Solvency and Financial Condition**|
-|26|Balance sheet,<br>own funds and<br>capital<br>requirements|Last reported templates on balance-sheet and<br>own funds|Quantitativ<br>e Reporting<br>Templates,<br>IS, GS|
-|27|Changes in own<br>funds levels,<br>MCR, SCR,<br>technical<br>provisions and/or<br>other balance<br>sheet items|Amount and reason for the changes and<br>consideration of any potential or actual<br>consequence of those changes. In relation to<br>technical provisions, information can include<br>details on emergence of any future claims<br>that have not been include in previous<br>reported technical provisions.|RSR<br>following<br>pre-defined<br>events,<br>IS, GS|
-|28|Availability of<br>capital|A description of any item deducted from own<br>funds and a brief description of any significant<br>restriction<br>affecting<br>the<br>availability<br>and<br>transferability<br>of<br>own<br>funds<br>within<br>the<br>undertaking or group. Capital ability to absorb<br>the impact of the crisis. Group’s ability to<br>raise additional capital and an indication<br>where it may be able to source this capital<br>from.|SFCR and<br>RSR, GS,<br>IS|
-|29|Allocation of<br>capital and<br>possibility of<br>transferability|If available, how the capital is allocated within<br>the group and discussion on the possibility of<br>transferring the capital within the group (e.g.<br>through intra-company loans, reinsurance<br>dividends).|RSR: GS|
-</table>
-
-
-
-

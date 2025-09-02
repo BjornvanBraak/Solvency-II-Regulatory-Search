@@ -1,31 +1,32 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/178 EN
 
 
 Guidelines on undertaking-specific
+<image>
+A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
 
+Guidelines on undertaking-specific
+</image>
 
-
-
-
-!A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
-
-Guidelines on undertaking-specific](#)
 
 
 <image>
-![A title slide with the heading "Guidelines on undertaking-specific parameters" in bold black text on a light blue background.
+A title slide with the heading "Guidelines on undertaking-specific parameters" in bold black text on a light blue background.
 Guidelines on undertaking-specific
-parameters](#)
+parameters
 </image>
 
 
 
 
-![A concise summary of the image for retrieval: The word 'parameters' in bold black text with a drop shadow on a light blue background.
+
+<image>
+A concise summary of the image for retrieval: The word 'parameters' in bold black text with a drop shadow on a light blue background.
 
 parameters
+</image>
+
 
 
 
@@ -393,45 +394,3 @@ application is rejected, it should inform the college of supervisors about the
 
 main reasons for its decision.
 --- Page 7 ---
-1.39. Prior to making its final decision on the application to use group-specific
-
-parameters, the group supervisor should consider the decisions by the
-supervisory authorities on the applications of individual undertakings included in
-the scope of group solvency calculation to use undertaking-specific parameters.
-
-
-**Compliance and Reporting Rules**
-
-
-1.40. This document contains Guidelines issued under Article 16 of the EIOPA
-
-
-Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
-Competent Authorities and financial institutions shall make every effort to
-comply with guidelines and recommendations.
-
-
-1.41. Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.42. Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.43. In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.44. The present Guidelines shall be subject to a review by EIOPA.
-
-

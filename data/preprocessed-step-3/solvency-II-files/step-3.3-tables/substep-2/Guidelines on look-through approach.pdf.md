@@ -1,18 +1,9 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/171 EN
-
-
-
-
-
-!A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
+<image>
+A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
 Guidelines on look-through approach
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
@@ -230,38 +221,3 @@ requirements for risk-mitigation techniques set out in Articles 208 to 215 of
 Commission Delegated Regulation 2015/35 to increase in value when the
 stresses in the life underwriting risk module are applied.
 --- Page 5 ---
-**Compliance and Reporting Rules**
-
-
-1.29 This document contains Guidelines issued under Article 16 of the EIOPA
-
-
-Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
-Competent Authorities and financial institutions shall make every effort to
-comply with guidelines and recommendations.
-
-
-1.30 Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.31 Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.32 In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.33 The present Guidelines shall be subject to a review by EIOPA.
-
-

@@ -1,7 +1,4 @@
-
 --- Page 1 ---
-
-
 EIOPA-BoS-14/259
 
 
@@ -12,7 +9,7 @@ EIOPA-BoS-14/259
 
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
-Fax. + 49 69-951119-19; email: info@eiopa.europa.eu](mailto:info@eiopa.europa.eu) site: [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+Fax. + 49 69-951119-19; email: [info@eiopa.europa.eu](mailto:info@eiopa.europa.eu) site: [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **Table of Contents**
 
@@ -752,10 +749,10 @@ considered as non-compliant to the reporting and reported as such.
 
 
 <image>
-![A slide outlining Guideline 1, the general approach for an undertaking's Own Risk and Solvency Assessment (ORSA). It specifies that processes must be tailored to the organization's structure, risk-management system, and the nature, scale, and complexity of its business risks.
+A slide outlining Guideline 1, the general approach for an undertaking's Own Risk and Solvency Assessment (ORSA). It specifies that processes must be tailored to the organization's structure, risk-management system, and the nature, scale, and complexity of its business risks.
 
-#### Guideline 1 – General approach
-The undertaking should develop for the ORSA its own processes with appropriate and adequate techniques, tailored to fit into its organisational structure and risk-management system and taking into consideration the nature, scale and complexity of the risks inherent to the business.](#)
+**Guideline 1 – General approach**
+The undertaking should develop for the ORSA its own processes with appropriate and adequate techniques, tailored to fit into its organisational structure and risk-management system and taking into consideration the nature, scale and complexity of the risks inherent to the business.
 </image>
 
 
@@ -830,10 +827,10 @@ included in the ORSA.
 
 
 <image>
-![A concise summary of Guideline 2, which defines the role of the AMSB using a top-down approach. The AMSB must actively participate in the ORSA, including steering the assessment and challenging its results.
+A concise summary of Guideline 2, which defines the role of the AMSB using a top-down approach. The AMSB must actively participate in the ORSA, including steering the assessment and challenging its results.
 
-#### Guideline 2 – Role of the AMSB: top-down approach
-The AMSB should take an active part in the ORSA, including steering, how the assessment is to be performed and challenging the results.](#)
+**Guideline 2 – Role of the AMSB: top-down approach**
+The AMSB should take an active part in the ORSA, including steering, how the assessment is to be performed and challenging the results.
 </image>
 
 
@@ -866,14 +863,14 @@ unexpectedly adverse circumstances.
 --- Page 17 ---
 
 <image>
-![A concise summary of Guideline 3 regarding documentation for the ORSA. The guideline specifies that an undertaking must have at least four types of documentation: a policy for the ORSA, a record of each ORSA, an internal report on each ORSA, and a supervisory report of the ORSA.
+A concise summary of Guideline 3 regarding documentation for the ORSA. The guideline specifies that an undertaking must have at least four types of documentation: a policy for the ORSA, a record of each ORSA, an internal report on each ORSA, and a supervisory report of the ORSA.
 
-#### Guideline 3 – Documentation
+**Guideline 3 – Documentation**
 The undertaking should have at least the following documentation on the ORSA:
 a) the policy for the ORSA;
 b) record of each ORSA;
 c) an internal report on each ORSA;
-d) a supervisory report of the ORSA.](#)
+d) a supervisory report of the ORSA.
 </image>
 
 
@@ -895,37 +892,6 @@ separate reports or documents are drafted; it can be sufficient to refer to
 existing documents where these contain the relevant information and just
 record additional information if and insofar as this is necessary to present the
 full picture.
-
-
-
-!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2.15. The AMSB ensures that the ORSA is appropriately designed and
 implemented.
 2.16. According to Article 41(3) of Solvency II undertakings are required to have a
@@ -935,10 +901,10 @@ undertakings have to develop a policy for ORSA.
 --- Page 18 ---
 
 <image>
-![A concise summary of Guideline 5, which mandates that undertakings must evidence and document each Own Risk and Solvency Assessment (ORSA) and its outcome to maintain a proper record.
+A concise summary of Guideline 5, which mandates that undertakings must evidence and document each Own Risk and Solvency Assessment (ORSA) and its outcome to maintain a proper record.
 
-#### Guideline 5 – Record of each ORSA
-The undertaking should evidence and document each ORSA and its outcome.](#)
+**Guideline 5 – Record of each ORSA**
+The undertaking should evidence and document each ORSA and its outcome.
 </image>
 
 
@@ -1029,10 +995,10 @@ m) a record of the challenge process performed by the AMSB.
 
 
 <image>
-![A concise summary of Guideline 6, which covers the internal reporting on the ORSA (Own Risk and Solvency Assessment). It states that the undertaking must communicate the results and conclusions of the ORSA to all relevant staff after the process and results have been approved by the AMSB.
+A concise summary of Guideline 6, which covers the internal reporting on the ORSA (Own Risk and Solvency Assessment). It states that the undertaking must communicate the results and conclusions of the ORSA to all relevant staff after the process and results have been approved by the AMSB.
 
-#### Guideline 6 – Internal reporting on the ORSA
-The undertaking should communicate to all relevant staff at least the results and conclusions of the ORSA, once the process and the results have been approved by the AMSB.](#)
+**Guideline 6 – Internal reporting on the ORSA**
+The undertaking should communicate to all relevant staff at least the results and conclusions of the ORSA, once the process and the results have been approved by the AMSB.
 </image>
 
 
@@ -1056,11 +1022,11 @@ the same report may be submitted to the supervisory authority.
 
 
 <image>
-![A concise summary of Guideline 7 regarding the assessment of overall solvency needs. It mandates that undertakings quantify capital needs and describe methods to address all material risks, regardless of their quantifiability. It also suggests using stress tests and scenario analyses to establish a solid foundation for this assessment.
+A concise summary of Guideline 7 regarding the assessment of overall solvency needs. It mandates that undertakings quantify capital needs and describe methods to address all material risks, regardless of their quantifiability. It also suggests using stress tests and scenario analyses to establish a solid foundation for this assessment.
 
-#### Guideline 7 – Assessment of the overall solvency needs
+**Guideline 7 – Assessment of the overall solvency needs**
 The undertaking should provide a quantification of the capital needs and a description of other means needed to address all material risks irrespective of whether the risks are quantifiable or not.
-Where appropriate, the undertaking should subject the identified material risks to a sufficiently wide range of stress tests or scenario analyses in order to provide an adequate basis for the assessment of the overall solvency needs.](#)
+Where appropriate, the undertaking should subject the identified material risks to a sufficiently wide range of stress tests or scenario analyses in order to provide an adequate basis for the assessment of the overall solvency needs.
 </image>
 
 
@@ -1188,10 +1154,10 @@ ORSA to that used in the internal model to calculate the SCR.
 
 
 <image>
-![A concise summary of Guideline 8, which states that an undertaking's assessment of its overall solvency needs must be forward-looking, incorporating a medium or long-term perspective as appropriate.
+A concise summary of Guideline 8, which states that an undertaking's assessment of its overall solvency needs must be forward-looking, incorporating a medium or long-term perspective as appropriate.
 
-#### Guideline 8 - Forward-looking perspective of the overall solvency needs assessment
-The undertaking should ensure that its assessment of the overall solvency needs is forward-looking, including a medium term or long term perspective as appropriate.](#)
+**Guideline 8 - Forward-looking perspective of the overall solvency needs assessment**
+The undertaking should ensure that its assessment of the overall solvency needs is forward-looking, including a medium term or long term perspective as appropriate.
 </image>
 
 
@@ -1245,11 +1211,11 @@ respond to unexpected changes in external factors.
 
 
 <image>
-![A concise summary of Guideline 9 concerning the valuation and recognition bases for overall solvency needs under Solvency II. It specifies that if an undertaking uses bases different from Solvency II, it must explain how these alternatives better align with its specific risk profile, risk tolerance, and business strategy. Furthermore, it mandates a quantitative estimation of the impact of these different bases on the overall solvency needs assessment.
+A concise summary of Guideline 9 concerning the valuation and recognition bases for overall solvency needs under Solvency II. It specifies that if an undertaking uses bases different from Solvency II, it must explain how these alternatives better align with its specific risk profile, risk tolerance, and business strategy. Furthermore, it mandates a quantitative estimation of the impact of these different bases on the overall solvency needs assessment.
 
-#### Guideline 9 – Valuation and recognition bases of the overall solvency needs
+**Guideline 9 – Valuation and recognition bases of the overall solvency needs**
 The undertaking should, if it uses recognition and valuation bases that are different from the Solvency II bases in the assessment of its overall solvency needs, explain how the use of such different recognition and valuation bases ensures better consideration of the specific risk profile, approved risk tolerance limits and business strategy of the undertaking, while complying with the requirement for a sound and prudent management of the business.
-The undertaking should quantitatively estimate the impact on the overall solvency needs assessment of the different recognition and valuation bases in those cases where recognition and valuation bases that are different from the Solvency II bases have been used in the assessment of its overall solvency needs.](#)
+The undertaking should quantitatively estimate the impact on the overall solvency needs assessment of the different recognition and valuation bases in those cases where recognition and valuation bases that are different from the Solvency II bases have been used in the assessment of its overall solvency needs.
 </image>
 
 
@@ -1266,13 +1232,13 @@ more suitable to its specific business and its risk profile.
 
 
 <image>
-![A concise summary of Guideline 10, which outlines the requirements for an undertaking to continuously comply with Solvency II regulatory capital requirements. The assessment must include analyzing potential changes in risk profile, the quantity and quality of own funds over the business planning period, and the composition of own funds across tiers.
+A concise summary of Guideline 10, which outlines the requirements for an undertaking to continuously comply with Solvency II regulatory capital requirements. The assessment must include analyzing potential changes in risk profile, the quantity and quality of own funds over the business planning period, and the composition of own funds across tiers.
 
-#### Guideline 10 – Continuous compliance with regulatory capital requirements
+**Guideline 10 – Continuous compliance with regulatory capital requirements**
 The undertaking should analyse whether it complies on a continuous basis with the Solvency II regulatory capital requirements and as part of this assessment it should include at least:
 a) the potential future material changes in its risk profile;
 b) the quantity and quality of its own funds over the whole of its business planning period;
-c) the composition of own funds across tiers and how this composition may change as a result of redemption, repayment and maturity dates during its business planning period.](#)
+c) the composition of own funds across tiers and how this composition may change as a result of redemption, repayment and maturity dates during its business planning period.
 </image>
 
 
@@ -1358,12 +1324,12 @@ events.
 --- Page 24 ---
 
 <image>
-![A concise summary of Guideline 11, which mandates that an undertaking's actuarial function must continuously assess compliance with technical provision calculation requirements and identify potential risks arising from uncertainties in these calculations.
+A concise summary of Guideline 11, which mandates that an undertaking's actuarial function must continuously assess compliance with technical provision calculation requirements and identify potential risks arising from uncertainties in these calculations.
 
-#### Guideline 11 – Continuous compliance with technical provisions
+**Guideline 11 – Continuous compliance with technical provisions**
 The undertaking should require the actuarial function of the undertaking to:
 a) provide input as to whether the undertaking would comply continuously with the requirements regarding the calculation of technical provisions;
-b) identify potential risks arising from the uncertainties connected to this calculation.](#)
+b) identify potential risks arising from the uncertainties connected to this calculation.
 </image>
 
 
@@ -1384,10 +1350,10 @@ information contained in the annual report of the actuarial function.
 
 
 <image>
-![A concise summary of Guideline 12, which addresses deviations from the assumptions underlying the Solvency Capital Requirement (SCR) calculation. It states that an undertaking must assess if its risk profile deviates significantly from these assumptions, starting with a qualitative analysis. If the deviation is not significant, a quantitative assessment is not required.
+A concise summary of Guideline 12, which addresses deviations from the assumptions underlying the Solvency Capital Requirement (SCR) calculation. It states that an undertaking must assess if its risk profile deviates significantly from these assumptions, starting with a qualitative analysis. If the deviation is not significant, a quantitative assessment is not required.
 
-#### Guideline 12 – Deviations from assumptions underlying the SCR calculation
-The undertaking should assess whether its risk profile deviates from the assumptions underlying the SCR calculation and whether these deviations are significant. The undertaking may as a first step perform a qualitative analysis and if that indicates that the deviation is not significant, a quantitative assessment is not required.](#)
+**Guideline 12 – Deviations from assumptions underlying the SCR calculation**
+The undertaking should assess whether its risk profile deviates from the assumptions underlying the SCR calculation and whether these deviations are significant. The undertaking may as a first step perform a qualitative analysis and if that indicates that the deviation is not significant, a quantitative assessment is not required.
 </image>
 
 
@@ -1534,13 +1500,13 @@ which may trigger a change to the internal model.
 
 
 <image>
-![A concise summary of Guideline 13, which mandates linking the Own Risk and Solvency Assessment (ORSA) to strategic management and decision-making. The guideline requires undertakings to incorporate ORSA results and insights into their capital management, business planning, and product development and design.
+A concise summary of Guideline 13, which mandates linking the Own Risk and Solvency Assessment (ORSA) to strategic management and decision-making. The guideline requires undertakings to incorporate ORSA results and insights into their capital management, business planning, and product development and design.
 
-#### Guideline 13 – Link to the strategic management process and decision-making framework
+**Guideline 13 – Link to the strategic management process and decision-making framework**
 The undertaking should take into account the results of the ORSA and the insights gained during the process of this assessment in at least:
 a) its capital management;
 b) its business planning;
-c) its product development and design.](#)
+c) its product development and design.
 </image>
 
 
@@ -1583,10 +1549,10 @@ of those systems and controls in a stress situation.
 --- Page 27 ---
 
 <image>
-![A concise summary of Guideline 14, which states that an undertaking must perform the ORSA (Own Risk and Solvency Assessment) at least once a year.
+A concise summary of Guideline 14, which states that an undertaking must perform the ORSA (Own Risk and Solvency Assessment) at least once a year.
 
-#### Guideline 14 – Frequency
-The undertaking should perform the ORSA at least annually.](#)
+**Guideline 14 – Frequency**
+The undertaking should perform the ORSA at least annually.
 </image>
 
 
@@ -1622,10 +1588,10 @@ changes, portfolio transfers or major changes to the mix of assets.
 
 
 <image>
-![A concise summary of Guideline 15, which outlines the scope of a group's Own Risk and Solvency Assessment (ORSA). The group ORSA must be designed to reflect the group's structure and risk profile, and it needs to cover all material risks from every entity within the group.
+A concise summary of Guideline 15, which outlines the scope of a group's Own Risk and Solvency Assessment (ORSA). The group ORSA must be designed to reflect the group's structure and risk profile, and it needs to cover all material risks from every entity within the group.
 
-#### Guideline 15 – Scope of group ORSA
-The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should design the group ORSA to reflect the nature of the group structure and its risk profile. They should cover in the group ORSA the material risks arising from all the entities that are part of the group.](#)
+**Guideline 15 – Scope of group ORSA**
+The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should design the group ORSA to reflect the nature of the group structure and its risk profile. They should cover in the group ORSA the material risks arising from all the entities that are part of the group.
 </image>
 
 
@@ -1726,11 +1692,11 @@ all non-regulated entities within the scope of the group.
 --- Page 29 ---
 
 <image>
-![A concise summary of Guideline 16 on reporting to supervisory authorities. It specifies that insurance, reinsurance, and holding companies must send their group supervisory ORSA report to the group supervisor. The report's language must match the group Regular Supervisory Reporting. If a single ORSA is performed, translations of relevant parts must be provided to college members in their official language upon request.
+A concise summary of Guideline 16 on reporting to supervisory authorities. It specifies that insurance, reinsurance, and holding companies must send their group supervisory ORSA report to the group supervisor. The report's language must match the group Regular Supervisory Reporting. If a single ORSA is performed, translations of relevant parts must be provided to college members in their official language upon request.
 
-#### Guideline 16 – Reporting to the supervisory authorities
+**Guideline 16 – Reporting to the supervisory authorities**
 The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should send to the group supervisor the group supervisory ORSA report. The document sent to the group supervisor with the outcome of the group ORSA should be in the same language as the group Regular Supervisory Reporting.
-If a single ORSA document has been performed, the participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should ensure that, if requested by a member or a new member of the college, a translation into the official language of that Member State of the part of the ORSA information concerning the related undertaking is provided to the requiring member, in timely manner.](#)
+If a single ORSA document has been performed, the participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should ensure that, if requested by a member or a new member of the college, a translation into the official language of that Member State of the part of the ORSA information concerning the related undertaking is provided to the requiring member, in timely manner.
 </image>
 
 
@@ -1795,9 +1761,9 @@ submission of the next ORSA.
 
 
 <image>
-![A concise summary of Guideline 17 which outlines the requirements for assessing group-specific risks and overall solvency needs for insurance and reinsurance groups. It specifies factors to be included in the Own Risk and Solvency Assessment (ORSA) record, such as sources of capital, capital transferability, strategic alignment, and specific group risks.
+A concise summary of Guideline 17 which outlines the requirements for assessing group-specific risks and overall solvency needs for insurance and reinsurance groups. It specifies factors to be included in the Own Risk and Solvency Assessment (ORSA) record, such as sources of capital, capital transferability, strategic alignment, and specific group risks.
 
-#### Guideline 17 – Group specificities on overall solvency needs
+**Guideline 17 – Group specificities on overall solvency needs**
 
 The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should adequately assess the impact of all group specific risks and interdependencies within the group and the impact of these risks and interdependencies on the overall solvency needs. They should take into consideration the specificities of the group and the fact that some risks may be scaled up at the level of the group.
 
@@ -1807,7 +1773,7 @@ a) the identification of the possible sources of capital within the group and id
 b) the assessment of availability, transferability or fungibility of capital;
 c) references to any envisaged transfer of capital within the group, which would have a material impact on any entity of the group, and its consequences;
 d) alignment of individual strategies with the ones established at the level of the group;
-e) specific risks the group could be exposed to.](#)
+e) specific risks the group could be exposed to.
 </image>
 
 
@@ -1873,58 +1839,8 @@ compared to the risk profile of the group and the overall solvency needs of
 the group. This assessment can be a part of any of the three assessments
 required in Article 45 (1) (a), (b) and (c) of Solvency II. It can also be
 presented in a separate part of the group ORSA report.
-
-
-
-!
-
-
-
-
-
-
-
 2.83. From a quantitative perspective, it is expected that the group ORSA policy
 
 outlines different stress tests and scenario analyses or any other relevant
 analysis.
 --- Page 32 ---
-![A concise summary of Guideline 19, detailing the specific requirements for a single ORSA (Own Risk and Solvency Assessment) document under Solvency II. The guideline lists four key pieces of information that insurance and reinsurance undertakings must provide to the group supervisor, including a list of covered undertakings, a description of governance, document organization, and details on required translations.
-
-#### Guideline 19 – Specific requirements for a single ORSA document
-In case of application to undertake the ORSA according to third subparagraph of Article 246(4) of Solvency II, the a list of the undertakings for which the individual assessments required by Article the insurance holding company or the mixed financial holding company should provide to the group supervisor:
-a) a list of the undertakings for which the individual assessments required by Article 45 of Solvency II are covered in the single ORSA document including the reason of the choice made;
-b) a description of how the governance requirements are met at the level of these undertakings and in particular how the AMSBs of the subsidiaries are involved in the assessment process and approval of the outcome;
-c) a description of how the single ORSA document is organised in order to allow the group supervisor to separate individual assessments for the other supervisors in the college;
-d) where necessary, a specific indication on required translations, with specific attention to timing and content.
-
-
-
-2.84. The single ORSA document needs to reflect the nature, scale and complexity
-
-of the group and the risks within it. The single document focuses on the
-material parts of the group, but according to Article 246(4) of Solvency II it
-does not exempt subsidiaries from the obligations relating to the ORSA at
-individual level. This means that the single document for ORSA also has to
-document the assessments undertaken by insurance and reinsurance
-subsidiary undertakings at the individual level according to Article 45 of
-Solvency II.
-2.85. If a group plans to submit a single group report for the ORSA, the AMSB of
-
-the entity responsible for fulfilling the group requirements needs to take into
-consideration the following criteria when assessing the appropriateness of
-submitting a single group document:
-
-
-a) the results of each subsidiary concerned are individually identifiable in the
-
-structure foreseen for the single document for ORSA to enable a proper
-supervisory review process to be carried out at the individual level by the
-individual supervisors concerned;
-
-
-b) the single report of the ORSA satisfies the requirements of both the group
-
-supervisor as well as the individual supervisors concerned.
-
-

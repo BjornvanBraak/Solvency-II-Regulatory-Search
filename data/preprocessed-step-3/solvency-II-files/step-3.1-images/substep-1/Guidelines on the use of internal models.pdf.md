@@ -3,15 +3,6 @@
 EIOPA-BoS-14/180 EN
 
 
-
-
-
-
-
-
-
-
-
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/

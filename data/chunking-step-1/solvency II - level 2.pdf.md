@@ -6,7 +6,7 @@
 --- Page 2 ---
 
 
-!
+
 
 
 
@@ -77,7 +77,7 @@ premiums and obligations. The following example illustrates this point:
 
 5. Example: The contract covers the risk of the following year for premiums paid during the
 
-year (e.g. paid on the 31 st] of December). If an insured event occurs, the actual payments
+year (e.g. paid on the 31 [st] of December). If an insured event occurs, the actual payments
 
 (cash flows) may occur spread across three years. The undertaking has the right to amend
 
@@ -150,15 +150,11 @@ related to previous obligations should be projected beyond t+1.
 
 
 
-
-<image>
-![A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
+A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
 ****** END OF CHUNK ******
 
 ****** Chunk 6: *****
 Insurance and reinsurance undertakings should ensure that the principles for determining contract boundaries are consistently applied to all insurance and reinsurance contracts, in particular over time.](#)
-</image>
-
 --- Page 4 ---
 
 
@@ -312,7 +308,7 @@ contracts with scheduled future premiums.
 --- Page 6 ---
 
 
-!
+
 
 **Explanatory text**
 
@@ -636,7 +632,7 @@ unbundled, the periodical charges should not be considered to be equivalent to p
 
 so they are to be projected regardless of contract boundaries.
 
-!
+
 --- Page 11 ---
 
 
@@ -812,7 +808,7 @@ When determining whether a cover provides a discernible financial advantage, ins
 --- Page 13 ---
 
 
-!
+
 
 **Explanatory text**
 
@@ -921,7 +917,7 @@ assessment.
 
 
 
-!
+
 --- Page 15 ---
 
 
@@ -952,14 +948,11 @@ contract.
 39. While Guidelines 6a and 6b already envisage the consideration of potential future scenarios
 
 (e.g. using stochastic valuation in the quantitative assessment), changes in the economic
+
+environment may require a reassessment to ensure that contract boundaries properly
 ****** END OF CHUNK ******
 
 ****** Chunk 38: *****
-contract.
-
-
-39. While Guidelines 6a and 6b already envisage the consideration of potential future scenarios
-
 (e.g. using stochastic valuation in the quantitative assessment), changes in the economic
 
 environment may require a reassessment to ensure that contract boundaries properly
@@ -981,11 +974,12 @@ necessarily mean that any change in the risk-free rate term structure beyond the
 
 rate stress in the Standard Formula should be considered to be extreme.
 --- Page 16 ---
+
+
+41. To determine whether the change in the risk-free rate is extreme or not, undertakings may
 ****** END OF CHUNK ******
 
 ****** Chunk 39: *****
-necessarily mean that any change in the risk-free rate term structure beyond the interest
-
 rate stress in the Standard Formula should be considered to be extreme.
 --- Page 16 ---
 
@@ -1006,12 +1000,11 @@ the change in the risk-free rate term structure would not be considered to be ex
 
 
 42. The outcome of a quantitative assessment has clearly changed only in case there has been
+
+a material change in the ratio compared to the outcome at when the assessment used to
 ****** END OF CHUNK ******
 
 ****** Chunk 40: *****
-the change in the risk-free rate term structure would not be considered to be extreme.
-
-
 42. The outcome of a quantitative assessment has clearly changed only in case there has been
 
 a material change in the ratio compared to the outcome at when the assessment used to
@@ -1030,11 +1023,11 @@ as it does not lead to clearly different conclusion compared to the previous ass
 43. The point in time when the reassessment is performed may have an impact on the outcome,
 
 regardless of the economic conditions (e.g. assessment performed at inception vs.
+
+reassessment performed at year t). If undertakings do not properly consider this effect, the
 ****** END OF CHUNK ******
 
 ****** Chunk 41: *****
-43. The point in time when the reassessment is performed may have an impact on the outcome,
-
 regardless of the economic conditions (e.g. assessment performed at inception vs.
 
 reassessment performed at year t). If undertakings do not properly consider this effect, the
@@ -1055,11 +1048,11 @@ considered to be a material change as describe in Article 312(3) of the Delegate
 Regulation. Therefore, the undertaking should include a detailed description of the
 
 reassessment and its impact on the solvency position of the undertaking in the annual
+
+report mentioned in that article. If the undertaking was already issuing that annual report,
 ****** END OF CHUNK ******
 
 ****** Chunk 42: *****
-Regulation. Therefore, the undertaking should include a detailed description of the
-
 reassessment and its impact on the solvency position of the undertaking in the annual
 
 report mentioned in that article. If the undertaking was already issuing that annual report,
@@ -1080,11 +1073,11 @@ for those that are stressing the economic environment, i.e. contract boundaries 
 change in SCR calculations. The objective of the SCR is to assess the losses that the
 
 undertaking would face in extreme (1 in 200) scenarios. However, changes in contract
+
+boundaries do not reflect losses for the undertaking but only changes in the scope of the
 ****** END OF CHUNK ******
 
 ****** Chunk 43: *****
-change in SCR calculations. The objective of the SCR is to assess the losses that the
-
 undertaking would face in extreme (1 in 200) scenarios. However, changes in contract
 
 boundaries do not reflect losses for the undertaking but only changes in the scope of the
@@ -1256,7 +1249,7 @@ EIOPA-BoS-14/259
 ****** Chunk 51: *****
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
-Fax. + 49 69-951119-19; email: info@eiopa.europa.eu](mailto:info@eiopa.europa.eu) site: [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+Fax. + 49 69-951119-19; email: [info@eiopa.europa.eu](mailto:info@eiopa.europa.eu) site: [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **Table of Contents**
 
@@ -2025,15 +2018,11 @@ considered as non-compliant to the reporting and reported as such.
 
 
 
-
-<image>
-![A slide outlining Guideline 1, the general approach for an undertaking's Own Risk and Solvency Assessment (ORSA). It specifies that processes must be tailored to the organization's structure, risk-management system, and the nature, scale, and complexity of its business risks.
+A slide outlining Guideline 1, the general approach for an undertaking's Own Risk and Solvency Assessment (ORSA). It specifies that processes must be tailored to the organization's structure, risk-management system, and the nature, scale, and complexity of its business risks.
 ****** END OF CHUNK ******
 
 ****** Chunk 96: *****
 The undertaking should develop for the ORSA its own processes with appropriate and adequate techniques, tailored to fit into its organisational structure and risk-management system and taking into consideration the nature, scale and complexity of the risks inherent to the business.](#)
-</image>
-
 
 
 
@@ -2194,7 +2183,7 @@ full picture.
 
 
 
-!
+
 
 
 
@@ -3422,7 +3411,7 @@ presented in a separate part of the group ORSA report.
 
 
 
-!
+
 
 
 
@@ -3434,14 +3423,6 @@ presented in a separate part of the group ORSA report.
 ****** END OF CHUNK ******
 
 ****** Chunk 161: *****
-!
-
-
-
-
-
-
-
 2.83. From a quantitative perspective, it is expected that the group ORSA policy
 
 outlines different stress tests and scenario analyses or any other relevant
@@ -3503,7 +3484,7 @@ EIOPA-BoS-14/172 EN
 
 
 
-!A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
+A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
 
 Guidelines on basis risk
 
@@ -5410,7 +5391,7 @@ EIOPA-BoS-14/181 EN
 
 
 
-!A title card with the text "Guidelines on group solvency" in bold black font on a light blue background.
+A title card with the text "Guidelines on group solvency" in bold black font on a light blue background.
 Guidelines on group solvency
 
 
@@ -6413,7 +6394,7 @@ Guidelines on health catastrophe risk
 
 
 
-!A concise summary of the image for retrieval: A presentation slide title or document heading that reads "Guidelines on health catastrophe risk" in bold black text on a light blue background.
+A concise summary of the image for retrieval: A presentation slide title or document heading that reads "Guidelines on health catastrophe risk" in bold black text on a light blue background.
 
 Extracted text from the image:
 Guidelines on health catastrophe risk](#)
@@ -6889,7 +6870,7 @@ EIOPA-BoS-14/171 EN
 
 
 
-!A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
+A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
 Guidelines on look-through approach
 
 
@@ -7153,7 +7134,7 @@ Guidelines on operational functioning of
 
 
 
-!A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
+A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
 Guidelines on operational functioning of](#)
 
 
@@ -9948,7 +9929,7 @@ Guidelines on own risk and solvency
 
 
 
-!A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
+A slide title or document header with the text "Guidelines on own risk and solvency" in bold, black font on a light blue background, likely related to financial or insurance regulations.
 
 Guidelines on own risk and solvency](#)
 
@@ -10527,7 +10508,7 @@ Guidelines on reporting and public
 
 
 
-!A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
+A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
 
 Extracted text from the image:
 Guidelines on reporting and public](#)
@@ -11761,7 +11742,7 @@ EIOPA-BoS-14/169 EN
 
 
 
-!A title card with the text "Guidelines on ring-fenced funds" in bold black font on a light blue background.
+A title card with the text "Guidelines on ring-fenced funds" in bold black font on a light blue background.
 Guidelines on ring-fenced funds
 
 
@@ -12711,7 +12692,7 @@ Guidelines on supervisory review
 
 
 
-!A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
+A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
 Guidelines on supervisory review](#)
 
 
@@ -15615,7 +15596,7 @@ Guidelines on undertaking-specific
 
 
 
-!A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
+A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
 
 Guidelines on undertaking-specific](#)
 
@@ -16422,7 +16403,7 @@ ESA 2024 28
 ****** END OF CHUNK ******
 
 ****** Chunk 785: *****
-MiCAR 1] regulates the offering to the public and admission to trading of asset-referenced tokens
+MiCAR [1] regulates the offering to the public and admission to trading of asset-referenced tokens
 
 (ARTs), e-money tokens (EMTs), and other types of crypto-assets, as well as the provision of crypto
 asset services in the European Union (EU). Inter alia, MiCAR sets out a wide range of regulatory
@@ -17572,7 +17553,7 @@ This flow chart is provided for the purposes of the standardised test referred t
 
 Regulation (EU) 2023/1114.
 --- Page 30 ---
-![A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
+A flowchart illustrating the classification of crypto-assets under the MiCAR regulation. It guides the user through a series of questions to determine if a token is a crypto-asset, if MiCAR applies, and categorizes it as an Asset Referenced Token (ART), Electronic Money Token (EMT), or another type of crypto-asset. The chart also lists exclusions from MiCAR, such as financial instruments under MiFID II, deposits, funds under PSDII, and various insurance and pension products.
 ****** END OF CHUNK ******
 
 ****** Chunk 837: *****
@@ -19451,7 +19432,7 @@ JC 2024 28
 
 ****** Chunk 903: *****
 1. These Guidelines are issued pursuant to Article 16 of Regulation (EU) No 1093/2010, Regulation
-(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) 1] . In accordance with
+(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) [1] . In accordance with
 
 Article 16(3) of the ESA Regulations, competent authorities, financial market participants and
 
@@ -20227,7 +20208,7 @@ EBA Regular Use
 
 
 
-![A flowchart illustrating the decision-making process for classifying crypto-assets under the MiCAR (Markets in Crypto-Assets) regulation. The diagram helps determine if a token is a crypto-asset, an asset-referenced token (ART), an e-money token (EMT), or falls outside the scope of MiCAR based on a series of questions about its nature, technology, issuance, and value.
+A flowchart illustrating the decision-making process for classifying crypto-assets under the MiCAR (Markets in Crypto-Assets) regulation. The diagram helps determine if a token is a crypto-asset, an asset-referenced token (ART), an e-money token (EMT), or falls outside the scope of MiCAR based on a series of questions about its nature, technology, issuance, and value.
 ****** END OF CHUNK ******
 
 ****** Chunk 935: *****
@@ -27754,7 +27735,7 @@ EIOPA
 
 Postal address: Westhafenplatz 1, 60327 Frankfurt am Main, Germany
 
-Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
+[Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
 ****** END OF CHUNK ******
 
 ****** Chunk 1157: *****
@@ -27766,7 +27747,7 @@ EIOPA
 
 Postal address: Westhafenplatz 1, 60327 Frankfurt am Main, Germany
 
-Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
+[Email address: dpo@eiopa.europa.eu](mailto:dpo@eiopa.europa.eu)
 
 B) When a request is related to the personal data inserted in the ESAs Information System by the
 CAs, this request will be redirected to the CA from which the data originated.
@@ -27894,54 +27875,30 @@ as provided in Article 63 of the Regulation **.**
 
 4
 --- Page 5 ---
-
-
-
-<image>
-![This is a table detailing the setup, functioning, and maintenance of the ESAs Information System. It outlines the data subjects, which include persons of interest and end-users, and the types of data processed, such as identification and contact information. The table specifies a data retention period of fifteen years and notes a joint controllership between the ESAs, with EIOPA also mentioned.
-
-2. Setting up, functioning and maintainance of the ESAs Information System
-Potentially:
-- Persons of interest subject to fit and proper assessments (data inserted by the CAs);
-- Users/End-users of ESAs Information System
-Potentially:
-- The information inserted in the ESAs Information System by the CAs, i.e. Identification data (first name(s), surname/family name, date of birth, place of birth, birth name, other names used by the person)
-- Contact data of the users of the ESAs Information System
-As explained in 1. above.
-As explained in 1. above.
-- For the information inserted in the ESAs Information System:
-Fifteen years (15).
-Shorter retention periods may apply in line with applicable legislation.
-- For the contact data of the users of the ESAs Information System, the retention period explained in 1. above.
-Joint controllership between the ESAs.
-EIOPA](#)
-</image>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5
---- Page 6 ---
-
-
-**ESSENTIAL ELEMENTS OF PROCESSING BY THE CAS**
 ****** END OF CHUNK ******
 
 ****** Chunk 1161: *****
+3
+--- Page 4 ---
+
+
+**APPENDIX – ESSENTIAL ELEMENTS OF PROCESSING BY THE ESA** **S**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
 |Purpose of the<br>processing<br>activity|Categories of<br>data subjects|Categories of<br>personal data|Legal basis|Recipients/<br>Categories of<br>recipients/process<br>ors|Retention<br>period|Joint<br>Controller|Primary<br>Contact<br>Point|
 |---|---|---|---|---|---|---|---|
@@ -27953,10 +27910,10 @@ EIOPA](#)
 --- Page 5 ---
 
 
+This is a table detailing the setup, functioning, and maintenance of the ESAs Information System. It outlines the data subjects, which include persons of interest and end-users, and the types of data processed, such as identification and contact information. The table specifies a data retention period of fifteen years and notes a joint controllership between the ESAs, with EIOPA also mentioned.
+****** END OF CHUNK ******
 
-<image>
-![This is a table detailing the setup, functioning, and maintenance of the ESAs Information System. It outlines the data subjects, which include persons of interest and end-users, and the types of data processed, such as identification and contact information. The table specifies a data retention period of fifteen years and notes a joint controllership between the ESAs, with EIOPA also mentioned.
-
+****** Chunk 1162: *****
 2. Setting up, functioning and maintainance of the ESAs Information System
 Potentially:
 - Persons of interest subject to fit and proper assessments (data inserted by the CAs);
@@ -27972,8 +27929,6 @@ Shorter retention periods may apply in line with applicable legislation.
 - For the contact data of the users of the ESAs Information System, the retention period explained in 1. above.
 Joint controllership between the ESAs.
 EIOPA](#)
-</image>
-
 
 
 
@@ -27996,13 +27951,21 @@ EIOPA](#)
 
 
 **ESSENTIAL ELEMENTS OF PROCESSING BY THE CAS**
+****** END OF CHUNK ******
+
+****** Chunk 1163: *****
+5
+--- Page 6 ---
+
+
+**ESSENTIAL ELEMENTS OF PROCESSING BY THE CAS**
 
 
 
 ![A table detailing the policies for personal data inserted by Competent Authorities (CAs) into the European Supervisory Authorities (ESAs) Information System for supervisory purposes. The table covers data subjects, types of identification data, legal basis, data recipients (CAs or ECB), a fifteen-year retention period, and separate data controllership.
 ****** END OF CHUNK ******
 
-****** Chunk 1162: *****
+****** Chunk 1164: *****
 Personal data inserted by CA(s) in the ESAs Information System for fulfilling their supervisory purposes
 Persons of interest subject to fit and proper assessment
 - Identification data (first name(s), surname/family name, date of birth, place of birth, birth name, other names used by the person)
@@ -28033,15 +27996,15 @@ CAs (ECB or CAs) that initially created the data input into the ESAs Information
 6
 ****** END OF CHUNK ******
 
-****** Chunk 1163: *****
+****** Chunk 1165: *****
 --- Page 1 ---
 ****** END OF CHUNK ******
 
-****** Chunk 1164: *****
+****** Chunk 1166: *****
 --- Page 2 ---
 ****** END OF CHUNK ******
 
-****** Chunk 1165: *****
+****** Chunk 1167: *****
 1. Insurance and reinsurance undertakings should not consider contract boundaries as a
 
 
@@ -28057,7 +28020,7 @@ using realistic assumptions, which means that the projection of cash flows might
 beyond any of the dates referred to in Article 18(3) of the Delegated Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 1166: *****
+****** Chunk 1168: *****
 2. Insurance and reinsurance undertakings should assess whether at recognition date it is
 
 
@@ -28086,7 +28049,7 @@ regarding the insurance or financial risk borne by the undertaking.
 contract boundary, as a simplified approach undertakings may consider not to unbundle
 ****** END OF CHUNK ******
 
-****** Chunk 1167: *****
+****** Chunk 1169: *****
 4. Notwithstanding the previous point, where all the parts of a contract have the same
 
 
@@ -28117,12 +28080,12 @@ to insurance or reinsurance obligations.
 should be treated as an independent contract.
 ****** END OF CHUNK ******
 
-****** Chunk 1168: *****
+****** Chunk 1170: *****
 _Guideline)_
 --- Page 3 ---
 ****** END OF CHUNK ******
 
-****** Chunk 1169: *****
+****** Chunk 1171: *****
 _economics of a contract (New Guideline)_
 
 
@@ -28156,7 +28119,7 @@ the whole set of future cash flows is expected to discernibly change if the fina
 guarantee did not exist. Undertakings can assess this on qualitative or quantitative basis.
 ****** END OF CHUNK ******
 
-****** Chunk 1170: *****
+****** Chunk 1172: *****
 the whole set of future cash flows is expected to discernibly change if the financial
 
 guarantee did not exist. Undertakings can assess this on qualitative or quantitative basis.
@@ -28185,7 +28148,7 @@ insurance and reinsurance undertakings should assume cash flows equal to the amo
 that would be paid if the financial guarantee did not exist. For contracts where the
 ****** END OF CHUNK ******
 
-****** Chunk 1171: *****
+****** Chunk 1173: *****
 insurance and reinsurance undertakings should assume cash flows equal to the amount
 
 that would be paid if the financial guarantee did not exist. For contracts where the
@@ -28206,7 +28169,7 @@ valuation any form of guaranteed benefits stemming from the financial guarantee.
 consideration of the time value of options and guarantees is relevant for this assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 1172: *****
+****** Chunk 1174: *****
 _insured person with a discernible effect on the economics of a contract (New Guideline)_
 
 
@@ -28239,7 +28202,7 @@ and reinsurance undertakings should consider the extent to which the whole set o
 cash flows is expected to discernibly change if the cover did not exist. Insurance and
 ****** END OF CHUNK ******
 
-****** Chunk 1173: *****
+****** Chunk 1175: *****
 and reinsurance undertakings should consider the extent to which the whole set of future
 
 cash flows is expected to discernibly change if the cover did not exist. Insurance and
@@ -28268,7 +28231,7 @@ of the obligations without the cover insurance and reinsurance undertakings shou
 assume that the cover does not exist. When calculating the value of the obligations with
 ****** END OF CHUNK ******
 
-****** Chunk 1174: *****
+****** Chunk 1176: *****
 of the obligations without the cover insurance and reinsurance undertakings should
 
 assume that the cover does not exist. When calculating the value of the obligations with
@@ -28278,7 +28241,7 @@ the cover insurance and reinsurance undertakings should consider all obligations
 Considering potential future scenarios in some cases is relevant for this assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 1175: *****
+****** Chunk 1177: *****
 _Guideline)_
 
 
@@ -28308,7 +28271,7 @@ economic environment existing when the assessment used to define the current con
 boundaries was performed and do a reassessment only in case these changes are
 ****** END OF CHUNK ******
 
-****** Chunk 1176: *****
+****** Chunk 1178: *****
 economic environment existing when the assessment used to define the current contract
 
 boundaries was performed and do a reassessment only in case these changes are
@@ -28340,7 +28303,7 @@ assessment performed to define the current contract boundaries.
 change in contract boundaries resulting on a material impact on the valuation of technical
 ****** END OF CHUNK ******
 
-****** Chunk 1177: *****
+****** Chunk 1179: *****
 21. When the reassessment of the discernible effect of a cover or financial guarantee led to a
 
 
@@ -28368,7 +28331,7 @@ on the economics of the contract should not change.
 23. Insurance and reinsurance undertakings should not reassess contract boundaries for the
 ****** END OF CHUNK ******
 
-****** Chunk 1178: *****
+****** Chunk 1180: *****
 on the economics of the contract should not change.
 
 
@@ -28402,7 +28365,7 @@ with these Guidelines, with reasons for non-compliance, within two months after 
 issuance of the translated versions.
 ****** END OF CHUNK ******
 
-****** Chunk 1179: *****
+****** Chunk 1181: *****
 with these Guidelines, with reasons for non-compliance, within two months after the
 
 issuance of the translated versions.
@@ -28417,11 +28380,11 @@ Final provision on review
 28. These Guidelines will be subject to a review by EIOPA.
 ****** END OF CHUNK ******
 
-****** Chunk 1180: *****
+****** Chunk 1182: *****
 --- Page 1 ---
 ****** END OF CHUNK ******
 
-****** Chunk 1181: *****
+****** Chunk 1183: *****
 **Technical Annex I – Information provided by the other supervisory**
 **authorities to the group supervisor**
 
@@ -28461,7 +28424,7 @@ over the reporting period.
 1.3.1. indication if the undertaking is using an internal model or a partial
 ****** END OF CHUNK ******
 
-****** Chunk 1182: *****
+****** Chunk 1184: *****
 over the reporting period.
 
 
@@ -28495,7 +28458,7 @@ Minimum Capital Requirement over the reporting period, and the reasons
 for any such change;
 ****** END OF CHUNK ******
 
-****** Chunk 1183: *****
+****** Chunk 1185: *****
 assessment;
 
 
@@ -28521,7 +28484,7 @@ non-compliance at the reporting date;
 1.3.7. regarding any significant non-compliance with the undertaking’s Solvency
 ****** END OF CHUNK ******
 
-****** Chunk 1184: *****
+****** Chunk 1186: *****
 Capital Requirement during the reporting period: the period and
 maximum amount of each significant non-compliance and, in addition to
 the explanation of its origin and consequences as well as any remedial
@@ -28544,7 +28507,7 @@ covering the following areas:
 2.1. Summary highlighting any material changes that have occurred in the
 ****** END OF CHUNK ******
 
-****** Chunk 1185: *****
+****** Chunk 1187: *****
 2. Material extracted from the regular supervisory reporting of the undertaking,
 
 covering the following areas:
@@ -28579,7 +28542,7 @@ transactions within the group including information on:
 2.3. Concerning risk profile (Article 309 of Delegated Regulation (EU) 2015/35):
 ****** END OF CHUNK ******
 
-****** Chunk 1186: *****
+****** Chunk 1188: *****
 the amount of outstanding balances, if any;
 
 
@@ -28625,7 +28588,7 @@ process.
 the following areas:
 ****** END OF CHUNK ******
 
-****** Chunk 1187: *****
+****** Chunk 1189: *****
 1. Material extracted from the group solvency and financial condition report, covering
 
 the following areas:
@@ -28666,7 +28629,7 @@ group for managing its own funds and on any material changes over the
 reporting period;
 ****** END OF CHUNK ******
 
-****** Chunk 1188: *****
+****** Chunk 1190: *****
 1.3.2. information on the objectives, policies and processes employed by the
 
 group for managing its own funds and on any material changes over the
@@ -28694,7 +28657,7 @@ reporting period, and the reasons for any such change;
 1.3.6. regarding any non-compliance with the minimum consolidated group
 ****** END OF CHUNK ******
 
-****** Chunk 1189: *****
+****** Chunk 1191: *****
 reporting period, and the reasons for any such change;
 
 
@@ -28718,7 +28681,7 @@ the effects of such remedial measures;
 1.3.8. where a significant non-compliance with the group Solvency Capital
 ****** END OF CHUNK ******
 
-****** Chunk 1190: *****
+****** Chunk 1192: *****
 Requirement, has not been subsequently resolved: the amount of the
 non-compliance at the reporting date.
 
@@ -28752,7 +28715,7 @@ during the reporting period against projections, and significant factors
 affecting deviations from these projections;
 ****** END OF CHUNK ******
 
-****** Chunk 1191: *****
+****** Chunk 1193: *****
 2.2.2. information on the group's underwriting performance by line of business
 
 during the reporting period against projections, and significant factors
@@ -28785,7 +28748,7 @@ business planning time period;
 2.2.7. a description of activities and sources of profits or losses for each
 ****** END OF CHUNK ******
 
-****** Chunk 1192: *****
+****** Chunk 1194: *****
 underwriting or investment income and expenses, over the undertaking’s
 business planning time period;
 
@@ -28812,7 +28775,7 @@ information on (Guideline 27 of EIOPA Guidelines on reporting and public
 disclosure):
 ****** END OF CHUNK ******
 
-****** Chunk 1193: *****
+****** Chunk 1195: *****
 commercial rationale for the operation or transaction;
 --- Page 5 ---
       risks borne by, and rewards available to, each party to the operation or
@@ -28841,7 +28804,7 @@ group; and
 executed.
 ****** END OF CHUNK ******
 
-****** Chunk 1194: *****
+****** Chunk 1196: *****
 extent to which the operation or transaction is depending on a windingup and circumstances in which the operation or transaction can be
 
 executed.
@@ -28888,7 +28851,7 @@ provide the other supervisory authorities with the template S.37.01.04.
 3.12. S.36.04.04
 ****** END OF CHUNK ******
 
-****** Chunk 1195: *****
+****** Chunk 1197: *****
 3.2. S.23.02.04
 
 3.3. S.23.03.04
@@ -28972,7 +28935,7 @@ investments and cash (the denominator). This number will be a percentage between
 and 100%.
 ****** END OF CHUNK ******
 
-****** Chunk 1196: *****
+****** Chunk 1198: *****
 The amount of government bonds (the numerator) is divided by the amount of total
 investments and cash (the denominator). This number will be a percentage between 0
 
@@ -28994,7 +28957,7 @@ Equivalents’ in the balance-sheet.
 **percentage of total investments and cash**
 ****** END OF CHUNK ******
 
-****** Chunk 1197: *****
+****** Chunk 1199: *****
 **2) Investments in Corporate Bonds – Financial and insurance activities as a**
 **percentage of total investments and cash**
 
@@ -29009,7 +28972,7 @@ divided by the amount of total investments and cash (the denominator). This numb
 will be a percentage between 0 and 100%.
 ****** END OF CHUNK ******
 
-****** Chunk 1198: *****
+****** Chunk 1200: *****
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the numerator is calculated by screening the
@@ -29023,7 +28986,7 @@ activities). The issuer’s economic sector is identified based on the NACE code
 developed since 1970 in the European Union).
 ****** END OF CHUNK ******
 
-****** Chunk 1199: *****
+****** Chunk 1201: *****
 The denominator corresponds to the sum of the amount listed in the assets category
 as ‘investments’ and the amount listed in the assets category under ‘Cash and Cash
 Equivalents’ in the balance-sheet.
@@ -29043,7 +29006,7 @@ divided by the amount of total investments and cash (the denominator). This numb
 will be a percentage between 0 and 100%.
 ****** END OF CHUNK ******
 
-****** Chunk 1200: *****
+****** Chunk 1202: *****
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the numerator is calculated by screening the
@@ -29064,7 +29027,7 @@ as ‘investments’ and the amount listed in the assets category under ‘Cash 
 Equivalents’ in the balance-sheet.
 ****** END OF CHUNK ******
 
-****** Chunk 1201: *****
+****** Chunk 1203: *****
 **4) Cash and Deposits as a percentage of total investments and cash**
 
 
@@ -29079,7 +29042,7 @@ investments and cash (the denominator) and this number will be a percentage
 between 0 and 100%.
 ****** END OF CHUNK ******
 
-****** Chunk 1202: *****
+****** Chunk 1204: *****
 The amount of cash and deposits (the numerator) is divided by the amount of total
 investments and cash (the denominator) and this number will be a percentage
 
@@ -29103,7 +29066,7 @@ investments and cash are held in equity investments (which generally have uncert
 income streams).
 ****** END OF CHUNK ******
 
-****** Chunk 1203: *****
+****** Chunk 1205: *****
 This ratio demonstrates what percentage of a group or undertaking’s total
 investments and cash are held in equity investments (which generally have uncertain
 income streams).
@@ -29128,7 +29091,7 @@ Equivalents’ in the balance-sheet.
 **of total investments and cash**
 ****** END OF CHUNK ******
 
-****** Chunk 1204: *****
+****** Chunk 1206: *****
 **6) Holdings in related undertakings, including participations, as a percentage**
 
 **of total investments and cash**
@@ -29151,7 +29114,7 @@ described under Article 75 thereof, the amount listed in the assets category und
 Equivalents’ in the balance-sheet.
 ****** END OF CHUNK ******
 
-****** Chunk 1205: *****
+****** Chunk 1207: *****
 **7) Property (other than for own use) as a percentage of total investments**
 
 **and cash**
@@ -29177,7 +29140,7 @@ assets category as ‘Investments’ and the amount listed in the assets categor
 **8) Gross written premiums life - percentage change year-to-date**
 ****** END OF CHUNK ******
 
-****** Chunk 1206: *****
+****** Chunk 1208: *****
 **8) Gross written premiums life - percentage change year-to-date**
 
 
@@ -29195,7 +29158,7 @@ similar to life), life and health reinsurance written premiums of the previous y
 multiplying by 100.
 ****** END OF CHUNK ******
 
-****** Chunk 1207: *****
+****** Chunk 1209: *****
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC, the sum of the amounts related to
 gross written premiums under the various lines of business for life obligations and life
@@ -29208,7 +29171,7 @@ percentage by deducting 1 and multiplying by 100.
 **9) Gross written premiums non-life - percentage change year-to-date**
 ****** END OF CHUNK ******
 
-****** Chunk 1208: *****
+****** Chunk 1210: *****
 **9) Gross written premiums non-life - percentage change year-to-date**
 
 
@@ -29223,7 +29186,7 @@ accepted) of the previous year (t-1) (denominator). Then the result is converted
 a percentage by deducting 1 and multiplying by 100.
 ****** END OF CHUNK ******
 
-****** Chunk 1209: *****
+****** Chunk 1211: *****
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC, the sum of the amounts related to
 gross written premiums under the various lines of business for non- life obligations
@@ -29241,7 +29204,7 @@ This ratio measures the amount of non-life technical provisions compared to the
 amount of gross written premiums non-life insurance and reinsurance.
 ****** END OF CHUNK ******
 
-****** Chunk 1210: *****
+****** Chunk 1212: *****
 This ratio measures the amount of non-life technical provisions compared to the
 amount of gross written premiums non-life insurance and reinsurance.
 
@@ -29264,7 +29227,7 @@ reporting, the sum of the values of the actual quarter and the preceding
 quarters needed to cover a full year period.
 ****** END OF CHUNK ******
 
-****** Chunk 1211: *****
+****** Chunk 1213: *****
 Using the templates to be received under the regular supervisory reporting as
 required by Article 35 of Directive 2009/138/EC and based on the valuation as
 described under Article 75 thereof, the four quarter average of the sum of total gross
@@ -29280,7 +29243,7 @@ into ‘percentage’ format.
 **unit-linked business) - % change year-over year**
 ****** END OF CHUNK ******
 
-****** Chunk 1212: *****
+****** Chunk 1214: *****
 **11) Change in life technical provisions (incl. health, excl. index-linked and**
 **unit-linked business) - % change year-over year**
 
@@ -29294,7 +29257,7 @@ year’s life technical provisions (denominator) and then converted into a perce
 deducting 1 and multiplying by 100.
 ****** END OF CHUNK ******
 
-****** Chunk 1213: *****
+****** Chunk 1215: *****
 Using the template to be received under the regular supervisory reporting as required
 by Article 35 of Directive 2009/138/EC and based on the valuation as described under
 Article 75 thereof, the sum of total life technical provisions (excluding health, indexlinked and unit- linked,)and total health technical provisions (similar to life business)
@@ -29312,7 +29275,7 @@ investments. The ratio can also be used to measure the undertaking’s investmen
 returns over time by comparing it to previous versions.
 ****** END OF CHUNK ******
 
-****** Chunk 1214: *****
+****** Chunk 1216: *****
 The sum of investment returns (the numerator) is divided by the total investments
 (other than assets held for index-linked and unit-linked funds) (the denominator).
 
@@ -29333,7 +29296,7 @@ regular supervisory reporting as required by Article 35 of Directive 2009/138/EC
 based on the valuation as described under Article 75 thereof. The numerator value
 ****** END OF CHUNK ******
 
-****** Chunk 1215: *****
+****** Chunk 1217: *****
 based on the valuation as described under Article 75 thereof. The numerator value
 
 can be taken from the relevant template that provides information about the
@@ -29360,7 +29323,7 @@ preceding quarters needed to cover the full year period;
 the actual quarter and each of the three preceding quarters.
 ****** END OF CHUNK ******
 
-****** Chunk 1216: *****
+****** Chunk 1218: *****
 the denominator shall be calculated as an average of the values at the end of
 the actual quarter and each of the three preceding quarters.
 
@@ -29379,7 +29342,7 @@ The sum of incurred losses and expenses (the numerator) is divided by the amount
 premiums earned (the denominator).
 ****** END OF CHUNK ******
 
-****** Chunk 1217: *****
+****** Chunk 1219: *****
 The sum of incurred losses and expenses (the numerator) is divided by the amount of
 premiums earned (the denominator).
 
@@ -29408,7 +29371,7 @@ The amount of premiums ceded to a reinsurer (the numerator) is divided by the to
 amount of premiums earned (the denominator).
 ****** END OF CHUNK ******
 
-****** Chunk 1218: *****
+****** Chunk 1220: *****
 The amount of premiums ceded to a reinsurer (the numerator) is divided by the total
 amount of premiums earned (the denominator).
 
@@ -29424,7 +29387,7 @@ the relevant template where undertakings and groups report the total amount of
 premiums earned for non-life and for life.
 ****** END OF CHUNK ******
 
-****** Chunk 1219: *****
+****** Chunk 1221: *****
 --- Page 1 ---
 11.72.2009 EN
 
@@ -29433,11 +29396,11 @@ premiums earned for non-life and for life.
 Official Journ al of the E uropean Un ion L 335/1
 ****** END OF CHUNK ******
 
-****** Chunk 1220: *****
+****** Chunk 1222: *****
 _(Acts adopted under the EC Treaty/Euratom Treaty whose publication is obligatory)_
 ****** END OF CHUNK ******
 
-****** Chunk 1221: *****
+****** Chunk 1223: *****
 **DIRECTIVE 2009/138/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
 
@@ -29466,7 +29429,7 @@ Having regard to the proposal from the Commission,
 
 
 Having regard to the opinion of the European Economic and
-Social Committee ( 1] ),
+Social Committee ( [1] ),
 
 
 After consulting the Committee of the Regions,
@@ -29479,7 +29442,7 @@ of the Treaty ( [2] ),
 Whereas:
 ****** END OF CHUNK ******
 
-****** Chunk 1222: *****
+****** Chunk 1224: *****
 After consulting the Committee of the Regions,
 
 
@@ -29509,7 +29472,7 @@ Directive 88/357/EEC of 22 June 1988 on the coordina­
 tion of laws, regulations and administrative provisions
 ****** END OF CHUNK ******
 
-****** Chunk 1223: *****
+****** Chunk 1225: *****
 Directive 88/357/EEC of 22 June 1988 on the coordina­
 tion of laws, regulations and administrative provisions
 
@@ -29528,7 +29491,7 @@ lished in the Official Journal) and Council Decision of 10 November
 ( [5] [) OJ L 185, 4.7.1987, p. 77.](http://eur-lex.europa.eu/Result.do?aaaa=1987&mm=07&jj=04&type=L&nnn=185&pppp=0077&RechType=RECH_reference_pub&Submit=Search)
 ****** END OF CHUNK ******
 
-****** Chunk 1224: *****
+****** Chunk 1226: *****
 ( [5] [) OJ L 185, 4.7.1987, p. 77.](http://eur-lex.europa.eu/Result.do?aaaa=1987&mm=07&jj=04&type=L&nnn=185&pppp=0077&RechType=RECH_reference_pub&Submit=Search)
 
 
@@ -29550,7 +29513,7 @@ reorganisation and winding-up of insurance undertak­
 ings ( [9] ); Directive 2002/83/EC of the European Parliament
 ****** END OF CHUNK ******
 
-****** Chunk 1225: *****
+****** Chunk 1227: *****
 Parliament and of the Council of 19 March 2001 on the
 reorganisation and winding-up of insurance undertak­
 ings ( [9] ); Directive 2002/83/EC of the European Parliament
@@ -29564,7 +29527,7 @@ reinsurance ( [11] ). In the interests of clarity those Directives
 should be recast.
 ****** END OF CHUNK ******
 
-****** Chunk 1226: *****
+****** Chunk 1228: *****
 Parliament and of the Council of 16 November 2005 on
 reinsurance ( [11] ). In the interests of clarity those Directives
 
@@ -29586,7 +29549,7 @@ nity to cover risks and commitments situated therein.
 ( [6] [) OJ L 172, 4.7.1988, p. 1.](http://eur-lex.europa.eu/Result.do?aaaa=1988&mm=07&jj=04&type=L&nnn=172&pppp=0001&RechType=RECH_reference_pub&Submit=Search)
 ****** END OF CHUNK ******
 
-****** Chunk 1227: *****
+****** Chunk 1229: *****
 ( [6] [) OJ L 172, 4.7.1988, p. 1.](http://eur-lex.europa.eu/Result.do?aaaa=1988&mm=07&jj=04&type=L&nnn=172&pppp=0001&RechType=RECH_reference_pub&Submit=Search)
 
 ( [7] [) OJ L 228, 11.8.1992, p. 1.](http://eur-lex.europa.eu/Result.do?aaaa=1992&mm=08&jj=11&type=L&nnn=228&pppp=0001&RechType=RECH_reference_pub&Submit=Search)
@@ -29606,7 +29569,7 @@ L 335/2 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1228: *****
+****** Chunk 1230: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -29630,7 +29593,7 @@ tor and is restricted by law to a specific territory or to
 specified persons.
 ****** END OF CHUNK ******
 
-****** Chunk 1229: *****
+****** Chunk 1231: *****
 (5) Very small insurance undertakings fulfilling certain condi­
 tions, including gross premium income below EUR 5 mil­
 lion, are excluded from the scope of this Directive.
@@ -29652,7 +29615,7 @@ Directive to register. Member States may also subject those
 undertakings to prudential and legal supervision.
 ****** END OF CHUNK ******
 
-****** Chunk 1230: *****
+****** Chunk 1232: *****
 (7) Council Directive 72/166/EEC of 24 April 1972 on the
 approximation of the laws of Member States relating to
 insurance against civil liability in respect of the use of
@@ -29674,7 +29637,7 @@ cil of 14 June 2006 relating to the taking up and pursuit
 of the business of credit institutions ( [5] ) lay down general
 ****** END OF CHUNK ******
 
-****** Chunk 1231: *****
+****** Chunk 1233: *****
 rules in the fields of accounting, motor insurance liability,
 financial instruments and credit institutions and provide
 
@@ -29690,7 +29653,7 @@ financial instruments and credit institutions and provide
 ( [5] [) OJ L 177, 30.6.2006, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:177:0001:0001:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 1232: *****
+****** Chunk 1234: *****
 ( [5] [) OJ L 177, 30.6.2006, p. 1.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:177:0001:0001:EN:PDF)
 
 
@@ -29719,7 +29682,7 @@ reinsurance undertakings, except where specific provision
 is made for those undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1233: *****
+****** Chunk 1235: *****
 (11) Since this Directive constitutes an essential instrument for
 the achievement of the internal market, insurance and rein­
 surance undertakings authorised in their home Member
@@ -29741,7 +29704,7 @@ civil liability in respect of the use of motor vehicles (Fourth
 motor insurance Directive) ( [6] ) lays down rules on the
 ****** END OF CHUNK ******
 
-****** Chunk 1234: *****
+****** Chunk 1236: *****
 appointment of claims representatives. Those rules should
 apply for the purposes of this Directive.
 
@@ -29763,7 +29726,7 @@ does not allow the pursuit of unrelated banking and finan­
 cial activities.
 ****** END OF CHUNK ******
 
-****** Chunk 1235: *****
+****** Chunk 1237: *****
 does not allow the pursuit of unrelated banking and finan­
 cial activities.
 
@@ -29789,7 +29752,7 @@ is therefore necessary to introduce a new regulatory
 framework.
 ****** END OF CHUNK ******
 
-****** Chunk 1236: *****
+****** Chunk 1238: *****
 (15) In line with the latest developments in risk management,
 in the context of the International Association of Insurance
 Supervisors, the International Accounting Standards Board
@@ -29802,7 +29765,7 @@ valuation of assets and liabilities, including technical
 provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 1237: *****
+****** Chunk 1239: *****
 (16) The main objective of insurance and reinsurance regulation
 and supervision is the adequate protection of policy hold­
 ers and beneficiaries. The term beneficiary is intended to
@@ -29822,7 +29785,7 @@ this Directive. This encompasses all necessary capacities,
 including financial and human resources.
 ****** END OF CHUNK ******
 
-****** Chunk 1238: *****
+****** Chunk 1240: *****
 (18) The supervisory authorities of the Member States should
 therefore have at their disposal all means necessary to
 ensure the orderly pursuit of business by insurance and
@@ -29837,7 +29800,7 @@ the importance of the undertaking concerned for the over­
 all financial stability of the market.
 ****** END OF CHUNK ******
 
-****** Chunk 1239: *****
+****** Chunk 1241: *****
 (19) This Directive should not be too burdensome for small and
 medium-sized insurance undertakings. One of the tools by
 which to achieve that objective is the proper application of
@@ -29848,7 +29811,7 @@ reinsurance undertakings and to the exercise of supervi­
 sory powers.
 ****** END OF CHUNK ******
 
-****** Chunk 1240: *****
+****** Chunk 1242: *****
 sory powers.
 
 
@@ -29866,7 +29829,7 @@ underwriting risk modules of the standard formula of the
 Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1241: *****
+****** Chunk 1243: *****
 (21) This Directive should also take account of the specific
 nature of captive insurance and captive reinsurance under­
 takings. As those undertakings only cover risks associated
@@ -29891,7 +29854,7 @@ reporting, listing and other legal or regulatory
 requirements.
 ****** END OF CHUNK ******
 
-****** Chunk 1242: *****
+****** Chunk 1244: *****
 (24) The supervisory authorities of the home Member State
 should be responsible for monitoring the financial health
 of insurance and reinsurance undertakings. To that end,
@@ -29905,7 +29868,7 @@ relevant institutions dealing in unregulated or alternative
 investment instruments.
 ****** END OF CHUNK ******
 
-****** Chunk 1243: *****
+****** Chunk 1245: *****
 (26) The starting point for the adequacy of the quantitative
 requirements in the insurance sector is the Solvency Capi­
 tal Requirement. Supervisory authorities should therefore
@@ -29926,7 +29889,7 @@ L 335/4 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1244: *****
+****** Chunk 1246: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -29940,7 +29903,7 @@ undertaking rather than in relation to the number of capi­
 tal add-ons imposed in a specific market.
 ****** END OF CHUNK ******
 
-****** Chunk 1245: *****
+****** Chunk 1247: *****
 (28) The capital add-on should be retained for as long as the cir­
 cumstances under which it was imposed are not remedied.
 In the event of significant deficiencies in the full or partial
@@ -29961,7 +29924,7 @@ tial for the adequate management of the insurance
 undertaking and for the regulatory system.
 ****** END OF CHUNK ******
 
-****** Chunk 1246: *****
+****** Chunk 1248: *****
 (30) The system of governance includes the risk-management
 function, the compliance function, the internal audit func­
 tion and the actuarial function.
@@ -29980,7 +29943,7 @@ on advice from outside experts or to be outsourced to
 experts within the limits set by this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1247: *****
+****** Chunk 1249: *****
 (32) Furthermore, save as regards the internal audit function, in
 smaller and less complex undertakings it should be pos­
 sible for more than one function to be carried out by a
@@ -30006,7 +29969,7 @@ functions should be taken into consideration as additional
 factors.
 ****** END OF CHUNK ******
 
-****** Chunk 1248: *****
+****** Chunk 1250: *****
 (36) All insurance and reinsurance undertakings should have, as
 an integrated part of their business strategy, a regular prac­
 tice of assessing their overall solvency needs with a view to
@@ -30020,7 +29983,7 @@ authority as part of the information to be provided for
 supervisory purposes.
 ****** END OF CHUNK ******
 
-****** Chunk 1249: *****
+****** Chunk 1251: *****
 (37) In order to ensure effective supervision of outsourced func­
 tions or activities, it is essential that the supervisory
 authorities of the outsourcing insurance or reinsurance
@@ -30038,7 +30001,7 @@ tices in the banking sector and Directive 2004/39/EC and
 its application to credit institutions.
 ****** END OF CHUNK ******
 
-****** Chunk 1250: *****
+****** Chunk 1252: *****
 (38) In order to guarantee transparency, insurance and reinsur­
 ance undertakings should publicly disclose – that is to say
 make it available to the public either in printed or elec­
@@ -30060,7 +30023,7 @@ able, where appropriate, to make their agreement subject
 to compliance with strict conditions.
 ****** END OF CHUNK ******
 
-****** Chunk 1251: *****
+****** Chunk 1253: *****
 (40) It is necessary to promote supervisory convergence not
 only in respect of supervisory tools but also in respect of
 supervisory practices. The Committee of European Insur­
@@ -30090,7 +30053,7 @@ gence in the use of capital add-ons between supervisory
 authorities in the different Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1252: *****
+****** Chunk 1254: *****
 (42) In order to limit the administrative burden and avoid dupli­
 cation of tasks, supervisory authorities and national statis­
 tical authorities should cooperate and exchange
@@ -30110,7 +30073,7 @@ administrative organisation of an insurance or a reinsur­
 ance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1253: *****
+****** Chunk 1255: *****
 a duty to report promptly any facts which are likely to
 have a serious effect on the financial situation or the
 administrative organisation of an insurance or a reinsur­
@@ -30128,7 +30091,7 @@ increased transferability of capital in the case of composite
 insurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1254: *****
+****** Chunk 1256: *****
 (45) The assessment of the financial position of insurance and
 reinsurance undertakings should rely on sound economic
 principles and make optimal use of the information pro­
@@ -30153,7 +30116,7 @@ financial resources provide full absorption of losses in the
 ( [1] [) OJ L 157, 9.6.2006, p. 87.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:157:0087:0087:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 1255: *****
+****** Chunk 1257: *****
 ( [1] [) OJ L 157, 9.6.2006, p. 87.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:157:0087:0087:EN:PDF)
 
 
@@ -30168,7 +30131,7 @@ further restrict the freedom of those undertakings with
 respect to their internal capital management.
 ****** END OF CHUNK ******
 
-****** Chunk 1256: *****
+****** Chunk 1258: *****
 (48) Generally, assets which are free from any foreseeable liabili­
 ties are available to absorb losses due to adverse business
 fluctuations on a going-concern basis and in the case of
@@ -30178,7 +30141,7 @@ principles set out in this Directive, should be treated as
 high-quality capital (Tier 1).
 ****** END OF CHUNK ******
 
-****** Chunk 1257: *****
+****** Chunk 1259: *****
 (49) Not all assets within an undertaking are unrestricted. In
 some Member States, specific products result in ring-fenced
 fund structures which give one class of policy holders
@@ -30194,7 +30157,7 @@ calculation should reflect the reduction in pooling or diver­
 sification related to those ring-fenced funds.
 ****** END OF CHUNK ******
 
-****** Chunk 1258: *****
+****** Chunk 1260: *****
 (50) It is current practice in certain Member States for insurance
 companies to sell life insurance products in relation to
 which the policy holders and beneficiaries contribute to
@@ -30217,11 +30180,11 @@ in Tier 1 should be considered as Tier 1 capital.
 L 335/6 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1259: *****
+****** Chunk 1261: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1260: *****
+****** Chunk 1262: *****
 (52) Mutual and mutual-type associations with variable contri­
 butions may call for supplementary contributions from
 their members (supplementary members’ calls) in order to
@@ -30240,7 +30203,7 @@ ments, and the approved amount of those members’ calls
 should be treated as good-quality capital (Tier 2). Similarly,
 ****** END OF CHUNK ******
 
-****** Chunk 1261: *****
+****** Chunk 1263: *****
 ments, and the approved amount of those members’ calls
 should be treated as good-quality capital (Tier 2). Similarly,
 in the case of other mutual and mutual-type associations
@@ -30249,7 +30212,7 @@ ity, the approved amount of those members’ calls should
 also be treated as good-quality capital (Tier 2).
 ****** END OF CHUNK ******
 
-****** Chunk 1262: *****
+****** Chunk 1264: *****
 (53) In order to allow insurance and reinsurance undertakings
 to meet their commitments towards policy holders and
 beneficiaries, Member States should require those under­
@@ -30266,7 +30229,7 @@ ket consistent and in line with international developments
 in accounting and supervision.
 ****** END OF CHUNK ******
 
-****** Chunk 1263: *****
+****** Chunk 1265: *****
 (55) The value of technical provisions should therefore corre­
 spond to the amount an insurance or reinsurance under­
 taking would have to pay if it transferred its contractual
@@ -30285,7 +30248,7 @@ ance undertakings better to reflect the characteristics of the
 underlying insurance portfolio.
 ****** END OF CHUNK ******
 
-****** Chunk 1264: *****
+****** Chunk 1266: *****
 (56) The assumptions made about the reference undertaking
 assumed to take over and meet the underlying insurance
 
@@ -30306,7 +30269,7 @@ should be possible to apply reasonable interpolations and
 extrapolations from directly observable market values.
 ****** END OF CHUNK ******
 
-****** Chunk 1265: *****
+****** Chunk 1267: *****
 (57) For the purpose of calculating technical provisions, it
 should be possible to apply reasonable interpolations and
 extrapolations from directly observable market values.
@@ -30326,7 +30289,7 @@ medium-sized undertakings, simplified approaches to the
 calculation of technical provisions should be provided for.
 ****** END OF CHUNK ******
 
-****** Chunk 1266: *****
+****** Chunk 1268: *****
 (59) In order to reflect the specific situation of small and
 medium-sized undertakings, simplified approaches to the
 calculation of technical provisions should be provided for.
@@ -30346,7 +30309,7 @@ ladder of intervention between the Solvency Capital
 Requirement and the Minimum Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1267: *****
+****** Chunk 1269: *****
 (61) In order to mitigate undue potential pro-cyclical effects of
 the financial system and avoid a situation in which insur­
 ance and reinsurance undertakings are unduly forced to
@@ -30363,7 +30326,7 @@ adjustment mechanism with respect to changes in the level
 Official Journ al of the E uropean Un ion L 335/7
 ****** END OF CHUNK ******
 
-****** Chunk 1268: *****
+****** Chunk 1270: *****
 Official Journ al of the E uropean Un ion L 335/7
 
 
@@ -30386,7 +30349,7 @@ sonable assurance to policy holders and beneficiaries that
 payments will be made as they fall due.
 ****** END OF CHUNK ******
 
-****** Chunk 1269: *****
+****** Chunk 1271: *****
 (63) In order to ensure that insurance and reinsurance under­
 takings hold eligible own funds that cover the Solvency
 Capital Requirement on an on-going basis, taking into
@@ -30396,7 +30359,7 @@ least annually, monitor it continuously and recalculate it
 whenever the risk profile alters significantly.
 ****** END OF CHUNK ******
 
-****** Chunk 1270: *****
+****** Chunk 1272: *****
 (64) In order to promote good risk management and align regu­
 latory capital requirements with industry practices, the Sol­
 vency Capital Requirement should be determined as the
@@ -30412,7 +30375,7 @@ of the impact of possible risk-mitigation techniques, as
 well as diversification effects.
 ****** END OF CHUNK ******
 
-****** Chunk 1271: *****
+****** Chunk 1273: *****
 (65) Provision should be made to lay down a standard formula
 for the calculation of the Solvency Capital Requirement, to
 enable all insurance and reinsurance undertakings to assess
@@ -30433,7 +30396,7 @@ calculation of the Solvency Capital Requirement in accor­
 dance with the standard formula should be provided for.
 ****** END OF CHUNK ******
 
-****** Chunk 1272: *****
+****** Chunk 1274: *****
 (67) As a matter of principle, the new risk-based approach does
 not comprise the concept of quantitative investment lim­
 its and asset eligibility criteria. It should however be pos­
@@ -30453,7 +30416,7 @@ approval on the basis of harmonised processes and
 standards.
 ****** END OF CHUNK ******
 
-****** Chunk 1273: *****
+****** Chunk 1275: *****
 (69) When the amount of eligible basic own funds falls below
 the Minimum Capital Requirement, the authorisation of
 insurance and reinsurance undertakings should be with­
@@ -30473,7 +30436,7 @@ der of supervisory intervention, and that it is based on the
 data which can be audited.
 ****** END OF CHUNK ******
 
-****** Chunk 1274: *****
+****** Chunk 1276: *****
 (71) Insurance and reinsurance undertakings should have assets
 of sufficient quality to cover their overall financial require­
 ments. All investments held by insurance and reinsurance
@@ -30488,7 +30451,7 @@ the liberalisation of capital movements provided for in
 Article 56 of the Treaty.
 ****** END OF CHUNK ******
 
-****** Chunk 1275: *****
+****** Chunk 1277: *****
 (73) It is necessary to prohibit any provisions enabling Mem­
 ber States to require pledging of assets covering the tech­
 nical provisions of an insurance or reinsurance
@@ -30505,7 +30468,7 @@ L 335/8 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1276: *****
+****** Chunk 1278: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -30522,7 +30485,7 @@ provisions should therefore be codified and integrated into
 this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1277: *****
+****** Chunk 1279: *****
 (75) Maximum harmonisation throughout the Community of
 those procedures and prudential assessments is therefore
 critical. However, the provisions on qualifying holdings
@@ -30537,7 +30500,7 @@ such holdings would be deemed to result in significant
 influence.
 ****** END OF CHUNK ******
 
-****** Chunk 1278: *****
+****** Chunk 1280: *****
 (76) In view of the increasing mobility of citizens of the Union,
 motor liability insurance is increasingly being offered on a
 cross-border basis. To ensure the continued proper func­
@@ -30555,7 +30518,7 @@ sary information in relation to claims and to represent the
 undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1279: *****
+****** Chunk 1281: *****
 (77) Within the framework of an internal market it is in the
 interest of policy holders that they should have access to
 the widest possible range of insurance products available in
@@ -30577,7 +30540,7 @@ ance undertaking does not comply with any applicable
 provisions protecting the general good.
 ****** END OF CHUNK ******
 
-****** Chunk 1280: *****
+****** Chunk 1282: *****
 (79) In an internal market for insurance, consumers have a
 wider and more varied choice of contracts. If they are to
 benefit fully from that diversity and from increased com­
@@ -30596,7 +30559,7 @@ floor of the Minimum Capital Requirement which such
 undertaking should possess.
 ****** END OF CHUNK ******
 
-****** Chunk 1281: *****
+****** Chunk 1283: *****
 (81) The effective pursuit of Community co-insurance business
 for activities which are by reason of their nature or their
 size likely to be covered by international co-insurance
@@ -30610,7 +30573,7 @@ between the supervisory authorities of the Member States
 and between those authorities and the Commission.
 ****** END OF CHUNK ******
 
-****** Chunk 1282: *****
+****** Chunk 1284: *****
 (82) In the interest of the protection of insured persons, national
 law concerning legal expenses insurance should be harmo­
 nised. Any conflicts of interest arising, in particular, from
@@ -30631,7 +30594,7 @@ that Member States provide for an arbitration procedure or
 a procedure offering comparable guarantees.
 ****** END OF CHUNK ******
 
-****** Chunk 1283: *****
+****** Chunk 1285: *****
 (84) In some Member States, private or voluntary health insur­
 ance serves as a partial or complete alternative to health
 cover provided for by the social security systems. The par­
@@ -30648,7 +30611,7 @@ taken out on a voluntary basis regardless of their age or
 Official Journ al of the E uropean Un ion L 335/9
 ****** END OF CHUNK ******
 
-****** Chunk 1284: *****
+****** Chunk 1286: *****
 Official Journ al of the E uropean Un ion L 335/9
 
 
@@ -30665,7 +30628,7 @@ should not be a prior condition for the marketing of the
 products.
 ****** END OF CHUNK ******
 
-****** Chunk 1285: *****
+****** Chunk 1287: *****
 (85) To that end, some Member States have adopted specific
 legal provisions. To protect the general good, it should be
 possible to adopt or maintain such legal provisions in so
@@ -30685,14 +30648,14 @@ the technical basis of private health cover or health cover
 taken out on a voluntary basis be similar to that of
 ****** END OF CHUNK ******
 
-****** Chunk 1286: *****
+****** Chunk 1288: *****
 schemes. As a further possibility, it may be required that
 the technical basis of private health cover or health cover
 taken out on a voluntary basis be similar to that of
 life insurance.
 ****** END OF CHUNK ******
 
-****** Chunk 1287: *****
+****** Chunk 1289: *****
 (86) Host Member States should be able to require any insur­
 ance undertaking which offers, within their territories,
 compulsory insurance against accidents at work at its own
@@ -30703,7 +30666,7 @@ ing financial supervision, which should remain the exclu­
 sive responsibility of the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1288: *****
+****** Chunk 1290: *****
 (87) Some Member States do not subject insurance transactions
 to any form of indirect taxation, while the majority apply
 special taxes and other forms of contribution, including
@@ -30721,7 +30684,7 @@ Member States to make arrangements to ensure that such
 taxes and contributions are collected.
 ****** END OF CHUNK ******
 
-****** Chunk 1289: *****
+****** Chunk 1291: *****
 (88) Those Member States not subject to the application of
 Regulation (EC) No 593/2008 of the European Parliament
 and of the Council of 17 June 2008 on the law applicable
@@ -30736,7 +30699,7 @@ tracts of insurance falling within the scope of Article 7 of
 that Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 1290: *****
+****** Chunk 1292: *****
 dance with this Directive, apply the provisions of that
 Regulation in order to determine the law applicable to con­
 tracts of insurance falling within the scope of Article 7 of
@@ -30755,7 +30718,7 @@ basis, so as to improve liberalisation of reinsurance services
 in third countries, be it through establishment or crossborder provision of services.
 ****** END OF CHUNK ******
 
-****** Chunk 1291: *****
+****** Chunk 1293: *****
 (90) Due to the special nature of finite reinsurance activities,
 Member States should ensure that insurance and reinsur­
 ance undertakings concluding finite reinsurance contracts
@@ -30772,7 +30735,7 @@ purpose vehicle should be considered as amounts deduct­
 ible under reinsurance or retrocession contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 1292: *****
+****** Chunk 1294: *****
 (92) Special purpose vehicles authorised before 31 October
 2012 should be subject to the law of the Member State
 having authorised the special purpose vehicle. However, in
@@ -30794,7 +30757,7 @@ ducted taking into account the work undertaken in other
 financial sectors.
 ****** END OF CHUNK ******
 
-****** Chunk 1293: *****
+****** Chunk 1295: *****
 (94) Further work on special purpose vehicles should be con­
 ducted taking into account the work undertaken in other
 financial sectors.
@@ -30825,7 +30788,7 @@ required to apply supervision to those undertakings con­
 sidered individually.
 ****** END OF CHUNK ******
 
-****** Chunk 1294: *****
+****** Chunk 1296: *****
 (97) Whilst the supervision of individual insurance and reinsur­
 ance undertakings remains the essential principle of insur­
 ance supervision it is necessary to determine which
@@ -30849,7 +30812,7 @@ tion for policy holders and a level playing field between
 groups.
 ****** END OF CHUNK ******
 
-****** Chunk 1295: *****
+****** Chunk 1297: *****
 groups.
 
 
@@ -30880,7 +30843,7 @@ nal model to be used for the solvency calculation at both
 group and individual levels.
 ****** END OF CHUNK ******
 
-****** Chunk 1296: *****
+****** Chunk 1298: *****
 (103) Some provisions of this Directive expressly provide for a
 mediatory or a consultative role for CEIOPS, but this
 should not preclude CEIOPS from also playing a mediatory
@@ -30894,7 +30857,7 @@ supervisor. The powers and responsibilities of supervisors
 are linked with their accountability.
 ****** END OF CHUNK ******
 
-****** Chunk 1297: *****
+****** Chunk 1299: *****
 (105) All policy holders and beneficiaries should receive equal
 treatment regardless of their nationality or place of resi­
 dence. For this purpose, each Member State should ensure
@@ -30916,7 +30879,7 @@ should have sufficient own funds to cover their solvency
 capital requirements.
 ****** END OF CHUNK ******
 
-****** Chunk 1298: *****
+****** Chunk 1300: *****
 (107) All supervisors involved in group supervision should be
 able to understand the decisions made, in particular where
 those decisions are made by the group supervisor. A soon
@@ -30929,7 +30892,7 @@ reach an agreement, qualified advice from CEIOPS should
 be sought to resolve the matter.
 ****** END OF CHUNK ******
 
-****** Chunk 1299: *****
+****** Chunk 1301: *****
 (108) The solvency of a subsidiary insurance or reinsurance
 undertaking of an insurance holding company, thirdcountry insurance or reinsurance undertaking may be
 affected by the financial resources of the group of which it
@@ -30941,7 +30904,7 @@ insurance or reinsurance undertaking where its solvency is
 being or may be jeopardised.
 ****** END OF CHUNK ******
 
-****** Chunk 1300: *****
+****** Chunk 1302: *****
 (109) Risk concentrations and intra-group transactions could
 affect the financial position of insurance or reinsurance
 undertakings. The supervisory authorities should therefore
@@ -30967,7 +30930,7 @@ should have appropriate systems of governance which
 should be subject to supervisory review.
 ****** END OF CHUNK ******
 
-****** Chunk 1301: *****
+****** Chunk 1303: *****
 (110) Insurance and reinsurance undertakings within a group
 should have appropriate systems of governance which
 should be subject to supervisory review.
@@ -30983,7 +30946,7 @@ and reinsurance undertakings belonging to the same group
 should establish coordination arrangements.
 ****** END OF CHUNK ******
 
-****** Chunk 1302: *****
+****** Chunk 1304: *****
 (112) In light of the increasing competences of group supervi­
 sors the prevention of arbitrary circumvention of the cri­
 teria for choosing the group supervisor should be ensured.
@@ -30996,7 +30959,7 @@ counted when assessing their relative importance within a
 market.
 ****** END OF CHUNK ******
 
-****** Chunk 1303: *****
+****** Chunk 1305: *****
 (113) Supervisors from all Member States in which undertakings
 of the group are established should be involved in group
 supervision through a college of supervisors (the College).
@@ -31010,7 +30973,7 @@ the authorities responsible for the supervision of undertak­
 ings active in other financial sectors should be established.
 ****** END OF CHUNK ******
 
-****** Chunk 1304: *****
+****** Chunk 1306: *****
 (114) The activities of the College should be proportionate to the
 nature, scale and complexity of the risks inherent in the
 business of all undertakings that are part of the group and
@@ -31032,7 +30995,7 @@ however, take full account of that advice and explain any
 significant deviation therefrom.
 ****** END OF CHUNK ******
 
-****** Chunk 1305: *****
+****** Chunk 1307: *****
 (116) Insurance and reinsurance undertakings which are part of
 a group, the head of which is outside the Community
 should be subject to equivalent and appropriate group
@@ -31049,7 +31012,7 @@ of equivalence should be made by the group supervisor
 after consulting the other relevant supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1306: *****
+****** Chunk 1308: *****
 (117) Since national legislation concerning reorganisation mea­
 sures and winding-up proceedings is not harmonised, it is
 appropriate, in the framework of the internal market, to
@@ -31071,7 +31034,7 @@ such reorganisation measures as well as winding-up pro­
 ceedings vis-à-vis third countries should not be affected.
 ****** END OF CHUNK ******
 
-****** Chunk 1307: *****
+****** Chunk 1309: *****
 (119) A distinction should be made between the competent
 authorities for the purposes of reorganisation measures
 and winding-up proceedings and the supervisory authori­
@@ -31089,7 +31052,7 @@ taking are to be treated in the winding-up of that insurance
 undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1308: *****
+****** Chunk 1310: *****
 (121) Conditions should be laid down under which winding-up
 proceedings which, without being founded on insolvency,
 involve a priority order for the payment of insurance
@@ -31117,7 +31080,7 @@ terminate with composition or other analogous measures,
 including reorganisation measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1309: *****
+****** Chunk 1311: *****
 (123) Only the competent authorities of the home Member State
 should be empowered to take decisions on winding-up
 proceedings concerning insurance undertakings. The deci­
@@ -31141,7 +31104,7 @@ winding-up proceedings should be governed by the law of
 the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1310: *****
+****** Chunk 1312: *****
 (125) All the conditions for the opening, conduct and closure of
 winding-up proceedings should be governed by the law of
 the home Member State.
@@ -31154,7 +31117,7 @@ informed as a matter of urgency of the opening of
 winding-up proceedings.
 ****** END OF CHUNK ******
 
-****** Chunk 1311: *****
+****** Chunk 1313: *****
 (127) It is of utmost importance that insured persons, policy
 holders, beneficiaries and any injured party having a direct
 right of action against the insurance undertaking on a
@@ -31174,7 +31137,7 @@ ranking between different categories of insurance claim.
 Furthermore, an appropriate balance should be ensured
 ****** END OF CHUNK ******
 
-****** Chunk 1312: *****
+****** Chunk 1314: *****
 methods impeding a Member State from establishing a
 ranking between different categories of insurance claim.
 Furthermore, an appropriate balance should be ensured
@@ -31183,7 +31146,7 @@ privileged creditors protected under the legislation of the
 Member State concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1313: *****
+****** Chunk 1315: *****
 (128) The opening of winding-up proceedings should involve the
 withdrawal of the authorisation to conduct business
 granted to the insurance undertaking unless this has
@@ -31209,7 +31172,7 @@ and winding-up proceedings on pending lawsuits and on
 individual enforcement actions arising from lawsuits.
 ****** END OF CHUNK ******
 
-****** Chunk 1314: *****
+****** Chunk 1316: *****
 (131) The measures necessary for the implementation of this
 Directive should be adopted in accordance with Council
 Decision 1999/468/EC of 28 June 1999 laying down the
@@ -31217,7 +31180,7 @@ procedures for the exercise of implementing powers con­
 ferred on the Commission ( [1] ).
 ****** END OF CHUNK ******
 
-****** Chunk 1315: *****
+****** Chunk 1317: *****
 (132) In particular, the Commission should be empowered to
 adopt measures concerning the adaptation of Annexes and
 measures specifying in particular the supervisory powers
@@ -31236,7 +31199,7 @@ must be adopted in accordance with the regulatory proce­
 dure with scrutiny laid down in Article 5a of Decision/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 1316: *****
+****** Chunk 1318: *****
 (133) Since the objectives of this Directive cannot be sufficiently
 achieved by the Member States and can therefore, by rea­
 son of their scale and effects, be better achieved at Com­
@@ -31263,7 +31226,7 @@ in the business of direct insurance other than life insur­
 ance ( [3] ); Council Directive 76/580/EEC of 29 June 1976
 ****** END OF CHUNK ******
 
-****** Chunk 1317: *****
+****** Chunk 1319: *****
 1973 abolishing restrictions on freedom of establishment
 in the business of direct insurance other than life insur­
 ance ( [3] ); Council Directive 76/580/EEC of 29 June 1976
@@ -31286,7 +31249,7 @@ ance other than life assurance [4] ); and Council Directive
 ( [3] [) OJ L 228, 16.8.1973, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1973&mm=08&jj=16&type=L&nnn=228&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
 ****** END OF CHUNK ******
 
-****** Chunk 1318: *****
+****** Chunk 1320: *****
 ( [3] [) OJ L 228, 16.8.1973, p. 20.](http://eur-lex.europa.eu/Result.do?aaaa=1973&mm=08&jj=16&type=L&nnn=228&pppp=0020&RechType=RECH_reference_pub&Submit=Search)
 
 ( [4] [) OJ L 189, 13.7.1976, p. 13.](http://eur-lex.europa.eu/Result.do?aaaa=1976&mm=07&jj=13&type=L&nnn=189&pppp=0013&RechType=RECH_reference_pub&Submit=Search)
@@ -31307,7 +31270,7 @@ business of direct insurance other than life ( [1] ) have become
 obsolete and should therefore be repealed.
 ****** END OF CHUNK ******
 
-****** Chunk 1319: *****
+****** Chunk 1321: *****
 obsolete and should therefore be repealed.
 
 
@@ -31319,7 +31282,7 @@ provisions related to supervisory coordination and coop­
 eration arrangements.
 ****** END OF CHUNK ******
 
-****** Chunk 1320: *****
+****** Chunk 1322: *****
 (141) It is necessary to seek advice from CEIOPS on how best to
 address the issues of an enhanced group supervision and
 capital management within a group of insurance or rein­
@@ -31339,7 +31302,7 @@ ance and reinsurance undertakings within groups which
 enhance the efficient capital management within groups if
 ****** END OF CHUNK ******
 
-****** Chunk 1321: *****
+****** Chunk 1323: *****
 alternative regimes for the prudential supervision of insur­
 ance and reinsurance undertakings within groups which
 enhance the efficient capital management within groups if
@@ -31347,7 +31310,7 @@ it is satisfied that an adequate supportive regulatory frame­
 work for the introduction of such a regime is in place.
 ****** END OF CHUNK ******
 
-****** Chunk 1322: *****
+****** Chunk 1324: *****
 In particular, it is desirable that a group support regime
 operate on sound foundations based on the existence of
 harmonised and adequately funded insurance guarantee
@@ -31367,7 +31330,7 @@ with being part of a group, practices in centralised group
 risk management, functioning of group internal models as
 ****** END OF CHUNK ******
 
-****** Chunk 1323: *****
+****** Chunk 1325: *****
 iour of diversification effects over time and risk associated
 with being part of a group, practices in centralised group
 risk management, functioning of group internal models as
@@ -31375,7 +31338,7 @@ well as supervision of intra-group transactions and risk
 concentrations.
 ****** END OF CHUNK ******
 
-****** Chunk 1324: *****
+****** Chunk 1326: *****
 (142) In accordance with point 34 of the Interinstitutional agree­
 ment on better law-making ( [4] ), Member States are encour­
 
@@ -31399,7 +31362,7 @@ The obligation to transpose the provisions which are
 unchanged is provided for in the earlier Directives.
 ****** END OF CHUNK ******
 
-****** Chunk 1325: *****
+****** Chunk 1327: *****
 (136) This Directive should be without prejudice to the obliga­
 tions of the Member States relating to the time-limits for
 transposition into national law of the Directives set out in
@@ -31417,7 +31380,7 @@ ties and supervision of institutions for occupational
 retirement provision ( [2] ) refers to the existing legislative
 ****** END OF CHUNK ******
 
-****** Chunk 1326: *****
+****** Chunk 1328: *****
 provisions on solvency margins. Those references should
 be retained in order to maintain the status quo. The Com­
 mission should conduct its review of Directive 2003/41/EC
@@ -31441,7 +31404,7 @@ tion ( [3] ), taking into account the consequences of this Direc­
 tive for policy holders.
 ****** END OF CHUNK ******
 
-****** Chunk 1327: *****
+****** Chunk 1329: *****
 tive for policy holders.
 
 
@@ -31460,7 +31423,7 @@ due consideration of the conclusions presented by the
 L 335/18 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1328: *****
+****** Chunk 1330: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -31475,15 +31438,15 @@ intermediary.
 **DIRECT INSURANCE AND REINSURANCE ACTIVITIES**
 ****** END OF CHUNK ******
 
-****** Chunk 1329: *****
+****** Chunk 1331: *****
 _**Subject matter, scope and definitions**_
 ****** END OF CHUNK ******
 
-****** Chunk 1330: *****
+****** Chunk 1332: *****
 **S ub j e c t m a t t e r a n d s c o p e**
 ****** END OF CHUNK ******
 
-****** Chunk 1331: *****
+****** Chunk 1333: *****
 **Subject matter**
 
 
@@ -31500,7 +31463,7 @@ This Directive lays down rules concerning the following:
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1332: *****
+****** Chunk 1334: *****
 **Scope**
 
 
@@ -31515,7 +31478,7 @@ tory of a Member State or which wish to become established there
 with the exception of Title IV.
 ****** END OF CHUNK ******
 
-****** Chunk 1333: *****
+****** Chunk 1335: *****
 2. In regard to non-life insurance, this Directive shall apply to
 activities of the classes set out in Part A of Annex I. For the pur­
 poses of the first subparagraph of paragraph 1, non-life insurance
@@ -31539,7 +31502,7 @@ of the staff and equipment of the person providing them.
 3. In regard to life insurance, this Directive shall apply:
 ****** END OF CHUNK ******
 
-****** Chunk 1334: *****
+****** Chunk 1336: *****
 3. In regard to life insurance, this Directive shall apply:
 
 
@@ -31569,7 +31532,7 @@ cellation currently existing in Ireland and the United
 Kingdom;
 ****** END OF CHUNK ******
 
-****** Chunk 1335: *****
+****** Chunk 1337: *****
 (iv) types of permanent health insurance not subject to can­
 cellation currently existing in Ireland and the United
 Kingdom;
@@ -31594,7 +31557,7 @@ agreed in advance, commitments of specified duration
 and amount are undertaken;
 ****** END OF CHUNK ******
 
-****** Chunk 1336: *****
+****** Chunk 1338: *****
 (iii) management of group pension funds, comprising the
 management of investments, and in particular the assets
 representing the reserves of bodies that effect payments
@@ -31626,15 +31589,15 @@ undertakings at their own risk in accordance with the laws of
 a Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1337: *****
+****** Chunk 1339: *****
 **E x c l us i o n s f r o m s c o p e**
 ****** END OF CHUNK ******
 
-****** Chunk 1338: *****
+****** Chunk 1340: *****
 **G e n e r a l**
 ****** END OF CHUNK ******
 
-****** Chunk 1339: *****
+****** Chunk 1341: *****
 **Statutory systems**
 
 
@@ -31642,7 +31605,7 @@ Without prejudice to Article 2(3)(c), this Directive shall not apply
 to insurance forming part of a statutory system of social security.
 ****** END OF CHUNK ******
 
-****** Chunk 1340: *****
+****** Chunk 1342: *****
 **Exclusion from scope due to size**
 
 
@@ -31673,7 +31636,7 @@ insurance risks, unless they constitute ancillary risks within
 the meaning of Article 16(1);
 ****** END OF CHUNK ******
 
-****** Chunk 1341: *****
+****** Chunk 1343: *****
 (e) the business of the undertaking does not include reinsurance
 operations exceeding EUR 0,5 million of its gross written
 premium income or EUR 2,5 million of its technical provi­
@@ -31690,7 +31653,7 @@ three consecutive years this Directive shall apply as from the
 fourth year.
 ****** END OF CHUNK ******
 
-****** Chunk 1342: *****
+****** Chunk 1344: *****
 2. If any of the amounts set out in paragraph 1 is exceeded for
 three consecutive years this Directive shall apply as from the
 fourth year.
@@ -31718,7 +31681,7 @@ exceeded for the three previous consecutive years; and
 be exceeded during the following five years.
 ****** END OF CHUNK ******
 
-****** Chunk 1343: *****
+****** Chunk 1345: *****
 (b) none of the thresholds set out in paragraph 1 is expected to
 be exceeded during the following five years.
 
@@ -31733,11 +31696,11 @@ applying for authorisation or continuing to be authorised under
 this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1344: *****
+****** Chunk 1346: *****
 **Non- life**
 ****** END OF CHUNK ******
 
-****** Chunk 1345: *****
+****** Chunk 1347: *****
 **Operations**
 
 
@@ -31767,7 +31730,7 @@ anteed by the State, or where the State is the insurer.
 L 335/20 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1346: *****
+****** Chunk 1348: *****
 **Assistance**
 
 
@@ -31775,7 +31738,7 @@ L 335/20 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1347: *****
+****** Chunk 1349: *****
 **Mutual undertakings**
 
 
@@ -31807,7 +31770,7 @@ nearest location from where they may continue their
 journey by other means; and
 ****** END OF CHUNK ******
 
-****** Chunk 1348: *****
+****** Chunk 1350: *****
 (iii) where provided for by the home Member State of the
 undertaking providing cover, the conveyance of the
 vehicle, possibly accompanied by the driver and passen­
@@ -31819,7 +31782,7 @@ nation within the same State; and
 this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1349: *****
+****** Chunk 1351: *****
 (c) the assistance is not carried out by an undertaking subject to
 this Directive.
 
@@ -31837,7 +31800,7 @@ where the assistance operations are provided by a single body
 operating in both States.
 ****** END OF CHUNK ******
 
-****** Chunk 1350: *****
+****** Chunk 1352: *****
 3. This Directive shall not apply in the case of operations
 referred to in point (iii) of paragraph 1(b), where the accident or
 the breakdown has occurred in the territory of Ireland or, in the
@@ -31856,7 +31819,7 @@ been involved in that accident or breakdown, possibly accompa­
 nied by the driver and passengers, to their home.
 ****** END OF CHUNK ******
 
-****** Chunk 1351: *****
+****** Chunk 1353: *****
 This Directive shall not apply to mutual undertakings which pur­
 sue non-life insurance activities and which have concluded with
 other mutual undertakings an agreement which provides for the
@@ -31867,7 +31830,7 @@ a case the accepting undertaking shall be subject to the rules of
 this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1352: *****
+****** Chunk 1354: *****
 **Institutions**
 
 
@@ -31894,11 +31857,11 @@ applicable law are amended as regards capacity:
 (4) in Spain, the Consorcio de Compensación de Seguros.
 ****** END OF CHUNK ******
 
-****** Chunk 1353: *****
+****** Chunk 1355: *****
 **Life**
 ****** END OF CHUNK ******
 
-****** Chunk 1354: *****
+****** Chunk 1356: *****
 **Operations and activities**
 
 
@@ -31928,7 +31891,7 @@ mathematical provisions;
 Official Journ al of the E uropean Un ion L 335/21
 ****** END OF CHUNK ******
 
-****** Chunk 1355: *****
+****** Chunk 1357: *****
 Official Journ al of the E uropean Un ion L 335/21
 
 
@@ -31955,7 +31918,7 @@ participation of new insurance companies or groups,
 including pension insurance companies.
 ****** END OF CHUNK ******
 
-****** Chunk 1356: *****
+****** Chunk 1358: *****
 **Organisations, undertakings and institutions**
 
 
@@ -31979,11 +31942,11 @@ its statutes are amended as regards the scope of its activities
 or capacity.
 ****** END OF CHUNK ******
 
-****** Chunk 1357: *****
+****** Chunk 1359: *****
 **Reinsurance**
 ****** END OF CHUNK ******
 
-****** Chunk 1358: *****
+****** Chunk 1360: *****
 **Reinsurance**
 
 
@@ -31996,7 +31959,7 @@ required by a situation in the market in which it is not feasible to
 obtain adequate commercial cover.
 ****** END OF CHUNK ******
 
-****** Chunk 1359: *****
+****** Chunk 1361: *****
 **Reinsurance undertakings closing their activity**
 
 
@@ -32011,11 +31974,11 @@ takings concerned and communicate that list to all the other
 Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1360: *****
+****** Chunk 1362: *****
 **D e f i n i t i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1361: *****
+****** Chunk 1363: *****
 **Definitions**
 
 
@@ -32045,7 +32008,7 @@ taking in accordance with Article 14 if its head office were
 situated in the Community;
 ****** END OF CHUNK ******
 
-****** Chunk 1362: *****
+****** Chunk 1364: *****
 (4) ‘reinsurance undertaking’ means an undertaking which has
 received authorisation in accordance with Article 14 to pur­
 sue reinsurance activities;
@@ -32075,7 +32038,7 @@ undertaking in accordance with Article 14 if its head office
 were situated in the Community;
 ****** END OF CHUNK ******
 
-****** Chunk 1363: *****
+****** Chunk 1365: *****
 (7) ‘reinsurance’ means either of the following:
 
 
@@ -32109,7 +32072,7 @@ mitment is situated; or
 office of the reinsurance undertaking is situated;
 ****** END OF CHUNK ******
 
-****** Chunk 1364: *****
+****** Chunk 1366: *****
 (c) for reinsurance, the Member State in which the head
 office of the reinsurance undertaking is situated;
 
@@ -32134,7 +32097,7 @@ reinsurance undertaking which is located in the territory of
 a Member State other than the home Member State;
 ****** END OF CHUNK ******
 
-****** Chunk 1365: *****
+****** Chunk 1367: *****
 (11) ‘branch’ means an agency or a branch of an insurance or
 reinsurance undertaking which is located in the territory of
 a Member State other than the home Member State;
@@ -32170,7 +32133,7 @@ the Member State in which either of the following is
 situated:
 ****** END OF CHUNK ******
 
-****** Chunk 1366: *****
+****** Chunk 1368: *****
 (d) in all cases not explicitly covered by points (a), (b) or (c),
 the Member State in which either of the following is
 situated:
@@ -32204,7 +32167,7 @@ within the meaning of Article 1 of Directive 83/349/EEC,
 including subsidiaries thereof;
 ****** END OF CHUNK ******
 
-****** Chunk 1367: *****
+****** Chunk 1369: *****
 (16) ‘subsidiary undertaking’ means any subsidiary undertaking
 within the meaning of Article 1 of Directive 83/349/EEC,
 including subsidiaries thereof;
@@ -32229,7 +32192,7 @@ natural or legal person and an undertaking;
 Official Journ al of the E uropean Un ion L 335/23
 ****** END OF CHUNK ******
 
-****** Chunk 1368: *****
+****** Chunk 1370: *****
 Official Journ al of the E uropean Un ion L 335/23
 
 
@@ -32258,7 +32221,7 @@ undertaking;
 (22) ‘regulated market’ means either of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1369: *****
+****** Chunk 1371: *****
 (22) ‘regulated market’ means either of the following:
 
 
@@ -32293,7 +32256,7 @@ Article 1(4) of Directive 84/5/EEC;
 (25) ‘financial undertaking’ means any of the following entities:
 ****** END OF CHUNK ******
 
-****** Chunk 1370: *****
+****** Chunk 1372: *****
 (24) ‘national guarantee fund’ means the body referred to in
 Article 1(4) of Directive 84/5/EEC;
 
@@ -32320,7 +32283,7 @@ meaning of Article 4(1)(1) of Directive 2004/39/EC; or
 of Article 2(15) of Directive 2002/87/EC
 ****** END OF CHUNK ******
 
-****** Chunk 1371: *****
+****** Chunk 1373: *****
 (d) a mixed financial holding company within the meaning
 of Article 2(15) of Directive 2002/87/EC
 
@@ -32351,7 +32314,7 @@ the liberal professions and the risks relate to such
 activity;
 ****** END OF CHUNK ******
 
-****** Chunk 1372: *****
+****** Chunk 1374: *****
 (c) risks classified under classes 3, 8, 9, 10, 13 and 16 in
 Part A of Annex I in so far as the policy holder exceeds
 the limits of at least two of the following criteria:
@@ -32385,7 +32348,7 @@ fessional associations, joint ventures or temporary
 groupings;
 ****** END OF CHUNK ******
 
-****** Chunk 1373: *****
+****** Chunk 1375: *****
 Member States may add to the category referred to in
 point (c) of the first subparagraph the risks insured by pro­
 fessional associations, joint ventures or temporary
@@ -32410,7 +32373,7 @@ L 335/24 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1374: *****
+****** Chunk 1376: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -32433,7 +32396,7 @@ fluctuations in the level and in the volatility of market prices
 of assets, liabilities and financial instruments;
 ****** END OF CHUNK ******
 
-****** Chunk 1375: *****
+****** Chunk 1377: *****
 (32) ‘credit risk’ means the risk of loss or of adverse change in the
 financial situation, resulting from fluctuations in the credit
 standing of issuers of securities, counterparties and any debt­
@@ -32459,7 +32422,7 @@ the financial position of insurance and reinsurance
 undertakings;
 ****** END OF CHUNK ******
 
-****** Chunk 1376: *****
+****** Chunk 1378: *****
 (35) ‘concentration risk’ means all risk exposures with a loss
 potential which is large enough to threaten the solvency or
 the financial position of insurance and reinsurance
@@ -32484,7 +32447,7 @@ function that assigns to an exhaustive set of mutually exclu­
 sive future events a probability of realisation;
 ****** END OF CHUNK ******
 
-****** Chunk 1377: *****
+****** Chunk 1379: *****
 (38) ‘probability distribution forecast’ means a mathematical
 function that assigns to an exhaustive set of mutually exclu­
 sive future events a probability of realisation;
@@ -32496,11 +32459,11 @@ cast and increases monotonically with the level of risk expo­
 sure underlying that probability distribution forecast.
 ****** END OF CHUNK ******
 
-****** Chunk 1378: *****
+****** Chunk 1380: *****
 _**Taking-up of business**_
 ****** END OF CHUNK ******
 
-****** Chunk 1379: *****
+****** Chunk 1381: *****
 **Principle of authorisation**
 
 
@@ -32524,7 +32487,7 @@ ness to an entire insurance class or to insurance classes other
 than those already authorised.
 ****** END OF CHUNK ******
 
-****** Chunk 1380: *****
+****** Chunk 1382: *****
 **Scope of authorisation**
 
 
@@ -32554,7 +32517,7 @@ be pursued simultaneously.
 authorisation for the groups of classes listed in Part B of Annex I.
 ****** END OF CHUNK ******
 
-****** Chunk 1381: *****
+****** Chunk 1383: *****
 3. In regard to non-life insurance, Member States may grant
 authorisation for the groups of classes listed in Part B of Annex I.
 
@@ -32583,7 +32546,7 @@ non-life reinsurance activity, life reinsurance activity or all kinds
 of reinsurance activity.
 ****** END OF CHUNK ******
 
-****** Chunk 1382: *****
+****** Chunk 1384: *****
 5. In regard to reinsurance, authorisation shall be granted for
 non-life reinsurance activity, life reinsurance activity or all kinds
 of reinsurance activity.
@@ -32596,7 +32559,7 @@ authorisation by the Member State from which the authorisation
 is sought.
 ****** END OF CHUNK ******
 
-****** Chunk 1383: *****
+****** Chunk 1385: *****
 **Ancillary risks**
 
 
@@ -32629,7 +32592,7 @@ down in paragraph 1 and either of the following conditions are
 fulfilled:
 ****** END OF CHUNK ******
 
-****** Chunk 1384: *****
+****** Chunk 1386: *****
 (a) the main risk relates solely to the assistance provided for per­
 sons who fall into difficulties while travelling, while away
 from their home or their habitual residence; or
@@ -32639,7 +32602,7 @@ from their home or their habitual residence; or
 connection with, the use of sea-going vessels.
 ****** END OF CHUNK ******
 
-****** Chunk 1385: *****
+****** Chunk 1387: *****
 **Legal form of the insurance or reinsurance undertaking**
 
 
@@ -32664,7 +32627,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1386: *****
+****** Chunk 1388: *****
 **Conditions for authorisation**
 
 
@@ -32698,7 +32661,7 @@ own funds to cover the Solvency Capital Requirement, as
 provided for in Article 100, going forward;
 ****** END OF CHUNK ******
 
-****** Chunk 1387: *****
+****** Chunk 1389: *****
 (e) to show evidence that it will be in a position to hold eligible
 own funds to cover the Solvency Capital Requirement, as
 provided for in Article 100, going forward;
@@ -32722,7 +32685,7 @@ Part A of Annex I to this Directive, other than carrier’s
 liability.
 ****** END OF CHUNK ******
 
-****** Chunk 1388: *****
+****** Chunk 1390: *****
 2. An insurance undertaking seeking authorisation to extend
 its business to other classes or to extend an authorisation cover­
 ing only some of the risks pertaining to one class shall be required
@@ -32748,7 +32711,7 @@ business to the risks listed in classes 1 or 2 in Part A of Annex I as
 referred to in Article 73, shall demonstrate that it:
 ****** END OF CHUNK ******
 
-****** Chunk 1389: *****
+****** Chunk 1391: *****
 (a) possesses the eligible basic own funds to cover the absolute
 floor of the Minimum Capital Requirement for life insurance
 undertakings and the absolute floor of the Minimum Capital
@@ -32774,12 +32737,12 @@ Requirement for non-life insurance undertakings, as referred
 to in Article 129(1)(d);
 ****** END OF CHUNK ******
 
-****** Chunk 1390: *****
+****** Chunk 1392: *****
 (b) undertakes to cover the minimum financial obligations
 referred to in Article 74(3) going forward.
 ****** END OF CHUNK ******
 
-****** Chunk 1391: *****
+****** Chunk 1393: *****
 **Close links**
 
 
@@ -32804,7 +32767,7 @@ require to monitor compliance with the conditions referred to in
 the first paragraph on a continuous basis.
 ****** END OF CHUNK ******
 
-****** Chunk 1392: *****
+****** Chunk 1394: *****
 **Head office of insurance undertakings and reinsurance**
 **undertakings**
 
@@ -32814,7 +32777,7 @@ reinsurance undertakings be situated in the same Member State as
 their registered offices.
 ****** END OF CHUNK ******
 
-****** Chunk 1393: *****
+****** Chunk 1395: *****
 **Policy conditions and scales of premiums**
 
 
@@ -32836,7 +32799,7 @@ prior condition for the authorisation of a life insurance
 undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1394: *****
+****** Chunk 1396: *****
 2. Member States shall not retain or introduce prior notifica­
 tion or approval of proposed increases in premium rates except
 as part of general price-control systems.
@@ -32857,7 +32820,7 @@ any other documents necessary for the normal exercise of
 supervision.
 ****** END OF CHUNK ******
 
-****** Chunk 1395: *****
+****** Chunk 1397: *****
 **Economic requirements of the market**
 
 
@@ -32866,7 +32829,7 @@ sation be considered in the light of the economic requirements of
 the market.
 ****** END OF CHUNK ******
 
-****** Chunk 1396: *****
+****** Chunk 1398: *****
 **Scheme of operations**
 
 
@@ -32904,7 +32867,7 @@ resources at the disposal of the insurance undertaking for the
 provision of the assistance promised.
 ****** END OF CHUNK ******
 
-****** Chunk 1397: *****
+****** Chunk 1399: *****
 2. In addition to the requirements set out in paragraph 1, for
 the first three financial years the scheme shall include the
 following:
@@ -32934,7 +32897,7 @@ Solvency Capital Requirement;
 following:
 ****** END OF CHUNK ******
 
-****** Chunk 1398: *****
+****** Chunk 1400: *****
 (e) in regard to non-life insurance and reinsurance, also the
 following:
 
@@ -32952,7 +32915,7 @@ mates of income and expenditure in respect of direct busi­
 ness, reinsurance acceptances and reinsurance cessions.
 ****** END OF CHUNK ******
 
-****** Chunk 1399: *****
+****** Chunk 1401: *****
 **Shareholders and members with qualifying holdings**
 
 
@@ -32970,7 +32933,7 @@ insurance or reinsurance undertaking, they are not satisfied as to
 the qualifications of the shareholders or members.
 ****** END OF CHUNK ******
 
-****** Chunk 1400: *****
+****** Chunk 1402: *****
 2. For the purposes of paragraph 1, the voting rights referred
 to in Articles 9 and 10 of Directive 2004/109/EC of the European
 Parliament and of the Council of 15 December 2004 on the har­
@@ -32982,7 +32945,7 @@ tion thereof laid down in Article 12(4) and (5) of that Directive,
 shall be taken into account.
 ****** END OF CHUNK ******
 
-****** Chunk 1401: *****
+****** Chunk 1403: *****
 tion thereof laid down in Article 12(4) and (5) of that Directive,
 shall be taken into account.
 
@@ -32997,7 +32960,7 @@ the issuer and, on the other, disposed of within one year of the
 acquisition.
 ****** END OF CHUNK ******
 
-****** Chunk 1402: *****
+****** Chunk 1404: *****
 **Refusal of authorisation**
 
 
@@ -33014,7 +32977,7 @@ supervisory authorities have not dealt with an application for an
 authorisation within six months of the date of its receipt.
 ****** END OF CHUNK ******
 
-****** Chunk 1403: *****
+****** Chunk 1405: *****
 **Prior consultation of the authorities of other Member**
 
 **States**
@@ -33047,7 +33010,7 @@ L 335/28 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1404: *****
+****** Chunk 1406: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -33071,7 +33034,7 @@ ral or legal, who controls a credit institution or investment
 firm authorised in the Community.
 ****** END OF CHUNK ******
 
-****** Chunk 1405: *****
+****** Chunk 1407: *****
 (c) an undertaking controlled by the same person, whether natu­
 ral or legal, who controls a credit institution or investment
 firm authorised in the Community.
@@ -33094,11 +33057,11 @@ ties concerned for the granting of an authorisation as well as for
 the ongoing assessment of compliance with operating conditions.
 ****** END OF CHUNK ******
 
-****** Chunk 1406: *****
+****** Chunk 1408: *****
 **Supervisory authorities and general rules**
 ****** END OF CHUNK ******
 
-****** Chunk 1407: *****
+****** Chunk 1409: *****
 **Main objective of supervision**
 
 
@@ -33108,7 +33071,7 @@ tise, capacity, and mandate to achieve the main objective of super­
 vision, namely the protection of policy holders and beneficiaries.
 ****** END OF CHUNK ******
 
-****** Chunk 1408: *****
+****** Chunk 1410: *****
 **Financial stability and pro-cyclicality**
 
 
@@ -33126,7 +33089,7 @@ In times of exceptional movements in the financial markets,
 supervisory authorities shall take into account the potential procyclical effects of their actions.
 ****** END OF CHUNK ******
 
-****** Chunk 1409: *****
+****** Chunk 1411: *****
 **General principles of supervision**
 
 
@@ -33154,7 +33117,7 @@ the proportionate application of this Directive, in particular to
 small insurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1410: *****
+****** Chunk 1412: *****
 **Supervisory authorities and scope of supervision**
 
 
@@ -33173,7 +33136,7 @@ followed in the home Member State under provisions adopted at
 Community level.
 ****** END OF CHUNK ******
 
-****** Chunk 1411: *****
+****** Chunk 1413: *****
 Where the insurance undertaking concerned is authorised to
 cover the risks classified in class 18 in Part A of Annex I, super­
 vision shall extend to monitoring of the technical resources which
@@ -33199,13 +33162,13 @@ cial soundness, they shall inform the supervisory authorities of
 the home Member State of that undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1412: *****
+****** Chunk 1414: *****
 The supervisory authorities of the home Member State shall deter­
 mine whether the undertaking is complying with the prudential
 principles laid down in this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1413: *****
+****** Chunk 1415: *****
 **Transparency and accountability**
 
 
@@ -33239,7 +33202,7 @@ Directive;
 activities.
 ****** END OF CHUNK ******
 
-****** Chunk 1414: *****
+****** Chunk 1416: *****
 (d) the manner of exercise of the options provided for in this
 Directive;
 
@@ -33265,7 +33228,7 @@ regarding the appointment and dismissal of the members of the
 governing and managing bodies of their supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1415: *****
+****** Chunk 1417: *****
 3. Member States shall provide for transparent procedures
 regarding the appointment and dismissal of the members of the
 governing and managing bodies of their supervisory authorities.
@@ -33284,7 +33247,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1416: *****
+****** Chunk 1418: *****
 **Prohibition of refusal of reinsurance contracts or**
 
 **retrocession contracts**
@@ -33306,7 +33269,7 @@ directly related to the financial soundness of that reinsurance
 undertaking or that insurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1417: *****
+****** Chunk 1419: *****
 **Supervision of branches established in another Member**
 **State**
 
@@ -33325,7 +33288,7 @@ The authorities of the host Member State concerned may partici­
 pate in those verifications.
 ****** END OF CHUNK ******
 
-****** Chunk 1418: *****
+****** Chunk 1420: *****
 **General supervisory powers**
 
 
@@ -33355,7 +33318,7 @@ the power to require all information necessary to conduct super­
 vision in accordance with Article 35.
 ****** END OF CHUNK ******
 
-****** Chunk 1419: *****
+****** Chunk 1421: *****
 3. Member States shall ensure that supervisory authorities have
 the power to require all information necessary to conduct super­
 vision in accordance with Article 35.
@@ -33382,7 +33345,7 @@ reinsurance undertakings.
 tionate manner.
 ****** END OF CHUNK ******
 
-****** Chunk 1420: *****
+****** Chunk 1422: *****
 6. Supervisory powers shall be applied in a timely and propor­
 tionate manner.
 
@@ -33398,7 +33361,7 @@ exercised, if need be by enforcement and, where appropriate,
 through judicial channels.
 ****** END OF CHUNK ******
 
-****** Chunk 1421: *****
+****** Chunk 1423: *****
 **Information to be provided for supervisory purposes**
 
 
@@ -33424,7 +33387,7 @@ cise of their supervisory rights and duties.
 have the following powers:
 ****** END OF CHUNK ******
 
-****** Chunk 1422: *****
+****** Chunk 1424: *****
 2. Member States shall ensure that the supervisory authorities
 have the following powers:
 
@@ -33467,7 +33430,7 @@ bination thereof;
 combination thereof; and
 ****** END OF CHUNK ******
 
-****** Chunk 1423: *****
+****** Chunk 1425: *****
 (a) qualitative or quantitative elements, or any appropriate com­
 bination thereof;
 
@@ -33496,7 +33459,7 @@ parable and consistent over time; and
 (c) it must be relevant, reliable and comprehensible.
 ****** END OF CHUNK ******
 
-****** Chunk 1424: *****
+****** Chunk 1426: *****
 (b) it must be accessible, complete in all material respects, com­
 parable and consistent over time; and
 
@@ -33525,7 +33488,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1425: *****
+****** Chunk 1427: *****
 **Supervisory review process**
 
 
@@ -33555,7 +33518,7 @@ the undertakings are operating.
 evaluate compliance with the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1426: *****
+****** Chunk 1428: *****
 2. The supervisory authorities shall in particular review and
 evaluate compliance with the following:
 
@@ -33590,7 +33553,7 @@ cial conditions in an insurance or reinsurance undertaking and to
 monitor how that deterioration is remedied.
 ****** END OF CHUNK ******
 
-****** Chunk 1427: *****
+****** Chunk 1429: *****
 4. The supervisory authorities shall assess the adequacy of the
 methods and practices of the insurance and reinsurance under­
 takings designed to identify possible events or future changes in
@@ -33614,7 +33577,7 @@ process.
 paragraphs 1, 2 and 4 shall be conducted regularly.
 ****** END OF CHUNK ******
 
-****** Chunk 1428: *****
+****** Chunk 1430: *****
 process.
 
 
@@ -33628,7 +33591,7 @@ ments having regard to the nature, scale and complexity of the
 activities of the insurance or reinsurance undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1429: *****
+****** Chunk 1431: *****
 **Capital add-on**
 
 
@@ -33653,7 +33616,7 @@ Article 119 is inappropriate or has been ineffective; or
 in accordance with Article 119;
 ****** END OF CHUNK ******
 
-****** Chunk 1430: *****
+****** Chunk 1432: *****
 (ii) while a partial or full internal model is being developed
 in accordance with Article 119;
 
@@ -33669,7 +33632,7 @@ better reflect the given risk profile has failed within an appro­
 priate timeframe; or
 ****** END OF CHUNK ******
 
-****** Chunk 1431: *****
+****** Chunk 1433: *****
 (c) the supervisory authority concludes that the system of gov­
 ernance of an insurance or reinsurance undertaking deviates
 significantly from the standards laid down in Chapter IV, Sec­
@@ -33691,7 +33654,7 @@ ciencies which gave rise to the decision of the supervisory author­
 ity to set the add-on.
 ****** END OF CHUNK ******
 
-****** Chunk 1432: *****
+****** Chunk 1434: *****
 3. In the cases set out in points (b) and (c) of paragraph 1 the
 supervisory authority shall ensure that the insurance or reinsur­
 ance undertaking makes every effort to remedy the deficiencies
@@ -33722,7 +33685,7 @@ accordance with paragraph 1(c) for the purposes of the calcula­
 tion of the risk margin referred to in Article 77(5).
 ****** END OF CHUNK ******
 
-****** Chunk 1433: *****
+****** Chunk 1435: *****
 6. The Commission shall adopt implementing measures lay­
 ing down further specifications for the circumstances under which
 a capital add-on may be imposed and the methodologies for the
@@ -33735,7 +33698,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1434: *****
+****** Chunk 1436: *****
 **Supervision of outsourced functions and activities**
 
 
@@ -33760,7 +33723,7 @@ business premises of the service provider and must be able to
 exercise those rights of access.
 ****** END OF CHUNK ******
 
-****** Chunk 1435: *****
+****** Chunk 1437: *****
 (c) the supervisory authorities must have effective access to the
 business premises of the service provider and must be able to
 exercise those rights of access.
@@ -33783,7 +33746,7 @@ to the supervisory authorities of the Member State where the ser­
 vice provider is located.
 ****** END OF CHUNK ******
 
-****** Chunk 1436: *****
+****** Chunk 1438: *****
 **Transfer of portfolio**
 
 
@@ -33812,7 +33775,7 @@ folio of contracts, the Member State where that branch is situated
 shall be consulted.
 ****** END OF CHUNK ******
 
-****** Chunk 1437: *****
+****** Chunk 1439: *****
 3. Where a branch proposes to transfer all or part of its port­
 folio of contracts, the Member State where that branch is situated
 shall be consulted.
@@ -33836,7 +33799,7 @@ The absence of any response within that period from the authori­
 ties consulted shall be considered as tacit consent.
 ****** END OF CHUNK ******
 
-****** Chunk 1438: *****
+****** Chunk 1440: *****
 The absence of any response within that period from the authori­
 ties consulted shall be considered as tacit consent.
 
@@ -33860,11 +33823,11 @@ option of cancelling contracts within a fixed period after a transfer.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1439: *****
+****** Chunk 1441: *****
 _**Conditions governing business**_
 ****** END OF CHUNK ******
 
-****** Chunk 1440: *****
+****** Chunk 1442: *****
 Official Journ al of the E uropean Un ion L 335/33
 
 
@@ -33880,7 +33843,7 @@ proportionate systems, resources and procedures.
 **m a n a g e m e n t o r s up e r v i s o r y b o d y**
 ****** END OF CHUNK ******
 
-****** Chunk 1441: *****
+****** Chunk 1443: *****
 **Responsibility of the administrative, management or**
 **supervisory body**
 
@@ -33892,11 +33855,11 @@ taking concerned, with the laws, regulations and administrative
 provisions adopted pursuant to this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1442: *****
+****** Chunk 1444: *****
 **S y s t e m o f g o v e r n a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1443: *****
+****** Chunk 1445: *****
 **General governance requirements**
 
 
@@ -33922,7 +33885,7 @@ nature, scale and complexity of the operations of the insurance or
 reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1444: *****
+****** Chunk 1446: *****
 2. The system of governance shall be proportionate to the
 nature, scale and complexity of the operations of the insurance or
 reinsurance undertaking.
@@ -33948,14 +33911,14 @@ emerging risks identified by those undertakings which may affect
 their financial soundness.
 ****** END OF CHUNK ******
 
-****** Chunk 1445: *****
+****** Chunk 1447: *****
 The Member States shall ensure that the supervisory authorities
 have the powers necessary to require that the system of gover­
 nance be improved and strengthened to ensure compliance with
 the requirements set out in Articles 42 to 49.
 ****** END OF CHUNK ******
 
-****** Chunk 1446: *****
+****** Chunk 1448: *****
 **Fit and proper requirements for persons who effectively**
 **run the undertaking or have other key functions**
 
@@ -33981,14 +33944,14 @@ whether any new persons appointed to manage the undertaking
 are fit and proper.
 ****** END OF CHUNK ******
 
-****** Chunk 1447: *****
+****** Chunk 1449: *****
 3. Insurance and reinsurance undertakings shall notify their
 supervisory authority if any of the persons referred to in para­
 graphs 1 and 2 have been replaced because they no longer fulfil
 the requirements referred to in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1448: *****
+****** Chunk 1450: *****
 **Proof of good repute**
 
 
@@ -34008,7 +33971,7 @@ L 335/34 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1449: *****
+****** Chunk 1451: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -34033,7 +33996,7 @@ no previous bankruptcy may also be made before a competent
 professional or trade body in the Member State concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1450: *****
+****** Chunk 1452: *****
 The declaration referred to in the first subparagraph in respect of
 no previous bankruptcy may also be made before a competent
 professional or trade body in the Member State concerned.
@@ -34057,7 +34020,7 @@ support of an application to pursue in the territory of that Mem­
 ber State the activities referred to in Article 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1451: *****
+****** Chunk 1453: *****
 **Risk management**
 
 
@@ -34086,7 +34049,7 @@ The risk-management system shall cover at least the following
 areas:
 ****** END OF CHUNK ******
 
-****** Chunk 1452: *****
+****** Chunk 1454: *****
 The risk-management system shall cover at least the following
 
 areas:
@@ -34128,7 +34091,7 @@ way as to facilitate the implementation of the risk-management
 system.
 ****** END OF CHUNK ******
 
-****** Chunk 1453: *****
+****** Chunk 1455: *****
 4. Insurance and reinsurance undertakings shall provide for a
 risk-management function which shall be structured in such a
 way as to facilitate the implementation of the risk-management
@@ -34162,7 +34125,7 @@ the status of efforts to improve previously identified
 weaknesses.
 ****** END OF CHUNK ******
 
-****** Chunk 1454: *****
+****** Chunk 1456: *****
 **Own risk and solvency assessment**
 
 
@@ -34191,7 +34154,7 @@ laid down in Chapter VI, Section 2;
 Official Journ al of the E uropean Un ion L 335/35
 ****** END OF CHUNK ******
 
-****** Chunk 1455: *****
+****** Chunk 1457: *****
 Official Journ al of the E uropean Un ion L 335/35
 
 
@@ -34214,7 +34177,7 @@ exposed. The undertaking shall demonstrate the methods used in
 that assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 1456: *****
+****** Chunk 1458: *****
 3. In the case referred to in paragraph 1(c), when an internal
 model is used, the assessment shall be performed together with
 the recalibration that transforms the internal risk numbers into
@@ -34237,14 +34200,14 @@ vency assessment as part of the information reported under
 Article 35.
 ****** END OF CHUNK ******
 
-****** Chunk 1457: *****
+****** Chunk 1459: *****
 7. The own-risk and solvency assessment shall not serve to cal­
 culate a capital requirement. The Solvency Capital Requirement
 shall be adjusted only in accordance with Articles 37, 231 to 233
 and 238.
 ****** END OF CHUNK ******
 
-****** Chunk 1458: *****
+****** Chunk 1460: *****
 **Internal control**
 
 
@@ -34267,7 +34230,7 @@ operations of the undertaking concerned and the identification
 and assessment of compliance risk.
 ****** END OF CHUNK ******
 
-****** Chunk 1459: *****
+****** Chunk 1461: *****
 **Internal audit**
 
 
@@ -34291,7 +34254,7 @@ with respect to each of the internal audit findings and recommen­
 dations and shall ensure that those actions are carried out.
 ****** END OF CHUNK ******
 
-****** Chunk 1460: *****
+****** Chunk 1462: *****
 **Actuarial function**
 
 
@@ -34330,7 +34293,7 @@ out in Article 82;
 ments; and
 ****** END OF CHUNK ******
 
-****** Chunk 1461: *****
+****** Chunk 1463: *****
 (g) express an opinion on the overall underwriting policy;
 
 
@@ -34359,7 +34322,7 @@ who are able to demonstrate their relevant experience with appli­
 cable professional and other standards.
 ****** END OF CHUNK ******
 
-****** Chunk 1462: *****
+****** Chunk 1464: *****
 **Outsourcing**
 
 
@@ -34389,7 +34352,7 @@ tor the compliance of the undertaking with its obligations;
 holders.
 ****** END OF CHUNK ******
 
-****** Chunk 1463: *****
+****** Chunk 1465: *****
 (d) undermining continuous and satisfactory service to policy
 holders.
 
@@ -34401,7 +34364,7 @@ subsequent material developments with respect to those functions
 or activities.
 ****** END OF CHUNK ******
 
-****** Chunk 1464: *****
+****** Chunk 1466: *****
 **Implementing measures**
 
 
@@ -34434,18 +34397,18 @@ adopt implementing measures to further specify the elements of
 that assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 1465: *****
+****** Chunk 1467: *****
 3. Those measures, designed to amend non-essential elements
 of this Directive by supplementing it, shall be adopted in accor­
 dance with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1466: *****
+****** Chunk 1468: *****
 **P ub l i c d i s c l o s ur e**
 ****** END OF CHUNK ******
 
-****** Chunk 1467: *****
+****** Chunk 1469: *****
 **Report on solvency and financial condition: contents**
 
 
@@ -34474,7 +34437,7 @@ of its adequacy for the risk profile of the undertaking;
 exposure, concentration, mitigation and sensitivity;
 ****** END OF CHUNK ******
 
-****** Chunk 1468: *****
+****** Chunk 1470: *****
 (c) a description, separately for each category of risk, of the risk
 exposure, concentration, mitigation and sensitivity;
 
@@ -34508,7 +34471,7 @@ of the Solvency Capital Requirement;
 Official Journ al of the E uropean Un ion L 335/37
 ****** END OF CHUNK ******
 
-****** Chunk 1469: *****
+****** Chunk 1471: *****
 (iii) the option set out in Article 304 used for the calculation
 of the Solvency Capital Requirement;
 --- Page 37 ---
@@ -34535,7 +34498,7 @@ explanation of its origin and consequences as well as any
 remedial measures taken.
 ****** END OF CHUNK ******
 
-****** Chunk 1470: *****
+****** Chunk 1472: *****
 2. The description referred to in point (e)(i) of paragraph 1
 shall include an analysis of any significant changes as compared
 to the previous reporting period and an explanation of any major
@@ -34553,7 +34516,7 @@ Article 110, together with concise information on its justification
 by the supervisory authority concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1471: *****
+****** Chunk 1473: *****
 However, and without prejudice to any disclosure that is manda­
 tory under any other legal or regulatory requirements, Member
 States may provide that, although the total Solvency Capital
@@ -34569,7 +34532,7 @@ accompanied, where applicable, by an indication that its final
 amount is still subject to supervisory assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 1472: *****
+****** Chunk 1474: *****
 **Information for and reports by CEIOPS**
 
 
@@ -34608,7 +34571,7 @@ Article 37(1) respectively.
 lowing information:
 ****** END OF CHUNK ******
 
-****** Chunk 1473: *****
+****** Chunk 1475: *****
 2. CEIOPS shall publicly disclose, on an annual basis, the fol­
 lowing information:
 
@@ -34645,7 +34608,7 @@ proportion of capital add-ons imposed under points (a), (b)
 and (c) of Article 37(1) respectively.
 ****** END OF CHUNK ******
 
-****** Chunk 1474: *****
+****** Chunk 1476: *****
 (c) for each of the disclosures referred to in points (a) and (b), the
 proportion of capital add-ons imposed under points (a), (b)
 and (c) of Article 37(1) respectively.
@@ -34658,7 +34621,7 @@ convergence in the use of capital add-ons between supervisory
 authorities in the different Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1475: *****
+****** Chunk 1477: *****
 **Report on solvency and financial condition: applicable**
 **principles**
 
@@ -34689,7 +34652,7 @@ effect in their report on solvency and financial condition and shall
 state the reasons.
 ****** END OF CHUNK ******
 
-****** Chunk 1476: *****
+****** Chunk 1478: *****
 3. Supervisory authorities shall permit insurance and reinsur­
 ance undertakings, to make use of – or refer to – public disclo­
 sures made under other legal or regulatory requirements, to the
@@ -34701,7 +34664,7 @@ required under Article 51 in both their nature and scope.
 referred to in Article 51(1)(e).
 ****** END OF CHUNK ******
 
-****** Chunk 1477: *****
+****** Chunk 1479: *****
 **Report on solvency and financial condition: updates and**
 **additional voluntary information**
 
@@ -34723,7 +34686,7 @@ the undertaking will not be able to submit a realistic shortterm finance scheme 
 one month of the date when non-compliance was observed;
 ****** END OF CHUNK ******
 
-****** Chunk 1478: *****
+****** Chunk 1480: *****
 (b) significant non-compliance with the Solvency Capital
 Requirement is observed and the supervisory authorities do
 not obtain a realistic recovery plan within two months of the
@@ -34743,7 +34706,7 @@ quences, including any remedial measures taken as well as any
 further remedial measures planned.
 ****** END OF CHUNK ******
 
-****** Chunk 1479: *****
+****** Chunk 1481: *****
 In regard to point (b) of the second subparagraph, the supervi­
 sory authorities shall require the undertaking concerned to dis­
 close immediately the amount of non-compliance, together with
@@ -34765,7 +34728,7 @@ be disclosed in accordance with Articles 51 and 53 and para­
 graph 1 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 1480: *****
+****** Chunk 1482: *****
 **Report on solvency and financial condition: policy and**
 **approval**
 
@@ -34784,7 +34747,7 @@ body of the insurance or reinsurance undertaking and be pub­
 lished only after that approval.
 ****** END OF CHUNK ******
 
-****** Chunk 1481: *****
+****** Chunk 1483: *****
 **Solvency and financial condition report: implementing**
 
 **measures**
@@ -34801,11 +34764,11 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1482: *****
+****** Chunk 1484: *****
 **Q ua l i f y i n g h o l d i n g s**
 ****** END OF CHUNK ******
 
-****** Chunk 1483: *****
+****** Chunk 1485: *****
 **Acquisitions**
 
 
@@ -34829,7 +34792,7 @@ seeking to acquire or increase a qualifying holding, indicating the
 Official Journ al of the E uropean Un ion L 335/39
 ****** END OF CHUNK ******
 
-****** Chunk 1484: *****
+****** Chunk 1486: *****
 Official Journ al of the E uropean Un ion L 335/39
 
 
@@ -34839,7 +34802,7 @@ to in Article 59(4). Member States need not apply the 30 %
 threshold where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 ****** END OF CHUNK ******
 
-****** Chunk 1485: *****
+****** Chunk 1487: *****
 2. Member States shall require any natural or legal person who
 has taken a decision to dispose, directly or indirectly, of a quali­
 fying holding in an insurance or reinsurance undertaking first to
@@ -34854,7 +34817,7 @@ that person. Member States need not apply the 30 % threshold
 where, in accordance with Article 9(3)(a) of Directive/EC, they apply a threshold of one third.
 ****** END OF CHUNK ******
 
-****** Chunk 1486: *****
+****** Chunk 1488: *****
 **Assessment period**
 
 
@@ -34878,7 +34841,7 @@ the date of the expiry of the assessment period at the time of
 acknowledging receipt.
 ****** END OF CHUNK ******
 
-****** Chunk 1487: *****
+****** Chunk 1489: *****
 The supervisory authorities shall inform the proposed acquirer of
 the date of the expiry of the assessment period at the time of
 acknowledging receipt.
@@ -34900,7 +34863,7 @@ cation of the information shall be at their discretion but shall not
 result in an interruption of the assessment period.
 ****** END OF CHUNK ******
 
-****** Chunk 1488: *****
+****** Chunk 1490: *****
 3. The supervisory authorities may extend the interruption
 referred to in the second subparagraph of paragraph 2 up to 30
 working days if the proposed acquirer is:
@@ -34918,7 +34881,7 @@ investment in transferable securities (UCITS) ( [1] ), Directive
 /EC, or Directive 2006/48/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 1489: *****
+****** Chunk 1491: *****
 4. If the supervisory authorities, upon completion of the
 assessment, decide to oppose the proposed acquisition, they shall,
 within two working days, and not exceeding the assessment
@@ -34940,7 +34903,7 @@ concluding the proposed acquisition and extend it where
 appropriate.
 ****** END OF CHUNK ******
 
-****** Chunk 1490: *****
+****** Chunk 1492: *****
 6. The supervisory authorities may fix a maximum period for
 concluding the proposed acquisition and extend it where
 appropriate.
@@ -34964,7 +34927,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1491: *****
+****** Chunk 1493: *****
 **Assessment**
 
 
@@ -34991,7 +34954,7 @@ L 335/40 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1492: *****
+****** Chunk 1494: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -35018,7 +34981,7 @@ sory authorities and determine the allocation of
 responsibilities among the supervisory authorities;
 ****** END OF CHUNK ******
 
-****** Chunk 1493: *****
+****** Chunk 1495: *****
 (e) whether there are reasonable grounds to suspect that, in con­
 nection with the proposed acquisition, money laundering or
 terrorist financing within the meaning of Article 1 of Direc­
@@ -35043,7 +35006,7 @@ their supervisory authorities to examine the proposed acquisition
 in terms of the economic needs of the market.
 ****** END OF CHUNK ******
 
-****** Chunk 1494: *****
+****** Chunk 1496: *****
 4. Member States shall make publicly available a list specify­
 ing the information that is necessary to carry out the assessment
 and that must be provided to the supervisory authorities at the
@@ -35064,7 +35027,7 @@ acquirers in a non-discriminatory manner.
 ( [1] [) OJ L 309, 25.11.2005, p. 15.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:309:0015:0015:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 1495: *****
+****** Chunk 1497: *****
 **Acquisitions by regulated financial undertakings**
 
 
@@ -35089,7 +35052,7 @@ sector other than that in which the acquisition is proposed;
 or
 ****** END OF CHUNK ******
 
-****** Chunk 1496: *****
+****** Chunk 1498: *****
 or
 
 
@@ -35112,7 +35075,7 @@ expressed by the supervisory authority responsible for the pro­
 posed acquirer.
 ****** END OF CHUNK ******
 
-****** Chunk 1497: *****
+****** Chunk 1499: *****
 **Information to the supervisory authority by the insurance**
 **or reinsurance undertaking**
 
@@ -35139,7 +35102,7 @@ relating to companies listed on stock exchanges.
 Official Journ al of the E uropean Un ion L 335/41
 ****** END OF CHUNK ******
 
-****** Chunk 1498: *****
+****** Chunk 1500: *****
 **Qualifying holdings, powers of the supervisory authority**
 
 
@@ -35164,7 +35127,7 @@ visory authorities, the Member States shall, regardless of any other
 sanctions to be adopted, provide for:
 ****** END OF CHUNK ******
 
-****** Chunk 1499: *****
+****** Chunk 1501: *****
 Where a holding is acquired despite the opposition of the super­
 visory authorities, the Member States shall, regardless of any other
 sanctions to be adopted, provide for:
@@ -35178,7 +35141,7 @@ rights; or
 annulment.
 ****** END OF CHUNK ******
 
-****** Chunk 1500: *****
+****** Chunk 1502: *****
 **Voting rights**
 
 
@@ -35198,13 +35161,13 @@ the issuer and, on the other, disposed of within one year of
 acquisition.
 ****** END OF CHUNK ******
 
-****** Chunk 1501: *****
+****** Chunk 1503: *****
 **P r o f e s s i o n a l s e c r e c y, e x c h a n g e o f**
 **i n f o r m a t i o n a n d p r o m o t i o n o f s up e r v i s o r y**
 **c o n v e r g e n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1502: *****
+****** Chunk 1504: *****
 **Professional secrecy**
 
 
@@ -35229,7 +35192,7 @@ involved in attempts to rescue that undertaking may be divulged
 in civil or commercial proceedings.
 ****** END OF CHUNK ******
 
-****** Chunk 1503: *****
+****** Chunk 1505: *****
 **Exchange of information between supervisory authorities**
 **of Member States**
 
@@ -35240,7 +35203,7 @@ tion shall be subject to the obligation of professional secrecy laid
 down in Article 64.
 ****** END OF CHUNK ******
 
-****** Chunk 1504: *****
+****** Chunk 1506: *****
 **Cooperation agreements with third countries**
 
 
@@ -35261,7 +35224,7 @@ authority of that Member State and, where appropriate, solely for
 the purposes for which that authority gave its agreement.
 ****** END OF CHUNK ******
 
-****** Chunk 1505: *****
+****** Chunk 1507: *****
 **Use of confidential information**
 
 
@@ -35294,7 +35257,7 @@ L 335/42 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1506: *****
+****** Chunk 1508: *****
 **Exchange of information with other authorities**
 
 
@@ -35327,7 +35290,7 @@ the accounts of insurance undertakings, reinsurance
 undertakings and other financial institutions;
 ****** END OF CHUNK ******
 
-****** Chunk 1507: *****
+****** Chunk 1509: *****
 (iii) persons responsible for carrying out statutory audits of
 the accounts of insurance undertakings, reinsurance
 undertakings and other financial institutions;
@@ -35357,7 +35320,7 @@ in the liquidation and bankruptcy of insurance undertakings,
 reinsurance undertakings and other similar procedures;
 ****** END OF CHUNK ******
 
-****** Chunk 1508: *****
+****** Chunk 1510: *****
 (a) the authorities responsible for overseeing the bodies involved
 in the liquidation and bankruptcy of insurance undertakings,
 reinsurance undertakings and other similar procedures;
@@ -35389,7 +35352,7 @@ subparagraph;
 professional secrecy laid down in Article 64;
 ****** END OF CHUNK ******
 
-****** Chunk 1509: *****
+****** Chunk 1511: *****
 (b) the information received must be subject to the obligation of
 professional secrecy laid down in Article 64;
 
@@ -35415,7 +35378,7 @@ sible for the detection and investigation of breaches of company
 law.
 ****** END OF CHUNK ******
 
-****** Chunk 1510: *****
+****** Chunk 1512: *****
 Member States which apply the first subparagraph shall require
 that at least the following conditions are met:
 
@@ -35435,7 +35398,7 @@ appropriate, solely for the purposes for which that authority
 gave its agreement.
 ****** END OF CHUNK ******
 
-****** Chunk 1511: *****
+****** Chunk 1513: *****
 Where, in a Member State, the authorities or bodies referred to in
 the first subparagraph perform their task of detection or investi­
 gation with the aid of persons appointed, in view of their specific
@@ -35458,7 +35421,7 @@ or bodies which may receive information pursuant to
 paragraph 3.
 ****** END OF CHUNK ******
 
-****** Chunk 1512: *****
+****** Chunk 1514: *****
 **Disclosure of information to government administrations**
 **responsible for financial legislation**
 
@@ -35481,7 +35444,7 @@ services and insurance or reinsurance undertakings and to inspec­
 tors acting on behalf of those departments.
 ****** END OF CHUNK ******
 
-****** Chunk 1513: *****
+****** Chunk 1515: *****
 Such disclosure shall be made only where necessary for reasons
 of prudential control. Member States shall, however, provide that
 information received under Article 65 and Article 68(1), and
@@ -35492,7 +35455,7 @@ or of the supervisory authority of the Member State in which the
 on-site verification was carried out.
 ****** END OF CHUNK ******
 
-****** Chunk 1514: *****
+****** Chunk 1516: *****
 **Transmission of information to central banks and**
 **monetary authorities**
 
@@ -35517,7 +35480,7 @@ subject to the provisions on professional secrecy laid down in this
 Section..
 ****** END OF CHUNK ******
 
-****** Chunk 1515: *****
+****** Chunk 1517: *****
 **Supervisory convergence**
 
 
@@ -35537,7 +35500,7 @@ take duly into account its guidelines and recommendations
 referred to in paragraph 3 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 1516: *****
+****** Chunk 1518: *****
 3. CEIOPS shall, where necessary, provide for non-legally bind­
 ing guidelines and recommendations concerning the implemen­
 tation of the provisions of this Directive and its implementing
@@ -35548,11 +35511,11 @@ Commission on the progress of the supervisory convergence in
 the Community.
 ****** END OF CHUNK ******
 
-****** Chunk 1517: *****
+****** Chunk 1519: *****
 **D ut i e s o f a ud i t o r s**
 ****** END OF CHUNK ******
 
-****** Chunk 1518: *****
+****** Chunk 1520: *****
 **Duties of auditors**
 
 
@@ -35570,7 +35533,7 @@ ing of which they have become aware while carrying out that task
 and which is liable to bring about any of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1519: *****
+****** Chunk 1521: *****
 (a) a material breach of the laws, regulations or administrative
 provisions which lay down the conditions governing autho­
 risation or which specifically govern pursuit of the activities
@@ -35599,7 +35562,7 @@ relationship with the insurance or reinsurance undertaking within
 which they are carrying out that task.
 ****** END OF CHUNK ******
 
-****** Chunk 1520: *****
+****** Chunk 1522: *****
 2. The disclosure in good faith to the supervisory authorities,
 by persons authorised within the meaning of Directive/EEC, of any fact or decision referred to in paragraph 1
 shall not constitute a breach of any restriction on disclosure of
@@ -35617,11 +35580,11 @@ L 335/44 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1521: *****
+****** Chunk 1523: *****
 _**Pursuit of life and non-life insurance activity**_
 ****** END OF CHUNK ******
 
-****** Chunk 1522: *****
+****** Chunk 1524: *****
 **Pursuit of life and non-life insurance activity**
 
 
@@ -35647,7 +35610,7 @@ However, each activity shall be separately managed in accordance
 with Article 74.
 ****** END OF CHUNK ******
 
-****** Chunk 1523: *****
+****** Chunk 1525: *****
 However, each activity shall be separately managed in accordance
 with Article 74.
 
@@ -35671,7 +35634,7 @@ arrangement which could affect the apportionment of expenses
 and income.
 ****** END OF CHUNK ******
 
-****** Chunk 1524: *****
+****** Chunk 1526: *****
 5. Undertakings which on the following dates pursued simul­
 taneously both life and non-life insurance activities covered by
 this Directive may continue to pursue those activities simulta­
@@ -35702,7 +35665,7 @@ Romania;
 (f) 15 March 1979 for all other undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1525: *****
+****** Chunk 1527: *****
 (e) 1 January 2007 for undertakings authorised in Bulgaria and
 Romania;
 
@@ -35718,7 +35681,7 @@ which they were engaged on the dates referred to in the first
 subparagraph.
 ****** END OF CHUNK ******
 
-****** Chunk 1526: *****
+****** Chunk 1528: *****
 **Separation of life and non-life insurance management**
 
 
@@ -35743,7 +35706,7 @@ undertaking concerned only pursued that activity, on the
 basis of the separate accounts referred to in paragraph 6; and
 ****** END OF CHUNK ******
 
-****** Chunk 1527: *****
+****** Chunk 1529: *****
 (b) a notional non-life Minimum Capital Requirement with
 respect to their non-life insurance or reinsurance activity, cal­
 culated as if the undertaking concerned only pursued that
@@ -35768,7 +35731,7 @@ The minimum financial obligations referred to in the first sub­
 paragraph, in respect of the life insurance activity and the nonlife insurance activity, shall not be borne by the other activity.
 ****** END OF CHUNK ******
 
-****** Chunk 1528: *****
+****** Chunk 1530: *****
 The minimum financial obligations referred to in the first sub­
 paragraph, in respect of the life insurance activity and the nonlife insurance activity, shall not be borne by the other activity.
 
@@ -35793,7 +35756,7 @@ life and non-life insurance activities so as to ensure that the
 requirements of paragraphs 1 to 4 are fulfilled.
 ****** END OF CHUNK ******
 
-****** Chunk 1529: *****
+****** Chunk 1531: *****
 5. The supervisory authorities shall analyse the results in both
 life and non-life insurance activities so as to ensure that the
 requirements of paragraphs 1 to 4 are fulfilled.
@@ -35810,7 +35773,7 @@ shall be entered in the accounts in accordance with methods of
 apportionment to be accepted by the supervisory authority.
 ****** END OF CHUNK ******
 
-****** Chunk 1530: *****
+****** Chunk 1532: *****
 Insurance undertakings shall, on the basis of the accounts, pre­
 pare a statement in which the eligible basic own-fund items cov­
 ering each notional Minimum Capital Requirement as referred to
@@ -35832,18 +35795,18 @@ fer of explicit eligible basic own-fund items from one activity to
 the other.
 ****** END OF CHUNK ******
 
-****** Chunk 1531: *****
+****** Chunk 1533: *****
 _**Rules relating to the valuation of assets and liabilities,**_
 _**technical provisions, own funds, Solvency Capital**_
 _**Requirement, Minimum Capital Requirement and investment**_
 _**rules**_
 ****** END OF CHUNK ******
 
-****** Chunk 1532: *****
+****** Chunk 1534: *****
 **V a l ua t i o n o f a s s e t s a n d l i a b i l i t i e s**
 ****** END OF CHUNK ******
 
-****** Chunk 1533: *****
+****** Chunk 1535: *****
 **Valuation of assets and liabilities**
 
 
@@ -35873,7 +35836,7 @@ out the methods and assumptions to be used in the valuation of
 assets and liabilities as laid down in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1534: *****
+****** Chunk 1536: *****
 2. The Commission shall adopt implementing measures to set
 out the methods and assumptions to be used in the valuation of
 assets and liabilities as laid down in paragraph 1.
@@ -35885,11 +35848,11 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1535: *****
+****** Chunk 1537: *****
 **R ul e s r e l a t i n g t o t e c h n i c a l p r o v i s i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1536: *****
+****** Chunk 1538: *****
 **General provisions**
 
 
@@ -35916,7 +35879,7 @@ consistency).
 able and objective manner.
 ****** END OF CHUNK ******
 
-****** Chunk 1537: *****
+****** Chunk 1539: *****
 4. Technical provisions shall be calculated in a prudent, reli­
 able and objective manner.
 
@@ -35927,7 +35890,7 @@ calculation of technical provisions shall be carried out in accor­
 dance with Articles 77 to 82 and 86.
 ****** END OF CHUNK ******
 
-****** Chunk 1538: *****
+****** Chunk 1540: *****
 **Calculation of technical provisions**
 
 
@@ -35959,7 +35922,7 @@ to settle the insurance and reinsurance obligations over the life­
 time thereof.
 ****** END OF CHUNK ******
 
-****** Chunk 1539: *****
+****** Chunk 1541: *****
 The best estimate shall be calculated gross, without deduction of
 the amounts recoverable from reinsurance contracts and special
 purpose vehicles. Those amounts shall be calculated separately, in
@@ -35977,7 +35940,7 @@ obligations.
 estimate and the risk margin separately.
 ****** END OF CHUNK ******
 
-****** Chunk 1540: *****
+****** Chunk 1542: *****
 4. Insurance and reinsurance undertakings shall value the best
 estimate and the risk margin separately.
 
@@ -35999,7 +35962,7 @@ necessary to support the insurance and reinsurance obligations
 over the lifetime thereof.
 ****** END OF CHUNK ******
 
-****** Chunk 1541: *****
+****** Chunk 1543: *****
 The rate used in the determination of the cost of providing that
 amount of eligible own funds (Cost-of-Capital rate) shall be the
 same for all insurance and reinsurance undertakings and shall be
@@ -36015,7 +35978,7 @@ Requirement necessary to support insurance and reinsurance obli­
 gations over the lifetime of those obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 1542: *****
+****** Chunk 1544: *****
 **Other elements to be taken into account in the calculation**
 **of technical provisions**
 
@@ -36039,7 +36002,7 @@ ments are contractually guaranteed, unless those payments
 fall under Article 91(2).
 ****** END OF CHUNK ******
 
-****** Chunk 1543: *****
+****** Chunk 1545: *****
 **Valuation of financial guarantees and contractual options**
 **included in insurance and reinsurance contracts**
 
@@ -36059,7 +36022,7 @@ the impact that future changes in financial and non-financial con­
 ditions may have on the exercise of those options.
 ****** END OF CHUNK ******
 
-****** Chunk 1544: *****
+****** Chunk 1546: *****
 **Segmentation**
 
 
@@ -36071,7 +36034,7 @@ technical provisions.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1545: *****
+****** Chunk 1547: *****
 Official Journ al of the E uropean Un ion L 335/47
 
 
@@ -36101,7 +36064,7 @@ of the counterparty and the average loss resulting therefrom
 (loss-given-default).
 ****** END OF CHUNK ******
 
-****** Chunk 1546: *****
+****** Chunk 1548: *****
 **Data quality and application of approximations, including**
 **case-by-case approaches, for technical provisions**
 
@@ -36121,7 +36084,7 @@ tions, including case-by-case approaches, may be used in the cal­
 culation of the best estimate.
 ****** END OF CHUNK ******
 
-****** Chunk 1547: *****
+****** Chunk 1549: *****
 **Comparison against experience**
 
 
@@ -36138,7 +36101,7 @@ appropriate adjustments to the actuarial methods being used
 and/or the assumptions being made.
 ****** END OF CHUNK ******
 
-****** Chunk 1548: *****
+****** Chunk 1550: *****
 **Appropriateness of the level of technical provisions**
 
 
@@ -36149,7 +36112,7 @@ ity and relevance of the methods applied, and the adequacy of the
 underlying statistical data used.
 ****** END OF CHUNK ******
 
-****** Chunk 1549: *****
+****** Chunk 1551: *****
 **Increase of technical provisions**
 
 
@@ -36161,7 +36124,7 @@ technical provisions so that they correspond to the level deter­
 mined pursuant to those Articles.
 ****** END OF CHUNK ******
 
-****** Chunk 1550: *****
+****** Chunk 1552: *****
 **Implementing measures**
 
 
@@ -36194,7 +36157,7 @@ surance obligations are to be segmented in order to calculate
 technical provisions;
 ****** END OF CHUNK ******
 
-****** Chunk 1551: *****
+****** Chunk 1553: *****
 (e) the lines of business on the basis of which insurance and rein­
 surance obligations are to be segmented in order to calculate
 technical provisions;
@@ -36220,7 +36183,7 @@ party default adjustment referred to in Article 81 designed to
 capture expected losses due to default of the counterparty;
 ****** END OF CHUNK ******
 
-****** Chunk 1552: *****
+****** Chunk 1554: *****
 (g) the methodologies to be used when calculating the counter­
 party default adjustment referred to in Article 81 designed to
 capture expected losses due to default of the counterparty;
@@ -36240,15 +36203,15 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1553: *****
+****** Chunk 1555: *****
 **O w n f un d s**
 ****** END OF CHUNK ******
 
-****** Chunk 1554: *****
+****** Chunk 1556: *****
 **D e t e r m i n a t i o n o f o w n f un d s**
 ****** END OF CHUNK ******
 
-****** Chunk 1555: *****
+****** Chunk 1557: *****
 **Own funds**
 
 
@@ -36256,7 +36219,7 @@ Own funds shall comprise the sum of basic own funds, referred
 to in Article 88 and ancillary own funds referred to in Article 89.
 ****** END OF CHUNK ******
 
-****** Chunk 1556: *****
+****** Chunk 1558: *****
 **Basic own funds**
 
 
@@ -36275,7 +36238,7 @@ amount of own shares held by the insurance or reinsurance
 undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1557: *****
+****** Chunk 1559: *****
 **Ancillary own funds**
 
 
@@ -36312,7 +36275,7 @@ up, it shall be treated as an asset and cease to form part of ancil­
 lary own-fund items.
 ****** END OF CHUNK ******
 
-****** Chunk 1558: *****
+****** Chunk 1560: *****
 **Supervisory approval of ancillary own funds**
 
 
@@ -36342,7 +36305,7 @@ the amount determined in accordance with that method shall
 be granted for a specified period of time.
 ****** END OF CHUNK ******
 
-****** Chunk 1559: *****
+****** Chunk 1561: *****
 4. For each ancillary own-fund item, supervisory authorities
 shall base their approval on an assessment of the following:
 
@@ -36369,7 +36332,7 @@ lary own funds, to the extent that information can be reliably
 used to assess the expected outcome of future calls.
 ****** END OF CHUNK ******
 
-****** Chunk 1560: *****
+****** Chunk 1562: *****
 **Surplus funds**
 
 
@@ -36383,7 +36346,7 @@ shall not be considered as insurance and reinsurance liabilities to
 the extent that they fulfil the criteria set out in Article 94(1).
 ****** END OF CHUNK ******
 
-****** Chunk 1561: *****
+****** Chunk 1563: *****
 **Implementing measures**
 
 
@@ -36422,7 +36385,7 @@ meaning of Article 4(1) and (5) of Directive 2006/48/EC,
 Article 4(1) of Directive 2004/39/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 1562: *****
+****** Chunk 1564: *****
 (ii) investment firms within the meaning of point 1 of
 Article 4(1) of Directive 2004/39/EC;
 
@@ -36434,11 +36397,11 @@ defined in point (a) of this paragraph in which they hold a
 participation.
 ****** END OF CHUNK ******
 
-****** Chunk 1563: *****
+****** Chunk 1565: *****
 **Classification of own funds**
 ****** END OF CHUNK ******
 
-****** Chunk 1564: *****
+****** Chunk 1566: *****
 **Characteristics and features used to classify own funds**
 **into tiers**
 
@@ -36462,7 +36425,7 @@ ers and beneficiaries of insurance and reinsurance contracts,
 have been met (subordination).
 ****** END OF CHUNK ******
 
-****** Chunk 1565: *****
+****** Chunk 1567: *****
 2. When assessing the extent to which own-fund items pos­
 sess the characteristics set out in points (a) and (b) of paragraph 1,
 currently and in the future, due consideration shall be given to the
@@ -36488,7 +36451,7 @@ redeem the nominal sum (absence of incentives to redeem);
 encumbrances).
 ****** END OF CHUNK ******
 
-****** Chunk 1566: *****
+****** Chunk 1568: *****
 **Main criteria for the classification into tiers**
 
 
@@ -36520,7 +36483,7 @@ Article 93(2).
 under paragraphs 1 and 2 shall be classified in Tier 3.
 ****** END OF CHUNK ******
 
-****** Chunk 1567: *****
+****** Chunk 1569: *****
 **Classification of own funds into tiers**
 
 
@@ -36540,7 +36503,7 @@ in accordance with the first paragraph. That classification shall be
 subject to approval by the supervisory authority.
 ****** END OF CHUNK ******
 
-****** Chunk 1568: *****
+****** Chunk 1570: *****
 **Classification of specific insurance own-fund items**
 
 
@@ -36567,7 +36530,7 @@ tary contributions, within the following 12 months, shall be
 classified in Tier 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1569: *****
+****** Chunk 1571: *****
 In accordance with the second subparagraph of Article 94(2), any
 future claims which mutual or mutual-type associations with vari­
 able contributions may have against their members by way of a
@@ -36578,7 +36541,7 @@ acteristics set out in Article 93(1)(a) and (b), taking into consid­
 eration the features set out in Article 93(2).
 ****** END OF CHUNK ******
 
-****** Chunk 1570: *****
+****** Chunk 1572: *****
 **Implementing measures**
 
 
@@ -36608,11 +36571,11 @@ priate, update the list referred to in paragraph 1(a) in the light of
 market developments.
 ****** END OF CHUNK ******
 
-****** Chunk 1571: *****
+****** Chunk 1573: *****
 **Eligibility of own funds**
 ****** END OF CHUNK ******
 
-****** Chunk 1572: *****
+****** Chunk 1574: *****
 **Eligibility and limits applicable to Tiers 1, 2 and 3**
 
 
@@ -36640,7 +36603,7 @@ items in the eligible basic own funds is higher than one half of the
 total amount of eligible basic own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 1573: *****
+****** Chunk 1575: *****
 3. The eligible amount of own funds to cover the Solvency
 Capital Requirement set out in Article 100 shall be equal to the
 sum of the amount of Tier 1, the eligible amount of Tier 2 and
@@ -36660,7 +36623,7 @@ the sum of the amount of Tier 1 and the eligible amount of basic
 own-fund items classified in Tier 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1574: *****
+****** Chunk 1576: *****
 **Implementing measures**
 
 
@@ -36683,17 +36646,17 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1575: *****
+****** Chunk 1577: *****
 **S o l v e n c y c a p i t a l r e q ui r e m e n t**
 ****** END OF CHUNK ******
 
-****** Chunk 1576: *****
+****** Chunk 1578: *****
 **G e n e r a l p r o v i s i o n s f o r t h e s o l v e n c y c a p i t a l**
 **r e q ui r e m e n t us i n g t h e s t a n d a r d f o r m ul a o r a n**
 **i n t e r n a l m o d e l**
 ****** END OF CHUNK ******
 
-****** Chunk 1577: *****
+****** Chunk 1579: *****
 **General provisions**
 
 
@@ -36707,7 +36670,7 @@ accordance with the standard formula in Subsection 2 or using an
 internal model, as set out in Subsection 3.
 ****** END OF CHUNK ******
 
-****** Chunk 1578: *****
+****** Chunk 1580: *****
 **Calculation of the Solvency Capital Requirement**
 
 
@@ -36744,7 +36707,7 @@ following risks:
 (b) life underwriting risk;
 ****** END OF CHUNK ******
 
-****** Chunk 1579: *****
+****** Chunk 1581: *****
 4. The Solvency Capital Requirement shall cover at least the
 following risks:
 
@@ -36779,7 +36742,7 @@ risks arising from the use of such techniques are properly reflected
 in the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1580: *****
+****** Chunk 1582: *****
 **Frequency of calculation**
 
 
@@ -36811,7 +36774,7 @@ L 335/52 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1581: *****
+****** Chunk 1583: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -36823,11 +36786,11 @@ last reported, the supervisory authorities may require the under­
 taking concerned to recalculate the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1582: *****
+****** Chunk 1584: *****
 **Solvency capital requirement standard formula**
 ****** END OF CHUNK ******
 
-****** Chunk 1583: *****
+****** Chunk 1585: *****
 **Structure of the standard formula**
 
 
@@ -36847,7 +36810,7 @@ Article 107;
 provisions and deferred taxes, as laid down in Article 108.
 ****** END OF CHUNK ******
 
-****** Chunk 1584: *****
+****** Chunk 1586: *****
 **Design of the Basic Solvency Capital Requirement**
 
 
@@ -36887,7 +36850,7 @@ overall Solvency Capital Requirement which complies with the
 principles set out in Article 101.
 ****** END OF CHUNK ******
 
-****** Chunk 1585: *****
+****** Chunk 1587: *****
 4. Each of the risk modules referred to in paragraph 1 shall be
 calibrated using a Value-at-Risk measure, with a 99,5 % confi­
 dence level, over a one-year period.
@@ -36909,7 +36872,7 @@ cal specifications may, where appropriate, be used for the calcu­
 lation of the life, non-life and health underwriting risk modules.
 ****** END OF CHUNK ******
 
-****** Chunk 1586: *****
+****** Chunk 1588: *****
 6. With regard to risks arising from catastrophes, geographi­
 cal specifications may, where appropriate, be used for the calcu­
 lation of the life, non-life and health underwriting risk modules.
@@ -36933,7 +36896,7 @@ verify the completeness, accuracy and appropriateness of the data
 used.
 ****** END OF CHUNK ******
 
-****** Chunk 1587: *****
+****** Chunk 1589: *****
 **Calculation of the Basic Solvency Capital Requirement**
 
 
@@ -36957,7 +36920,7 @@ a combination of the capital requirements for at least the follow­
 ing sub-modules:
 ****** END OF CHUNK ******
 
-****** Chunk 1588: *****
+****** Chunk 1590: *****
 It shall be calculated, in accordance with point (2) of Annex IV, as
 a combination of the capital requirements for at least the follow­
 ing sub-modules:
@@ -36988,7 +36951,7 @@ ing from life insurance obligations, in relation to the perils cov­
 ered and the processes used in the conduct of business.
 ****** END OF CHUNK ******
 
-****** Chunk 1589: *****
+****** Chunk 1591: *****
 3. The life underwriting risk module shall reflect the risk aris­
 ing from life insurance obligations, in relation to the perils cov­
 ered and the processes used in the conduct of business.
@@ -37013,7 +36976,7 @@ rate leads to an increase in the value of insurance liabilities
 (longevity risk);
 ****** END OF CHUNK ******
 
-****** Chunk 1590: *****
+****** Chunk 1592: *****
 (c) the risk of loss, or of adverse change in the value of insur­
 ance liabilities, resulting from changes in the level, trend or
 volatility of disability, sickness and morbidity rates (disability
@@ -37039,7 +37002,7 @@ ity of the rates of policy lapses, terminations, renewals and
 surrenders (lapse risk);
 ****** END OF CHUNK ******
 
-****** Chunk 1591: *****
+****** Chunk 1593: *****
 (g) the risk of loss, or of adverse change in the value of insur­
 ance liabilities, resulting from the significant uncertainty of
 pricing and provisioning assumptions related to extreme or
@@ -37063,7 +37026,7 @@ volatility of the expenses incurred in servicing insurance or
 reinsurance contracts;
 ****** END OF CHUNK ******
 
-****** Chunk 1592: *****
+****** Chunk 1594: *****
 (b) the risk of loss, or of adverse change in the value of insur­
 ance liabilities, resulting from fluctuations in the timing, fre­
 quency and severity of insured events, and in the timing and
@@ -37085,7 +37048,7 @@ match between assets and liabilities, in particular with respect to
 the duration thereof.
 ****** END OF CHUNK ******
 
-****** Chunk 1593: *****
+****** Chunk 1595: *****
 It shall be calculated, in accordance with point (4) of Annex IV, as
 a combination of the capital requirements for at least the follow­
 ing sub-modules:
@@ -37112,7 +37075,7 @@ credit spreads over the risk-free interest rate term structure
 (spread risk);
 ****** END OF CHUNK ******
 
-****** Chunk 1594: *****
+****** Chunk 1596: *****
 (e) the sensitivity of the values of assets, liabilities and financial
 instruments to changes in the level or in the volatility of cur­
 rency exchange rates (currency risk);
@@ -37132,7 +37095,7 @@ of securities or a group of related issuers (market risk
 concentrations).
 ****** END OF CHUNK ******
 
-****** Chunk 1595: *****
+****** Chunk 1597: *****
 6. The counterparty default risk module shall reflect possible
 losses due to unexpected default, or deterioration in the credit
 standing, of the counterparties and debtors of insurance and rein­
@@ -37153,7 +37116,7 @@ party, irrespective of the legal form of its contractual obligations
 to that undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1596: *****
+****** Chunk 1598: *****
 **Calculation of the equity risk sub-module: symmetric**
 **adjustment mechanism**
 
@@ -37174,7 +37137,7 @@ of time which shall be the same for all insurance and reinsurance
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1597: *****
+****** Chunk 1599: *****
 3. The symmetric adjustment made to the standard equity
 capital charge covering the risk arising from changes in the level
 of equity prices shall not result in an equity capital charge being
@@ -37182,7 +37145,7 @@ applied that is more than 10 percentage points lower or 10 per­
 centage points higher than the standard equity capital charge.
 ****** END OF CHUNK ******
 
-****** Chunk 1598: *****
+****** Chunk 1600: *****
 **Capital requirement for operational risk**
 
 
@@ -37200,7 +37163,7 @@ amount of annual expenses incurred in respect of those insurance
 obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 1599: *****
+****** Chunk 1601: *****
 3. With respect to insurance and reinsurance operations other
 than those referred to in paragraph 2, the calculation of the capi­
 tal requirement for operational risk shall take account of the vol­
@@ -37212,7 +37175,7 @@ Capital Requirement relating to those insurance and reinsurance
 operations.
 ****** END OF CHUNK ******
 
-****** Chunk 1600: *****
+****** Chunk 1602: *****
 **Adjustment for the loss-absorbing capacity of technical**
 **provisions and deferred taxes**
 
@@ -37234,14 +37197,14 @@ of technical provisions and deferred taxes relating to those future
 discretionary benefits.
 ****** END OF CHUNK ******
 
-****** Chunk 1601: *****
+****** Chunk 1603: *****
 For the purpose of the second paragraph, the value of future dis­
 cretionary benefits under adverse circumstances shall be com­
 pared to the value of such benefits under the underlying
 assumptions of the best-estimate calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 1602: *****
+****** Chunk 1604: *****
 **Simplifications in the standard formula**
 
 
@@ -37262,7 +37225,7 @@ Article 101(3).
 Official Journ al of the E uropean Un ion L 335/55
 ****** END OF CHUNK ******
 
-****** Chunk 1603: *****
+****** Chunk 1605: *****
 **Significant deviations from the assumptions underlying**
 **the standard formula calculation**
 
@@ -37281,7 +37244,7 @@ such a way to ensure that the undertaking complies with
 Article 101(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1604: *****
+****** Chunk 1606: *****
 **Implementing measures**
 
 
@@ -37301,7 +37264,7 @@ risks which fall under the respective risk modules referred to
 in Article 104 as well as any subsequent updates;
 ****** END OF CHUNK ******
 
-****** Chunk 1605: *****
+****** Chunk 1607: *****
 (b) any sub-modules necessary or covering more precisely the
 risks which fall under the respective risk modules referred to
 in Article 104 as well as any subsequent updates;
@@ -37323,7 +37286,7 @@ out in Annex IV, and the procedures for the updating of
 those parameters;
 ****** END OF CHUNK ******
 
-****** Chunk 1606: *****
+****** Chunk 1608: *****
 (d) the correlation parameters, including, if necessary, those set
 out in Annex IV, and the procedures for the updating of
 those parameters;
@@ -37352,7 +37315,7 @@ scope for risk diversification of insurance and reinsurance
 undertakings related to ring-fenced funds;
 ****** END OF CHUNK ******
 
-****** Chunk 1607: *****
+****** Chunk 1609: *****
 (h) the methods and adjustments to be used to reflect the reduced
 scope for risk diversification of insurance and reinsurance
 undertakings related to ring-fenced funds;
@@ -37376,7 +37339,7 @@ of the data used that must be met before supervisory approval
 is given;
 ****** END OF CHUNK ******
 
-****** Chunk 1608: *****
+****** Chunk 1610: *****
 (l) the simplified calculations provided for specific sub-modules
 and risk modules, as well as the criteria that insurance and
 reinsurance undertakings, including captive insurance and
@@ -37395,7 +37358,7 @@ nature of those investments and the influence exercised by
 the participating undertaking on those related undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1609: *****
+****** Chunk 1611: *****
 Those measures, designed to amend non-essential elements of this
 Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
@@ -37419,7 +37382,7 @@ L 335/56 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1610: *****
+****** Chunk 1612: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -37430,12 +37393,12 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1611: *****
+****** Chunk 1613: *****
 **Solvency capital requirement full and p ar tia l**
 **internal models**
 ****** END OF CHUNK ******
 
-****** Chunk 1612: *****
+****** Chunk 1614: *****
 **General provisions for the approval of full and partial**
 **internal models**
 
@@ -37468,7 +37431,7 @@ ness of insurance and reinsurance undertakings, or only to one or
 more major business units.
 ****** END OF CHUNK ******
 
-****** Chunk 1613: *****
+****** Chunk 1615: *****
 In addition, partial modelling may be applied to the whole busi­
 ness of insurance and reinsurance undertakings, or only to one or
 more major business units.
@@ -37490,7 +37453,7 @@ of the model.
 within six months from the receipt of the complete application.
 ****** END OF CHUNK ******
 
-****** Chunk 1614: *****
+****** Chunk 1616: *****
 4. The supervisory authorities shall decide on the application
 within six months from the receipt of the complete application.
 
@@ -37517,7 +37480,7 @@ Capital Requirement determined in accordance with the standard
 formula, as set out in Subsection 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1615: *****
+****** Chunk 1617: *****
 **Specific provisions for the approval of partial internal**
 **models**
 
@@ -37542,7 +37505,7 @@ integrated into the Solvency Capital Requirement standard
 formula.
 ****** END OF CHUNK ******
 
-****** Chunk 1616: *****
+****** Chunk 1618: *****
 (c) its design is consistent with the principles set out in Subsec­
 tion 1 so as to allow the partial internal model to be fully
 integrated into the Solvency Capital Requirement standard
@@ -37565,7 +37528,7 @@ that the model covers a predominant part of their insurance
 operations with respect to that specific risk module.
 ****** END OF CHUNK ******
 
-****** Chunk 1617: *****
+****** Chunk 1619: *****
 **Implementing measures**
 
 
@@ -37595,7 +37558,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1618: *****
+****** Chunk 1620: *****
 **Policy for changing the full and partial internal models**
 
 
@@ -37620,7 +37583,7 @@ supervisory approval, insofar as they are developed in accordance
 with that policy.
 ****** END OF CHUNK ******
 
-****** Chunk 1619: *****
+****** Chunk 1621: *****
 **Responsibilities of the administrative, management or**
 **supervisory bodies**
 
@@ -37637,7 +37600,7 @@ responsibility for putting in place systems which ensure that the
 internal model operates properly on a continuous basis.
 ****** END OF CHUNK ******
 
-****** Chunk 1620: *****
+****** Chunk 1622: *****
 **Reversion to the standard formula**
 
 
@@ -37649,7 +37612,7 @@ tion 2, except in duly justified circumstances and subject to the
 approval of the supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1621: *****
+****** Chunk 1623: *****
 **Non-compliance of the internal model**
 
 
@@ -37668,7 +37631,7 @@ to revert to calculating the Solvency Capital Requirement in accor­
 dance with the standard formula, as set out in Subsection 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1622: *****
+****** Chunk 1624: *****
 **Significant deviations from the assumptions underlying**
 **the standard formula calculation**
 
@@ -37684,7 +37647,7 @@ model to calculate the Solvency Capital Requirement, or the rel­
 evant risk modules thereof.
 ****** END OF CHUNK ******
 
-****** Chunk 1623: *****
+****** Chunk 1625: *****
 **Use test**
 
 
@@ -37710,7 +37673,7 @@ quency with which they use their internal model for the other
 purposes covered by the first paragraph.
 ****** END OF CHUNK ******
 
-****** Chunk 1624: *****
+****** Chunk 1626: *****
 The administrative, management or supervisory body shall be
 responsible for ensuring the ongoing appropriateness of the
 design and operations of the internal model, and that the internal
@@ -37724,7 +37687,7 @@ L 335/58 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1625: *****
+****** Chunk 1627: *****
 **Statistical quality standards**
 
 
@@ -37758,7 +37721,7 @@ used in the calculation of the probability distribution forecast at
 least annually.
 ****** END OF CHUNK ******
 
-****** Chunk 1626: *****
+****** Chunk 1628: *****
 Insurance and reinsurance undertakings shall update the data sets
 used in the calculation of the probability distribution forecast at
 least annually.
@@ -37781,7 +37744,7 @@ insurance and reinsurance undertakings are exposed. Internal
 models shall cover at least the risks set out in Article 101(4).
 ****** END OF CHUNK ******
 
-****** Chunk 1627: *****
+****** Chunk 1629: *****
 The internal model shall cover all of the material risks to which
 insurance and reinsurance undertakings are exposed. Internal
 models shall cover at least the risks set out in Article 101(4).
@@ -37801,7 +37764,7 @@ use of risk-mitigation techniques are properly reflected in the
 internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 1628: *****
+****** Chunk 1630: *****
 7. Insurance and reinsurance undertakings shall accurately
 assess the particular risks associated with financial guarantees and
 any contractual options in their internal model, where material.
@@ -37822,7 +37785,7 @@ cerned shall make allowance for the time necessary to implement
 such actions.
 ****** END OF CHUNK ******
 
-****** Chunk 1629: *****
+****** Chunk 1631: *****
 In the case set out in the first subparagraph, the undertaking con­
 cerned shall make allowance for the time necessary to implement
 such actions.
@@ -37834,7 +37797,7 @@ eficiaries which they expect to make, whether or not those
 payments are contractually guaranteed.
 ****** END OF CHUNK ******
 
-****** Chunk 1630: *****
+****** Chunk 1632: *****
 **Calibration standards**
 
 
@@ -37854,7 +37817,7 @@ of those undertakings, using the Value-at-Risk measure set out in
 Article 101(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1631: *****
+****** Chunk 1633: *****
 3. Where insurance and reinsurance undertakings cannot
 derive the Solvency Capital Requirement directly from the prob­
 ability distribution forecast generated by the internal model, the
@@ -37875,7 +37838,7 @@ accepted market practice.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1632: *****
+****** Chunk 1634: *****
 **Profit and loss attribution**
 
 
@@ -37900,7 +37863,7 @@ losses shall reflect the risk profile of the insurance and reinsur­
 ance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1633: *****
+****** Chunk 1635: *****
 **Validation standards**
 
 
@@ -37923,7 +37886,7 @@ experience but also to all material new data and information relat­
 ing thereto.
 ****** END OF CHUNK ******
 
-****** Chunk 1634: *****
+****** Chunk 1636: *****
 The model validation process shall include an analysis of the sta­
 bility of the internal model and in particular the testing of the sen­
 sitivity of the results of the internal model to changes in key
@@ -37932,7 +37895,7 @@ accuracy, completeness and appropriateness of the data used by
 the internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 1635: *****
+****** Chunk 1637: *****
 **Documentation standards**
 
 
@@ -37953,7 +37916,7 @@ The documentation shall indicate any circumstances under which
 the internal model does not work effectively.
 ****** END OF CHUNK ******
 
-****** Chunk 1636: *****
+****** Chunk 1638: *****
 **External models and data**
 
 
@@ -37962,7 +37925,7 @@ be considered to be a justification for exemption from any of the
 requirements for the internal model set out in Articles 120 to 125.
 ****** END OF CHUNK ******
 
-****** Chunk 1637: *****
+****** Chunk 1639: *****
 **Implementing measures**
 
 
@@ -37979,11 +37942,11 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1638: *****
+****** Chunk 1640: *****
 **M i n i m um c a p i t a l r e q ui r e m e n t**
 ****** END OF CHUNK ******
 
-****** Chunk 1639: *****
+****** Chunk 1641: *****
 **General provisions**
 
 
@@ -37992,7 +37955,7 @@ takings hold eligible basic own funds, to cover the Minimum
 Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1640: *****
+****** Chunk 1642: *****
 **Calculation of the Minimum Capital Requirement**
 
 
@@ -38027,7 +37990,7 @@ over a one-year period;
 (d) it shall have an absolute floor of:
 ****** END OF CHUNK ******
 
-****** Chunk 1641: *****
+****** Chunk 1643: *****
 (d) it shall have an absolute floor of:
 
 
@@ -38052,7 +38015,7 @@ than EUR 1 000 000,
 insurance undertakings as referred to in Article 73(5).
 ****** END OF CHUNK ******
 
-****** Chunk 1642: *****
+****** Chunk 1644: *****
 (iv) the sum of the amounts set out in points (i) and (ii) for
 insurance undertakings as referred to in Article 73(5).
 
@@ -38071,7 +38034,7 @@ dance with Chapter VI, Section 4, Subsections 2 or 3, and includ­
 ing any capital add-on imposed in accordance with Article 37.
 ****** END OF CHUNK ******
 
-****** Chunk 1643: *****
+****** Chunk 1645: *****
 Member States shall allow their supervisory authorities, for a
 period ending no later than 31 October 2014, to require an insur­
 ance or reinsurance undertaking to apply the percentages referred
@@ -38097,7 +38060,7 @@ and the European Insurance and Occupational Pensions Commit­
 tee established by Commission Decision 2004/9/EC ( [1] ), by
 ****** END OF CHUNK ******
 
-****** Chunk 1644: *****
+****** Chunk 1646: *****
 5. The Commission shall submit to the European Parliament
 and the European Insurance and Occupational Pensions Commit­
 tee established by Commission Decision 2004/9/EC ( [1] ), by
@@ -38112,7 +38075,7 @@ by supervisory authorities and by undertakings in the application
 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 1645: *****
+****** Chunk 1647: *****
 **Implementing measures**
 
 
@@ -38127,7 +38090,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1646: *****
+****** Chunk 1648: *****
 **Transitional arrangements regarding compliance with the**
 **Minimum Capital Requirement**
 
@@ -38148,11 +38111,11 @@ authorisation of the undertaking shall be withdrawn, subject to
 the applicable processes provided for in the national legislation.
 ****** END OF CHUNK ******
 
-****** Chunk 1647: *****
+****** Chunk 1649: *****
 **I n v e s t m e n t s**
 ****** END OF CHUNK ******
 
-****** Chunk 1648: *****
+****** Chunk 1650: *****
 **Prudent person principle**
 
 
@@ -38180,7 +38143,7 @@ solvency needs in accordance with point (a) of the second sub­
 paragraph of Article 45(1).
 ****** END OF CHUNK ******
 
-****** Chunk 1649: *****
+****** Chunk 1651: *****
 All assets, in particular those covering the Minimum Capital
 Requirement and the Solvency Capital Requirement, shall be
 invested in such a manner as to ensure the security, quality, liquid­
@@ -38202,7 +38165,7 @@ investment is made in the best interest of policy holders and
 beneficiaries.
 ****** END OF CHUNK ******
 
-****** Chunk 1650: *****
+****** Chunk 1652: *****
 3. Without prejudice to paragraph 2, with respect to assets
 held in respect of life insurance contracts where the investment
 risk is borne by the policy holders, the second, third and fourth
@@ -38218,7 +38181,7 @@ closely as possible by those units or, in the case where units are
 not established, by those assets.
 ****** END OF CHUNK ******
 
-****** Chunk 1651: *****
+****** Chunk 1653: *****
 Where the benefits provided by a contract are directly linked to a
 share index or some other reference value other than those
 referred to in the second subparagraph, the technical provisions
@@ -38242,7 +38205,7 @@ other than those covered by paragraph 3, the second to fifth sub­
 paragraphs of this paragraph shall apply.
 ****** END OF CHUNK ******
 
-****** Chunk 1652: *****
+****** Chunk 1654: *****
 4. Without prejudice to paragraph 2, with respect to assets
 other than those covered by paragraph 3, the second to fifth sub­
 paragraphs of this paragraph shall apply.
@@ -38268,7 +38231,7 @@ belonging to the same group, shall not expose the insurance
 undertakings to excessive risk concentration.
 ****** END OF CHUNK ******
 
-****** Chunk 1653: *****
+****** Chunk 1655: *****
 **Freedom of investment**
 
 
@@ -38290,7 +38253,7 @@ a natural person and shall not be more restrictive than those set
 out in the Directive 85/611/EEC.
 ****** END OF CHUNK ******
 
-****** Chunk 1654: *****
+****** Chunk 1656: *****
 **Localisation of assets and prohibition of pledging of assets**
 
 
@@ -38315,7 +38278,7 @@ L 335/62 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1655: *****
+****** Chunk 1657: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -38328,7 +38291,7 @@ ance or reinsurance undertaking authorised in accordance with
 this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1656: *****
+****** Chunk 1658: *****
 **Implementing measures**
 
 
@@ -38356,7 +38319,7 @@ that invest in such securities or instruments, the Commission shall
 adopt implementing measures laying down:
 ****** END OF CHUNK ******
 
-****** Chunk 1657: *****
+****** Chunk 1659: *****
 (a) the requirements that need to be met by the originator in
 order for an insurance or reinsurance undertaking to be
 allowed to invest in such securities or instruments issued
@@ -38376,12 +38339,12 @@ dance with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1658: *****
+****** Chunk 1660: *****
 _**Insurance and reinsurance undertakings in difficulty or in an**_
 _**irregular situation**_
 ****** END OF CHUNK ******
 
-****** Chunk 1659: *****
+****** Chunk 1661: *****
 **Identification and notification of deteriorating financial**
 **conditions by the insurance and reinsurance undertaking**
 
@@ -38392,7 +38355,7 @@ immediately notify the supervisory authorities when such dete­
 rioration occurs.
 ****** END OF CHUNK ******
 
-****** Chunk 1660: *****
+****** Chunk 1662: *****
 **Non-Compliance with technical provisions**
 
 
@@ -38405,7 +38368,7 @@ home Member State shall designate the assets to be covered by
 such measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1661: *****
+****** Chunk 1663: *****
 **Non-Compliance with the Solvency Capital Requirement**
 
 
@@ -38429,7 +38392,7 @@ Solvency Capital Requirement or the reduction of its risk profile
 to ensure compliance with the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1662: *****
+****** Chunk 1664: *****
 The supervisory authority may, if appropriate, extend that period
 by three months.
 
@@ -38455,7 +38418,7 @@ Capital Requirement or to reduce the risk profile to ensure com­
 pliance with the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1663: *****
+****** Chunk 1665: *****
 The extension referred to in the first subparagraph shall be with­
 drawn where that progress report shows that there was no sig­
 nificant progress in achieving the re-establishment of the level of
@@ -38466,7 +38429,7 @@ tion of non-compliance of the Solvency Capital Requirement and
 the date of the submission of the progress report.
 ****** END OF CHUNK ******
 
-****** Chunk 1664: *****
+****** Chunk 1666: *****
 5. In exceptional circumstances, where the supervisory author­
 ity is of the opinion that the financial situation of the undertak­
 ing concerned will deteriorate further, it may also restrict or
@@ -38479,7 +38442,7 @@ authority of the home Member State shall designate the assets to
 be covered by such measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1665: *****
+****** Chunk 1667: *****
 **Non-Compliance with the Minimum Capital Requirement**
 
 
@@ -38500,7 +38463,7 @@ ment or to reduce its risk profile to ensure compliance with the
 Minimum Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1666: *****
+****** Chunk 1668: *****
 3. The supervisory authority of the home Member State may
 also restrict or prohibit the free disposal of the assets of the insur­
 ance or reinsurance undertaking. It shall inform the supervisory
@@ -38511,7 +38474,7 @@ ity of the home Member State shall designate the assets to be cov­
 ered by such measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1667: *****
+****** Chunk 1669: *****
 **Prohibition of free disposal of assets located within the**
 **territory of a Member State**
 
@@ -38524,7 +38487,7 @@ taking’s home Member State, which shall designate the assets to
 be covered by such measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1668: *****
+****** Chunk 1670: *****
 **Supervisory powers in deteriorating financial conditions**
 
 
@@ -38540,7 +38503,7 @@ and duration of the deterioration of the solvency position of the
 insurance or reinsurance undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1669: *****
+****** Chunk 1671: *****
 **Recovery plan and finance scheme**
 
 
@@ -38568,7 +38531,7 @@ and the Minimum Capital Requirement;
 (e) the overall reinsurance policy.
 ****** END OF CHUNK ******
 
-****** Chunk 1670: *****
+****** Chunk 1672: *****
 (d) estimates of the financial resources intended to cover the
 technical provisions and the Solvency Capital Requirement
 and the Minimum Capital Requirement;
@@ -38592,7 +38555,7 @@ L 335/64 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1671: *****
+****** Chunk 1673: *****
 **Implementing measures**
 
 
@@ -38617,7 +38580,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1672: *****
+****** Chunk 1674: *****
 **Withdrawal of authorisation**
 
 
@@ -38641,7 +38604,7 @@ for authorisation;
 under the regulations to which it is subject.
 ****** END OF CHUNK ******
 
-****** Chunk 1673: *****
+****** Chunk 1675: *****
 (b) the undertaking concerned no longer fulfils the conditions
 for authorisation;
 
@@ -38661,7 +38624,7 @@ vation of non-compliance with the Minimum Capital
 Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1674: *****
+****** Chunk 1676: *****
 2. In the event of the withdrawal or lapse of authorisation, the
 supervisory authority of the home Member State shall notify the
 supervisory authorities of the other Member States accordingly,
@@ -38683,15 +38646,15 @@ reasons and shall be communicated to the insurance or reinsur­
 ance undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1675: *****
+****** Chunk 1677: *****
 _**Right of establishment and freedom to provide services**_
 ****** END OF CHUNK ******
 
-****** Chunk 1676: *****
+****** Chunk 1678: *****
 **E s t a b l i s h m e n t b y i n s ur a n c e un d e r t a k i n g s**
 ****** END OF CHUNK ******
 
-****** Chunk 1677: *****
+****** Chunk 1679: *****
 **Conditions for branch establishment**
 
 
@@ -38719,7 +38682,7 @@ ing the notification provided for in paragraph 1:
 establish a branch;
 ****** END OF CHUNK ******
 
-****** Chunk 1678: *****
+****** Chunk 1680: *****
 (a) the Member State within the territory of which it proposes to
 establish a branch;
 
@@ -38746,7 +38709,7 @@ ing all communications to the authorised agent.
 Official Journ al of the E uropean Un ion L 335/65
 ****** END OF CHUNK ******
 
-****** Chunk 1679: *****
+****** Chunk 1681: *****
 Official Journ al of the E uropean Un ion L 335/65
 
 
@@ -38765,7 +38728,7 @@ member of the national bureau and the national guarantee fund
 of the host Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1680: *****
+****** Chunk 1682: *****
 4. In the event of a change in any of the particulars commu­
 nicated under point (b), (c) or (d) of paragraph 2, an insurance
 undertaking shall give written notice of the change to the super­
@@ -38777,7 +38740,7 @@ where that branch is situated may fulfil their respective obliga­
 tions under Article 146.
 ****** END OF CHUNK ******
 
-****** Chunk 1681: *****
+****** Chunk 1683: *****
 **Communication of information**
 
 
@@ -38798,7 +38761,7 @@ Requirement and the Minimum Capital Requirement calculated in
 accordance with Articles 100 and 129.
 ****** END OF CHUNK ******
 
-****** Chunk 1682: *****
+****** Chunk 1684: *****
 2. Where the supervisory authorities of the home Member
 State refuse to communicate the information referred to in
 Article 145(2) to the supervisory authorities of the host Member
@@ -38822,7 +38785,7 @@ ber State shall communicate this information to the insurance
 undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1683: *****
+****** Chunk 1685: *****
 The insurance undertaking may establish the branch and start
 business as from the date upon which the supervisory authority
 of the home Member State has received such a communication or,
@@ -38830,16 +38793,16 @@ if no communication is received, on expiry of the period provided
 for in the first subparagraph.
 ****** END OF CHUNK ******
 
-****** Chunk 1684: *****
+****** Chunk 1686: *****
 **F r e e d o m t o p r o v i d e s e r v i c e s : b y i n s ur a n c e**
 **un d e r t a k i n g s**
 ****** END OF CHUNK ******
 
-****** Chunk 1685: *****
+****** Chunk 1687: *****
 **G e n e r a l p r o v i s i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1686: *****
+****** Chunk 1688: *****
 **Prior notification to the home Member State**
 
 
@@ -38850,7 +38813,7 @@ home Member State, indicating the nature of the risks or com­
 mitments it proposes to cover.
 ****** END OF CHUNK ******
 
-****** Chunk 1687: *****
+****** Chunk 1689: *****
 **Notification by the home Member State**
 
 
@@ -38880,7 +38843,7 @@ ber State shall inform the insurance undertaking concerned of
 that communication.
 ****** END OF CHUNK ******
 
-****** Chunk 1688: *****
+****** Chunk 1690: *****
 At the same time, the supervisory authorities of the home Mem­
 ber State shall inform the insurance undertaking concerned of
 that communication.
@@ -38916,7 +38879,7 @@ reasons for their refusal to the insurance undertaking within that
 same period.
 ****** END OF CHUNK ******
 
-****** Chunk 1689: *****
+****** Chunk 1691: *****
 Such a refusal or failure to act shall be subject to a right to apply
 to the courts in the home Member State.
 
@@ -38926,7 +38889,7 @@ date on which it is informed of the communication provided for
 in the first subparagraph of paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1690: *****
+****** Chunk 1692: *****
 **Changes in the nature of the risks or commitments**
 
 
@@ -38935,11 +38898,11 @@ the information referred to in Article 145 shall be subject to the
 procedure provided for in Articles 147 and 148.
 ****** END OF CHUNK ******
 
-****** Chunk 1691: *****
+****** Chunk 1693: *****
 **Third party motor vehicle liability**
 ****** END OF CHUNK ******
 
-****** Chunk 1692: *****
+****** Chunk 1694: *****
 **Compulsory insurance on third party motor vehicle**
 **liability**
 
@@ -38961,7 +38924,7 @@ same basis as for non-life insurance undertakings covering those
 risks, through an establishment situated in that Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1693: *****
+****** Chunk 1695: *****
 The calculation shall be made by reference to the insurance under­
 takings’ premium income from that class in the host Member
 State or the number of risks in that class covered there.
@@ -38973,7 +38936,7 @@ State concerning the cover of aggravated risks, insofar as they
 apply to non-life insurance undertakings established in that State.
 ****** END OF CHUNK ******
 
-****** Chunk 1694: *****
+****** Chunk 1696: *****
 **Non-discrimination of persons pursuing claims**
 
 
@@ -38986,7 +38949,7 @@ Annex I by way of provision of services rather than through an
 establishment situated in that State.
 ****** END OF CHUNK ******
 
-****** Chunk 1695: *****
+****** Chunk 1697: *****
 **Representative**
 
 
@@ -39006,7 +38969,7 @@ the host Member State with regard to checking the existence and
 validity of motor vehicle liability insurance policies.
 ****** END OF CHUNK ******
 
-****** Chunk 1696: *****
+****** Chunk 1698: *****
 2. The host Member State shall not require that representative
 to undertake activities on behalf of the non-life insurance under­
 taking which appointed him other than those set out in
@@ -39024,16 +38987,16 @@ Directive 2000/26/EC to assume the function of the representa­
 tive referred to in paragraph 1 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 1697: *****
+****** Chunk 1699: *****
 **C o m p e t e n c i e s o f t h e s up e r v i s o r y**
 **a ut h o r i t i e s o f t h e h o s t m e m b e r s t a t e**
 ****** END OF CHUNK ******
 
-****** Chunk 1698: *****
+****** Chunk 1700: *****
 **I n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1699: *****
+****** Chunk 1701: *****
 **Language**
 
 
@@ -39050,7 +39013,7 @@ language or languages of that State.
 Official Journ al of the E uropean Un ion L 335/67
 ****** END OF CHUNK ******
 
-****** Chunk 1700: *****
+****** Chunk 1702: *****
 **Prior notification and prior approval**
 
 
@@ -39072,14 +39035,14 @@ that requirement shall not constitute a prior condition for an
 insurance undertaking to pursue its business.
 ****** END OF CHUNK ******
 
-****** Chunk 1701: *****
+****** Chunk 1703: *****
 3. The host Member State shall not retain or introduce a
 requirement for prior notification or approval of proposed
 increases in premium rates except as part of general price-control
 systems.
 ****** END OF CHUNK ******
 
-****** Chunk 1702: *****
+****** Chunk 1704: *****
 **Insurance undertakings not complying with the legal**
 **provisions**
 
@@ -39104,7 +39067,7 @@ that the insurance undertaking concerned remedies that irregular
 situation.
 ****** END OF CHUNK ******
 
-****** Chunk 1703: *****
+****** Chunk 1705: *****
 The supervisory authorities of the home Member State shall
 inform the supervisory authorities of the host Member State of
 the measures taken.
@@ -39128,7 +39091,7 @@ serve the legal documents necessary for such measures on insur­
 ance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1704: *****
+****** Chunk 1706: *****
 Member States shall ensure that in their territories it is possible to
 serve the legal documents necessary for such measures on insur­
 ance undertakings.
@@ -39146,7 +39109,7 @@ tracts within their territories.
 Member States to penalise infringements within their territories.
 ****** END OF CHUNK ******
 
-****** Chunk 1705: *****
+****** Chunk 1707: *****
 5. Paragraphs 1, 2 and 3 shall not affect the power of the
 Member States to penalise infringements within their territories.
 
@@ -39172,7 +39135,7 @@ the extent that insurance undertakings the head office of which is
 in that Member State are also obliged to do so.
 ****** END OF CHUNK ******
 
-****** Chunk 1706: *****
+****** Chunk 1708: *****
 9. Member States shall inform the Commission of the number
 and types of cases which led to refusals under Articles 146
 and 148 in which measures have been taken under paragraph 4
@@ -39184,7 +39147,7 @@ European Insurance and Occupational Pensions Committee every
 two years.
 ****** END OF CHUNK ******
 
-****** Chunk 1707: *****
+****** Chunk 1709: *****
 **Advertising**
 
 
@@ -39195,7 +39158,7 @@ the form and content of such advertising adopted in the interest
 of the general good.
 ****** END OF CHUNK ******
 
-****** Chunk 1708: *****
+****** Chunk 1710: *****
 **Taxes on premiums**
 
 
@@ -39221,7 +39184,7 @@ as a risk situated in that Member State, even where the building
 and its contents are not covered by the same insurance policy.
 ****** END OF CHUNK ******
 
-****** Chunk 1709: *****
+****** Chunk 1711: *****
 In the case of Spain, an insurance contract shall also be subject to
 the surcharges legally established in favour of the Spanish ‘Con­
 sorcio de Compensación de Seguros’ for the performance of its
@@ -39241,11 +39204,11 @@ lection of indirect taxes and parafiscal charges due under
 paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1710: *****
+****** Chunk 1712: *****
 **Reinsurance**
 ****** END OF CHUNK ******
 
-****** Chunk 1711: *****
+****** Chunk 1713: *****
 **Reinsurance undertakings not complying with the legal**
 **provisions**
 
@@ -39260,7 +39223,7 @@ shall refer those findings to the supervisory authority of the home
 Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1712: *****
+****** Chunk 1714: *****
 2. Where, despite the measures taken by the home Member
 State or because such measures prove inadequate, the reinsurance
 undertaking persists in violating the legal provisions applicable to
@@ -39284,11 +39247,11 @@ shall state the reasons and shall be communicated to the reinsur­
 ance undertaking concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1713: *****
+****** Chunk 1715: *****
 **S t a t i s t i c a l i n f o r m a t i o n**
 ****** END OF CHUNK ******
 
-****** Chunk 1714: *****
+****** Chunk 1716: *****
 **Statistical information on cross-border activities**
 
 
@@ -39313,7 +39276,7 @@ liability, the undertaking concerned shall also inform that super­
 visory authority of the frequency and average cost of claims.
 ****** END OF CHUNK ******
 
-****** Chunk 1715: *****
+****** Chunk 1717: *****
 As regards class 10 in Part A of Annex I, not including carrier’s
 liability, the undertaking concerned shall also inform that super­
 visory authority of the frequency and average cost of claims.
@@ -39326,12 +39289,12 @@ supervisory authorities of each of the Member States concerned
 upon their request.
 ****** END OF CHUNK ******
 
-****** Chunk 1716: *****
+****** Chunk 1718: *****
 **T r e a t m e n t o f c o n t r a c t s o f b r a n c h e s i n**
 **w i n d i n g - up p r o c e e d i n g s**
 ****** END OF CHUNK ******
 
-****** Chunk 1717: *****
+****** Chunk 1719: *****
 **Winding-up of insurance undertakings**
 
 
@@ -39343,7 +39306,7 @@ without distinction as to nationality as far as the persons insured
 and the beneficiaries are concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1718: *****
+****** Chunk 1720: *****
 **Winding-up of reinsurance undertakings**
 
 
@@ -39360,17 +39323,17 @@ undertaking.
 Official Journ al of the E uropean Un ion L 335/69
 ****** END OF CHUNK ******
 
-****** Chunk 1719: *****
+****** Chunk 1721: *****
 _**Branches established within the community and belonging to**_
 _**insurance or reinsurance undertakings with head offices**_
 _**situated outside the community**_
 ****** END OF CHUNK ******
 
-****** Chunk 1720: *****
+****** Chunk 1722: *****
 **T a k i n g - up o f b us i n e s s**
 ****** END OF CHUNK ******
 
-****** Chunk 1721: *****
+****** Chunk 1723: *****
 **Principle of authorisation and conditions**
 
 
@@ -39401,7 +39364,7 @@ ness transacted;
 supervisory authorities;
 ****** END OF CHUNK ******
 
-****** Chunk 1722: *****
+****** Chunk 1724: *****
 (d) it designates a general representative, to be approved by the
 supervisory authorities;
 
@@ -39433,7 +39396,7 @@ provisions in Article 163;
 Chapter IV, Section 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1723: *****
+****** Chunk 1725: *****
 (h) it submits a scheme of operations in accordance with the
 provisions in Article 163;
 
@@ -39449,7 +39412,7 @@ ing referred to in paragraph 1, which receives authorisation in
 that Member State and which pursues insurance business.
 ****** END OF CHUNK ******
 
-****** Chunk 1724: *****
+****** Chunk 1726: *****
 **Scheme of operations of the branch**
 
 
@@ -39482,7 +39445,7 @@ tal Requirement and Minimum Capital Requirement as
 referred to in Chapter VI, Sections 4 and 5;
 ****** END OF CHUNK ******
 
-****** Chunk 1725: *****
+****** Chunk 1727: *****
 (f) estimates of the cost of setting up the administrative services
 and the organisation for securing business, the financial
 resources intended to meet those costs and, where the risks
@@ -39518,7 +39481,7 @@ commissions;
 (ii) estimates of premiums or contributions and claims;
 ****** END OF CHUNK ******
 
-****** Chunk 1726: *****
+****** Chunk 1728: *****
 (i) estimates of management expenses other than installa­
 tion costs, in particular current general expenses and
 commissions;
@@ -39546,7 +39509,7 @@ nical provisions, without that requirement constituting a prior
 condition for a life insurance undertaking to pursue its business.
 ****** END OF CHUNK ******
 
-****** Chunk 1727: *****
+****** Chunk 1729: *****
 **Transfer of portfolio**
 
 
@@ -39562,7 +39525,7 @@ to cover the Solvency Capital Requirement referred to in the first
 paragraph of Article 100.
 ****** END OF CHUNK ******
 
-****** Chunk 1728: *****
+****** Chunk 1730: *****
 2. Under the conditions laid down by national law, Member
 States shall authorise branches set up within their territory and
 covered by this Chapter to transfer all or part of their portfolios
@@ -39574,7 +39537,7 @@ to cover the Solvency Capital Requirement referred to in the first
 paragraph of Article 100.
 ****** END OF CHUNK ******
 
-****** Chunk 1729: *****
+****** Chunk 1731: *****
 3. Where under the conditions laid down by national law, a
 Member State authorises branches set up within its territory and
 covered by this Chapter to transfer all or part of their portfolios
@@ -39597,7 +39560,7 @@ permits such a transfer; and
 (c) that Member State has agreed to the transfer.
 ****** END OF CHUNK ******
 
-****** Chunk 1730: *****
+****** Chunk 1732: *****
 (b) the law of the Member State of the accepting undertaking
 permits such a transfer; and
 
@@ -39623,7 +39586,7 @@ the authorities consulted within that period shall be considered
 equivalent to a favourable opinion or tacit consent.
 ****** END OF CHUNK ******
 
-****** Chunk 1731: *****
+****** Chunk 1733: *****
 6. A transfer authorised in accordance with paragraphs 1 to 5
 shall be published as laid down by national law in the Member
 State in which the risk is situated or the Member State of the
@@ -39636,7 +39599,7 @@ insured persons and any other persons having rights or obliga­
 tions arising out of the contracts transferred.
 ****** END OF CHUNK ******
 
-****** Chunk 1732: *****
+****** Chunk 1734: *****
 **Technical provisions**
 
 
@@ -39649,7 +39612,7 @@ tion 1 and determine own funds in accordance with Chapter VI,
 Section 3.
 ****** END OF CHUNK ******
 
-****** Chunk 1733: *****
+****** Chunk 1735: *****
 **Solvency Capital Requirement and Minimum Capital**
 **Requirement**
 
@@ -39680,7 +39643,7 @@ with Article 98(4).
 than half of the absolute floor required under Article 129(1)(d).
 ****** END OF CHUNK ******
 
-****** Chunk 1734: *****
+****** Chunk 1736: *****
 3. The eligible amount of basic own funds shall not be less
 than half of the absolute floor required under Article 129(1)(d).
 
@@ -39702,7 +39665,7 @@ and the excess within the Community.
 Official Journ al of the E uropean Un ion L 335/71
 ****** END OF CHUNK ******
 
-****** Chunk 1735: *****
+****** Chunk 1737: *****
 **Advantages to undertakings authorised in more than one**
 **Member State**
 
@@ -39732,7 +39695,7 @@ branches established within the Community for the purposes of
 this calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 1736: *****
+****** Chunk 1738: *****
 2. Application to benefit from the advantages provided for in
 paragraph 1 shall be made to the supervisory authorities of the
 Member States concerned. The application shall state the author­
@@ -39757,7 +39720,7 @@ that it will supervise the state of solvency of the entire business of
 the branches within the Community.
 ****** END OF CHUNK ******
 
-****** Chunk 1737: *****
+****** Chunk 1739: *****
 The supervisory authority selected shall obtain from the other
 Member States the information necessary for the supervision of
 the overall solvency of the branches established in their territory.
@@ -39768,7 +39731,7 @@ cerned, the advantages granted under paragraphs 1, 2 and 3 shall
 be withdrawn simultaneously by all Member States concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1738: *****
+****** Chunk 1740: *****
 **Accounting, prudential and statistical information and**
 **undertakings in difficulty**
 
@@ -39788,7 +39751,7 @@ in the territory of which the head office of an undertaking estab­
 lished in the Community.
 ****** END OF CHUNK ******
 
-****** Chunk 1739: *****
+****** Chunk 1741: *****
 **Separation of non-life and life business**
 
 
@@ -39814,7 +39777,7 @@ referred to in this Section which are established in its territory and
 simultaneously pursue both activities there.
 ****** END OF CHUNK ******
 
-****** Chunk 1740: *****
+****** Chunk 1742: *****
 Member States may provide that branches referred to in this Sec­
 tion whose head office simultaneously pursues both activities and
 which on the dates referred to in the first subparagraph of
@@ -39825,7 +39788,7 @@ territory it may only pursue life insurance activity through a
 subsidiary.
 ****** END OF CHUNK ******
 
-****** Chunk 1741: *****
+****** Chunk 1743: *****
 **Withdrawal of authorisation for undertakings authorised**
 **in more than one Member State**
 
@@ -39847,7 +39810,7 @@ authorisations.
 L 335/72 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1742: *****
+****** Chunk 1744: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -39866,11 +39829,11 @@ procity, adequate protection for policy holders and insured per­
 sons in the Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1743: *****
+****** Chunk 1745: *****
 **R e i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1744: *****
+****** Chunk 1746: *****
 **Equivalence**
 
 
@@ -39898,7 +39861,7 @@ third country is equivalent to that laid down in Title I.
 Those decisions shall be regularly reviewed.
 ****** END OF CHUNK ******
 
-****** Chunk 1745: *****
+****** Chunk 1747: *****
 Those decisions shall be regularly reviewed.
 
 
@@ -39910,7 +39873,7 @@ be treated in the same manner as reinsurance contracts concluded
 with undertakings authorised in accordance with this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1746: *****
+****** Chunk 1748: *****
 **Prohibition of pledging of assets**
 
 
@@ -39923,7 +39886,7 @@ solvency regime is deemed to be equivalent to that laid down in
 this Directive in accordance with Article 172.
 ****** END OF CHUNK ******
 
-****** Chunk 1747: *****
+****** Chunk 1749: *****
 **Principle and conditions for conducting reinsurance**
 **activity**
 
@@ -39935,7 +39898,7 @@ than that granted to reinsurance undertakings which have their
 head office in that Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1748: *****
+****** Chunk 1750: *****
 **Agreements with third countries**
 
 
@@ -39960,7 +39923,7 @@ ognition of supervisory rules and practices on reinsurance. They
 shall also seek to ensure the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1749: *****
+****** Chunk 1751: *****
 (a) that the supervisory authorities of the Member States are able
 to obtain the information necessary for the supervision of
 reinsurance undertakings which have their head offices situ­
@@ -39982,13 +39945,13 @@ come of the negotiations referred to in paragraph 1 of this Article
 and the resulting situation.
 ****** END OF CHUNK ******
 
-****** Chunk 1750: *****
+****** Chunk 1752: *****
 _**Subsidiaries of insurance and reinsurance undertakings**_
 _**governed by the laws of a third country and acquisitions of**_
 _**holdings by such undertakings**_
 ****** END OF CHUNK ******
 
-****** Chunk 1751: *****
+****** Chunk 1753: *****
 **Information from Member States to the Commission**
 
 
@@ -40019,7 +39982,7 @@ State shall inform the Commission and the supervisory authori­
 ties of the other Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1752: *****
+****** Chunk 1754: *****
 **Third-country treatment of Community insurance and**
 **reinsurance undertakings**
 
@@ -40052,7 +40015,7 @@ established undertakings;
 ties from the Community to third countries.
 ****** END OF CHUNK ******
 
-****** Chunk 1753: *****
+****** Chunk 1755: *****
 (d) the cross-border provision of insurance or reinsurance activi­
 ties from the Community to third countries.
 
@@ -40061,19 +40024,19 @@ The Commission shall submit those reports to the Council,
 together with any appropriate proposals or recommendations.
 ****** END OF CHUNK ******
 
-****** Chunk 1754: *****
+****** Chunk 1756: *****
 **SPECIFIC PROVISIONS FOR INSURANCE AND REINSURANCE**
 ****** END OF CHUNK ******
 
-****** Chunk 1755: *****
+****** Chunk 1757: *****
 _**Applicable law and conditions of direct insurance contracts**_
 ****** END OF CHUNK ******
 
-****** Chunk 1756: *****
+****** Chunk 1758: *****
 **A p p l i c a b l e l a w**
 ****** END OF CHUNK ******
 
-****** Chunk 1757: *****
+****** Chunk 1759: *****
 **Applicable Law**
 
 
@@ -40083,11 +40046,11 @@ in order to determine the law applicable to insurance contracts
 falling within the scope of Article 7 of that Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 1758: *****
+****** Chunk 1760: *****
 **C o m p ul s o r y i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1759: *****
+****** Chunk 1761: *****
 **Related obligations**
 
 
@@ -40117,7 +40080,7 @@ tion, stating the following:
 (a) the specific legal provisions relating to that insurance;
 ****** END OF CHUNK ******
 
-****** Chunk 1760: *****
+****** Chunk 1762: *****
 (a) the specific legal provisions relating to that insurance;
 
 
@@ -40138,11 +40101,11 @@ point (b) of the first subparagraph in the _Official Journal of the Euro­_
 _pean Union_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1761: *****
+****** Chunk 1763: *****
 **G e n e r a l g o o d**
 ****** END OF CHUNK ******
 
-****** Chunk 1762: *****
+****** Chunk 1764: *****
 **General good**
 
 
@@ -40157,7 +40120,7 @@ in the Member State of the commitment.
 L 335/74 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1763: *****
+****** Chunk 1765: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -40165,7 +40128,7 @@ Official Journ al of the E uropean Un ion 17.12.2009
 **s c a l e s o f p r e m i um s**
 ****** END OF CHUNK ******
 
-****** Chunk 1764: *****
+****** Chunk 1766: *****
 **Non-life insurance**
 
 
@@ -40189,13 +40152,13 @@ sory authority the general and special conditions of such insur­
 ance before circulating them.
 ****** END OF CHUNK ******
 
-****** Chunk 1765: *****
+****** Chunk 1767: *****
 3. Member States shall not retain or introduce an obligation of
 prior notification or approval of proposed increases in premium
 rates except as part of general price-control systems.
 ****** END OF CHUNK ******
 
-****** Chunk 1766: *****
+****** Chunk 1768: *****
 **Life insurance**
 
 
@@ -40215,17 +40178,17 @@ technical provisions. Those requirements shall not constitute a
 prior condition for an insurance undertaking to pursue business.
 ****** END OF CHUNK ******
 
-****** Chunk 1767: *****
+****** Chunk 1769: *****
 **C o n d i t i o n s o f i n s ur a n c e c o n t r a c t s a n d**
 
 **I n f o r m a t i o n f o r p o l i c y h o l d e r s**
 ****** END OF CHUNK ******
 
-****** Chunk 1768: *****
+****** Chunk 1770: *****
 **N o n - l i f e i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1769: *****
+****** Chunk 1771: *****
 **General Information for policy holders**
 
 
@@ -40257,7 +40220,7 @@ shall be laid down by the Member State in which the risk is
 situated.
 ****** END OF CHUNK ******
 
-****** Chunk 1770: *****
+****** Chunk 1772: *****
 **Additional information in the case of non-life insurance**
 **offered under the right of establishment or the freedom to**
 **provide services**
@@ -40287,7 +40250,7 @@ which grants the cover.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1771: *****
+****** Chunk 1773: *****
 Official Journ al of the E uropean Un ion L 335/75
 
 
@@ -40298,11 +40261,11 @@ Article 148(2)(a) also appear in the documents referred to in the
 first subparagraph of this paragraph.
 ****** END OF CHUNK ******
 
-****** Chunk 1772: *****
+****** Chunk 1774: *****
 **Life insurance**
 ****** END OF CHUNK ******
 
-****** Chunk 1773: *****
+****** Chunk 1775: *****
 **Information for policy holders**
 
 
@@ -40345,7 +40308,7 @@ be communicated:
 (c) the means of terminating the contract;
 ****** END OF CHUNK ******
 
-****** Chunk 1774: *****
+****** Chunk 1776: *****
 (a) the definition of each benefit and each option;
 
 
@@ -40384,7 +40347,7 @@ the benefits are linked;
 the type of policy;
 ****** END OF CHUNK ******
 
-****** Chunk 1775: *****
+****** Chunk 1777: *****
 (j) arrangements for application of the cooling-off period;
 
 
@@ -40419,7 +40382,7 @@ information:
 (a) the policy conditions, both general and special;
 ****** END OF CHUNK ******
 
-****** Chunk 1776: *****
+****** Chunk 1778: *****
 5. The policy holder shall be kept informed throughout the
 term of the contract of any change concerning the following
 information:
@@ -40441,7 +40404,7 @@ of the law applicable to the contract;
 (d) annually, information on the state of bonuses.
 ****** END OF CHUNK ******
 
-****** Chunk 1777: *****
+****** Chunk 1779: *****
 (d) annually, information on the state of bonuses.
 
 
@@ -40459,7 +40422,7 @@ assumptions, and that the policy holder shall not derive any con­
 tractual claims from the specimen calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 1778: *****
+****** Chunk 1780: *****
 In the case of insurances with profit participation, the insurer shall
 inform the policy holder annually in writing of the status of the
 claims of the policy holder, incorporating the profit participation.
@@ -40485,7 +40448,7 @@ L 335/76 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1779: *****
+****** Chunk 1781: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -40501,7 +40464,7 @@ the commitment.
 be laid down by the Member State of the commitment.
 ****** END OF CHUNK ******
 
-****** Chunk 1780: *****
+****** Chunk 1782: *****
 **Cancellation period**
 
 
@@ -40536,7 +40499,7 @@ cumstances in which the contract is concluded, the policy
 holder does not need special protection.
 ****** END OF CHUNK ******
 
-****** Chunk 1781: *****
+****** Chunk 1783: *****
 (b) where, because of the status of the policy holder or the cir­
 cumstances in which the contract is concluded, the policy
 holder does not need special protection.
@@ -40546,15 +40509,15 @@ Where Member States make use of the option set out in the first
 subparagraph they shall specify that fact in their law.
 ****** END OF CHUNK ******
 
-****** Chunk 1782: *****
+****** Chunk 1784: *****
 _**Provisions specific to non-life insurance**_
 ****** END OF CHUNK ******
 
-****** Chunk 1783: *****
+****** Chunk 1785: *****
 **G e n e r a l p r o v i s i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1784: *****
+****** Chunk 1786: *****
 **Policy Conditions**
 
 
@@ -40563,7 +40526,7 @@ ditions intended to meet, in an individual case, the particular cir­
 cumstances of the risk to be covered.
 ****** END OF CHUNK ******
 
-****** Chunk 1785: *****
+****** Chunk 1787: *****
 **Abolition of monopolies**
 
 
@@ -40573,7 +40536,7 @@ to bodies established within their territories and referred to in
 Article 8, are abolished.
 ****** END OF CHUNK ******
 
-****** Chunk 1786: *****
+****** Chunk 1788: *****
 **Participation in national guarantee schemes**
 
 
@@ -40584,11 +40547,11 @@ designed to guarantee the payment of insurance claims to insured
 persons and injured third parties.
 ****** END OF CHUNK ******
 
-****** Chunk 1787: *****
+****** Chunk 1789: *****
 **C o m m un i t y c o - i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1788: *****
+****** Chunk 1790: *****
 **Community co-insurance operations**
 
 
@@ -40620,7 +40583,7 @@ through a head office or a branch established in a Member
 State other than that of the leading insurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 1789: *****
+****** Chunk 1791: *****
 (e) at least one of the co-insurers participates in the contract
 through a head office or a branch established in a Member
 State other than that of the leading insurance undertaking;
@@ -40647,7 +40610,7 @@ set out in paragraph 1 shall remain subject to the provisions of
 this Directive except those of this Section.
 ****** END OF CHUNK ******
 
-****** Chunk 1790: *****
+****** Chunk 1792: *****
 **Participation in Community co-insurance**
 
 
@@ -40656,7 +40619,7 @@ co-insurance shall not be made subject to any provisions other
 than those of this Section.
 ****** END OF CHUNK ******
 
-****** Chunk 1791: *****
+****** Chunk 1793: *****
 **Technical provisions**
 
 
@@ -40671,7 +40634,7 @@ determined by the leading insurer according to the rules of its
 home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1792: *****
+****** Chunk 1794: *****
 **Statistical data**
 
 
@@ -40680,7 +40643,7 @@ data showing the extent of Community co-insurance operations
 in which they participate and the Member States concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1793: *****
+****** Chunk 1795: *****
 **Treatment of co-insurance contracts in winding-up**
 **proceedings**
 
@@ -40692,7 +40655,7 @@ other insurance contracts of that undertaking without distinction
 as to the nationality of the insured and of the beneficiaries.
 ****** END OF CHUNK ******
 
-****** Chunk 1794: *****
+****** Chunk 1796: *****
 **Exchange of information between supervisory authorities**
 
 
@@ -40702,7 +40665,7 @@ the cooperation referred to in Title I, Chapter IV, Section 5, pro­
 vide each other with all necessary information.
 ****** END OF CHUNK ******
 
-****** Chunk 1795: *****
+****** Chunk 1797: *****
 **Cooperation on implementation**
 
 
@@ -40718,11 +40681,11 @@ practice or that the risks clearly do not require the participation
 of two or more insurers for their coverage.
 ****** END OF CHUNK ******
 
-****** Chunk 1796: *****
+****** Chunk 1798: *****
 **A s s i s t a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1797: *****
+****** Chunk 1799: *****
 **Activities similar to tourist assistance**
 
 
@@ -40740,11 +40703,11 @@ classification laid down in Annex I for activities which obviously
 come under other classes.
 ****** END OF CHUNK ******
 
-****** Chunk 1798: *****
+****** Chunk 1800: *****
 **L e g a l e x p e n s e s i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1799: *****
+****** Chunk 1801: *****
 **Scope of this Section**
 
 
@@ -40780,7 +40743,7 @@ L 335/78 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1800: *****
+****** Chunk 1802: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -40807,7 +40770,7 @@ while travelling, while away from their home or their
 habitual residence.
 ****** END OF CHUNK ******
 
-****** Chunk 1801: *****
+****** Chunk 1803: *****
 (ii) the activity forms part of a contract covering solely the
 assistance provided for persons who fall into difficulties
 while travelling, while away from their home or their
@@ -40820,7 +40783,7 @@ circumstances referred to in that point and is ancillary to the
 assistance.
 ****** END OF CHUNK ******
 
-****** Chunk 1802: *****
+****** Chunk 1804: *****
 **Separate contracts**
 
 
@@ -40831,7 +40794,7 @@ nature of the legal expenses cover and, should the Member State
 so request, the amount of the relevant premium are specified.
 ****** END OF CHUNK ******
 
-****** Chunk 1803: *****
+****** Chunk 1805: *****
 **Management of claims**
 
 
@@ -40856,7 +40819,7 @@ taking and pursuing one or more of the other classes of insurance
 set out in Annex I.
 ****** END OF CHUNK ******
 
-****** Chunk 1804: *****
+****** Chunk 1806: *****
 Composite insurance undertakings shall ensure that no member
 of the staff who is concerned with the management of legal
 expenses claims or with legal advice in respect thereof pursues at
@@ -40871,7 +40834,7 @@ tioned in the separate contract or separate section referred to in
 Article 199.
 ****** END OF CHUNK ******
 
-****** Chunk 1805: *****
+****** Chunk 1807: *****
 Where the undertaking having separate legal personality has links
 to an insurance undertaking which carries on one or more of the
 classes of insurance referred to in Part A of Annex I, members of
@@ -40890,7 +40853,7 @@ moment that those insured persons have a claim under that
 contract.
 ****** END OF CHUNK ******
 
-****** Chunk 1806: *****
+****** Chunk 1808: *****
 **Free choice of lawyer**
 
 
@@ -40918,13 +40881,13 @@ denominations laid down in Council Directive 77/249/EEC of
 freedom to provide services ( [1] ).
 ****** END OF CHUNK ******
 
-****** Chunk 1807: *****
+****** Chunk 1809: *****
 ( [1] [) OJ L 78, 26.3.1977, p. 17.](http://eur-lex.europa.eu/Result.do?aaaa=1977&mm=03&jj=26&type=L&nnn=078&pppp=0017&RechType=RECH_reference_pub&Submit=Search)
 --- Page 79 ---
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1808: *****
+****** Chunk 1810: *****
 Official Journ al of the E uropean Un ion L 335/79
 
 
@@ -40959,7 +40922,7 @@ expenses by the same insurance undertaking.
 affect the application of Article 200.
 ****** END OF CHUNK ******
 
-****** Chunk 1809: *****
+****** Chunk 1811: *****
 **Arbitration**
 
 
@@ -40974,7 +40937,7 @@ The insurance contract shall provide for the right of the insured
 person to have recourse to such procedures.
 ****** END OF CHUNK ******
 
-****** Chunk 1810: *****
+****** Chunk 1812: *****
 **Conflict of interest**
 
 
@@ -40986,7 +40949,7 @@ possibility of having recourse to the procedure referred to in
 Article 203.
 ****** END OF CHUNK ******
 
-****** Chunk 1811: *****
+****** Chunk 1813: *****
 **Abolition of specialisation of legal expenses insurance**
 
 
@@ -40996,11 +40959,11 @@ expenses insurance and other classes of insurance at the same
 time.
 ****** END OF CHUNK ******
 
-****** Chunk 1812: *****
+****** Chunk 1814: *****
 **H e a l t h i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 1813: *****
+****** Chunk 1815: *****
 **Health insurance as an alternative to social security**
 
 
@@ -41026,7 +40989,7 @@ similar to that of life insurance where all the following conditions
 are fulfilled:
 ****** END OF CHUNK ******
 
-****** Chunk 1814: *****
+****** Chunk 1816: *****
 (a) the premiums paid are calculated on the basis of sickness
 tables and other statistical data relevant to the Member State
 in which the risk is situated in accordance with the math­
@@ -41055,7 +41018,7 @@ account shall be taken of the reserve for increasing age and a new
 medical examination may be required only for increased cover.
 ****** END OF CHUNK ******
 
-****** Chunk 1815: *****
+****** Chunk 1817: *****
 In the case referred to in point (e) of the first subparagraph,
 account shall be taken of the reserve for increasing age and a new
 medical examination may be required only for increased cover.
@@ -41082,16 +41045,16 @@ calculation of premiums to be communicated to its supervisory
 authorities before the product is circulated.
 ****** END OF CHUNK ******
 
-****** Chunk 1816: *****
+****** Chunk 1818: *****
 The third and fourth subparagraphs shall also apply where exist­
 ing contracts are modified.
 ****** END OF CHUNK ******
 
-****** Chunk 1817: *****
+****** Chunk 1819: *****
 **I n s ur a n c e a g a i n s t a c c i d e n t s a t w o r k**
 ****** END OF CHUNK ******
 
-****** Chunk 1818: *****
+****** Chunk 1820: *****
 **Compulsory insurance against accidents at work**
 
 
@@ -41103,11 +41066,11 @@ provisions concerning financial supervision, which shall be the
 exclusive responsibility of the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1819: *****
+****** Chunk 1821: *****
 _**Provisions specific to life insurance**_
 ****** END OF CHUNK ******
 
-****** Chunk 1820: *****
+****** Chunk 1822: *****
 **Prohibition on compulsory ceding of part of underwriting**
 
 
@@ -41116,7 +41079,7 @@ cede part of their underwriting of activities listed in Article 2(3)
 to an organisation or organisations designated by national law.
 ****** END OF CHUNK ******
 
-****** Chunk 1821: *****
+****** Chunk 1823: *****
 **Premiums for new business**
 
 
@@ -41134,11 +41097,11 @@ jeopardise the solvency of the undertaking concerned in the long
 term.
 ****** END OF CHUNK ******
 
-****** Chunk 1822: *****
+****** Chunk 1824: *****
 _**Rules specific to reinsurance**_
 ****** END OF CHUNK ******
 
-****** Chunk 1823: *****
+****** Chunk 1825: *****
 **Finite reinsurance**
 
 
@@ -41162,7 +41125,7 @@ dance with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1824: *****
+****** Chunk 1826: *****
 3. For the purposes of paragraphs 1 and 2 finite reinsurance
 means reinsurance under which the explicit maximum loss poten­
 tial, expressed as the maximum economic risk transferred, arising
@@ -41182,7 +41145,7 @@ experience between the parties over time to achieve the tar­
 get risk transfer.
 ****** END OF CHUNK ******
 
-****** Chunk 1825: *****
+****** Chunk 1827: *****
 **Special purpose vehicles**
 
 
@@ -41229,7 +41192,7 @@ requirements;
 (g) solvency requirements.
 ****** END OF CHUNK ******
 
-****** Chunk 1826: *****
+****** Chunk 1828: *****
 (f) accounting, prudential and statistical information
 requirements;
 
@@ -41250,22 +41213,22 @@ ity commenced by such a special purpose vehicle after that date
 shall be subject to paragraphs 1 and 2.
 ****** END OF CHUNK ******
 
-****** Chunk 1827: *****
+****** Chunk 1829: *****
 **SUPERVISION OF INSURANCE AND REINSURANCE**
 
 **UNDERTAKINGS IN A GROUP**
 ****** END OF CHUNK ******
 
-****** Chunk 1828: *****
+****** Chunk 1830: *****
 _**Group supervision: definitions, cases of application, scope**_
 _**and levels**_
 ****** END OF CHUNK ******
 
-****** Chunk 1829: *****
+****** Chunk 1831: *****
 **D e f i n i t i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1830: *****
+****** Chunk 1832: *****
 **Definitions**
 
 
@@ -41297,7 +41260,7 @@ takings linked to each other by a relationship as set out
 in Article 12(1) of Directive 83/349/EEC; or
 ****** END OF CHUNK ******
 
-****** Chunk 1831: *****
+****** Chunk 1833: *****
 (ii) is based on the establishment, contractually or other­
 wise, of strong and sustainable financial relationships
 among those undertakings, and that may include mutual
@@ -41328,7 +41291,7 @@ sible for group supervision, determined in accordance with
 Article 247;
 ****** END OF CHUNK ******
 
-****** Chunk 1832: *****
+****** Chunk 1834: *****
 (d) ‘group supervisor’ means the supervisory authority respon­
 sible for group supervision, determined in accordance with
 Article 247;
@@ -41350,7 +41313,7 @@ one of such subsidiary undertakings being an insurance or
 reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1833: *****
+****** Chunk 1835: *****
 (g) ‘mixed-activity insurance holding company’ means a parent
 undertaking, other than an insurance undertaking, a thirdcountry insurance undertaking, a reinsurance undertaking, a
 third-country reinsurance undertaking, an insurance holding
@@ -41378,7 +41341,7 @@ taking over which, in the opinion of the supervisory authorities,
 a parent undertaking effectively exercises a dominant influence.
 ****** END OF CHUNK ******
 
-****** Chunk 1834: *****
+****** Chunk 1836: *****
 They shall also consider as a subsidiary undertaking any under­
 taking over which, in the opinion of the supervisory authorities,
 a parent undertaking effectively exercises a dominant influence.
@@ -41390,11 +41353,11 @@ which, in the opinion of the supervisory authorities, a significant
 influence is effectively exercised.
 ****** END OF CHUNK ******
 
-****** Chunk 1835: *****
+****** Chunk 1837: *****
 **C a s e s o f a p p l i c a t i o n a n d s c o p e**
 ****** END OF CHUNK ******
 
-****** Chunk 1836: *****
+****** Chunk 1838: *****
 **Cases of application of group supervision**
 
 
@@ -41420,7 +41383,7 @@ ing or third-country reinsurance undertaking, in accordance
 with Articles 218 to 258;
 ****** END OF CHUNK ******
 
-****** Chunk 1837: *****
+****** Chunk 1839: *****
 (b) to insurance or reinsurance undertakings, the parent under­
 taking of which is an insurance holding company which has
 its head office in the Community, in accordance with
@@ -41439,7 +41402,7 @@ taking of which is a mixed-activity insurance holding com­
 pany, in accordance with Article 265.
 ****** END OF CHUNK ******
 
-****** Chunk 1838: *****
+****** Chunk 1840: *****
 (d) to insurance or reinsurance undertakings, the parent under­
 taking of which is a mixed-activity insurance holding com­
 pany, in accordance with Article 265.
@@ -41460,7 +41423,7 @@ of intra-group transactions referred to in Article 245 of this Direc­
 tive, or both.
 ****** END OF CHUNK ******
 
-****** Chunk 1839: *****
+****** Chunk 1841: *****
 **Scope of group supervision**
 
 
@@ -41489,7 +41452,7 @@ interest with respect to the objectives of group supervision;
 or
 ****** END OF CHUNK ******
 
-****** Chunk 1840: *****
+****** Chunk 1842: *****
 (b) the undertaking which should be included is of negligible
 interest with respect to the objectives of group supervision;
 
@@ -41514,7 +41477,7 @@ shall consult the other supervisory authorities concerned before
 taking a decision.
 ****** END OF CHUNK ******
 
-****** Chunk 1841: *****
+****** Chunk 1843: *****
 Where the group supervisor does not include an insurance or
 reinsurance undertaking in the group supervision under point (b)
 or (c) of the first subparagraph, the supervisory authorities of the
@@ -41526,11 +41489,11 @@ reinsurance undertaking concerned.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1842: *****
+****** Chunk 1844: *****
 **L e v e l s**
 ****** END OF CHUNK ******
 
-****** Chunk 1843: *****
+****** Chunk 1845: *****
 Official Journ al of the E uropean Un ion L 335/83
 
 
@@ -41547,7 +41510,7 @@ Member State concerned.
 **Ultimate parent undertaking at Community level**
 ****** END OF CHUNK ******
 
-****** Chunk 1844: *****
+****** Chunk 1846: *****
 **Ultimate parent undertaking at Community level**
 
 
@@ -41562,7 +41525,7 @@ ance holding company which has its head office in the
 Community.
 ****** END OF CHUNK ******
 
-****** Chunk 1845: *****
+****** Chunk 1847: *****
 2. Where the ultimate parent insurance or reinsurance under­
 taking or insurance holding company which has its head office in
 the Community, referred to in paragraph 1, is a subsidiary under­
@@ -41575,7 +41538,7 @@ referred to in Article 244, the supervision of intra-group transac­
 tions referred to in Article 245, or both.
 ****** END OF CHUNK ******
 
-****** Chunk 1846: *****
+****** Chunk 1848: *****
 **Ultimate parent undertaking at national level**
 
 
@@ -41600,7 +41563,7 @@ Articles 218 to 258 shall apply _mutatis mutandis_, subject to the
 provisions set out in paragraphs 2 to 6.
 ****** END OF CHUNK ******
 
-****** Chunk 1847: *****
+****** Chunk 1849: *****
 Articles 218 to 258 shall apply _mutatis mutandis_, subject to the
 provisions set out in paragraphs 2 to 6.
 
@@ -41623,7 +41586,7 @@ recognised as determinative and applied by the supervisory
 authority in the Member State concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1848: *****
+****** Chunk 1850: *****
 In such a situation, where the supervisory authority considers that
 the risk profile of the ultimate parent undertaking at national level
 deviates significantly from the internal model approved at Com­
@@ -41641,7 +41604,7 @@ The supervisory authority shall explain such decisions to both the
 undertaking and the group supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 1849: *****
+****** Chunk 1851: *****
 The supervisory authority shall explain such decisions to both the
 undertaking and the group supervisor.
 
@@ -41663,7 +41626,7 @@ Articles 237 or 243 permission for that subsidiary to be subject
 to Articles 238 and 239.
 ****** END OF CHUNK ******
 
-****** Chunk 1850: *****
+****** Chunk 1852: *****
 7. The Commission may adopt implementing measures speci­
 fying the circumstances under which the decision referred to in
 paragraph 1 can be made.
@@ -41681,7 +41644,7 @@ L 335/84 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1851: *****
+****** Chunk 1853: *****
 **Parent undertaking covering several Member States**
 
 
@@ -41705,7 +41668,7 @@ the first subparagraph of this paragraph is located.
 2. Article 216(2) to (6) shall apply _mutatis mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1852: *****
+****** Chunk 1854: *****
 2. Article 216(2) to (6) shall apply _mutatis mutandis_ .
 
 
@@ -41720,19 +41683,19 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1853: *****
+****** Chunk 1855: *****
 _**Financial position**_
 ****** END OF CHUNK ******
 
-****** Chunk 1854: *****
+****** Chunk 1856: *****
 **G r o up s o l v e n c y**
 ****** END OF CHUNK ******
 
-****** Chunk 1855: *****
+****** Chunk 1857: *****
 **G e n e r a l p r o v i s i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1856: *****
+****** Chunk 1858: *****
 **Supervision of group solvency**
 
 
@@ -41756,7 +41719,7 @@ are always at least equal to the group Solvency Capital Require­
 ment as calculated in accordance with Subsection 5.
 ****** END OF CHUNK ******
 
-****** Chunk 1857: *****
+****** Chunk 1859: *****
 4. The requirements referred to in paragraphs 2 and 3 shall be
 subject to supervisory review by the group supervisor in accor­
 dance with Chapter III. Article 136 and Article 138(1) to (4) shall
@@ -41771,7 +41734,7 @@ visor shall inform the other supervisory authorities within the col­
 lege of supervisors, which shall analyse the situation of the group.
 ****** END OF CHUNK ******
 
-****** Chunk 1858: *****
+****** Chunk 1860: *****
 **Frequency of calculation**
 
 
@@ -41790,7 +41753,7 @@ group supervisor after consulting the other supervisory authori­
 ties concerned and the group itself.
 ****** END OF CHUNK ******
 
-****** Chunk 1859: *****
+****** Chunk 1861: *****
 2. The insurance and reinsurance undertaking and the insur­
 ance holding company shall monitor the group Solvency Capital
 Requirement on an ongoing basis. Where the risk profile of the
@@ -41807,12 +41770,12 @@ visor may require a recalculation of the group Solvency Capital
 Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1860: *****
+****** Chunk 1862: *****
 **Choice of calculation method and general**
 **principles**
 ****** END OF CHUNK ******
 
-****** Chunk 1861: *****
+****** Chunk 1863: *****
 **Choice of method**
 
 
@@ -41837,7 +41800,7 @@ in accordance with method 1, which is laid down in Articles 230
 to 232.
 ****** END OF CHUNK ******
 
-****** Chunk 1862: *****
+****** Chunk 1864: *****
 However, Member States shall allow their supervisory authorities,
 where they assume the role of group supervisor with regard to a
 particular group, to decide, after consulting the other supervisory
@@ -41847,7 +41810,7 @@ bination of methods 1 and 2, where the exclusive application of
 method 1 would not be appropriate.
 ****** END OF CHUNK ******
 
-****** Chunk 1863: *****
+****** Chunk 1865: *****
 **Inclusion of proportional share**
 
 
@@ -41875,7 +41838,7 @@ gible own funds to cover its Solvency Capital Requirement, the
 total solvency deficit of the subsidiary shall be taken into account.
 ****** END OF CHUNK ******
 
-****** Chunk 1864: *****
+****** Chunk 1866: *****
 Where in the opinion of the supervisory authorities, the respon­
 sibility of the parent undertaking owning a share of the capital is
 strictly limited to that share of the capital, the group supervisor
@@ -41900,14 +41863,14 @@ ion, a significant influence is effectively exercised over that
 undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 1865: *****
+****** Chunk 1867: *****
 (c) where a supervisory authority has determined that an under­
 taking is a parent undertaking of another because, in the
 opinion of that supervisory authority, it effectively exercises
 a dominant influence over that other undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1866: *****
+****** Chunk 1868: *****
 **Elimination of double use of eligible own funds**
 
 
@@ -41935,7 +41898,7 @@ gible for the Solvency Capital Requirement of that participat­
 ing insurance or reinsurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 1867: *****
+****** Chunk 1869: *****
 (c) the value of any asset of a related insurance or reinsurance
 undertaking of the participating insurance or reinsurance
 undertaking which represents the financing of own funds eli­
@@ -41962,7 +41925,7 @@ reinsurance undertaking for which the group solvency is
 calculated.
 ****** END OF CHUNK ******
 
-****** Chunk 1868: *****
+****** Chunk 1870: *****
 (b) any subscribed but not paid-up capital of a related insurance
 or reinsurance undertaking of the participating insurance or
 reinsurance undertaking for which the group solvency is
@@ -41997,7 +41960,7 @@ undertaking of the same participating insurance or reinsur­
 ance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1869: *****
+****** Chunk 1871: *****
 3. Where the supervisory authorities consider that certain own
 funds eligible for the Solvency Capital Requirement of a related
 insurance or reinsurance undertaking other than those referred to
@@ -42014,7 +41977,7 @@ shall not exceed the Solvency Capital Requirement of the related
 insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1870: *****
+****** Chunk 1872: *****
 4. The sum of the own funds referred to in paragraphs 2 and 3
 shall not exceed the Solvency Capital Requirement of the related
 insurance or reinsurance undertaking.
@@ -42030,7 +41993,7 @@ authority responsible for the supervision of that related
 undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1871: *****
+****** Chunk 1873: *****
 **Elimination of the intra-group creation of capital**
 
 
@@ -42060,7 +42023,7 @@ of reciprocal financing with any other related undertaking of that
 participating insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1872: *****
+****** Chunk 1874: *****
 3. Reciprocal financing shall be deemed to exist at least where
 an insurance or reinsurance undertaking, or any of its related
 undertakings, holds shares in, or makes loans to, another under­
@@ -42068,7 +42031,7 @@ taking which, directly or indirectly, holds own funds eligible for
 the Solvency Capital Requirement of the first undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1873: *****
+****** Chunk 1875: *****
 **Valuation**
 
 
@@ -42076,11 +42039,11 @@ The value of the assets and liabilities shall be assessed in accor­
 dance with Article 75.
 ****** END OF CHUNK ******
 
-****** Chunk 1874: *****
+****** Chunk 1876: *****
 **Application of the calculation methods**
 ****** END OF CHUNK ******
 
-****** Chunk 1875: *****
+****** Chunk 1877: *****
 **Related insurance and reinsurance undertakings**
 
 
@@ -42099,7 +42062,7 @@ Solvency Capital Requirement and the own funds eligible to sat­
 isfy that requirement as laid down in that other Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 1876: *****
+****** Chunk 1878: *****
 **Intermediate insurance holding companies**
 
 
@@ -42117,7 +42080,7 @@ account.
 Official Journ al of the E uropean Un ion L 335/87
 ****** END OF CHUNK ******
 
-****** Chunk 1877: *****
+****** Chunk 1879: *****
 Official Journ al of the E uropean Un ion L 335/87
 
 
@@ -42141,7 +42104,7 @@ outstanding at group level as compared to the Solvency Capital
 Requirement at group level.
 ****** END OF CHUNK ******
 
-****** Chunk 1878: *****
+****** Chunk 1880: *****
 Any eligible own funds of an intermediate insurance holding
 company, which would require prior authorisation from the
 supervisory authority in accordance with Article 90 if they were
@@ -42150,7 +42113,7 @@ in the calculation of the group solvency only in so far as they have
 been duly authorised by the group supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 1879: *****
+****** Chunk 1881: *****
 **Related third-country insurance and reinsurance**
 **undertakings**
 
@@ -42172,7 +42135,7 @@ Requirement and the own funds eligible to satisfy that require­
 ment as laid down by the third country concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1880: *****
+****** Chunk 1882: *****
 2. The verification of whether the third-country regime is at
 least equivalent shall be carried out by the group supervisor, at the
 request of the participating undertaking or on its own initiative.
@@ -42195,7 +42158,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1881: *****
+****** Chunk 1883: *****
 4. The Commission may adopt, after consultation of the Euro­
 pean Insurance and Occupational Pensions Committee and in
 accordance with the regulatory procedure referred to in
@@ -42215,7 +42178,7 @@ adopts a decision on equivalence of the solvency regime in a third
 country, paragraph 2 shall not apply.
 ****** END OF CHUNK ******
 
-****** Chunk 1882: *****
+****** Chunk 1884: *****
 5. Wherein accordance with paragraph 4 the Commission
 adopts a decision on equivalence of the solvency regime in a third
 country, paragraph 2 shall not apply.
@@ -42231,7 +42194,7 @@ insurance or reinsurance undertaking shall be treated exclusively
 in accordance with the first subparagraph of paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1883: *****
+****** Chunk 1885: *****
 **Related credit institutions, investment firms and financial**
 **institutions**
 
@@ -42249,7 +42212,7 @@ scope of consolidation. The method chosen shall be applied in a
 consistent manner over time.
 ****** END OF CHUNK ******
 
-****** Chunk 1884: *****
+****** Chunk 1886: *****
 Member States shall however allow their supervisory authorities,
 where they assume the role of group supervisor with regard to a
 particular group, to decide, at the request of the participating
@@ -42264,7 +42227,7 @@ L 335/88 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1885: *****
+****** Chunk 1887: *****
 **Non-availability of the necessary information**
 
 
@@ -42282,11 +42245,11 @@ tion shall not be recognised as own funds eligible for the group
 solvency.
 ****** END OF CHUNK ******
 
-****** Chunk 1886: *****
+****** Chunk 1888: *****
 **Calculation methods**
 ****** END OF CHUNK ******
 
-****** Chunk 1887: *****
+****** Chunk 1889: *****
 **Method 1 (Default method): Accounting**
 **consolidation-based method**
 
@@ -42315,7 +42278,7 @@ eligible for the Solvency Capital Requirement and of the Solvency
 Capital Requirement at group level based on consolidated data.
 ****** END OF CHUNK ******
 
-****** Chunk 1888: *****
+****** Chunk 1890: *****
 2. The Solvency Capital Requirement at group level based on
 consolidated data (consolidated group Solvency Capital Require­
 ment) shall be calculated on the basis of either the standard for­
@@ -42343,7 +42306,7 @@ That minimum shall be covered by eligible basic own funds as
 determined in Article 98(4).
 ****** END OF CHUNK ******
 
-****** Chunk 1889: *****
+****** Chunk 1891: *****
 That minimum shall be covered by eligible basic own funds as
 determined in Article 98(4).
 
@@ -42355,7 +42318,7 @@ apply _mutatis mutandis_ . Article 139(1) and (2) shall apply _mutatis_
 _mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1890: *****
+****** Chunk 1892: *****
 **Group internal model**
 
 
@@ -42379,7 +42342,7 @@ The group supervisor shall inform the other supervisory authori­
 ties concerned without delay.
 ****** END OF CHUNK ******
 
-****** Chunk 1891: *****
+****** Chunk 1893: *****
 An application as referred to in the first subparagraph shall be
 submitted to the group supervisor.
 
@@ -42411,7 +42374,7 @@ graph 2 shall be extended by two months.
 11.72.2009 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1892: *****
+****** Chunk 1894: *****
 Official Journ al of the E uropean Un ion L 335/89
 
 
@@ -42441,7 +42404,7 @@ The supervisory authorities concerned shall comply with the
 decision.
 ****** END OF CHUNK ******
 
-****** Chunk 1893: *****
+****** Chunk 1895: *****
 The group supervisor shall provide the applicant and the other
 supervisory authorities concerned with the decision.
 
@@ -42479,7 +42442,7 @@ That decision shall be recognised as determinative and applied by
 the supervisory authorities concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1894: *****
+****** Chunk 1896: *****
 That decision shall be recognised as determinative and applied by
 the supervisory authorities concerned.
 
@@ -42495,7 +42458,7 @@ vency Capital Requirement of that insurance or reinsurance
 undertaking resulting from the application of such internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 1895: *****
+****** Chunk 1897: *****
 In exceptional circumstances, where such capital add-on would
 not be appropriate, the supervisory authority may require the
 undertaking concerned to calculate its Solvency Capital Require­
@@ -42512,7 +42475,7 @@ the first and second subparagraphs to both the insurance or rein­
 surance undertaking and the group supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 1896: *****
+****** Chunk 1898: *****
 **Group capital add-on**
 
 
@@ -42543,7 +42506,7 @@ Article 37(1) to (5), together with implementing measures taken
 in accordance with Article 37(6), shall apply _mutatis mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1897: *****
+****** Chunk 1899: *****
 **Method 2 (Alternative method): Deduction and**
 **aggregation method**
 
@@ -42583,7 +42546,7 @@ vency Capital Requirement of the related insurance or
 reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1898: *****
+****** Chunk 1900: *****
 3. The aggregated group Solvency Capital Requirement is the
 sum of the following:
 
@@ -42596,7 +42559,7 @@ ance or reinsurance undertaking;
 of the related insurance or reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1899: *****
+****** Chunk 1901: *****
 (b) the proportional share of the Solvency Capital Requirement
 of the related insurance or reinsurance undertakings.
 
@@ -42615,7 +42578,7 @@ tal Requirement of the related insurance or reinsurance
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1900: *****
+****** Chunk 1902: *****
 5. In the case of an application for permission to calculate the
 Solvency Capital Requirement of insurance and reinsurance
 undertakings in the group on the basis of an internal model, sub­
@@ -42638,12 +42601,12 @@ Requirement, a capital add-on to the aggregated group Solvency
 Capital Requirement may be imposed.
 ****** END OF CHUNK ******
 
-****** Chunk 1901: *****
+****** Chunk 1903: *****
 Article 37(1) to (5), together with implementing measures taken
 in accordance with Article 37(6), shall apply _mutatis mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1902: *****
+****** Chunk 1904: *****
 **Implementing measures**
 
 
@@ -42659,13 +42622,13 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1903: *****
+****** Chunk 1905: *****
 **Supervision of group solvency for insurance and**
 **reinsurance undertakings that are subsidiaries of**
 **an insurance holding company**
 ****** END OF CHUNK ******
 
-****** Chunk 1904: *****
+****** Chunk 1906: *****
 **Group solvency of an insurance holding company**
 
 
@@ -42685,12 +42648,12 @@ Chapter VI, Section 3, Subsections 1, 2 and 3 as regards the own
 funds eligible for the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 1905: *****
+****** Chunk 1907: *****
 **Supervision of group solvency for groups w it h**
 **centralised risk management**
 ****** END OF CHUNK ******
 
-****** Chunk 1906: *****
+****** Chunk 1908: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **conditions**
 
@@ -42721,7 +42684,7 @@ parent undertaking satisfies the supervisory authorities con­
 cerned regarding the prudent management of the subsidiary;
 ****** END OF CHUNK ******
 
-****** Chunk 1907: *****
+****** Chunk 1909: *****
 (c) the parent undertaking has received the agreement referred to
 in the third subparagraph of Article 246(4);
 
@@ -42736,7 +42699,7 @@ a favourable decision has been made on such application in
 accordance with the procedure set out in Article _237_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1908: *****
+****** Chunk 1910: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **decision on the application**
 
@@ -42756,7 +42719,7 @@ the complete application to the other supervisory authorities
 within the college of supervisors without delay.
 ****** END OF CHUNK ******
 
-****** Chunk 1909: *****
+****** Chunk 1911: *****
 2. The supervisory authorities concerned shall do everything
 within their power to reach a joint decision on the application
 within three months from the date of receipt of the complete
@@ -42778,7 +42741,7 @@ concerned shall duly consider such advice before taking their joint
 decision.
 ****** END OF CHUNK ******
 
-****** Chunk 1910: *****
+****** Chunk 1912: *****
 Where CEIOPS has been consulted, the supervisory authorities
 concerned shall duly consider such advice before taking their joint
 decision.
@@ -42808,7 +42771,7 @@ following:
 concerned expressed during the applicable period;
 ****** END OF CHUNK ******
 
-****** Chunk 1911: *****
+****** Chunk 1913: *****
 In taking its decision, the group supervisor shall duly consider the
 following:
 
@@ -42833,7 +42796,7 @@ other supervisory authorities concerned with a copy of the
 decision.
 ****** END OF CHUNK ******
 
-****** Chunk 1912: *****
+****** Chunk 1914: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **determination of the Solvency Capital Requirement**
 
@@ -42843,7 +42806,7 @@ Requirement of the subsidiary shall be calculated as set out in
 paragraphs 2, 4, and 5 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 1913: *****
+****** Chunk 1915: *****
 2. Where the Solvency Capital Requirement of the subsidiary
 is calculated on the basis of an internal model approved at group
 level in accordance with Article 231 and the supervisory author­
@@ -42862,7 +42825,7 @@ grounds for such proposals to both the subsidiary and the college
 of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 1914: *****
+****** Chunk 1916: *****
 3. Where the Solvency Capital Requirement of the subsidiary
 is calculated on the basis of the standard formula and the super­
 visory authority having authorised the subsidiary considers that
@@ -42887,7 +42850,7 @@ in Article 37, to set a capital add-on to the Solvency Capital
 Requirement of that subsidiary.
 ****** END OF CHUNK ******
 
-****** Chunk 1915: *****
+****** Chunk 1917: *****
 risk modules, as set out in Article 110, or in the cases referred to
 in Article 37, to set a capital add-on to the Solvency Capital
 Requirement of that subsidiary.
@@ -42915,7 +42878,7 @@ The supervisory authority having authorised that subsidiary shall
 duly consider such advice before taking its final decision.
 ****** END OF CHUNK ******
 
-****** Chunk 1916: *****
+****** Chunk 1918: *****
 The supervisory authority having authorised that subsidiary shall
 duly consider such advice before taking its final decision.
 
@@ -42929,7 +42892,7 @@ The decision shall be submitted to the subsidiary and to the col­
 lege of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 1917: *****
+****** Chunk 1919: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **non-compliance with the Solvency and Minimum Capital**
 **Requirements**
@@ -42953,7 +42916,7 @@ from the date on which non-compliance with the Solvency Capi­
 tal Requirement was first observed.
 ****** END OF CHUNK ******
 
-****** Chunk 1918: *****
+****** Chunk 1920: *****
 In the absence of such agreement, the supervisory authority hav­
 ing authorised the subsidiary shall decide whether the recovery
 plan should be approved, taking due account of the views and res­
@@ -42975,7 +42938,7 @@ reach an agreement on the proposed measures to be taken within
 one month of notification.
 ****** END OF CHUNK ******
 
-****** Chunk 1919: *****
+****** Chunk 1921: *****
 The college of supervisors shall do everything within its power to
 reach an agreement on the proposed measures to be taken within
 one month of notification.
@@ -42988,7 +42951,7 @@ and reservations of the other supervisory authorities within the
 college of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 1920: *****
+****** Chunk 1922: *****
 3. In the event of non-compliance with the Minimum Capital
 Requirement and without prejudice to Article 139, the supervi­
 sory authority having authorised the subsidiary shall, without
@@ -43004,7 +42967,7 @@ enforce the Minimum Capital Requirement at the level of the
 subsidiary.
 ****** END OF CHUNK ******
 
-****** Chunk 1921: *****
+****** Chunk 1923: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **end of derogations for a subsidiary**
 
@@ -43039,7 +43002,7 @@ authority concerned and the parent undertaking.
 Official Journ al of the E uropean Un ion L 335/93
 ****** END OF CHUNK ******
 
-****** Chunk 1922: *****
+****** Chunk 1924: *****
 Official Journ al of the E uropean Un ion L 335/93
 
 
@@ -43061,7 +43024,7 @@ where the latter has significant concerns related to the ongoing
 compliance with those conditions.
 ****** END OF CHUNK ******
 
-****** Chunk 1923: *****
+****** Chunk 1925: *****
 Where the verification performed identifies weaknesses, the group
 supervisor shall require the parent undertaking to present a plan
 to restore compliance within an appropriate period of time.
@@ -43082,7 +43045,7 @@ application and obtains a favourable decision in accordance with
 the procedure set out in Article 237.
 ****** END OF CHUNK ******
 
-****** Chunk 1924: *****
+****** Chunk 1926: *****
 **Subsidiaries of an insurance or reinsurance undertaking:**
 **implementing measures**
 
@@ -43110,7 +43073,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1925: *****
+****** Chunk 1927: *****
 **Review**
 
 
@@ -43124,7 +43087,7 @@ cil, accompanied, where appropriate, by proposals for the amend­
 ment of this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 1926: *****
+****** Chunk 1928: *****
 2. By 31 October 2015, the Commission shall make an assess­
 ment of the benefit of enhancing group supervision and capital
 management within a group of insurance or reinsurance under­
@@ -43151,7 +43114,7 @@ ing of group internal models including stress testing;
 over time;
 ****** END OF CHUNK ******
 
-****** Chunk 1927: *****
+****** Chunk 1929: *****
 (c) intra-group transactions and risk concentrations;
 
 
@@ -43184,7 +43147,7 @@ concerning crisis management, resolution and fiscal burdensharing which aligns s
 responsibilities.
 ****** END OF CHUNK ******
 
-****** Chunk 1928: *****
+****** Chunk 1930: *****
 The Commission shall present a report to the European Parlia­
 ment and the Council, accompanied, where appropriate, by pro­
 posals for the amendment of this Directive.
@@ -43196,7 +43159,7 @@ L 335/94 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1929: *****
+****** Chunk 1931: *****
 **Subsidiaries of an insurance holding company**
 
 
@@ -43205,12 +43168,12 @@ reinsurance undertakings which are the subsidiary of an insurance
 holding company.
 ****** END OF CHUNK ******
 
-****** Chunk 1930: *****
+****** Chunk 1932: *****
 **R i s k c o n c e n t r a t i o n a n d i n t r a - g r o up**
 **t r a n s a c t i o n s**
 ****** END OF CHUNK ******
 
-****** Chunk 1931: *****
+****** Chunk 1933: *****
 **Supervision of risk concentration**
 
 
@@ -43238,7 +43201,7 @@ The risk concentrations shall be subject to supervisory review by
 the group supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 1932: *****
+****** Chunk 1934: *****
 The risk concentrations shall be subject to supervisory review by
 the group supervisor.
 
@@ -43262,7 +43225,7 @@ thresholds based on solvency capital requirements, technical pro­
 visions, or both.
 ****** END OF CHUNK ******
 
-****** Chunk 1933: *****
+****** Chunk 1935: *****
 When reviewing the risk concentrations, the group supervisor
 shall in particular monitor the possible risk of contagion in the
 group, the risk of a conflict of interests, and the level or volume
@@ -43282,7 +43245,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1934: *****
+****** Chunk 1936: *****
 **Supervision of intra-group transactions**
 
 
@@ -43303,7 +43266,7 @@ In addition, Member States shall require reporting of very signifi­
 cant intra-group transactions as soon as practicable.
 ****** END OF CHUNK ******
 
-****** Chunk 1935: *****
+****** Chunk 1937: *****
 In addition, Member States shall require reporting of very signifi­
 cant intra-group transactions as soon as practicable.
 
@@ -43328,7 +43291,7 @@ in a particular group must report in all circumstances.
 Article 244(3) shall apply _mutatis mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1936: *****
+****** Chunk 1938: *****
 4. The Commission may adopt implementing measures, as
 regards the definition and identification of a significant intragroup transaction and the reporting on such an intra-group trans­
 action, for the purposes of paragraphs 2 and 3.
@@ -43346,11 +43309,11 @@ Article 301(3).
 Official Journ al of the E uropean Un ion L 335/95
 ****** END OF CHUNK ******
 
-****** Chunk 1937: *****
+****** Chunk 1939: *****
 **R i s k m a n a g e m e n t a n d i n t e r n a l c o n t r o l**
 ****** END OF CHUNK ******
 
-****** Chunk 1938: *****
+****** Chunk 1940: *****
 **Supervision of the system of governance**
 
 
@@ -43380,7 +43343,7 @@ manage the intra-group transactions and the risk
 concentration.
 ****** END OF CHUNK ******
 
-****** Chunk 1939: *****
+****** Chunk 1941: *****
 (b) sound reporting and accounting procedures to monitor and
 manage the intra-group transactions and the risk
 concentration.
@@ -43399,7 +43362,7 @@ group level shall be subject to supervisory review by the group
 supervisor in accordance with Chapter III.
 ****** END OF CHUNK ******
 
-****** Chunk 1940: *****
+****** Chunk 1942: *****
 Where the calculation of the solvency at the level of the group is
 carried out in accordance with method 1, as referred to in
 Article 230, the participating insurance or reinsurance undertak­
@@ -43418,7 +43381,7 @@ level of any subsidiary in the group at the same time, and may
 produce a single document covering all the assessments.
 ****** END OF CHUNK ******
 
-****** Chunk 1941: *****
+****** Chunk 1943: *****
 Before granting an agreement in accordance with the third sub­
 paragraph, the group supervisor shall consult the members of the
 college of supervisors and duly take into account their views or
@@ -43432,11 +43395,11 @@ not exempt the subsidiaries concerned from the obligation to
 ensure that the requirements of Article 45 are met.
 ****** END OF CHUNK ******
 
-****** Chunk 1942: *****
+****** Chunk 1944: *****
 _**Measures to facilitate group supervision**_
 ****** END OF CHUNK ******
 
-****** Chunk 1943: *****
+****** Chunk 1945: *****
 **Group Supervisor**
 
 
@@ -43465,7 +43428,7 @@ undertaking, by the supervisory authority identified in accor­
 dance with the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1944: *****
+****** Chunk 1946: *****
 (b) where a group is not headed by an insurance or reinsurance
 undertaking, by the supervisory authority identified in accor­
 dance with the following:
@@ -43493,7 +43456,7 @@ L 335/96 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1945: *****
+****** Chunk 1947: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -43516,7 +43479,7 @@ rised the insurance or reinsurance undertaking with the
 largest balance sheet total; or
 ****** END OF CHUNK ******
 
-****** Chunk 1946: *****
+****** Chunk 1948: *****
 (v) where the group is a group without a parent undertak­
 ing, or in any circumstances not referred to in points (i)
 to (iv) by the supervisory authority which authorised the
@@ -43539,7 +43502,7 @@ referred to in paragraph 2 are appropriate. Such a discussion shall
 not take place more often than annually.
 ****** END OF CHUNK ******
 
-****** Chunk 1947: *****
+****** Chunk 1949: *****
 The supervisory authorities concerned shall do everything within
 their power to reach a joint decision on the choice of the group
 supervisor within three months from the request for discussion.
@@ -43560,7 +43523,7 @@ state the full reasons and shall contain an explanation of any sig­
 nificant deviation from any advice given by CEIOPS.
 ****** END OF CHUNK ******
 
-****** Chunk 1948: *****
+****** Chunk 1950: *****
 6. In the absence of a joint decision derogating from the cri­
 teria set out in paragraph 2, the task of group supervisor shall be
 exercised by the supervisory authority identified in accordance
@@ -43584,14 +43547,14 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1949: *****
+****** Chunk 1951: *****
 8. Where a Member State has more than one supervisory
 authority for the prudential supervision of insurance and reinsur­
 ance undertakings, such Member State shall take the necessary
 measures to ensure coordination between those authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1950: *****
+****** Chunk 1952: *****
 **Rights and duties of the group supervisor and the other**
 **supervisors College of supervisors**
 
@@ -43623,7 +43586,7 @@ ticipating undertaking fulfil the requirements set out in
 Articles 42 and 257;
 ****** END OF CHUNK ******
 
-****** Chunk 1951: *****
+****** Chunk 1953: *****
 (e) planning and coordination, through regular meetings held at
 least annually or through other appropriate means, of super­
 visory activities in going-concern as well as in emergency
@@ -43649,7 +43612,7 @@ the application of the regime established in Articles 237
 to 240.
 ****** END OF CHUNK ******
 
-****** Chunk 1952: *****
+****** Chunk 1954: *****
 2. In order to facilitate the exercise of the group supervision
 tasks referred to in paragraph 1, a college of supervisors, chaired
 by the group supervisor, shall be established.
@@ -43675,7 +43638,7 @@ supervisors. However, their participation shall be limited to
 achieving the objective of an efficient exchange of information.
 ****** END OF CHUNK ******
 
-****** Chunk 1953: *****
+****** Chunk 1955: *****
 The effective functioning of the college of supervisors may require
 that some activities be carried out by a reduced number of super­
 visory authorities therein.
@@ -43693,7 +43656,7 @@ arrangements, any member of the college of supervisors may refer
 the matter to CEIOPS.
 ****** END OF CHUNK ******
 
-****** Chunk 1954: *****
+****** Chunk 1956: *****
 In the event of diverging views concerning the coordination
 arrangements, any member of the college of supervisors may refer
 the matter to CEIOPS.
@@ -43722,7 +43685,7 @@ ties concerned in accordance with Articles 231, 232 and 247;
 Article 218(5).
 ****** END OF CHUNK ******
 
-****** Chunk 1955: *****
+****** Chunk 1957: *****
 (b) consultation under paragraph 4 of this Article and under
 Article 218(5).
 
@@ -43748,7 +43711,7 @@ particular as referred to in Articles 213 to 217, 219 to 221,
 (b) cooperation with other supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1956: *****
+****** Chunk 1958: *****
 (b) cooperation with other supervisory authorities.
 
 
@@ -43773,7 +43736,7 @@ with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1957: *****
+****** Chunk 1959: *****
 **Cooperation and exchange of information between**
 **supervisory authorities**
 
@@ -43798,7 +43761,7 @@ L 335/98 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1958: *****
+****** Chunk 1960: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -43820,7 +43783,7 @@ supervisory authorities involved in group supervision in at least
 the following circumstances:
 ****** END OF CHUNK ******
 
-****** Chunk 1959: *****
+****** Chunk 1961: *****
 (a) where they become aware of a significant breach of the Sol­
 vency Capital Requirement or a breach of the Minimum
 Capital Requirement of an individual insurance or reinsur­
@@ -43846,7 +43809,7 @@ authorities concerned or to be transmitted to the group supervi­
 sor by the other supervisory authorities concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1960: *****
+****** Chunk 1962: *****
 The Commission shall adopt implementing measures specifying
 the items essential or relevant for supervision at group level with
 a view to enhancing convergence of supervisory reporting.
@@ -43858,7 +43821,7 @@ be adopted in accordance with the regulatory procedure with
 scrutiny referred to in Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1961: *****
+****** Chunk 1963: *****
 **Consultation between supervisory authorities**
 
 
@@ -43888,7 +43851,7 @@ For the purposes of point (b), the group supervisor shall always
 be consulted.
 ****** END OF CHUNK ******
 
-****** Chunk 1962: *****
+****** Chunk 1964: *****
 For the purposes of point (b), the group supervisor shall always
 be consulted.
 
@@ -43905,7 +43868,7 @@ case, the supervisory authority shall, without delay, inform the
 other supervisory authorities concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 1963: *****
+****** Chunk 1965: *****
 **Requests from the group supervisor to other supervisory**
 **authorities**
 
@@ -43926,7 +43889,7 @@ order to prevent duplication of reporting to the various authori­
 ties involved in supervision.
 ****** END OF CHUNK ******
 
-****** Chunk 1964: *****
+****** Chunk 1966: *****
 **Cooperation with authorities responsible for credit**
 **institutions and investment firms**
 
@@ -43945,7 +43908,7 @@ authorities shall provide one another with any information likely
 to simplify their task, in particular as set out in this Title.
 ****** END OF CHUNK ******
 
-****** Chunk 1965: *****
+****** Chunk 1967: *****
 **Professional secrecy and confidentiality**
 
 
@@ -43969,7 +43932,7 @@ authorities which is provided for in this Title, shall be subject to
 the provisions of Article 295.
 ****** END OF CHUNK ******
 
-****** Chunk 1966: *****
+****** Chunk 1968: *****
 **Access to information**
 
 
@@ -43995,7 +43958,7 @@ supervision and has not been supplied by it within a reasonable
 period of time.
 ****** END OF CHUNK ******
 
-****** Chunk 1967: *****
+****** Chunk 1969: *****
 **Verification of information**
 
 
@@ -44029,7 +43992,7 @@ Member State, they shall ask the supervisory authorities of that
 other Member State to have the verification carried out.
 ****** END OF CHUNK ******
 
-****** Chunk 1968: *****
+****** Chunk 1970: *****
 The authorities which receive such a request shall, within the
 framework of their competences, act upon that request either by
 carrying out the verification directly, by allowing an auditor or
@@ -44044,7 +44007,7 @@ so wishes, participate in the verification when it does not carry
 out the verification directly.
 ****** END OF CHUNK ******
 
-****** Chunk 1969: *****
+****** Chunk 1971: *****
 **Group solvency and financial condition report**
 
 
@@ -44071,7 +44034,7 @@ which must be individually identifiable and disclosed in
 accordance with Articles 51 and 53 to 55.
 ****** END OF CHUNK ******
 
-****** Chunk 1970: *****
+****** Chunk 1972: *****
 (b) the information for any of the subsidiaries within the group
 which must be individually identifiable and disclosed in
 accordance with Articles 51 and 53 to 55.
@@ -44097,14 +44060,14 @@ means by which this is to be achieved as regards the single sol­
 vency and financial condition report.
 ****** END OF CHUNK ******
 
-****** Chunk 1971: *****
+****** Chunk 1973: *****
 Those measures, designed to amend non-essential elements of this
 Directive by supplementing it, shall be adopted in accordance
 with the regulatory procedure with scrutiny referred to in
 Article 301(3).
 ****** END OF CHUNK ******
 
-****** Chunk 1972: *****
+****** Chunk 1974: *****
 **Administrative, management or supervisory body of**
 **insurance holding companies**
 
@@ -44119,7 +44082,7 @@ Article 42 shall apply _mutatis mutandis_ .
 L 335/100 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1973: *****
+****** Chunk 1975: *****
 **Enforcement measures**
 
 
@@ -44127,7 +44090,7 @@ L 335/100 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 1974: *****
+****** Chunk 1976: *****
 **Reporting of CEIOPS**
 
 
@@ -44151,7 +44114,7 @@ company;
 reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1975: *****
+****** Chunk 1977: *****
 (a) the group supervisor with respect to the insurance holding
 
 company;
@@ -44177,7 +44140,7 @@ those supervisory authorities of its findings with a view to
 enabling them to take the necessary measures.
 ****** END OF CHUNK ******
 
-****** Chunk 1976: *****
+****** Chunk 1978: *****
 Without prejudice to paragraph 2, Member States shall determine
 the measures which may be taken by their supervisory authori­
 ties with respect to insurance holding companies.
@@ -44200,7 +44163,7 @@ administration or main establishment of an insurance holding
 company is not located at its head office.
 ****** END OF CHUNK ******
 
-****** Chunk 1977: *****
+****** Chunk 1979: *****
 3. The Commission may adopt implementing measures for the
 coordination of enforcement measures referred to in paragraphs 1
 and 2.
@@ -44226,7 +44189,7 @@ supervisory activities and cooperation between supervisors in the
 framework of Title III, and, in particular:
 ****** END OF CHUNK ******
 
-****** Chunk 1978: *****
+****** Chunk 1980: *****
 (a) the process of the nomination of the group supervisor, the
 number of group supervisors and geographical spread;
 
@@ -44241,11 +44204,11 @@ on the main lessons drawn from the reviews referred to in
 Article 248(6), where appropriate.
 ****** END OF CHUNK ******
 
-****** Chunk 1979: *****
+****** Chunk 1981: *****
 _**Third countries**_
 ****** END OF CHUNK ******
 
-****** Chunk 1980: *****
+****** Chunk 1982: *****
 **Parent undertakings outside the Community: verification**
 **of equivalence**
 
@@ -44260,7 +44223,7 @@ group of insurance and reinsurance undertakings referred to in
 Article 213(2)(a) and (b).
 ****** END OF CHUNK ******
 
-****** Chunk 1981: *****
+****** Chunk 1983: *****
 The verification shall be carried out by the supervisory authority
 which would be the group supervisor if the criteria set out in
 Article 247(2) were to apply, at the request of the parent under­
@@ -44278,7 +44241,7 @@ concerned and CEIOPS, before taking a decision.
 Official Journ al of the E uropean Un ion L 335/101
 ****** END OF CHUNK ******
 
-****** Chunk 1982: *****
+****** Chunk 1984: *****
 Official Journ al of the E uropean Un ion L 335/101
 
 
@@ -44300,7 +44263,7 @@ dential regime for the supervision of groups in a third country is
 equivalent to that laid down in this Title.
 ****** END OF CHUNK ******
 
-****** Chunk 1983: *****
+****** Chunk 1985: *****
 Those decisions shall be regularly reviewed to take into account
 any changes to the prudential regime for the supervision of
 groups laid down in this Title and to the prudential regime in the
@@ -44314,7 +44277,7 @@ that decision shall be recognised as determinative for the purposes
 of the verification referred to in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1984: *****
+****** Chunk 1986: *****
 **Parent undertakings outside the Community: equivalence**
 
 
@@ -44328,7 +44291,7 @@ in accordance with paragraph 2.
 cooperation with third-country supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 1985: *****
+****** Chunk 1987: *****
 **Parent undertakings outside the Community: absence of**
 **equivalence**
 
@@ -44354,7 +44317,7 @@ the own funds eligible for the Solvency Capital Requirement and
 to either of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 1986: *****
+****** Chunk 1988: *****
 (a) a Solvency Capital Requirement determined in accordance
 with the principles of Article 226 where it is an insurance
 holding company;
@@ -44380,14 +44343,14 @@ reinsurance undertakings in the group headed by that insurance
 holding company.
 ****** END OF CHUNK ******
 
-****** Chunk 1987: *****
+****** Chunk 1989: *****
 The methods chosen shall allow the objectives of the group super­
 vision as defined in this Title to be achieved and shall be notified
 to the other supervisory authorities concerned and the
 Commission.
 ****** END OF CHUNK ******
 
-****** Chunk 1988: *****
+****** Chunk 1990: *****
 **Parent undertakings outside the Community: levels**
 
 
@@ -44410,7 +44373,7 @@ third-country insurance undertaking or a third-country reinsur­
 ance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 1989: *****
+****** Chunk 1991: *****
 In such a case, the supervisory authority referred to in the second
 subparagraph of Article 260(1) shall explain its decision to the
 
@@ -44422,7 +44385,7 @@ Article 262 shall apply _mutatis mutandis_ .
 L 335/102 EN
 ****** END OF CHUNK ******
 
-****** Chunk 1990: *****
+****** Chunk 1992: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -44454,7 +44417,7 @@ have their head office in the Community.
 lar, seek to ensure that:
 ****** END OF CHUNK ******
 
-****** Chunk 1991: *****
+****** Chunk 1993: *****
 2. The agreements referred to in paragraph 1 shall, in particu­
 lar, seek to ensure that:
 
@@ -44475,18 +44438,18 @@ and which have subsidiaries or hold participations in under­
 takings in one or more Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 1992: *****
+****** Chunk 1994: *****
 3. Without prejudice to Article 300(1) and (2) of the Treaty,
 the Commission shall, with the assistance of the European Insur­
 ance and Occupational Pensions Committee, examine the out­
 come of the negotiations referred to in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 1993: *****
+****** Chunk 1995: *****
 _**Mixed-activity insurance holding companies**_
 ****** END OF CHUNK ******
 
-****** Chunk 1994: *****
+****** Chunk 1996: *****
 **Intra-group transactions**
 
 
@@ -44503,7 +44466,7 @@ the mixed-activity holding company and its related undertakings.
 _mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1995: *****
+****** Chunk 1997: *****
 **Cooperation with third countries**
 
 
@@ -44511,17 +44474,17 @@ As concerns cooperation with third countries, Article 264 shall
 apply _mutatis mutandis_ .
 ****** END OF CHUNK ******
 
-****** Chunk 1996: *****
+****** Chunk 1998: *****
 **REORGANISATION AND WINDING-UP OF INSURANCE**
 
 **UNDERTAKINGS**
 ****** END OF CHUNK ******
 
-****** Chunk 1997: *****
+****** Chunk 1999: *****
 _**Scope and definitions**_
 ****** END OF CHUNK ******
 
-****** Chunk 1998: *****
+****** Chunk 2000: *****
 **Scope of this Title**
 
 
@@ -44535,7 +44498,7 @@ proceedings concerning the following:
 (b) branches situated in the territory of the Community of thirdcountry insurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 1999: *****
+****** Chunk 2001: *****
 **Definitions**
 
 
@@ -44564,7 +44527,7 @@ of payments, suspension of enforcement measures or reduc­
 tion of claims;
 ****** END OF CHUNK ******
 
-****** Chunk 2000: *****
+****** Chunk 2002: *****
 (d) ‘winding-up proceedings’ means collective proceedings
 involving the realisation of the assets of an insurance under­
 taking and the distribution of the proceeds among the credi­
@@ -44594,7 +44557,7 @@ undertaking for the purpose of administering winding-up
 proceedings;
 ****** END OF CHUNK ******
 
-****** Chunk 2001: *****
+****** Chunk 2003: *****
 (f) ‘liquidator’ means a person or body appointed by the com­
 petent authorities or by the governing bodies of an insurance
 undertaking for the purpose of administering winding-up
@@ -44611,7 +44574,7 @@ including an amount set aside for those persons, when some
 elements of the debt are not yet known.
 ****** END OF CHUNK ******
 
-****** Chunk 2002: *****
+****** Chunk 2004: *****
 The premium owed by an insurance undertaking as a result of the
 non-conclusion or cancellation of an insurance contract or opera­
 tion referred to in point (g) of the first subparagraph in accor­
@@ -44639,11 +44602,11 @@ the home Member State;
 the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 2003: *****
+****** Chunk 2005: *****
 _**Reorganisation measures**_
 ****** END OF CHUNK ******
 
-****** Chunk 2004: *****
+****** Chunk 2006: *****
 **Adoption of reorganisation measures applicable law**
 
 
@@ -44671,13 +44634,13 @@ reorganisation measures or alternatively makes their implemen­
 tation subject to conditions which are not fulfilled.
 ****** END OF CHUNK ******
 
-****** Chunk 2005: *****
+****** Chunk 2007: *****
 5. The reorganisation measures shall be effective throughout
 the Community once they become effective in the home Member
 State.
 ****** END OF CHUNK ******
 
-****** Chunk 2006: *****
+****** Chunk 2008: *****
 **Information to the supervisory authorities**
 
 
@@ -44694,7 +44657,7 @@ other Member States of the decision to adopt reorganisation mea­
 sures including the possible practical effects of such measures.
 ****** END OF CHUNK ******
 
-****** Chunk 2007: *****
+****** Chunk 2009: *****
 **Publication of decisions on reorganisation measures**
 
 
@@ -44716,7 +44679,7 @@ sion within their territory in the manner they consider
 appropriate.
 ****** END OF CHUNK ******
 
-****** Chunk 2008: *****
+****** Chunk 2010: *****
 2. The publications provided for in paragraph 1 shall specify
 the competent authority of the home Member State, the appli­
 cable law as provided in Article 269(3) and the administrator
@@ -44738,7 +44701,7 @@ L 335/104 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 2009: *****
+****** Chunk 2011: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -44755,7 +44718,7 @@ the parties referred to in the first subparagraph are to be informed
 in accordance with the applicable law.
 ****** END OF CHUNK ******
 
-****** Chunk 2010: *****
+****** Chunk 2012: *****
 **Information to known creditors right to lodge claims**
 
 
@@ -44779,11 +44742,11 @@ Member State shall have the same right in accordance with
 Article 282 and Article 283(2).
 ****** END OF CHUNK ******
 
-****** Chunk 2011: *****
+****** Chunk 2013: *****
 _**Winding-up proceedings**_
 ****** END OF CHUNK ******
 
-****** Chunk 2012: *****
+****** Chunk 2014: *****
 **Opening of winding-up proceedings information to the**
 **supervisory authorities**
 
@@ -44805,7 +44768,7 @@ soon as the decision is effective in the Member State in which the
 proceedings are opened.
 ****** END OF CHUNK ******
 
-****** Chunk 2013: *****
+****** Chunk 2015: *****
 3. The competent authorities of the home Member State shall
 inform as a matter of urgency the supervisory authorities of that
 Member State of the decision to open winding-up proceedings,
@@ -44820,7 +44783,7 @@ other Member States of the decision to open winding-up proceed­
 ings including the possible practical effects of such proceedings.
 ****** END OF CHUNK ******
 
-****** Chunk 2014: *****
+****** Chunk 2016: *****
 **Applicable law**
 
 
@@ -44855,7 +44818,7 @@ brought by individual creditors, with the exception of law­
 suits pending referred to in Article 292;
 ****** END OF CHUNK ******
 
-****** Chunk 2015: *****
+****** Chunk 2017: *****
 (e) the effects of the winding-up proceedings on proceedings
 brought by individual creditors, with the exception of law­
 suits pending referred to in Article 292;
@@ -44889,7 +44852,7 @@ proceedings;
 winding-up proceedings; and
 ****** END OF CHUNK ******
 
-****** Chunk 2016: *****
+****** Chunk 2018: *****
 (j) rights of the creditors after the closure of winding-up
 proceedings;
 
@@ -44908,7 +44871,7 @@ ity of legal acts detrimental to all the creditors.
 Official Journ al of the E uropean Un ion L 335/105
 ****** END OF CHUNK ******
 
-****** Chunk 2017: *****
+****** Chunk 2019: *****
 **Treatment of insurance claims**
 
 
@@ -44941,7 +44904,7 @@ and employment relationships;
 (iv) claims on assets subject to rights in rem.
 ****** END OF CHUNK ******
 
-****** Chunk 2018: *****
+****** Chunk 2020: *****
 (ii) claims by public bodies on taxes;
 
 
@@ -44963,7 +44926,7 @@ lish and keep up to date a special register in accordance with
 Article 276.
 ****** END OF CHUNK ******
 
-****** Chunk 2019: *****
+****** Chunk 2021: *****
 **Special register**
 
 
@@ -44990,7 +44953,7 @@ with the law applicable in the home Member State, shall at no
 time be less than the value of the technical provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2020: *****
+****** Chunk 2022: *****
 3. The total value of the assets entered, valued in accordance
 with the law applicable in the home Member State, shall at no
 time be less than the value of the technical provisions.
@@ -45011,7 +44974,7 @@ home Member State, except where Articles 286, 287 or 288 apply
 to that asset where:
 ****** END OF CHUNK ******
 
-****** Chunk 2021: *****
+****** Chunk 2023: *****
 (a) the asset used to cover technical provisions is subject to a
 right in rem in favour of a creditor or a third party, without
 meeting the conditions set out in paragraph 4;
@@ -45033,7 +44996,7 @@ registers, except with the authorisation of the competent
 authority.
 ****** END OF CHUNK ******
 
-****** Chunk 2022: *****
+****** Chunk 2024: *****
 However, the liquidators shall add to those assets the yield there­
 from and the value of the pure premiums received in respect of
 the class of insurance concerned between the opening of the
@@ -45046,7 +45009,7 @@ their estimated value in the registers, the liquidators shall justify
 this to the supervisory authorities of the home Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 2023: *****
+****** Chunk 2025: *****
 **Subrogation to a guarantee scheme**
 
 
@@ -45058,7 +45021,7 @@ benefit from the provisions of Article 275(1).
 L 335/106 EN
 ****** END OF CHUNK ******
 
-****** Chunk 2024: *****
+****** Chunk 2026: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -45077,7 +45040,7 @@ the insurance undertaking’s accounts are represented, at any
 moment and independently of a possible winding-up, by assets.
 ****** END OF CHUNK ******
 
-****** Chunk 2025: *****
+****** Chunk 2027: *****
 **Withdrawal of the authorisation**
 
 
@@ -45100,7 +45063,7 @@ pursued with the consent and under the supervision of the super­
 visory authorities of that Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 2026: *****
+****** Chunk 2028: *****
 **Publication of decisions on winding-up proceedings**
 
 
@@ -45126,7 +45089,7 @@ guage or in one of the official languages of the Member State in
 which the information is published.
 ****** END OF CHUNK ******
 
-****** Chunk 2027: *****
+****** Chunk 2029: *****
 **Information to known creditors**
 
 
@@ -45148,7 +45111,7 @@ The notice shall also indicate whether creditors whose claims are
 preferential or secured in rem need to lodge their claims.
 ****** END OF CHUNK ******
 
-****** Chunk 2028: *****
+****** Chunk 2030: *****
 The notice shall also indicate whether creditors whose claims are
 preferential or secured in rem need to lodge their claims.
 
@@ -45161,7 +45124,7 @@ and duties of insured persons with regard to the contract or
 operation.
 ****** END OF CHUNK ******
 
-****** Chunk 2029: *****
+****** Chunk 2031: *****
 **Right to lodge claims**
 
 
@@ -45192,7 +45155,7 @@ following:
 (b) the date on which the claim arose;
 ****** END OF CHUNK ******
 
-****** Chunk 2030: *****
+****** Chunk 2032: *****
 (a) the nature and the amount of the claim;
 
 
@@ -45216,7 +45179,7 @@ not be indicated.
 Official Journ al of the E uropean Un ion L 335/107
 ****** END OF CHUNK ******
 
-****** Chunk 2031: *****
+****** Chunk 2033: *****
 **Languages and form**
 
 
@@ -45246,7 +45209,7 @@ guages of the Member State in which the habitual residence,
 domicile or head office of the creditor is situated.
 ****** END OF CHUNK ******
 
-****** Chunk 2032: *****
+****** Chunk 2034: *****
 2. Creditors whose habitual residence, domicile or head office
 is situated in a Member State other than the home Member State
 may lodge their claims or submit observations relating to claims
@@ -45261,7 +45224,7 @@ relating to claims’, as appropriate, in the official language or in
 one of the official languages of the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 2033: *****
+****** Chunk 2035: *****
 **Regular information to the creditors**
 
 
@@ -45274,11 +45237,11 @@ request information on developments in the winding-up proce­
 dure from the supervisory authorities of the home Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 2034: *****
+****** Chunk 2036: *****
 _**Common provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2035: *****
+****** Chunk 2037: *****
 **Effects on certain contracts and rights**
 
 
@@ -45305,7 +45268,7 @@ Member State under the authority of which the register is
 kept.
 ****** END OF CHUNK ******
 
-****** Chunk 2036: *****
+****** Chunk 2038: *****
 **Rights in rem of third parties**
 
 
@@ -45332,7 +45295,7 @@ guaranteed by a lien in respect of the claim or by assignment
 of the claim by way of a guarantee;
 ****** END OF CHUNK ******
 
-****** Chunk 2037: *****
+****** Chunk 2039: *****
 (b) the exclusive right to have a claim met, in particular a right
 guaranteed by a lien in respect of the claim or by assignment
 of the claim by way of a guarantee;
@@ -45356,7 +45319,7 @@ right in rem.
 ity or unenforceability referred to in Article 274(2)(l).
 ****** END OF CHUNK ******
 
-****** Chunk 2038: *****
+****** Chunk 2040: *****
 **Reservation of title**
 
 
@@ -45375,7 +45338,7 @@ L 335/108 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 2039: *****
+****** Chunk 2041: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -45394,7 +45357,7 @@ sures or proceedings were opened.
 voidability or unenforceability referred to in Article 274(2)(l).
 ****** END OF CHUNK ******
 
-****** Chunk 2040: *****
+****** Chunk 2042: *****
 **Set-off**
 
 
@@ -45408,7 +45371,7 @@ claim of the insurance undertaking.
 ity or unenforceability referred to in Article 274(2)(l).
 ****** END OF CHUNK ******
 
-****** Chunk 2041: *****
+****** Chunk 2043: *****
 **Regulated markets**
 
 
@@ -45424,7 +45387,7 @@ be taken to set aside payments or transactions under the law
 applicable to that market.
 ****** END OF CHUNK ******
 
-****** Chunk 2042: *****
+****** Chunk 2044: *****
 **Detrimental acts**
 
 
@@ -45435,7 +45398,7 @@ than the home Member State, and proof that that law does not
 allow any means of challenging that act in the relevant case.
 ****** END OF CHUNK ******
 
-****** Chunk 2043: *****
+****** Chunk 2045: *****
 **Protection of third-party purchasers**
 
 
@@ -45462,7 +45425,7 @@ Member State under the authority of which the register,
 account or system is kept.
 ****** END OF CHUNK ******
 
-****** Chunk 2044: *****
+****** Chunk 2046: *****
 **Lawsuits pending**
 
 
@@ -45472,7 +45435,7 @@ insurance undertaking has been divested shall be governed solely
 by the law of the Member State in which the lawsuit is pending.
 ****** END OF CHUNK ******
 
-****** Chunk 2045: *****
+****** Chunk 2047: *****
 **Administrators and liquidators**
 
 
@@ -45495,7 +45458,7 @@ they are entitled to exercise within the territory of the home Mem­
 ber State.
 ****** END OF CHUNK ******
 
-****** Chunk 2046: *****
+****** Chunk 2048: *****
 Persons to assist or represent administrators and liquidators may
 be appointed, in accordance with the law of the home Member
 State, in the course of the reorganisation measure or winding-up
@@ -45522,7 +45485,7 @@ Those powers shall not include the use of force or the right to rule
 on legal proceedings or disputes.
 ****** END OF CHUNK ******
 
-****** Chunk 2047: *****
+****** Chunk 2049: *****
 **Registration in a public register**
 
 
@@ -45542,7 +45505,7 @@ shall take all the measures necessary to ensure such registration.
 expenses incurred in the proceedings.
 ****** END OF CHUNK ******
 
-****** Chunk 2048: *****
+****** Chunk 2050: *****
 **Professional secrecy**
 
 
@@ -45553,7 +45516,7 @@ down in Articles 64 to 69, with the exception of any judicial
 authorities to which existing national provisions apply.
 ****** END OF CHUNK ******
 
-****** Chunk 2049: *****
+****** Chunk 2051: *****
 **Treatment of branches of third-country insurance**
 **undertakings**
 
@@ -45571,11 +45534,11 @@ Any administrators or liquidators shall likewise endeavour to
 coordinate their actions.
 ****** END OF CHUNK ******
 
-****** Chunk 2050: *****
+****** Chunk 2052: *****
 **OTHER PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 2051: *****
+****** Chunk 2053: *****
 **Right to apply to the courts**
 
 
@@ -45585,7 +45548,7 @@ and administrative provisions implementing this Directive are
 subject to the right to apply to the courts.
 ****** END OF CHUNK ******
 
-****** Chunk 2052: *****
+****** Chunk 2054: *****
 **Cooperation between the Member States and the**
 **Commission**
 
@@ -45611,7 +45574,7 @@ States concerned shall examine those difficulties as quickly as pos­
 sible in order to find an appropriate solution.
 ****** END OF CHUNK ******
 
-****** Chunk 2053: *****
+****** Chunk 2055: *****
 **Euro**
 
 
@@ -45622,7 +45585,7 @@ of the preceding October for which exchange values for the _euro_
 are available in all Community currencies.
 ****** END OF CHUNK ******
 
-****** Chunk 2054: *****
+****** Chunk 2056: *****
 **Revision of amounts expressed in euro**
 
 
@@ -45647,7 +45610,7 @@ within 12 months of the publication in the _Official Journal of the_
 _European Union_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2055: *****
+****** Chunk 2057: *****
 **Committee procedure**
 
 
@@ -45672,7 +45635,7 @@ to (4) and Article 7 of Decision 1999/468/EC shall apply, having
 regard to the provisions of Article 8 thereof.
 ****** END OF CHUNK ******
 
-****** Chunk 2056: *****
+****** Chunk 2058: *****
 **Notifications submitted prior to entry into force of the**
 **laws, regulations and administrative provisions necessary**
 **to comply with Articles 57 to 63**
@@ -45687,7 +45650,7 @@ the national law of Member States in force at the time of
 notification.
 ****** END OF CHUNK ******
 
-****** Chunk 2057: *****
+****** Chunk 2059: *****
 **Amendments to Directive 2003/41/EC**
 
 
@@ -45723,7 +45686,7 @@ of the institution free of any foreseeable liabilities, less any
 intangible items, including:
 ****** END OF CHUNK ******
 
-****** Chunk 2058: *****
+****** Chunk 2060: *****
 2. The available solvency margin shall consist of the assets
 of the institution free of any foreseeable liabilities, less any
 intangible items, including:
@@ -45744,7 +45707,7 @@ after the dissolution of the undertaking, where all
 the undertaking’s other debts have been settled;
 ****** END OF CHUNK ******
 
-****** Chunk 2059: *****
+****** Chunk 2061: *****
 (ii) the memorandum and articles of association must
 stipulate, with respect to any payments referred to
 in point (i) for reasons other than the individual ter­
@@ -45769,7 +45732,7 @@ writing liabilities;
 dividends to be paid; and
 ****** END OF CHUNK ******
 
-****** Chunk 2060: *****
+****** Chunk 2062: *****
 (b) reserves (statutory and free) not corresponding to under­
 writing liabilities;
 
@@ -45793,7 +45756,7 @@ amount of own shares directly held by the institution.
 margin may also comprise:
 ****** END OF CHUNK ******
 
-****** Chunk 2061: *****
+****** Chunk 2063: *****
 The available solvency margin shall be reduced by the
 amount of own shares directly held by the institution.
 
@@ -45815,7 +45778,7 @@ of all other creditors and is not to be repaid until all
 other debts outstanding at the time have been settled;
 ****** END OF CHUNK ******
 
-****** Chunk 2062: *****
+****** Chunk 2064: *****
 (b) securities with no specified maturity date and other
 instruments, including cumulative preferential shares
 other than those referred to in point (a), to a maximum
@@ -45847,7 +45810,7 @@ entirely after those of all non-subordinated
 creditors;
 ****** END OF CHUNK ******
 
-****** Chunk 2063: *****
+****** Chunk 2065: *****
 Official Journ al of the E uropean Un ion L 335/111
 
 
@@ -45875,7 +45838,7 @@ shall also fulfil the following conditions:
 (i) only fully paid-up funds shall be taken into account;
 ****** END OF CHUNK ******
 
-****** Chunk 2064: *****
+****** Chunk 2066: *****
 account.
 
 
@@ -45902,7 +45865,7 @@ ing institution and its available solvency margin will
 not fall below the required level;
 ****** END OF CHUNK ******
 
-****** Chunk 2065: *****
+****** Chunk 2067: *****
 (iii) loans the maturity of which is not fixed shall be
 repayable only subject to five years’ notice unless
 the loans are no longer considered as a component
@@ -45926,7 +45889,7 @@ become repayable before the agreed repayment
 dates; and
 ****** END OF CHUNK ******
 
-****** Chunk 2066: *****
+****** Chunk 2068: *****
 (v) the loan agreement may be amended only after the
 competent authorities have declared that they have
 no objection to the amendment.
@@ -45952,7 +45915,7 @@ assets, in so far as such hidden net reserves are not of an
 exceptional nature;
 ****** END OF CHUNK ******
 
-****** Chunk 2067: *****
+****** Chunk 2069: *****
 (b) any hidden net reserves arising out of the valuation of
 assets, in so far as such hidden net reserves are not of an
 exceptional nature;
@@ -45980,14 +45943,14 @@ developments that justify a technical adjustment of the ele­
 ments eligible for the available solvency margin.
 ****** END OF CHUNK ******
 
-****** Chunk 2068: *****
+****** Chunk 2070: *****
 Those measures, designed to amend non-essential elements
 of this Directive by supplementing it, shall be adopted in
 accordance with the regulatory procedure with scrutiny
 referred to in Article 21b.
 ****** END OF CHUNK ******
 
-****** Chunk 2069: *****
+****** Chunk 2071: *****
 **Required solvency margin**
 
 
@@ -46023,7 +45986,7 @@ ance cessions to the gross total mathematical provisions;
 (b) the second result:
 ****** END OF CHUNK ******
 
-****** Chunk 2070: *****
+****** Chunk 2072: *****
 (b) the second result:
 
 
@@ -46042,7 +46005,7 @@ assurance of a term of more than three years but not
 more than five years, that fraction shall be 0,15 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2071: *****
+****** Chunk 2073: *****
 3. For supplementary insurances referred to in
 Article 2(3)(a)(iii) of Directive 2009/138/EC of the European
 Parliament and of the Council of 25 November 2009 on the
@@ -46064,7 +46027,7 @@ tive 2009/138/EC, the required solvency margin shall be
 equal to 1 % of their assets.
 ****** END OF CHUNK ******
 
-****** Chunk 2072: *****
+****** Chunk 2074: *****
 5. For operations referred to in Article 2(3)(b)(i) of Direc­
 tive 2009/138/EC, the required solvency margin shall be
 equal to 1 % of their assets.
@@ -46089,7 +46052,7 @@ nical provisions, calculated in compliance with
 paragraph 2(a);
 ****** END OF CHUNK ******
 
-****** Chunk 2073: *****
+****** Chunk 2075: *****
 (c) in so far as the institution bears no investment risk and
 the allocation to cover management expenses is not
 fixed for a period exceeding five years, an amount
@@ -46103,7 +46066,7 @@ fraction of the capital at risk calculated in compliance
 with paragraph 2(b).
 ****** END OF CHUNK ******
 
-****** Chunk 2074: *****
+****** Chunk 2076: *****
 **Guarantee fund**
 
 
@@ -46121,7 +46084,7 @@ the minimum guarantee fund in the case of mutual and
 mutual-type undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2075: *****
+****** Chunk 2077: *****
 **Required solvency margin for the purpose of**
 **Article 17b(3)**
 
@@ -46151,7 +46114,7 @@ To that sum there shall be added the amount of premiums
 accepted for all reinsurance in the previous financial year.
 ****** END OF CHUNK ******
 
-****** Chunk 2076: *****
+****** Chunk 2078: *****
 To that sum there shall be added the amount of premiums
 accepted for all reinsurance in the previous financial year.
 
@@ -46183,7 +46146,7 @@ be no less than 50 %.
 Official Journ al of the E uropean Un ion L 335/113
 ****** END OF CHUNK ******
 
-****** Chunk 2077: *****
+****** Chunk 2079: *****
 Official Journ al of the E uropean Un ion L 335/113
 
 
@@ -46208,7 +46171,7 @@ From that sum there shall be deducted the amount of recov­
 eries effected during the periods specified in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 2078: *****
+****** Chunk 2080: *****
 From that sum there shall be deducted the amount of recov­
 eries effected during the periods specified in paragraph 1.
 
@@ -46234,7 +46197,7 @@ reinsurance and the gross amount of claims. That ratio shall
 be no less than 50 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2079: *****
+****** Chunk 2081: *****
 5. Where the required solvency margin as calculated in
 paragraphs 2 to 4 is lower than the required solvency mar­
 gin of the preceding year, the required solvency margin shall
@@ -46260,7 +46223,7 @@ _‘Article 21a_
 **Review of the amount of the guarantee fund**
 ****** END OF CHUNK ******
 
-****** Chunk 2080: *****
+****** Chunk 2082: *****
 3. The following articles are inserted:
 
 
@@ -46293,7 +46256,7 @@ and the Council annually of the review and the adapted
 amount referred to in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 2081: *****
+****** Chunk 2083: *****
 **Committee procedure**
 
 
@@ -46313,7 +46276,7 @@ having regard to the provisions of Article 8 thereof.
 ( [*] [) OJ L 3, 7.1.2004, p. 34’.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:003:0034:0034:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 2082: *****
+****** Chunk 2084: *****
 **Duration-based equity risk sub-module**
 
 
@@ -46348,7 +46311,7 @@ ber State where the undertaking has been authorised;
 and
 ****** END OF CHUNK ******
 
-****** Chunk 2083: *****
+****** Chunk 2085: *****
 (iii) the average duration of the liabilities corresponding to
 the business held by the undertaking exceeds an average
 of 12 years;
@@ -46366,7 +46329,7 @@ L 335/114 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 2084: *****
+****** Chunk 2086: *****
 Official Journ al of the E uropean Un ion 17.12.2009
 
 
@@ -46383,7 +46346,7 @@ interests of policy holders and beneficiaries in other Member
 States.
 ****** END OF CHUNK ******
 
-****** Chunk 2085: *****
+****** Chunk 2087: *****
 Subject to the approval of the supervisory authorities, the
 approach set out in the first subparagraph shall be used only
 where the solvency and liquidity position as well as the strat­
@@ -46405,7 +46368,7 @@ justified circumstances and subject to the approval of the
 supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 2086: *****
+****** Chunk 2088: *****
 2. The Commission shall submit to the European Insurance
 and Occupational Pensions Committee and the European Parlia­
 ment, by 31 October 2015, a report on the application of the
@@ -46417,19 +46380,19 @@ view to preventing regulatory arbitrage by insurance and reinsur­
 ance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2087: *****
+****** Chunk 2089: *****
 **TRANSITIONAL AND FINAL PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 2088: *****
+****** Chunk 2090: *****
 _**Transitional provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2089: *****
+****** Chunk 2091: *****
 **I n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 2090: *****
+****** Chunk 2092: *****
 **Derogations and abolition of restrictive measures**
 
 
@@ -46451,7 +46414,7 @@ proposal from the Commission, when that exemption is to be
 abolished by Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 2091: *****
+****** Chunk 2093: *****
 2. Non-life insurance undertakings set up in the United King­
 dom by Royal Charter or by private Act or by special public Act
 may continue to pursue their business in the legal form in which
@@ -46475,7 +46438,7 @@ ance and savings operations which, in accordance with their
 objects, they were pursuing as of 15 March 1979.
 ****** END OF CHUNK ******
 
-****** Chunk 2092: *****
+****** Chunk 2094: *****
 4. At the request of non-life insurance undertakings which
 comply with the requirements laid down in Title I, Chapter VI,
 Sections 2, 4 and 5, Member States shall cease to apply restrictive
@@ -46483,7 +46446,7 @@ measures such as those relating to mortgages, deposits and
 securities.
 ****** END OF CHUNK ******
 
-****** Chunk 2093: *****
+****** Chunk 2095: *****
 **Rights acquired by existing branches and insurance**
 **undertakings**
 
@@ -46500,11 +46463,11 @@ to provide services before 1 July 1994.
 --- Page 115 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2094: *****
+****** Chunk 2096: *****
 **R e i n s ur a n c e**
 ****** END OF CHUNK ******
 
-****** Chunk 2095: *****
+****** Chunk 2097: *****
 **Transitional period for Articles 57(3) and 60(6) of**
 **Directive 2005/68/EC**
 
@@ -46515,7 +46478,7 @@ of Directive 73/239/EEC and of the provision of Article 60(6) of
 Directive 2005/68/EC until 10 December 2008.
 ****** END OF CHUNK ******
 
-****** Chunk 2096: *****
+****** Chunk 2098: *****
 **Right acquired by existing reinsurance undertakings**
 
 
@@ -46540,11 +46503,11 @@ Sections 2, 3 and 4 until 10 December 2008 in order to comply
 with such requirements.
 ****** END OF CHUNK ******
 
-****** Chunk 2097: *****
+****** Chunk 2099: *****
 _**Final provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2098: *****
+****** Chunk 2100: *****
 **Transposition**
 
 
@@ -46569,13 +46532,13 @@ Directive. Member States shall determine how such reference is to
 be made and how that statement is to be formulated.
 ****** END OF CHUNK ******
 
-****** Chunk 2099: *****
+****** Chunk 2101: *****
 2. Member States shall communicate to the Commission the
 text of the main provisions of national law which they adopt in
 the field covered by this Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 2100: *****
+****** Chunk 2102: *****
 **Repeal**
 
 
@@ -46592,7 +46555,7 @@ ences to this Directive and shall be read in accordance with the
 correlation table in Annex VII.
 ****** END OF CHUNK ******
 
-****** Chunk 2101: *****
+****** Chunk 2103: *****
 **Entry into force**
 
 
@@ -46606,7 +46569,7 @@ Articles 1-3, 5-9, 11, 12, 15-17, 19-22, 24, 25, 33, 56-66, 69,
 and II, V, VI and VII shall apply from 1 November 2012.
 ****** END OF CHUNK ******
 
-****** Chunk 2102: *****
+****** Chunk 2104: *****
 **Addressees**
 
 
@@ -46639,7 +46602,7 @@ L 335/116 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 2103: *****
+****** Chunk 2105: *****
 **CLASSES OF NON-LIFE INSURANCE**
 
 
@@ -46728,7 +46691,7 @@ sea vessels,
 7. _Goods in transit_ (including merchandise, baggage, and all other goods)
 ****** END OF CHUNK ******
 
-****** Chunk 2104: *****
+****** Chunk 2106: *****
 All damage to or loss of:
 
 
@@ -46802,7 +46765,7 @@ All liability arising out of the use of motor vehicles operating on the land (in
 11. _Aircraft liability_
 ****** END OF CHUNK ******
 
-****** Chunk 2105: *****
+****** Chunk 2107: *****
 10. _Motor vehicle liability_
 
 
@@ -46891,7 +46854,7 @@ unforeseen trading expenses,
 loss of market value,
 ****** END OF CHUNK ******
 
-****** Chunk 2106: *****
+****** Chunk 2108: *****
 —
 insufficiency of income (general),
 
@@ -46962,7 +46925,7 @@ The following names shall be given to authorisations which simultaneously cover 
 (d) Classes 1 (fourth indent), 5, 7 and 11: ‘Aviation Insurance’;
 ****** END OF CHUNK ******
 
-****** Chunk 2107: *****
+****** Chunk 2109: *****
 (c) Classes 1 (fourth indent), 4, 6, 7 and 12: ‘Marine and Transport Insurance’;
 
 
@@ -46983,7 +46946,7 @@ their choice.
 --- Page 119 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2108: *****
+****** Chunk 2110: *****
 **CLASSES OF LIFE INSURANCE**
 
 
@@ -47020,7 +46983,7 @@ L 335/120 EN
 Official Journ al of the E uropean Un ion 17.12.2009
 ****** END OF CHUNK ******
 
-****** Chunk 2109: *****
+****** Chunk 2111: *****
 **LEGAL FORMS OF UNDERTAKINGS**
 
 
@@ -47050,7 +47013,7 @@ bijstand’;
 (6) in the case of the Republic of Estonia: ‘aktsiaselts’;
 ****** END OF CHUNK ******
 
-****** Chunk 2110: *****
+****** Chunk 2112: *****
 (6) in the case of the Republic of Estonia: ‘aktsiaselts’;
 
 
@@ -47075,7 +47038,7 @@ la mutualité’;
 χωρίς μετοχικό κεφάλαιο’;
 ****** END OF CHUNK ******
 
-****** Chunk 2111: *****
+****** Chunk 2113: *****
 (12) in the case of the Republic of Cyprus: ‘εταιρεία περιορισμένης ευθύνης με μετοχές’, ‘εταιρεία περιορισμένης ευθύνης
 χωρίς μετοχικό κεφάλαιο’;
 
@@ -47102,7 +47065,7 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 ****** END OF CHUNK ******
 
-****** Chunk 2112: *****
+****** Chunk 2114: *****
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 
 
@@ -47136,7 +47099,7 @@ Official Journ al of the E uropean Un ion L 335/121
 ‘vakuutusosakeyhtiö/försäkringsaktiebolag’, ‘vakuutusyhdistys/försäkringsförening’;
 ****** END OF CHUNK ******
 
-****** Chunk 2113: *****
+****** Chunk 2115: *****
 (25) in the case of the Republic of Finland: ‘keskinäinen vakuutusyhtiö/ömsesidigt försäkringsbolag’,
 
 ‘vakuutusosakeyhtiö/försäkringsaktiebolag’, ‘vakuutusyhdistys/försäkringsförening’;
@@ -47158,7 +47121,7 @@ form of a European Company (SE) as defined in Council Regulation (EC) No 2157/20
 B. **Forms of life insurance undertaking:**
 ****** END OF CHUNK ******
 
-****** Chunk 2114: *****
+****** Chunk 2116: *****
 B. **Forms of life insurance undertaking:**
 
 
@@ -47184,7 +47147,7 @@ forsikringsvirksomhed (tværgående pensionskasser)’;
 (6) in the case of the Republic of Estonia: ‘aktsiaselts’;
 ****** END OF CHUNK ******
 
-****** Chunk 2115: *****
+****** Chunk 2117: *****
 (6) in the case of the Republic of Estonia: ‘aktsiaselts’;
 
 
@@ -47210,7 +47173,7 @@ la mutualité’;
 εγγύηση’;
 ****** END OF CHUNK ******
 
-****** Chunk 2116: *****
+****** Chunk 2118: *****
 (12) in the case of the Republic of Cyprus: ‘εταιρεία περιορισμένης ευθύνης με μετοχές’, ‘εταιρεία περιορισμένης ευθύνης με
 εγγύηση’;
 
@@ -47237,7 +47200,7 @@ tion d’assurances mutuelles’, ‘société coopérative’;
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 ****** END OF CHUNK ******
 
-****** Chunk 2117: *****
+****** Chunk 2119: *****
 (18) in the case of the Kingdom of the Netherlands: ‘naamloze vennootschap’, ‘onderlinge waarborgmaatschappij’;
 
 
@@ -47272,7 +47235,7 @@ Official Journ al of the E uropean Un ion 17.12.2009
 (25) in the case of the Republic of Finland: ‘keskinäinen vakuutusyhtiö/ömsesidigt försäkringsbolag’,
 ****** END OF CHUNK ******
 
-****** Chunk 2118: *****
+****** Chunk 2120: *****
 (24) in the case of the Slovak Republic: ‘akciová spoločnosť’;
 
 
@@ -47296,7 +47259,7 @@ of a European company (SE) as defined in Regulation (EC) No 2157/2001.
 C. **Forms of reinsurance undertaking:**
 ****** END OF CHUNK ******
 
-****** Chunk 2119: *****
+****** Chunk 2121: *****
 C. **Forms of reinsurance undertaking:**
 
 
@@ -47327,7 +47290,7 @@ ereniging’, ‘société coopérative/coöperatieve vennootschap’;
 (8) in the case of the Hellenic Republic: ‘ανώνυμη εταιρία’, ‘αλληλασφαλιστικός συνεταιρισμός’;
 ****** END OF CHUNK ******
 
-****** Chunk 2120: *****
+****** Chunk 2122: *****
 (7) in the case of Ireland: incorporated companies limited by shares or by guarantee or unlimited;
 
 
@@ -47355,7 +47318,7 @@ la mutualité’;
 (14) in the case of the Republic of Lithuania: ‘akcinė bendrovė’, ‘uždaroji akcinė bendrovė’;
 ****** END OF CHUNK ******
 
-****** Chunk 2121: *****
+****** Chunk 2123: *****
 (14) in the case of the Republic of Lithuania: ‘akcinė bendrovė’, ‘uždaroji akcinė bendrovė’;
 
 
@@ -47381,7 +47344,7 @@ biztosító magyarországi fióktelepe’;
 (21) in the case of the Portuguese Republic: ‘sociedade anónima’, ‘mútua de seguros’;
 ****** END OF CHUNK ******
 
-****** Chunk 2122: *****
+****** Chunk 2124: *****
 (20) in the case of the Republic of Poland: ‘spółka akcyjna’, ‘towarzystwo ubezpieczeń wzajemnych’;
 
 
@@ -47410,13 +47373,13 @@ under the Industrial and Provident Societies Acts, societies registered or incor
 Acts, the association of underwriters known as Lloyd’s;
 ****** END OF CHUNK ******
 
-****** Chunk 2123: *****
+****** Chunk 2125: *****
 (28) in any event and as an alternative to the forms of reinsurance undertaking listed in points (1) to (27), the form of
 a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 --- Page 124 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2124: *****
+****** Chunk 2126: *****
 **SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA**
 
 
@@ -47430,7 +47393,7 @@ The Basic Solvency Capital Requirement set out in Article 104(1) shall be equal 
 Bcisa SCR = ∑
 ****** END OF CHUNK ******
 
-****** Chunk 2125: *****
+****** Chunk 2127: *****
 j,i
 
 
@@ -47465,7 +47428,7 @@ The factor Corr i,j denotes the item set out in row i and in column j of the fol
 
 
 
-![A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
+A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
 i
 j
 Market
@@ -47481,7 +47444,7 @@ Non-life
 Market 1 0,25 0,25 0,25 0,25
 ****** END OF CHUNK ******
 
-****** Chunk 2126: *****
+****** Chunk 2128: *****
 Market 1 0,25 0,25 0,25 0,25
 
 
@@ -47507,7 +47470,7 @@ The non-life underwriting risk module set out in Article 105(2) shall be equal t
 SCR nonefil- = ∑
 ****** END OF CHUNK ******
 
-****** Chunk 2127: *****
+****** Chunk 2129: *****
 j,i
 
 
@@ -47538,7 +47501,7 @@ The life underwriting risk module set out in Article 105(3) shall be equal to th
 SC [R] efil = ∑
 ****** END OF CHUNK ******
 
-****** Chunk 2128: *****
+****** Chunk 2130: *****
 j,i
 
 
@@ -47588,7 +47551,7 @@ The market risk module, set out in Article 105(5) shall be equal to the followin
 SCR mrakte = ∑
 ****** END OF CHUNK ******
 
-****** Chunk 2129: *****
+****** Chunk 2131: *****
 j,i
 
 
@@ -47623,7 +47586,7 @@ following:
 --- Page 126 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2130: *****
+****** Chunk 2132: *****
 **GROUPS OF NON-LIFE INSURANCE CLASSES FOR THE PURPOSES OF ARTICLE 159**
 
 
@@ -47649,7 +47612,7 @@ following:
 --- Page 127 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2131: *****
+****** Chunk 2133: *****
 PART A
 
 
@@ -47693,7 +47656,7 @@ First Council Directive 73/239/EEC
 (as substituted by Council Decision 95/1/EC)
 ****** END OF CHUNK ******
 
-****** Chunk 2132: *****
+****** Chunk 2134: *****
 (as substituted by Council Decision 95/1/EC)
 
 
@@ -47721,7 +47684,7 @@ Council Directive 76/580/EEC only Article 1
 Council Directive 84/641/EEC only Articles 1 to 14
 ****** END OF CHUNK ******
 
-****** Chunk 2133: *****
+****** Chunk 2135: *****
 Council Directive 84/641/EEC only Articles 1 to 14
 
 
@@ -47749,7 +47712,7 @@ Second Council Directive 88/357/EEC only Articles 9, 10 and 11
 Council Directive 90/618/EEC only Articles 2, 3 and 4
 ****** END OF CHUNK ******
 
-****** Chunk 2134: *****
+****** Chunk 2136: *****
 Council Directive 90/618/EEC only Articles 2, 3 and 4
 
 
@@ -47779,7 +47742,7 @@ Directive 2002/13/EC of the European Parliament and
 of the Council
 ****** END OF CHUNK ******
 
-****** Chunk 2135: *****
+****** Chunk 2137: *****
 [(OJ L 181, 20.7.2000, p. 65).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:181:0065:0065:EN:PDF)
 
 
@@ -47825,7 +47788,7 @@ Directive 2005/68/EC of the European Parliament and
 of the Council
 ****** END OF CHUNK ******
 
-****** Chunk 2136: *****
+****** Chunk 2138: *****
 [(OJ L 79, 24.3.2005, p. 9).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:079:0009:0009:EN:PDF)
 
 
@@ -47858,7 +47821,7 @@ Council Directive 76/580/EEC
 Council Directive 78/473/EEC
 ****** END OF CHUNK ******
 
-****** Chunk 2137: *****
+****** Chunk 2139: *****
 [(OJ L 189, 13.7.1976, p. 13).](http://eur-lex.europa.eu/Result.do?aaaa=1976&mm=07&jj=13&type=L&nnn=189&pppp=0013&RechType=RECH_reference_pub&Submit=Search)
 
 
@@ -47896,7 +47859,7 @@ only Article 57
 only Article 1 and Annex, Point (1)
 ****** END OF CHUNK ******
 
-****** Chunk 2138: *****
+****** Chunk 2140: *****
 only Article 4
 
 
@@ -47936,7 +47899,7 @@ of the Council
 Council Directive 92/49/EEC
 ****** END OF CHUNK ******
 
-****** Chunk 2139: *****
+****** Chunk 2141: *****
 [(OJ L 149, 11.6.2005, p. 14).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:149:0014:0014:EN:PDF)
 
 
@@ -47971,7 +47934,7 @@ Directive 2002/87/EC of the European Parliament and
 of the Council
 ****** END OF CHUNK ******
 
-****** Chunk 2140: *****
+****** Chunk 2142: *****
 [(OJ L 290, 17.11.2000, p. 27).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:290:0027:0027:EN:PDF)
 
 
@@ -48020,7 +47983,7 @@ Directive 2007/44/EC of the European Parliament and
 of the Council
 ****** END OF CHUNK ******
 
-****** Chunk 2141: *****
+****** Chunk 2143: *****
 only Article 6
 
 
@@ -48066,7 +48029,7 @@ Directive 2005/68/EC of the European Parliament and
 of the Council
 ****** END OF CHUNK ******
 
-****** Chunk 2142: *****
+****** Chunk 2144: *****
 [(OJ L 79, 24.3.2005, p. 9).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:079:0009:0009:EN:PDF)
 
 
@@ -48111,7 +48074,7 @@ Council Directive 2004/66/EC only Point II of the Annex
 [(OJ L 168, 1.5.2004, p. 35).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:168:0035:0035:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 2143: *****
+****** Chunk 2145: *****
 only Article 59
 
 
@@ -48151,7 +48114,7 @@ of the Council
 [(OJ L 247, 21.9.2007, p. 1).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:247:0001:0001:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 2144: *****
+****** Chunk 2146: *****
 Directive 2007/44/EC of the European Parliament and
 of the Council
 
@@ -48187,7 +48150,7 @@ of the Council
 [(OJ L 76, 19.3.2008, p. 44).](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:076:0044:0044:EN:PDF)
 ****** END OF CHUNK ******
 
-****** Chunk 2145: *****
+****** Chunk 2147: *****
 Directive 2008/19/EC of the European Parliament and
 of the Council
 
@@ -48258,7 +48221,7 @@ Directive Time-limit for transposition Time-limit for application
 /EEC 30 June 1987 1 January 1988
 ****** END OF CHUNK ******
 
-****** Chunk 2146: *****
+****** Chunk 2148: *****
 /EEC 26 August 1965
 
 /EEC 27 January 1975 27 January 1976
@@ -48314,7 +48277,7 @@ upon particular provision)
 /EC Not applicable
 ****** END OF CHUNK ******
 
-****** Chunk 2147: *****
+****** Chunk 2149: *****
 --- Page 5 ---
 THE EUROPEAN COMMISSION
 
@@ -48322,7 +48285,7 @@ THE EUROPEAN COMMISSION
 Having regard to the Treaty on the Functioning of the European Union,
 ****** END OF CHUNK ******
 
-****** Chunk 2148: *****
+****** Chunk 2150: *****
 Having regard to Directive 2009/138/EC and in particular Article 31(4), Article 35(9), Article 37(6), Article 37(7),
 Article 50(1)(a), Article 50(1)(b), Article 50(2)(a), Article 50(2)(b), Article 50(3), Article 56, Article 75(2), Article 75(3),
 Article 86(1)(a) to (i), Article 86(2)(a), Article 86(2)(b), Article 92(1), Article 92(1a), Article 97(1), Article 97(2),
@@ -48336,7 +48299,7 @@ Article 248(8), Article 249(3), Article 256(4), Article 260(2) and Article 308b(
 Whereas:
 ****** END OF CHUNK ******
 
-****** Chunk 2149: *****
+****** Chunk 2151: *****
 Whereas:
 
 
@@ -48353,7 +48316,7 @@ and reinsurance undertakings should only be required to have own credit assessme
 complex exposures.
 ****** END OF CHUNK ******
 
-****** Chunk 2150: *****
+****** Chunk 2152: *****
 (3) Supervisory authorities should ensure that insurance and reinsurance undertakings take appropriate steps to
 develop internal models that cover credit risk where their exposures are material in absolute terms and where
 they have at the same time a large number of material counterparties. For this purpose, supervisory authorities
@@ -48367,7 +48330,7 @@ own credit assessments should not result in lower capital requirements than the 
 ratings.
 ****** END OF CHUNK ******
 
-****** Chunk 2151: *****
+****** Chunk 2153: *****
 (5) In order to avoid overreliance on ratings when the exposures are to another insurance or reinsurance
 undertaking, the use of ratings for the purposes of calculating the capital requirement in accordance with the
 standard formula could be replaced by a reference to the solvency position of the counterparty (solvency ratio
@@ -48376,7 +48339,7 @@ amounts of own funds to cover these Solvency Capital Requirements as determined 
 The solvency ratio approach should be limited to insurance and reinsurance undertakings that are not rated.
 ****** END OF CHUNK ******
 
-****** Chunk 2152: *****
+****** Chunk 2154: *****
 (6) In order to ensure that valuation standards for supervisory purposes are compatible with international
 accounting developments, insurance and reinsurance undertakings should use market consistent valuation
 methods prescribed in international accounting standards adopted by the Commission in accordance with
@@ -48385,7 +48348,7 @@ to an asset or liability or is permitted to use methods based on the valuation m
 financial statements.
 ****** END OF CHUNK ******
 
-****** Chunk 2153: *****
+****** Chunk 2155: *****
 (7) Insurance and reinsurance undertakings' valuation of the assets and liabilities using the market consistent
 valuation methods prescribed in international accounting standards adopted by the Commission in accordance
 with Regulation (EC) No 1606/2002, should follow a valuation hierarchy with quoted market prices in active
@@ -48398,7 +48361,7 @@ follow a different valuation hierarchy.
 (8) Insurance and reinsurance undertakings should recognise and value deferred tax assets and liabilities in relation to
 ****** END OF CHUNK ******
 
-****** Chunk 2154: *****
+****** Chunk 2156: *****
 follow a different valuation hierarchy.
 --- Page 6 ---
 (8) Insurance and reinsurance undertakings should recognise and value deferred tax assets and liabilities in relation to
@@ -48406,7 +48369,7 @@ all items that are recognised for solvency purposes or in the tax balance sheet 
 which could give rise to future tax cash flows are captured.
 ****** END OF CHUNK ******
 
-****** Chunk 2155: *****
+****** Chunk 2157: *****
 (9) The valuation of insurance and reinsurance obligations should include obligations relating to existing insurance
 and reinsurance business. Obligations relating to future business should not be included in the valuation. Where
 insurance and reinsurance contracts include policyholder options to establish, renew, extend, increase or resume
@@ -48415,7 +48378,7 @@ benefits, a contract boundary should be defined to specify whether the additiona
 options is regarded as existing or future business.
 ****** END OF CHUNK ******
 
-****** Chunk 2156: *****
+****** Chunk 2158: *****
 (10) In order to determine the transfer value of insurance and reinsurance obligations, the valuation of the obligations
 should take into account future cash flows relating to contract renewal options, regardless of their profitability,
 unless the renewal option means that the insurance or reinsurance undertaking would from an economic
@@ -48428,7 +48391,7 @@ distorted, the technical provisions of a portfolio of insurance and reinsurance 
 calculation of technical provisions should not be subject to a floor of zero.
 ****** END OF CHUNK ******
 
-****** Chunk 2157: *****
+****** Chunk 2159: *****
 (12) The transfer value of an insurance or reinsurance obligation may be lower than the surrender values of the
 underlying contracts. The calculation of technical provisions should not be subject to surrender value floors.
 
@@ -48444,7 +48407,7 @@ referred to in Article 77(2) of Directive 2009/138/EC, the cash flows projection
 best estimate should take account of all uncertainties in the cash flows.
 ****** END OF CHUNK ******
 
-****** Chunk 2158: *****
+****** Chunk 2160: *****
 (15) The choice of the method to calculate the best estimate should be proportionate to the nature, scale and
 complexity of the risks supported by the insurance or reinsurance undertaking. The range of methods to
 calculate the best estimate includes simulation, deterministic and analytical techniques. For certain life insurance
@@ -48459,7 +48422,7 @@ and on how the actual outcome in certain scenarios could deviate from the expect
 to calculate the best estimate should take such dependencies into account.
 ****** END OF CHUNK ******
 
-****** Chunk 2159: *****
+****** Chunk 2161: *****
 (17) The definition of future discretionary benefits should capture the benefits of insurance and reinsurance contracts
 that are paid in addition to guaranteed benefits and that result from profit participation by the policy holder. It
 should not capture index-linked or unit-linked benefits.
@@ -48470,7 +48433,7 @@ reinsurance obligations is transferred to another insurance or reinsurance under
 calculation should take the diversification of the whole portfolio into account.
 ****** END OF CHUNK ******
 
-****** Chunk 2160: *****
+****** Chunk 2162: *****
 (19) The calculation of the risk margin should be based on a projection of the Solvency Capital Requirement that
 takes the risk mitigation of reinsurance contracts and special purpose vehicles into account. Separate calculations
 of the risk margin gross and net of reinsurance contracts and special purpose vehicles should not be stipulated.
@@ -48482,7 +48445,7 @@ of adoption of Directive 2014/51/EU, in particular for the euro, the market rate
 offered rates for a 3 month maturity.
 ****** END OF CHUNK ******
 
-****** Chunk 2161: *****
+****** Chunk 2163: *****
 (21) Under market conditions similar to those at the date of adoption of Directive 2014/51/EU, when determining the
 last maturity for which markets for bonds are not deep, liquid and transparent anymore in accordance with
 Article 77a of Directive 2009/138/EC, the market for bonds denominated in euro should not be regarded as deep
@@ -48490,7 +48453,7 @@ and liquid where the cumulative volume of bonds with maturities larger than or e
 than 6 percent of the volume of all bonds in that market.
 ****** END OF CHUNK ******
 
-****** Chunk 2162: *****
+****** Chunk 2164: *****
 (22) Where no reliable credit spread can be derived from the default statistics, as in the case of exposures to sovereign
 debt, the fundamental spread for the calculation of the matching adjustment and the volatility adjustment should
 be equal to the portion of the long term average of the spread over the risk free interest rate set out in
@@ -48498,7 +48461,7 @@ Article 77c(2)(b) and (c) of Directive 2009/138/EC. As regards exposures to Memb
 and central banks, the asset class should capture the difference between individual Member States.
 ****** END OF CHUNK ******
 
-****** Chunk 2163: *****
+****** Chunk 2165: *****
 (23) In order to ensure transparency in the determination of the relevant risk free interest rate, in accordance with
 recital 29 of Directive 2014/51/EU, the methodology, assumptions and identification of the data used by the
 European Insurance and Occupational Pensions Authority (EIOPA) to calculate the adjustment to swap rates for
@@ -48506,7 +48469,7 @@ credit risk, the volatility adjustment and the fundamental spread for the matchi
 published by EIOPA as part of the technical information to be published by virtue of Article 77e(1) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2164: *****
+****** Chunk 2166: *****
 (24) The segmentation of insurance and reinsurance obligations into lines of business and homogeneous risk groups
 should reflect the nature of the risks underlying the obligation. The nature of the underlying risks may justify
 segmentation which differs from the allocation of insurance activities to life insurance activities and non-life
@@ -48519,7 +48482,7 @@ complexity of the risks should include an assessment of the model error of the m
 should not require insurance and reinsurance undertakings to specify the precise amount of the model error.
 ****** END OF CHUNK ******
 
-****** Chunk 2165: *****
+****** Chunk 2167: *****
 (26) For the purposes of the application for supervisory approval to use the matching adjustment referred to in
 paragraph 1 of Article 77b of Directive 2009/138/EC, undertakings should be permitted to consider different
 eligible insurance products as one portfolio, provided that the conditions for approval are met on a continuous
@@ -48527,7 +48490,7 @@ basis and there are no legal impediments to the business being organised and man
 the business of the undertaking in one portfolio.
 ****** END OF CHUNK ******
 
-****** Chunk 2166: *****
+****** Chunk 2168: *****
 (27) The approval of ancillary own funds to be included to meet an insurance or reinsurance undertaking's Solvency
 Capital Requirement should be based on an assessment of the relevant criteria by the supervisory authorities.
 However, the insurance or reinsurance undertaking seeking approval for an ancillary own fund item should
@@ -48541,12 +48504,12 @@ undertaken on a case-by-case basis.
 the ancillary own funds item for which approval is being sought.
 ****** END OF CHUNK ******
 
-****** Chunk 2167: *****
+****** Chunk 2169: *****
 (29) Tier 1 own funds should be made up of own-fund items which are of a high quality and which fully absorb
 losses to enable an insurance or reinsurance undertaking to continue as a going concern.
 ****** END OF CHUNK ******
 
-****** Chunk 2168: *****
+****** Chunk 2170: *****
 (30) Where the economic effect of a transaction, or a group of connected transactions, is equivalent to the holding by
 an insurance or reinsurance undertaking of its own shares, the excess of assets over liabilities should be reduced
 to reflect the existence of an encumbrance on that part of own-funds.
@@ -48559,12 +48522,12 @@ assess whether the total amount of own funds is of a sufficient duration as part
 assessment, taking into account both the original and remaining maturity of all own-fund items and of all
 ****** END OF CHUNK ******
 
-****** Chunk 2169: *****
+****** Chunk 2171: *****
 assessment, taking into account both the original and remaining maturity of all own-fund items and of all
 insurance and reinsurance liabilities.
 ****** END OF CHUNK ******
 
-****** Chunk 2170: *****
+****** Chunk 2172: *****
 (32) The assessment of loss-absorbency in a winding-up in accordance with Article 93 of Directive 2009/138/EC
 should not be based on a comparison of the excess of assets over liabilities valued on a going-concern basis
 against the excess of assets over liabilities valued under the assumption that winding-up proceedings have been
@@ -48576,7 +48539,7 @@ calculation of the technical provisions, the amount of the excess of assets over
 should not be adjusted to exclude the expected profits on those future premiums.
 ****** END OF CHUNK ******
 
-****** Chunk 2171: *****
+****** Chunk 2173: *****
 (34) Own-fund items with features that incentivise redemption, such as contractual increases in the dividend payable
 or increases in the coupon rate combined with a call option, should be limited to allow for restrictions on
 repayment or redemption in the event of a breach of the Solvency Capital Requirement and should only be
@@ -48592,7 +48555,7 @@ may be positive or negative.
 items insurance and reinsurance undertakings should seek supervisory approval for classification.
 ****** END OF CHUNK ******
 
-****** Chunk 2172: *****
+****** Chunk 2174: *****
 (37) Ring-fenced funds are arrangements where an identified set of assets and liabilities are managed as though they
 were a separate undertaking, and should not include conventional index-linked, unit-linked or reinsurance
 business. The reduced transferability of the assets of a ring-fenced fund should be reflected in the calculation of
@@ -48609,7 +48572,7 @@ absorb losses on a going concern basis. Arrangements that only affect loss absor
 should not be considered as ring-fenced funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2173: *****
+****** Chunk 2175: *****
 (40) In order to avoid double counting of own-funds between the insurance and banking sectors at individual level,
 insurance and reinsurance undertakings should deduct from the amount of basic own funds any participations in
 financial and credit institutions in excess of 10 % of the Tier 1 own-fund items which are not subject to any
@@ -48619,7 +48582,7 @@ and method 1 set out in Annex I to Directive 2002/87/EC is applied to these unde
 solvency calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 2174: *****
+****** Chunk 2176: *****
 (41) The majority of the eligible amount of own funds to cover the Minimum Capital Requirement and Solvency
 Capital Requirement should be composed of Tier 1 own funds. In order to ensure that the application of the
 limits does not create potential pro-cyclical effects, the limits on the eligible amounts of Tier 2 and Tier 3 items
@@ -48632,7 +48595,7 @@ limits should not be counted as eligible own funds.
 there is no difference in risk between exposures to these and exposures to the central government in whose
 ****** END OF CHUNK ******
 
-****** Chunk 2175: *****
+****** Chunk 2177: *****
 there is no difference in risk between exposures to these and exposures to the central government in whose
 jurisdiction they are established because of the specific revenue raising powers of the former and that specific
 institutional arrangements exist, the effect of which is to reduce the risk of default. The effect of the
@@ -48642,7 +48605,7 @@ government of the jurisdiction in which they are established for the purposes of
 risk module and the counterparty default risk module of the standard formula.
 ****** END OF CHUNK ******
 
-****** Chunk 2176: *****
+****** Chunk 2178: *****
 (43) In order to avoid giving the wrong incentives to restructure long-term contracts as short-term renewable
 contracts, the volume measure for non-life and SLT health premium risk used in the standard formula should be
 based on the economic substance of insurance and reinsurance contracts rather than on their legal form. The
@@ -48655,7 +48618,7 @@ recognised in the eligible own funds of insurance and reinsurance undertakings, 
 module should capture the lapse risk relating to non-life insurance and reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2177: *****
+****** Chunk 2179: *****
 (45) In relation to premium risk, the calculation of the capital requirement for non-life and health premium and
 reserve risk should be based on the larger of the past and the expected future earned premiums to take account
 of the uncertainty around the future earned premiums. However, where an insurance or reinsurance undertaking
@@ -48669,7 +48632,7 @@ options that a ceding insurance or reinsurance undertaking of a reinsurance cont
 for the accepting insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2178: *****
+****** Chunk 2180: *****
 (47) In order to reflect the different risk profile of health insurance that is pursued on a similar technical basis to that
 of life insurance (SLT health) and other health insurance business (NSLT health), the health underwriting risk
 module should include different sub-modules for these two types of insurance.
@@ -48680,7 +48643,7 @@ health underwriting risk modules should be based on the assumption that the risk
 insurance and reinsurance benefits on inflation is not material
 ****** END OF CHUNK ******
 
-****** Chunk 2179: *****
+****** Chunk 2181: *****
 (49) The scenario-based calculations of the non-life and health catastrophe risk sub-modules of the standard formula
 should be based on the specification of catastrophe losses that are gross, without deduction of the amounts
 recoverable from reinsurance contracts and special purpose vehicles. Insurance and reinsurance undertakings
@@ -48694,7 +48657,7 @@ risk of an accumulation of a large number of similar claims which are covered by
 obligations is not material.
 ****** END OF CHUNK ******
 
-****** Chunk 2180: *****
+****** Chunk 2182: *****
 (51) In order to reflect the average characteristics of non-life insurance obligations, the modelling of mass accident
 risk in the standard formula should be based on the assumption that the exposure of insurance and reinsurance
 undertakings to mass accident risk situated in third countries, other than specific European countries, is not
@@ -48703,7 +48666,7 @@ It should also be based on the assumption that the mass accident risk in relatio
 insurance is not material
 ****** END OF CHUNK ******
 
-****** Chunk 2181: *****
+****** Chunk 2183: *****
 (52) In order to reflect the average characteristics of non-life insurance obligations, the modelling of accident concen­
 tration risk in the standard formula should be based on the assumption that the accident concentration risk in
 relation to medical expense insurance and income protection insurance other than group contracts is not
@@ -48716,14 +48679,14 @@ for those divisions should be specified in such a way that they capture the rati
 for the relevant lines of business using a Value-at-Risk measure with a 99,5 % confidence level. The correlation
 ****** END OF CHUNK ******
 
-****** Chunk 2182: *****
+****** Chunk 2184: *****
 for the relevant lines of business using a Value-at-Risk measure with a 99,5 % confidence level. The correlation
 coefficients between those geographical divisions should be selected in such a way that they reflect the
 dependency between the relevant risks in the geographical divisions, taking into account any non-linearity of the
 dependence.
 ****** END OF CHUNK ******
 
-****** Chunk 2183: *****
+****** Chunk 2185: *****
 (54) In order to capture the actual risk exposure of the undertaking in the calculation of the capital requirement for
 natural catastrophe risk in the standard formula, the sum insured should be determined in a manner that takes
 account of contractual limits for the compensation for catastrophe events.
@@ -48738,7 +48701,7 @@ which the risk-free interest rate term structure converges to is stable over tim
 changes in long-term expectations.
 ****** END OF CHUNK ******
 
-****** Chunk 2184: *****
+****** Chunk 2186: *****
 (57) For the purposes of the calculation of the standard formula, insurance and reinsurance undertakings should
 identify which of their related undertakings are of a strategic nature. The calibration of the equity risk submodule on the investments in related undertakings which are of strategic nature should reflect the likely
 reduction in the volatility of their value arising from their strategic nature and the influence exercised by the
@@ -48750,7 +48713,7 @@ equity investments referred to in Article 304 of Directive 2009/138/EC is consis
 liabilities pursuant to Article 304 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2185: *****
+****** Chunk 2187: *****
 (59) In order to avoid the effects of pro-cyclicality, the time period for the symmetric adjustment mechanism to the
 equity risk sub-module should strike a balance between maintaining risk-sensitivity of the sub-module and
 reflecting the objective of the symmetric adjustment.
@@ -48766,7 +48729,7 @@ property located in the Union, the property risk sub-module of the standard form
 of exposures in the same way.
 ****** END OF CHUNK ******
 
-****** Chunk 2186: *****
+****** Chunk 2188: *****
 (62) Given that concentration risk is mostly driven by the lack of diversification in issuers to which insurance or
 reinsurance undertakings are exposed, the market risk concentrations sub-module of the standard formula should
 be based on the assumption that the geographical or sector concentration of the assets held by the insurance or
@@ -48778,7 +48741,7 @@ exposures that may be diversified and where the counterparty is likely to be rat
 on counterparties which do belong to the same group are not independent.
 ****** END OF CHUNK ******
 
-****** Chunk 2187: *****
+****** Chunk 2189: *****
 (64) In order to ensure that the credit risk on all counterparties to which insurance or reinsurance undertakings are
 exposed is captured in the Solvency Capital Requirement calculated with the standard formula, all exposures
 which are neither captured in the spread risk sub-module nor in the counterparty default risk module as type 1
@@ -48790,19 +48753,19 @@ ownership of the collateral is transferred or not. It should also be considered 
 counterparty, the determination of the insurance or reinsurance undertaking's proportional share of the counter­
 ****** END OF CHUNK ******
 
-****** Chunk 2188: *****
+****** Chunk 2190: *****
 counterparty, the determination of the insurance or reinsurance undertaking's proportional share of the counter­
 party's insolvency estate in excess of the collateral takes into account that the undertaking receives the collateral.
 ****** END OF CHUNK ******
 
-****** Chunk 2189: *****
+****** Chunk 2191: *****
 (66) Consistent with the approach set out in Article 104(1), (3) and (4) of Directive 2009/138/EC, the Basic Solvency
 Capital Requirement should include an additional risk module in order to address the specific risks arising from
 intangible assets, as recognised and valued for solvency purpose, that are not captured elsewhere in the Solvency
 Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2190: *****
+****** Chunk 2192: *****
 (67) The operational risk module of the standard formula captures the risk arising from inadequate or failed internal
 processes, personnel or systems, or from external events in a factor-based calculation. For this purpose, technical
 provisions, premiums earned during the previous twelve months, and expenses incurred during the previous
@@ -48813,20 +48776,20 @@ should not be taken into account in the volume measure for the amount of expense
 previous 12 months. In order to ensure that the capital requirement for operational risk continues to meet the
 ****** END OF CHUNK ******
 
-****** Chunk 2191: *****
+****** Chunk 2193: *****
 previous 12 months. In order to ensure that the capital requirement for operational risk continues to meet the
 confidence level set out in Article 101 of Directive 2009/138/EC, the operational risk module should be reexamined as part of the Commission review of the methods, assumptions and standard parameters used when
 calculating the Solvency Capital Requirement with the standard formula, as referred to in recital (150). This
 review should in particular target life insurance contracts where the risk is borne by the policyholder.
 ****** END OF CHUNK ******
 
-****** Chunk 2192: *****
+****** Chunk 2194: *****
 (68) The calculation of the adjustment for the loss-absorbing capacity of technical provisions and deferred taxes
 should ensure that there is no double counting of the risk mitigating effect provided by future discretionary
 benefits or deferred taxes.
 ****** END OF CHUNK ******
 
-****** Chunk 2193: *****
+****** Chunk 2195: *****
 (69) Future discretionary benefits are usually a feature associated with life and SLT health insurance contracts.
 Therefore, the adjustment for the loss-absorbing capacity of technical provisions should take into account the
 mitigating effect provided by future discretionary benefits in relation to life underwriting risk, SLT health
@@ -48837,7 +48800,7 @@ inadequate or failed internal processes, personnel or systems, or from external 
 absorbed by future discretionary benefits, the adjustment should not apply to operational risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2194: *****
+****** Chunk 2196: *****
 (70) The recognition of risk-mitigation techniques in the calculation of the Solvency Capital Requirement should
 reflect the economic substance of the technique used and should be restricted to risk-mitigation techniques that
 effectively transfer the risk outside the insurance or reinsurance undertaking.
@@ -48849,7 +48812,7 @@ variation in either the amount or timing of payments by the reinsurer is remote 
 the reinsurer has not assumed risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2195: *****
+****** Chunk 2197: *****
 (72) The scenario-based calculations of the Solvency Capital Requirement standard formula are based on the impact of
 instantaneous stresses and insurance and reinsurance undertakings should not take into account risk-mitigation
 techniques that rely on insurance or reinsurance undertakings taking future action, such as dynamic hedging
@@ -48859,7 +48822,7 @@ is currently in force and will be replaced at the time of its expiry with a simi
 solvency position of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2196: *****
+****** Chunk 2198: *****
 (73) In order to avoid the situation whereby the effectiveness of a risk mitigation technique is undermined by the
 existence of basis risk, in particular because of a currency mismatch, undertakings should reflect material basis
 risk in the calculation of the Solvency Capital Requirement. Where material basis risk is not reflected in the
@@ -48869,7 +48832,7 @@ calculation of the Solvency Capital Requirement, the risk mitigation technique s
 should be appropriately reflected in the calculation of the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2197: *****
+****** Chunk 2199: *****
 (75) Where the calculation of the capital requirement for a risk module or sub-module of the Basic Solvency Capital
 Requirement is based on the impact of bidirectional scenarios on basic own funds, as in interest rate risk,
 currency risk or lapse risk, the insurance or reinsurance undertaking should determine which scenario most
@@ -48879,7 +48842,7 @@ tionary benefits at the level of the ring-fenced fund. The scenario determined i
 scenario to calculate the notional Solvency Capital Requirement for each ring-fenced fund.
 ****** END OF CHUNK ******
 
-****** Chunk 2198: *****
+****** Chunk 2200: *****
 (76) In order to be able to prepare for future revisions of correlation parameters on the basis of suitable empirical
 information, such as changes in mortality rates and lapse rates for life obligations and combined ratios or
 provision run-off ratios for non-life insurance obligations, EIOPA should receive appropriate data from
@@ -48888,7 +48851,7 @@ undertakings as part of the information which is to be reported to supervisors g
 the purposes of supervision and should not therefore result in additional burdens for undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2199: *****
+****** Chunk 2201: *****
 (77) When providing an opinion on an update to correlation parameters, EIOPA should take into account whether the
 application of the updated correlation parameters by insurance and reinsurance undertakings would result in an
 overall Solvency Capital Requirement which complies with the principles in Article 101 of Directive/EC, and whether dependencies between risks are non-linear or whether there is a lack of diversification
@@ -48901,7 +48864,7 @@ improves, and supervisory authorities should accordingly have regard to current 
 making their assessment of the internal model to ensure that it keeps pace with recent developments.
 ****** END OF CHUNK ******
 
-****** Chunk 2200: *****
+****** Chunk 2202: *****
 (79) An internal model can only play an important role in the system of governance of an insurance or reinsurance
 undertaking where it is adapted to the business of the undertaking and understood by the persons who base
 decisions on its outputs. The use test for internal models should therefore ensure that approved internal models
@@ -48914,7 +48877,7 @@ model should use the internal model in their risk-management system and in their
 a way that creates incentives to improve the quality of the internal model itself.
 ****** END OF CHUNK ******
 
-****** Chunk 2201: *****
+****** Chunk 2203: *****
 (81) The requirement that the internal model is widely used in and plays an important role in their system of
 governance set out in Article 120 of Directive 2009/138/EC should not lead insurance and reinsurance
 undertakings to rely blindly on the output of the internal model. The undertakings should not make decisions
@@ -48922,7 +48885,7 @@ based on the output of the internal model without challenging the appropriatenes
 aware of the limitations of the internal model and take them into account in their decisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2202: *****
+****** Chunk 2204: *****
 (82) As no particular method for the calculation of the probability distribution forecast for internal models is
 prescribed in accordance with Article 121(4) of Directive 2009/138/EC and as internal models should be adapted
 to the specific business of the insurance and reinsurance undertaking, internal models may vary significantly in
@@ -48934,7 +48897,7 @@ model. Undertakings' documentation should contain any additional information tha
 the documentation standards for internal models.
 ****** END OF CHUNK ******
 
-****** Chunk 2203: *****
+****** Chunk 2205: *****
 (83) In order to ensure that the internal model is up to date and reflects their risk profile in the best possible manner,
 insurance and reinsurance undertakings should be aware of the relevant actuarial developments and the generally
 accepted market practice of risk modelling. However, this does not imply that insurance and reinsurance
@@ -48948,7 +48911,7 @@ model, insurance and reinsurance undertakings should collect, process and apply 
 structured manner.
 ****** END OF CHUNK ******
 
-****** Chunk 2204: *****
+****** Chunk 2206: *****
 (85) Insurance and reinsurance undertakings should be free to decide the structure of the internal model that most
 appropriately reflects their risks. This should be done subject to approval by the supervisory authorities. In the
 case of partial internal models it might be more appropriate to calculate different components separately and
@@ -48961,7 +48924,7 @@ Requirement is part of that internal model and should, together with the other c
 internal model, fulfil the relevant requirements of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2205: *****
+****** Chunk 2207: *****
 (87) Insurance and reinsurance undertakings should calculate the linear Minimum Capital Requirement using a
 standard calculation regardless of whether the undertaking uses the standard formula or an internal model to
 calculate its Solvency Capital Requirement.
@@ -48974,7 +48937,7 @@ Requirement does not coincide with an annual calculation of the Solvency Capital
 should use the last calculated Solvency Capital Requirement in accordance with Article 102 of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2206: *****
+****** Chunk 2208: *****
 (89) In accordance with the prudent person principle set out in Article 132 of Directive 2009/138/EC and in order to
 ensure cross-sectoral consistency, the interests of undertakings that re-package loans into tradable securities and
 other financial instruments (originators, sponsors or original lenders) and the interests of the insurance and
@@ -48985,7 +48948,7 @@ The requirement for the originator, the sponsor or the original lender to retain
 in the underlying assets should apply also when there are multiple originators, sponsors or original lenders. To
 ****** END OF CHUNK ******
 
-****** Chunk 2207: *****
+****** Chunk 2209: *****
 in the underlying assets should apply also when there are multiple originators, sponsors or original lenders. To
 prevent any potential circumvention of the requirements, avoid misunderstandings and align the language with
 that used in Union legislation regulating the activities of credit instititutions, the terms ‘investment in securiti­
@@ -48993,14 +48956,14 @@ sation positions’ should be used instead of ‘investment in tradable securiti
 on repackaged loans’.
 ****** END OF CHUNK ******
 
-****** Chunk 2208: *****
+****** Chunk 2210: *****
 (90) Insurance and reinsurance undertakings investing in securitisation should have a comprehensive and thorough
 understanding of the investment and its underlying exposures. In order to achieve that understanding,
 undertakings should make their investment decision only after having conducted thorough due diligence, from
 which they should obtain adequate information and knowledge about the securitisation.
 ****** END OF CHUNK ******
 
-****** Chunk 2209: *****
+****** Chunk 2211: *****
 (91) In order to ensure that the risks arising from securitisation positions are appropriately reflected in the capital
 requirements of insurance and reinsurance undertakings, it is necessary to include rules providing for a risksensitive and prudentially sound treatment of such investments, depending on the nature and underwriting
 process of underlying exposures, and structural and transparency features. Securitisations that meet those
@@ -49010,7 +48973,7 @@ enhancement embedded in most senior tranches compared to the whole pool of under
 appropriate to cap the spread risk factors on such positions at the level of the spread risk factor that would be
 ****** END OF CHUNK ******
 
-****** Chunk 2210: *****
+****** Chunk 2212: *****
 appropriate to cap the spread risk factors on such positions at the level of the spread risk factor that would be
 applicable to underlying exposures, namely at the level of the 3 % risk factor per year of duration applicable to
 unrated loans. This approach should be re-examined as part of the Commission review of the methods,
@@ -49018,7 +48981,7 @@ assumptions and standard parameters used when calculating the Solvency Capital R
 formula, as referred to in recital (150).
 ****** END OF CHUNK ******
 
-****** Chunk 2211: *****
+****** Chunk 2213: *****
 (92) In order to avoid any regulatory arbitrage, the rules on securitisation should apply on the basis of the principle
 of substance over form. To this end, a clear and encompassing definition of securitisation is needed that captures
 any transaction or scheme whereby the credit risk associated with an exposure or pool of exposures is tranched.
@@ -49031,13 +48994,13 @@ well as a key element of the regulatory framework. The system of governance of a
 undertaking should be based on an appropriate and transparent allocation of oversight and management respon­
 ****** END OF CHUNK ******
 
-****** Chunk 2212: *****
+****** Chunk 2214: *****
 undertaking should be based on an appropriate and transparent allocation of oversight and management respon­
 sibilities to provide for an effective decision making, to prevent conflicts of interest and to ensure effective
 management of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2213: *****
+****** Chunk 2215: *****
 (94) A basic principle of good governance is that no individual should have power over decision making without any
 form of control. Therefore, prior to implementing any significant decision concerning the undertaking, at least
 one other person should review that decision.
@@ -49054,7 +49017,7 @@ all persons with operational and oversight responsibilities act in accordance wi
 in compliance with applicable laws, regulations and administrative provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2214: *****
+****** Chunk 2216: *****
 (97) In order to ensure an economic valuation that is reliable, accurate and in compliance with Article 75 of Directive/EC, it is important to establish and implement appropriate internal controls for the valuation of assets
 and liabilities of insurance and reinsurance undertakings, including an independent review and verification of the
 information, data and assumptions used.
@@ -49065,7 +49028,7 @@ Directive 2009/138/EC, the system of governance of insurance and reinsurance und
 validation process of the calculation of technical provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2215: *****
+****** Chunk 2217: *****
 (99) In the context of the system of governance, in order to ensure independence, a person or organisational unit
 carrying out a function should be able to carry out the related duties objectively and free from influence and to
 report relevant findings directly to the administrative, management or supervisory body. In order to enable
@@ -49077,13 +49040,13 @@ insurance or reinsurance undertakings or supervisors, the notification by insura
 should not imply pre-approval by the supervisory authority. In the event that the supervisory authority concludes
 ****** END OF CHUNK ******
 
-****** Chunk 2216: *****
+****** Chunk 2218: *****
 should not imply pre-approval by the supervisory authority. In the event that the supervisory authority concludes
 that a person does not comply with the fit and proper requirements set out in Directive 2009/138/EC, it should
 have the power to require the undertaking to replace that person.
 ****** END OF CHUNK ******
 
-****** Chunk 2217: *****
+****** Chunk 2219: *****
 (100) In order to assess the reputation of the persons who effectively run the undertaking or have other key functions,
 the past conduct of those persons should be examined to see whether they may not be able to effectively
 discharge their duties in accordance with the applicable rules, regulations and guidelines. Information regarding
@@ -49097,7 +49060,7 @@ agreement to be concluded and on the ongoing verification that the insurance or 
 perform on the service provider.
 ****** END OF CHUNK ******
 
-****** Chunk 2218: *****
+****** Chunk 2220: *****
 (102) Remuneration policies and practices which provide incentives to take risks that exceed the approved risk
 tolerance limits of insurance and reinsurance undertakings can undermine the effective risk management of such
 undertakings. It is therefore necessary to provide for requirements on remuneration for the purposes of the
@@ -49110,7 +49073,7 @@ protection of policy holders and beneficiaries through the calculation of a Solv
 properly reflects the overall risk profile of the insurance or reinsurance undertaking. Capital add-on amounts
 ****** END OF CHUNK ******
 
-****** Chunk 2219: *****
+****** Chunk 2221: *****
 properly reflects the overall risk profile of the insurance or reinsurance undertaking. Capital add-on amounts
 have a numerically positive value. The specification should also take account of the need to develop consistent
 and common approaches for similar circumstances. To this end reference percentages and limits could be used as
@@ -49118,7 +49081,7 @@ presumptions to assess deviations but should not detract from the main objective
 to the insurance or reinsurance undertaking in question.
 ****** END OF CHUNK ******
 
-****** Chunk 2220: *****
+****** Chunk 2222: *****
 (104) For the purposes of the application of Article 138(4) of Directive 2009/138/EC, in deciding whether to declare
 the existence of an exceptional adverse situation affecting insurance and reinsurance undertakings representing a
 significant share of the market or affected lines of business, EIOPA should take into account all relevant factors at
@@ -49131,7 +49094,7 @@ maximum of seven years set out in Article 138(4), the supervisory authority shou
 factors which are specific to the undertaking, including those set out in this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2221: *****
+****** Chunk 2223: *****
 (106) Insurance and reinsurance undertakings are required by Directive 2009/138/EC to disclose publicly information
 on their solvency and financial condition. Detailed and harmonised requirements regulating the information
 which must be disclosed and the means by which this is to be achieved should be appropriate so as to ensure
@@ -49144,7 +49107,7 @@ and reinsurance undertakings being required to disclose any information which wo
 business or not be material.
 ****** END OF CHUNK ******
 
-****** Chunk 2222: *****
+****** Chunk 2224: *****
 (108) Where references are made to equivalent information disclosed publicly under other legal or regulatory
 requirements, these should lead directly to the information itself and should not be a reference to a general
 document.
@@ -49161,7 +49124,7 @@ all information which is necessary for the purposes of supervision. An essential
 be the information which must be submitted to the supervisory authorities on a regular basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2223: *****
+****** Chunk 2225: *****
 (111) Detailed and harmonised requirements regulating the information which must be submitted on a regular basis
 and the means by which this is to be achieved should be adopted to ensure effective convergence in the
 supervisory review process carried out by the supervisory authorities.
@@ -49174,7 +49137,7 @@ condition report, which is necessary for the purposes of supervision. For the be
 reinsurance undertakings and the supervisory authorities, these two reports should follow the same structure.
 ****** END OF CHUNK ******
 
-****** Chunk 2224: *****
+****** Chunk 2226: *****
 (113) On the basis of a risk assessment of the insurance and reinsurance undertaking in accordance with Article 36 of
 Directive 2009/138/EC, supervisory authorities may require an annual submission of its regular supervisory
 report. When this is not the case and insurance and reinsurance undertakings submit their regular supervisory
@@ -49187,7 +49150,7 @@ greater detail and supplement, where appropriate, the information provided in th
 and templates should provide sufficient information, additional to the information already presented in the
 ****** END OF CHUNK ******
 
-****** Chunk 2225: *****
+****** Chunk 2227: *****
 and templates should provide sufficient information, additional to the information already presented in the
 solvency and financial condition report, to the supervisory authorities to enable them to fulfil their responsi­
 bilities under Directive 2009/138/EC but should not result in unnecessary burden for the insurance and
@@ -49195,7 +49158,7 @@ reinsurance undertakings. The scope of quantitative templates that have to be su
 should be narrower than the scope of quantitative templates to be submitted on an annual basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2226: *****
+****** Chunk 2228: *****
 (115) The application of the proportionality principle in the area of supervisory reporting should not result in
 insurance and reinsurance undertakings or branches established within the Union being required to submit any
 information which would not be relevant to their business or not be material.
@@ -49207,7 +49170,7 @@ out in Article 36(2) of Directive 2009/138/EC and in particular to assess the ad
 insurance and reinsurance undertakings as well as their ability to withstand adverse events or changes.
 ****** END OF CHUNK ******
 
-****** Chunk 2227: *****
+****** Chunk 2229: *****
 (117) The disclosure of aggregate statistical data under Article 31(2)(c) of Directive 2009/138/EC is intended to provide
 general information on national insurance sectors as well as on important activities of the supervisory authorities
 themselves. Relevant information should cover data related to both quantitative and qualitative requirements,
@@ -49223,7 +49186,7 @@ as a minimum.
 vehicle has assets that are equal to or exceed its aggregate maximum risk exposure.
 ****** END OF CHUNK ******
 
-****** Chunk 2228: *****
+****** Chunk 2230: *****
 (120) Where a special purpose vehicle assumes risks from more than one insurance or reinsurance undertaking, that
 special purpose vehicle should remain at all times protected from the winding up proceedings of any one of the
 other insurance or reinsurance undertakings which transfer risks to the special purpose vehicle.
@@ -49234,7 +49197,7 @@ special purpose vehicle and for persons who effectively run the special purpose 
 take account of similar requirements applying to insurance and reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2229: *****
+****** Chunk 2231: *****
 (122) The transfer of risk from the insurance or reinsurance undertaking to the special purpose vehicle and from the
 special purpose vehicle to the providers of debt or financing should be free of any connected transactions which
 could undermine the effective transfer of risk, for example contractual rights of set-off or side agreements
@@ -49242,7 +49205,7 @@ designed to reduce the potential or actual losses incurred as a result of the tr
 debt or financing to the special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 2230: *****
+****** Chunk 2232: *****
 (123) In order to ensure that the inclusion of future payments does not undermine the effective transfer of risk from
 the insurance or reinsurance undertaking to the special purpose vehicle, it is important that the non-receipt of
 payments does not negatively affect the basic own funds of the insurance or reinsurance undertaking. In
@@ -49251,7 +49214,7 @@ contemplated in the contractual arrangements and any other scenarios, unless the
 scenarios will occur is excessively remote.
 ****** END OF CHUNK ******
 
-****** Chunk 2231: *****
+****** Chunk 2233: *****
 (124) Article 220 of Directive 2009/138/EC requires the calculation of the solvency at the level of the group to be
 carried out in accordance with method 1 (accounting consolidation-based method), unless its exclusive
 application would not be appropriate. The group supervisor should, when assessing whether method 2
@@ -49264,13 +49227,13 @@ whether the use of method 2 would materially affect the results of the group sol
 should be compared with method 1 using the aggregated group eligible own funds and the aggregated group
 ****** END OF CHUNK ******
 
-****** Chunk 2232: *****
+****** Chunk 2234: *****
 should be compared with method 1 using the aggregated group eligible own funds and the aggregated group
 Solvency Capital Requirements calculated in accordance with Directive 2009/138/EC and not with solvency
 requirements laid down in an equivalent third country.
 ****** END OF CHUNK ******
 
-****** Chunk 2233: *****
+****** Chunk 2235: *****
 (125) In order to help ensure a level playing field in third countries, where a group includes related third country
 insurance or reinsurance undertakings, and where the Commission has adopted delegated acts pursuant to
 paragraphs 4 or 5 of Article 227 of Directive 2009/138/EC determining that the solvency regimes of those third
@@ -49279,7 +49242,7 @@ priority when deciding on whether method 2 (deduction and aggregation) should be
 combination with — method 1 (consolidation).
 ****** END OF CHUNK ******
 
-****** Chunk 2234: *****
+****** Chunk 2236: *****
 (126) Directive 2009/138/EC provides that, where supervisory authorities consider that certain own funds eligible for
 the Solvency Capital Requirement of a related insurance or reinsurance undertaking cannot effectively be made
 available to cover the group Solvency Capital Requirement, those own funds may be included in the calculation
@@ -49291,14 +49254,14 @@ dedicated to absorb only certain losses) or their transferability (i.e. whether 
 moving own fund items from one entity to another). For the purposes of this assessment, supervisory authorities
 ****** END OF CHUNK ******
 
-****** Chunk 2235: *****
+****** Chunk 2237: *****
 moving own fund items from one entity to another). For the purposes of this assessment, supervisory authorities
 should pay particular attention to any minority interest in the eligible own funds covering the Solvency Capital
 Requirement of a subsidiary insurance or reinsurance undertaking, third-country insurance or reinsurance
 undertaking, insurance holding company or mixed financial holding company.
 ****** END OF CHUNK ******
 
-****** Chunk 2236: *****
+****** Chunk 2238: *****
 (127) In order to ensure that the policy holders and beneficiaries of insurance and reinsurance undertakings belonging
 to a group are adequately protected in the case of the winding-up of any undertakings included in the scope of
 group supervision, own-fund items which are issued by insurance holding companies and mixed financial
@@ -49313,7 +49276,7 @@ requirements therein or are regulated by a third country supervisory authority a
 requirements, should not be fully consolidated.
 ****** END OF CHUNK ******
 
-****** Chunk 2237: *****
+****** Chunk 2239: *****
 (129) The calculation of the best estimate of technical provisions at the level of the group in accordance with method 1
 (accounting consolidation-based method) should be based on the assumption that the sum of the best estimate of
 the participating insurance or reinsurance undertakings and a proportional share of the best estimate for its
@@ -49324,7 +49287,7 @@ estimates of third-country insurance or reinsurance undertakings are used in tha
 should be assessed in accordance with those Articles.
 ****** END OF CHUNK ******
 
-****** Chunk 2238: *****
+****** Chunk 2240: *****
 (130) The calculation of the risk margin of technical provisions at the level of the group in accordance with method 1
 (accounting consolidation-based method) should be based on the assumption that the transfer of the group's
 insurance and reinsurance obligations is carried out separately for each insurance and reinsurance undertaking of
@@ -49334,7 +49297,7 @@ be based on the assumption that the transfer of the portfolio insurance obligati
 is carried out separately.
 ****** END OF CHUNK ******
 
-****** Chunk 2239: *****
+****** Chunk 2241: *****
 (131) Groups may apply for the use of two types of internal models to calculate their consolidated group Solvency
 Capital Requirement. Where an internal model is used only for the calculation of the consolidated group
 Solvency Capital Requirement, and is not used to calculate the Solvency Capital Requirement of a related
@@ -49347,12 +49310,12 @@ including the implementing act referred to in Article 114(2) of that Directive. 
 within the college of supervisors, it is necessary to specify how the group supervisor should involve other
 ****** END OF CHUNK ******
 
-****** Chunk 2240: *****
+****** Chunk 2242: *****
 within the college of supervisors, it is necessary to specify how the group supervisor should involve other
 supervisory authorities before making his decision on the application.
 ****** END OF CHUNK ******
 
-****** Chunk 2241: *****
+****** Chunk 2243: *****
 (132) Where a group applies for the use of the same internal model to calculate the consolidated group Solvency
 Capital Requirement as well as the Solvency Capital Requirement of a related insurance or reinsurance
 undertaking in the group, then Article 231 of Directive 2009/138/EC should apply. In this context, in order to
@@ -49361,7 +49324,7 @@ an informed joint decision on whether to permit the use of that internal model, 
 provisions on the documentation needed and on the procedure for the joint decision on the application.
 ****** END OF CHUNK ******
 
-****** Chunk 2242: *****
+****** Chunk 2244: *****
 (133) The approval of an internal model used only for the calculation of the consolidated group Solvency Capital
 Requirement granted on the basis of Article 230 of Directive 2009/138/EC should not influence any future
 permission under Article 231 of that Directive. In particular, any application for permission to calculate the
@@ -49370,14 +49333,14 @@ insurance or reinsurance undertaking in the group on the basis of an internal mo
 Article 230 of Directive 2009/138/EC should follow the procedure laid down in Article 231 of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 2243: *****
+****** Chunk 2245: *****
 (134) Groups should apply for permission to use a partial internal model for the calculation of the consolidated group
 Solvency Capital Requirement, when only some of the related undertakings are included in the scope of the
 group internal model, or in relation to the limited scope referred to in Article 112(2) of Directive 2009/138/EC,
 or in relation to a combination of any of them.
 ****** END OF CHUNK ******
 
-****** Chunk 2244: *****
+****** Chunk 2246: *****
 (135) In order for an internal model used only for the calculation of the consolidated group Solvency Capital
 Requirement to be widely used in and play an important role in the system of governance of the group, the
 output of that internal model should be used by insurance and reinsurance undertaking whose business is fully
@@ -49388,7 +49351,7 @@ internal model and for the purposes of a consistent implementation of the risk m
 systems throughout the group.
 ****** END OF CHUNK ******
 
-****** Chunk 2245: *****
+****** Chunk 2247: *****
 (136) In assessing whether the conditions set out in Article 236 of Directive 2009/138/EC are satisfied, the group
 supervisor and the other supervisory authorities concerned should take into account a number of harmonised
 relevant criteria in order to ensure harmonised supervision of group solvency for groups with centralised risk
@@ -49400,12 +49363,12 @@ undertakings in a group with a centralised risk management as provided for in Ar
 supervision of such insurance and reinsurance subsidiary undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2246: *****
+****** Chunk 2248: *****
 (138) In order to clearly determine when an emergency situation within the meaning of Article 239(2) of Directive/EC has arisen, the supervisory authority having authorised the insurance or reinsurance subsidiary
 undertaking which financial condition is deteriorating should take into account a number of harmonised criteria.
 ****** END OF CHUNK ******
 
-****** Chunk 2247: *****
+****** Chunk 2249: *****
 (139) The college of supervisors should be a permanent platform for coordination among supervisory authorities,
 fostering a common understanding of the risk profile of the group and of its related undertakings and aiming at
 a more efficient and effective risk based supervision at both group and individual levels. In this context, in order
@@ -49417,7 +49380,7 @@ reinsurance groups, in order to foster the convergence of supervisory practices.
 (140) Directive 2009/138/EC requires participating insurance and reinsurance undertakings or insurance holding
 ****** END OF CHUNK ******
 
-****** Chunk 2248: *****
+****** Chunk 2250: *****
 --- Page 19 ---
 (140) Directive 2009/138/EC requires participating insurance and reinsurance undertakings or insurance holding
 companies or mixed financial holding companies to disclose publicly information on the solvency and financial
@@ -49430,7 +49393,7 @@ harmonise the requirements applicable to public disclosure by insurance and rein
 whether such groups make use of the option to provide a single solvency and financial condition report.
 ****** END OF CHUNK ******
 
-****** Chunk 2249: *****
+****** Chunk 2251: *****
 (141) Detailed and harmonised requirements regulating the information which must be submitted on a regular basis by
 insurance and reinsurance groups should be adopted to ensure effective convergence in the supervisory review
 process of group supervisors. The requirements should also facilitate the exchange of information within colleges
@@ -49446,14 +49409,14 @@ prudential regime demonstrates an equivalent level of policyholder and beneficia
 under that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 2250: *****
+****** Chunk 2252: *****
 (143) The assessment under Articles 172, 227 and 260 of Directive 2009/138/EC of whether a third country's
 solvency or prudential regime is equivalent to that laid down in Title I or Title III of that Directive should be
 carried out on the basis of the criteria laid down in this Regulation, respectively, in Article 378 with regard to
 Article 172, in Article 379 with regard to Article 227, and in Article 380 with regard to Article 260.
 ****** END OF CHUNK ******
 
-****** Chunk 2251: *****
+****** Chunk 2253: *****
 (144) The determination as to whether the criteria to be taken into account when assessing third country equivalence
 have been met should be based on the substance of the legislation or other regulatory requirements in that third
 country's solvency or prudential regime, as well as how that legislation and those requirements are implemented
@@ -49462,7 +49425,7 @@ take into account the extent to which the supervisory authorities in the third c
 principle as set out in Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2252: *****
+****** Chunk 2254: *****
 (145) In order to ensure that the effects of a positive equivalence finding as set out in Articles 172(2) and 172(3)
 Directive 2009/138/EC and in Article 211 of this Regulation do not undermine the main objective of insurance
 and reinsurance regulation and supervision, namely the adequate protection of policy holders and beneficiaries,
@@ -49470,7 +49433,7 @@ the criteria for assessing equivalence under Article 172 of that Directive shoul
 in Title I on the general rules on the taking-up and pursuit of reinsurance activities.
 ****** END OF CHUNK ******
 
-****** Chunk 2253: *****
+****** Chunk 2255: *****
 (146) In order to ensure that the taking into account of the Solvency Capital Requirement and eligible own funds laid
 down by a third country in the determination of group solvency where method 2 is used results in a group
 solvency determination equivalent to that which would result if the requirements under Directive 2009/138/EC
@@ -49479,14 +49442,14 @@ principles set out in Title I, Chapter VI on the rules relating to the valuation
 provisions, own funds, solvency capital requirement, minimum capital requirement and investment rules.
 ****** END OF CHUNK ******
 
-****** Chunk 2254: *****
+****** Chunk 2256: *****
 (147) In order to ensure that the exemption of a group from group supervision at Union level does not undermine the
 fundamental role attributed to group supervision in Directive 2009/138/EC, the criteria for assessing equivalence
 under Article 260 of that Directive should encapsulate the principles set out in Title III on the supervision of
 insurance and reinsurance undertakings in a group.
 ****** END OF CHUNK ******
 
-****** Chunk 2255: *****
+****** Chunk 2257: *****
 (148) Supervisory authorities in Member States and supervisory authorities of third countries for which there has been
 a positive equivalence decision or for which a temporary or provisional equivalence regime applies should
 cooperate and exchange information in order to ensure that there is a clear mutual understanding of group risks
@@ -49497,7 +49460,7 @@ third countries for which there has been a positive equivalence decision or for 
 equivalence regime applies should be bound by obligations of professional secrecy.
 ****** END OF CHUNK ******
 
-****** Chunk 2256: *****
+****** Chunk 2258: *****
 (150) In order to ensure that the standard formula continues to meet the requirements set out in paragraphs 2 and 3 of
 Article 101 of Directive 2009/138/EC on an ongoing basis, the Commission will review the methods,
 assumptions and standard parameters used when calculating the Solvency Capital Requirement with the standard
@@ -49507,13 +49470,13 @@ long-term infrastructure, the standard parameters for premium and reserve risk s
 parameters for mortality risk, as well as the subset of standard parameters that may be replaced by undertakingspecific parameters referred to in Article 218 and the standardised methods to calculate these parameters referred
 ****** END OF CHUNK ******
 
-****** Chunk 2257: *****
+****** Chunk 2259: *****
 to in Article 220. This review should make use of the experience gained by insurance and insurance undertakings
 during the transitional period and the first years of application of these delegated acts, and be performed before
 December 2018.
 ****** END OF CHUNK ******
 
-****** Chunk 2258: *****
+****** Chunk 2260: *****
 (151) In order to enhance legal certainty about the supervisory regime during the phasing-in period provided for in
 Article 308a of Directive 2009/138/EC, which will start on 1 April 2015, it is important to ensure that this
 Regulation enters into force as soon as possible, on the day after that of its publication in the Official Journal of
@@ -49523,20 +49486,20 @@ the European Union,
 HAS ADOPTED THIS REGULATION:
 ****** END OF CHUNK ******
 
-****** Chunk 2259: *****
+****** Chunk 2261: *****
 **VALUATION AND RISK-BASED CAPTAL REQUIREMENTS (PILLAR I), ENHANCED GOVERNANCE**
 **(PILLAR II) AND INCREASED TRANPARENCY (PILLAR III)**
 ****** END OF CHUNK ******
 
-****** Chunk 2260: *****
+****** Chunk 2262: *****
 **GENERAL PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 2261: *****
+****** Chunk 2263: *****
 _**Definitions and general principles**_
 ****** END OF CHUNK ******
 
-****** Chunk 2262: *****
+****** Chunk 2264: *****
 **Definitions**
 
 
@@ -49565,7 +49528,7 @@ illness, accident, disability or infirmity, or financial compensation for such t
 compensation referred to in point (3)(i);
 ****** END OF CHUNK ******
 
-****** Chunk 2263: *****
+****** Chunk 2265: *****
 4. ‘medical expense insurance obligation’ means an insurance obligation that covers the provision or financial
 compensation referred to in point (3)(i);
 
@@ -49583,7 +49546,7 @@ and occupational disease;
 health insurance obligations;
 ****** END OF CHUNK ******
 
-****** Chunk 2264: *****
+****** Chunk 2266: *****
 7. ‘health reinsurance obligation’ means a reinsurance obligation which arises from accepted reinsurance covering
 health insurance obligations;
 
@@ -49604,7 +49567,7 @@ period regardless of whether such premiums relate in whole or in part to insuran
 in a different time period;
 ****** END OF CHUNK ******
 
-****** Chunk 2265: *****
+****** Chunk 2267: *****
 12. ‘earned premiums’ means the premiums relating to the risk covered by the insurance or reinsurance undertaking
 during a specified time period;
 
@@ -49629,7 +49592,7 @@ non-forfeiture provisions or exercising other discontinuity options or not exerc
 partly terminate, surrender, decrease, restrict or suspend insurance cover or permit the insurance policy to lapse;
 ****** END OF CHUNK ******
 
-****** Chunk 2266: *****
+****** Chunk 2268: *****
 16. ‘continuity options’ mean all legal or contractual policyholder rights which allow that policyholder to fully or partly
 establish, renew, increase, extend or resume insurance or reinsurance cover;
 
@@ -49648,7 +49611,7 @@ position’ means an exposure to a securitisation within the meaning of Article 
 No 575/2013 of the European Parliament and of the Council ( [1] );
 ****** END OF CHUNK ******
 
-****** Chunk 2267: *****
+****** Chunk 2269: *****
 20. ‘resecuritisation position’ means an exposure to a resecuritisation within the meaning of Article 4(1)(63) of
 Regulation (EU) No 575/2013;
 
@@ -49672,7 +49635,7 @@ technique does not correspond to the risk exposure of the insurance or reinsuran
 26. ‘collateral arrangements’ means arrangements under which collateral providers do one of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2268: *****
+****** Chunk 2270: *****
 26. ‘collateral arrangements’ means arrangements under which collateral providers do one of the following:
 
 
@@ -49693,7 +49656,7 @@ identified insurance risks in defined proportions. The parties insured by the me
 are not themselves members of the pooling arrangement.
 ****** END OF CHUNK ******
 
-****** Chunk 2269: *****
+****** Chunk 2271: *****
 29. ‘pool exposure of type A’ means the risk ceded by an insurance or reinsurance undertaking to a pooling
 arrangement where the insurance or reinsurance undertaking is not a party to that pooling arrangement.
 
@@ -49710,7 +49673,7 @@ pooling arrangement to another insurance or reinsurance undertaking which is not
 arrangement.
 ****** END OF CHUNK ******
 
-****** Chunk 2270: *****
+****** Chunk 2272: *****
 32. ‘deep market’ means a market where transactions involving a large quantity of financial instruments can take place
 without significantly affecting the price of the instruments.
 
@@ -49733,7 +49696,7 @@ unit-linked benefits of insurance or reinsurance contracts which have one of the
 (i) the performance of a specified group of contracts or a specified type of contract or a single contract;
 ****** END OF CHUNK ******
 
-****** Chunk 2271: *****
+****** Chunk 2273: *****
 (a) they are legally or contractually based on one or more of the following results:
 
 
@@ -49751,7 +49714,7 @@ reinsurance undertaking;
 the benefits is at its full or partial discretion;
 ****** END OF CHUNK ******
 
-****** Chunk 2272: *****
+****** Chunk 2274: *****
 (b) they are based on a declaration of the insurance or reinsurance undertaking and the timing or the amount of
 the benefits is at its full or partial discretion;
 
@@ -49766,7 +49729,7 @@ or a transitional adjustment to the relevant risk-free rate structure in accorda
 adjustment is applied and the assigned portfolio of assets as referred to in Article 77b(1)(a) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2273: *****
+****** Chunk 2275: *****
 38. ‘SLT Health obligations’ means health insurance obligations that are assigned to the lines of business for life
 insurance obligations in accordance with Article 55(1).
 
@@ -49781,7 +49744,7 @@ alternative investment fund (AIF) as defined in Article 4(1)(a) of Directive 201
 and of the Council ( [2] );
 ****** END OF CHUNK ******
 
-****** Chunk 2274: *****
+****** Chunk 2276: *****
 41. in relation to an insurance or reinsurance undertaking, ‘major business unit’ means a defined segment of the
 insurance and reinsurance undertaking that operates independently from other parts of the undertaking and has
 dedicated governance resources and procedures within the undertaking and which contains risks that are material in
@@ -49794,7 +49757,7 @@ within the group and which contains risks that are material in relation to the e
 entity belonging to the group is a major business unit or consists of several major business units;
 ****** END OF CHUNK ******
 
-****** Chunk 2275: *****
+****** Chunk 2277: *****
 ( [1] ) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and
 administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)(OJ L 302, 17.11.2009,
 p. 32).
@@ -49808,7 +49771,7 @@ supervisory body or both of those bodies as specified in the relevant national l
 specified in the relevant national legislation, the management body;
 ****** END OF CHUNK ******
 
-****** Chunk 2276: *****
+****** Chunk 2278: *****
 44. ‘aggregate maximum risk exposure’ means the sum of the maximum payments, including expenses that the special
 purpose vehicles may incur, excluding expenses that meet all of the following criteria:
 
@@ -49827,7 +49790,7 @@ include the expense as an amount recoverable from the special purpose vehicle in
 this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2277: *****
+****** Chunk 2279: *****
 45. ‘existing insurance or reinsurance contract’ means an insurance or reinsurance contract for which insurance or
 reinsurance obligations have been recognised;
 
@@ -49845,7 +49808,7 @@ discontinue the policy.
 48. ‘subsidiary undertaking’ means any subsidiary undertaking within the meaning of Article 22(1) and (2) of Directive/EU, including subsidiaries thereof;
 ****** END OF CHUNK ******
 
-****** Chunk 2278: *****
+****** Chunk 2280: *****
 48. ‘subsidiary undertaking’ means any subsidiary undertaking within the meaning of Article 22(1) and (2) of Directive/EU, including subsidiaries thereof;
 
 
@@ -49860,7 +49823,7 @@ European Parliament and of the Council ( [1] );
 51. ‘non-regulated undertaking’ means any undertaking other than those listed in Article 2(4) of Directive 2002/87/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 2279: *****
+****** Chunk 2281: *****
 51. ‘non-regulated undertaking’ means any undertaking other than those listed in Article 2(4) of Directive 2002/87/EC;
 
 
@@ -49874,7 +49837,7 @@ owning or managing property, managing data-processing services, health and care 
 activity which is ancillary to the principal activity of one or more insurance or reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2280: *****
+****** Chunk 2282: *****
 54. ‘UCITS management company’ means a management company within the meaning of Article 2(1)(b) of Directive/EC or an investment company authorised pursuant to Article 27 of that Directive provided that it has not
 designated a management company pursuant to that Directive;
 
@@ -49891,7 +49854,7 @@ authorities which would require authorisation as an insurance undertaking in acc
 Directive 2009/138/EC if its head office were situated in the Union;
 ****** END OF CHUNK ******
 
-****** Chunk 2281: *****
+****** Chunk 2283: *****
 ( [1] ) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit
 institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC,/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament
 and of the Council (OJ L 35, 11.2.2003, p. 1).
@@ -49902,7 +49865,7 @@ occupational retirement provision (OJ L 235, 23.9.2003, p. 10).
 --- Page 24 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2282: *****
+****** Chunk 2284: *****
 occupational retirement provision (OJ L 235, 23.9.2003, p. 10).
 --- Page 24 ---
 58. ‘domestic reinsurance undertaking’ means an undertaking authorised and supervised by third-country supervisory
@@ -49910,7 +49873,7 @@ authorities which would require authorisation as a reinsurance undertaking in ac
 Directive 2009/138/EC if its head offices were situated in the Union.
 ****** END OF CHUNK ******
 
-****** Chunk 2283: *****
+****** Chunk 2285: *****
 **Expert judgement**
 
 
@@ -49926,11 +49889,11 @@ limitations. For that purpose, service providers to whom functions or activities
 to be internal users.
 ****** END OF CHUNK ******
 
-****** Chunk 2284: *****
+****** Chunk 2286: *****
 _**External credit assessments**_
 ****** END OF CHUNK ******
 
-****** Chunk 2285: *****
+****** Chunk 2287: *****
 **Association of credit assessments to credit quality steps**
 
 
@@ -49938,7 +49901,7 @@ The scale of credit quality steps referred to in Article 109a(1) of Directive 20
 steps 0 to 6.
 ****** END OF CHUNK ******
 
-****** Chunk 2286: *****
+****** Chunk 2288: *****
 **General requirements on the use of credit assessments**
 
 
@@ -49959,7 +49922,7 @@ Solvency Capital Requirement according to the standard formula.
 requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 2287: *****
+****** Chunk 2289: *****
 4. When using credit assessments, insurance and reinsurance undertakings shall comply with all of the following
 requirements:
 
@@ -49980,7 +49943,7 @@ amounts of principal and interest owed to it;
 be used to determine the capital requirements for that item;
 ****** END OF CHUNK ******
 
-****** Chunk 2288: *****
+****** Chunk 2290: *****
 (d) where only one credit assessment is available from a nominated ECAI for a rated item, that credit assessment shall
 be used to determine the capital requirements for that item;
 
@@ -49998,7 +49961,7 @@ capital requirements are the same, the assessment generating that capital requir
 (g) where available, insurance and reinsurance undertakings shall use both solicited and unsolicited credit assessments.
 ****** END OF CHUNK ******
 
-****** Chunk 2289: *****
+****** Chunk 2291: *****
 (g) where available, insurance and reinsurance undertakings shall use both solicited and unsolicited credit assessments.
 
 
@@ -50012,12 +49975,12 @@ one generated by the credit assessments available from nominated ECAIs, then the
 not be taken into account for the purposes of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2290: *****
+****** Chunk 2292: *****
 6. For the purposes of paragraph 5, the larger or more complex exposures of an undertaking shall include type 2
 securitisation positions as referred to in Article 177(3) and resecuritisation positions.
 ****** END OF CHUNK ******
 
-****** Chunk 2291: *****
+****** Chunk 2293: *****
 **Issuers and issue credit assessment**
 
 
@@ -50035,7 +49998,7 @@ ranks _pari passu_ or junior in all respects to the specific issuing program or 
 of that issuer, as relevant;
 ****** END OF CHUNK ******
 
-****** Chunk 2292: *****
+****** Chunk 2294: *****
 (b) it produces the same or lower capital requirement than would otherwise be the case and the exposure in question
 ranks _pari passu_ or senior in all respects to the specific issuing program or facility or to senior unsecured exposures
 of that issuer, as relevant.
@@ -50049,7 +50012,7 @@ ECAI available for the exposure.
 issuer within the same corporate group.
 ****** END OF CHUNK ******
 
-****** Chunk 2293: *****
+****** Chunk 2295: *****
 **Double credit rating for securitisation positions**
 
 
@@ -50058,11 +50021,11 @@ securitisation position, that credit assessment shall not be used. The capital r
 as if no credit assessment by a nominated ECAI is available.
 ****** END OF CHUNK ******
 
-****** Chunk 2294: *****
+****** Chunk 2296: *****
 **VALUATION OF ASSETS AND LIABILITIES**
 ****** END OF CHUNK ******
 
-****** Chunk 2295: *****
+****** Chunk 2297: *****
 **Valuation assumptions**
 
 
@@ -50070,7 +50033,7 @@ Insurance and reinsurance undertakings shall value assets and liabilities based 
 will pursue its business as a going concern.
 ****** END OF CHUNK ******
 
-****** Chunk 2296: *****
+****** Chunk 2298: *****
 **Scope**
 
 
@@ -50078,7 +50041,7 @@ Articles 9 to 16 shall apply to the recognition and valuation of assets and liab
 --- Page 26 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2297: *****
+****** Chunk 2299: *****
 **Valuation methodology — general principles**
 
 
@@ -50092,7 +50055,7 @@ standards include valuation methods that are consistent with the valuation appro
 undertakings shall only use valuation methods that are consistent with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2298: *****
+****** Chunk 2300: *****
 3. Where the valuation methods included in international accounting standards adopted by the Commission in
 accordance with Regulation (EC) No 1606/2002 are not consistent either temporarily or permanently with the valuation
 approach set out in Article 75 of Directive 2009/138/EC, insurance and reinsurance undertakings shall use other
@@ -50108,7 +50071,7 @@ financial statements provided that:
 (a) the valuation method is consistent with Article 75 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 2299: *****
+****** Chunk 2301: *****
 (a) the valuation method is consistent with Article 75 of Directive 2009/138/EC;
 
 
@@ -50130,7 +50093,7 @@ would be disproportionate with respect to the total administrative expenses.
 6. Insurance and reinsurance undertakings shall value individual liabilities separately.
 ****** END OF CHUNK ******
 
-****** Chunk 2300: *****
+****** Chunk 2302: *****
 **Valuation methodology — valuation hierarchy**
 
 
@@ -50145,7 +50108,7 @@ sale or use of the asset.
 quoted market prices in active markets for the same assets or liabilities.
 ****** END OF CHUNK ******
 
-****** Chunk 2301: *****
+****** Chunk 2303: *****
 2. As the default valuation method insurance and reinsurance undertakings shall value assets and liabilities using
 quoted market prices in active markets for the same assets or liabilities.
 
@@ -50165,7 +50128,7 @@ liability including all of the following:
 (c) the volume or level of activity in the markets within which the inputs are observed.
 ****** END OF CHUNK ******
 
-****** Chunk 2302: *****
+****** Chunk 2304: *****
 (b) the extent to which inputs relate to items that are comparable to the asset or liability; and
 
 
@@ -50187,7 +50150,7 @@ on undertaking-specific inputs and make maximum use of relevant market inputs in
 (a) quoted prices for identical or similar assets or liabilities in markets that are not active;
 ****** END OF CHUNK ******
 
-****** Chunk 2303: *****
+****** Chunk 2305: *****
 (a) quoted prices for identical or similar assets or liabilities in markets that are not active;
 
 
@@ -50202,7 +50165,7 @@ market data.
 All those markets inputs shall be adjusted for the factors referred to in paragraph 3.
 ****** END OF CHUNK ******
 
-****** Chunk 2304: *****
+****** Chunk 2306: *****
 All those markets inputs shall be adjusted for the factors referred to in paragraph 3.
 
 
@@ -50214,7 +50177,7 @@ information indicates that other market participants would use different data or
 undertaking that is not available to other market participants.
 ****** END OF CHUNK ******
 
-****** Chunk 2305: *****
+****** Chunk 2307: *****
 When assessing the assumptions about risk referred to in this paragraph undertakings shall take into account the risk
 inherent in the specific valuation technique used to measure fair value and the risk inherent in the inputs of that
 valuation technique.
@@ -50229,7 +50192,7 @@ identical or similar assets, liabilities or group of assets and liabilities. Val
 approach include matrix pricing.
 ****** END OF CHUNK ******
 
-****** Chunk 2306: *****
+****** Chunk 2308: *****
 (b) income approach, which converts future amounts, such as cash flows or income or expenses, to a single current
 amount. The fair value shall reflect current market expectations about those future amounts. Valuation techniques
 consistent with the income approach include present value techniques, option pricing models and the multi-period
@@ -50242,7 +50205,7 @@ for the asset is based on the cost to a market participant buyer to acquire or c
 comparable quality adjusted for obsolescence.
 ****** END OF CHUNK ******
 
-****** Chunk 2307: *****
+****** Chunk 2309: *****
 **Recognition of contingent liabilities**
 
 
@@ -50255,7 +50218,7 @@ liabilities could influence the decision-making or judgement of the intended use
 supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 2308: *****
+****** Chunk 2310: *****
 **Valuation methods for goodwill and intangible assets**
 
 
@@ -50271,7 +50234,7 @@ accordance with Article 10(2), in which case the asset shall be valued in accord
 --- Page 28 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2309: *****
+****** Chunk 2311: *****
 **Valuation methods for related undertakings**
 
 
@@ -50297,7 +50260,7 @@ accordance with Article 10(5) of this Regulation provided that all of the follow
 (ii) the undertaking is not a subsidiary undertaking, as defined in Article 212(2) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2310: *****
+****** Chunk 2312: *****
 (i) neither valuation in accordance with point (a) nor point (b) is possible;
 
 
@@ -50322,14 +50285,14 @@ value its holdings in related undertakings based on the share of the excess of a
 undertaking held by the participating undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2311: *****
+****** Chunk 2313: *****
 4. When calculating the excess of assets over liabilities for related undertakings, the participating undertaking shall
 value the undertaking's individual assets and liabilities in accordance with Articles 75 of Directive 2009/138/EC and,
 where the related undertaking is an insurance or reinsurance undertaking or a special purpose vehicle referred to in
 Article 211 of that Directive, technical provisions in accordance Articles 76 to 85 of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 2312: *****
+****** Chunk 2314: *****
 5. When calculating the excess of assets over liabilities for related undertakings other than insurance or reinsurance
 undertakings, the participating undertaking may consider the equity method as prescribed in international accounting
 standards adopted by the Commission in accordance with Regulation (EC) No 1606/2002 to be consistent with
@@ -50339,7 +50302,7 @@ value of goodwill and other intangible assets that would be valued at zero in ac
 Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2313: *****
+****** Chunk 2315: *****
 6. Where the criteria referred to in Article 9(4) of this Regulation are satisfied, and where the use of the valuation
 methods referred to in paragraphs (a) and (b) is not possible, holdings in related undertakings may be valued based on
 the valuation method the insurance or reinsurance undertakings uses for preparing its annual or consolidated financial
@@ -50347,7 +50310,7 @@ statements. In such cases, the participating undertaking shall deduct from the v
 of goodwill and other intangible assets that would be valued at zero in accordance with Article 12(2) of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2314: *****
+****** Chunk 2316: *****
 **Valuation methods for specific liabilities**
 
 
@@ -50364,7 +50327,7 @@ rate term structure.
 --- Page 29 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2315: *****
+****** Chunk 2317: *****
 **Deferred taxes**
 
 
@@ -50379,14 +50342,14 @@ Article 75 of Directive 2009/138/EC and in the case of technical provisions in a
 Directive and the values ascribed to assets and liabilities as recognised and valued for tax purposes.
 ****** END OF CHUNK ******
 
-****** Chunk 2316: *****
+****** Chunk 2318: *****
 3. Insurance and reinsurance undertaking shall only ascribe a positive value to deferred tax assets where it is probable
 that future taxable profit will be available against which the deferred tax asset can be utilised, taking into account any
 legal or regulatory requirements on the time limits relating to the carryforward of unused tax losses or the carryforward
 of unused tax credits.
 ****** END OF CHUNK ******
 
-****** Chunk 2317: *****
+****** Chunk 2319: *****
 **Exclusion of valuation methods**
 
 
@@ -50409,7 +50372,7 @@ following when valuing assets and liabilities in a lease arrangement:
 (a) lease assets shall be valued at fair value;
 ****** END OF CHUNK ******
 
-****** Chunk 2318: *****
+****** Chunk 2320: *****
 (a) lease assets shall be valued at fair value;
 
 
@@ -50429,7 +50392,7 @@ of the balance sheet, including the supervisory authorities. Valuation at cost s
 6. Insurance and reinsurance undertakings shall not value non-monetary grants at a nominal amount.
 ****** END OF CHUNK ******
 
-****** Chunk 2319: *****
+****** Chunk 2321: *****
 6. Insurance and reinsurance undertakings shall not value non-monetary grants at a nominal amount.
 
 
@@ -50437,15 +50400,15 @@ of the balance sheet, including the supervisory authorities. Valuation at cost s
 estimated costs to sell if the estimated costs to sell are material.
 ****** END OF CHUNK ******
 
-****** Chunk 2320: *****
+****** Chunk 2322: *****
 **RULES RELATING TO TECHNICAL PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 2321: *****
+****** Chunk 2323: *****
 _**General provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2322: *****
+****** Chunk 2324: *****
 **Recognition and derecognition of insurance and reinsurance obligations**
 
 
@@ -50458,7 +50421,7 @@ Insurance and reinsurance undertakings shall derecognise an insurance or reinsur
 extinguished, discharged, cancelled or expires.
 ****** END OF CHUNK ******
 
-****** Chunk 2323: *****
+****** Chunk 2325: *****
 **Boundary of an insurance or reinsurance contract**
 
 
@@ -50482,7 +50445,7 @@ obligations:
 under the contract;
 ****** END OF CHUNK ******
 
-****** Chunk 2324: *****
+****** Chunk 2326: *****
 (b) the future date where the insurance or reinsurance undertaking has a unilateral right to reject premiums payable
 under the contract;
 
@@ -50496,7 +50459,7 @@ future date the premiums or benefits of a portfolio of insurance or reinsurance 
 premiums of the portfolio fully reflect the risks covered by the portfolio.
 ****** END OF CHUNK ******
 
-****** Chunk 2325: *****
+****** Chunk 2327: *****
 However, in the case of life insurance obligations where an individual risk assessment of the obligations relating to the
 insured person of the contract is carried out at the inception of the contract and that assessment cannot be repeated
 before amending the premiums or benefits, insurance and reinsurance undertakings shall assess at the level of the
@@ -50512,7 +50475,7 @@ have no discernible effect on the economics of the contract.
 relates to a part of the contract, the same principles as defined in paragraph 3 shall apply to that part of the contract.
 ****** END OF CHUNK ******
 
-****** Chunk 2326: *****
+****** Chunk 2328: *****
 5. Obligations that do not relate to premiums which have already been paid do not belong to an insurance or
 reinsurance contract, unless the undertaking can compel the policyholder to pay the future premium, and where all of
 the following requirements are met:
@@ -50528,7 +50491,7 @@ For the purpose of points (a) and (b), insurance and reinsurance undertakings sh
 events and guarantees that have no discernible effect on the economics of the contract.
 ****** END OF CHUNK ******
 
-****** Chunk 2327: *****
+****** Chunk 2329: *****
 6. Where an insurance or reinsurance contract can be unbundled into two parts and where one of those parts meets
 the requirements set out in points (a) and (b) of paragraph 5, any obligations that do not relate to the premiums of that
 part and which have already been paid do not belong to the contract, unless the undertaking can compel the
@@ -50542,11 +50505,11 @@ payable under the portfolio.
 --- Page 31 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2328: *****
+****** Chunk 2330: *****
 _**Data quality**_
 ****** END OF CHUNK ******
 
-****** Chunk 2329: *****
+****** Chunk 2331: *****
 **Data used in the calculation of technical provisions**
 
 
@@ -50573,7 +50536,7 @@ Article 82 of Directive 2009/138/EC where all of the following conditions are me
 (b) data from different time periods used for the same estimation are consistent;
 ****** END OF CHUNK ******
 
-****** Chunk 2330: *****
+****** Chunk 2332: *****
 (a) the data are free from material errors;
 
 
@@ -50598,7 +50561,7 @@ the basis of the data do not include a material estimation error;
 them in the calculation of the technical provisions;
 ****** END OF CHUNK ******
 
-****** Chunk 2331: *****
+****** Chunk 2333: *****
 (c) the data are consistent with the assumptions underlying the actuarial and statistical techniques that are applied to
 them in the calculation of the technical provisions;
 
@@ -50622,7 +50585,7 @@ qualitative and quantitative standards for different data sets;
 additional updates;
 ****** END OF CHUNK ******
 
-****** Chunk 2332: *****
+****** Chunk 2334: *****
 (iii) the process for carrying out data updates, including the frequency of updates and the circumstances that trigger
 additional updates;
 
@@ -50644,7 +50607,7 @@ fulfilling the requirements set out in paragraphs 1 to 4, all of the following r
 of data which are exclusively available from an internal source;
 ****** END OF CHUNK ******
 
-****** Chunk 2333: *****
+****** Chunk 2335: *****
 (a) insurance or reinsurance undertakings are able to demonstrate that the use of that data is more suitable than the use
 of data which are exclusively available from an internal source;
 
@@ -50661,7 +50624,7 @@ in points (b) and (c) reflect the characteristics of the insurance or reinsuranc
 and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2334: *****
+****** Chunk 2336: *****
 **Limitations of data**
 
 
@@ -50671,7 +50634,7 @@ functions within the system of governance of the insurance or reinsurance undert
 data, before adjustments to remedy limitations are made to it, shall be recorded and stored appropriately.
 ****** END OF CHUNK ******
 
-****** Chunk 2335: *****
+****** Chunk 2337: *****
 **Appropriate use of approximations to calculate the best estimate**
 
 
@@ -50690,15 +50653,15 @@ validating data used for the valuation of technical provisions;
 (c) it would not be practicable for the undertaking to adjust the data to remedy the insufficiency.
 ****** END OF CHUNK ******
 
-****** Chunk 2336: *****
+****** Chunk 2338: *****
 _**Methodologies to calculate technical provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2337: *****
+****** Chunk 2339: *****
 **Assumptions underlying the calculation of technical provisions**
 ****** END OF CHUNK ******
 
-****** Chunk 2338: *****
+****** Chunk 2340: *****
 **General provisions**
 
 
@@ -50723,7 +50686,7 @@ the portfolio;
 groups and lines of business, without arbitrary changes;
 ****** END OF CHUNK ******
 
-****** Chunk 2339: *****
+****** Chunk 2341: *****
 (d) insurance and reinsurance undertakings use the assumptions consistently over time and within homogeneous risk
 groups and lines of business, without arbitrary changes;
 
@@ -50738,7 +50701,7 @@ undertaking or where the calculation of technical provisions in a prudent, relia
 that information is not possible.
 ****** END OF CHUNK ******
 
-****** Chunk 2340: *****
+****** Chunk 2342: *****
 2. Assumptions shall only be used for the purpose of Article 77(3) of Directive 2009/138/EC where they comply
 with paragraph 1 of this Article.
 --- Page 33 ---
@@ -50758,7 +50721,7 @@ following requirements:
 used to calculate the best estimate as referred to in Article 77(2) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2341: *****
+****** Chunk 2343: *****
 **Future management actions**
 
 
@@ -50782,7 +50745,7 @@ changed practices or strategy;
 to legal requirements applicable to the undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2342: *****
+****** Chunk 2344: *****
 (d) assumed future management actions are not contrary to any obligations towards policy holders and beneficiaries or
 to legal requirements applicable to the undertaking;
 
@@ -50806,7 +50769,7 @@ best estimate;
 technical provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2343: *****
+****** Chunk 2345: *****
 (iii) an assessment of the impact of changes in the assumptions on future management actions on the value of the
 technical provisions.
 
@@ -50825,7 +50788,7 @@ reinsurance undertaking, which provides for all of the following:
 (a) the identification of future management actions that are relevant to the valuation of the technical provisions;
 ****** END OF CHUNK ******
 
-****** Chunk 2344: *****
+****** Chunk 2346: *****
 (a) the identification of future management actions that are relevant to the valuation of the technical provisions;
 
 
@@ -50842,7 +50805,7 @@ circumstances are considered in the calculation of technical provisions;
 requirements applicable to those future management actions;
 ****** END OF CHUNK ******
 
-****** Chunk 2345: *****
+****** Chunk 2347: *****
 (d) the order in which future management actions referred to in point (a) would be carried out and the governance
 requirements applicable to those future management actions;
 
@@ -50862,7 +50825,7 @@ point (a) included in the calculation of the best estimate;
 management actions and any expenses caused by them.
 ****** END OF CHUNK ******
 
-****** Chunk 2346: *****
+****** Chunk 2348: *****
 4. Assumptions about future management actions shall take account of the time needed to implement the
 management actions and any expenses caused by them.
 
@@ -50872,7 +50835,7 @@ Article 41(1) of Directive 2009/138/EC where the reporting procedures referred t
 Article include at least an annual communication to the administrative, supervisory or management body.
 ****** END OF CHUNK ******
 
-****** Chunk 2347: *****
+****** Chunk 2349: *****
 **Future discretionary benefits**
 
 
@@ -50884,7 +50847,7 @@ volatility adjustment, or a transitional measure on the risk-free rate, and the 
 Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2348: *****
+****** Chunk 2350: *****
 **Separate calculation of the future discretionary benefits**
 
 
@@ -50892,7 +50855,7 @@ When calculating technical provisions, insurance and reinsurance undertakings sh
 future discretionary benefits.
 ****** END OF CHUNK ******
 
-****** Chunk 2349: *****
+****** Chunk 2351: *****
 **Policyholder behaviour**
 
 
@@ -50918,11 +50881,11 @@ The likelihood shall only be considered to be independent of the elements referr
 empirical evidence to support such an assumption.
 ****** END OF CHUNK ******
 
-****** Chunk 2350: *****
+****** Chunk 2352: *****
 **Information underlying the calculation of best estimates**
 ****** END OF CHUNK ******
 
-****** Chunk 2351: *****
+****** Chunk 2353: *****
 **Credibility of information**
 
 
@@ -50933,11 +50896,11 @@ the way in which the information is generated and processed.
 --- Page 35 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2352: *****
+****** Chunk 2354: *****
 **Cash f low projections for the calculation of the best estimate**
 ****** END OF CHUNK ******
 
-****** Chunk 2353: *****
+****** Chunk 2355: *****
 **Cash flows**
 
 
@@ -50966,7 +50929,7 @@ obligations;
 index-linked and unit-linked benefits;
 ****** END OF CHUNK ******
 
-****** Chunk 2354: *****
+****** Chunk 2356: *****
 (f) payments between the insurance or reinsurance undertaking and investment firms in relation to contracts with
 index-linked and unit-linked benefits;
 
@@ -50980,7 +50943,7 @@ accordance with international accounting standards, as endorsed by the Commissio
 or reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2355: *****
+****** Chunk 2357: *****
 **Expected future developments in the external environment**
 
 
@@ -50990,7 +50953,7 @@ thereof. For that purpose future developments shall include demographic, legal, 
 mental and economic developments including inflation as referred to in point (2) of Article 78 of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2356: *****
+****** Chunk 2358: *****
 **Uncertainty of cash flows**
 
 
@@ -51021,7 +50984,7 @@ claims;
 --- Page 36 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2357: *****
+****** Chunk 2359: *****
 **Expenses**
 
 
@@ -51054,7 +51017,7 @@ parts of the best estimate to which they relate.
 calculation of the best estimate.
 ****** END OF CHUNK ******
 
-****** Chunk 2358: *****
+****** Chunk 2360: *****
 3. Expenses in respect of reinsurance contracts and special purpose vehicles shall be taken into account in the gross
 calculation of the best estimate.
 
@@ -51062,7 +51025,7 @@ calculation of the best estimate.
 4. Expenses shall be projected on the assumption that the undertaking will write new business in the future.
 ****** END OF CHUNK ******
 
-****** Chunk 2359: *****
+****** Chunk 2361: *****
 **Contractual options and financial guarantees**
 
 
@@ -51076,14 +51039,14 @@ When calculating the best estimate, insurance and reinsurance undertakings shall
 financial guarantees.
 ****** END OF CHUNK ******
 
-****** Chunk 2360: *****
+****** Chunk 2362: *****
 **Currency of the obligation**
 
 
 The best estimate shall be calculated separately for cash flows in different currencies.
 ****** END OF CHUNK ******
 
-****** Chunk 2361: *****
+****** Chunk 2363: *****
 **Calculation methods**
 
 
@@ -51102,7 +51065,7 @@ that the grouping of policies creates homogeneous risk groups that appropriately
 policies included in those groups.
 ****** END OF CHUNK ******
 
-****** Chunk 2362: *****
+****** Chunk 2364: *****
 4. Insurance and reinsurance undertakings shall analyse the extent to which the present value of cash flows depend
 both on the expected outcome of future events and developments and on how the actual outcome in certain scenarios
 could deviate from the expected outcome.
@@ -51114,7 +51077,7 @@ such dependencies.
 --- Page 37 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2363: *****
+****** Chunk 2365: *****
 **Homogeneous risk groups of life insurance obligations**
 
 
@@ -51136,7 +51099,7 @@ calculation on a per policy basis, in particular in relation to financial guaran
 the policies.
 ****** END OF CHUNK ******
 
-****** Chunk 2364: *****
+****** Chunk 2366: *****
 **Non-life insurance obligations**
 
 
@@ -51157,11 +51120,11 @@ the claims arising from those events have been reported or not.
 and premiums relating to the events referred to in paragraph 3.
 ****** END OF CHUNK ******
 
-****** Chunk 2365: *****
+****** Chunk 2367: *****
 **Risk margin**
 ****** END OF CHUNK ******
 
-****** Chunk 2366: *****
+****** Chunk 2368: *****
 **Calculation of the risk margin**
 
 
@@ -51205,7 +51168,7 @@ The basic risk-free interest rate r(t + 1) shall be chosen in accordance with th
 of the insurance and reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2367: *****
+****** Chunk 2369: *****
 2. Where insurance and reinsurance undertakings calculate their Solvency Capital Requirement using an approved
 internal model and determine that the model is appropriate to calculate the Solvency Capital Requirement referred to in
 Article 38(2) for each point in time over the lifetime of the insurance and reinsurance obligations, the insurance and
@@ -51217,7 +51180,7 @@ adequately reflect the contributions of the lines of business to the Solvency Ca
 Article 38(2) over the lifetime of the whole portfolio of insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2368: *****
+****** Chunk 2370: *****
 **Reference undertaking**
 
 
@@ -51236,7 +51199,7 @@ insurance activities and non-life reinsurance obligations are taken over separat
 undertakings;
 ****** END OF CHUNK ******
 
-****** Chunk 2369: *****
+****** Chunk 2371: *****
 (c) the transfer of insurance and reinsurance obligations includes any reinsurance contracts and arrangements with
 special purpose vehicles relating to these obligations;
 
@@ -51257,7 +51220,7 @@ and of the technical provisions net of the amounts recoverable from reinsurance 
 vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2370: *****
+****** Chunk 2372: *****
 (h) the assets are selected in such a way that they minimise the Solvency Capital Requirement for market risk that the
 reference undertaking is exposed to;
 
@@ -51284,7 +51247,7 @@ reference undertaking corresponds for each risk to the loss-absorbing capacity o
 undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2371: *****
+****** Chunk 2373: *****
 (k) there is no loss-absorbing capacity of deferred taxes as referred to in Article 108 of Directive 2009/138/EC for the
 reference undertaking;
 
@@ -51298,25 +51261,25 @@ support the insurance and reinsurance obligations referred to in the first subpa
 assumptions set out in paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 2372: *****
+****** Chunk 2374: *****
 3. For the purposes of point (i) of paragraph 1, a risk shall be considered to be material where its impact on the
 calculation of the risk margin could influence the decision-making or the judgment of the users of that information,
 including supervisory authorities.
 --- Page 39 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2373: *****
+****** Chunk 2375: *****
 **Cost-of-Capital rate**
 
 
 The Cost-of-Capital rate referred to in Article 77(5) of Directive 2009/138/EC shall be assumed to be equal to 6 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2374: *****
+****** Chunk 2376: *****
 **Calculation of technical provisions as a whole**
 ****** END OF CHUNK ******
 
-****** Chunk 2375: *****
+****** Chunk 2377: *****
 **Circumstances in which technical provisions shall be calculated as a whole and the method to be used**
 
 
@@ -51334,7 +51297,7 @@ associated with insurance or reinsurance obligations cannot be reliably replicat
 will exercise contractual options, including lapses and surrenders;
 ****** END OF CHUNK ******
 
-****** Chunk 2376: *****
+****** Chunk 2378: *****
 (a) cash flows associated with insurance or reinsurance obligations that depend on the likelihood that policy holders
 will exercise contractual options, including lapses and surrenders;
 
@@ -51355,11 +51318,11 @@ markets shall also comply with Article 10(4).
 market price of the financial instruments used in the replication.
 ****** END OF CHUNK ******
 
-****** Chunk 2377: *****
+****** Chunk 2379: *****
 **Recoverables from reinsurance contracts and special purpose vehicles**
 ****** END OF CHUNK ******
 
-****** Chunk 2378: *****
+****** Chunk 2380: *****
 **General provisions**
 
 
@@ -51373,7 +51336,7 @@ shall each be calculated separately. The amounts recoverable from a special purp
 aggregate maximum risk exposure of that special purpose vehicle to the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2379: *****
+****** Chunk 2381: *****
 3. For the purpose of calculating the amounts recoverable from reinsurance contracts and special purpose vehicles,
 cash flows shall only include payments in relation to compensation of insurance events and unsettled insurance claims.
 Payments in relation to other events or settled insurance claims shall be accounted for outside the amounts recoverable
@@ -51387,7 +51350,7 @@ obligations shall be calculated separately for premium provisions and provisions
 manner:
 ****** END OF CHUNK ******
 
-****** Chunk 2380: *****
+****** Chunk 2382: *****
 manner:
 
 
@@ -51406,7 +51369,7 @@ prudent, reliable and objective manner that the structural mismatch between clai
 material.
 ****** END OF CHUNK ******
 
-****** Chunk 2381: *****
+****** Chunk 2383: *****
 **Counterparty default adjustment**
 
 
@@ -51414,7 +51377,7 @@ material.
 Directive 2009/138/EC shall be calculated separately from the rest of the amounts recoverable.
 ****** END OF CHUNK ******
 
-****** Chunk 2382: *****
+****** Chunk 2384: *****
 2. The adjustment to take account of expected losses due to default of a counterparty shall be calculated as the
 expected present value of the change in cash flows underlying the amounts recoverable from that counterparty, that
 would arise if the counterparty defaults, including as a result of insolvency or dispute, at a certain point in time. For that
@@ -51424,7 +51387,7 @@ techniques that are not taken into account shall be separately recognised withou
 from reinsurance contracts and special purpose vehicles.
 ****** END OF CHUNK ******
 
-****** Chunk 2383: *****
+****** Chunk 2385: *****
 3. The calculation referred to in paragraph 2 shall take into account possible default events over the lifetime of the
 reinsurance contract or arrangement with the special purpose vehicle and whether and how the probability of default
 varies over time. It shall be carried out separately by each counterparty and for each line of business. In non-life
@@ -51440,15 +51403,15 @@ paragraph 1, unless there is a reliable basis for another assessment.
 the assets held by the special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 2384: *****
+****** Chunk 2386: *****
 _**Relevant risk-free interest rate term structure**_
 ****** END OF CHUNK ******
 
-****** Chunk 2385: *****
+****** Chunk 2387: *****
 **General provisions**
 ****** END OF CHUNK ******
 
-****** Chunk 2386: *****
+****** Chunk 2388: *****
 **General provisions**
 
 
@@ -51468,11 +51431,11 @@ transparent, prudent, reliable and objective manner that is consistent over time
 --- Page 41 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2387: *****
+****** Chunk 2389: *****
 **Basic risk free interest rate term structure**
 ****** END OF CHUNK ******
 
-****** Chunk 2388: *****
+****** Chunk 2390: *****
 **Relevant financial instruments to derive the basic risk-free interest rates**
 
 
@@ -51486,7 +51449,7 @@ the government bonds, shall be used to derive the basic risk free-interest rates
 rates are available from deep, liquid and transparent financial markets.
 ****** END OF CHUNK ******
 
-****** Chunk 2389: *****
+****** Chunk 2391: *****
 **Adjustment to swap rates for credit risk**
 
 
@@ -51498,7 +51461,7 @@ adjustment shall be based on 50 percent of the average of that difference over a
 shall not be lower than 10 basis points and not higher than 35 basis points.
 ****** END OF CHUNK ******
 
-****** Chunk 2390: *****
+****** Chunk 2392: *****
 **Extrapolation**
 
 
@@ -51517,7 +51480,7 @@ shall be based on the risk-free interest rates without a matching adjustment. Th
 Article shall be applied to the extrapolated risk-free interest rates.
 ****** END OF CHUNK ******
 
-****** Chunk 2391: *****
+****** Chunk 2393: *****
 **Ultimate forward rate**
 
 
@@ -51533,7 +51496,7 @@ ultimate forward rate shall not include a term premium to reflect the additional
 --- Page 42 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2392: *****
+****** Chunk 2394: *****
 **Basic risk-free interest rate term structure of currencies pegged to the euro**
 
 
@@ -51550,7 +51513,7 @@ that currency, provided that all of the following conditions are met:
 rates for the euro and that currency develop in a similar way;
 ****** END OF CHUNK ******
 
-****** Chunk 2393: *****
+****** Chunk 2395: *****
 (b) the economic situation of the euro area and the area of that currency are sufficiently similar to ensure that interest
 rates for the euro and that currency develop in a similar way;
 
@@ -51578,7 +51541,7 @@ For the purpose of point (c), the financial resources of the parties that guaran
 account.
 ****** END OF CHUNK ******
 
-****** Chunk 2394: *****
+****** Chunk 2396: *****
 For the purpose of point (c), the financial resources of the parties that guarantee the pegging shall be taken into
 account.
 
@@ -51589,11 +51552,11 @@ the exchange rate between the euro and the pegged currency. The adjustment shall
 reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2395: *****
+****** Chunk 2397: *****
 **Volatility adjustment**
 ****** END OF CHUNK ******
 
-****** Chunk 2396: *****
+****** Chunk 2398: *****
 **Reference portfolios**
 
 
@@ -51611,7 +51574,7 @@ portfolio where that market is expected to comply with the criteria again within
 3. For each currency and each country, the reference portfolio of assets shall meet all of the following requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 2397: *****
+****** Chunk 2399: *****
 3. For each currency and each country, the reference portfolio of assets shall meet all of the following requirements:
 
 
@@ -51635,7 +51598,7 @@ criteria exist for when and how the constituents of those indices will be change
 — equity
 ****** END OF CHUNK ******
 
-****** Chunk 2398: *****
+****** Chunk 2400: *****
 (c) the portfolio of assets includes all of the following assets:
 
 
@@ -51651,7 +51614,7 @@ For the purposes of points (a) and (b), investments of insurance and reinsurance
 undertakings and other investments packaged as funds shall be treated as investments in the underlying assets.
 ****** END OF CHUNK ******
 
-****** Chunk 2399: *****
+****** Chunk 2401: *****
 **Formula to calculate the spread underlying the volatility adjustment**
 
 
@@ -51678,7 +51641,7 @@ reference portfolio of assets for that currency or country and the value of all 
 portfolio;
 ****** END OF CHUNK ******
 
-****** Chunk 2400: *****
+****** Chunk 2402: *****
 (d) _S_ _corp_ denotes the average currency spread on bonds other than government bonds, loans and securitisations included
 in the reference portfolio of assets for that currency or country.
 
@@ -51686,7 +51649,7 @@ in the reference portfolio of assets for that currency or country.
 For the purposes of this Article, ‘government bonds’ means exposures to central governments and central banks.
 ****** END OF CHUNK ******
 
-****** Chunk 2401: *****
+****** Chunk 2403: *****
 **Risk-corrected spread**
 
 
@@ -51696,11 +51659,11 @@ same manner as the fundamental spread referred to in Article 77c (2) of Directiv
 Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2402: *****
+****** Chunk 2404: *****
 **Matching adjustment**
 ****** END OF CHUNK ******
 
-****** Chunk 2403: *****
+****** Chunk 2405: *****
 **Mortality risk stress**
 
 
@@ -51723,7 +51686,7 @@ which the increase in mortality rates leads to an increase in technical provisio
 policy;
 ****** END OF CHUNK ******
 
-****** Chunk 2404: *****
+****** Chunk 2406: *****
 (a) multiple insurance policies in respect of the same insured person may be treated as if they were one insurance
 policy;
 
@@ -51740,7 +51703,7 @@ accordance with paragraph 2.
 --- Page 44 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2405: *****
+****** Chunk 2407: *****
 **Calculation of the matching adjustment**
 
 
@@ -51753,14 +51716,14 @@ no reliable credit spread can be derived from the default statistics, the portio
 over the risk-free interest rate set out in Article 77c(2)(b) and (c) of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 2406: *****
+****** Chunk 2408: *****
 2. The deduction of the fundamental spread, referred to in Article 77c(1)(b) of Directive 2009/138/EC, from the
 result of the calculation set out in Article 77c(1)(a) of that Directive, shall include only the portion of the fundamental
 spread that has not already been reflected in the adjustment to the cash flows of the assigned portfolio of assets, as set
 out in paragraph 1 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 2407: *****
+****** Chunk 2409: *****
 **Calculation of the fundamental spread**
 
 
@@ -51774,7 +51737,7 @@ government bonds and for other bonds.
 the assumption that in case of default 30 % of the market value can be recovered.
 ****** END OF CHUNK ******
 
-****** Chunk 2408: *****
+****** Chunk 2410: *****
 3. The long-term average referred to in Article 77c(2)(b) and (c) of Directive 2009/138/EC shall be based on data
 relating to the last 30 years. Where a part of that data is not available, it shall be replaced by constructed data. The
 constructed data shall be based on the available and reliable data relating to the last 30 years. Data that is not reliable
@@ -51790,7 +51753,7 @@ the replacing asset meets all of the following criteria:
 (a) the replacing asset has the same cash flow pattern as the replaced asset before downgrade;
 ****** END OF CHUNK ******
 
-****** Chunk 2409: *****
+****** Chunk 2411: *****
 (a) the replacing asset has the same cash flow pattern as the replaced asset before downgrade;
 
 
@@ -51800,11 +51763,11 @@ the replacing asset meets all of the following criteria:
 (c) the replacing asset has the same credit quality step as the replaced asset before downgrade or a higher one.
 ****** END OF CHUNK ******
 
-****** Chunk 2410: *****
+****** Chunk 2412: *****
 _**Lines of business**_
 ****** END OF CHUNK ******
 
-****** Chunk 2411: *****
+****** Chunk 2413: *****
 **Lines of business**
 
 
@@ -51817,7 +51780,7 @@ relating to the obligation. The legal form of the obligation shall not necessari
 risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2412: *****
+****** Chunk 2414: *****
 3. Provided that the technical basis is consistent with the nature of the risks relating to the obligation, obligations of
 health insurance pursued on a similar technical basis to that of life insurance shall be assigned to the lines of business
 for life insurance and obligations of health insurance pursued on a similar technical basis to that of non-life insurance
@@ -51831,7 +51794,7 @@ their nature, they shall be included in line of business 32 as set out in that A
 reinsurance obligations shall be unbundled into their life and non-life parts.
 ****** END OF CHUNK ******
 
-****** Chunk 2413: *****
+****** Chunk 2415: *****
 5. Where an insurance or reinsurance contract covers risks across life and non-life insurance, the insurance or
 reinsurance obligations shall be unbundled into their life and non-life parts.
 
@@ -51845,11 +51808,11 @@ business.
 insurance or reinsurance obligations, those obligations shall, where possible, be unbundled.
 ****** END OF CHUNK ******
 
-****** Chunk 2414: *****
+****** Chunk 2416: *****
 _**Proportionality and simplifications**_
 ****** END OF CHUNK ******
 
-****** Chunk 2415: *****
+****** Chunk 2417: *****
 **Proportionality**
 
 
@@ -51875,7 +51838,7 @@ deviation between the following:
 (ii) the results of the assessment referred to in point (a).
 ****** END OF CHUNK ******
 
-****** Chunk 2416: *****
+****** Chunk 2418: *****
 (i) the assumptions underlying the method in relation to the risks;
 
 
@@ -51889,7 +51852,7 @@ the lifetime of the underlying insurance and reinsurance obligations. The assess
 are relevant to that part of the calculation of technical provisions to which the method is applied.
 ****** END OF CHUNK ******
 
-****** Chunk 2417: *****
+****** Chunk 2419: *****
 4. A method shall be considered to be disproportionate to the nature, scale and complexity of the risks if the error
 referred to in point (b) of paragraph 2 leads to a misstatement of technical provisions or their components that could
 influence the decisions-making or judgment of the intended user of the information relating to the value of technical
@@ -51905,7 +51868,7 @@ than the amount that would result from using a proportionate method and the meth
 timation of the risk inherent in the insurance and reinsurance obligations that it is applied to.
 ****** END OF CHUNK ******
 
-****** Chunk 2418: *****
+****** Chunk 2420: *****
 **Simplified calculation of recoverables from reinsurance contracts and special purpose vehicles**
 
 
@@ -51917,7 +51880,7 @@ account of the expected loss due to default of the counterparty as the differenc
 (a) the best estimate calculated gross as referred to in Article 77(2) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 2419: *****
+****** Chunk 2421: *****
 (b) the best estimate, after taking into account the amounts recoverable from reinsurance contracts and special purpose
 vehicles and without an adjustment for the expected loss due to default of the counterparty (unadjusted net best
 estimate) calculated in accordance with paragraph 2.
@@ -51930,7 +51893,7 @@ than one reinsurance contract or special purpose vehicles unless those reinsuran
 provide a transfer of homogeneous risks.
 ****** END OF CHUNK ******
 
-****** Chunk 2420: *****
+****** Chunk 2422: *****
 **Simplified calculation of the risk margin**
 
 
@@ -51945,7 +51908,7 @@ calculate the risk margin, including one or more of the following:
 Article 37(1) without calculating each of those amounts separately.
 ****** END OF CHUNK ******
 
-****** Chunk 2421: *****
+****** Chunk 2423: *****
 **Calculations of the risk margin during the financial year**
 
 
@@ -51954,7 +51917,7 @@ need to be performed quarterly from the result of an earlier calculation of the 
 calculation of the formula referred to in Article 37(1).
 ****** END OF CHUNK ******
 
-****** Chunk 2422: *****
+****** Chunk 2424: *****
 **Simplified calculation of the best estimate for insurance obligations with premium adjustment mechanism**
 
 
@@ -51973,14 +51936,14 @@ claims and expenses in a timely manner;
 (b) the calculation does not result in an underestimation of the best estimate;
 ****** END OF CHUNK ******
 
-****** Chunk 2423: *****
+****** Chunk 2425: *****
 (b) the calculation does not result in an underestimation of the best estimate;
 
 
 (c) the calculation does not result in an underestimation of the risk inherent in those insurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2424: *****
+****** Chunk 2426: *****
 **Simplified calculation of the counterparty default adjustment**
 
 
@@ -52009,19 +51972,19 @@ homogeneous risk group.
 --- Page 47 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2425: *****
+****** Chunk 2427: *****
 **OWN FUNDS**
 ****** END OF CHUNK ******
 
-****** Chunk 2426: *****
+****** Chunk 2428: *****
 _**Determination of own funds**_
 ****** END OF CHUNK ******
 
-****** Chunk 2427: *****
+****** Chunk 2429: *****
 **Supervisory approval of ancillary own funds**
 ****** END OF CHUNK ******
 
-****** Chunk 2428: *****
+****** Chunk 2430: *****
 **Assessment of the application**
 
 
@@ -52050,7 +52013,7 @@ any of the following:
 (ii) the status of the counterparties concerned;
 ****** END OF CHUNK ******
 
-****** Chunk 2429: *****
+****** Chunk 2431: *****
 (i) the structure or contractual terms of the arrangement;
 
 
@@ -52074,7 +52037,7 @@ item on an ongoing basis.
 approval of ancillary own funds on the basis of the criteria set out in Articles 63, 64 and 65.
 ****** END OF CHUNK ******
 
-****** Chunk 2430: *****
+****** Chunk 2432: *****
 **Assessment of the application — Status of the counterparties**
 
 
@@ -52098,7 +52061,7 @@ following criteria:
 their commitments under the ancillary own funds item;
 ****** END OF CHUNK ******
 
-****** Chunk 2431: *****
+****** Chunk 2433: *****
 (a) the credit standing of the counterparties, provided that this appropriately reflects the counterparties' ability to satisfy
 their commitments under the ancillary own funds item;
 
@@ -52118,7 +52081,7 @@ the ancillary own funds item;
 commitments under the ancillary own funds item;
 ****** END OF CHUNK ******
 
-****** Chunk 2432: *****
+****** Chunk 2434: *****
 (e) whether the counterparties are subject to other exposures which reduce the counterparties' ability to satisfy their
 commitments under the ancillary own funds item;
 
@@ -52136,7 +52099,7 @@ taking into account all of the following:
 satisfy their commitments under the ancillary own funds item;
 ****** END OF CHUNK ******
 
-****** Chunk 2433: *****
+****** Chunk 2435: *****
 (a) whether there are any current or foreseeable practical or legal impediments to the counterparties' ability to promptly
 satisfy their commitments under the ancillary own funds item;
 
@@ -52156,7 +52119,7 @@ counterparties' willingness to pay referred to in Article 90(4)(a) of Directive 
 (a) the range of circumstances under which the ancillary own funds item can be called up to absorb losses;
 ****** END OF CHUNK ******
 
-****** Chunk 2434: *****
+****** Chunk 2436: *****
 (a) the range of circumstances under which the ancillary own funds item can be called up to absorb losses;
 
 
@@ -52174,7 +52137,7 @@ factors relevant to the status of the counterparties including, where relevant, 
 business model.
 ****** END OF CHUNK ******
 
-****** Chunk 2435: *****
+****** Chunk 2437: *****
 6. Where an ancillary own-fund item concerns a group of counterparties, supervisory authorities and insurance and
 reinsurance undertakings may assess the status of the group of counterparties as though it were a single counterparty
 provided that all of the following conditions are fulfilled:
@@ -52195,7 +52158,7 @@ parties included in that group.
 significant effect on the assessment of the group of counterparties' ability and willingness to pay.
 ****** END OF CHUNK ******
 
-****** Chunk 2436: *****
+****** Chunk 2438: *****
 **Assessment of the application — Recoverability of the funds**
 
 
@@ -52218,7 +52181,7 @@ their commitments under the ancillary own funds item.
 --- Page 49 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2437: *****
+****** Chunk 2439: *****
 **Assessment of the application — Information on the outcome of past calls**
 
 
@@ -52233,7 +52196,7 @@ the same or similar circumstances;
 (b) whether that information is relevant and reliable as regards the expected outcome of future calls.
 ****** END OF CHUNK ******
 
-****** Chunk 2438: *****
+****** Chunk 2440: *****
 **Specification of amount relating to an unlimited amount of ancillary own funds**
 
 
@@ -52245,7 +52208,7 @@ authorities shall specify whether the amount that has been approved is the amoun
 reinsurance undertaking has applied or a lower amount.
 ****** END OF CHUNK ******
 
-****** Chunk 2439: *****
+****** Chunk 2441: *****
 **Specification of amount and timing relating to the approval of a method**
 
 
@@ -52264,11 +52227,11 @@ more frequent than annual, and the reasons for that frequency;
 (c) the time period for which the calculation of the ancillary own funds item using that method is granted.
 ****** END OF CHUNK ******
 
-****** Chunk 2440: *****
+****** Chunk 2442: *****
 **Own funds treatment of participations**
 ****** END OF CHUNK ******
 
-****** Chunk 2441: *****
+****** Chunk 2443: *****
 **Treatment of participations in the determination of basic own funds**
 
 
@@ -52284,7 +52247,7 @@ referred to in Article 92(2) of that Directive, in financial and credit institut
 paragraph 1, that exceeds 10 % of items included in points (a) (i), (ii), (iv) and (vi) of Article 69.
 ****** END OF CHUNK ******
 
-****** Chunk 2442: *****
+****** Chunk 2444: *****
 3. Notwithstanding paragraphs 1 and 2, insurance and reinsurance undertakings shall not deduct strategic partici­
 pations as referred to in Article 171 which are included in the calculation of the group solvency on the basis of
 method 1 as set out in Annex I to Directive 2002/87/EC.
@@ -52306,7 +52269,7 @@ included in points (a) (i), (ii), (iv) and (vi) of Article 69;
 included in points (a)(iii) and (v) and point (b) of Article 69;
 ****** END OF CHUNK ******
 
-****** Chunk 2443: *****
+****** Chunk 2445: *****
 (b) holdings of Additional Tier 1 instruments of financial and credit institutions shall be deducted from the items
 included in points (a)(iii) and (v) and point (b) of Article 69;
 
@@ -52316,11 +52279,11 @@ included in Article 72.
 --- Page 50 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2444: *****
+****** Chunk 2446: *****
 _**Classification of own funds**_
 ****** END OF CHUNK ******
 
-****** Chunk 2445: *****
+****** Chunk 2447: *****
 **Tier 1 — List of own-fund items**
 
 
@@ -52347,7 +52310,7 @@ undertakings;
 Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 2446: *****
+****** Chunk 2448: *****
 (iii) paid-in subordinated mutual member accounts;
 
 
@@ -52364,7 +52327,7 @@ Directive 2009/138/EC;
 (b) paid-in subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2447: *****
+****** Chunk 2449: *****
 **Reconciliation Reserve**
 
 
@@ -52395,7 +52358,7 @@ funds determined in accordance with Article 81(1);
 (ii) that are excluded in accordance with Article 81(2);
 ****** END OF CHUNK ******
 
-****** Chunk 2448: *****
+****** Chunk 2450: *****
 (ii) that are excluded in accordance with Article 81(2);
 
 
@@ -52411,7 +52374,7 @@ Article 71 shall not amount to an assessment of the features of the assets and l
 the excess of assets over liabilities or the underlying items in the undertakings' financial statements.
 ****** END OF CHUNK ******
 
-****** Chunk 2449: *****
+****** Chunk 2451: *****
 **Tier 1 — Features determining classification**
 
 
@@ -52435,7 +52398,7 @@ holders and beneficiaries and non-subordinated creditors;
 undertaking or may accelerate the process of the undertaking becoming insolvent;
 ****** END OF CHUNK ******
 
-****** Chunk 2450: *****
+****** Chunk 2452: *****
 (b) the basic own-fund item does not include features which may cause the insolvency of the insurance or reinsurance
 undertaking or may accelerate the process of the undertaking becoming insolvent;
 
@@ -52459,7 +52422,7 @@ paragraph 8:
 Article 69 as set out in paragraph 6;
 ****** END OF CHUNK ******
 
-****** Chunk 2451: *****
+****** Chunk 2453: *****
 (ii) the basic own-fund item automatically converts into a basic own-fund item listed in point (a)(i) or (ii) of
 Article 69 as set out in paragraph 6;
 
@@ -52480,7 +52443,7 @@ first contractual opportunity to repay or redeem the basic own-fund item does no
 the date of issuance;
 ****** END OF CHUNK ******
 
-****** Chunk 2452: *****
+****** Chunk 2454: *****
 (g) the basic own-fund item referred to in points (a)(iii) and (v) and point (b) of Article 69 may only allow for
 repayment or redemption of that item between 5 and 10 years after the date of issuance where the undertaking's
 Solvency Capital Requirement is exceeded by an appropriate margin taking into account the solvency position of
@@ -52492,7 +52455,7 @@ is only repayable or redeemable at the option of the insurance or reinsurance un
 redemption of the basic own-fund item is subject to prior supervisory approval;
 ****** END OF CHUNK ******
 
-****** Chunk 2453: *****
+****** Chunk 2455: *****
 (i) the basic own-fund item, in the case of items referred to in points (a)(i), (ii), (iii) and (v) and point (b) of Article 69,
 does not include any incentives to repay or redeem that item that increase the likelihood that an insurance or
 reinsurance undertaking will repay or redeem that basic own-fund item where it has the option to do so;
@@ -52504,7 +52467,7 @@ undertaking complies with the Solvency Capital Requirement and the repayment or 
 non-compliance with the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 2454: *****
+****** Chunk 2456: *****
 (k) notwithstanding point (j), the basic own-fund item may only allow for repayment or redemption of that item where
 there is non-compliance with the Solvency Capital Requirement or repayment or redemption would lead to such
 non-compliance, where all of the following conditions are met:
@@ -52522,7 +52485,7 @@ non-compliance, where all of the following conditions are met:
 (l) the basic own-fund item meets one of the following criteria:
 ****** END OF CHUNK ******
 
-****** Chunk 2455: *****
+****** Chunk 2457: *****
 (iii) the Minimum Capital Requirement is complied with after the repayment or redemption.
 
 
@@ -52536,7 +52499,7 @@ distribution would lead to such non-compliance until the undertaking complies wi
 Requirement and the distribution would not lead to non-compliance with the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 2456: *****
+****** Chunk 2458: *****
 (ii) in the case of items referred to in points (a)(iii) and (v) and point (b) of Article 69 the terms of the contractual
 arrangement governing the basic own-fund item provide for the cancellation of distributions in relation to that
 item where there is non-compliance with the Solvency Capital Requirement or the distribution would lead to
@@ -52552,7 +52515,7 @@ where all of the following conditions are met:
 (i) the supervisory authority has exceptionally waived the cancellation of distributions;
 ****** END OF CHUNK ******
 
-****** Chunk 2457: *****
+****** Chunk 2459: *****
 (i) the supervisory authority has exceptionally waived the cancellation of distributions;
 
 
@@ -52572,7 +52535,7 @@ considered with the basic own-fund item, could result in that basic own-fund ite
 Article 94(1) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2458: *****
+****** Chunk 2460: *****
 2. For the purposes of this Article, the exchange or conversion of a basic own-fund item into another Tier 1 basic
 own-fund item or the repayment or redemption of a Tier 1 own-fund item out of the proceeds of a new basic own-fund
 item of at least the same quality shall not be deemed to be a repayment or redemption, provided that the exchange,
@@ -52591,7 +52554,7 @@ butions;
 (b) distributions are paid out of distributable items;
 ****** END OF CHUNK ******
 
-****** Chunk 2459: *****
+****** Chunk 2461: *****
 (b) distributions are paid out of distributable items;
 
 
@@ -52612,7 +52575,7 @@ linked to distributions being made, or not made, on other own fund items;
 (g) the cancellation of distributions imposes no restrictions on the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2460: *****
+****** Chunk 2462: *****
 (g) the cancellation of distributions imposes no restrictions on the insurance or reinsurance undertaking.
 
 
@@ -52635,7 +52598,7 @@ payments without restriction to meet its obligations as they fall due;
 (d) there is no obligation to make distributions in the event of a distribution being made on another own fund item;
 ****** END OF CHUNK ******
 
-****** Chunk 2461: *****
+****** Chunk 2463: *****
 (d) there is no obligation to make distributions in the event of a distribution being made on another own fund item;
 
 
@@ -52662,7 +52625,7 @@ written down in such a way that all of the following are reduced:
 in points (a) (i) or (ii) of Article 69 shall specify either of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2462: *****
+****** Chunk 2464: *****
 6. For the purposes of paragraph (1)(e)(ii), the provisions governing the conversion into basic own-fund items listed
 in points (a) (i) or (ii) of Article 69 shall specify either of the following:
 
@@ -52683,7 +52646,7 @@ considered to be a principal loss absorbency mechanism in accordance with paragr
 Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2463: *****
+****** Chunk 2465: *****
 8. The trigger event referred to in paragraph (1)(e) shall be significant non-compliance with the Solvency Capital
 Requirement.
 
@@ -52708,7 +52671,7 @@ Insurance and reinsurance undertakings may specify, in the provisions governing 
 events in addition to the events referred to in points (a) to (c).
 ****** END OF CHUNK ******
 
-****** Chunk 2464: *****
+****** Chunk 2466: *****
 Insurance and reinsurance undertakings may specify, in the provisions governing the instrument, one or more trigger
 events in addition to the events referred to in points (a) to (c).
 
@@ -52719,7 +52682,7 @@ occurs before non-compliance with the Solvency Capital Requirement.
 --- Page 54 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2465: *****
+****** Chunk 2467: *****
 **Tier 2 Basic own-funds — List of own-fund items**
 
 
@@ -52748,7 +52711,7 @@ undertakings;
 (b) subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2466: *****
+****** Chunk 2468: *****
 **Tier 2 Basic own-funds — Features determining classification**
 
 
@@ -52771,7 +52734,7 @@ to repay or redeem the basic own-fund item does not occur before 5 years from th
 and the repayment or redemption of the basic own-fund item is subject to prior supervisory approval;
 ****** END OF CHUNK ******
 
-****** Chunk 2467: *****
+****** Chunk 2469: *****
 (e) the basic own-fund item may include limited incentives to repay or redeem that basic own-fund item, provided that
 these do not occur before 10 years from the date of issuance;
 
@@ -52784,7 +52747,7 @@ lead to non-compliance with the Solvency Capital Requirement;
 (g) the basic own-fund item meets one of the following criteria:
 ****** END OF CHUNK ******
 
-****** Chunk 2468: *****
+****** Chunk 2470: *****
 (g) the basic own-fund item meets one of the following criteria:
 
 
@@ -52795,7 +52758,7 @@ to such non-compliance until the undertaking complies with the Solvency Capital 
 distribution would not lead to non-compliance with the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 2469: *****
+****** Chunk 2471: *****
 (ii) in the case of items referred to in points (a)(iii) and (iv) and point (b) of Article 72 the terms of the contractual
 arrangement governing the basic own-fund item provide for the distributions in relation to that item to be
 deferred where there is non-compliance with the Solvency Capital Requirement or the distribution would lead to
@@ -52814,7 +52777,7 @@ where all of the following conditions are met:
 (ii) the payment does not further weaken the solvency position of the insurance or reinsurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2470: *****
+****** Chunk 2472: *****
 (i) the supervisory authority has exceptionally waived the deferral of distributions;
 
 
@@ -52832,7 +52795,7 @@ paragraph of Article 94(2) of Directive 2009/138/EC.
 referred to in points (a)(iii), (v) and (b) of Article 69, but exceeds the limit set out in Article 82(3).
 ****** END OF CHUNK ******
 
-****** Chunk 2471: *****
+****** Chunk 2473: *****
 Notwithstanding point (f), the basic own-fund item may only allow for the repayment or redemption of that item where
 there is non-compliance with the Solvency Capital Requirement or repayment or redemption would lead to such noncompliance, where all of the following conditions are met:
 
@@ -52847,7 +52810,7 @@ quality;
 (iii) the Minimum Capital Requirement is complied with after the repayment or redemption.
 ****** END OF CHUNK ******
 
-****** Chunk 2472: *****
+****** Chunk 2474: *****
 (iii) the Minimum Capital Requirement is complied with after the repayment or redemption.
 
 
@@ -52862,7 +52825,7 @@ as references to the Minimum Capital Requirement where non-compliance with the M
 occurs before non-compliance with the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2473: *****
+****** Chunk 2475: *****
 4. For the purposes of point (e) of paragraph 1, undertakings shall consider incentives to redeem in the form of an
 interest rate step-up associated with a call option as limited where the step-up takes the form of a single increase in the
 coupon rate and results in an increase in the initial rate that is no greater than the higher of the following amounts:
@@ -52874,7 +52837,7 @@ coupon rate and results in an increase in the initial rate that is no greater th
 (b) 50 % of the initial credit spread, less the swap spread between the initial index basis and the stepped-up index basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2474: *****
+****** Chunk 2476: *****
 **Tier 2 Ancillary own-funds — List of own-fund items**
 
 
@@ -52897,7 +52860,7 @@ mutual-type undertakings, callable on demand;
 (d) a legally binding commitment to subscribe and pay for subordinated liabilities on demand;
 ****** END OF CHUNK ******
 
-****** Chunk 2475: *****
+****** Chunk 2477: *****
 (c) unpaid and uncalled preference shares callable on demand;
 
 
@@ -52911,7 +52874,7 @@ trustee and provided by credit institutions authorised in accordance with Articl
 (f) letters of credit and guarantees provided that the items can be called up on demand and are clear of encumbrances;
 ****** END OF CHUNK ******
 
-****** Chunk 2476: *****
+****** Chunk 2478: *****
 (f) letters of credit and guarantees provided that the items can be called up on demand and are clear of encumbrances;
 
 
@@ -52928,7 +52891,7 @@ clear of encumbrances;
 be called up on demand and is clear of encumbrances.
 ****** END OF CHUNK ******
 
-****** Chunk 2477: *****
+****** Chunk 2479: *****
 **Tier 2 Ancillary own-funds — Features determining classification**
 
 
@@ -52936,7 +52899,7 @@ In order to be classified as Tier 2, the ancillary own-fund items listed in Arti
 own fund item classified in Tier 1 in accordance with Articles 69 and 71 once that item has been called up and paid in.
 ****** END OF CHUNK ******
 
-****** Chunk 2478: *****
+****** Chunk 2480: *****
 **Tier 3 Basic own-funds– List of own-fund items**
 
 
@@ -52959,7 +52922,7 @@ Tier 3 where the following items display all of the features set out in Article 
 (b) subordinated liabilities valued in accordance with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2479: *****
+****** Chunk 2481: *****
 **Tier 3 Basic own-funds– Features determining classification**
 
 
@@ -52979,7 +52942,7 @@ undated or has an original maturity of at least 5 years, where the maturity date
 to repay or redeem the basic own-fund item;
 ****** END OF CHUNK ******
 
-****** Chunk 2480: *****
+****** Chunk 2482: *****
 (d) the basic own-fund item, in the case of items referred to in points (a)(i) and (ii) and point (b) of Article 76, is only
 repayable or redeemable at the option of the insurance or reinsurance undertaking and the repayment or
 redemption of the basic own-fund item is subject to prior supervisory approval;
@@ -52989,7 +52952,7 @@ redemption of the basic own-fund item is subject to prior supervisory approval;
 include limited incentives to repay or redeem that basic own-fund item;
 ****** END OF CHUNK ******
 
-****** Chunk 2481: *****
+****** Chunk 2483: *****
 (f) the basic own-fund item, in the case of items referred to in points (a)(i) and (ii) and point (b) of Article 76, provides
 for the suspension of repayment or redemption where there is non-compliance with the Solvency Capital
 Requirement or repayment or redemption would lead to such non-compliance until the undertaking complies with
@@ -53002,7 +52965,7 @@ distribution would lead to such non-compliance until the undertaking complies wi
 Requirement and the distribution would not lead to non-compliance with the Minimum Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 2482: *****
+****** Chunk 2484: *****
 (h) the basic own-fund item is free from encumbrances and is not connected with any other transaction, which could
 undermine the features that the item is required to possess in accordance with this Article.
 
@@ -53021,7 +52984,7 @@ item of at least the same quality;
 (iii) the Minimum Capital Requirement is complied with after the repayment or redemption.
 ****** END OF CHUNK ******
 
-****** Chunk 2483: *****
+****** Chunk 2485: *****
 (iii) the Minimum Capital Requirement is complied with after the repayment or redemption.
 
 
@@ -53037,7 +53000,7 @@ references to the Minimum Capital Requirement where non-compliance with the Mini
 before non-compliance with the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2484: *****
+****** Chunk 2486: *****
 4. For the purposes of point (e) of paragraph 1, undertakings shall consider incentives to redeem in the form of an
 interest rate step-up associated with a call option as limited where the step-up takes the form of a single increase in the
 coupon rate and results in an increase in the initial rate that is no greater than the higher of the following amounts:
@@ -53049,7 +53012,7 @@ coupon rate and results in an increase in the initial rate that is no greater th
 (b) 50 % of the initial credit spread, less the swap spread between the initial index basis and the stepped-up index basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2485: *****
+****** Chunk 2487: *****
 **Tier 3 Ancillary own-funds– List of own-funds items**
 
 
@@ -53058,7 +53021,7 @@ Directive 2009/138/EC, and which do not display all of the features set out in A
 ancillary own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2486: *****
+****** Chunk 2488: *****
 **Supervisory Authorities approval of the assessment and classification of own-fund items**
 
 
@@ -53076,7 +53039,7 @@ own-fund items set out in Articles 69, 72, 74, 76 and 78:
 (a) where the undertaking is applying for approval for classification as Tier 1, whether the basic own-fund item substan­
 ****** END OF CHUNK ******
 
-****** Chunk 2487: *****
+****** Chunk 2489: *****
 (a) where the undertaking is applying for approval for classification as Tier 1, whether the basic own-fund item substan­
 
 tially possesses the characteristics set out in Article 93(1)(a) and (b) of Directive 2009/138/EC, taking into consid­
@@ -53092,7 +53055,7 @@ item substantially possesses the characteristics in Article 93(1)(a) and (b) of 
 consideration the features set out in Article 93(2) of that Directive;
 ****** END OF CHUNK ******
 
-****** Chunk 2488: *****
+****** Chunk 2490: *****
 (d) where the undertaking is applying for classification as Tier 3 basic own funds, whether the basic own-fund item
 possesses the characteristics set out in Article 93(1)(b) of Directive 2009/138/EC, taking into consideration the
 features set out in Article 93(2) of that Directive;
@@ -53112,15 +53075,15 @@ classified as Tier 1 basic own funds where they are fully paid-in.
 subject to quantitative limits set out in Article 82.
 ****** END OF CHUNK ******
 
-****** Chunk 2489: *****
+****** Chunk 2491: *****
 _**Eligibility of own funds**_
 ****** END OF CHUNK ******
 
-****** Chunk 2490: *****
+****** Chunk 2492: *****
 **Ring-fenced funds**
 ****** END OF CHUNK ******
 
-****** Chunk 2491: *****
+****** Chunk 2493: *****
 **Ring-fenced funds requiring adjustments**
 
 
@@ -53143,7 +53106,7 @@ insurance or reinsurance contracts;
 include the value of future transfers attributable to shareholders.
 ****** END OF CHUNK ******
 
-****** Chunk 2492: *****
+****** Chunk 2494: *****
 **Adjustment for ring-fenced funds and matching adjustment portfolios**
 
 
@@ -53161,7 +53124,7 @@ Where the insurance or reinsurance undertaking calculates the Solvency Capital R
 formula, the notional Solvency Capital Requirement shall be calculated in accordance with Article 217.
 ****** END OF CHUNK ******
 
-****** Chunk 2493: *****
+****** Chunk 2495: *****
 Where the undertaking calculates the Solvency Capital Requirement using an internal model, the notional Solvency
 Capital Requirement shall be calculated using that internal model, as if the undertaking pursued only the business
 included in the ring-fenced fund or matching adjustment portfolio.
@@ -53173,11 +53136,11 @@ restricted own-fund items.
 --- Page 59 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2494: *****
+****** Chunk 2496: *****
 **Quantitative limits**
 ****** END OF CHUNK ******
 
-****** Chunk 2495: *****
+****** Chunk 2497: *****
 **Eligibility and limits applicable to Tiers 1, 2 and 3**
 
 
@@ -53205,7 +53168,7 @@ shall be subject to all of the following quantitative limits:
 (b) the eligible amounts of Tier 2 items shall not exceed 20 % of the Minimum Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2496: *****
+****** Chunk 2498: *****
 (b) the eligible amounts of Tier 2 items shall not exceed 20 % of the Minimum Capital Requirement.
 
 
@@ -53226,19 +53189,19 @@ basic own-fund items shall make up less than 20 % of the total amount of Tier 1 
 Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2497: *****
+****** Chunk 2499: *****
 **SOLVENCY CAPITAL REQUIREMENT STANDARD FORMULA**
 ****** END OF CHUNK ******
 
-****** Chunk 2498: *****
+****** Chunk 2500: *****
 _**General provisions**_
 ****** END OF CHUNK ******
 
-****** Chunk 2499: *****
+****** Chunk 2501: *****
 **Scenario based calculations**
 ****** END OF CHUNK ******
 
-****** Chunk 2500: *****
+****** Chunk 2502: *****
 1. Where the calculation of a module or sub-module of the Basic Solvency Capital Requirement is based on the
 impact of a scenario on the basic own funds of insurance and reinsurance undertakings, all of the following assumptions
 shall be made in that calculation:
@@ -53261,7 +53224,7 @@ funds of insurance and reinsurance undertakings as referred to in paragraph 1 sh
 discretionary benefits, and shall take account of all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2501: *****
+****** Chunk 2503: *****
 (a) without prejudice to point (d) of paragraph 1, future management actions following the scenario, provided they
 comply with Article 23;
 
@@ -53277,7 +53240,7 @@ leads to a Solvency Capital Requirement which exceeds the Solvency Capital Requi
 calculation according to the standard formula.
 ****** END OF CHUNK ******
 
-****** Chunk 2502: *****
+****** Chunk 2504: *****
 4. The calculation of assets and liabilities arising as a result of determining the impact of a scenario as referred to in
 paragraph 1 shall take account of the impact of the scenario on the value of any relevant risk mitigation instruments
 held by the undertaking which comply with Articles 209 to 215.
@@ -53288,11 +53251,11 @@ the calculation of the module or sub-module shall be based on the assumption tha
 basic own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2503: *****
+****** Chunk 2505: *****
 **Look-through approach**
 ****** END OF CHUNK ******
 
-****** Chunk 2504: *****
+****** Chunk 2506: *****
 1. The Solvency Capital Requirement shall be calculated on the basis of each of the underlying assets of collective
 investment undertakings and other investments packaged as funds (look-through approach).
 
@@ -53309,7 +53272,7 @@ investment undertakings and other investments packaged as funds (look-through ap
 (c) indirect exposures to counterparty risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2505: *****
+****** Chunk 2507: *****
 (b) indirect exposures to underwriting risk;
 
 
@@ -53325,26 +53288,26 @@ calculation, data groupings may be used, provided they are applied in a prudent 
 more than 20 % of the total value of the assets of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2506: *****
+****** Chunk 2508: *****
 4. Paragraph 2 shall not apply to investments in related undertakings within the meaning of Article 212(1)(b) and (2)
 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2507: *****
+****** Chunk 2509: *****
 **Regional governments and local authorities**
 ****** END OF CHUNK ******
 
-****** Chunk 2508: *****
+****** Chunk 2510: *****
 The conditions for a categorisation of regional governments and local authorities shall be that there is no difference in
 risk between exposures to these and exposures to the central government, because of the specific revenue-raising power
 of the former, and specific institutional arrangements exist, the effect of which is to reduce the risk of default.
 ****** END OF CHUNK ******
 
-****** Chunk 2509: *****
+****** Chunk 2511: *****
 **Material basis risk**
 ****** END OF CHUNK ******
 
-****** Chunk 2510: *****
+****** Chunk 2512: *****
 Notwithstanding Article 210(2), where insurance or reinsurance undertakings transfer underwriting risk using
 reinsurance contracts or special purpose vehicles that are subject to material basis risk from a currency mismatch
 between underwriting risk and the risk-mitigation technique, insurance or reinsurance undertakings may take into
@@ -53354,7 +53317,7 @@ formula, provided that the risk-mitigation technique complies with Article 209, 
 Article 211, and the calculation is carried out as follows:
 ****** END OF CHUNK ******
 
-****** Chunk 2511: *****
+****** Chunk 2513: *****
 (a) the basis risk stemming from a currency mismatch between underwriting risk and the risk-mitigation technique shall
 be taken into account in the relevant underwriting risk module, sub-module or scenario of the standard formula at
 the most granular level by adding 25 % of the difference between the following to the capital requirement calculated
@@ -53368,7 +53331,7 @@ would result from a simultaneous occurrence of the scenario set out in Article 1
 (ii) the capital requirement for the relevant underwriting risk module, sub-module or scenario.
 ****** END OF CHUNK ******
 
-****** Chunk 2512: *****
+****** Chunk 2514: *****
 (ii) the capital requirement for the relevant underwriting risk module, sub-module or scenario.
 
 
@@ -53378,11 +53341,11 @@ resulting from those calculations shall not exceed 25 % of the capacity of the n
 or special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 2513: *****
+****** Chunk 2515: *****
 **Calculation of the basic solvency capital requirement**
 ****** END OF CHUNK ******
 
-****** Chunk 2514: *****
+****** Chunk 2516: *****
 The Basic Solvency Capital Requirement shall include a risk module for intangible asset risk. and shall be equal to the
 following:
 
@@ -53411,7 +53374,7 @@ s
 _Corr_ _i,j_ � _SCR_ _i_ � _SCR_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 2515: *****
+****** Chunk 2517: *****
 _i,j_
 
 s
@@ -53444,11 +53407,11 @@ where:
 (b) _SCR_ _intangibles_ denotes the capital requirement for intangible asset risk referred to in Article 203.
 ****** END OF CHUNK ******
 
-****** Chunk 2516: *****
+****** Chunk 2518: *****
 **Proportionality and simplifications**
 ****** END OF CHUNK ******
 
-****** Chunk 2517: *****
+****** Chunk 2519: *****
 **Proportionality**
 
 
@@ -53471,7 +53434,7 @@ simplified calculation due to any deviation between the following:
 (ii) the results of the assessment referred to in point (a).
 ****** END OF CHUNK ******
 
-****** Chunk 2518: *****
+****** Chunk 2520: *****
 (i) the assumptions underlying the simplified calculation in relation to the risk;
 
 
@@ -53486,7 +53449,7 @@ the Solvency Capital Requirement that results from the standard calculation.
 --- Page 62 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2519: *****
+****** Chunk 2521: *****
 **General provisions for simplifications for captives**
 
 
@@ -53505,12 +53468,12 @@ persons and beneficiaries of the insurance contracts underlying the reinsurance 
 group of which the captive insurance or captive reinsurance undertaking is part;
 ****** END OF CHUNK ******
 
-****** Chunk 2520: *****
+****** Chunk 2522: *****
 (c) the insurance obligations and the insurance contracts underlying the reinsurance obligations of the captive insurance
 or captive reinsurance undertaking do not relate to any compulsory third party liability insurance.
 ****** END OF CHUNK ******
 
-****** Chunk 2521: *****
+****** Chunk 2523: *****
 **Simplified calculation for captive insurance and reinsurance undertakings of the capital requirement for non-**
 **life premium and reserve risk**
 
@@ -53524,7 +53487,7 @@ calculate the capital requirement for non-life premium and reserve risk as follo
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2522: *****
+****** Chunk 2524: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -53539,7 +53502,7 @@ _SCR_ _nl prem res_ ¼ q0,65 � X _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ ��
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2523: *****
+****** Chunk 2525: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -53560,7 +53523,7 @@ q0,65 � X _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X _s_ _[NL]_ [ð] _[
 _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X
 ****** END OF CHUNK ******
 
-****** Chunk 2524: *****
+****** Chunk 2526: *****
 _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X
 
 
@@ -53583,7 +53546,7 @@ _s_ _[NL]_ [ð] _[pr,s]_ [Þ] [Þ]
 where the _s_ covers all segments set out in Annex II.
 ****** END OF CHUNK ******
 
-****** Chunk 2525: *****
+****** Chunk 2527: *****
 where the _s_ covers all segments set out in Annex II.
 
 
@@ -53605,7 +53568,7 @@ Article 116;
 Article 116.
 ****** END OF CHUNK ******
 
-****** Chunk 2526: *****
+****** Chunk 2528: *****
 **Simplified calculation of the capital requirement for life mortality risk**
 
 
@@ -53630,7 +53593,7 @@ _k_ ¼1 − 0,5
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2527: *****
+****** Chunk 2529: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -53652,7 +53615,7 @@ _k_ ¼1 − 0,5
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2528: *****
+****** Chunk 2530: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -53666,7 +53629,7 @@ between the following amounts:
 (i) the sum of:
 ****** END OF CHUNK ******
 
-****** Chunk 2529: *****
+****** Chunk 2531: *****
 (a) _CAR_ denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
 between the following amounts:
 
@@ -53687,7 +53650,7 @@ the amounts recoverable from reinsurance contracts and special purpose vehicles;
 contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2530: *****
+****** Chunk 2532: *****
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable form reinsurance
 contracts and special purpose vehicles;
 
@@ -53702,7 +53665,7 @@ the sum insured;
 (d) _i_ _k_ denotes the annualized spot rate for maturity _k_ of the relevant risk-free term structure as referred to in Article 43.
 ****** END OF CHUNK ******
 
-****** Chunk 2531: *****
+****** Chunk 2533: *****
 **Simplified calculation of the capital requirement for life longevity risk**
 
 
@@ -53726,7 +53689,7 @@ the sum insured;
 (c) _BE_ _long_ denotes the best estimate of the obligations subject to longevity risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2532: *****
+****** Chunk 2534: *****
 **Simplified calculation of the capital requirement for life disability-morbidity risk**
 
 
@@ -53766,7 +53729,7 @@ disability of the persons insured under the contract after deduction of the amou
 reinsurance contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2533: *****
+****** Chunk 2535: *****
 — the expected present value of amounts not covered in the previous indent that the insurance or reinsurance
 undertaking would pay in the future in the event of the immediate death or disability of the persons insured
 under the contract after deduction of the amounts recoverable from reinsurance contracts and special
@@ -53790,7 +53753,7 @@ by the sum insured;
 (e) _n_ denotes the modified duration of the payments on disability-morbidity included in the best estimate;
 ****** END OF CHUNK ******
 
-****** Chunk 2534: *****
+****** Chunk 2536: *****
 (e) _n_ denotes the modified duration of the payments on disability-morbidity included in the best estimate;
 
 
@@ -53800,7 +53763,7 @@ by the sum insured;
 (g) _BE_ _dis_ denotes the best estimate of obligations subject to disability-morbidity risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2535: *****
+****** Chunk 2537: *****
 **Simplified calculation of the capital requirement for life-expense risk**
 
 
@@ -53838,7 +53801,7 @@ where the weights are based on the present value of expenses included in the cal
 servicing existing life obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2536: *****
+****** Chunk 2538: *****
 **Simplified calculation of the capital requirement for permanent changes in lapse rates**
 
 
@@ -53871,7 +53834,7 @@ _Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2537: *****
+****** Chunk 2539: *****
 _Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
 
 
@@ -53899,7 +53862,7 @@ amounts recoverable from policy holders or intermediaries;
 --- Page 65 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2538: *****
+****** Chunk 2540: *****
 **Simplified calculation of the capital requirement for life-catastrophe risk**
 
 
@@ -53936,7 +53899,7 @@ the persons insured under the contract after deduction of the amounts recoverabl
 contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2539: *****
+****** Chunk 2541: *****
 — the expected present value of amounts not covered in the previous indent that the insurance or reinsurance
 undertaking would pay in the future in the event of the immediate death of the persons insured under the
 contract after deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles;
@@ -53946,7 +53909,7 @@ contract after deduction of the amounts recoverable from reinsurance contracts a
 contracts and special purpose vehicles.
 ****** END OF CHUNK ******
 
-****** Chunk 2540: *****
+****** Chunk 2542: *****
 **Simplified calculation of the capital requirement for health mortality risk**
 
 
@@ -53986,7 +53949,7 @@ the persons insured under the contract after deduction of the amounts recoverabl
 contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2541: *****
+****** Chunk 2543: *****
 — the expected present value of amounts not covered in the previous indent that the insurance and reinsurance
 undertaking would pay in the future in the event of the immediate death of the persons insured under the
 contract after deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles;
@@ -54007,7 +53970,7 @@ sum insured;
 --- Page 66 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2542: *****
+****** Chunk 2544: *****
 **Simplified calculation of the capital requirement for health longevity risk**
 
 
@@ -54031,7 +53994,7 @@ the sum insured;
 (c) _BE_ _long_ denotes the best estimate of the obligations subject to longevity risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2543: *****
+****** Chunk 2545: *****
 **Simplified calculation of the capital requirement for medical expense disability-morbidity risk**
 
 
@@ -54065,7 +54028,7 @@ obligations, where the weights are based on the present value of medical payment
 best estimate of those obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2544: *****
+****** Chunk 2546: *****
 **Simplified calculation of the capital requirement for income protection disability-morbidity risk**
 
 
@@ -54100,7 +54063,7 @@ between the following amounts:
 (i) the sum of:
 ****** END OF CHUNK ******
 
-****** Chunk 2545: *****
+****** Chunk 2547: *****
 (a) _CAR_ 1 denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
 between the following amounts:
 
@@ -54121,7 +54084,7 @@ deduction of the amounts recoverable from reinsurance contracts and special purp
 contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 2546: *****
+****** Chunk 2548: *****
 (b) _CAR_ 2 denotes the total capital at risk as defined in point (a) after 12 months;
 
 
@@ -54142,7 +54105,7 @@ by the sum insured;
 (g) _BE_ _dis_ denotes the best estimate of obligations subject to disability-morbidity risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2547: *****
+****** Chunk 2549: *****
 **Simplified calculation of the capital requirement for health expense risk**
 
 
@@ -54176,7 +54139,7 @@ weighted by the present value of expenses included in the calculation of the bes
 health obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2548: *****
+****** Chunk 2550: *****
 **Simplified calculation of the capital requirement for SLT health lapse risk**
 
 
@@ -54209,7 +54172,7 @@ _Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2549: *****
+****** Chunk 2551: *****
 _Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
 
 
@@ -54235,7 +54198,7 @@ amounts recoverable from policy holders or intermediaries;
 (b) the amount of technical provisions without the risk margin.
 ****** END OF CHUNK ******
 
-****** Chunk 2550: *****
+****** Chunk 2552: *****
 **Simplified calculation of the capital requirement for interest rate risk for captive insurance or reinsurance**
 **undertakings**
 
@@ -54271,7 +54234,7 @@ _MVAL_ _i_ � _dur_ _i_ � _rate_ _i_ � _stress_ ð _i,up_ Þ − X
 _lob_
 ****** END OF CHUNK ******
 
-****** Chunk 2551: *****
+****** Chunk 2553: *****
 _IR_ _up_ ¼ X
 
 _i_
@@ -54313,7 +54276,7 @@ technical provisions for maturity interval _i_ ;
 (g) _BE_ _lob_ denotes the best estimate for line of business _lob_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2552: *****
+****** Chunk 2554: *****
 (f) the second sum covers all lines of business set out in Annex I of this Regulation;
 
 
@@ -54356,7 +54319,7 @@ _BE_ _lob_ � _dur_ _lob_ � _rate_ _lob_ � _stress_ ð _lob,down_ Þ
 (a) the first sum covers all maturity intervals _i_ set out in paragraph 4;
 ****** END OF CHUNK ******
 
-****** Chunk 2553: *****
+****** Chunk 2555: *****
 _lob_
 
 
@@ -54387,7 +54350,7 @@ technical provisions for maturity interval _i_ ;
 (g) _BE_ _lob_ denotes the best estimate for line of business _lob_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2554: *****
+****** Chunk 2556: *****
 (f) the second sum covers all lines of business set out in Annex I of this Regulation;
 
 
@@ -54415,7 +54378,7 @@ point (a) and (c) of paragraph 3 shall be as follows:
 (c) between maturities of 3 and 5 years, the simplified duration shall be 4 years;
 ****** END OF CHUNK ******
 
-****** Chunk 2555: *****
+****** Chunk 2557: *****
 (b) between maturities of 1 and 3 years, the simplified duration shall be 2 years;
 
 
@@ -54428,7 +54391,7 @@ point (a) and (c) of paragraph 3 shall be as follows:
 (e) from the maturity of 10 years onwards, the simplified duration shall be 12 years.
 ****** END OF CHUNK ******
 
-****** Chunk 2556: *****
+****** Chunk 2558: *****
 **Simplified calculation for spread risk on bonds and loans**
 
 
@@ -54461,7 +54424,7 @@ bonds and loans with credit quality step _i_, where a credit assessment by a nom
 assets;
 ****** END OF CHUNK ******
 
-****** Chunk 2557: *****
+****** Chunk 2559: *****
 (d) % _MV_ _norating_ _[bonds]_ [denotes the proportion of the portfolio of the assets subject to a capital requirement for spread risk on ]
 bonds and loans for which no credit assessment by a nominated ECAI is available;
 
@@ -54474,7 +54437,7 @@ spread risk on bonds and loans where no credit assessment by a nominated ECAI is
 subject to a capital requirement for spread risk on bonds and loans with credit quality step _i_, set out in paragraph 2;
 ****** END OF CHUNK ******
 
-****** Chunk 2558: *****
+****** Chunk 2560: *****
 (g) _ΔLiab_ _ul_ denotes the increase in the technical provisions less risk margin for policies where the policyholders bear
 the investment risk with embedded options and guarantees that would result from an instantaneous decrease in
 the value of the assets subject to the capital requirement for spread risk on bonds
@@ -54495,7 +54458,7 @@ loans with credit quality step _i_, and _b_ _i_ is determined in accordance with
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2559: *****
+****** Chunk 2561: *****
 <table>
 |Credit quality step i|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
@@ -54508,7 +54471,7 @@ loans with credit quality step _i_, and _b_ _i_ is determined in accordance with
 --- Page 70 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2560: *****
+****** Chunk 2562: *****
 **Simplified calculation for captive insurance or reinsurance undertakings of the capital requirement for spread**
 **risk on bonds and loans**
 
@@ -54518,7 +54481,7 @@ calculation of the capital requirement for spread risk to in Article 176 on the 
 credit quality step 3.
 ****** END OF CHUNK ******
 
-****** Chunk 2561: *****
+****** Chunk 2563: *****
 **Simplified calculation of the capital requirement for market risk concentration for captive insurance or**
 **reinsurance undertakings**
 
@@ -54538,7 +54501,7 @@ exposures it holds against other entities of the group.
 name exposures:
 ****** END OF CHUNK ******
 
-****** Chunk 2562: *****
+****** Chunk 2564: *****
 (2) the relative excess exposure threshold referred to in Article 184(1)(c) shall be equal to 15 % for the following single
 
 name exposures:
@@ -54552,7 +54515,7 @@ quality step 2;
 that have been assigned to the credit quality step 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2563: *****
+****** Chunk 2565: *****
 **Simplified calculation of the risk mitigating effect for reinsurance arrangements or securitisation**
 
 
@@ -54574,7 +54537,7 @@ and the corresponding debtors for counterparty _i_ and _Recoverables_ _all_ deno
 from the reinsurance arrangements and securitisations and the corresponding debtors for all counterparties.
 ****** END OF CHUNK ******
 
-****** Chunk 2564: *****
+****** Chunk 2566: *****
 2. The risk mitigating effect on underwriting risk of the reinsurance arrangements and securitisations for all counter­
 parties referred to in paragraph 1 is the difference between the following capital requirements:
 
@@ -54586,7 +54549,7 @@ reinsurance arrangements and securitisations exist;
 (b) the capital requirements for underwriting risk of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2565: *****
+****** Chunk 2567: *****
 **Simplified calculation of the risk mitigating effect for proportional reinsurance arrangements**
 
 
@@ -54619,7 +54582,7 @@ the corresponding debtors for all counterparties
 (d) _SCR_ _j_ denotes the capital requirements for underwriting risk _j_ of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2566: *****
+****** Chunk 2568: *****
 **Simplified calculations for pooling arrangements**
 
 
@@ -54654,7 +54617,7 @@ risk ceded to the pool by the undertaking.
 (c) The risk mitigating effect referred to in Article 195(d) may be calculated as follows:
 ****** END OF CHUNK ******
 
-****** Chunk 2567: *****
+****** Chunk 2569: *****
 (c) The risk mitigating effect referred to in Article 195(d) may be calculated as follows:
 
 
@@ -54686,7 +54649,7 @@ assessment by a nominated ECAI, provided there are separate groupings for poolin
 type C.
 ****** END OF CHUNK ******
 
-****** Chunk 2568: *****
+****** Chunk 2570: *****
 **Simplified calculation — grouping of single name exposures**
 
 
@@ -54696,7 +54659,7 @@ highest probability of default assigned to single name exposures included in the
 --- Page 72 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2569: *****
+****** Chunk 2571: *****
 **Simplified calculation of the risk mitigating effect**
 
 
@@ -54714,7 +54677,7 @@ arrangement, securitisation or derivative did not exist;
 insurance or reinsurance undertaking affected by the risk-mitigating technique.
 ****** END OF CHUNK ******
 
-****** Chunk 2570: *****
+****** Chunk 2572: *****
 **Simplified calculation of the risk adjusted value of collateral to take into account the economic effect of the**
 **collateral**
 
@@ -54725,7 +54688,7 @@ Article 197, calculate the risk-adjusted value of a collateral provided by way o
 as 85 % of the value of the assets held as collateral, valued in accordance with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2571: *****
+****** Chunk 2573: *****
 2. Where Articles 88 and 214 of this Regulation are complied with, and where the counterparty requirement referred
 to in Article 197(1) is met and the third party requirement referred to in Article 197(1) is not met, insurance or
 reinsurance undertakings may, for the purposes of Article 197, calculate the risk-adjusted value of a collateral provided
@@ -54733,11 +54696,11 @@ by way of security as referred to in Article 1(26)(b), as 75 % of the value of t
 accordance with Article 75 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2572: *****
+****** Chunk 2574: *****
 **Scope of the underwriting risk modules**
 ****** END OF CHUNK ******
 
-****** Chunk 2573: *****
+****** Chunk 2575: *****
 For the calculation of the capital requirements for non-life underwriting risk, life underwriting risk and health
 underwriting risk, insurance and reinsurance undertakings shall apply:
 
@@ -54753,11 +54716,11 @@ reinsurance obligations;
 (c) the health underwriting risk module to health insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2574: *****
+****** Chunk 2576: *****
 _**Non-life underwriting risk module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2575: *****
+****** Chunk 2577: *****
 **Non-life underwriting risk module**
 
 
@@ -54780,7 +54743,7 @@ Directive 2009/138/EC;
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2576: *****
+****** Chunk 2578: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -54811,7 +54774,7 @@ _i,j_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2577: *****
+****** Chunk 2579: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -54849,7 +54812,7 @@ the following correlation matrix:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2578: *****
+****** Chunk 2580: *****
 **Non-life premium and reserve risk sub-module**
 
 
@@ -54868,7 +54831,7 @@ where:
 (b) _V_ _nl_ denotes the volume measure for non-life premium and reserve risk determined in accordance with Article 116.
 ****** END OF CHUNK ******
 
-****** Chunk 2579: *****
+****** Chunk 2581: *****
 **Volume measure for non-life premium and reserve risk**
 
 
@@ -54904,7 +54867,7 @@ _V_ ð _prem,s_ Þ ¼ max _P_ � _s_ ; _P_ ð _last,s_ Þ � þ _FP_ ð _exist
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2580: *****
+****** Chunk 2582: *****
 _V_ ð _prem,s_ Þ ¼ max _P_ � _s_ ; _P_ ð _last,s_ Þ � þ _FP_ ð _existing,s_ Þ þ _FP_ ð _future,s_ Þ
 
 
@@ -54927,7 +54890,7 @@ in the segment _s_ for contracts where the initial recognition date falls in the
 premiums to be earned during the 12 months after the initial recognition date.
 ****** END OF CHUNK ******
 
-****** Chunk 2581: *****
+****** Chunk 2583: *****
 4. For all segments set out in Annex II, insurance and reinsurance undertakings may, as an alternative to the
 calculation set out in paragraph 3 of this Article, choose to calculate the volume measure for premium risk of a
 particular segment _s_ in accordance with the following formula:
@@ -54951,7 +54914,7 @@ earned premiums referred to in point (a) will be met;
 point (a) and the reasons for it.
 ****** END OF CHUNK ******
 
-****** Chunk 2582: *****
+****** Chunk 2584: *****
 (c) the insurance or reinsurance undertaking has informed its supervisory authority about the decision referred to in
 point (a) and the reasons for it.
 
@@ -54970,7 +54933,7 @@ premiums for reinsurance contracts. The following premiums for reinsurance contr
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213.
 ****** END OF CHUNK ******
 
-****** Chunk 2583: *****
+****** Chunk 2585: *****
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213.
 
 
@@ -54984,7 +54947,7 @@ vehicles comply with Articles 209, 210, 211 and 213. The volume measure shall no
 be either 1 or calculated in accordance with Annex III.
 ****** END OF CHUNK ******
 
-****** Chunk 2584: *****
+****** Chunk 2586: *****
 **Standard deviation for non-life premium and reserve risk**
 
 
@@ -55009,7 +54972,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f
 � X _CorrS_ ð _s,t_ Þ � _σ_ _s_ � _V_ _s_ � _σ_ _t_ � _V_ _t_
 ****** END OF CHUNK ******
 
-****** Chunk 2585: *****
+****** Chunk 2587: *****
 f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 X _CorrS_ ð _s,t_ Þ � _σ_ _s_ � _V_ _s_ � _σ_ _t_ � _V_ _t_
 
@@ -55040,7 +55003,7 @@ in Annex IV;
 (d) _σ_ _s_ and _σ_ _t_ denote standard deviations for non-life premium and reserve risk of segments _s_ and _t_ respectively;
 ****** END OF CHUNK ******
 
-****** Chunk 2586: *****
+****** Chunk 2588: *****
 (d) _σ_ _s_ and _σ_ _t_ denote standard deviations for non-life premium and reserve risk of segments _s_ and _t_ respectively;
 
 
@@ -55053,7 +55016,7 @@ segment _s_ shall be equal to the following:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2587: *****
+****** Chunk 2589: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55070,14 +55033,14 @@ where:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2588: *****
+****** Chunk 2590: *****
 f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
 q _σ_ [2] ð _prem,s_ Þ [�] _[V]_ [2] ð _prem,s_ Þ [þ] _[ σ]_ [ð] _[prem,s]_ [Þ] [ �] _[V]_ [ð] _[prem,s]_ [Þ] [ �] _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s]_ [Þ] [ þ] _[ σ]_ [2] ð _res,s_ Þ [�] _[V]_ [2] ð _res,s_ Þ
 
 _V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2589: *****
+****** Chunk 2591: *****
 _V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ
 
 
@@ -55095,7 +55058,7 @@ paragraph 3;
 (b) _σ_ _(res,s)_ denotes the standard deviation for non-life reserve risk of segment _s_ as set out in Annex II;
 ****** END OF CHUNK ******
 
-****** Chunk 2590: *****
+****** Chunk 2592: *****
 (b) _σ_ _(res,s)_ denotes the standard deviation for non-life reserve risk of segment _s_ as set out in Annex II;
 
 
@@ -55112,7 +55075,7 @@ factor for non-proportional reinsurance shall be equal to 80 %. For all other se
 factor for non-proportional reinsurance shall be equal to 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2591: *****
+****** Chunk 2593: *****
 **Non-life lapse risk sub-module**
 
 
@@ -55135,13 +55098,13 @@ In relation to reinsurance contracts the event referred to in point (a) of parag
 insurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2592: *****
+****** Chunk 2594: *****
 3. For the purposes of determining the loss in basic own funds of the insurance or reinsurance undertaking under
 the event referred to in point (a) of paragraph 1, the undertaking shall base the calculation on the type of discontinuance
 which most negatively affects the basic own funds of the undertaking on a per policy basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2593: *****
+****** Chunk 2595: *****
 **Non-life catastrophe risk sub-module**
 
 
@@ -55165,7 +55128,7 @@ which most negatively affects the basic own funds of the undertaking on a per po
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2594: *****
+****** Chunk 2596: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55173,7 +55136,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i 
 _SCR_ _nlCAT_ ¼ qð _SCR_ _natCAT_ þ _SCR_ _npproperty_ Þ 2 þ _SCR_ 2 _mmCAT_ [þ] _[ SCR]_ [2] _CATother_
 ****** END OF CHUNK ******
 
-****** Chunk 2595: *****
+****** Chunk 2597: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55186,7 +55149,7 @@ q
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2596: *****
+****** Chunk 2598: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 2 þ _SCR_ 2 _mmCAT_ [þ] _[ SCR]_ [2] _CATother_
@@ -55202,7 +55165,7 @@ q
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2597: *****
+****** Chunk 2599: *****
 where:
 
 
@@ -55217,7 +55180,7 @@ where:
 (d) _SCR_ _CATother_ denotes the capital requirement for other non-life catastrophe risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2598: *****
+****** Chunk 2600: *****
 **Natural catastrophe risk sub-module**
 
 
@@ -55252,7 +55215,7 @@ f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i *
 _SCR_ _natCAT_ ¼ X _SCR_ [2] _i_
 ****** END OF CHUNK ******
 
-****** Chunk 2599: *****
+****** Chunk 2601: *****
 f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i **f**
 _SCR_ _natCAT_ ¼ X _SCR_ [2] _i_
 
@@ -55277,7 +55240,7 @@ r _i_
 _i_
 ****** END OF CHUNK ******
 
-****** Chunk 2600: *****
+****** Chunk 2602: *****
 **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55300,7 +55263,7 @@ where:
 (b) _SCR_ _i_ denotes the capital requirement for sub-module _i_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2601: *****
+****** Chunk 2603: *****
 **Windstorm risk sub-module**
 
 
@@ -55313,7 +55276,7 @@ where:
 **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2602: *****
+****** Chunk 2604: *****
 **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55325,7 +55288,7 @@ _SCR_ _windstorm_ ¼ ðX _CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � 
 **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2603: *****
+****** Chunk 2605: *****
 **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55347,7 +55310,7 @@ _CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � _SCR_ ð _windstorm,s_ Þ
 **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2604: *****
+****** Chunk 2606: *****
 _CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � _SCR_ ð _windstorm,s_ Þ Þ þ _SCR_ [2] ð _windstorm,other_ Þ
 
 
@@ -55371,7 +55334,7 @@ _CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � _SCR_ ð _windstorm,s_ Þ
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2605: *****
+****** Chunk 2607: *****
 where:
 
 
@@ -55397,7 +55360,7 @@ larger of the following two capital requirements:
 (b) the capital requirement for windstorm risk in region _r_ according to scenario B as set out in paragraph 4.
 ****** END OF CHUNK ******
 
-****** Chunk 2606: *****
+****** Chunk 2608: *****
 (b) the capital requirement for windstorm risk in region _r_ according to scenario B as set out in paragraph 4.
 
 
@@ -55410,7 +55373,7 @@ from the following sequence of events:
 and special purpose vehicles, is equal to 80 % of the specified windstorm loss in region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2607: *****
+****** Chunk 2609: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 40 % of the specified windstorm loss in region _r_ .
 --- Page 77 ---
@@ -55427,7 +55390,7 @@ and special purpose vehicles, is equal to 100 % of the specified windstorm loss 
 purpose vehicles, is equal to 20 % of the specified windstorm loss in region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2608: *****
+****** Chunk 2610: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 20 % of the specified windstorm loss in region _r_ .
 
@@ -55439,7 +55402,7 @@ following amount:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2609: *****
+****** Chunk 2611: *****
 f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
 _L_ ð _windstorm,r_ Þ ¼ _Q_ ð _windstorm,r_ Þ � X _Corr_ ð _windstorm,r,i,j_ Þ � _WSI_ ð _windstorm,r,i_ Þ � _WSI_ ð _windstorm,r,j_ Þ
 
@@ -55450,7 +55413,7 @@ _L_ ð _windstorm,r_ Þ ¼ _Q_ ð _windstorm,r_ Þ � X _Corr_ ð _windstorm,r,
 s
 ****** END OF CHUNK ******
 
-****** Chunk 2610: *****
+****** Chunk 2612: *****
 s
 
 
@@ -55475,7 +55438,7 @@ _Corr_ ð _windstorm,r,i,j_ Þ � _WSI_ ð _windstorm,r,i_ Þ � _WSI_ ð _win
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2611: *****
+****** Chunk 2613: *****
 where:
 
 
@@ -55506,7 +55469,7 @@ where:
 (a) _W_ _(windstorm,r,i)_ denotes the risk weight for windstorm risk in risk zone _i_ of region _r_ set out in Annex X;
 ****** END OF CHUNK ******
 
-****** Chunk 2612: *****
+****** Chunk 2614: *****
 where:
 
 
@@ -55530,7 +55493,7 @@ where:
 in Annex I in relation to contracts that cover windstorm risk and where the risk is situated in risk zone _i_ of region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2613: *****
+****** Chunk 2615: *****
 (b) _SI_ _(onshore-property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 6 and 18
 set out in Annex I in relation to contracts that cover onshore property damage by windstorm and where the risk is
 situated in risk zone _i_ of region _r_ .
@@ -55546,7 +55509,7 @@ obligations:
 situated in one of the regions set out in Annex XIII;
 ****** END OF CHUNK ******
 
-****** Chunk 2614: *****
+****** Chunk 2616: *****
 (a) obligations of lines of business 7 or 19 set out in Annex I that cover windstorm risk and where the risk is not
 situated in one of the regions set out in Annex XIII;
 
@@ -55568,13 +55531,13 @@ where:
 referred to in paragraph 8 and restricted to the regions 5 to 18 set out in point (8) of Annex III;
 ****** END OF CHUNK ******
 
-****** Chunk 2615: *****
+****** Chunk 2617: *****
 (b) _P_ _windstorm_ is an estimate of the premiums to be earned by insurance and reinsurance undertakings for each contract
 that covers the obligations referred to in paragraph 8 during the following 12 months: for this purpose premiums
 shall be gross, without deduction of premiums for reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2616: *****
+****** Chunk 2618: *****
 **Earthquake risk sub-module**
 
 
@@ -55586,7 +55549,7 @@ shall be gross, without deduction of premiums for reinsurance contracts.
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2617: *****
+****** Chunk 2619: *****
 f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i **f**
 _SCR_ _earthquake_ ¼ ðX _CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ � _SCR_ ð _earthquake,s_ Þ Þ þ _SCR_ [2] ð _earthquake,other_ Þ
 
@@ -55594,7 +55557,7 @@ _SCR_ _earthquake_ ¼ ðX _CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ �
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2618: *****
+****** Chunk 2620: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 s
@@ -55607,7 +55570,7 @@ s
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2619: *****
+****** Chunk 2621: *****
 _CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ � _SCR_ ð _earthquake,s_ Þ Þ þ _SCR_ [2] ð _earthquake,other_ Þ
 
 
@@ -55624,7 +55587,7 @@ _CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ � _SCR_ ð _earthquake,s_ 
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2620: *****
+****** Chunk 2622: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55643,7 +55606,7 @@ where:
 (d) _SCR_ _(earthquake,other)_ denotes the capital requirement for earthquake risk in regions other than those set out in Annex XIII.
 ****** END OF CHUNK ******
 
-****** Chunk 2621: *****
+****** Chunk 2623: *****
 (d) _SCR_ _(earthquake,other)_ denotes the capital requirement for earthquake risk in regions other than those set out in Annex XIII.
 
 
@@ -55655,7 +55618,7 @@ vehicles, is equal to the following amount:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2622: *****
+****** Chunk 2624: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55663,7 +55626,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i 
 _L_ ð _earthquake,r_ Þ ¼ _Q_ ð _earthquake,r_ Þ � X _Corr_ ð _earthquake,r,i,j_ Þ � _WSI_ ð _earthquake,r,i_ Þ � _WSI_ ð _earthquake,r,j_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2623: *****
+****** Chunk 2625: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55676,7 +55639,7 @@ s
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2624: *****
+****** Chunk 2626: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -55693,7 +55656,7 @@ _Corr_ ð _earthquake,r,i,j_ Þ � _WSI_ ð _earthquake,r,i_ Þ � _WSI_ ð _e
 ð _i,j_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2625: *****
+****** Chunk 2627: *****
 ð _i,j_ Þ
 
 
@@ -55717,7 +55680,7 @@ where:
 Annex XXIII;
 ****** END OF CHUNK ******
 
-****** Chunk 2626: *****
+****** Chunk 2628: *****
 (c) _Corr_ _(earthquake,r,i,j)_ denotes the correlation coefficient for earthquake risk in risk zones _i_ and _j_ of region _r_ set out in
 Annex XXIII;
 
@@ -55742,7 +55705,7 @@ where:
 (b) _SI_ _(earthquake,r,i)_ denotes the sum insured for earthquake risk in earthquake zone _i_ of region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2627: *****
+****** Chunk 2629: *****
 (b) _SI_ _(earthquake,r,i)_ denotes the sum insured for earthquake risk in earthquake zone _i_ of region _r_ .
 
 
@@ -55761,7 +55724,7 @@ out in Annex I in relation to contracts that cover earthquake risk and where the
 region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2628: *****
+****** Chunk 2630: *****
 (b) _SI_ _(onshore-property,r,i)_ denotes the sum insured of the insurance or reinsurance undertaking for lines of business 6 and 18 as
 set out in Annex I in relation to contracts that cover onshore property damage by earthquake and where the risk is
 situated in risk zone _i_ of region _r_ .
@@ -55776,7 +55739,7 @@ obligations:
 situated in one of the regions set out in Annex XIII;
 ****** END OF CHUNK ******
 
-****** Chunk 2629: *****
+****** Chunk 2631: *****
 (a) obligations of lines of business 7 or 19 as set out in Annex I that cover earthquake risk, where the risk is not
 situated in one of the regions set out in Annex XIII;
 
@@ -55799,13 +55762,13 @@ where:
 referred to in points (a) and (b) of paragraph 5 and restricted to the regions 5 to 18 set out in Annex III;
 ****** END OF CHUNK ******
 
-****** Chunk 2630: *****
+****** Chunk 2632: *****
 (b) _P_ _earthquake_ is an estimate of the premiums to be earned by insurance and reinsurance undertakings for each contract
 that covers the obligations referred to in points (a) and (b) of paragraph 5 during the following 12 months: for this
 purpose premiums shall be gross, without deduction of premiums for reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2631: *****
+****** Chunk 2633: *****
 **Flood risk sub-module**
 
 
@@ -55819,7 +55782,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i 
 _SCR_ _flood_ ¼ ðX _CorrFL_ ð _r,s_ Þ � _SCR_ ð _flood,r_ Þ � _SCR_ ð _flood,s_ Þ Þ þ _SCR_ [2] ð _flood,other_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2632: *****
+****** Chunk 2634: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 s
@@ -55838,7 +55801,7 @@ _CorrFL_ ð _r,s_ Þ � _SCR_ ð _flood,r_ Þ � _SCR_ ð _flood,s_ Þ Þ þ _
 ð _r,s_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2633: *****
+****** Chunk 2635: *****
 ð _r,s_ Þ
 
 
@@ -55865,7 +55828,7 @@ where:
 larger of the following capital requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 2634: *****
+****** Chunk 2636: *****
 2. For all regions set out in Annex VII, the capital requirement for flood risk in a particular region _r_ shall be the
 larger of the following capital requirements:
 
@@ -55885,7 +55848,7 @@ from the following sequence of events:
 and special purpose vehicles, is equal to 65 % of the specified flood loss in region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2635: *****
+****** Chunk 2637: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 45 % of the specified flood loss in region _r_ .
 
@@ -55899,7 +55862,7 @@ from the following sequence of events:
 and special purpose vehicles, is equal to 100 % of the specified flood loss in region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2636: *****
+****** Chunk 2638: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 10 % of the specified flood loss in region _r_ .
 --- Page 80 ---
@@ -55910,7 +55873,7 @@ amount:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2637: *****
+****** Chunk 2639: *****
 f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** iffi
 _L_ ð _flood,r_ Þ ¼ _Q_ ð _flood,r_ Þ � X _Corr_ ð _flood,r,i,j_ Þ � _WSI_ ð _flood,r,i_ Þ � _WSI_ ð _flood,r,j_ Þ
 
@@ -55928,7 +55891,7 @@ s
 _Corr_ ð _flood,r,i,j_ Þ � _WSI_ ð _flood,r,i_ Þ � _WSI_ ð _flood,r,j_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2638: *****
+****** Chunk 2640: *****
 _Corr_ ð _flood,r,i,j_ Þ � _WSI_ ð _flood,r,i_ Þ � _WSI_ ð _flood,r,j_ Þ
 
 
@@ -55955,7 +55918,7 @@ where:
 (c) _Corr_ _(flood,r,i,j)_ denotes the correlation coefficient for flood risk in flood zones _i_ and _j_ of region _r_ set out in Annex XXIV;
 ****** END OF CHUNK ******
 
-****** Chunk 2639: *****
+****** Chunk 2641: *****
 (c) _Corr_ _(flood,r,i,j)_ denotes the correlation coefficient for flood risk in flood zones _i_ and _j_ of region _r_ set out in Annex XXIV;
 
 
@@ -55979,7 +55942,7 @@ where:
 (b) _SI_ _(flood,r,i)_ denotes the sum insured for flood risk in flood zone _i_ of region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2640: *****
+****** Chunk 2642: *****
 (b) _SI_ _(flood,r,i)_ denotes the sum insured for flood risk in flood zone _i_ of region _r_ .
 
 
@@ -56002,7 +55965,7 @@ set out in Annex I in relation to contracts that cover onshore property damage b
 situated in risk zone _i_ of region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2641: *****
+****** Chunk 2643: *****
 (c) _SI_ _(motor,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 5 and 17 as set
 out in Annex I in relation to contracts that cover flood risk, where the risk is situated in risk zone _i_ of region _r_ .
 
@@ -56020,7 +55983,7 @@ one of the regions set out in Annex XIII;
 where the risk is not situated in one of the regions set out in Annex XIII;
 ****** END OF CHUNK ******
 
-****** Chunk 2642: *****
+****** Chunk 2644: *****
 (b) obligations of lines of business 6 or 18 as set out in Annex I in relation to onshore property damage by flood,
 where the risk is not situated in one of the regions set out in Annex XIII;
 
@@ -56043,14 +56006,14 @@ where:
 to in points (a), (b) and (c) of paragraph 8 and restricted to the regions 5 to 18 set out in point (8) of Annex III;
 ****** END OF CHUNK ******
 
-****** Chunk 2643: *****
+****** Chunk 2645: *****
 (b) _P_ _flood_ is an estimate of the premiums to be earned by the insurance or reinsurance undertaking for each contract that
 covers the obligations referred to in points (a), (b) and (c) of paragraph 8 during the following 12 months: for this
 purpose, premiums shall be gross, without deduction of premiums for reinsurance contracts.
 --- Page 81 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2644: *****
+****** Chunk 2646: *****
 **Hail risk sub-module**
 
 
@@ -56062,7 +56025,7 @@ purpose, premiums shall be gross, without deduction of premiums for reinsurance 
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2645: *****
+****** Chunk 2647: *****
 f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffiffi
 _SCR_ _hail_ ¼ ðX _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SCR_ [2] ð _hail,other_ Þ
 
@@ -56070,7 +56033,7 @@ _SCR_ _hail_ ¼ ðX _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2646: *****
+****** Chunk 2648: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 s
@@ -56085,7 +56048,7 @@ s
 _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SCR_ [2] ð _hail,other_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2647: *****
+****** Chunk 2649: *****
 _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SCR_ [2] ð _hail,other_ Þ
 
 
@@ -56102,7 +56065,7 @@ _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SC
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2648: *****
+****** Chunk 2650: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56125,7 +56088,7 @@ where:
 of the following capital requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 2649: *****
+****** Chunk 2651: *****
 2. For all regions set out in Annex VIII, the capital requirement for hail risk in a particular region _r_ shall be the larger
 of the following capital requirements:
 
@@ -56145,7 +56108,7 @@ from the following sequence of events:
 and special purpose vehicles, is equal to 70 % of the specified hail loss in region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2650: *****
+****** Chunk 2652: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 50 % of the specified hail loss in region _r_ .
 
@@ -56163,7 +56126,7 @@ and special purpose vehicles, is equal to 100 % of the specified hail loss in re
 purpose vehicles, is equal to 20 % of the specified hail loss in region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2651: *****
+****** Chunk 2653: *****
 (b) a loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles, is equal to 20 % of the specified hail loss in region _r_ .
 
@@ -56179,7 +56142,7 @@ amount:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2652: *****
+****** Chunk 2654: *****
 f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffi
 _L_ ð _hail,r_ Þ ¼ _Q_ ð _hail,r_ Þ � X _Corr_ ð _hail,r,i,j_ Þ � _WSI_ ð _hail,r,i_ Þ � _WSI_ ð _hail,r,j_ Þ
 
@@ -56193,7 +56156,7 @@ _L_ ð _hail,r_ Þ ¼ _Q_ ð _hail,r_ Þ � X _Corr_ ð _hail,r,i,j_ Þ � _WS
 s
 ****** END OF CHUNK ******
 
-****** Chunk 2653: *****
+****** Chunk 2655: *****
 s
 
 
@@ -56211,7 +56174,7 @@ _Corr_ ð _hail,r,i,j_ Þ � _WSI_ ð _hail,r,i_ Þ � _WSI_ ð _hail,r,j_ Þ
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2654: *****
+****** Chunk 2656: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56234,7 +56197,7 @@ where:
 (b) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of region _r_ set out in Annex IX;
 ****** END OF CHUNK ******
 
-****** Chunk 2655: *****
+****** Chunk 2657: *****
 (b) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of region _r_ set out in Annex IX;
 
 
@@ -56258,7 +56221,7 @@ where:
 (a) _W_ _(hail,r,i)_ denotes the risk weight for hail risk in risk zone _i_ of region _r_ set out in Annex X;
 ****** END OF CHUNK ******
 
-****** Chunk 2656: *****
+****** Chunk 2658: *****
 _WSI_ ð _hail,r,i_ Þ ¼ _W_ ð _hail,r,i_ Þ � _SI_ ð _hail,r,i_ Þ
 
 
@@ -56284,7 +56247,7 @@ where:
 out in Annex I in relation to contracts that cover hail risk, where the risk is situated in risk zone _i_ of region _r_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2657: *****
+****** Chunk 2659: *****
 (b) _SI_ _(onshore-property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 6 and 18 as
 set out in Annex I in relation to contracts that cover onshore property damage by hail, where the risk is situated in
 risk zone _i_ of region _r_ ;
@@ -56300,7 +56263,7 @@ basic own funds of insurance and reinsurance undertakings that would result from
 each insurance and reinsurance contract that covers one or more of the following insurance or reinsurance obligations:
 ****** END OF CHUNK ******
 
-****** Chunk 2658: *****
+****** Chunk 2660: *****
 (a) obligations of lines of business 7 or 19 as set out in Annex I that cover hail risk, where the risk is not situated in
 one of the regions set out in Annex XIII;
 
@@ -56323,7 +56286,7 @@ _L_ ð _hail,other_ Þ ¼ 0,3 �ð0,5 � _DIV_ _hail_ þ 0,5Þ � _P_ _hail_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2659: *****
+****** Chunk 2661: *****
 _L_ ð _hail,other_ Þ ¼ 0,3 �ð0,5 � _DIV_ _hail_ þ 0,5Þ � _P_ _hail_
 
 
@@ -56339,7 +56302,7 @@ covers the obligations referred to in points (a), (b) and (c) of paragraph 8 dur
 purpose premiums shall be gross, without deduction of premiums for reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2660: *****
+****** Chunk 2662: *****
 **Subsidence risk sub-module**
 
 
@@ -56351,7 +56314,7 @@ amounts recoverable from reinsurance contracts and special purpose vehicles, is 
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2661: *****
+****** Chunk 2663: *****
 f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
 _L_ _subsidence_ ¼ 0,0005 � X _Corr_ ð _subsidence,i,j_ Þ � _WSI_ ð _subsidence,i_ Þ � _WSI_ ð _subsidence,j_ Þ
 
@@ -56362,7 +56325,7 @@ _L_ _subsidence_ ¼ 0,0005 � X _Corr_ ð _subsidence,i,j_ Þ � _WSI_ ð _sub
 s
 ****** END OF CHUNK ******
 
-****** Chunk 2662: *****
+****** Chunk 2664: *****
 s
 
 
@@ -56390,7 +56353,7 @@ where:
 (a) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of France set out in Annex IX;
 ****** END OF CHUNK ******
 
-****** Chunk 2663: *****
+****** Chunk 2665: *****
 where:
 
 
@@ -56416,7 +56379,7 @@ where:
 (a) _W_ _(subsidence,i)_ denotes the risk weight for subsidence risk in risk zone _i_ set out in Annex X;
 ****** END OF CHUNK ******
 
-****** Chunk 2664: *****
+****** Chunk 2666: *****
 _WSI_ ð _subsidence,i_ Þ ¼ _W_ ð _subsidence,i_ Þ � _SI_ ð _subsidence,i_ Þ
 
 
@@ -56430,7 +56393,7 @@ where:
 out in Annex I in relation to contracts that cover subsidence risk of residential buildings in subsidence zone _i_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2665: *****
+****** Chunk 2667: *****
 **Interpretation of catastrophe scenarios**
 
 
@@ -56451,7 +56414,7 @@ between the first and the second event. The assumptions about future management 
 and verifiable.
 ****** END OF CHUNK ******
 
-****** Chunk 2666: *****
+****** Chunk 2668: *****
 **Sub-module for catastrophe risk of non-proportional property reinsurance**
 
 
@@ -56472,7 +56435,7 @@ _L_ _npproperty_ ¼ 2,5 �ð0,5 � _DIV_ _npproperty_ þ 0,5Þ � _P_ _npprop
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2667: *****
+****** Chunk 2669: *****
 _L_ _npproperty_ ¼ 2,5 �ð0,5 � _DIV_ _npproperty_ þ 0,5Þ � _P_ _npproperty_
 
 
@@ -56491,7 +56454,7 @@ and 21 as set out in Annex I: for this purpose premiums shall be gross, without 
 reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2668: *****
+****** Chunk 2670: *****
 **Man-made catastrophe risk sub-module**
 
 
@@ -56526,7 +56489,7 @@ reinsurance contracts.
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2669: *****
+****** Chunk 2671: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56551,7 +56514,7 @@ r _i_
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2670: *****
+****** Chunk 2672: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56581,7 +56544,7 @@ where:
 (b) _SCR_ _i_ denotes the capital requirements for sub-module _i_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2671: *****
+****** Chunk 2673: *****
 **Motor vehicle liability risk sub-module**
 
 
@@ -56596,7 +56559,7 @@ _L_ _motor_ ¼ maxð6 000 000; 50 000 � p _N_ _a_ þ 0,05 � _N_ _b_ þ 0,95 
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2672: *****
+****** Chunk 2674: *****
 where:
 
 
@@ -56613,14 +56576,14 @@ undertaking shall be weighted by the relative share of the undertaking's obligat
 motor vehicles.
 ****** END OF CHUNK ******
 
-****** Chunk 2673: *****
+****** Chunk 2675: *****
 2. The deemed policy limit referred to in paragraph 1 shall be the overall limit of the motor vehicle liability
 insurance policy or, where no such overall limit is specified in the terms and conditions of the policy, the sum of the
 limits for damage to property and for personal injury. Where the policy limit is specified as a maximum per victim, the
 deemed policy limit shall be based on the assumption of ten victims.
 ****** END OF CHUNK ******
 
-****** Chunk 2674: *****
+****** Chunk 2676: *****
 **Marine risk sub-module**
 
 
@@ -56647,7 +56610,7 @@ amounts recoverable from reinsurance contracts and special purpose vehicles, is 
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2675: *****
+****** Chunk 2677: *****
 where:
 
 
@@ -56666,7 +56629,7 @@ in relation to tanker _t_ ;
 in relation to tanker _t_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2676: *****
+****** Chunk 2678: *****
 (d) _SI_ _(pollution,t)_ is the sum insured by the insurance or reinsurance undertaking for oil pollution insurance and reinsurance
 in relation to tanker _t_ .
 
@@ -56690,7 +56653,7 @@ reinsurance obligations in relation to platform _p_ :
 (i) obligations to compensate for property damage;
 ****** END OF CHUNK ******
 
-****** Chunk 2677: *****
+****** Chunk 2679: *****
 (i) obligations to compensate for property damage;
 
 
@@ -56706,7 +56669,7 @@ reinsurance obligations in relation to platform _p_ :
 (v) liability insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2678: *****
+****** Chunk 2680: *****
 **Aviation risk sub-module**
 
 
@@ -56726,7 +56689,7 @@ and 27 set out in Annex I;
 aviation liability insurance and reinsurance in relation to aircraft _a_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2679: *****
+****** Chunk 2681: *****
 **Fire risk sub-module**
 
 
@@ -56748,7 +56711,7 @@ terrorist attacks;
 (b) all buildings are partly or fully located within a radius of 200 meters.
 ****** END OF CHUNK ******
 
-****** Chunk 2680: *****
+****** Chunk 2682: *****
 (b) all buildings are partly or fully located within a radius of 200 meters.
 
 
@@ -56757,7 +56720,7 @@ contracts.
 --- Page 86 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2681: *****
+****** Chunk 2683: *****
 **Liability risk sub-module**
 
 
@@ -56774,7 +56737,7 @@ f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f
 _SCR_ _liability_ ¼ X _Corr_ ð _liability,i,j_ Þ � _SCR_ ð _liability,i_ Þ � _SCR_ ð _liability,j_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2682: *****
+****** Chunk 2684: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56797,7 +56760,7 @@ _Corr_ ð _liability,i,j_ Þ � _SCR_ ð _liability,i_ Þ � _SCR_ ð _liabili
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2683: *****
+****** Chunk 2685: *****
 _Corr_ ð _liability,i,j_ Þ � _SCR_ ð _liability,i_ Þ � _SCR_ ð _liability,j_ Þ
 
 
@@ -56824,7 +56787,7 @@ where:
 (a) the sum includes all possible combinations of liability risk groups ( _i_, _j_ ) as set out in Annex XI;
 ****** END OF CHUNK ******
 
-****** Chunk 2684: *****
+****** Chunk 2686: *****
 where:
 
 
@@ -56852,7 +56815,7 @@ where:
 (a) _f_ _(liability,i)_ denotes the risk factor for liability risk group _i_ as set out in Annex XI;
 ****** END OF CHUNK ******
 
-****** Chunk 2685: *****
+****** Chunk 2687: *****
 _L_ ð _liability,i_ Þ ¼ _f_ ð _liability,i_ Þ � _P_ ð _liability,i_ Þ
 
 
@@ -56879,7 +56842,7 @@ group _i_ ;
 (b) the number of claims _n_ _i_ is equal to the lowest integer that exceeds the following amount:
 ****** END OF CHUNK ******
 
-****** Chunk 2686: *****
+****** Chunk 2688: *****
 (b) the number of claims _n_ _i_ is equal to the lowest integer that exceeds the following amount:
 
 
@@ -56902,7 +56865,7 @@ liability risk group _i_ ;
 claims _n_ _i_ is equal to one.
 ****** END OF CHUNK ******
 
-****** Chunk 2687: *****
+****** Chunk 2689: *****
 **Credit and suretyship risk sub-module**
 
 
@@ -56918,7 +56881,7 @@ where:
 (a) _SCR_ _default_ is the capital requirement for the risk of a large credit default;
 ****** END OF CHUNK ******
 
-****** Chunk 2688: *****
+****** Chunk 2690: *****
 where:
 
 
@@ -56935,7 +56898,7 @@ the amounts recoverable from reinsurance contracts and special purpose vehicles,
 insured in relation to the exposure.
 ****** END OF CHUNK ******
 
-****** Chunk 2689: *****
+****** Chunk 2691: *****
 3. The two largest credit insurance exposures referred to in paragraph 2 shall be determined based on a comparison
 of the net loss-given-default of the credit insurance exposures, being the loss-given-default after deduction of the
 amounts recoverable from reinsurance contracts and special purpose vehicles.
@@ -56947,7 +56910,7 @@ amounts recoverable from reinsurance contracts and special purpose vehicles, is 
 by the insurance or reinsurance undertaking during the following 12 months in lines of business 9 and 21.
 ****** END OF CHUNK ******
 
-****** Chunk 2690: *****
+****** Chunk 2692: *****
 **Sub-module for other non-life catastrophe risk**
 
 
@@ -56961,7 +56924,7 @@ from reinsurance contracts and special purpose vehicles, that is equal to the fo
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2691: *****
+****** Chunk 2693: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56973,7 +56936,7 @@ _L_ _other_ ¼ qð _c_ 1 � _P_ 1 þ _c_ 2 � _P_ 2 Þ 2 þ ð _c_ 3 � _P_ 3
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2692: *****
+****** Chunk 2694: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -56986,7 +56949,7 @@ qð _c_ 1 � _P_ 1 þ _c_ 2 � _P_ 2 Þ 2 þ ð _c_ 3 � _P_ 3 Þ 2 þ ð _c_
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2693: *****
+****** Chunk 2695: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57005,7 +56968,7 @@ qð _c_ 1 � _P_ 1 þ _c_ 2 � _P_ 2 Þ 2 þ ð _c_ 3 � _P_ 3 Þ 2 þ ð _c_
 2 þ ð _c_ 4 � _P_ 4 Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2694: *****
+****** Chunk 2696: *****
 2 þ ð _c_ 4 � _P_ 4 Þ
 
 
@@ -57028,7 +56991,7 @@ qð _c_ 1 � _P_ 1 þ _c_ 2 � _P_ 2 Þ 2 þ ð _c_ 3 � _P_ 3 Þ 2 þ ð _c_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2695: *****
+****** Chunk 2697: *****
 where:
 
 
@@ -57041,11 +57004,11 @@ reinsurance contracts, expected to be earned by the insurance or reinsurance und
 Annex XII.
 ****** END OF CHUNK ******
 
-****** Chunk 2696: *****
+****** Chunk 2698: *****
 _**Life underwriting risk module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2697: *****
+****** Chunk 2699: *****
 **Correlation coefficients**
 
 
@@ -57073,7 +57036,7 @@ _**Life underwriting risk module**_
 (g) the life-catastrophe risk sub-module referred to in point (g) of subparagraph 2 of Article 105(3) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2698: *****
+****** Chunk 2700: *****
 (g) the life-catastrophe risk sub-module referred to in point (g) of subparagraph 2 of Article 105(3) of Directive/EC.
 
 
@@ -57090,7 +57053,7 @@ f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f
 _SCR_ _life_ ¼ X _CorrNL_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 2699: *****
+****** Chunk 2701: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57109,7 +57072,7 @@ s
 _CorrNL_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 2700: *****
+****** Chunk 2702: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57137,7 +57100,7 @@ where:
 (c) _SCR_ _i_ and _SCR_ _j_ denote the capital requirements for risk sub-module _i_ and _j_ respectively.
 ****** END OF CHUNK ******
 
-****** Chunk 2701: *****
+****** Chunk 2703: *****
 (c) _SCR_ _i_ and _SCR_ _j_ denote the capital requirements for risk sub-module _i_ and _j_ respectively.
 
 
@@ -57158,7 +57121,7 @@ item set out in row _i_ and in column _j_ of the following correlation matrix:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2702: *****
+****** Chunk 2704: *****
 **Mortality risk sub-module**
 
 
@@ -57177,7 +57140,7 @@ margin may be based on the following assumptions:
 policy;
 ****** END OF CHUNK ******
 
-****** Chunk 2703: *****
+****** Chunk 2705: *****
 (a) multiple insurance policies in respect of the same insured person may be treated as if they were one insurance
 policy;
 
@@ -57193,7 +57156,7 @@ under an increase of mortality rates shall apply to the underlying insurance pol
 accordance with paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2704: *****
+****** Chunk 2706: *****
 **Longevity risk sub-module**
 
 
@@ -57211,7 +57174,7 @@ margin may be based on the following assumptions:
 policy;
 ****** END OF CHUNK ******
 
-****** Chunk 2705: *****
+****** Chunk 2707: *****
 (a) multiple insurance policies in respect of the same insured person may be treated as if they were one insurance
 policy;
 
@@ -57227,7 +57190,7 @@ under a decrease of mortality rates shall apply to the underlying insurance poli
 accordance with paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2706: *****
+****** Chunk 2708: *****
 **Disability-morbidity risk sub-module**
 
 
@@ -57248,7 +57211,7 @@ reflect the disability and morbidity experience for all months after the followi
 respect of the following 12 months and for all years thereafter.
 ****** END OF CHUNK ******
 
-****** Chunk 2707: *****
+****** Chunk 2709: *****
 **Life-expense risk sub-module**
 
 
@@ -57268,7 +57231,7 @@ With regard to reinsurance obligations, insurance and reinsurance undertakings s
 expenses and, where relevant, to the expenses of the ceding undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2708: *****
+****** Chunk 2710: *****
 **Revision risk sub-module**
 
 
@@ -57280,7 +57243,7 @@ or in the state of health of the person insured.
 --- Page 90 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2709: *****
+****** Chunk 2711: *****
 **Lapse risk sub-module**
 
 
@@ -57297,7 +57260,7 @@ the largest of the following capital requirements:
 (c) the capital requirement for mass lapse risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2710: *****
+****** Chunk 2712: *****
 (b) the capital requirement for the risk of a permanent decrease in lapse rates;
 
 
@@ -57311,7 +57274,7 @@ exercise rates shall not exceed 100 % and the increase in option exercise rates 
 for which the exercise of the option would result in an increase of technical provisions without the risk margin.
 ****** END OF CHUNK ******
 
-****** Chunk 2711: *****
+****** Chunk 2713: *****
 3. The capital requirement for the risk of a permanent decrease in lapse rates shall be equal to the loss in basic own
 funds of insurance and reinsurance undertakings that would result from an instantaneous permanent decrease of 50 %
 in the option exercise rates of the relevant options set out in paragraph 4 and 5. Nevertheless, the decrease in option
@@ -57327,7 +57290,7 @@ margin.
 insurance cover or permit the insurance policy to lapse;
 ****** END OF CHUNK ******
 
-****** Chunk 2712: *****
+****** Chunk 2714: *****
 (a) all legal or contractual policyholder rights to fully or partly terminate, surrender, decrease, restrict or suspend
 insurance cover or permit the insurance policy to lapse;
 
@@ -57351,7 +57314,7 @@ following:
 contracts;
 ****** END OF CHUNK ******
 
-****** Chunk 2713: *****
+****** Chunk 2715: *****
 (b) the rights referred to in paragraph 4 of the policy holders of the insurance contracts underlying the reinsurance
 contracts;
 
@@ -57369,7 +57332,7 @@ Article 2(3)(b)(iii) and (iv) of Directive 2009/138/EC, for which discontinuance
 technical provisions without the risk margin and where one of the following conditions are met:
 ****** END OF CHUNK ******
 
-****** Chunk 2714: *****
+****** Chunk 2716: *****
 (i) the policyholder is not a natural person and discontinuance of the policy is not subject to approval by the bene­
 
 ficiaries of the pension fund;
@@ -57385,7 +57348,7 @@ estate planning or inheritance purposes and the number of beneficiaries under th
 tinuance would result in an increase of technical provisions without the risk margin;
 ****** END OF CHUNK ******
 
-****** Chunk 2715: *****
+****** Chunk 2717: *****
 tinuance would result in an increase of technical provisions without the risk margin;
 
 
@@ -57403,7 +57366,7 @@ events referred to in points (a) and (b) the undertaking shall base the calculat
 most negatively affects the basic own funds of the undertaking on a per policy basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2716: *****
+****** Chunk 2718: *****
 7. Where the largest of the capital requirements referred to in points (a), (b) and (c) of paragraph 1 of this Article and
 the largest of the corresponding capital requirements calculated in accordance with Article 206(2) of this Regulation are
 not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive/EC shall be the capital requirement referred to in points (a), (b) and (c) of paragraph 1 of this Article for
@@ -57411,7 +57374,7 @@ which the underlying scenario results in the largest corresponding capital requi
 Article 206(2) of this Regulations.
 ****** END OF CHUNK ******
 
-****** Chunk 2717: *****
+****** Chunk 2719: *****
 **Life-catastrophe risk sub-module**
 
 
@@ -57427,7 +57390,7 @@ increase in technical provisions. The identification of insurance policies for w
 an increase in technical provisions without the risk margin may be based on the following assumptions:
 ****** END OF CHUNK ******
 
-****** Chunk 2718: *****
+****** Chunk 2720: *****
 (a) multiple insurance policies in respect of the same insured person may be treated as if they were one insurance
 policy;
 
@@ -57443,11 +57406,11 @@ an increase of mortality rates shall apply to the underlying insurance policies 
 with paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2719: *****
+****** Chunk 2721: *****
 _**Health underwriting risk module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2720: *****
+****** Chunk 2722: *****
 **Health underwriting risk module**
 
 
@@ -57480,7 +57443,7 @@ _SCR_ _health_ ¼ X _CorrH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 s
 ****** END OF CHUNK ******
 
-****** Chunk 2721: *****
+****** Chunk 2723: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 s
@@ -57515,7 +57478,7 @@ where:
 the following correlation matrix:
 ****** END OF CHUNK ******
 
-****** Chunk 2722: *****
+****** Chunk 2724: *****
 3. The correlation coefficient _CorrH_ _(i,j)_ referred to in paragraph 2 denotes the item set out in row _i_ and in column _j_ of
 the following correlation matrix:
 
@@ -57550,7 +57513,7 @@ the following correlation matrix:
 business 1, 2, 3, 13, 14, 15 and 25 as set out in Annex I;
 ****** END OF CHUNK ******
 
-****** Chunk 2723: *****
+****** Chunk 2725: *****
 (a) the NSLT health underwriting risk sub-module to health insurance and reinsurance obligations included in lines of
 business 1, 2, 3, 13, 14, 15 and 25 as set out in Annex I;
 
@@ -57562,7 +57525,7 @@ business 29, 33 and 35 as set out in Annex I;
 (c) the health catastrophe risk sub-module to health insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 2724: *****
+****** Chunk 2726: *****
 **NSLT health underwriting risk sub-module**
 
 
@@ -57590,7 +57553,7 @@ where:
 (b) _SCR_ _(NSLTh,lapse)_ denotes the capital requirement for NSLT health lapse risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2725: *****
+****** Chunk 2727: *****
 **NSLT health premium and reserve risk sub-module**
 
 
@@ -57612,7 +57575,7 @@ Article 147.
 --- Page 93 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2726: *****
+****** Chunk 2728: *****
 **Volume measure for NSLT health premium and reserve risk**
 
 
@@ -57649,7 +57612,7 @@ _V_ ð _prem,s_ Þ ¼ maxð _P_ _s_ ; _P_ ð _last,s_ Þ Þ þ _FP_ ð _existing
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2727: *****
+****** Chunk 2729: *****
 _V_ ð _prem,s_ Þ ¼ maxð _P_ _s_ ; _P_ ð _last,s_ Þ Þ þ _FP_ ð _existing,s_ Þ þ _FP_ ð _future,s_ Þ
 
 
@@ -57673,7 +57636,7 @@ in the segment _s_ for contracts where the initial recognition date falls in the
 premiums to be earned during the 12 months after the initial recognition date.
 ****** END OF CHUNK ******
 
-****** Chunk 2728: *****
+****** Chunk 2730: *****
 4. For all segments set out in Annex XIV, insurance and reinsurance undertakings may, as an alternative to the
 calculation set out in paragraph 3, choose to calculate the volume measure for premium risk of a particular segment _s_ in
 accordance with the following formula:
@@ -57697,7 +57660,7 @@ earned premiums referred to in point (a) will be met;
 point (a) and the reasons for it.
 ****** END OF CHUNK ******
 
-****** Chunk 2729: *****
+****** Chunk 2731: *****
 (c) the insurance or reinsurance undertaking has informed its supervisory authority about the decision referred to in
 point (a) and the reasons for it.
 
@@ -57713,7 +57676,7 @@ premiums for reinsurance contracts. The following premiums for reinsurance contr
 (a) premiums in relation to non-insurance events or settled insurance claims that are not accounted for in the cashflows referred to in Article 41(3);
 ****** END OF CHUNK ******
 
-****** Chunk 2730: *****
+****** Chunk 2732: *****
 (a) premiums in relation to non-insurance events or settled insurance claims that are not accounted for in the cashflows referred to in Article 41(3);
 
 
@@ -57729,7 +57692,7 @@ vehicles comply with Articles 209, 210, 211 and 213. The volume measure shall no
 or calculated in accordance with Annex III.
 ****** END OF CHUNK ******
 
-****** Chunk 2731: *****
+****** Chunk 2733: *****
 **Standard deviation for NSLT health premium and reserve risk**
 
 
@@ -57753,7 +57716,7 @@ _V_ _NSLTh_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 2732: *****
+****** Chunk 2734: *****
 1
 _σ_ _NSLTh_ ¼
 _V_ _NSLTh_
@@ -57770,7 +57733,7 @@ f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f
 � X _CorrHS_ ð _s,t_ Þ � _σ_ _s_ � _V_ _s_ � _σ_ _t_ � _V_ _t_
 ****** END OF CHUNK ******
 
-****** Chunk 2733: *****
+****** Chunk 2735: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57784,7 +57747,7 @@ r _s,t_
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2734: *****
+****** Chunk 2736: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57804,7 +57767,7 @@ _s,t_
 (b) the sum covers all possible combinations ( _s_, _t_ ) of the segments set out in Annex XIV;
 ****** END OF CHUNK ******
 
-****** Chunk 2735: *****
+****** Chunk 2737: *****
 (a) _V_ _NSLTh_ denotes the volume measure for NSLT health premium and reserve risk;
 
 
@@ -57826,7 +57789,7 @@ respectively.
 particular segment _s_ shall be equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2736: *****
+****** Chunk 2738: *****
 2. For all segments set out in Annex XIV, the standard deviation for NSLT health premium and reserve risk of a
 particular segment _s_ shall be equal to the following:
 
@@ -57838,7 +57801,7 @@ particular segment _s_ shall be equal to the following:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2737: *****
+****** Chunk 2739: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -57855,7 +57818,7 @@ where:
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2738: *****
+****** Chunk 2740: *****
 _σ_ _s_ ¼
 
 
@@ -57870,7 +57833,7 @@ f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f
 q _σ_ [2] ð _prem,s_ Þ [�] _[V]_ [2] ð _prem,s_ Þ [þ] _[ σ]_ [ð] _[prem,s]_ [Þ] [ �] _[V]_ [ð] _[prem,s]_ [Þ] [ �] _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s]_ [Þ] [ þ] _[ σ]_ [2] ð _res,s_ Þ [�] _[V]_ [2] ð _res,s_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2739: *****
+****** Chunk 2741: *****
 _V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ
 
 
@@ -57891,7 +57854,7 @@ paragraph 3;
 (c) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ referred to in Article 147;
 ****** END OF CHUNK ******
 
-****** Chunk 2740: *****
+****** Chunk 2742: *****
 (c) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ referred to in Article 147;
 
 
@@ -57904,7 +57867,7 @@ out in Annex XIV and the adjustment factor for non-proportional reinsurance. For
 the adjustment factor for non-proportional reinsurance shall be equal to 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2741: *****
+****** Chunk 2743: *****
 **Health risk equalisation systems**
 
 
@@ -57927,7 +57890,7 @@ amounts:
 (i) the standard deviation for NSLT health premium risk of that segment set out in Annex XIV;
 ****** END OF CHUNK ******
 
-****** Chunk 2742: *****
+****** Chunk 2744: *****
 (i) the standard deviation for NSLT health premium risk of that segment set out in Annex XIV;
 
 
@@ -57958,7 +57921,7 @@ amounts:
 (ii) the higher of the following amounts;
 ****** END OF CHUNK ******
 
-****** Chunk 2743: *****
+****** Chunk 2745: *****
 (i) the standard deviation for NSLT health reserve risk of that segment set out in Annex XIV;
 
 
@@ -57985,7 +57948,7 @@ the HRES, including any amendments due to the HRES;
 techniques;
 ****** END OF CHUNK ******
 
-****** Chunk 2744: *****
+****** Chunk 2746: *****
 (d) the determination of the standard deviation is based on adequate, applicable and relevant actuarial and statistical
 techniques;
 
@@ -58004,12 +57967,12 @@ the health catastrophe risk sub-module and that could affect a larger number of 
 the HRES at the same time;
 ****** END OF CHUNK ******
 
-****** Chunk 2745: *****
+****** Chunk 2747: *****
 (h) the methodology for the calculation of the standard deviation and the calculation of the standard deviation is
 publicly available.
 ****** END OF CHUNK ******
 
-****** Chunk 2746: *****
+****** Chunk 2748: *****
 3. Where the implementing act adopted pursuant to Article 109a(4) of Directive 2009/138/EC determine a standard
 deviation for NSLT health insurance premium risk for business subject to a HRES that meet the requirements set out in
 paragraph 2 of this Article, insurance undertakings shall use this standard deviation instead of the standard deviation for
@@ -58021,7 +57984,7 @@ use a standard deviation for NSLT health premium risk of the segment in the calc
 NSLT health premium and reserve risk referred to in Article 148(1) that is equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2747: *****
+****** Chunk 2749: *****
 _σ′_ ð _prem,s_ Þ ¼ _[σ]_ [ð] _[p][rem,s]_ [Þ] [ �] _[V]_ [ð] _V_ _[p][rem,s,nHRES]_ ð _prem,s,nHRES_ [Þ] [ þ] Þ þ _[ σ]_ [ð] _V_ _[p][rem,s,HRES]_ ð _prem,s,HRES_ [Þ] [ �] Þ _[V]_ [ð] _[p][rem,s,HRES]_ [Þ]
 
 
@@ -58043,7 +58006,7 @@ HRES calculated in accordance with paragraph 2;
 HRES.
 ****** END OF CHUNK ******
 
-****** Chunk 2748: *****
+****** Chunk 2750: *****
 (d) _V_ _(prem,s,HRES)_ denotes the volume measure for NSLT health premium risk of business in segment _s_ that is subject to the
 HRES.
 
@@ -58054,7 +58017,7 @@ obligations subject to HRES and _V_ _(prem,s,nHRES)_ shall only take into accoun
 subject to the HRES.
 ****** END OF CHUNK ******
 
-****** Chunk 2749: *****
+****** Chunk 2751: *****
 4. Where the implementing act adopted pursuant to Article 109a(4) of Directive 2009/138/EC determine a standard
 deviation for NSLT health insurance reserve risk for business subject to a HRES that fulfill the requirements set out in
 paragraph 2 of this Article, insurance undertakings shall use this standard deviation instead of the standard deviation for
@@ -58067,7 +58030,7 @@ use a standard deviation for NSLT health premium risk of the segment in the calc
 NSLT health premium and reserve risk referred to in Article 148(1) that is equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2750: *****
+****** Chunk 2752: *****
 _σ′_ ð _res,s_ Þ ¼ _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s,nHRES]_ [Þ] [ þ] _[ σ]_ [ð] _[res,s,HRES]_ [Þ] [ �] _[V]_ [ð] _[res,s,HRES]_ [Þ]
 
 _V_ ð _res,s,nHRES_ Þ þ _V_ ð _res,s,HRES_ Þ
@@ -58091,7 +58054,7 @@ calculated in accordance with paragraph 2;
 HRES.
 ****** END OF CHUNK ******
 
-****** Chunk 2751: *****
+****** Chunk 2753: *****
 (d) _V_ _(res,s,HRES)_ denotes the volume measure for NSLT health reserve risk of business in segment _s_ that is subject to the
 HRES.
 
@@ -58102,7 +58065,7 @@ subject to the HRES and _V_ _(res,s,nHRES)_ shall only take into account the ins
 the HRES.
 ****** END OF CHUNK ******
 
-****** Chunk 2752: *****
+****** Chunk 2754: *****
 5. Insurance and reinsurance undertakings may replace the standard deviations for NSLT health premium and reserve
 risk for business subject to a HRES with parameters specific to the insurance and reinsurance undertaking in accordance
 with Article 104(7) of Directive 2009/138/EC. Supervisory authorities may require insurance and reinsurance
@@ -58111,7 +58074,7 @@ Article 110 of that Directive 2009/138/EC.
 --- Page 97 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2753: *****
+****** Chunk 2755: *****
 **NSLT health lapse risk sub-module**
 
 
@@ -58134,13 +58097,13 @@ In relation to reinsurance contracts the event referred to in point (a) of parag
 insurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2754: *****
+****** Chunk 2756: *****
 3. For the purposes of determining the loss in basic own funds of the insurance or reinsurance undertaking under
 the event referred to in point (a) of paragraph 1, the undertaking shall base the calculation on the type of discontinuance
 which most negatively affects the basic own funds of the undertaking on a per policy basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2755: *****
+****** Chunk 2757: *****
 **SLT health underwriting risk sub-module**
 
 
@@ -58171,7 +58134,7 @@ which most negatively affects the basic own funds of the undertaking on a per po
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2756: *****
+****** Chunk 2758: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -58193,7 +58156,7 @@ s
 _CorrSLTH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 2757: *****
+****** Chunk 2759: *****
 _CorrSLTH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 
 
@@ -58224,7 +58187,7 @@ where:
 column _j_ of the following correlation matrix:
 ****** END OF CHUNK ******
 
-****** Chunk 2758: *****
+****** Chunk 2760: *****
 3. The correlation coefficient _CorrSLTH_ _(i,j)_ referred to in paragraph 2 shall be equal to the item set out in row _i_ and in
 column _j_ of the following correlation matrix:
 
@@ -58261,7 +58224,7 @@ column _j_ of the following correlation matrix:
 --- Page 98 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2759: *****
+****** Chunk 2761: *****
 **Health mortality risk sub-module**
 
 
@@ -58283,7 +58246,7 @@ policy;
 (b) where the calculation of technical provisions is based on groups of policies as referred to in Article 35, the identifi­
 ****** END OF CHUNK ******
 
-****** Chunk 2760: *****
+****** Chunk 2762: *****
 (b) where the calculation of technical provisions is based on groups of policies as referred to in Article 35, the identifi­
 
 cation of the policies for which technical provisions increase under an increase of mortality rates may also be based
@@ -58295,7 +58258,7 @@ under an increase of mortality rates shall apply to the underlying insurance pol
 accordance with paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2761: *****
+****** Chunk 2763: *****
 **Health longevity risk sub-module**
 
 
@@ -58317,7 +58280,7 @@ policy;
 (b) where the calculation of technical provisions is based on groups of policies as referred to in Article 35, the identifi­
 ****** END OF CHUNK ******
 
-****** Chunk 2762: *****
+****** Chunk 2764: *****
 (b) where the calculation of technical provisions is based on groups of policies as referred to in Article 35, the identifi­
 
 cation of the policies for which technical provisions increase under an decrease of mortality rates may also be based
@@ -58328,7 +58291,7 @@ under an decrease of mortality rates shall apply only to the underlying insuranc
 accordance with paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2763: *****
+****** Chunk 2765: *****
 **Health disability-morbidity risk sub-module**
 
 
@@ -58354,7 +58317,7 @@ only to income protection insurance and reinsurance obligations where the underl
 similar technical basis to that of life insurance.
 ****** END OF CHUNK ******
 
-****** Chunk 2764: *****
+****** Chunk 2766: *****
 **Capital requirement for medical expense disability-morbidity risk**
 
 
@@ -58380,7 +58343,7 @@ changes:
 calculation of technical provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2765: *****
+****** Chunk 2767: *****
 (b) an increase by 1 percentage point to the inflation rate of medical payments (expressed as a percentage) used for the
 calculation of technical provisions.
 
@@ -58397,7 +58360,7 @@ changes:
 the calculation of technical provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2766: *****
+****** Chunk 2768: *****
 **Capital requirement for income protection disability-morbidity risk**
 
 
@@ -58417,12 +58380,12 @@ reflect the disability and morbidity in the years after the following 12 months;
 50 %, a decrease of 20 % in those rates;
 ****** END OF CHUNK ******
 
-****** Chunk 2767: *****
+****** Chunk 2769: *****
 (d) where the disability and morbidity persistency rates used in the calculation of technical provisions are equal or lower
 than 50 %, an increase of 20 % in those rates.
 ****** END OF CHUNK ******
 
-****** Chunk 2768: *****
+****** Chunk 2770: *****
 **Health expense risk sub-module**
 
 
@@ -58441,7 +58404,7 @@ With regard to reinsurance obligations, insurance and reinsurance undertakings s
 expenses and, where relevant, to the expenses of the ceding undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 2769: *****
+****** Chunk 2771: *****
 **Health revision risk sub-module**
 
 
@@ -58452,7 +58415,7 @@ insurance policies could increase as a result of changes in inflation, the legal
 person insured.
 ****** END OF CHUNK ******
 
-****** Chunk 2770: *****
+****** Chunk 2772: *****
 **SLT health lapse risk sub-module**
 
 
@@ -58469,7 +58432,7 @@ following capital requirements:
 (c) capital requirement for SLT health mass lapse risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2771: *****
+****** Chunk 2773: *****
 (b) capital requirement for the risk of a permanent decrease in SLT health lapse rates;
 
 
@@ -58483,7 +58446,7 @@ exercise rates shall not exceed 100 % and the increase in option exercise rates 
 for which the exercise would result in an increase of technical provisions without the risk margin.
 ****** END OF CHUNK ******
 
-****** Chunk 2772: *****
+****** Chunk 2774: *****
 3. The capital requirement for the risk of a permanent decrease in SLT health lapse rates shall be equal to the loss in
 basic own funds of insurance and reinsurance undertakings that would result from an instantaneous permanent decrease
 of 50 % in the option exercise rates of the relevant options set out in paragraph 4 and 5. Nevertheless, the decrease in
@@ -58498,7 +58461,7 @@ those relevant options for which the exercise would result in a decrease of tech
 insurance or reinsurance cover or permit the insurance policy to lapse;
 ****** END OF CHUNK ******
 
-****** Chunk 2773: *****
+****** Chunk 2775: *****
 (a) all legal or contractual policyholder rights to fully or partly terminate, surrender, decrease, restrict or suspend the
 insurance or reinsurance cover or permit the insurance policy to lapse;
 
@@ -58521,7 +58484,7 @@ following:
 contracts;
 ****** END OF CHUNK ******
 
-****** Chunk 2774: *****
+****** Chunk 2776: *****
 (b) the rights set out in paragraph 4 of the policy holders of the insurance contracts underlying the reinsurance
 contracts;
 
@@ -58543,7 +58506,7 @@ of 40 % of the number of those future insurance or reinsurance contracts used in
 provisions.
 ****** END OF CHUNK ******
 
-****** Chunk 2775: *****
+****** Chunk 2777: *****
 The events referred to in the first subparagraph shall apply uniformly to all insurance and reinsurance contracts
 concerned. In relation to reinsurance contracts the event referred to in point (a) shall apply to the underlying insurance
 contracts.
@@ -58554,7 +58517,7 @@ event referred to in point (a), the undertaking shall base the calculation on th
 negatively affects the basic own funds of the undertaking on a per policy basis.
 ****** END OF CHUNK ******
 
-****** Chunk 2776: *****
+****** Chunk 2778: *****
 7. Where the largest of the capital requirements referred to in points (a) (b), and (c) of paragraph 1 of this Article and
 the largest of the corresponding capital requirements calculated in accordance with Article 206(2) of this Regulation are
 not based on the same scenario, the capital requirement for lapse risk referred to in Article 105(3)(f) of Directive/EC shall be the capital requirement referred to in points (a), (b) or (c) of paragraph 1 of this Article for which
@@ -58562,7 +58525,7 @@ the underlying scenario results in the largest corresponding capital requirement
 Article 206(2) of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2777: *****
+****** Chunk 2779: *****
 **Health catastrophe risk sub-module**
 
 
@@ -58592,7 +58555,7 @@ where:
 compensation insurance and reinsurance obligations;
 ****** END OF CHUNK ******
 
-****** Chunk 2778: *****
+****** Chunk 2780: *****
 (a) the mass accident risk sub-module to health insurance and reinsurance obligations other than workers'
 compensation insurance and reinsurance obligations;
 
@@ -58606,7 +58569,7 @@ insurance and reinsurance obligations.
 --- Page 102 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2779: *****
+****** Chunk 2781: *****
 **Mass accident risk sub-module**
 
 
@@ -58660,7 +58623,7 @@ where:
 (a) the sum includes all countries set out in Annex XVI;
 ****** END OF CHUNK ******
 
-****** Chunk 2780: *****
+****** Chunk 2782: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -58705,7 +58668,7 @@ where:
 _x_ _e_ � _E_ ð _e,s_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 2781: *****
+****** Chunk 2783: *****
 _e_
 
 
@@ -58743,7 +58706,7 @@ Annex XVI;
 country _s_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2782: *****
+****** Chunk 2784: *****
 (d) _E_ _(e,s)_ denotes the total value of benefits payable by insurance and reinsurance undertakings for event type _e_ in
 country _s_ .
 
@@ -58784,7 +58747,7 @@ _SI_ ð _e,i_ Þ
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2783: *****
+****** Chunk 2785: *****
 _SI_ ð _e,i_ Þ
 
 
@@ -58803,7 +58766,7 @@ type _e_ and are inhabitants of country _s_ ;
 in case of event type _e_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2784: *****
+****** Chunk 2786: *****
 (b) _SI_ _(e,i)_ denotes the value of the benefits payable by the insurance or reinsurance undertaking for the insured person _i_
 in case of event type _e_ .
 
@@ -58817,13 +58780,13 @@ paid in case of event _e_, assuming the insured person is disabled for the durat
 specific guarantees the obligations include.
 ****** END OF CHUNK ******
 
-****** Chunk 2785: *****
+****** Chunk 2787: *****
 4. Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the value of benefits
 payable to insured person referred to in paragraph 3 based on homogenous risk groups, provided that the grouping of
 policies complies with Article 35.
 ****** END OF CHUNK ******
 
-****** Chunk 2786: *****
+****** Chunk 2788: *****
 **Accident concentration risk sub-module**
 
 
@@ -58872,7 +58835,7 @@ where:
 (b) _SCR_ _(ac,c)_ denotes the capital requirement for accident concentration risk of country _c_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2787: *****
+****** Chunk 2789: *****
 _c_
 --- Page 103 ---
 where:
@@ -58915,7 +58878,7 @@ _x_ _e_ � _CE_ ð _e,c_ Þ
 Annex XVI;
 ****** END OF CHUNK ******
 
-****** Chunk 2788: *****
+****** Chunk 2790: *****
 (c) _x_ _e_ denotes the ratio of persons which will receive benefits of event type _e_ as a result of the accident as set out in
 Annex XVI;
 
@@ -58938,7 +58901,7 @@ group income protection insurance or reinsurance obligation in relation to each 
 (c) the persons are working in the same building which is situated in country _c_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2789: *****
+****** Chunk 2791: *****
 (b) the obligations in relation to each of the persons cover at least one of the events set out in Annex XVI;
 
 
@@ -58981,7 +58944,7 @@ in country _c_ ;
 in case of event type _e._
 ****** END OF CHUNK ******
 
-****** Chunk 2790: *****
+****** Chunk 2792: *****
 (c) _SI_ _(e,i)_ denotes the value of the benefits payable by the insurance or reinsurance undertaking for the insured person _i_
 in case of event type _e._
 
@@ -58995,14 +58958,14 @@ amounts paid in case of event _e_, assuming the insured person is disabled for t
 account the specific guarantees the obligations include.
 ****** END OF CHUNK ******
 
-****** Chunk 2791: *****
+****** Chunk 2793: *****
 5. Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the value of the benefits
 payable by the insurance or reinsurance undertaking for the insured person referred to in paragraph 4 based on
 homogenous risk groups, provided that the grouping of policies complies with the requirements set out in Article 35.
 --- Page 104 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2792: *****
+****** Chunk 2794: *****
 **Pandemic risk sub-module**
 
 
@@ -59039,7 +59002,7 @@ following conditions:
 (i) the insured persons are inhabitants of country _c_,
 ****** END OF CHUNK ******
 
-****** Chunk 2793: *****
+****** Chunk 2795: *****
 (c) _N_ _c_ denotes the number of insured persons of insurance and reinsurance undertakings which meet all of the
 following conditions:
 
@@ -59079,7 +59042,7 @@ _E_ _i_
 than workers' compensation insurance or reinsurance obligations;
 ****** END OF CHUNK ******
 
-****** Chunk 2794: *****
+****** Chunk 2796: *****
 _E_ _i_
 
 
@@ -59115,7 +59078,7 @@ _H_ _h_ � _CH_ ð _h,c_ Þ
 (a) the sum includes the types of healthcare utilisation _h_ set out in Annex XVI;
 ****** END OF CHUNK ******
 
-****** Chunk 2795: *****
+****** Chunk 2797: *****
 _M_ _c_ ¼ X
 
 _h_
@@ -59140,15 +59103,15 @@ person in country _c_ in relation to medical expense insurance or reinsurance ob
 compensation insurance or reinsurance obligations, for healthcare utilisation _h_ in the event of a pandemic.
 ****** END OF CHUNK ******
 
-****** Chunk 2796: *****
+****** Chunk 2798: *****
 _**Market risk module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2797: *****
+****** Chunk 2799: *****
 **Correlation coefficients**
 ****** END OF CHUNK ******
 
-****** Chunk 2798: *****
+****** Chunk 2800: *****
 1. The market risk module shall consist of all of the following sub-modules:
 
 
@@ -59173,7 +59136,7 @@ _**Market risk module**_
 the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2799: *****
+****** Chunk 2801: *****
 2. The capital requirement for market risk referred to in Article 105(5) of Directive 2009/138/EC shall be equal to
 the following:
 
@@ -59203,7 +59166,7 @@ _Corr_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 2800: *****
+****** Chunk 2802: *****
 _Corr_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 
 
@@ -59246,7 +59209,7 @@ column _j_ of the following correlation matrix:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2801: *****
+****** Chunk 2803: *****
 3. The correlation parameter _Corr_ _(i,j)_ referred to in paragraph 2 shall be equal to the item set out in row _i_ and in
 column _j_ of the following correlation matrix:
 
@@ -59268,11 +59231,11 @@ The parameter A shall be equal to 0 where the capital requirement for interest r
 capital requirement referred to in point (a) of that Article. In all other cases, the parameter A shall be equal to 0,5.
 ****** END OF CHUNK ******
 
-****** Chunk 2802: *****
+****** Chunk 2804: *****
 **Interest rate risk sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2803: *****
+****** Chunk 2805: *****
 **General provisions**
 
 
@@ -59284,7 +59247,7 @@ Directive 2009/138/EC shall be equal to the larger of the following:
 rates as set out in Article 166 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 2804: *****
+****** Chunk 2806: *****
 (a) the sum, over all currencies, of the capital requirements for the risk of an increase in the term structure of interest
 rates as set out in Article 166 of this Regulation;
 
@@ -59299,7 +59262,7 @@ for which the underlying scenario results in the largest corresponding capital r
 Article 206(2).
 ****** END OF CHUNK ******
 
-****** Chunk 2805: *****
+****** Chunk 2807: *****
 **Increase in the term structure of interest rates**
 
 
@@ -59343,7 +59306,7 @@ shorter than 1 year, the increase shall be 70 %. For maturities longer than 90 y
 2. In any case, the increase of basic-risk-free interest rates at any maturity shall be at least one percentage point.
 ****** END OF CHUNK ******
 
-****** Chunk 2806: *****
+****** Chunk 2808: *****
 2. In any case, the increase of basic-risk-free interest rates at any maturity shall be at least one percentage point.
 
 
@@ -59353,7 +59316,7 @@ value of the participations that are not deducted from own funds pursuant to Art
 deducted from own funds shall be considered only to the extent that such impact increases the basic own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2807: *****
+****** Chunk 2809: *****
 **Decrease in the term structure of interest rates**
 
 
@@ -59397,7 +59360,7 @@ shorter than 1 year, the decrease shall be 75 %. For maturities longer than 90 y
 2. Notwithstanding paragraph 1, for negative basic risk-free interest rates the decrease shall be nil.
 ****** END OF CHUNK ******
 
-****** Chunk 2808: *****
+****** Chunk 2810: *****
 2. Notwithstanding paragraph 1, for negative basic risk-free interest rates the decrease shall be nil.
 
 
@@ -59407,11 +59370,11 @@ value of the participations that are not deducted from own funds pursuant to Art
 deducted from own funds shall be considered only to the extent that such impact increases the basic own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2809: *****
+****** Chunk 2811: *****
 **Equity risk sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2810: *****
+****** Chunk 2812: *****
 **General provisions**
 
 
@@ -59422,7 +59385,7 @@ deducted from own funds shall be considered only to the extent that such impact 
 European Economic Area (EEA) or the Organisation for Economic Cooperation and Development (OECD).
 ****** END OF CHUNK ******
 
-****** Chunk 2811: *****
+****** Chunk 2813: *****
 3. Type 2 equities shall comprise equities listed in stock exchanges in countries which are not members of the EEA or
 the OECD, equities which are not listed, commodities and other alternative investments. They shall also comprise all
 assets other than those covered in the interest rate risk sub-module, the property risk sub-module or the spread risk
@@ -59434,7 +59397,7 @@ Article 84(3).
 4. The capital requirement for equity risk shall be equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2812: *****
+****** Chunk 2814: *****
 4. The capital requirement for equity risk shall be equal to the following:
 
 
@@ -59448,7 +59411,7 @@ where:
 (a) _SCR_ _type 1 equities_ denotes the capital requirement for type 1 equities;
 ****** END OF CHUNK ******
 
-****** Chunk 2813: *****
+****** Chunk 2815: *****
 where:
 
 
@@ -59466,7 +59429,7 @@ value of the participations that are not deducted from own funds pursuant to Art
 6. The following equities shall in any case be considered as type 1:
 ****** END OF CHUNK ******
 
-****** Chunk 2814: *****
+****** Chunk 2816: *****
 6. The following equities shall in any case be considered as type 1:
 
 
@@ -59477,7 +59440,7 @@ investment undertaking, or units or shares of those funds where the look through
 exposures within the collective investment undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2815: *****
+****** Chunk 2817: *****
 (b) equities held within collective investment undertakings which are qualifying venture capital funds as referred to in
 Article 3(b) of Regulation (EU) No 345/2013 where the look-through approach set out in Article 84 of this
 Regulation is possible for all exposures within the collective investment undertaking, or units or shares of those
@@ -59492,7 +59455,7 @@ funds (OJ L 115, 25.4.2013, p. 18).
 are not established in the Union, which are marketed in the Union in accordance with Articles 35 or 40 of Directive/EU:
 ****** END OF CHUNK ******
 
-****** Chunk 2816: *****
+****** Chunk 2818: *****
 (i) equities held within such funds where the look-through approach set out in Article 84 of this Regulation is
 possible for all exposures within the alternative investment fund;
 
@@ -59501,7 +59464,7 @@ possible for all exposures within the alternative investment fund;
 alternative investment fund.
 ****** END OF CHUNK ******
 
-****** Chunk 2817: *****
+****** Chunk 2819: *****
 **Standard equity risk sub-module**
 
 
@@ -59522,7 +59485,7 @@ this Regulation, in the value of type 1 equities other than those referred to in
 in the basic own funds that would result from the following instantaneous decreases:
 ****** END OF CHUNK ******
 
-****** Chunk 2818: *****
+****** Chunk 2820: *****
 (a) an instantaneous decrease equal to 22 % in the value of type 2 equity investments in related undertakings with the
 meaning of Article 212(1)(b) and 212(2) of Directive 2009/138/EC where these investments are of a strategic
 nature;
@@ -59532,7 +59495,7 @@ nature;
 the value of type 2 equities, other than those referred to in point (a).
 ****** END OF CHUNK ******
 
-****** Chunk 2819: *****
+****** Chunk 2821: *****
 **Duration-based equity risk sub-module**
 
 
@@ -59554,7 +59517,7 @@ nature;
 this Regulation, in the value of type 1 equities, other than those referred to in points (a) or (b).
 ****** END OF CHUNK ******
 
-****** Chunk 2820: *****
+****** Chunk 2822: *****
 2. Where an insurance or reinsurance undertaking has received supervisory approval to apply the provisions set out
 in Article 304 of Directive 2009/138/EC, the capital requirement for type 2 equities shall be equal to the loss in the
 basic own funds that would result from an instantaneous decrease:
@@ -59573,7 +59536,7 @@ of type 2 equities, other than those referred to in points (a) or (b).
 --- Page 110 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2821: *****
+****** Chunk 2823: *****
 **Strategic equity investments**
 
 
@@ -59597,7 +59560,7 @@ exercised by the participating undertaking in the related undertaking;
 the undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2822: *****
+****** Chunk 2824: *****
 (ii) the consistency of the strategy referred to in point (a) with the main policies guiding or limiting the actions of
 the undertaking;
 
@@ -59612,7 +59575,7 @@ the undertaking;
 with the main policies guiding or limiting the actions of the group.
 ****** END OF CHUNK ******
 
-****** Chunk 2823: *****
+****** Chunk 2825: *****
 **Symmetric adjustment of the equity capital charge**
 
 
@@ -59648,7 +59611,7 @@ where:
 (b) AI denotes the weighted average of the daily levels of the equity index over the last 36 months.
 ****** END OF CHUNK ******
 
-****** Chunk 2824: *****
+****** Chunk 2826: *****
 where:
 
 
@@ -59666,7 +59629,7 @@ included in the average.
 4. The symmetric adjustment shall not be lower than – 10 % or higher than 10 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2825: *****
+****** Chunk 2827: *****
 **Criteria for the use of transitional measure for standard equity risk**
 
 
@@ -59675,21 +59638,21 @@ applied to type 1 equities that were purchased on or before 1 January 2016 and w
 --- Page 111 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2826: *****
+****** Chunk 2828: *****
 **Property risk sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2827: *****
+****** Chunk 2829: *****
 The capital requirement for property risk referred to in point (c) of the second subparagraph of Article 105(5) of
 Directive 2009/138/EC shall be equal to the loss in the basic own funds that would result from an instantaneous
 decrease of 25 % in the value of immovable property.
 ****** END OF CHUNK ******
 
-****** Chunk 2828: *****
+****** Chunk 2830: *****
 **Spread risk sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2829: *****
+****** Chunk 2831: *****
 **Scope of the spread risk sub-module**
 
 
@@ -59711,7 +59674,7 @@ where
 (c) _SCR_ _cd_ denotes the capital requirement for spread risk on credit derivatives.
 ****** END OF CHUNK ******
 
-****** Chunk 2830: *****
+****** Chunk 2832: *****
 **Spread risk on bonds and loans**
 
 
@@ -59726,7 +59689,7 @@ shall never be lower than 1. For variable interest rate bonds or loans, _dur_ _i
 a fixed interest rate bond or loan of the same maturity and with coupon payments equal to the forward interest rate.
 ****** END OF CHUNK ******
 
-****** Chunk 2831: *****
+****** Chunk 2833: *****
 3. Bonds or loans for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor _stress_ _i_
 depending on the credit quality step and the modified duration _dur_ _i_ of the bond or loan _i_ according to the following
 table.
@@ -59773,7 +59736,7 @@ posted collateral, where the collateral of those bonds and loans meet the criter
 a risk factor _stress_ _i_ according to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2832: *****
+****** Chunk 2834: *****
 (a) where the risk-adjusted value of collateral is higher than or equal to the value of the bond or loan _i_, _stress_ _i_ shall be
 equal to half of the risk factor that would be determined in accordance with paragraph 4;
 
@@ -59789,7 +59752,7 @@ determined in accordance with paragraph 4 would result in a value of the bond or
 value of the bond or loan _i_ ;
 ****** END OF CHUNK ******
 
-****** Chunk 2833: *****
+****** Chunk 2835: *****
 (ii) the difference between the value of the bond or loan _i_ and the risk-adjusted value of the collateral, divided by the
 value of the bond or loan _i_ ;
 
@@ -59806,7 +59769,7 @@ The risk-adjusted value of the collateral shall be calculated in accordance with
 deducted from own funds pursuant to Article 68 of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2834: *****
+****** Chunk 2836: *****
 **Spread risk on securitisation positions: general provisions**
 
 
@@ -59829,7 +59792,7 @@ which has the following features:
 large number of market participants;
 ****** END OF CHUNK ******
 
-****** Chunk 2835: *****
+****** Chunk 2837: *****
 (i) historical evidence of market breadth and depth as proven by low bid-ask spreads, high trading volume and a
 large number of market participants;
 
@@ -59845,14 +59808,14 @@ and interest payments, without taking into account amounts due under interest ra
 contracts, fees or other similar payments;
 ****** END OF CHUNK ******
 
-****** Chunk 2836: *****
+****** Chunk 2838: *****
 (d) the underlying exposures have been acquired by the securitisation special purpose entity (SSPE) within the meaning
 of Article 4(1)(66) of Regulation (EU) No 575/2013 in a manner that is enforceable against any third party and are
 beyond the reach of the seller (originator, sponsor or original lender) and its creditors including in the event of the
 seller's insolvency;
 ****** END OF CHUNK ******
 
-****** Chunk 2837: *****
+****** Chunk 2839: *****
 (e) the transfer of the underlying exposures to the SSPE may not be subject to any severe clawback provisions in the
 jurisdiction where the seller (originator, sponsor or original lender) is incorporated; this includes but is not limited
 to provisions under which the sale of the underlying exposures can be invalidated by the liquidator of the seller
@@ -59866,7 +59829,7 @@ continuity provisions to ensure, at a minimum, that a default or insolvency of t
 termination of servicing;
 ****** END OF CHUNK ******
 
-****** Chunk 2838: *****
+****** Chunk 2840: *****
 (g) the documentation governing the securitisation includes continuity provisions to ensure, at a minimum, the
 replacement of derivative counterparties and of liquidity providers upon their default or insolvency, where
 applicable;
@@ -59885,7 +59848,7 @@ residence, provided that one of the two following conditions is met:
 Article 129(1)(d) of Regulation (EU) No 575/2013;
 ****** END OF CHUNK ******
 
-****** Chunk 2839: *****
+****** Chunk 2841: *****
 — the loans in the pool meet on average the loan-to-value requirement laid down in point (i) of
 Article 129(1)(d) of Regulation (EU) No 575/2013;
 
@@ -59899,7 +59862,7 @@ percentage of the obligor's gross income that may be spent to service the loan, 
 and fee payments, does not exceed 45 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2840: *****
+****** Chunk 2842: *****
 (ii) fully guaranteed residential loans referred to in Article 129(1)(e) of Regulation (EU) No 575/2013, provided
 that the loans meet the collateralisation requirements laid down in that paragraph and meet on average the
 loan-to-value requirement laid down in point (i) of Article 129(1)(d) of Regulation (EU) No 575/2013;
@@ -59911,7 +59874,7 @@ issuance of the securitisation, and none of the borrowers is an institution as d
 Regulation (EU) No 575/2013;
 ****** END OF CHUNK ******
 
-****** Chunk 2841: *****
+****** Chunk 2843: *****
 (iv) auto loans and leases for the financing of motor vehicles or trailers as defined in points (11) and (12) of
 Article 3 of Directive 2007/46/EC of the European Parliament and of the Council ( [1] ), agricultural or forestry
 tractors as referred to in Directive 2003/37/EC of the European Parliament and of the Council ( [2] ), motorcycles
@@ -59922,7 +59885,7 @@ secured with a first-ranking charge or security over the vehicle or an appropria
 SSPE, such as a retention of title provision;
 ****** END OF CHUNK ******
 
-****** Chunk 2842: *****
+****** Chunk 2844: *****
 (v) loans and credit facilities to individuals for personal, family or household consumption purposes.
 
 
@@ -59941,7 +59904,7 @@ credit-impaired guarantors), where a credit-impaired obligor (or credit-impaired
 guarantor) who:
 ****** END OF CHUNK ******
 
-****** Chunk 2843: *****
+****** Chunk 2845: *****
 (i) has declared bankruptcy, agreed with his creditors to a debt dismissal or reschedule or had a court grant his
 creditors a right of enforcement or material damages as a result of a missed payment within three years prior
 to the date of origination;
@@ -59959,7 +59922,7 @@ after issuance, the underlying exposures do not include exposures in default wit
 of Regulation (EU) No 575/2013;
 ****** END OF CHUNK ******
 
-****** Chunk 2844: *****
+****** Chunk 2846: *****
 (m) the repayment of the securitisation position is not structured to depend predominantly on the sale of assets
 securing the underlying exposures; however, this shall not prevent such exposures from being subsequently rolledover or refinanced;
 
@@ -59977,7 +59940,7 @@ appropriate early amortisation events, which shall include at a minimum all of t
 (i) a deterioration in the credit quality of the underlying exposures;
 ****** END OF CHUNK ******
 
-****** Chunk 2845: *****
+****** Chunk 2847: *****
 ( [1] ) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of
 motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework
 Directive) (OJ L 263, 9.10.2007, p. 1).
@@ -59990,7 +59953,7 @@ three-wheel motor vehicles and repealing Council Directive 92/61/EEC (OJ L 124, 
 (ii) a failure to generate sufficient new underlying exposures of at least similar credit quality;
 ****** END OF CHUNK ******
 
-****** Chunk 2846: *****
+****** Chunk 2848: *****
 (iii) the occurrence of an insolvency-related event with regard to the originator or the servicer;
 
 
@@ -60005,7 +59968,7 @@ applicant or, where applicable intermediaries, were made aware that the informat
 by the lender;
 ****** END OF CHUNK ******
 
-****** Chunk 2847: *****
+****** Chunk 2849: *****
 (r) in the case of securitisations where the underlying exposures are residential loans referred to in point (h)(i) or (ii),
 the assessment of the borrower's creditworthiness meets the requirements set out in paragraphs 1 to 4, 5(a), and 6
 of Article 18 of Directive 2014/17/EU of the European Parliament and of the Council ( [1] ) or equivalent requirements
@@ -60018,7 +59981,7 @@ the requirements set out in Article 8 of Directive 2008/48/EC of the European Pa
 equivalent requirements in countries that are not members of the Union;
 ****** END OF CHUNK ******
 
-****** Chunk 2848: *****
+****** Chunk 2850: *****
 (t) where the issuer, originator or sponsor of the securitisation is established in the Union, it complies with the
 requirements laid down in Part Five of Regulation (EU) No. 575/2013 and discloses information, in accordance
 with Article 8b of Regulation (EU) No 1060/2009, on the credit quality and performance of the underlying
@@ -60033,7 +59996,7 @@ regulators at issuance and on a regular basis.
 positions.
 ****** END OF CHUNK ******
 
-****** Chunk 2849: *****
+****** Chunk 2851: *****
 3. Type 2 securitisation positions shall include all securitisation positions that do not qualify as type 1 securitisation
 positions.
 
@@ -60044,7 +60007,7 @@ the underlying exposures are residential loans referred to in point (h)(i) of pa
 the loan-to-value or loan-to-income ratios set out in that point shall apply to those securitisations.
 ****** END OF CHUNK ******
 
-****** Chunk 2850: *****
+****** Chunk 2852: *****
 5. Notwithstanding paragraph 2, a securitisation position where the underlying exposures are residential loans
 referred to in point (h)(i) of paragraph 2 that do not meet the average loan-to-value requirement nor the loan-to-income
 requirement set out in that point, shall qualify as a type 1 securitisation position until 31 December 2025, provided that
@@ -60063,7 +60026,7 @@ force of this Regulation and which do not comply with the loan-to-income require
 of paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 2851: *****
+****** Chunk 2853: *****
 ( [1] ) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to
 residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2014, OJ L 60,
 28.2.2014, p. 34.
@@ -60072,7 +60035,7 @@ repealing Council Directive 87/102/EEC, OJ L 133, 22.5.2008, p. 66.
 --- Page 116 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2852: *****
+****** Chunk 2854: *****
 **Spread risk on securitisation positions: calculation of the capital requirement**
 
 
@@ -60100,7 +60063,7 @@ where:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2853: *****
+****** Chunk 2855: *****
 (b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
 
 
@@ -60136,7 +60099,7 @@ where:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2854: *****
+****** Chunk 2856: *****
 (b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
 
 
@@ -60177,7 +60140,7 @@ table:
 4. The modified duration dur i referred to in paragraphs 1 and 2 shall not be lower than 1 year.
 ****** END OF CHUNK ******
 
-****** Chunk 2855: *****
+****** Chunk 2857: *****
 <table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
@@ -60194,7 +60157,7 @@ risk factor _stress_ _i_ of 100 %.
 --- Page 117 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2856: *****
+****** Chunk 2858: *****
 **Spread risk on credit derivatives**
 
 
@@ -60222,7 +60185,7 @@ table.
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2857: *****
+****** Chunk 2859: *****
 <table>
 |Credit quality step|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
@@ -60242,7 +60205,7 @@ another exposure with respect to which the basis risk between that exposure and 
 derivative is not material in any circumstances.
 ****** END OF CHUNK ******
 
-****** Chunk 2858: *****
+****** Chunk 2860: *****
 4. Where the larger of the capital requirements referred to in points (a) and (b) of paragraph 1 and the larger of the
 corresponding capital requirements calculated in accordance with Article 206(2) are not based on the same scenario, the
 capital requirement for spread risk on credit derivatives shall be the capital requirement referred to in paragraph 1 for
@@ -60250,7 +60213,7 @@ which the underlying scenario results in the largest corresponding capital requi
 Article 206(2).
 ****** END OF CHUNK ******
 
-****** Chunk 2859: *****
+****** Chunk 2861: *****
 **Specific exposures**
 
 
@@ -60280,7 +60243,7 @@ central government and the central bank;
 (c) multilateral development banks referred to in paragraph 2 of Article 117 of Regulation (EU) No 575/2013;
 ****** END OF CHUNK ******
 
-****** Chunk 2860: *****
+****** Chunk 2862: *****
 (c) multilateral development banks referred to in paragraph 2 of Article 117 of Regulation (EU) No 575/2013;
 
 
@@ -60309,7 +60272,7 @@ on the credit quality step and the duration of the exposure according to the fol
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2861: *****
+****** Chunk 2863: *****
 <table>
 |Credit quality step|Col2|0 and 1|Col4|2|Col6|3|Col8|4|Col10|5 and 6|Col12|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -60336,7 +60299,7 @@ using the following mapping between solvency ratios and credit quality steps:
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2862: *****
+****** Chunk 2864: *****
 <table>
 |Solvency ratio|196 %|175 %|122 %|95 %|75 %|75 %|
 |---|---|---|---|---|---|---|
@@ -60356,7 +60319,7 @@ For the purposes of this paragraph, ‘solvency ratio’ denotes the ratio of th
 Solvency Capital Requirement and the Solvency Capital Requirement, using the latest available values.
 ****** END OF CHUNK ******
 
-****** Chunk 2863: *****
+****** Chunk 2865: *****
 5. Exposures in the form of bonds and loans to an insurance or reinsurance undertaking which does not meet its
 Minimum Capital Requirement shall be assigned a risk factor _stress_ _i_ according to the following table:
 
@@ -60381,7 +60344,7 @@ that would result from the application of paragraph 4 of this Article to exposur
 undertaking whose solvency ratio is 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2864: *****
+****** Chunk 2866: *****
 7. Exposures in the form of bonds and loans to a third country insurance or reinsurance undertaking for which a
 credit assessment by a nominated ECAI is not available, situated in a country whose solvency regime is deemed
 equivalent to that laid down in Directive 2009/138/EC in accordance with Article 227 of Directive 2009/138/EC, and
@@ -60390,7 +60353,7 @@ that would result from the application of paragraph 4 of this Article to exposur
 undertaking whose solvency ratio is 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2865: *****
+****** Chunk 2867: *****
 8. Exposures in the form of bonds and loans to credit institutions and financial institutions within the meaning of
 points (1) and (26) of Article 4(1) of Regulation (EU) No 575/2013 which comply with the solvency requirements set
 out in Directive 2013/36/EU and Regulation (EU) No 575/2013, for which a credit assessment by a nominated ECAI is
@@ -60402,7 +60365,7 @@ this Article to exposures to an insurance or reinsurance undertaking whose solve
 or a loan to any exposure listed in paragraph 2 shall be nil.
 ****** END OF CHUNK ******
 
-****** Chunk 2866: *****
+****** Chunk 2868: *****
 9. The capital requirement for spread risk on credit derivatives where the underlying financial instrument is a bond
 or a loan to any exposure listed in paragraph 2 shall be nil.
 
@@ -60412,7 +60375,7 @@ Investment Fund or the European Investment Bank, where the guarantee meets the r
 shall be assigned a risk factor _stress_ _i_ of 0 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2867: *****
+****** Chunk 2869: *****
 **Application of the spread risk scenarios to matching adjustment portfolios**
 
 
@@ -60433,7 +60396,7 @@ spread shall increase, by an absolute amount that is calculated as the product o
 relevant risk factor _stress_ _i_, referred to in Articles 176, 178 and 180 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 2868: *****
+****** Chunk 2870: *****
 (ii) a reduction factor, depending on the credit quality as set out in the following table:
 
 
@@ -60450,11 +60413,11 @@ factor shall be equal to 100 %.
 --- Page 120 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2869: *****
+****** Chunk 2871: *****
 **Market risk concentrations sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2870: *****
+****** Chunk 2872: *****
 **Single name exposure**
 
 
@@ -60476,13 +60439,13 @@ the credit quality steps of all exposures to all counterparties that belong to t
 value of each exposure.
 ****** END OF CHUNK ******
 
-****** Chunk 2871: *****
+****** Chunk 2873: *****
 5. For the purposes of paragraph 4, exposures for which a credit assessment by a nominated ECAI is available, shall
 be assigned a credit quality step in accordance with Chapter 1 Section 2 of this Title. Exposures for which a credit
 assessment by a nominated ECAI is not available shall be assigned to credit quality step 5.
 ****** END OF CHUNK ******
 
-****** Chunk 2872: *****
+****** Chunk 2874: *****
 **Calculation of the capital requirement for market risk concentration**
 
 
@@ -60523,7 +60486,7 @@ where:
 (b) _Conc_ _i_ denotes the capital requirement for market risk concentration on a single name exposure _i_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2873: *****
+****** Chunk 2875: *****
 where:
 
 
@@ -60550,7 +60513,7 @@ where:
 (b) _g_ _i_ is the risk factor for market risk concentration referred to in Articles 186 and 187;
 ****** END OF CHUNK ******
 
-****** Chunk 2874: *****
+****** Chunk 2876: *****
 **Excess exposure**
 
 
@@ -60579,7 +60542,7 @@ held by an insurance or reinsurance undertaking, excluding the following:
 (a) assets held in respect of life insurance contracts where the investment risk is fully borne by the policy holders;
 ****** END OF CHUNK ******
 
-****** Chunk 2875: *****
+****** Chunk 2877: *****
 (a) assets held in respect of life insurance contracts where the investment risk is fully borne by the policy holders;
 
 
@@ -60605,7 +60568,7 @@ reinsurance undertaking;
 repayment of liabilities from the counterparty to the insurance or reinsurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2876: *****
+****** Chunk 2878: *****
 (c) the value of the participations as referred to in Article 92(2) of Directive 2009/138/EC in financial and credit
 institutions that is deducted from own funds pursuant to Article 68 of this Regulation;
 
@@ -60624,7 +60587,7 @@ counterparties belonging to that single name exposure and for which the risk fac
 referred to in Articles 168 and 187 is 0 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2877: *****
+****** Chunk 2879: *****
 **Relative excess exposure thresholds**
 
 
@@ -60640,7 +60603,7 @@ with Article 182(4).
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2878: *****
+****** Chunk 2880: *****
 **Risk factor for market risk concentration**
 
 
@@ -60669,7 +60632,7 @@ _g_ _i_ for market risk concentration depending on the undertaking's solvency ra
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2879: *****
+****** Chunk 2881: *****
 <table>
 |Solvency ratio|95 %|100 %|122 %|175 %|196 %|
 |---|---|---|---|---|---|
@@ -60692,7 +60655,7 @@ Solvency Capital Requirement and the Solvency Capital Requirement, using the lat
 Requirement, shall be assigned a risk factor _g_ _i_ for market risk concentration equal to 73 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2880: *****
+****** Chunk 2882: *****
 Paragraphs 2 and 3 of this Article shall only apply as of the first date of public disclosure, by the undertaking
 corresponding to the exposure, of the report on its solvency and financial condition referred to in Article 51 of
 Directive 2009/138/EC. Before that date, if a credit assessment by a nominated ECAI is available for the single name
@@ -60705,7 +60668,7 @@ Article 227 of Directive 2009/138/EC, and which complies with the solvency requi
 shall be assigned a risk factor _g_ _i_ of 64,5 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2881: *****
+****** Chunk 2883: *****
 5. Single name exposures to credit institutions and financial institutions within the meaning of points (1) and (26) of
 Article 4(1) of Regulation (EU) No 575/2013 and which comply with the solvency requirements set out in of Directive/EU and Regulation (EU) No 575/2013, for which a credit assessment by a nominated ECAI is not available,
 shall be assigned a risk factor _g_ _i_ of 64,5 %.
@@ -60715,7 +60678,7 @@ shall be assigned a risk factor _g_ _i_ of 64,5 %.
 risk concentration of 73 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2882: *****
+****** Chunk 2884: *****
 **Specific exposures**
 
 
@@ -60736,7 +60699,7 @@ risk factor _g_ _i_ for market risk concentration of 12 %.
 (a) the European Central Bank;
 ****** END OF CHUNK ******
 
-****** Chunk 2883: *****
+****** Chunk 2885: *****
 3. Exposures to the following shall be assigned a risk factor _g_ _i_ for market risk concentration of 0 %:
 
 
@@ -60757,7 +60720,7 @@ points (a) to (d), where the guarantee meets the requirements set out in Article
 for market risk concentration of 0 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2884: *****
+****** Chunk 2886: *****
 4. Exposures to central governments and central banks other than those referred to in point (b) of paragraph 3,
 denominated and funded in the domestic currency of that central government and central bank, shall be assigned a risk
 factor _g_ _i_ for market risk concentration depending on their weighted average credit quality steps, in accordance with the
@@ -60785,11 +60748,11 @@ provided they meet all of the following requirements:
 (c) there is no double counting of such guarantee in the calculation of the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2885: *****
+****** Chunk 2887: *****
 **Currency risk sub-module**
 ****** END OF CHUNK ******
 
-****** Chunk 2886: *****
+****** Chunk 2888: *****
 1. The capital requirement for currency risk referred to in point (e) of the second subparagraph of Article 105(5) of
 Directive 2009/138/EC shall be equal to the sum of the capital requirements for currency risk for each foreign currency.
 Investments in type 1 equities referred to in Article 168(2) and type 2 equities referred to in Article 168(3) which are
@@ -60803,7 +60766,7 @@ For the purposes of this Article, foreign currencies shall be currencies other t
 of the insurance or reinsurance undertaking's financial statements (‘the local currency’).
 ****** END OF CHUNK ******
 
-****** Chunk 2887: *****
+****** Chunk 2889: *****
 2. For each foreign currency, the capital requirement for currency risk shall be equal to the larger of the following
 capital requirements:
 
@@ -60824,7 +60787,7 @@ equal to the loss in the basic own funds that would result from an instantaneous
 foreign currency against the local currency.
 ****** END OF CHUNK ******
 
-****** Chunk 2888: *****
+****** Chunk 2890: *****
 5. For currencies which are pegged to the euro, the 25 % factor referred to in paragraphs 3 and 4 of this Article may
 be adjusted in accordance with the implementing act adopted pursuant to point (d) of Article 109a(2) of Directive/EC, provided that all of the following conditions are met:
 
@@ -60847,7 +60810,7 @@ euro;
 (iii) establishment of the pegging arrangement by the law of country establishing the country's currency.
 ****** END OF CHUNK ******
 
-****** Chunk 2889: *****
+****** Chunk 2891: *****
 euro;
 
 
@@ -60865,7 +60828,7 @@ Regulation. The part deducted from own funds shall be considered only to the ext
 own funds.
 ****** END OF CHUNK ******
 
-****** Chunk 2890: *****
+****** Chunk 2892: *****
 7. Where the larger of the capital requirements referred to in points (a) and (b) of paragraph 2 and the largest of the
 corresponding capital requirements calculated in accordance with Article 206(2) are not based on the same scenario, the
 capital requirement for currency risk on a given currency shall be the capital requirement referred to in points (a) or (b)
@@ -60873,15 +60836,15 @@ of paragraph 2 for which the underlying scenario results in the largest correspo
 accordance with Article 206(2).
 ****** END OF CHUNK ******
 
-****** Chunk 2891: *****
+****** Chunk 2893: *****
 _**Counterparty default risk module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2892: *****
+****** Chunk 2894: *****
 **General provisions**
 ****** END OF CHUNK ******
 
-****** Chunk 2893: *****
+****** Chunk 2895: *****
 **Scope**
 
 
@@ -60900,7 +60863,7 @@ where:
 (b) _SCR_ _def,2_ denotes the capital requirement for counterparty default risk on type 2 exposures as set out in paragraph 3.
 ****** END OF CHUNK ******
 
-****** Chunk 2894: *****
+****** Chunk 2896: *****
 (b) _SCR_ _def,2_ denotes the capital requirement for counterparty default risk on type 2 exposures as set out in paragraph 3.
 
 
@@ -60917,7 +60880,7 @@ derivatives;
 (c) Deposits with ceding undertakings, where the number of single name exposures does not exceed 15;
 ****** END OF CHUNK ******
 
-****** Chunk 2895: *****
+****** Chunk 2897: *****
 (b) Cash at bank as defined in Article 6 item F of Council Directive 91/674/EEC ( [1] );
 
 
@@ -60933,7 +60896,7 @@ up but unpaid claims which mutual or mutual-type associations may have against t
 for supplementary contributions;
 ****** END OF CHUNK ******
 
-****** Chunk 2896: *****
+****** Chunk 2898: *****
 (e) Legally binding commitments which the undertaking has provided or arranged and which may create payment
 obligations depending on the credit standing or default on a counterparty including guarantees, letters of credit,
 letters of comfort which the undertaking has provided.
@@ -60958,7 +60921,7 @@ which are not type 1 exposures, including the following:
 (d) Deposits with ceding undertakings, where the number of single name exposures exceeds 15;
 ****** END OF CHUNK ******
 
-****** Chunk 2897: *****
+****** Chunk 2899: *****
 (b) Policyholder debtors;
 
 
@@ -60976,7 +60939,7 @@ referred to in paragraph 2(d), where the number of single name exposures exceeds
 and (e) of paragraph 3 as type 1 exposures, regardless of the number of single name exposures.
 ****** END OF CHUNK ******
 
-****** Chunk 2898: *****
+****** Chunk 2900: *****
 5. Where a letter of credit, a guarantee or an equivalent risk mitigation technique has been provided to fully secure
 an exposure and this risk mitigation technique complies with the requirements of Articles 209 to 215, then the provider
 of that letter of credit, guarantee or equivalent risk mitigation technique may be considered as the counterparty on the
@@ -60999,7 +60962,7 @@ and 28 of Annex I of this Regulation;
 (d) the credit risk on mortgage loans which do not meet the requirements in Article 191(2) to (9).
 ****** END OF CHUNK ******
 
-****** Chunk 2899: *****
+****** Chunk 2901: *****
 (d) the credit risk on mortgage loans which do not meet the requirements in Article 191(2) to (9).
 
 
@@ -61008,7 +60971,7 @@ insurance or reinsurance undertaking would be liable should the third party defa
 counterparty default risk module.
 ****** END OF CHUNK ******
 
-****** Chunk 2900: *****
+****** Chunk 2902: *****
 **Single name exposures**
 
 
@@ -61026,7 +60989,7 @@ in accordance with Article 195 if it is a pool exposure of type C. Alternatively
 belong to the same pooling arrangement shall be treated as a single name exposure.
 ****** END OF CHUNK ******
 
-****** Chunk 2901: *****
+****** Chunk 2903: *****
 **Mortgage loans**
 
 
@@ -61047,7 +61010,7 @@ undertaking, exceed EUR 1 million. The insurance or reinsurance undertaking shal
 knowledge.
 ****** END OF CHUNK ******
 
-****** Chunk 2902: *****
+****** Chunk 2904: *****
 5. The residential property is or will be occupied or let by the owner.
 
 
@@ -61068,7 +61031,7 @@ its lending policy and obtain suitable evidence of the relevant income when gran
 agreement and shall be properly filed on a timely basis;
 ****** END OF CHUNK ******
 
-****** Chunk 2903: *****
+****** Chunk 2905: *****
 (a) a mortgage or charge is enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit
 agreement and shall be properly filed on a timely basis;
 
@@ -61088,7 +61051,7 @@ once every three years. The insurance or reinsurance undertaking carries out mor
 market is subject to significant changes in conditions;
 ****** END OF CHUNK ******
 
-****** Chunk 2904: *****
+****** Chunk 2906: *****
 (b) the property valuation is reviewed when information available to the insurance or reinsurance undertaking indicates
 that the value of the property may have declined materially relative to general market prices and that review is
 external and independent and carried out by a valuer who possesses the necessary qualifications, ability and
@@ -61099,7 +61062,7 @@ experience to execute a valuation and who is independent from the credit decisio
 the value of the property and to identify property that needs revaluation.
 ****** END OF CHUNK ******
 
-****** Chunk 2905: *****
+****** Chunk 2907: *****
 10. For the purposes of paragraph 9, insurance or reinsurance undertakings may use statistical methods to monitor
 the value of the property and to identify property that needs revaluation.
 
@@ -61118,7 +61081,7 @@ credit protection is adequately insured against the risk of damage.
 mortgage loans to the supervisory authority:
 ****** END OF CHUNK ******
 
-****** Chunk 2906: *****
+****** Chunk 2908: *****
 13. The insurance or reinsurance undertaking shall report all of the following data on losses stemming from
 mortgage loans to the supervisory authority:
 
@@ -61139,7 +61102,7 @@ Member State.
 --- Page 127 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2907: *****
+****** Chunk 2909: *****
 **Loss-given-default**
 
 
@@ -61163,7 +61126,7 @@ where:
 (a) _Recoverables_ denotes the best estimate of amounts recoverable from the reinsurance arrangement or insurance securi­
 ****** END OF CHUNK ******
 
-****** Chunk 2908: *****
+****** Chunk 2910: *****
 where:
 
 
@@ -61186,7 +61149,7 @@ Where the reinsurance arrangement is with an insurance or reinsurance undertakin
 reinsurance undertaking and 60 % or more of that counterparty's assets are subject to collateral arrangements, the lossgiven-default shall be equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2909: *****
+****** Chunk 2911: *****
 _LGD_ ¼ max 90� % �ð _RE_ cov _erables_ þ 50% � _RM_ _re_ Þ − _F_ � _Collateral_ ; 0�
 
 
@@ -61219,7 +61182,7 @@ where
 in case of a credit event related to the counterparty.
 ****** END OF CHUNK ******
 
-****** Chunk 2910: *****
+****** Chunk 2912: *****
 (d) _F'_ denotes a factor to take into account the economic effect of the collateral arrangement in relation to the derivative
 in case of a credit event related to the counterparty.
 
@@ -61243,7 +61206,7 @@ where:
 be equal to the difference between its nominal value and its value in accordance with Article 75 of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2911: *****
+****** Chunk 2913: *****
 6. The loss-given-default on cash at bank as defined in Article 6 item F of Council Directive 91/674/EEC, of a deposit
 with a ceding undertaking, of an item listed in Article 189(2)(d) or Article 189(3)(e) of this Regulation, or of a receivable
 from an intermediary or policyholder debtor, as well as any other exposure not listed elsewhere in this Article shall be
@@ -61251,7 +61214,7 @@ equal to its value in accordance with Article 75 of Directive 2009/138/EC.
 --- Page 128 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2912: *****
+****** Chunk 2914: *****
 **Loss-given-default for pool exposures of type A**
 
 
@@ -61294,7 +61257,7 @@ P
 _i_ _[i]_ X
 ****** END OF CHUNK ******
 
-****** Chunk 2913: *****
+****** Chunk 2915: *****
 where:
 
 
@@ -61349,7 +61312,7 @@ accordance with the following table:
 nominated ECAI is not available, _SR_ _i_ and _SR_ _j_ shall be the latest available solvency ratio;
 ****** END OF CHUNK ******
 
-****** Chunk 2914: *****
+****** Chunk 2916: *****
 (g) for pool members situated in a third country and for which a credit assessment by a nominated ECAI is not
 available:
 
@@ -61367,7 +61330,7 @@ central undertaking shall be considered as part of the pooling arrangement and i
 accordingly.
 ****** END OF CHUNK ******
 
-****** Chunk 2915: *****
+****** Chunk 2917: *****
 **Loss-given-default for pool exposures of type B**
 
 
@@ -61398,7 +61361,7 @@ where:
 (ii) 50 % otherwise;
 ****** END OF CHUNK ******
 
-****** Chunk 2916: *****
+****** Chunk 2918: *****
 (c) _RR_ _C_ is equal to:
 
 
@@ -61423,7 +61386,7 @@ the underwriting risk of the undertaking;
 calculated in accordance with Article 197.
 ****** END OF CHUNK ******
 
-****** Chunk 2917: *****
+****** Chunk 2919: *****
 (g) _F_ denotes the factor to take into account the economic effect of the collateral held by the counterparty member,
 calculated in accordance with Article 197.
 
@@ -61451,7 +61414,7 @@ where:
 (ii) 50 % otherwise;
 ****** END OF CHUNK ******
 
-****** Chunk 2918: *****
+****** Chunk 2920: *****
 (b) _RR_ _C_ is equal to:
 
 
@@ -61476,7 +61439,7 @@ the underwriting risk of the undertaking;
 calculated in accordance with Article 197.
 ****** END OF CHUNK ******
 
-****** Chunk 2919: *****
+****** Chunk 2921: *****
 **Loss-given-default for pool exposures of type C**
 
 
@@ -61509,7 +61472,7 @@ whole;
 the underwriting risk of the undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 2920: *****
+****** Chunk 2922: *****
 (d) Δ _RM_ _CE_ denotes the external counterparty's contribution to the risk-mitigating effect of the pooling arrangement on
 the underwriting risk of the undertaking;
 
@@ -61521,7 +61484,7 @@ the underwriting risk of the undertaking;
 calculated in accordance with Article 197.
 ****** END OF CHUNK ******
 
-****** Chunk 2921: *****
+****** Chunk 2923: *****
 **Risk-mitigating effect**
 
 
@@ -61536,7 +61499,7 @@ that would apply if the reinsurance arrangement, securitisation or derivative di
 (b) the capital requirement for underwriting or market risk of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2922: *****
+****** Chunk 2924: *****
 **Risk-adjusted value of collateral**
 
 
@@ -61550,7 +61513,7 @@ liquidate or retain, in a timely manner, the collateral in the event of a defaul
 credit event relating to the counterparty (the counterparty requirement);
 ****** END OF CHUNK ******
 
-****** Chunk 2923: *****
+****** Chunk 2925: *****
 (b) the insurance or reinsurance undertaking has (or is a beneficiary under a trust where the trustee has) the right to
 liquidate or retain, in a timely manner, the collateral in the event of a default, insolvency or bankruptcy or other
 credit event relating to the custodian or other third party holding the collateral on behalf of the counterparty (the
@@ -61564,7 +61527,7 @@ collateral in accordance with Article 75 of Directive 2009/138/EC and the adjust
 paragraph 5 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 2924: *****
+****** Chunk 2926: *****
 3. Where either the counterparty requirement is not met or the requirements in Article 214 are not met, the riskadjusted value of collateral provided by way of security, as referred to in Article 1(26)(b), shall be zero.
 
 
@@ -61581,7 +61544,7 @@ Article, provided the requirements in Article 214 of this Regulation are fulfill
 the assets held as collateral were not included in the calculation;
 ****** END OF CHUNK ******
 
-****** Chunk 2925: *****
+****** Chunk 2927: *****
 (a) the hypothetical capital requirement for market risk of the insurance or reinsurance undertaking that would apply if
 the assets held as collateral were not included in the calculation;
 
@@ -61590,7 +61553,7 @@ the assets held as collateral were not included in the calculation;
 the assets held as collateral were included in the calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 2926: *****
+****** Chunk 2928: *****
 (b) the hypothetical capital requirement for market risk of the insurance or reinsurance undertaking that would apply if
 the assets held as collateral were included in the calculation.
 
@@ -61604,7 +61567,7 @@ undertaking receives the collateral, the factors _F_ and _F'_ referred to in Art
 other cases these factors shall be 50 % and 90 % respectively.
 ****** END OF CHUNK ******
 
-****** Chunk 2927: *****
+****** Chunk 2929: *****
 **Risk-adjusted value of mortgage**
 
 
@@ -61623,7 +61586,7 @@ value calculated in accordance with Article 75 of Directive 2009/138/EC.
 requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 2928: *****
+****** Chunk 2930: *****
 3. The adjustment for market risk referred to in paragraph 1 shall be the difference between the following capital
 requirements:
 
@@ -61640,11 +61603,11 @@ the residential property held as mortgage were included in the calculation.
 by comparing the currency of the residential property against the currency of the corresponding loan.
 ****** END OF CHUNK ******
 
-****** Chunk 2929: *****
+****** Chunk 2931: *****
 **Type 1 exposures**
 ****** END OF CHUNK ******
 
-****** Chunk 2930: *****
+****** Chunk 2932: *****
 **Probability of default**
 
 
@@ -61677,7 +61640,7 @@ probability of default _PD_ _i_ depending on the undertaking's solvency ratio, i
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 2931: *****
+****** Chunk 2933: *****
 <table>
 |Solvency ratio|196 %|175 %|150 %|125 %|122 %|100 %|95 %|75 %|
 |---|---|---|---|---|---|---|---|---|
@@ -61699,7 +61662,7 @@ Solvency Capital Requirement and the Solvency Capital Requirement, using the lat
 assigned a probability of default equal to 4,2 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2932: *****
+****** Chunk 2934: *****
 4. Exposures to an insurance or reinsurance undertaking that do not meet its Minimum Capital Requirement shall be
 assigned a probability of default equal to 4,2 %.
 
@@ -61712,7 +61675,7 @@ from the application of paragraph 3 to exposures to an insurance or reinsurance 
 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2933: *****
+****** Chunk 2935: *****
 6. Exposures to a third country insurance or reinsurance undertaking for which a credit assessment by a nominated
 ECAI is not available, situated in a country whose solvency regime is deemed equivalent to that laid down in Directive/EC in accordance with Article 227 of Directive 2009/138/EC, and which complies with the solvency
 requirements of that third-country, shall be assigned a probability of default equal to 0,5 %.
@@ -61728,7 +61691,7 @@ probability of default equal to 0,5 %.
 default equal to 0 %.
 ****** END OF CHUNK ******
 
-****** Chunk 2934: *****
+****** Chunk 2936: *****
 8. Exposures to counterparties referred to in points (a) to (d) of Article 180(2) shall be assigned a probability of
 default equal to 0 %.
 
@@ -61748,7 +61711,7 @@ listed in the implementing act adopted pursuant to point (a) of Article 109a(2) 
 treated as exposures to the central government.
 ****** END OF CHUNK ******
 
-****** Chunk 2935: *****
+****** Chunk 2937: *****
 **Type 1 exposures**
 
 
@@ -61773,7 +61736,7 @@ _SCR_ _def_,1 ¼ 5 � _σ_
 where σ denotes the standard deviation of the loss distribution of type 1 exposures.
 ****** END OF CHUNK ******
 
-****** Chunk 2936: *****
+****** Chunk 2938: *****
 _SCR_ _def_,1 ¼ 5 � _σ_
 
 
@@ -61793,7 +61756,7 @@ _σ_ ¼ p _V_
 where _V_ denotes the variance of the loss distribution of type 1 exposures.
 ****** END OF CHUNK ******
 
-****** Chunk 2937: *****
+****** Chunk 2939: *****
 **Variance of the loss distribution of type 1 exposures**
 
 
@@ -61876,7 +61839,7 @@ where:
 2,5 − _PD_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 2938: *****
+****** Chunk 2940: *****
 3. _V_ _intra_ shall be equal to the following:
 
 
@@ -61930,11 +61893,11 @@ _LGD_ [2] _i_
 (c) _LGD_ _i_ denotes the loss-given-default on the single name exposure _i_ .
 ****** END OF CHUNK ******
 
-****** Chunk 2939: *****
+****** Chunk 2941: *****
 **Type 2 exposures**
 ****** END OF CHUNK ******
 
-****** Chunk 2940: *****
+****** Chunk 2942: *****
 **Type 2 exposures**
 
 
@@ -61977,11 +61940,11 @@ than three months;
 --- Page 134 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2941: *****
+****** Chunk 2943: *****
 _**Intangible asset module**_
 ****** END OF CHUNK ******
 
-****** Chunk 2942: *****
+****** Chunk 2944: *****
 The capital requirement for intangible asset risk shall be equal to the following:
 
 
@@ -61992,11 +61955,11 @@ where _V_ _intangibles_ denotes the amount of intangible assets as recognised an
 Article 12.
 ****** END OF CHUNK ******
 
-****** Chunk 2943: *****
+****** Chunk 2945: *****
 _**Operational risk**_
 ****** END OF CHUNK ******
 
-****** Chunk 2944: *****
+****** Chunk 2946: *****
 1. The capital requirement for the operational risk module shall be equal to the following:
 
 
@@ -62034,7 +61997,7 @@ where:
 3. The capital requirement for operational risks based on earned premiums shall be calculated as follows:
 ****** END OF CHUNK ******
 
-****** Chunk 2945: *****
+****** Chunk 2947: *****
 3. The capital requirement for operational risks based on earned premiums shall be calculated as follows:
 
 
@@ -62062,7 +62025,7 @@ where the investment risk is borne by the policy holders without deducting premi
 without deducting premiums for reinsurance contracts;
 ****** END OF CHUNK ******
 
-****** Chunk 2946: *****
+****** Chunk 2948: *****
 (c) _Earn_ _non-life_ denotes the premiums earned during the last 12 months for non-life insurance and reinsurance obligations,
 without deducting premiums for reinsurance contracts;
 
@@ -62080,7 +62043,7 @@ reinsurance contracts;
 reinsurance obligations, without deducting premiums for reinsurance contracts.
 ****** END OF CHUNK ******
 
-****** Chunk 2947: *****
+****** Chunk 2949: *****
 For the purposes of this paragraph, earned premiums shall be gross, without deduction of premiums for reinsurance
 contracts.
 --- Page 135 ---
@@ -62107,11 +62070,11 @@ For the purposes of this paragraph, technical provisions shall not include the r
 without deduction of recoverables from reinsurance contracts and special purpose vehicles.
 ****** END OF CHUNK ******
 
-****** Chunk 2948: *****
+****** Chunk 2950: *****
 _**Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes**_
 ****** END OF CHUNK ******
 
-****** Chunk 2949: *****
+****** Chunk 2951: *****
 **General provisions**
 
 
@@ -62125,7 +62088,7 @@ provisions and deferred taxes shall be the sum of the following items:
 (b) the adjustment for the loss-absorbing capacity of deferred taxes.
 ****** END OF CHUNK ******
 
-****** Chunk 2950: *****
+****** Chunk 2952: *****
 **Adjustment for the loss-absorbing capacity of technical provisions**
 
 
@@ -62151,7 +62114,7 @@ where:
 Chapter V with all the following modifications:
 ****** END OF CHUNK ******
 
-****** Chunk 2951: *****
+****** Chunk 2953: *****
 2. The net Basic Solvency Capital Requirement shall be calculated in accordance with Section 1, Subsection 1 to 7 of
 Chapter V with all the following modifications:
 
@@ -62161,7 +62124,7 @@ of a scenario on the basic own funds of insurance and reinsurance undertakings, 
 of the future discretionary benefits included in technical provisions;
 ****** END OF CHUNK ******
 
-****** Chunk 2952: *****
+****** Chunk 2954: *****
 (b) the scenario based calculations of the life underwriting risk module, the SLT health underwriting risk sub-module,
 the health catastrophe risk sub-module, the market risk module and the counterparty default risk module as well as
 the scenario-based calculation set out in points (c) and (d) shall take into account the impact of the scenario on
@@ -62174,7 +62137,7 @@ from an instantaneous loss, due to default events relating to type 1 exposures, 
 requirement for counterparty default risk on type 1 exposures referred to in Article 189(1);
 ****** END OF CHUNK ******
 
-****** Chunk 2953: *****
+****** Chunk 2955: *****
 (d) where insurance and reinsurance undertakings use a simplified calculation for a specific capital requirement as set
 out in Articles 91, 92, 93, 94, 95(1), 95(2), 96, 101, 103(1)(a), 103(1)(b) or 104 the undertakings shall base the
 calculation on the capital requirement that is equal to the loss in basic own funds that would result from an instant­
@@ -62186,7 +62149,7 @@ instantaneous loss is due to the risk that the capital requirement referred to i
 legal, regulatory or contractual restrictions in the distribution of future discretionary benefits.
 ****** END OF CHUNK ******
 
-****** Chunk 2954: *****
+****** Chunk 2956: *****
 **Adjustment for the loss-absorbing capacity of deferred taxes**
 
 
@@ -62204,7 +62167,7 @@ that is equal to the sum of the following:
 (c) the capital requirement for operational risk referred to in Article 103(b) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2955: *****
+****** Chunk 2957: *****
 (c) the capital requirement for operational risk referred to in Article 103(b) of Directive 2009/138/EC.
 
 
@@ -62219,12 +62182,12 @@ paragraph 1 and its impact on the undertaking's current and future financial sit
 result in a negative adjustment for the loss-absorbing capacity of deferred taxes.
 ****** END OF CHUNK ******
 
-****** Chunk 2956: *****
+****** Chunk 2958: *****
 4. Where the calculation of the adjustment in accordance with paragraph 1 results in a positive change of deferred
 taxes, the adjustment shall be nil.
 ****** END OF CHUNK ******
 
-****** Chunk 2957: *****
+****** Chunk 2959: *****
 5. Where it is necessary to allocate the loss referred to in paragraph 1 to its causes in order to calculate the
 adjustment for the loss-absorbing capacity of deferred taxes, insurance and reinsurance undertakings shall allocate the
 loss to the risks that are captured by the Basic Solvency Capital Requirement and the capital requirement for operational
@@ -62235,11 +62198,11 @@ of the model, the allocation shall be consistent with the contribution of the mo
 formula which are outside of the scope of the model to the Basic Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2958: *****
+****** Chunk 2960: *****
 _**Risk mitigation techniques**_
 ****** END OF CHUNK ******
 
-****** Chunk 2959: *****
+****** Chunk 2961: *****
 **Methods and Assumptions**
 
 
@@ -62253,7 +62216,7 @@ effect of the protections provided shall be captured in determining the loss in 
 calculations.
 ****** END OF CHUNK ******
 
-****** Chunk 2960: *****
+****** Chunk 2962: *****
 2. Where insurance or reinsurance undertakings transfer underwriting risks using finite reinsurance, as defined in
 Article 210(3) of Directive 2009/138/EC, that meet the requirements set out in Articles 209, 211 and 213 of this
 Regulation, these contracts shall be recognised in the scenario based calculations set out in Title I, Chapter V, Sections 2,
@@ -62264,7 +62227,7 @@ volume measures for premium and reserve risk in accordance with in Articles 116 
 the purposes of calculating undertaking-specific parameters in accordance with Section 13 of this Chapter.
 ****** END OF CHUNK ******
 
-****** Chunk 2961: *****
+****** Chunk 2963: *****
 **Qualitative Criteria**
 
 
@@ -62289,7 +62252,7 @@ or other credit event set out in the transaction documentation for the arrangeme
 counterparty;
 ****** END OF CHUNK ******
 
-****** Chunk 2962: *****
+****** Chunk 2964: *****
 (e) there is no double counting of risk-mitigation effects in own funds and in the calculation of the Solvency Capital
 Requirement or within the calculation of the Solvency Capital Requirement.
 
@@ -62302,7 +62265,7 @@ Requirement in proportion to the length of time involved for the shorter of the 
 period that the risk-mitigation technique is in force.
 ****** END OF CHUNK ******
 
-****** Chunk 2963: *****
+****** Chunk 2965: *****
 3. Where contractual arrangements governing the risk-mitigation techniques will be in force for a period shorter than
 the next 12 months and the insurance or reinsurance undertaking intends to replace that risk-mitigation technique at
 the time of its expiry with a similar arrangement, the risk-mitigation technique shall be fully taken into account in the
@@ -62315,7 +62278,7 @@ Basic Solvency Capital Requirement provided all of the following qualitative cri
 (b) the replacement of the risk-mitigation technique shall not take place more often than every three months;
 ****** END OF CHUNK ******
 
-****** Chunk 2964: *****
+****** Chunk 2966: *****
 (b) the replacement of the risk-mitigation technique shall not take place more often than every three months;
 
 
@@ -62329,7 +62292,7 @@ conditions should be clearly documented in the written policy referred to in poi
 the insurance or reinsurance undertaking and consistent with its current business practice and business strategy;
 ****** END OF CHUNK ******
 
-****** Chunk 2965: *****
+****** Chunk 2967: *****
 (e) the risk that the risk-mitigation technique cannot be replaced due to an absence of liquidity in the market is not
 material;
 --- Page 138 ---
@@ -62341,7 +62304,7 @@ in the Solvency Capital Requirement;
 management actions set out in Article 23(5).
 ****** END OF CHUNK ******
 
-****** Chunk 2966: *****
+****** Chunk 2968: *****
 **Effective Transfer of Risk**
 
 
@@ -62362,7 +62325,7 @@ intended user of that information, including the supervisory authorities.
 relevant jurisdictions in accordance with Article 209(1)(a) shall be based on the following:
 ****** END OF CHUNK ******
 
-****** Chunk 2967: *****
+****** Chunk 2969: *****
 (a) whether the contractual arrangement is subject to any condition which could undermine the effective transfer of
 risk, the fulfilment of which is outside the direct control of the insurance or reinsurance undertaking;
 
@@ -62370,7 +62333,7 @@ risk, the fulfilment of which is outside the direct control of the insurance or 
 (b) whether there are any connected transactions which could undermine the effective transfer of risk.
 ****** END OF CHUNK ******
 
-****** Chunk 2968: *****
+****** Chunk 2970: *****
 **Risk-Mitigation techniques using reinsurance contracts or special purpose vehicles**
 
 
@@ -62390,14 +62353,14 @@ equivalent or temporarily equivalent to that laid down in Directive 2009/138/EC 
 that Directive and which complies with the solvency requirements of that third-country;
 ****** END OF CHUNK ******
 
-****** Chunk 2969: *****
+****** Chunk 2971: *****
 (c) a third country insurance or reinsurance undertaking, which is not situated in a country whose solvency regime is
 deemed equivalent or temporarily equivalent to that laid down in Directive 2009/138/EC in accordance with
 Article 172 of that Directive with a credit quality which has been assigned to credit quality step 3 or better in
 accordance with Section 1, Chapter II of this Title.
 ****** END OF CHUNK ******
 
-****** Chunk 2970: *****
+****** Chunk 2972: *****
 3. Where a counterparty to a reinsurance contract is an insurance or reinsurance undertaking which ceases to
 comply with the Solvency Capital Requirement after the reinsurance contract has been entered into, the protection
 offered by the insurance risk-mitigation technique may be partially recognised, provided that the insurance or
@@ -62407,7 +62370,7 @@ recovery plan referred to in Article 138 of Directive 2009/138/EC. For that purp
 technique shall be reduced by the percentage by which the Solvency Capital Requirement is breached.
 ****** END OF CHUNK ******
 
-****** Chunk 2971: *****
+****** Chunk 2973: *****
 4. Where risk is transferred to a special purpose vehicle the requirements referred to in Article 211(2) of Directive/EC shall be met for the risk-mitigation technique to be taken into account in the Basic Solvency Capital
 Requirement; where the requirements for a special purpose vehicle to be fully-funded cease to be fully met after the
 --- Page 139 ---
@@ -62417,12 +62380,12 @@ shall be reduced by the percentage of the aggregated maximum risk exposure of th
 in Article 326 of this Regulation not covered by the assets of the special purpose vehicle or by an equivalent amount
 ****** END OF CHUNK ******
 
-****** Chunk 2972: *****
+****** Chunk 2974: *****
 in Article 326 of this Regulation not covered by the assets of the special purpose vehicle or by an equivalent amount
 where Article 211(3) of Directive 2009/138/EC is applicable.
 ****** END OF CHUNK ******
 
-****** Chunk 2973: *****
+****** Chunk 2975: *****
 5. Where risk is transferred to a special purpose vehicle referred to in Article 211(3) of Directive 2009/138/EC, the
 risk-mitigation technique shall only be taken into account in the Basic Solvency Capital Requirement where the law of
 the Member State is equivalent to that set out in Article 211(2) of that Directive and that law is complied with by the
@@ -62434,7 +62397,7 @@ risk-mitigation technique shall only be taken into account in the Basic Solvency
 equivalent to those set out in Article 211(2) of Directive 2009/138/EC are met by the special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 2974: *****
+****** Chunk 2976: *****
 **Financial Risk-Mitigation techniques**
 
 
@@ -62448,7 +62411,7 @@ shall be met, in addition to the qualitative criteria set out in Articles 209 an
 risk management, as referred to in Article 44(2) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 2975: *****
+****** Chunk 2977: *****
 2. The risk-mitigation technique shall be consistent with the insurance or reinsurance undertaking's written policy on
 risk management, as referred to in Article 44(2) of Directive 2009/138/EC.
 
@@ -62463,13 +62426,13 @@ a credit quality which has been assigned to credit quality step 3 or better in a
 Title.
 ****** END OF CHUNK ******
 
-****** Chunk 2976: *****
+****** Chunk 2978: *****
 5. Where the risk-mitigation technique is not a financial instrument, the counterparties to the risk-mitigation
 technique shall have a credit quality which has been assigned to credit quality step 3 or better in accordance with
 Section 2, Chapter I of this Title.
 ****** END OF CHUNK ******
 
-****** Chunk 2977: *****
+****** Chunk 2979: *****
 **Status of the counterparties**
 
 
@@ -62488,14 +62451,14 @@ and (2) and where the counterparties to the other technique meet the criteria pr
 Article 212(3) and (4).
 ****** END OF CHUNK ******
 
-****** Chunk 2978: *****
+****** Chunk 2980: *****
 2. For the purposes of point (a) of paragraph 1 of this Article, where the value, in accordance with Article 75 of
 Directive 2009/138/EC of the collateral is less than the total risk exposure, the collateral arrangement shall only be
 taken into account to the extent that the collateral covers the risk exposure.
 --- Page 140 ---
 ****** END OF CHUNK ******
 
-****** Chunk 2979: *****
+****** Chunk 2981: *****
 **Collateral Arrangements**
 
 
@@ -62517,7 +62480,7 @@ manner, the collateral in the event of a default, insolvency or bankruptcy or ot
 been assigned a risk factor for concentration risk of 0 %;
 ****** END OF CHUNK ******
 
-****** Chunk 2980: *****
+****** Chunk 2982: *****
 (ii) it is guaranteed by a counterparty, other than a counterparty referred to in Article 187(5) and 184(2) who has
 been assigned a risk factor for concentration risk of 0 %;
 
@@ -62541,7 +62504,7 @@ met:
 credit quality step 3 or better in accordance with Section 2, Chapter I of this Title;
 ****** END OF CHUNK ******
 
-****** Chunk 2981: *****
+****** Chunk 2983: *****
 (c) the segregated assets are individually identifiable and can only be changed or substituted with the consent of the
 insurance or reinsurance undertaking or a person acting as a trustee in relation to the insurance or reinsurance
 undertaking's interest in such assets;
@@ -62556,7 +62519,7 @@ other credit event relating to the custodian or other third party holding the co
 insurance or reinsurance undertaking or as directed by the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2982: *****
+****** Chunk 2984: *****
 **Guarantees**
 
 
@@ -62586,7 +62549,7 @@ exposure;
 original obligor fails to make any payments due;
 ****** END OF CHUNK ******
 
-****** Chunk 2983: *****
+****** Chunk 2985: *****
 exposure;
 
 
@@ -62608,11 +62571,11 @@ or reinsurance undertaking first having to pursue the obligor;
 (f) the guarantee fully covers all types of regular payments the obligor is expected to make in respect of the claim.
 ****** END OF CHUNK ******
 
-****** Chunk 2984: *****
+****** Chunk 2986: *****
 _**Ring fenced funds**_
 ****** END OF CHUNK ******
 
-****** Chunk 2985: *****
+****** Chunk 2987: *****
 **Calculation of the Solvency Capital Requirement in the case of ring-fenced funds and matching adjustment**
 **portfolios**
 
@@ -62624,14 +62587,14 @@ make an adjustment to the calculation of the Solvency Capital Requirement follow
 Article 217 of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 2986: *****
+****** Chunk 2988: *****
 2. However, where an insurance or reinsurance undertaking has received supervisory approval to apply the
 provisions set out in Article 304 of Directive 2009/138/EC to a ring-fenced funds, it shall not adjust the calculation in
 accordance with Article 217 of this Regulation, but base the calculation of the assumption of full diversification
 between the assets and liabilities of the ring-fenced funds and the rest of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2987: *****
+****** Chunk 2989: *****
 **Solvency Capital Requirement calculation method for ring-fenced funds and matching adjustment portfolios**
 
 
@@ -62645,7 +62608,7 @@ notional Solvency Capital Requirements for each of the ring-fenced funds and eac
 for the remaining part of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2988: *****
+****** Chunk 2990: *****
 3. Where the calculation of the capital requirement for a risk module or sub-module of the Basic Solvency Capital
 Requirement is based on the impact of a scenario on the basic own funds of the insurance or reinsurance undertaking,
 the impact of the scenario on the basic own funds at the level of the ring-fenced fund and matching adjustment
@@ -62660,7 +62623,7 @@ own–fund items that meet the definition of basic own funds set out in Article 
 shall apply the following approach when adjusting the Solvency Capital Requirement:
 ****** END OF CHUNK ******
 
-****** Chunk 2989: *****
+****** Chunk 2991: *****
 5. Where profit participation arrangements exist in the ring-fenced fund, insurance and reinsurance undertakings
 shall apply the following approach when adjusting the Solvency Capital Requirement:
 
@@ -62672,7 +62635,7 @@ funds of the ring-fenced fund shall be the amount by which technical provisions 
 future distribution to policy holders or beneficiaries of that ring-fenced fund;
 ****** END OF CHUNK ******
 
-****** Chunk 2990: *****
+****** Chunk 2992: *****
 (b) where the calculation referred to in paragraph 3 would result in a decrease in the basic own funds at the level of the
 ring-fenced fund, the estimated change in those basic own funds for the calculation of the net Basic Solvency Capital
 Requirement, as referred to in Article 206(2), shall be adjusted to reflect the reduction in future discretionary
@@ -62684,7 +62647,7 @@ matching adjustment portfolio shall be calculated using the scenario-based calcu
 the undertaking as a whole are most negatively affected.
 ****** END OF CHUNK ******
 
-****** Chunk 2991: *****
+****** Chunk 2993: *****
 7. For the purposes of determining the scenario under which basic own funds are most negatively affected for the
 undertaking as a whole, the undertaking shall first calculate the sum of the results of the impacts of the scenarios on the
 basic own funds at the level of each ring-fenced fund and each matching adjustment portfolio, in accordance with
@@ -62698,17 +62661,17 @@ shall be determined by aggregating the capital requirements for each sub-module 
 Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 2992: *****
+****** Chunk 2994: *****
 9. Insurance and reinsurance undertakings shall assume that there is no diversification of risks between each of the
 ring-fenced funds and each matching adjustment portfolio and the remaining part of the insurance or reinsurance
 undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 2993: *****
+****** Chunk 2995: *****
 _**Undertaking-specific parameters**_
 ****** END OF CHUNK ******
 
-****** Chunk 2994: *****
+****** Chunk 2996: *****
 **Subset of standard parameters that may be replaced by undertaking-specific parameters**
 
 
@@ -62733,7 +62696,7 @@ Article;
 (iv) the standard deviation for non-life reserve risk referred to in Article 117(2)(b) of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 2995: *****
+****** Chunk 2997: *****
 (iv) the standard deviation for non-life reserve risk referred to in Article 117(2)(b) of this Regulation;
 
 
@@ -62754,7 +62717,7 @@ Regulation, provided that the annuities falling under that sub-module are not su
 that there is a recognisable excess of loss reinsurance contract for that segment as set out in paragraph 2;
 ****** END OF CHUNK ******
 
-****** Chunk 2996: *****
+****** Chunk 2998: *****
 (iv) the standard deviation for NSLT health reserve risk referred to in Article 148(2)(b) of this Regulation;
 
 
@@ -62769,7 +62732,7 @@ of the same segment or both the standard parameters referred to in point (c)(ii)
 following conditions:
 ****** END OF CHUNK ******
 
-****** Chunk 2997: *****
+****** Chunk 2999: *****
 (a) it provides, to the extent that losses of the ceding undertaking that relate either to single insurance claims or all
 insurance claims under the same policy during a specified time period are larger than a specified retention, complete
 compensation for such losses up to a specified limit or without limit;
@@ -62790,7 +62753,7 @@ For the purposes of this Article ‘excess of loss reinsurance contract’ shall
 vehicles that provide risk transfer which is equivalent to that of an excess of loss reinsurance contract.
 ****** END OF CHUNK ******
 
-****** Chunk 2998: *****
+****** Chunk 3000: *****
 3. Where insurance or reinsurance undertakings have concluded several excess of loss reinsurance contracts that each
 meet the requirements set out in point (d) of paragraph 2, and that in combination meet the requirements set out in
 points (a), (b) and (c) of paragraph 2, their combination shall be considered as one recognisable excess of loss insurance
@@ -62802,7 +62765,7 @@ ignoring it in the calculation of the capital requirement for revision risk coul
 judgement of the users of that information, including the supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 2999: *****
+****** Chunk 3001: *****
 **Data criteria**
 
 
@@ -62829,7 +62792,7 @@ Article 101(3) of Directive 2009/13/EC;
 (e) the data and its production process are thoroughly documented, including:
 ****** END OF CHUNK ******
 
-****** Chunk 3000: *****
+****** Chunk 3002: *****
 (d) the data meet any additional data requirement necessary to use each standardised method.
 
 
@@ -62854,7 +62817,7 @@ data;
 (iv) the validation of the data.
 ****** END OF CHUNK ******
 
-****** Chunk 3001: *****
+****** Chunk 3003: *****
 (iii) the selection and application of actuarial and statistical methods for the production and the adjustment of the
 data;
 
@@ -62876,7 +62839,7 @@ data ensure that the data are comparable;
 insurance or reinsurance undertaking whose undertaking-specific parameter is calculated in the basis of those data;
 ****** END OF CHUNK ******
 
-****** Chunk 3002: *****
+****** Chunk 3004: *****
 (d) undertakings using the external data are able to verify that there is sufficient statistical evidence that the probability
 distributions underlying their own data and that of the underlying external data have a high degree of similarity, in
 particular with respect to the level of volatility they reflect;
@@ -62889,7 +62852,7 @@ statistical evidence that the probability distributions underlying the external 
 homogeneity.
 ****** END OF CHUNK ******
 
-****** Chunk 3003: *****
+****** Chunk 3005: *****
 **Standardised methods to calculate the undertaking-specific parameters**
 
 
@@ -62913,7 +62876,7 @@ referred to in Article 218(1)(a)(iii) and (c)(iii);
 Article 218(1)(b) and (d).
 ****** END OF CHUNK ******
 
-****** Chunk 3004: *****
+****** Chunk 3006: *****
 (d) the revision risk method for undertaking-specific parameters replacing the standard parameters referred to in
 Article 218(1)(b) and (d).
 
@@ -62927,11 +62890,11 @@ method over the other standardised methods to calculate an undertaking-specific 
 most conservative result shall be used.
 ****** END OF CHUNK ******
 
-****** Chunk 3005: *****
+****** Chunk 3007: *****
 _**Procedure for updating correlation parameters**_
 ****** END OF CHUNK ******
 
-****** Chunk 3006: *****
+****** Chunk 3008: *****
 1. Supervisory authorities shall collect the quantitative undertaking-specific data necessary for determining
 dependencies between risks referred to in Article 309(8) and shall provide them on an annual basis to EIOPA for the
 purposes of updating correlation parameters.
@@ -62941,15 +62904,15 @@ purposes of updating correlation parameters.
 correlation parameters.
 ****** END OF CHUNK ******
 
-****** Chunk 3007: *****
+****** Chunk 3009: *****
 **SOLVENCY CAPITAL REQUIREMENT — FULL AND PARTIAL INTERNAL MODELS**
 ****** END OF CHUNK ******
 
-****** Chunk 3008: *****
+****** Chunk 3010: *****
 _**Definitions**_
 ****** END OF CHUNK ******
 
-****** Chunk 3009: *****
+****** Chunk 3011: *****
 **Materiality**
 
 
@@ -62959,11 +62922,11 @@ decision-making or the judgement of the users of that information, including the
 --- Page 145 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3010: *****
+****** Chunk 3012: *****
 _**Use test**_
 ****** END OF CHUNK ******
 
-****** Chunk 3011: *****
+****** Chunk 3013: *****
 **Use of the internal model**
 
 
@@ -62973,7 +62936,7 @@ different purposes. Where insurance and reinsurance undertakings decide not to u
 system of governance, particularly in the coverage of any material risks, they shall explain that decision.
 ****** END OF CHUNK ******
 
-****** Chunk 3012: *****
+****** Chunk 3014: *****
 **Fit to the business**
 
 
@@ -62998,7 +62961,7 @@ entiate between lines of business, between risk categories and between major bus
 scope or nature of the activities of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3013: *****
+****** Chunk 3015: *****
 **Understanding of the internal model**
 
 
@@ -63022,7 +62985,7 @@ overall understanding of the internal model which comprises knowledge about all 
 (e) the diversification effects taken into account in the internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3014: *****
+****** Chunk 3016: *****
 (c) the general methodology applied in the internal model calculations;
 
 
@@ -63036,7 +62999,7 @@ overall understanding of the internal model which comprises knowledge about all 
 of the parts of the internal model used in the area for which they are responsible.
 ****** END OF CHUNK ******
 
-****** Chunk 3015: *****
+****** Chunk 3017: *****
 **Support of decision-making and integration with risk management**
 
 
@@ -63055,7 +63018,7 @@ supervisory body of the insurance or reinsurance undertaking;
 model are covered by the internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3016: *****
+****** Chunk 3018: *****
 (d) the undertaking uses the internal model to assess, where material, the impact on its risk profile of potential
 decisions, including the impact on expected profit or loss and the variability of the profit or loss resulting from
 those decisions;
@@ -63073,7 +63036,7 @@ system;
 where relevant;
 ****** END OF CHUNK ******
 
-****** Chunk 3017: *****
+****** Chunk 3019: *****
 (g) the quantifications of risks and the risk ranking produced by the internal model trigger risk management actions
 where relevant;
 
@@ -63088,7 +63051,7 @@ Articles 101, 113, 120 to 125 of that Directive, to ensure compliance with those
 changes in the risk management system.
 ****** END OF CHUNK ******
 
-****** Chunk 3018: *****
+****** Chunk 3020: *****
 **Simplified calculation**
 
 
@@ -63103,7 +63066,7 @@ determine the Solvency Capital Requirement. For the remaining part of the calcul
 calculation of the Solvency Capital Requirement shall be used.
 ****** END OF CHUNK ******
 
-****** Chunk 3019: *****
+****** Chunk 3021: *****
 3. Insurance and reinsurance undertakings may use the approach set out in paragraph 2 provided that they are able
 to demonstrate upon request of the supervisory authorities that the results taken from the previous calculation of the
 Solvency Capital Requirement would not be materially different from the results of a new calculation.
@@ -63113,11 +63076,11 @@ Solvency Capital Requirement would not be materially different from the results 
 when calculating the Solvency Capital Requirement in accordance with Article 102 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3020: *****
+****** Chunk 3022: *****
 _**Statistical quality standards**_
 ****** END OF CHUNK ******
 
-****** Chunk 3021: *****
+****** Chunk 3023: *****
 **Probability distribution forecast**
 
 
@@ -63128,7 +63091,7 @@ exhaustive set of mutually exclusive future events, referred to in Article 13(38
 a sufficient number of events to reflect the risk profile of the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3022: *****
+****** Chunk 3024: *****
 2. Insurance and reinsurance undertakings shall calculate the probability distribution forecast of a partial internal
 model at the highest level of aggregation of the components of the partial internal model. If a partial internal model
 consists of different components which are separately calculated and not aggregated within the partial internal model,
@@ -63136,7 +63099,7 @@ the probability distribution forecast shall be calculated for each component.
 --- Page 147 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3023: *****
+****** Chunk 3025: *****
 **Adequate, applicable and relevant actuarial techniques**
 
 
@@ -63160,7 +63123,7 @@ undertaking;
 relevant change of the risk profile of the insurance or reinsurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 3024: *****
+****** Chunk 3026: *****
 (e) the internal model captures all the relevant characteristics of the risk profile of the insurance or reinsurance
 undertaking;
 
@@ -63175,7 +63138,7 @@ probability distribution forecast shall be adjusted to account for model and est
 (h) the calculation of the outputs of the internal model can be set out in a transparent manner.
 ****** END OF CHUNK ******
 
-****** Chunk 3025: *****
+****** Chunk 3027: *****
 **Information and assumptions used for the calculation of the probability distribution forecast**
 
 
@@ -63197,7 +63160,7 @@ assumptions are not used;
 (b) the circumstances under which the assumptions would be considered false can be clearly identified;
 ****** END OF CHUNK ******
 
-****** Chunk 3026: *****
+****** Chunk 3028: *****
 (b) the circumstances under which the assumptions would be considered false can be clearly identified;
 
 
@@ -63205,7 +63168,7 @@ assumptions are not used;
 those assumptions.
 ****** END OF CHUNK ******
 
-****** Chunk 3027: *****
+****** Chunk 3029: *****
 **Data used in the internal model**
 
 
@@ -63231,7 +63194,7 @@ identify trends in the risks;
 relevant data are excluded from the use in the internal model without justification.
 ****** END OF CHUNK ******
 
-****** Chunk 3028: *****
+****** Chunk 3030: *****
 3. Data used in the internal model shall only be considered appropriate for the purposes of Article 121(3) of
 Directive 2009/138/EC where all of the following conditions are met:
 
@@ -63258,7 +63221,7 @@ following areas:
 different data sets;
 ****** END OF CHUNK ******
 
-****** Chunk 3029: *****
+****** Chunk 3031: *****
 (i) the definition and assessment of the quality of data, including specific qualitative and quantitative standards for
 different data sets;
 
@@ -63270,7 +63233,7 @@ different data sets;
 trigger additional updates.
 ****** END OF CHUNK ******
 
-****** Chunk 3030: *****
+****** Chunk 3032: *****
 **Ability to rank risk**
 
 
@@ -63290,7 +63253,7 @@ consistently over time.
 Article 120 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3031: *****
+****** Chunk 3033: *****
 **Coverage of all material risks**
 
 
@@ -63316,7 +63279,7 @@ model.
 3. The quantitative indicators referred to in paragraph 1 of this Article shall include the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3032: *****
+****** Chunk 3034: *****
 (a) the capital allocation in accordance with Article 120 of Directive 2009/138/EC;
 
 
@@ -63326,7 +63289,7 @@ model.
 (c) the results of stress testing and scenario analysis and any tool used in the model validation process.
 ****** END OF CHUNK ******
 
-****** Chunk 3033: *****
+****** Chunk 3035: *****
 **Diversification effects**
 
 
@@ -63353,7 +63316,7 @@ portfolio;
 (c) the assumptions underlying the system used for measuring diversification effects are justified on an empirical basis.
 ****** END OF CHUNK ******
 
-****** Chunk 3034: *****
+****** Chunk 3036: *****
 **Risk-mitigation techniques**
 
 
@@ -63374,7 +63337,7 @@ arrangements relating to the risk-mitigation technique;
 exposure clearly defining the extent of the cover provided by the risk-mitigation technique.
 ****** END OF CHUNK ******
 
-****** Chunk 3035: *****
+****** Chunk 3037: *****
 2. Where the risk-mitigation technique referred to in paragraph 1(c) does not cover the risk exposure of the
 insurance or reinsurance undertaking in all cases, the internal model shall not be considered to properly reflect the risk
 arising from the risk-mitigation technique in accordance with Article 121(6) of Directive 2009/138/EC unless it takes
@@ -63388,7 +63351,7 @@ Article 121(6) of Directive 2009/138/EC unless it takes into account the effects
 effectiveness of that risk-mitigation technique.
 ****** END OF CHUNK ******
 
-****** Chunk 3036: *****
+****** Chunk 3038: *****
 **Future management actions**
 
 
@@ -63408,7 +63371,7 @@ consistent with the changed practices or strategy;
 (c) assumed future management actions are consistent with each other;
 ****** END OF CHUNK ******
 
-****** Chunk 3037: *****
+****** Chunk 3039: *****
 (c) assumed future management actions are consistent with each other;
 
 
@@ -63434,7 +63397,7 @@ model.
 Insurance and reinsurance undertakings shall be able to explain any relevant deviations in relation to points (a) and (b).
 ****** END OF CHUNK ******
 
-****** Chunk 3038: *****
+****** Chunk 3040: *****
 Insurance and reinsurance undertakings shall be able to explain any relevant deviations in relation to points (a) and (b).
 
 
@@ -63455,7 +63418,7 @@ to carry out the future management actions identified pursuant to point (a), and
 stances are reflected in the internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3039: *****
+****** Chunk 3041: *****
 (d) the order in which future management actions would be carried out and the governance requirements applicable to
 those future management actions;
 
@@ -63477,7 +63440,7 @@ internal model.
 actions and any expenses caused by them.
 ****** END OF CHUNK ******
 
-****** Chunk 3040: *****
+****** Chunk 3042: *****
 **Understanding of external models and data**
 
 
@@ -63493,11 +63456,11 @@ limitations.
 --- Page 151 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3041: *****
+****** Chunk 3043: *****
 _**Calibration standards**_
 ****** END OF CHUNK ******
 
-****** Chunk 3042: *****
+****** Chunk 3044: *****
 1. The option referred to in Article 122 of Directive 2009/138/EC to use a different time period or risk measure than
 that set out in Article 101(3) of that Directive shall apply both to the internal model as a whole and to different risk
 categories or major business units within that internal model.
@@ -63513,7 +63476,7 @@ Where the approximations are based on the rescaling of modelled risks, the under
 Directive 2009/138/EC shall demonstrate that the rescaling does not impair the outcome of the approximations.
 ****** END OF CHUNK ******
 
-****** Chunk 3043: *****
+****** Chunk 3045: *****
 Where the time period of the risk measure used is different from the one provided in Article 101(3) of Directive/EC, the undertakings referred to in Article 122(3) of that Directive shall take into account all of the
 following:
 
@@ -63533,7 +63496,7 @@ insurance or reinsurance undertaking, the business of the undertaking and, where
 associated with long time periods;
 ****** END OF CHUNK ******
 
-****** Chunk 3044: *****
+****** Chunk 3046: *****
 (e) any assumptions made in the approximations about the dependencies between risks over consecutive periods of
 time.
 
@@ -63547,11 +63510,11 @@ significantly.
 internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3045: *****
+****** Chunk 3047: *****
 _**Integration of partial internal models**_
 ****** END OF CHUNK ******
 
-****** Chunk 3046: *****
+****** Chunk 3048: *****
 1. In order to fully integrate a partial internal model into the Solvency Capital Requirement standard formula,
 insurance and reinsurance undertakings shall use as a default integration technique the correlation matrices and
 formulas of the standard formula set out in Annex IV of Directive 2009/138/EC and Title I, Chapter V of this
@@ -63565,7 +63528,7 @@ Annex XVIII. The insurance or reinsurance undertakings shall demonstrate the app
 technique proposed.
 ****** END OF CHUNK ******
 
-****** Chunk 3047: *****
+****** Chunk 3049: *****
 3. Where the insurance or reinsurance undertaking further demonstrates to the supervisory authorities that it would
 not be appropriate to use any of the integration techniques set out in Annex XVIII for any of the reasons referred to in
 paragraph 5, the insurance and reinsurance undertaking may use an alternative integration technique. The insurance or
@@ -63582,7 +63545,7 @@ appropriately reflects the risk profile of the insurance or reinsurance undertak
 (a) the resulting Solvency Capital Requirement would not comply with Article 101 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3048: *****
+****** Chunk 3050: *****
 (a) the resulting Solvency Capital Requirement would not comply with Article 101 of Directive 2009/138/EC;
 
 
@@ -63593,11 +63556,11 @@ reinsurance undertaking;
 (c) the design of the partial internal model is consistent with the principles set out in Articles 101 and 102 of Directive/EC but would not allow its integration into the solvency capital requirement standard formula.
 ****** END OF CHUNK ******
 
-****** Chunk 3049: *****
+****** Chunk 3051: *****
 _**Profit and loss attribution**_
 ****** END OF CHUNK ******
 
-****** Chunk 3050: *****
+****** Chunk 3052: *****
 1. For the purpose of profit and loss attribution in accordance with Article 123 of Directive 2009/138/EC, insurance
 and reinsurance undertakings shall specify all of the following:
 
@@ -63624,16 +63587,16 @@ categorisation of risk shall distinguish between risks covered by the internal m
 model.
 ****** END OF CHUNK ******
 
-****** Chunk 3051: *****
+****** Chunk 3053: *****
 4. The attribution of profit and loss shall be made in an objective and transparent manner and be consistent over
 time.
 ****** END OF CHUNK ******
 
-****** Chunk 3052: *****
+****** Chunk 3054: *****
 _**Validation standards**_
 ****** END OF CHUNK ******
 
-****** Chunk 3053: *****
+****** Chunk 3055: *****
 **Model validation process**
 
 
@@ -63655,7 +63618,7 @@ following:
 (a) the processes and methods used to validate the internal model and their purposes;
 ****** END OF CHUNK ******
 
-****** Chunk 3054: *****
+****** Chunk 3056: *****
 (a) the processes and methods used to validate the internal model and their purposes;
 
 
@@ -63679,7 +63642,7 @@ account:
 process,
 ****** END OF CHUNK ******
 
-****** Chunk 3055: *****
+****** Chunk 3057: *****
 (a) in case of an internal validation process, the responsibilities and reporting structure of the persons involved in the
 
 process,
@@ -63690,7 +63653,7 @@ employees or other persons acting on their behalf, who are involved in the proce
 persons relating to the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3056: *****
+****** Chunk 3058: *****
 **Validation tools**
 
 
@@ -63710,7 +63673,7 @@ modelled in the internal model.
 Directive 2009/138/EC, shall be based on all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3057: *****
+****** Chunk 3059: *****
 3. The statistical process for validating the internal model, referred to in the second paragraph of Article 124 of
 Directive 2009/138/EC, shall be based on all of the following:
 
@@ -63723,7 +63686,7 @@ and the generally accepted market practice;
 calculate the probability distribution forecast of the internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3058: *****
+****** Chunk 3060: *****
 (b) a detailed understanding of the economic and actuarial theory and the assumptions underlying the methods to
 calculate the probability distribution forecast of the internal model.
 
@@ -63739,7 +63702,7 @@ the key assumptions shall include assumptions on future management actions.
 different calculations of the internal model using the same input data.
 ****** END OF CHUNK ******
 
-****** Chunk 3059: *****
+****** Chunk 3061: *****
 5. The model validation process shall include an analysis of the stability of the outputs of the internal model for
 different calculations of the internal model using the same input data.
 
@@ -63750,11 +63713,11 @@ purpose, the statistical process for validating the internal model shall include
 probable stresses that would threaten the viability of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3060: *****
+****** Chunk 3062: *****
 _**Documentation standards**_
 ****** END OF CHUNK ******
 
-****** Chunk 3061: *****
+****** Chunk 3063: *****
 **General provisions**
 
 
@@ -63769,13 +63732,13 @@ the limited scope of the model and the integration technique used to integrate t
 standard formula.
 ****** END OF CHUNK ******
 
-****** Chunk 3062: *****
+****** Chunk 3064: *****
 3. The documentation referred to in paragraphs 1 and 2 shall be appropriately structured, detailed and complete and
 shall be kept up to date. Outputs of the internal model shall be capable of being reproduced using the internal model
 documentation and all of the inputs into the internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3063: *****
+****** Chunk 3065: *****
 **Minimum content of the documentation**
 
 
@@ -63804,7 +63767,7 @@ Article 230(2);
 cover the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3064: *****
+****** Chunk 3066: *****
 (f) the explanation of the methodology used to set assumptions referred to in point (c) of Article 230(2) which shall
 cover the following:
 
@@ -63832,7 +63795,7 @@ justification;
 (j) the specification of the qualitative and quantitative indicators for the coverage of risks referred to in Article 233;
 ****** END OF CHUNK ******
 
-****** Chunk 3065: *****
+****** Chunk 3067: *****
 (j) the specification of the qualitative and quantitative indicators for the coverage of risks referred to in Article 233;
 
 
@@ -63860,7 +63823,7 @@ Article 236 and a description of the relevant deviations referred to in Article 
 (i) the role of external models and data in the internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3066: *****
+****** Chunk 3068: *****
 (p) in relation to external models and data:
 
 
@@ -63875,7 +63838,7 @@ and an explanation of the decision in favour of a particular external model or a
 --- Page 155 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3067: *****
+****** Chunk 3069: *****
 **Circumstances under which the internal model does not work effectively**
 
 
@@ -63905,7 +63868,7 @@ sensitivity of the results for the key assumptions underlying the internal model
 (g) the limitations of internal model governance.
 ****** END OF CHUNK ******
 
-****** Chunk 3068: *****
+****** Chunk 3070: *****
 **Changes to the internal model**
 
 
@@ -63924,21 +63887,21 @@ model, a quantitative and qualitative comparison of the outputs before and after
 valuation date.
 ****** END OF CHUNK ******
 
-****** Chunk 3069: *****
+****** Chunk 3071: *****
 _**External models and data**_
 ****** END OF CHUNK ******
 
-****** Chunk 3070: *****
+****** Chunk 3072: *****
 Insurance and reinsurance undertakings shall monitor any potential limitations arising from the use of external models
 or external data in the internal model to the ongoing fulfilment of the requirements set out in Articles 101 and
 Articles 120 to 125 of Directive 2009/138/EC, and also in Article 113 of that Directive for partial internal models.
 ****** END OF CHUNK ******
 
-****** Chunk 3071: *****
+****** Chunk 3073: *****
 **MINIMUM CAPITAL REQUIREMENT**
 ****** END OF CHUNK ******
 
-****** Chunk 3072: *****
+****** Chunk 3074: *****
 **Minimum Capital Requirement**
 
 
@@ -63973,7 +63936,7 @@ where:
 Chapter VI where approval for the use of full or partial internal model has been granted.
 ****** END OF CHUNK ******
 
-****** Chunk 3073: *****
+****** Chunk 3075: *****
 **Linear Minimum Capital Requirement**
 
 
@@ -63992,7 +63955,7 @@ where:
 (b) _MCR(linear,l)_ denotes the linear formula component for life insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 3074: *****
+****** Chunk 3076: *****
 **Linear formula component for non-life insurance and reinsurance obligations**
 
 
@@ -64029,7 +63992,7 @@ with a floor equal to zero;
 (d) the factors _α_ _s_ and _β_ _s_ are set out in Annex XIX.
 ****** END OF CHUNK ******
 
-****** Chunk 3075: *****
+****** Chunk 3077: *****
 (d) the factors _α_ _s_ and _β_ _s_ are set out in Annex XIX.
 
 
@@ -64054,7 +64017,7 @@ point (c) of paragraph (1), the following premiums for reinsurance contracts sha
 (b) premiums for reinsurance contracts that do not comply with Articles 209, 210, 211 and 213 or with Article 235.
 ****** END OF CHUNK ******
 
-****** Chunk 3076: *****
+****** Chunk 3078: *****
 **Linear formula component for life insurance and reinsurance obligations**
 
 
@@ -64073,7 +64036,7 @@ obligations where the underlying life insurance obligations include profit parti
 amounts recoverable from reinsurance contracts and special purpose vehicles, with a floor equal to zero;
 ****** END OF CHUNK ******
 
-****** Chunk 3077: *****
+****** Chunk 3079: *****
 (b) _TP_ _(life,2)_ denotes the technical provisions without a risk margin in relation to future discretionary benefits for life
 insurance obligations with profit participation, after deduction of the amounts recoverable from reinsurance
 contracts and special purpose vehicles, with a floor equal to zero;
@@ -64089,7 +64052,7 @@ after deduction of the amounts recoverable from reinsurance contracts and specia
 equal to zero;
 ****** END OF CHUNK ******
 
-****** Chunk 3078: *****
+****** Chunk 3080: *****
 (e) _CAR_ denotes the total capital at risk, being the sum, in relation to each contract that give rise to life insurance or
 reinsurance obligations, of the capital at risk of the contracts, where the capital at risk of a contract means the
 higher of zero and the difference between the following two amounts:
@@ -64108,7 +64071,7 @@ the future in the event of the immediate death or disability of the persons insu
 deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles;
 ****** END OF CHUNK ******
 
-****** Chunk 3079: *****
+****** Chunk 3081: *****
 (ii) the best estimate of the corresponding obligations after deduction of the amounts recoverable from reinsurance
 contracts and special purpose vehicles.
 
@@ -64124,7 +64087,7 @@ accordance with Article 41(3) and (5);
 to 215 or Article 235.
 ****** END OF CHUNK ******
 
-****** Chunk 3080: *****
+****** Chunk 3082: *****
 **Minimum Capital Requirement: composite insurance undertakings**
 
 
@@ -64156,7 +64119,7 @@ _NMCR_ ð _combined,nl_ Þ ¼ minðmaxð _NMCR_ ð _linear,nl_ Þ ; 0,25 �ð _
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3081: *****
+****** Chunk 3083: *****
 _NMCR_ ð _combined,nl_ Þ ¼ minðmaxð _NMCR_ ð _linear,nl_ Þ ; 0,25 �ð _NSCR_ _nl_ þ _Addon_ _nl_ ÞÞ; 0,45 �ð _NSCR_ _nl_ þ _Addon_ _nl_ ÞÞ
 --- Page 158 ---
 where:
@@ -64183,7 +64146,7 @@ _NMCR_ ð _linear,nl_ Þ ¼ _MCR_ ð _nl,nl_ Þ þ _MCR_ ð _l,nl_ Þ
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3082: *****
+****** Chunk 3084: *****
 _NMCR_ ð _linear,nl_ Þ ¼ _MCR_ ð _nl,nl_ Þ þ _MCR_ ð _l,nl_ Þ
 
 
@@ -64208,7 +64171,7 @@ non-life insurance referred to in Annex I of Directive 2009/138/EC.
 following:
 ****** END OF CHUNK ******
 
-****** Chunk 3083: *****
+****** Chunk 3085: *****
 6. The notional Solvency Capital Requirement for non-life insurance or reinsurance activity shall be equal to the
 following:
 
@@ -64245,7 +64208,7 @@ activity;
 _NMCR_ _l_ ¼ maxð _NMCR_ ð _combined,l_ Þ ; _AMCR_ _l_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 3084: *****
+****** Chunk 3086: *****
 7. The notional life Minimum Capital Requirement shall be equal to the following:
 
 
@@ -64276,7 +64239,7 @@ where:
 (b) _NSCR_ _l_ denotes the notional Solvency Capital Requirement for life insurance or reinsurance activity;
 ****** END OF CHUNK ******
 
-****** Chunk 3085: *****
+****** Chunk 3087: *****
 (b) _NSCR_ _l_ denotes the notional Solvency Capital Requirement for life insurance or reinsurance activity;
 
 
@@ -64302,7 +64265,7 @@ insurance or reinsurance activity;
 or reinsurance activity.
 ****** END OF CHUNK ******
 
-****** Chunk 3086: *****
+****** Chunk 3088: *****
 (b) _MCR_ _(l,l)_ denotes the linear formula component for life insurance and reinsurance obligations relating to life insurance
 or reinsurance activity.
 
@@ -64330,7 +64293,7 @@ where:
 � _SCR_
 ****** END OF CHUNK ******
 
-****** Chunk 3087: *****
+****** Chunk 3089: *****
 _NMCR_ ð _linear,l_ Þ
 _NSCR_ _l_ ¼
 _NMCR_ ð _linear,nl_ Þ þ _NMCR_ ð _linear,l_ Þ
@@ -64356,7 +64319,7 @@ activity;
 (c) _NMCR_ _(linear,l)_ denotes the notional linear Minimum Capital Requirement for life insurance or reinsurance activity.
 ****** END OF CHUNK ******
 
-****** Chunk 3088: *****
+****** Chunk 3090: *****
 **Absolute floor of the Minimum Capital Requirement**
 
 
@@ -64371,17 +64334,17 @@ floor of the Minimum Capital Requirement shall be equal to the amount set out in
 Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3089: *****
+****** Chunk 3091: *****
 3. Where the gross written premiums for life insurance business do not exceed 10 % of total gross written premiums
 of the undertaking as a whole, the absolute floor of the Minimum Capital Requirement shall be equal to the amount set
 out in point (ii) of Article 129(1) (d) of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3090: *****
+****** Chunk 3092: *****
 **INVESTMENTS IN SECURITISATION POSITIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 3091: *****
+****** Chunk 3093: *****
 **Risk retention requirements relating to the originators, sponsors or original lenders**
 
 
@@ -64402,7 +64365,7 @@ No 575/2013, the retention of the originator's interest of no less than 5 % of t
 exposures;
 ****** END OF CHUNK ******
 
-****** Chunk 3092: *****
+****** Chunk 3094: *****
 exposures;
 
 
@@ -64419,7 +64382,7 @@ that the retention equals in total no less than 5 % of the nominal value of the 
 (e) the retention of a first loss exposure of not less than 5 % of every securitised exposure in the securitisation.
 ****** END OF CHUNK ******
 
-****** Chunk 3093: *****
+****** Chunk 3095: *****
 (e) the retention of a first loss exposure of not less than 5 % of every securitised exposure in the securitisation.
 
 
@@ -64445,7 +64408,7 @@ any of the following:
 (c) the original lender or multiple original lenders.
 ****** END OF CHUNK ******
 
-****** Chunk 3094: *****
+****** Chunk 3096: *****
 (a) the originator or multiple originators;
 
 
@@ -64468,7 +64431,7 @@ or multiple original lenders, the retention requirement may be fulfilled in full
 provided that either of the following conditions are met:
 ****** END OF CHUNK ******
 
-****** Chunk 3095: *****
+****** Chunk 3097: *****
 (a) the originator or original lender has established and is managing the programme or securitisation scheme;
 
 
@@ -64489,7 +64452,7 @@ management of the programme or securitisation scheme and exposure to credit risk
 --- Page 161 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3096: *****
+****** Chunk 3098: *****
 **Exemptions to risk retention requirements**
 
 
@@ -64503,7 +64466,7 @@ underlying assets of that index are identical to those of an index that is widel
 other than securitisation positions.
 ****** END OF CHUNK ******
 
-****** Chunk 3097: *****
+****** Chunk 3099: *****
 **Qualitative requirements relating to insurance and reinsurance undertakings**
 
 
@@ -64521,7 +64484,7 @@ undermine that commitment to maintain that interest as disclosed in accordance w
 ensure that the originator, the sponsor or the original lender has all of the following features:
 ****** END OF CHUNK ******
 
-****** Chunk 3098: *****
+****** Chunk 3100: *****
 (a) the originator, sponsor or original lender grants credit based on sound and well-defined criteria and clearly
 establishes the process for approving, amending, renewing and refinancing loans to be securitised as well as loans
 which it will not securitise;
@@ -64540,7 +64503,7 @@ overall credit strategy;
 reinsurance undertaking to comply with the requirements set out in paragraphs 4 to 7;
 ****** END OF CHUNK ******
 
-****** Chunk 3099: *****
+****** Chunk 3101: *****
 (e) the originator, sponsor or original lender has a written policy on credit risk that includes their risk tolerance limits
 and provisioning policy and how it measures, monitors and controls that risk;
 
@@ -64555,13 +64518,13 @@ commensurate with the risk profile of their securitisation positions to monitor 
 on an ongoing basis and in a timely manner.
 ****** END OF CHUNK ******
 
-****** Chunk 3100: *****
+****** Chunk 3102: *****
 5. Insurance or reinsurance undertakings investing in securitisation shall ensure that there is an adequate level of
 internal reporting to their administrative, management or supervisory body so that they are aware of material securiti­
 sation positions and that the risks from those investments are adequately managed.
 ****** END OF CHUNK ******
 
-****** Chunk 3101: *****
+****** Chunk 3103: *****
 6. Insurance and reinsurance undertakings investing in securitisation shall regularly perform stress tests on the cash
 flows and collateral values supporting the underlying exposures. Any stress test shall be commensurate with the nature,
 scale and complexity of the risk inherent in the securitisation position.
@@ -64572,7 +64535,7 @@ and its underlying exposures and that they have implemented written policies and
 management.
 ****** END OF CHUNK ******
 
-****** Chunk 3102: *****
+****** Chunk 3104: *****
 **Requirements for investments in securitisation that no longer comply with the risk-retention and qualitative**
 **requirements**
 
@@ -64588,7 +64551,7 @@ omission of the insurance or reinsurance undertaking, the supervisory authority 
 to the Solvency Capital Requirement in accordance with paragraph 3 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 3103: *****
+****** Chunk 3105: *****
 3. Where the standard formula is used for the calculation of spread risk as referred to in Article 178, for the
 purposes of the calculation of the increased Solvency Capital Requirement referred to in paragraph 2 of this Article, the
 capital requirement for spread risk of the relevant securitisation positions shall be based on risk factors as referred to in
@@ -64605,15 +64568,15 @@ failure should be considered a significant deviation from the undertaking's syst
 Article 37(1)(c) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3104: *****
+****** Chunk 3106: *****
 **SYSTEM OF GOVERNANCE**
 ****** END OF CHUNK ******
 
-****** Chunk 3105: *****
+****** Chunk 3107: *****
 _**Elements of the system of governance**_
 ****** END OF CHUNK ******
 
-****** Chunk 3106: *****
+****** Chunk 3108: *****
 **General governance requirements**
 
 
@@ -64634,7 +64597,7 @@ qualifications, competency, skills and professional experience in the relevant a
 effectively manage and oversee the undertaking in a professional manner;
 ****** END OF CHUNK ******
 
-****** Chunk 3107: *****
+****** Chunk 3109: *****
 (d) ensure that each individual member of the administrative, management or supervisory body has the necessary
 qualifications, competency, skills and professional experience to perform the tasks assigned;
 
@@ -64653,7 +64616,7 @@ prevent the persons concerned from carrying out any particular function in a sou
 concerning the business activities, the commitments assumed and the risks to which the undertaking is exposed;
 ****** END OF CHUNK ******
 
-****** Chunk 3108: *****
+****** Chunk 3110: *****
 (i) maintain adequate and orderly records of the undertaking's business and internal organisation;
 
 
@@ -64673,7 +64636,7 @@ the relevant responsibilities, objectives, processes and reporting procedures to
 with the undertaking's overall business strategy.
 ****** END OF CHUNK ******
 
-****** Chunk 3109: *****
+****** Chunk 3111: *****
 3. Insurance and reinsurance undertakings shall establish, implement and maintain a business continuity policy aimed
 at ensuring, in the case of an interruption to their systems and procedures, the preservation of essential data and
 functions and the maintenance of insurance and reinsurance activities, or, where that is not possible, the timely recovery
@@ -64683,7 +64646,7 @@ of such data and functions and the timely resumption of their insurance or reins
 4. Insurance and reinsurance undertakings shall ensure that at least two persons effectively run the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3110: *****
+****** Chunk 3112: *****
 4. Insurance and reinsurance undertakings shall ensure that at least two persons effectively run the undertaking.
 
 
@@ -64697,7 +64660,7 @@ conflicts of interest could arise and how such conflicts are to be addressed.
 effectiveness of their system of governance and take appropriate measures to address any deficiencies.
 ****** END OF CHUNK ******
 
-****** Chunk 3111: *****
+****** Chunk 3113: *****
 **Risk Management System**
 
 
@@ -64719,7 +64682,7 @@ the undertaking's risk strategy, facilitate control mechanisms and take into acc
 periods of the business and the associated risks;
 ****** END OF CHUNK ******
 
-****** Chunk 3112: *****
+****** Chunk 3114: *****
 (d) reporting procedures and processes which ensure that information on the material risks faced by the undertaking
 and the effectiveness of the risk management system are actively monitored and analysed and that appropriate
 modifications to the system are made where necessary.
@@ -64730,7 +64693,7 @@ other key functions take into account the information reported as part of the ri
 making process.
 ****** END OF CHUNK ******
 
-****** Chunk 3113: *****
+****** Chunk 3115: *****
 3. Insurance and reinsurance undertakings shall, where appropriate, include the performance of stress tests and
 scenario analysis with regard to all relevant risks faced by the undertaking, in their risk-management system.
 --- Page 164 ---
@@ -64742,7 +64705,7 @@ is unrated, that shall not exempt insurance and reinsurance undertakings from ad
 information.
 ****** END OF CHUNK ******
 
-****** Chunk 3114: *****
+****** Chunk 3116: *****
 **Risk management areas**
 
 
@@ -64772,7 +64735,7 @@ claims.
 and liabilities;
 ****** END OF CHUNK ******
 
-****** Chunk 3115: *****
+****** Chunk 3117: *****
 (b) Asset-liability management:
 
 
@@ -64804,7 +64767,7 @@ take into account the nature of the undertaking's business, its approved risk to
 position and its long-term risk exposure;
 ****** END OF CHUNK ******
 
-****** Chunk 3116: *****
+****** Chunk 3118: *****
 (iii) the insurance or reinsurance undertakings' own internal assessment of the credit risk of investment counter­
 
 parties, including where the counterparties are central governments;
@@ -64827,7 +64790,7 @@ exposures, including off-balance sheet exposures.
 term liquidity risk;
 ****** END OF CHUNK ******
 
-****** Chunk 3117: *****
+****** Chunk 3119: *****
 (d) Liquidity risk management:
 
 
@@ -64850,7 +64813,7 @@ analyse possible risks of contagion between concentrated exposures.
 responsibilities to regularly identify, document and monitor relevant operational risk exposures.
 ****** END OF CHUNK ******
 
-****** Chunk 3118: *****
+****** Chunk 3120: *****
 (g) Reinsurance and other insurance risk mitigation techniques:
 
 
@@ -64866,7 +64829,7 @@ to manage and control the risks associated with those techniques;
 (iii) the insurance or reinsurance undertakings' own assessment of the credit risk of the risk mitigation techniques.
 ****** END OF CHUNK ******
 
-****** Chunk 3119: *****
+****** Chunk 3121: *****
 (iii) the insurance or reinsurance undertakings' own assessment of the credit risk of the risk mitigation techniques.
 
 
@@ -64877,7 +64840,7 @@ reinsurance contracts that are expected to be received in the future are not rec
 insured event having occurred, regardless of the legal or contractual rights of the policyholder to discontinue the policy.
 ****** END OF CHUNK ******
 
-****** Chunk 3120: *****
+****** Chunk 3122: *****
 3. The calculation of the expected profit included in future premiums shall be carried out separately for the
 homogeneous risk groups used in the calculation of the technical provisions, provided that the insurance and
 reinsurance obligations are also homogeneous in relation to the expected profit included in future premiums.
@@ -64886,7 +64849,7 @@ reinsurance obligations are also homogeneous in relation to the expected profit 
 4. Loss-making policies may only be offset against profit-making policies within a homogeneous risk group.
 ****** END OF CHUNK ******
 
-****** Chunk 3121: *****
+****** Chunk 3123: *****
 **Risk management in undertakings providing loans and/or mortgage insurance or reinsurance**
 
 
@@ -64910,7 +64873,7 @@ problematic credits, and for making adequate value adjustments, is operated thro
 the undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3122: *****
+****** Chunk 3124: *****
 (d) that the diversification of the loan portfolios is adequate given the target markets and overall investment strategy of
 the undertaking.
 
@@ -64920,7 +64883,7 @@ underwriting on sound and well-defined criteria and comply with the requirements
 paragraph 1 with regard to the mortgage loans underlying their insurance and reinsurance obligations.
 ****** END OF CHUNK ******
 
-****** Chunk 3123: *****
+****** Chunk 3125: *****
 **Overall solvency needs**
 
 
@@ -64944,14 +64907,14 @@ this paragraph.
 (b) valuation and recognition bases that are appropriate for the undertaking's business and risk profile;
 ****** END OF CHUNK ******
 
-****** Chunk 3124: *****
+****** Chunk 3126: *****
 (b) valuation and recognition bases that are appropriate for the undertaking's business and risk profile;
 
 
 (c) the undertaking's internal control and risk-management systems and approved risk tolerance limits.
 ****** END OF CHUNK ******
 
-****** Chunk 3125: *****
+****** Chunk 3127: *****
 **Alternative methods for valuation**
 
 
@@ -64975,7 +64938,7 @@ shall:
 experience.
 ****** END OF CHUNK ******
 
-****** Chunk 3126: *****
+****** Chunk 3128: *****
 **Valuation of technical provisions — validation**
 
 
@@ -64999,7 +64962,7 @@ Article 19 of this Regulation;
 best estimate;
 ****** END OF CHUNK ******
 
-****** Chunk 3127: *****
+****** Chunk 3129: *****
 (d) the appropriateness of approximations referred to in Article 21 of this Regulation for the purposes of calculating the
 best estimate;
 
@@ -65016,7 +64979,7 @@ technical provisions;
 necessary to comply with Article 76 of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3128: *****
+****** Chunk 3130: *****
 (g) the appropriateness of the level of the technical provisions as referred to in Article 84 of Directive 2009/138/EC
 necessary to comply with Article 76 of that Directive.
 
@@ -65028,7 +64991,7 @@ reinsurance undertakings shall be able to explain the reasons for this impact an
 in their decision-making process.
 ****** END OF CHUNK ******
 
-****** Chunk 3129: *****
+****** Chunk 3131: *****
 3. The validation shall be carried out separately for homogeneous risk groups. It shall be carried out separately for
 the best estimate, the risk margin and technical provisions calculated according to the market value of financial
 instruments which reliably replicate future cash flows in accordance with Article 40 of this Regulation. It shall be
@@ -65038,7 +65001,7 @@ obligations, it shall be carried out separately for premium provisions and provi
 --- Page 167 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3130: *****
+****** Chunk 3132: *****
 **Valuation of technical provisions — documentation**
 
 
@@ -65070,7 +65033,7 @@ usage;
 (b) the specification for the collection, processing and application of data referred to in Article 19(3)(e);
 ****** END OF CHUNK ******
 
-****** Chunk 3131: *****
+****** Chunk 3133: *****
 usage;
 
 
@@ -65103,7 +65066,7 @@ include assumptions on future management actions;
 (f) a description of the processes in place to review the choice of assumptions;
 ****** END OF CHUNK ******
 
-****** Chunk 3132: *****
+****** Chunk 3134: *****
 (e) any material limitations in the choice made;
 
 
@@ -65117,7 +65080,7 @@ material changes;
 (h) the relevant deviations referred to in Article 23(2).
 ****** END OF CHUNK ******
 
-****** Chunk 3133: *****
+****** Chunk 3135: *****
 **Internal control system**
 
 
@@ -65126,7 +65089,7 @@ regulations and administrative provisions and the effectiveness and the efficien
 of its objectives as well as ensure the availability and reliability of financial and non-financial information.
 ****** END OF CHUNK ******
 
-****** Chunk 3134: *****
+****** Chunk 3136: *****
 **Internal control of valuation of assets and liabilities**
 
 
@@ -65144,7 +65107,7 @@ personnel involved with the valuation, the relevant models, and the sources of i
 independent valuation or verification of the value of material assets and liabilities.
 ****** END OF CHUNK ******
 
-****** Chunk 3135: *****
+****** Chunk 3137: *****
 4. Insurance and reinsurance undertakings shall fulfil all of the following requirements:
 
 
@@ -65165,11 +65128,11 @@ valuations and the process in place to take account of any external, independent
 value of material assets or liabilities.
 ****** END OF CHUNK ******
 
-****** Chunk 3136: *****
+****** Chunk 3138: *****
 _**Functions**_
 ****** END OF CHUNK ******
 
-****** Chunk 3137: *****
+****** Chunk 3139: *****
 **Specific provisions**
 
 
@@ -65185,12 +65148,12 @@ shall have the necessary authority, resources and expertise as well as unrestric
 necessary to carry out their responsibilities.
 ****** END OF CHUNK ******
 
-****** Chunk 3138: *****
+****** Chunk 3140: *****
 3. The persons performing a function shall promptly report any major problem in their area of responsibility to the
 administrative, management or supervisory body.
 ****** END OF CHUNK ******
 
-****** Chunk 3139: *****
+****** Chunk 3141: *****
 **Risk management function**
 
 
@@ -65228,7 +65191,7 @@ and major projects and investments;
 --- Page 169 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3140: *****
+****** Chunk 3142: *****
 **Compliance function**
 
 
@@ -65243,7 +65206,7 @@ compliance risk.
 insurance or reinsurance undertaking to prevent non-compliance.
 ****** END OF CHUNK ******
 
-****** Chunk 3141: *****
+****** Chunk 3143: *****
 **Internal audit function**
 
 
@@ -65269,7 +65232,7 @@ impose costs on the undertaking that would be disproportionate with respect to t
 3. The internal audit function shall include all of the following tasks:
 ****** END OF CHUNK ******
 
-****** Chunk 3142: *****
+****** Chunk 3144: *****
 3. The internal audit function shall include all of the following tasks:
 
 
@@ -65296,7 +65259,7 @@ of those recommendations referred to in point (d).
 Where necessary, the internal audit function may carry out audits which are not included in the audit plan.
 ****** END OF CHUNK ******
 
-****** Chunk 3143: *****
+****** Chunk 3145: *****
 **Actuarial function**
 
 
@@ -65321,7 +65284,7 @@ referred to in Article 82 of Directive 2009/138/EC;
 assessment of the underlying risks;
 ****** END OF CHUNK ******
 
-****** Chunk 3144: *****
+****** Chunk 3146: *****
 (e) ensure that homogeneous risk groups of insurance and reinsurance obligations are identified for an appropriate
 assessment of the underlying risks;
 
@@ -65342,7 +65305,7 @@ technical provisions are appropriate for the specific lines of business of the u
 managed, having regard to the available data.
 ****** END OF CHUNK ******
 
-****** Chunk 3145: *****
+****** Chunk 3147: *****
 3. The actuarial function shall assess whether the information technology systems used in the calculation of technical
 provisions sufficiently support the actuarial and statistical procedures.
 
@@ -65354,7 +65317,7 @@ underlying the calculation of the best estimate, in order to draw conclusions on
 completeness of the data and assumptions used as well as on the methodologies applied in their calculation.
 ****** END OF CHUNK ******
 
-****** Chunk 3146: *****
+****** Chunk 3148: *****
 5. Information submitted to the administrative, management or supervisory body on the calculation of the technical
 provisions shall include at least a reasoned analysis on the reliability and adequacy of their calculation and on the
 sources and the degree of uncertainty of the estimate of the technical provisions. That reasoned analysis shall be
@@ -65367,7 +65330,7 @@ clearly estate and explain any concerns it may have concerning the adequacy of t
 Article 48(1)(g) of Directive 2009/138/EC shall at least include conclusions regarding the following considerations:
 ****** END OF CHUNK ******
 
-****** Chunk 3147: *****
+****** Chunk 3149: *****
 (a) sufficiency of the premiums to be earned to cover future claims and expenses, notably taking into consideration the
 underlying risks (including underwriting risks), and the impact of options and guarantees included in insurance and
 reinsurance contracts on the sufficiency of premiums;
@@ -65386,7 +65349,7 @@ profile (anti-selection).
 accordance with Article 48(1)(h) of Directive 2009/138/EC shall include analysis on the adequacy of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3148: *****
+****** Chunk 3150: *****
 (a) the undertaking's risk profile and underwriting policy;
 
 
@@ -65406,11 +65369,11 @@ deficiencies should be remedied.
 --- Page 171 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3149: *****
+****** Chunk 3151: *****
 _**Fit and proper requirements**_
 ****** END OF CHUNK ******
 
-****** Chunk 3150: *****
+****** Chunk 3152: *****
 1. Insurance and reinsurance undertakings shall establish, implement and maintain documented policies and adequate
 procedures to ensure that all persons who effectively run the undertaking or have other key functions are at all times fit
 and proper within the meaning of Article 42 of Directive 2009/138/EC.
@@ -65422,7 +65385,7 @@ and shall take into account the respective duties allocated to that person and, 
 accounting, actuarial and management skills of the person.
 ****** END OF CHUNK ******
 
-****** Chunk 3151: *****
+****** Chunk 3153: *****
 3. The assessment of whether members of the administrative, management or supervisory body are fit shall take
 account of the respective duties allocated to individual members to ensure appropriate diversity of qualifications,
 knowledge and relevant experience to ensure that the undertaking is managed and overseen in a professional manner.
@@ -65433,11 +65396,11 @@ soundness based on evidence regarding their character, personal behaviour and bu
 financial and supervisory aspects relevant for the purposes of the assessment.
 ****** END OF CHUNK ******
 
-****** Chunk 3152: *****
+****** Chunk 3154: *****
 _**Outsourcing**_
 ****** END OF CHUNK ******
 
-****** Chunk 3153: *****
+****** Chunk 3155: *****
 1. Any insurance or reinsurance undertaking which outsources or proposes to outsource functions or insurance or
 reinsurance activities to a service provider shall establish a written outsourcing policy which takes into account the
 impact of outsourcing on its business and the reporting and monitoring arrangements to be implemented in cases of
@@ -65450,7 +65413,7 @@ undertaking shall, when outsourcing critical or important operational functions 
 to which the undertaking controls the service provider or has the ability to influence its actions.
 ****** END OF CHUNK ******
 
-****** Chunk 3154: *****
+****** Chunk 3156: *****
 3. When choosing the service provider referred to in paragraph 1 for any critical or important operational functions
 or activities, the administrative, management or supervisory body shall ensure that:
 
@@ -65468,7 +65431,7 @@ fulfilment of the needs of the outsourcing undertaking;
 which clearly defines the respective rights and obligations of the undertaking and the service provider;
 ****** END OF CHUNK ******
 
-****** Chunk 3155: *****
+****** Chunk 3157: *****
 (d) the general terms and conditions of the outsourcing agreement are clearly explained to the undertaking's adminis­
 
 trative, management or supervisory body and authorised by them;
@@ -65488,7 +65451,7 @@ undertaking and the service provider shall in particular clearly state all of th
 (a) the duties and responsibilities of both parties involved;
 ****** END OF CHUNK ******
 
-****** Chunk 3156: *****
+****** Chunk 3158: *****
 (a) the duties and responsibilities of both parties involved;
 
 
@@ -65506,7 +65469,7 @@ requirements;
 insurance or reinsurance undertaking to find an alternative solution;
 ****** END OF CHUNK ******
 
-****** Chunk 3157: *****
+****** Chunk 3159: *****
 (d) a notice period for the termination of the contract by the service provider which is long enough to enable the
 insurance or reinsurance undertaking to find an alternative solution;
 
@@ -65521,7 +65484,7 @@ instructions at the address of the service provider, as to what has to be taken 
 outsourced functions or activities;
 ****** END OF CHUNK ******
 
-****** Chunk 3158: *****
+****** Chunk 3160: *****
 (g) that the service provider shall protect any confidential information relating to the insurance or reinsurance
 undertaking and its policyholders, beneficiaries, employees, contracting parties and all other persons;
 
@@ -65539,7 +65502,7 @@ questions directly to the service provider to which the service provider shall r
 instructions concerning the outsourced activities and functions;
 ****** END OF CHUNK ******
 
-****** Chunk 3159: *****
+****** Chunk 3161: *****
 (j) that the insurance or reinsurance undertaking may obtain information about the outsourced activities and may issue
 instructions concerning the outsourced activities and functions;
 
@@ -65560,7 +65523,7 @@ activities shall fulfil all of the following requirements:
 ensure compliance with Article 49(2)(a) and (b) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3160: *****
+****** Chunk 3162: *****
 (a) ensure that relevant aspects of the service provider's risk management and internal control systems are adequate to
 ensure compliance with Article 49(2)(a) and (b) of Directive 2009/138/EC;
 
@@ -65580,11 +65543,11 @@ functions and activities.
 --- Page 173 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3161: *****
+****** Chunk 3163: *****
 _**Renumeration policy**_
 ****** END OF CHUNK ******
 
-****** Chunk 3162: *****
+****** Chunk 3164: *****
 1. When establishing and applying the remuneration policy referred to in Article 258(1) (l), insurance and
 reinsurance undertakings shall comply with all of the following principles:
 
@@ -65599,7 +65562,7 @@ avoiding conflicts of interest;
 exceeds the risk tolerance limits of the undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 3163: *****
+****** Chunk 3165: *****
 (b) the remuneration policy promotes sound and effective risk management and shall not encourage risk-taking that
 exceeds the risk tolerance limits of the undertaking;
 
@@ -65615,7 +65578,7 @@ the remuneration policy for those categories of staff whose professional activit
 undertaking's risk profile is responsible for the oversight of its implementation;
 ****** END OF CHUNK ******
 
-****** Chunk 3164: *****
+****** Chunk 3166: *****
 (e) there shall be clear, transparent and effective governance with regard to remuneration, including the oversight of the
 remuneration policy;
 
@@ -65632,7 +65595,7 @@ remuneration practices, their implementation and operation;
 2. The specific arrangements referred to in point (c) of paragraph 1c shall comply with all of the following principles:
 ****** END OF CHUNK ******
 
-****** Chunk 3165: *****
+****** Chunk 3167: *****
 2. The specific arrangements referred to in point (c) of paragraph 1c shall comply with all of the following principles:
 
 
@@ -65647,7 +65610,7 @@ combination of the assessment of the performance of the individual and of the bu
 overall result of the undertaking or the group to which the undertakings belongs;
 ****** END OF CHUNK ******
 
-****** Chunk 3166: *****
+****** Chunk 3168: *****
 (c) the payment of a substantial portion of the variable remuneration component, irrespective of the form in which it is
 to be paid, shall contain a flexible, deferred component that takes account of the nature and time horizon of the
 undertaking's business: that deferral period shall not be less than three years and the period shall be correctly
@@ -65665,7 +65628,7 @@ exposure to current and future risks, taking into account the undertaking's risk
 a way that does not reward failure;
 ****** END OF CHUNK ******
 
-****** Chunk 3167: *****
+****** Chunk 3169: *****
 (f) termination payments shall be related to performance achieved over the whole period of activity and be designed in
 a way that does not reward failure;
 
@@ -65684,15 +65647,15 @@ insurance or reinsurance undertaking, and the nature, scale and complexity of th
 --- Page 174 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3168: *****
+****** Chunk 3170: *****
 **CAPITAL ADD-ON**
 ****** END OF CHUNK ******
 
-****** Chunk 3169: *****
+****** Chunk 3171: *****
 _**Circumstances for imposing a capital add-on**_
 ****** END OF CHUNK ******
 
-****** Chunk 3170: *****
+****** Chunk 3172: *****
 **Assessment of a significant deviation as regards the SCR**
 
 
@@ -65714,7 +65677,7 @@ account all relevant factors including all of the following:
 (d) the anticipated duration and volatility of the deviation over the duration of the deviation.
 ****** END OF CHUNK ******
 
-****** Chunk 3171: *****
+****** Chunk 3173: *****
 **Assessment of a significant deviation as regards the governance**
 
 
@@ -65731,7 +65694,7 @@ requirement;
 (b) the likelihood and severity of any adverse impact on policyholders and beneficiaries;
 ****** END OF CHUNK ******
 
-****** Chunk 3172: *****
+****** Chunk 3174: *****
 (b) the likelihood and severity of any adverse impact on policyholders and beneficiaries;
 
 
@@ -65745,7 +65708,7 @@ complexity of the risks inherent in the business of the undertaking;
 (e) the anticipated duration of the deviation.
 ****** END OF CHUNK ******
 
-****** Chunk 3173: *****
+****** Chunk 3175: *****
 **Assessment of a significant deviation as regards adjustments to the relevant risk-free rate and transitional**
 
 **measures**
@@ -65770,7 +65733,7 @@ relevant factors including all of the following:
 (d) the anticipated duration and volatility of the deviation over the duration of the deviation;
 ****** END OF CHUNK ******
 
-****** Chunk 3174: *****
+****** Chunk 3176: *****
 (c) the level of sensitivity of the assumptions to which the deviation relates;
 
 
@@ -65787,7 +65750,7 @@ deviation from the assumptions underlying the adjustments or transitional measur
 not justify revoking the supervisory approval for the use of the adjustment or the transitional measure.
 ****** END OF CHUNK ******
 
-****** Chunk 3175: *****
+****** Chunk 3177: *****
 **Add-ons in relation to deviations from Solvency Capital Requirement assumptions**
 
 
@@ -65798,14 +65761,14 @@ Capital Requirement within the meaning of Article 37(1)(a) and (b) of Directive 
 evidence that this is not the case on the basis of the factors set out in article 276.
 ****** END OF CHUNK ******
 
-****** Chunk 3176: *****
+****** Chunk 3178: *****
 2. Where the modified Solvency Capital Requirement as calculated in Article 282(a) exceeds the Solvency Capital
 Requirement as calculated in 282(b) by 15 percent or more, supervisory authorities shall conclude that the risk profile
 of the insurance or reinsurance undertaking deviates significantly from the assumptions underlying the Solvency Capital
 Requirement within the meaning of Article 37(1)(a) and (b) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3177: *****
+****** Chunk 3179: *****
 **Assessment of the requirement to use an internal model**
 
 
@@ -65821,7 +65784,7 @@ conditions for the approval of full and partial internal models as set out in Ti
 and 3 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3178: *****
+****** Chunk 3180: *****
 **Appropriate timeframe for adapting the internal model**
 
 
@@ -65832,11 +65795,11 @@ timeframe, including the likelihood and severity of any adverse impact on policy
 timeframe shall not exceed 6 months.
 ****** END OF CHUNK ******
 
-****** Chunk 3179: *****
+****** Chunk 3181: *****
 _**Methodologies for calculating capital add-ons**_
 ****** END OF CHUNK ******
 
-****** Chunk 3180: *****
+****** Chunk 3182: *****
 **Calculation of add-ons in relation to deviations from SCR assumptions**
 
 
@@ -65855,7 +65818,7 @@ simultaneous capital add-on.
 --- Page 176 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3181: *****
+****** Chunk 3183: *****
 **Scope and approach of modifications as regards a deviation from SCR assumptions**
 
 
@@ -65866,7 +65829,7 @@ risks not taken into account by the standard formula or the internal model, the 
 aggregation methods, parameters, and assumptions.
 ****** END OF CHUNK ******
 
-****** Chunk 3182: *****
+****** Chunk 3184: *****
 2. For the purposes of paragraph 1, supervisory authorities shall modify the assumptions and parameters underlying
 the Solvency Capital Requirement as calculated using the standard formula or internal model in order for those
 assumptions or parameters to properly reflect the actual risk profile of the insurance or reinsurance undertaking and to
@@ -65878,7 +65841,7 @@ referred to in Article 282(a), alternative methodologies which go beyond modifyi
 used for the purposes of the calculation referred to in Article 282(a).
 ****** END OF CHUNK ******
 
-****** Chunk 3183: *****
+****** Chunk 3185: *****
 4. Any modification referred to in paragraph 2 or alternative methodology referred to in paragraph 3 shall use
 adequate, applicable and relevant actuarial and statistical techniques and shall be based on accurate, complete and
 appropriate data of the undertaking, or where these are not available, data which is directly relevant for the operations
@@ -65890,7 +65853,7 @@ authorities may calculate the Solvency Capital Requirement for the purposes of A
 Solvency Capital Requirements of undertakings with similar risk profiles.
 ****** END OF CHUNK ******
 
-****** Chunk 3184: *****
+****** Chunk 3186: *****
 6. For the purposes of paragraphs 4 and 5, supervisory authorities may use information relating to other insurance
 or reinsurance undertakings with similar risk profiles provided that the supervisory authorities ensure that the reasons
 for their decision to set a capital add-on are stated in accordance with Article 37(1) of Directive 2009/138/EC and that
@@ -65903,7 +65866,7 @@ aspects which indicate that a higher Solvency Capital Requirement is appropriate
 undertaking satisfies all of the following requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 3185: *****
+****** Chunk 3187: *****
 (a) a modification or a methodology exists which complies with the requirements set out in paragraph 4 to quantify the
 impact on the amount referred to in Article 282(a) of the aspects which indicate a lower Solvency Capital
 Requirement;
@@ -65917,7 +65880,7 @@ standard parameters by parameters specific to the undertaking in accordance with
 other complies with Article 101(3) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3186: *****
+****** Chunk 3188: *****
 **Calculation of add-ons in relation to adjustments to the relevant risk-free rate or transitional measures**
 
 
@@ -65925,7 +65888,7 @@ For the purposes of imposing a capital add-on pursuant to Articles 37(1)(d) of D
 authorities shall calculate the capital add-on as the sum, at a given point in time, of the following amounts:
 ****** END OF CHUNK ******
 
-****** Chunk 3187: *****
+****** Chunk 3189: *****
 (a) the negative of the amount of eligible own funds that would be calculated if the adjustment or transitional measure
 was modified in a manner that the assumptions underlying the adjustment or transitional measure would fit the
 actual assets, liabilities and risk profile of the insurance or reinsurance undertaking;
@@ -65943,7 +65906,7 @@ reinsurance undertaking, and ensure compliance with Article 101(3) of Directive 
 add-on, of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3188: *****
+****** Chunk 3190: *****
 **Scope and approach of modifications as regards adjustments to the relevant risk-free rate and transitional**
 
 **measures**
@@ -65960,13 +65923,13 @@ transitional measure would fit the actual assets, liabilities and risk profile o
 and ensure compliance with Article 101(3) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3189: *****
+****** Chunk 3191: *****
 3. Any modification referred to in paragraph 2 shall use adequate, applicable and relevant actuarial and statistical
 techniques and shall be based on accurate, complete and appropriate data of the undertaking, or where these are not
 available, data which is directly relevant for the operations of that undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3190: *****
+****** Chunk 3192: *****
 **Calculation of add-ons in relation to deviations from governance standards**
 
 
@@ -65983,7 +65946,7 @@ decision to set a capital add-on are stated in accordance with Article 37(1) of 
 statement complies with the professional secrecy requirements set out in Article 64 of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3191: *****
+****** Chunk 3193: *****
 **Apportionment of add-ons for undertakings which simultaneously pursue life and non-life insurance activities**
 
 
@@ -65996,7 +65959,7 @@ the non-life insurance activity, supervisory authorities shall calculate the not
 non-life capital add-on according to the same apportionment.
 ****** END OF CHUNK ******
 
-****** Chunk 3192: *****
+****** Chunk 3194: *****
 3. Where an apportionment in accordance with paragraph 2 is not possible, supervisory authorities shall calculate
 the notional life capital add-on and notional non-life capital add-on in the same way as the apportionment between the
 notional life Minimum Capital Requirement and the notional non-life Minimum Capital Requirement as referred to in
@@ -66004,11 +65967,11 @@ Article 74(2) of Directive 2009/138/EC.
 --- Page 178 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3193: *****
+****** Chunk 3195: *****
 **EXTENSION OF THE RECOVERY PERIOD**
 ****** END OF CHUNK ******
 
-****** Chunk 3194: *****
+****** Chunk 3196: *****
 **Assessment of exceptional adverse situations**
 
 
@@ -66026,7 +65989,7 @@ situation and whether the size and nature of those undertakings could, when take
 on the financial markets or on insurance and reinsurance markets;
 ****** END OF CHUNK ******
 
-****** Chunk 3195: *****
+****** Chunk 3197: *****
 (c) possible pro-cyclical effects of re-establishing compliance with the Solvency Capital Requirement, including
 distressed sales of assets on financial markets;
 
@@ -66048,7 +66011,7 @@ that market;
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 3196: *****
+****** Chunk 3198: *****
 **Factors and criteria to determine the extension of the recovery period**
 
 
@@ -66071,7 +66034,7 @@ existence of a realistic recovery plan;
 (d) the causes and the degree of non-compliance with the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3197: *****
+****** Chunk 3199: *****
 (d) the causes and the degree of non-compliance with the Solvency Capital Requirement;
 
 
@@ -66093,15 +66056,15 @@ of its solvency position.
 --- Page 179 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3198: *****
+****** Chunk 3200: *****
 **PUBLIC DISCLOSURE**
 ****** END OF CHUNK ******
 
-****** Chunk 3199: *****
+****** Chunk 3201: *****
 _**Solvency and financial condition report: structure and contents**_
 ****** END OF CHUNK ******
 
-****** Chunk 3200: *****
+****** Chunk 3202: *****
 **Structure**
 
 
@@ -66113,7 +66076,7 @@ information referred to in Articles 292 to 298 of this Regulation.
 appropriate, with quantitative templates.
 ****** END OF CHUNK ******
 
-****** Chunk 3201: *****
+****** Chunk 3203: *****
 **Materiality**
 
 
@@ -66122,7 +66085,7 @@ considered as material if its omission or misstatement could influence the decis
 users of that document, including the supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 3202: *****
+****** Chunk 3204: *****
 **Summary**
 
 
@@ -66135,7 +66098,7 @@ business and performance, system of governance, risk profile, valuation for solv
 over the reporting period.
 ****** END OF CHUNK ******
 
-****** Chunk 3203: *****
+****** Chunk 3205: *****
 **Business and performance**
 
 
@@ -66165,7 +66128,7 @@ group;
 (f) the undertaking's material lines of business and material geographical areas where it carries out business;
 ****** END OF CHUNK ******
 
-****** Chunk 3204: *****
+****** Chunk 3206: *****
 group;
 
 
@@ -66181,7 +66144,7 @@ material geographical areas where it carries out business over the reporting per
 information with that reported on the previous reporting period, as shown in the undertaking's financial statements.
 ****** END OF CHUNK ******
 
-****** Chunk 3205: *****
+****** Chunk 3207: *****
 3. The solvency and financial condition report shall include all of the following qualitative and quantitative
 information regarding the performance of the investments of the insurance or reinsurance undertaking over the
 reporting period together with a comparison of the information with that reported on the previous reporting period, as
@@ -66198,7 +66161,7 @@ understanding of the income and expenses, the components of such income and expe
 (c) information about any investments in securitisation.
 ****** END OF CHUNK ******
 
-****** Chunk 3206: *****
+****** Chunk 3208: *****
 (b) information about any gains and losses recognised directly in equity;
 
 
@@ -66214,7 +66177,7 @@ with that reported on the previous reporting period, as shown in that undertakin
 regarding their business and performance of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3207: *****
+****** Chunk 3209: *****
 **System of governance**
 
 
@@ -66235,7 +66198,7 @@ bilities of key functions;
 and, unless otherwise stated, employees, including:
 ****** END OF CHUNK ******
 
-****** Chunk 3208: *****
+****** Chunk 3210: *****
 (c) information on the remuneration policy and practices regarding administrative, management or supervisory body
 and, unless otherwise stated, employees, including:
 
@@ -66256,7 +66219,7 @@ of the administrative, management or supervisory body and other key function hol
 significant influence on the undertaking, and with members of the administrative, management or supervisory body.
 ****** END OF CHUNK ******
 
-****** Chunk 3209: *****
+****** Chunk 3211: *****
 2. The solvency and financial condition report shall include all of the following information regarding the ‘fit and
 proper’ policy of the insurance or reinsurance undertaking:
 
@@ -66272,7 +66235,7 @@ run the undertaking or have other key functions.
 management system of the insurance or reinsurance undertaking:
 ****** END OF CHUNK ******
 
-****** Chunk 3210: *****
+****** Chunk 3212: *****
 (a) a description of the undertaking's risk management system comprising strategies, processes and reporting
 procedures, and how it is able to effectively identify, measure, monitor, manage and report, on a continuous basis,
 the risks on an individual and aggregated level, to which the undertaking is or could be exposed;
@@ -66287,7 +66250,7 @@ insurance or reinsurance undertaking has adopted to fulfil its obligation to con
 assessment:
 ****** END OF CHUNK ******
 
-****** Chunk 3211: *****
+****** Chunk 3213: *****
 (a) a description of the process undertaken by the undertaking to fulfil its obligation to conduct an own risk and
 solvency assessment as part of its risk management system including how the own risk and solvency assessment is
 integrated into the organisational structure and decision making processes of the undertaking;
@@ -66308,7 +66271,7 @@ control system of the insurance or reinsurance undertaking:
 (a) a description of the undertaking's internal control system;
 ****** END OF CHUNK ******
 
-****** Chunk 3212: *****
+****** Chunk 3214: *****
 (a) a description of the undertaking's internal control system;
 
 
@@ -66330,7 +66293,7 @@ activities it reviews.
 insurance or reinsurance undertaking is implemented.
 ****** END OF CHUNK ******
 
-****** Chunk 3213: *****
+****** Chunk 3215: *****
 7. The solvency and financial condition report shall include a description of how the actuarial function of the
 insurance or reinsurance undertaking is implemented.
 
@@ -66349,7 +66312,7 @@ business.
 regarding the system of governance of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3214: *****
+****** Chunk 3216: *****
 **Risk profile**
 
 
@@ -66388,7 +66351,7 @@ the reporting period;
 reporting period.
 ****** END OF CHUNK ******
 
-****** Chunk 3215: *****
+****** Chunk 3217: *****
 (b) a description of the material risks that that undertaking is exposed to, including any material changes over the
 reporting period.
 
@@ -66406,7 +66369,7 @@ material risk concentrations to which the insurance or reinsurance undertaking i
 techniques used for mitigating risks, and the processes for monitoring the continued effectiveness of these riskmitigation techniques.
 ****** END OF CHUNK ******
 
-****** Chunk 3216: *****
+****** Chunk 3218: *****
 5. With regard to liquidity risk, the solvency and financial condition report shall include the total amount of the
 expected profit included in future premiums as calculated in accordance with Article 260(2).
 
@@ -66420,7 +66383,7 @@ events.
 regarding their risk profile of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3217: *****
+****** Chunk 3219: *****
 **Valuation for solvency purposes**
 
 
@@ -66441,7 +66404,7 @@ and those used for its valuation in financial statements.
 of the technical provisions of the insurance or reinsurance undertaking for solvency purposes:
 ****** END OF CHUNK ******
 
-****** Chunk 3218: *****
+****** Chunk 3220: *****
 (a) separately for each material line of business the value of technical provisions, including the amount of the best
 estimate and the risk margin, as well as a description of the bases, methods and main assumptions used for its
 valuation for solvency purposes;
@@ -66450,7 +66413,7 @@ valuation for solvency purposes;
 (b) a description of the level of uncertainty associated with the value of technical provisions;
 ****** END OF CHUNK ******
 
-****** Chunk 3219: *****
+****** Chunk 3221: *****
 (c) separately for each material line of business, a quantitative and qualitative explanation of any material differences
 between the bases, methods and main assumptions used by that undertaking for the valuation for solvency purposes
 and those used for their valuation in financial statements;
@@ -66463,7 +66426,7 @@ Minimum Capital Requirement, the basic own funds and the amounts of own funds el
 Capital Requirement and the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3220: *****
+****** Chunk 3222: *****
 (e) a statement on whether the volatility adjustment referred to in Article 77d of Directive 2009/138/EC is used by the
 undertaking and quantification of the impact of a change to zero of the volatility adjustment on that undertaking's
 financial position, including on the amount of technical provisions, the Solvency Capital Requirement, the Minimum
@@ -66471,7 +66434,7 @@ Capital Requirement, the basic own funds and the amounts of own funds eligible t
 Requirement and the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3221: *****
+****** Chunk 3223: *****
 (f) a statement on whether the transitional risk-free interest rate-term structure referred to Article 308c of Directive/EC is applied and a quantification of the impact of not applying the transitional measure on the underta­
 king's financial position, including on the amount of technical provisions, the Solvency Capital Requirement, the
 Minimum Capital Requirement, the basic own funds and the amounts of own funds eligible to cover the Minimum
@@ -66485,7 +66448,7 @@ Requirement, the basic own funds and the amounts of own funds eligible to cover 
 Requirement and the Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 3222: *****
+****** Chunk 3224: *****
 (h) a description of the following:
 
 
@@ -66509,7 +66472,7 @@ differences with the valuation bases, methods and main assumptions used by the u
 solvency purposes and those used for their valuation in financial statements.
 ****** END OF CHUNK ******
 
-****** Chunk 3223: *****
+****** Chunk 3225: *****
 4. The solvency and financial condition report shall include information on the areas set out in Article 260 in
 complying with the disclosure requirements of the insurance or reinsurance undertaking as laid down in paragraphs 1
 and 3 of this Article.
@@ -66519,7 +66482,7 @@ and 3 of this Article.
 regarding the valuation of assets and liabilities for solvency purposes.
 ****** END OF CHUNK ******
 
-****** Chunk 3224: *****
+****** Chunk 3226: *****
 **Capital management**
 
 
@@ -66542,7 +66505,7 @@ over the reporting period;
 (d) the eligible amount of basic own funds to cover the Minimum Capital Requirement, classified by tiers;
 ****** END OF CHUNK ******
 
-****** Chunk 3225: *****
+****** Chunk 3227: *****
 (e) a quantitative and qualitative explanation of any material differences between equity as shown in the undertaking's
 financial statements and the excess of assets over liabilities as calculated for solvency purposes;
 
@@ -66557,7 +66520,7 @@ method as well as the nature and the names of the counterparty or group of count
 in points (a), (b) and (c) of Article 89(1) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3226: *****
+****** Chunk 3228: *****
 (h) a description of any item deducted from own funds and a brief description of any significant restriction affecting the
 availability and transferability of own funds within the undertaking.
 
@@ -66575,7 +66538,7 @@ of the reporting period, accompanied, where applicable, by an indication that th
 Capital Requirement is still subject to supervisory assessment;
 ****** END OF CHUNK ******
 
-****** Chunk 3227: *****
+****** Chunk 3229: *****
 (b) the amount of the undertaking's Solvency Capital Requirement split by risk modules where that undertaking applies
 the standard formula, and by risk categories where the undertaking applies an internal model;
 
@@ -66591,7 +66554,7 @@ using simplified calculations;
 third subparagraph of Article 51(2) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3228: *****
+****** Chunk 3230: *****
 (e) where applicable, a statement that the undertaking's Member State has made use of the option provided for in the
 third subparagraph of Article 51(2) of Directive 2009/138/EC;
 
@@ -66610,7 +66573,7 @@ concerned;
 reporting period, and the reasons for any such change.
 ****** END OF CHUNK ******
 
-****** Chunk 3229: *****
+****** Chunk 3231: *****
 (h) any material change to the Solvency Capital Requirement and to the Minimum Capital Requirement over the
 reporting period, and the reasons for any such change.
 
@@ -66633,7 +66596,7 @@ condition report shall also include all of the following information:
 (a) a description of the various purposes for which that undertaking is using its internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3230: *****
+****** Chunk 3232: *****
 (a) a description of the various purposes for which that undertaking is using its internal model;
 
 
@@ -66651,7 +66614,7 @@ and the Solvency Capital Requirement;
 the standard formula and in the internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3231: *****
+****** Chunk 3233: *****
 (e) an explanation, by risk module, of the main differences in the methodologies and underlying assumptions used in
 the standard formula and in the internal model;
 
@@ -66669,7 +66632,7 @@ Article 101 of that Directive;
 Requirement of the insurance or reinsurance undertaking:
 ****** END OF CHUNK ******
 
-****** Chunk 3232: *****
+****** Chunk 3234: *****
 (a) regarding any non-compliance with that undertaking's Minimum Capital Requirement: the period and maximum
 amount of each non-compliance during the reporting period, an explanation of its origin and consequences, any
 remedial measures taken, as provided for under Article 51(1)(e)(v) of Directive 2009/138/EC and an explanation of
@@ -66686,7 +66649,7 @@ its origin and consequences as well as any remedial measures taken, as provided 
 Directive 2009/138/EC and an explanation of the effects of such remedial measures;
 ****** END OF CHUNK ******
 
-****** Chunk 3233: *****
+****** Chunk 3235: *****
 (d) where a significant non-compliance with the undertaking's Solvency Capital Requirement has not been subsequently
 resolved: the amount of the non-compliance at the reporting date.
 
@@ -66695,7 +66658,7 @@ resolved: the amount of the non-compliance at the reporting date.
 regarding the capital management of the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3234: *****
+****** Chunk 3236: *****
 **Additional voluntary information**
 
 
@@ -66704,11 +66667,11 @@ is not legally required these undertakings shall ensure that such additional inf
 information provided to the supervisory authorities pursuant to Article 35 of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3235: *****
+****** Chunk 3237: *****
 _**Solvency and financial condition report: non-disclosure of information**_
 ****** END OF CHUNK ******
 
-****** Chunk 3236: *****
+****** Chunk 3238: *****
 1. Where supervisory authorities permit insurance and reinsurance undertakings, in accordance with Article 53(1)
 and (2) of Directive 2009/138/EC, not to disclose certain information, such permission shall remain valid only for as
 long as the reason for non-disclosure continues to exist.
@@ -66719,11 +66682,11 @@ permitted non-disclosure ceases to exist.
 --- Page 186 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3237: *****
+****** Chunk 3239: *****
 _**Solvency and financial condition report: deadlines, means of disclosure and updates**_
 ****** END OF CHUNK ******
 
-****** Chunk 3238: *****
+****** Chunk 3240: *****
 **Deadlines**
 
 
@@ -66736,7 +66699,7 @@ that Article, no later than 14 weeks after the undertaking's financial year end.
 by insurance and reinsurance undertakings it shall be submitted to the supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 3239: *****
+****** Chunk 3241: *****
 **Means of disclosure**
 
 
@@ -66754,7 +66717,7 @@ in accordance with paragraph 1 or 2, that report shall remain available on that 
 disclosure date referred to in Article 300(1).
 ****** END OF CHUNK ******
 
-****** Chunk 3240: *****
+****** Chunk 3242: *****
 4. Where insurance and reinsurance undertakings do not disclose their solvency and financial condition report on a
 website in accordance with paragraphs 1 and 2, they shall send an electronic copy of their report to any person who,
 within five years of the disclosure date referred to in Article 300(1) requests the report. Insurance and reinsurance
@@ -66771,7 +66734,7 @@ request.
 condition report, and any updated version of that report thereto, in electronic form.
 ****** END OF CHUNK ******
 
-****** Chunk 3241: *****
+****** Chunk 3243: *****
 **Updates**
 
 
@@ -66782,7 +66745,7 @@ of that report in accordance with paragraph 2 of this Article. Articles 290 to 2
 updated version.
 ****** END OF CHUNK ******
 
-****** Chunk 3242: *****
+****** Chunk 3244: *****
 2. Without prejudice to any disclosure which shall be immediately provided by insurance and reinsurance
 undertakings in accordance with the requirements of Article 54(1) of Directive 2009/138/EC, any updated version of
 the solvency and financial condition report shall be disclosed as soon as possible after the major development referred
@@ -66794,7 +66757,7 @@ significantly affecting the relevance of their solvency and financial condition 
 menting the initial report.
 ****** END OF CHUNK ******
 
-****** Chunk 3243: *****
+****** Chunk 3245: *****
 **Transitional arrangements on comparative information**
 
 
@@ -66803,15 +66766,15 @@ with this Chapter, insurance and reinsurance undertakings shall comply with such
 previous reporting period covers a period after the date of application of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3244: *****
+****** Chunk 3246: *****
 **REGULAR SUPERVISORY REPORTING**
 ****** END OF CHUNK ******
 
-****** Chunk 3245: *****
+****** Chunk 3247: *****
 _**Elements and contents**_
 ****** END OF CHUNK ******
 
-****** Chunk 3246: *****
+****** Chunk 3248: *****
 **Elements of the regular supervisory reporting**
 
 
@@ -66825,7 +66788,7 @@ regulatory requirements to which the solvency and financial condition report ref
 version of that report disclosed in accordance with Article 302 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 3247: *****
+****** Chunk 3249: *****
 (b) the regular supervisory report comprising the information referred to in Articles 307 to 311 of this Regulation. It
 shall also present any information referred to in Articles 293 to 297 of this Regulation which supervisory
 authorities have permitted insurance and reinsurance undertakings not to disclose in their solvency and financial
@@ -66839,7 +66802,7 @@ with Article 45(6) of Directive 2009/138/EC, whenever an own-risk and solvency a
 accordance with Article 45(5) of that Directive;
 ****** END OF CHUNK ******
 
-****** Chunk 3248: *****
+****** Chunk 3250: *****
 (d) annual and quarterly quantitative templates specifying in greater detail and supplementing the information presented
 in the solvency and financial condition report and in the regular supervisory report, taking into account possible
 limitations and exemptions in accordance with Article 35(6) and (7) of Directive 2009/138/EC. To the extent that
@@ -66847,7 +66810,7 @@ undertakings are exempted from quarterly reporting obligations in accordance wit
 reporting on an item-by-item basis where undertakings are exempted from it according to Article 35(7) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3249: *****
+****** Chunk 3251: *****
 2. The regular supervisory report shall include a summary which shall in particular highlight any material changes
 that have occurred in the undertaking's business and performance, system of governance, risk profile, valuation for
 solvency purposes and capital management over the reporting period, and provide a concise explanation of the causes
@@ -66864,7 +66827,7 @@ reinsurance undertakings to communicate on a regular basis any other information
 --- Page 188 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3250: *****
+****** Chunk 3252: *****
 **Materiality**
 
 
@@ -66872,7 +66835,7 @@ For the purposes of this Chapter, the information submitted to supervisors shall
 omission or misstatement could influence the decision-making or judgement of the supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 3251: *****
+****** Chunk 3253: *****
 **Own-risk and solvency assessment supervisory report**
 
 
@@ -66894,7 +66857,7 @@ regulatory capital requirements and the undertaking's own funds;
 which quantifiable risks of the undertakings are not reflected in the calculation of the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3252: *****
+****** Chunk 3254: *****
 **Business and performance**
 
 
@@ -66915,7 +66878,7 @@ the underwriting performance of the insurance or reinsurance undertaking, as sho
 statements:
 ****** END OF CHUNK ******
 
-****** Chunk 3253: *****
+****** Chunk 3255: *****
 (a) information on the undertaking's underwriting income and expenses by material line of business and material
 geographical areas where it writes business during the reporting period, a comparison of the information with that
 reported on the previous reporting period and the reasons for any material changes;
@@ -66935,7 +66898,7 @@ such underwriting performance, over its business planning time period;
 (e) information on any material risk mitigation techniques purchased or entered into during the reporting period.
 ****** END OF CHUNK ******
 
-****** Chunk 3254: *****
+****** Chunk 3256: *****
 (e) information on any material risk mitigation techniques purchased or entered into during the reporting period.
 
 
@@ -66956,7 +66919,7 @@ asset class;
 might affect such investment performance, over its business planning time period;
 ****** END OF CHUNK ******
 
-****** Chunk 3255: *****
+****** Chunk 3257: *****
 (d) the key assumptions which the undertaking makes in its investment decisions with respect to the movement of
 interest rates, exchange rates, and other relevant market parameters, over its business planning time period;
 
@@ -66973,7 +66936,7 @@ underwriting or investment income and expenses, over the undertaking's business 
 performance.
 ****** END OF CHUNK ******
 
-****** Chunk 3256: *****
+****** Chunk 3258: *****
 **System of governance**
 
 
@@ -66997,7 +66960,7 @@ reasons for any material changes.
 insurance or reinsurance undertaking with fit and proper requirements:
 ****** END OF CHUNK ******
 
-****** Chunk 3257: *****
+****** Chunk 3259: *****
 2. The regular supervisory report shall include all of the following information regarding the compliance of the
 insurance or reinsurance undertaking with fit and proper requirements:
 
@@ -67023,7 +66986,7 @@ each category of risk;
 obligations, and how these have been captured in its overall solvency needs;
 ****** END OF CHUNK ******
 
-****** Chunk 3258: *****
+****** Chunk 3260: *****
 (c) information on any material risks that the undertaking has identified and that are not fully included in the
 calculation of the Solvency Capital Requirement as set out in Article 101(4) of Directive 2009/138/EC;
 
@@ -67041,7 +67004,7 @@ institutions are used;
 adjustment, as referred to in Article 44(2a) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3259: *****
+****** Chunk 3261: *****
 (f) results of the assessments regarding the extrapolation of the risk-free rate, the matching adjustment and the volatility
 adjustment, as referred to in Article 44(2a) of Directive 2009/138/EC.
 
@@ -67063,7 +67026,7 @@ of the insurance or reinsurance undertaking:
 (a) information on the key procedures that the internal control system includes;
 ****** END OF CHUNK ******
 
-****** Chunk 3260: *****
+****** Chunk 3262: *****
 (a) information on the key procedures that the internal control system includes;
 
 
@@ -67085,7 +67048,7 @@ recommendations reported to the undertaking's administrative, management or supe
 taken with respect to these findings and recommendations;
 ****** END OF CHUNK ******
 
-****** Chunk 3261: *****
+****** Chunk 3263: *****
 (b) a description of the undertaking's internal audit policy, the process for reviewing that policy, the frequency of review
 and any significant changes to that policy during the reporting period;
 
@@ -67104,7 +67067,7 @@ undertaken by the actuarial function in each of its areas of responsibility duri
 the actuarial function contributes to the effective implementation of the undertaking's risk management system.
 ****** END OF CHUNK ******
 
-****** Chunk 3262: *****
+****** Chunk 3264: *****
 8. The regular supervisory report shall include all of the following information regarding outsourcing:
 
 
@@ -67123,7 +67086,7 @@ outsourced and on how the undertaking ensures that the service providers comply 
 the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3263: *****
+****** Chunk 3265: *****
 **Risk profile**
 
 
@@ -67159,7 +67122,7 @@ risk to special purpose vehicles:
 king's business strategy, and how these risk exposures will be managed;
 ****** END OF CHUNK ******
 
-****** Chunk 3264: *****
+****** Chunk 3266: *****
 (a) an overview of any material risk exposures anticipated over the business planning time period given the underta­
 
 king's business strategy, and how these risk exposures will be managed;
@@ -67181,7 +67144,7 @@ that collateral arrangement;
 set out in Article 132 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3265: *****
+****** Chunk 3267: *****
 (e) a complete list of assets and how those assets have been invested in accordance with the ‘prudent person principle’
 set out in Article 132 of Directive 2009/138/EC;
 
@@ -67198,7 +67161,7 @@ information on their characteristics and volume;
 the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3266: *****
+****** Chunk 3268: *****
 3. The regular supervisory report shall include information regarding the volume and nature of the loan portfolio of
 the insurance or reinsurance undertaking.
 
@@ -67213,7 +67176,7 @@ be managed.
 of the insurance or reinsurance undertaking:
 ****** END OF CHUNK ******
 
-****** Chunk 3267: *****
+****** Chunk 3269: *****
 5. The regular supervisory report shall include all the following information regarding the risk-mitigation techniques
 of the insurance or reinsurance undertaking:
 
@@ -67233,7 +67196,7 @@ Regulation:
 (ii) information on the material terms and conditions associated with the collateral arrangement.
 ****** END OF CHUNK ******
 
-****** Chunk 3268: *****
+****** Chunk 3270: *****
 (i) the value of the collateral in accordance with Article 75 of Directive 2009/138/EC;
 
 
@@ -67251,7 +67214,7 @@ profit included in future premiums;
 insurance or reinsurance undertaking:
 ****** END OF CHUNK ******
 
-****** Chunk 3269: *****
+****** Chunk 3271: *****
 7. The regular supervisory report shall include all of the following information regarding the risk sensitivity of the
 insurance or reinsurance undertaking:
 
@@ -67271,7 +67234,7 @@ Capital Requirement.
 insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3270: *****
+****** Chunk 3272: *****
 **Valuation for solvency purposes**
 
 
@@ -67294,13 +67257,13 @@ complying with the reporting requirements of the insurance or reinsurance undert
 solvency purposes.
 ****** END OF CHUNK ******
 
-****** Chunk 3271: *****
+****** Chunk 3273: *****
 4. Where insurance or reinsurance undertakings value assets or liabilities based on the valuation methods they use to
 prepare their financial statements in accordance with Article 9(4) of this Regulation, they shall report an assessment, in
 qualitative and quantitative terms, of the criterion set out in Article 9(4)(d).
 ****** END OF CHUNK ******
 
-****** Chunk 3272: *****
+****** Chunk 3274: *****
 **Capital management**
 
 
@@ -67321,7 +67284,7 @@ redeem any own-fund item or plans to raise additional own funds.
 referred to in Article 308b(9) and (10) of Directive 2009/138/EC over the timeframe referred to in that Article.
 ****** END OF CHUNK ******
 
-****** Chunk 3273: *****
+****** Chunk 3275: *****
 2. The regular supervisory report shall include all of the following information regarding the Solvency Capital
 Requirement and the Minimum Capital Requirement of the insurance or reinsurance undertaking:
 
@@ -67339,7 +67302,7 @@ where the supervisory authority requires the undertaking to provide that estimat
 Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3274: *****
+****** Chunk 3276: *****
 3. Where an internal model is used to calculate the Solvency Capital Requirement, the regular supervisory report
 shall also include all of the following information:
 
@@ -67352,7 +67315,7 @@ those causes and sources of profits and losses;
 underlying the undertaking's internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3275: *****
+****** Chunk 3277: *****
 (b) information on whether, and if so to what extent, the risk profile of the undertaking deviates from the assumptions
 underlying the undertaking's internal model;
 
@@ -67366,7 +67329,7 @@ the undertaking-specific parameters or matching adjustment that are relevant for
 application.
 ****** END OF CHUNK ******
 
-****** Chunk 3276: *****
+****** Chunk 3278: *****
 5. The regular supervisory report shall include information on any reasonably foreseeable risk of non-compliance
 with the undertaking's Minimum Capital Requirement or Solvency Capital Requirement, and the undertaking's plans for
 ensuring that compliance with each is maintained.
@@ -67376,11 +67339,11 @@ ensuring that compliance with each is maintained.
 the insurance or reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3277: *****
+****** Chunk 3279: *****
 _**Deadlines and means of communication**_
 ****** END OF CHUNK ******
 
-****** Chunk 3278: *****
+****** Chunk 3280: *****
 **Deadlines**
 
 
@@ -67400,7 +67363,7 @@ article 308b(5) of Directive 2009/138/EC and, after the end of the transitional 
 than 14 weeks after the undertaking's financial year end.
 ****** END OF CHUNK ******
 
-****** Chunk 3279: *****
+****** Chunk 3281: *****
 (d) the quarterly quantitative templates referred to in Article 304(1)(d) of this Regulation within the deadlines set out in
 article 308b(7) of Directive 2009/138/EC and, after the end of the transitional period set out in that Article, no later
 than five weeks related to any quarter ending.
@@ -67410,7 +67373,7 @@ than five weeks related to any quarter ending.
 report at the end of any financial year of the undertaking, subject to the deadlines set out in paragraph 1(a).
 ****** END OF CHUNK ******
 
-****** Chunk 3280: *****
+****** Chunk 3282: *****
 3. Where there is no requirement for a regular supervisory report to be submitted in relation to a given financial
 year, insurance and reinsurance undertakings shall nevertheless submit to their supervisory authority a report which sets
 out any material changes that have occurred in the undertaking's business and performance, system of governance, risk
@@ -67419,14 +67382,14 @@ explanation about the causes and effects of such changes. That report shall be s
 paragraph 1(a).
 ****** END OF CHUNK ******
 
-****** Chunk 3281: *****
+****** Chunk 3283: *****
 **Means of communication**
 
 
 Insurance and reinsurance undertakings shall submit the information referred to in Article 312(1) in electronic form.
 ****** END OF CHUNK ******
 
-****** Chunk 3282: *****
+****** Chunk 3284: *****
 **Transitional information requirements**
 
 
@@ -67435,7 +67398,7 @@ Directive 2009/138/EC as referred to in Article 311(3) of that Directive, insura
 submit to the supervisory authorities the following quantitative and qualitative information:
 ****** END OF CHUNK ******
 
-****** Chunk 3283: *****
+****** Chunk 3285: *****
 (a) an opening valuation of assets and liabilities drawn up in accordance with the valuation principles set out in
 Articles 75 to 86 of Directive 2009/138/EC. The reference date of the opening financial statement shall be the first
 day of the insurance or reinsurance undertaking's financial year starting on or after 1 January 2016 but before
@@ -67450,7 +67413,7 @@ regime previously in place;
 date of the opening financial statement referred to in point (a).
 ****** END OF CHUNK ******
 
-****** Chunk 3284: *****
+****** Chunk 3286: *****
 (c) the undertaking's Minimum Capital Requirement, Solvency Capital Requirement and eligible Own Funds as of the
 date of the opening financial statement referred to in point (a).
 
@@ -67460,11 +67423,11 @@ paragraph 1 no later than 20 weeks after the reference date of the opening finan
 of paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 3285: *****
+****** Chunk 3287: *****
 **TRANSPARENCY AND ACCOUNTABILITY OF SUPERVISORY AUTHORITIES**
 ****** END OF CHUNK ******
 
-****** Chunk 3286: *****
+****** Chunk 3288: *****
 **Confidential information**
 
 
@@ -67472,7 +67435,7 @@ No confidential information which supervisory authorities may receive in the cou
 the disclosure except in summary or aggregate form, such that individual undertakings or groups cannot be identified.
 ****** END OF CHUNK ******
 
-****** Chunk 3287: *****
+****** Chunk 3289: *****
 **Aggregate statistical data**
 
 
@@ -67484,7 +67447,7 @@ include information as specified in Annex XXI.
 before 31 December 2018, it shall include data of all previous years starting from 1 January 2016.
 ****** END OF CHUNK ******
 
-****** Chunk 3288: *****
+****** Chunk 3290: *****
 **Means of disclosure**
 
 
@@ -67498,7 +67461,7 @@ general guidance in the field of insurance or reinsurance regulation are concern
 provided at the latest when the changes become applicable.
 ****** END OF CHUNK ******
 
-****** Chunk 3289: *****
+****** Chunk 3291: *****
 3. Aggregated annual statistical data concerning the supervised undertakings and groups in accordance with
 Article 316 shall be disclosed in respect of each calendar year within three months after the date by which the
 undertakings having a financial year ending 31 December are required by Article 312(1)(b) to submit annual
@@ -67506,7 +67469,7 @@ quantitative templates. Information concerning the supervisory authorities shall
 after the 31 December of each calendar year.
 ****** END OF CHUNK ******
 
-****** Chunk 3290: *****
+****** Chunk 3292: *****
 4. The first year for which information shall be published in the official language or languages of the Member State
 concerned shall be the calendar year starting on or after 1 January 2016 and information shall be published no later
 than 3 months after the year start. In relation to the first year, the information to be disclosed in a language customary
@@ -67515,15 +67478,15 @@ information in the official language or languages of the Member State concerned 
 --- Page 195 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3291: *****
+****** Chunk 3293: *****
 **SPECIAL PURPOSE VEHICLES**
 ****** END OF CHUNK ******
 
-****** Chunk 3292: *****
+****** Chunk 3294: *****
 _**Authorization**_
 ****** END OF CHUNK ******
 
-****** Chunk 3293: *****
+****** Chunk 3295: *****
 The authorisation of a special purpose vehicle by the supervisory authority of the Member State in whose territory the
 special purpose vehicle is establishing its head office shall be subject to all of the following conditions:
 
@@ -67542,7 +67505,7 @@ special purpose vehicle and the investment in assets by the special purpose vehi
 Articles 319 to 321;
 ****** END OF CHUNK ******
 
-****** Chunk 3294: *****
+****** Chunk 3296: *****
 (d) the persons that effectively run the special purpose vehicle satisfy the requirements referred to in Article 322;
 
 
@@ -67558,11 +67521,11 @@ Articles 319 to 321;
 (h) the special purpose vehicle satisfies the requirements set out in Articles 326 and 327.
 ****** END OF CHUNK ******
 
-****** Chunk 3295: *****
+****** Chunk 3297: *****
 _**Mandatory contract conditions**_
 ****** END OF CHUNK ******
 
-****** Chunk 3296: *****
+****** Chunk 3298: *****
 **Fully Funded**
 
 
@@ -67570,7 +67533,7 @@ The contractual arrangements relating to the transfer of risk from an insurance 
 purpose vehicle shall ensure that the special purpose vehicle is at all times fully funded in accordance with Article 326.
 ****** END OF CHUNK ******
 
-****** Chunk 3297: *****
+****** Chunk 3299: *****
 **Effective transfer of risk**
 
 
@@ -67589,7 +67552,7 @@ following:
 which could undermine the effective transfer of risk.
 ****** END OF CHUNK ******
 
-****** Chunk 3298: *****
+****** Chunk 3300: *****
 **Rights of the providers of debt or financing mechanisms**
 
 
@@ -67613,11 +67576,11 @@ insurance or reinsurance undertaking;
 special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 3299: *****
+****** Chunk 3301: *****
 _**System of governance**_
 ****** END OF CHUNK ******
 
-****** Chunk 3300: *****
+****** Chunk 3302: *****
 **Fit and proper requirements of persons who effectively run a special purpose vehicle**
 
 
@@ -67636,12 +67599,12 @@ whether any new persons appointed to run the special purpose vehicle are fit and
 Article 42(1) of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3301: *****
+****** Chunk 3303: *****
 4. Special purpose vehicles shall notify the supervisory authorities if any of the persons who effectively run a special
 purpose vehicle have been replaced because they no longer fulfil the requirements set out in Article 42(1) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3302: *****
+****** Chunk 3304: *****
 **Fit and proper requirements for shareholders or members with a qualifying holding**
 
 
@@ -67661,7 +67624,7 @@ vehicle;
 exercise over the special purpose vehicle;
 ****** END OF CHUNK ******
 
-****** Chunk 3303: *****
+****** Chunk 3305: *****
 (c) the level of influence that the shareholder or member having a qualifying holding in the special purpose vehicle will
 exercise over the special purpose vehicle;
 
@@ -67676,7 +67639,7 @@ or has been committed or attempted, or that the qualifying holding could increas
 shareholders or members having a qualifying holding in the special purpose vehicle.
 ****** END OF CHUNK ******
 
-****** Chunk 3304: *****
+****** Chunk 3306: *****
 **Sound administrative and accounting procedures, adequate internal control mechanisms and risk-management**
 **requirements**
 
@@ -67692,7 +67655,7 @@ system for the purposes of money laundering and terrorist financing (OJ L 309, 2
 2. The system of governance of the special purpose vehicle shall consist of all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3305: *****
+****** Chunk 3307: *****
 (a) written policies in relation to at least risk management, internal control, administrative and accounting procedures
 and, where relevant, outsourcing; the written policies shall comprise policies relating to the areas set out in
 Article 44(2)(a) to (f) of Directive 2009/138/EC to the extent that these are relevant taking into account the uses of
@@ -67711,11 +67674,11 @@ monitor, manage and report, on an ongoing basis the risk to which the special pu
 effectively.
 ****** END OF CHUNK ******
 
-****** Chunk 3306: *****
+****** Chunk 3308: *****
 _**Supervisory reporting**_
 ****** END OF CHUNK ******
 
-****** Chunk 3307: *****
+****** Chunk 3309: *****
 **Supervisory reporting**
 
 
@@ -67735,7 +67698,7 @@ distinguished by material class and a description of the basis, methods and assu
 assumptions used for the determination of the aggregate maximum risk exposure;
 ****** END OF CHUNK ******
 
-****** Chunk 3308: *****
+****** Chunk 3310: *****
 (b) the aggregate maximum risk exposure of the special purpose vehicle and a description of the basis, methods and
 assumptions used for the determination of the aggregate maximum risk exposure;
 
@@ -67761,7 +67724,7 @@ providers of debt or finance;
 1 January 2017 but before 1 January 2018;
 ****** END OF CHUNK ******
 
-****** Chunk 3309: *****
+****** Chunk 3311: *****
 (b) no later than 18 weeks after the special purpose vehicle's financial year end for the financial year ending on or after
 1 January 2017 but before 1 January 2018;
 
@@ -67779,11 +67742,11 @@ special purpose vehicle is established of any changes that could affect the comp
 with Articles 318 to 324 and Article 326.
 ****** END OF CHUNK ******
 
-****** Chunk 3310: *****
+****** Chunk 3312: *****
 _**Solvency requirements**_
 ****** END OF CHUNK ******
 
-****** Chunk 3311: *****
+****** Chunk 3313: *****
 **Solvency requirements**
 
 
@@ -67807,7 +67770,7 @@ amounts it is liable for as they fall due, shall take into account all of the fo
 (a) the liquidity risk of the special purpose vehicle;
 ****** END OF CHUNK ******
 
-****** Chunk 3312: *****
+****** Chunk 3314: *****
 (a) the liquidity risk of the special purpose vehicle;
 
 
@@ -67828,7 +67791,7 @@ purpose vehicle, may be included in the assets of the special purpose vehicle, p
 requirements are met:
 ****** END OF CHUNK ******
 
-****** Chunk 3313: *****
+****** Chunk 3315: *****
 (a) the future liabilities of the special purpose vehicle to the providers of debt or finance only arise subject to the receipt
 of the payments from the insurance or reinsurance undertaking that has transferred risk to the special purpose
 vehicle;
@@ -67848,7 +67811,7 @@ received;
 paragraph 42 of Article 1.
 ****** END OF CHUNK ******
 
-****** Chunk 3314: *****
+****** Chunk 3316: *****
 **Solvency requirements on investments**
 
 
@@ -67868,7 +67831,7 @@ liabilities. All assets shall be invested in the best interest of the insurance 
 risks to the special purpose vehicle;
 ****** END OF CHUNK ******
 
-****** Chunk 3315: *****
+****** Chunk 3317: *****
 (d) the use of derivative instruments shall be possible insofar as they contribute to a reduction of risks or facilitate
 efficient portfolio management;
 
@@ -67886,19 +67849,19 @@ special purpose vehicle to excessive risk concentration.
 --- Page 199 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3316: *****
+****** Chunk 3318: *****
 **INSURANCE GROUPS**
 ****** END OF CHUNK ******
 
-****** Chunk 3317: *****
+****** Chunk 3319: *****
 **SOLVENCY CALCULATION AT GROUP LEVEL**
 ****** END OF CHUNK ******
 
-****** Chunk 3318: *****
+****** Chunk 3320: *****
 _**Group solvency: choice of calculation method and general principles**_
 ****** END OF CHUNK ******
 
-****** Chunk 3319: *****
+****** Chunk 3321: *****
 **Choice of method**
 
 
@@ -67918,7 +67881,7 @@ approved in accordance with Article 231 of Directive 2009/138/EC, is used for th
 group Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3320: *****
+****** Chunk 3322: *****
 (c) whether, for the purposes of paragraph (b), the risks that are not captured in the group internal model are
 immaterial in relation to the overall risk profile of the group;
 
@@ -67937,7 +67900,7 @@ been adopted pursuant to paragraphs 4 or 5 of Article 227 of Directive 2009/138/
 regimes of those third countries are equivalent or provisionally equivalent.
 ****** END OF CHUNK ******
 
-****** Chunk 3321: *****
+****** Chunk 3323: *****
 2. The method or combination of methods chosen shall be applied in a consistent manner over time. The group
 supervisor shall require the participating insurance or reinsurance undertaking or the insurance holding company or the
 mixed financial holding company to revert to method 1 in relation to any related undertaking where the use of
@@ -67945,7 +67908,7 @@ method 2 or a combination of methods 1 and 2 is no longer justified considering 
 paragraph 1.
 ****** END OF CHUNK ******
 
-****** Chunk 3322: *****
+****** Chunk 3324: *****
 **Treatment of specific related undertakings**
 
 
@@ -67963,7 +67926,7 @@ to in Article 2(7) of Directive 2002/87/EC;
 the own funds items of those undertakings calculated according to Articles 17 to 17c of Directive 2003/41/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3323: *****
+****** Chunk 3325: *****
 (c) the capital requirements for related undertakings which are UCITS management companies calculated in accordance
 with Article 7(1)(a) of Directive 2009/65/EC and the own funds of those undertakings calculated in accordance with
 point 1 of Article 2(1) of that Directive;
@@ -67979,7 +67942,7 @@ which the related undertaking would have to comply under the relevant sector rul
 regulated entity.
 ****** END OF CHUNK ******
 
-****** Chunk 3324: *****
+****** Chunk 3326: *****
 2. For the purposes of applying the provisions set out in Article 235 of Directive 2009/138/EC, where the parent
 insurance holding company or mixed financial holding company has issued subordinated debt or has other eligible own
 funds subject to the limits set out in Article 98 of that Directive, Article 226(2) of that Directive shall apply.
@@ -67994,7 +67957,7 @@ any of the following situations:
 where applicable with the Member State law in accordance with Article 211(3) of that Directive;
 ****** END OF CHUNK ******
 
-****** Chunk 3325: *****
+****** Chunk 3327: *****
 (b) the special purpose vehicle is regulated by a third country supervisory authority, and complies with requirements
 equivalent to those set out in Article 211(2) of Directive 2009/138/EC.
 
@@ -68002,7 +67965,7 @@ equivalent to those set out in Article 211(2) of Directive 2009/138/EC.
 For the purposes of this paragraph, Article 211 of Directive 2009/138/EC shall apply at the level of the group.
 ****** END OF CHUNK ******
 
-****** Chunk 3326: *****
+****** Chunk 3328: *****
 **Availability at group level of the eligible own funds of related undertakings**
 
 
@@ -68024,7 +67987,7 @@ reinsurance undertaking;
 possible within a maximum of 9 months;
 ****** END OF CHUNK ******
 
-****** Chunk 3327: *****
+****** Chunk 3329: *****
 (c) whether making those own funds available for covering the group Solvency Capital Requirement would not be
 possible within a maximum of 9 months;
 
@@ -68039,7 +68002,7 @@ Requirement.
 would exist on a going-concern basis.
 ****** END OF CHUNK ******
 
-****** Chunk 3328: *****
+****** Chunk 3330: *****
 2. In the assessment referred to in the first paragraph, the supervisory authorities shall consider the restrictions that
 would exist on a going-concern basis.
 
@@ -68056,7 +68019,7 @@ Requirement:
 (a) ancillary own funds;
 ****** END OF CHUNK ******
 
-****** Chunk 3329: *****
+****** Chunk 3331: *****
 3. The following items shall be assumed not to be effectively available to cover the group Solvency Capital
 Requirement:
 
@@ -68072,7 +68035,7 @@ deferred tax liabilities both arise from the tax law of one Member State or thir
 of that Member State or third country permits such offsetting.
 ****** END OF CHUNK ******
 
-****** Chunk 3330: *****
+****** Chunk 3332: *****
 Where the participating undertaking can demonstrate to the satisfaction of the supervisory authority that the
 assumption referred to in the first subparagraph for one of the items is inappropriate in the specific circumstances of
 the group, the participating undertaking may include that item in the own funds available to cover the group Solvency
@@ -68091,7 +68054,7 @@ reinsurance undertaking, an insurance holding company or a mixed financial holdi
 (b) any minority interest in a subsidiary ancillary services undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 3331: *****
+****** Chunk 3333: *****
 (b) any minority interest in a subsidiary ancillary services undertaking;
 
 
@@ -68107,14 +68070,14 @@ reinsurance undertaking, insurance holding company or mixed financial holding co
 Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 3332: *****
+****** Chunk 3334: *****
 6. Where a related insurance or reinsurance undertaking, third-country insurance or reinsurance undertaking,
 insurance holding company or mixed financial holding company is included in the consolidated data pursuant to
 points (a) or (c) of Article 335(1), its contribution to the consolidated group Solvency Capital Requirement shall reflect
 diversification benefits and be calculated as follows:
 ****** END OF CHUNK ******
 
-****** Chunk 3333: *****
+****** Chunk 3335: *****
 (a) where the consolidated group Solvency Capital Requirement is calculated, in relation to that related undertaking, on
 the basis of the standard formula, the proportional share of the Solvency Capital Requirement of that related
 undertaking multiplied by a percentage corresponding to the proportion that the diversified component of the
@@ -68123,7 +68086,7 @@ Capital Requirements of each of the undertakings included in the calculation of 
 consolidated group Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3334: *****
+****** Chunk 3336: *****
 (b) where the consolidated group Solvency Capital Requirement is calculated, in relation to that related undertaking, on
 the basis of an internal model, the Solvency Capital Requirement of that related undertaking multiplied by a
 percentage corresponding to the proportion of the diversification effects at group level that are attributed to that
@@ -68132,11 +68095,11 @@ insurance and reinsurance undertakings, insurance holding companies or mixed fin
 included in the consolidated calculation based on the internal model equals 100 %.
 ****** END OF CHUNK ******
 
-****** Chunk 3335: *****
+****** Chunk 3337: *****
 _**Group solvency: calculation methods**_
 ****** END OF CHUNK ******
 
-****** Chunk 3336: *****
+****** Chunk 3338: *****
 **Classification of own-fund items of related insurance and reinsurance undertakings at group level**
 
 
@@ -68156,7 +68119,7 @@ Article 94 of Directive 2009/138/EC at group level.
 2. For the purposes of point (a) of paragraph 1:
 ****** END OF CHUNK ******
 
-****** Chunk 3337: *****
+****** Chunk 3339: *****
 2. For the purposes of point (a) of paragraph 1:
 
 
@@ -68178,7 +68141,7 @@ with the second subparagraph of Article 230(2) of Directive 2009/138/EC,
 this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3338: *****
+****** Chunk 3340: *****
 (ii) where a combination of methods 1 and 2 is used, the minimum determined in accordance with Article 341 of
 this Regulation.
 
@@ -68194,7 +68157,7 @@ not prohibit the classification of the same own-fund item in Tier 1 at group lev
 Article 82(3) are complied with at group level.
 ****** END OF CHUNK ******
 
-****** Chunk 3339: *****
+****** Chunk 3341: *****
 **Classification of own-fund items of related third-country insurance or reinsurance undertakings at group level**
 
 
@@ -68214,7 +68177,7 @@ Article 94 of Directive 2009/138/EC at group level.
 2. For the purposes of point (a) of paragraph 1:
 ****** END OF CHUNK ******
 
-****** Chunk 3340: *****
+****** Chunk 3342: *****
 2. For the purposes of point (a) of paragraph 1:
 
 
@@ -68236,7 +68199,7 @@ this Regulation.
 --- Page 203 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3341: *****
+****** Chunk 3343: *****
 **Classification of own-fund items of insurance holding companies, mixed financial holding companies, and**
 **subsidiary ancillary services undertakings at group level**
 
@@ -68250,7 +68213,7 @@ fication set out in Title I, Chapter IV, Section 2 provided that all of the foll
 (a) undertakings comply with the requirements set out in Articles 71, 73 and 77 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 3342: *****
+****** Chunk 3344: *****
 (a) undertakings comply with the requirements set out in Articles 71, 73 and 77 of this Regulation;
 
 
@@ -68271,14 +68234,14 @@ company, intermediate insurance holding company, mixed financial holding company
 holding company or subsidiary ancillary services undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3343: *****
+****** Chunk 3345: *****
 3. For the purposes of this Article, the term “insurance or reinsurance undertaking” in Title I, Chapter IV, Section 2
 shall mean the insurance holding company, the intermediate insurance holding company, the mixed financial holding
 company, the intermediate mixed financial holding company or the subsidiary ancillary services undertaking which has
 issued the own-fund item.
 ****** END OF CHUNK ******
 
-****** Chunk 3344: *****
+****** Chunk 3346: *****
 **Classification of own-fund items of residual related undertakings**
 
 
@@ -68292,7 +68255,7 @@ undertaking, the insurance holding company or the mixed financial holding compan
 items into one of the three tiers based on the criteria set out in Title I, Chapter IV, Section 2.
 ****** END OF CHUNK ******
 
-****** Chunk 3345: *****
+****** Chunk 3347: *****
 **Method 1: determination of consolidated data**
 
 
@@ -68309,14 +68272,14 @@ has transferred risk and which are not excluded from the scope of the group solv
 Article 329(3);
 ****** END OF CHUNK ******
 
-****** Chunk 3346: *****
+****** Chunk 3348: *****
 (c) proportional consolidation of data of the insurance or reinsurance undertakings, third-country insurance or
 reinsurance undertakings, insurance holding companies, mixed financial holding companies and ancillary services
 undertakings managed by an undertaking referred to in point (a) together with one or more undertakings not
 included in point (a), where those undertakings' responsibility is limited to the share of the capital they hold;
 ****** END OF CHUNK ******
 
-****** Chunk 3347: *****
+****** Chunk 3349: *****
 (d) on the basis of the adjusted equity method in accordance with Article 13(3), data of all holdings in related insurance
 or reinsurance undertakings, third-country insurance or reinsurance undertakings, insurance holding companies,
 mixed financial holding companies which are not subsidiaries of the parent undertaking and which are not covered
@@ -68329,7 +68292,7 @@ companies, institutions for occupational retirement provision, non-regulated und
 activities;
 ****** END OF CHUNK ******
 
-****** Chunk 3348: *****
+****** Chunk 3350: *****
 (f) in accordance with Article 13 of this Regulation, data of all related undertakings, including ancillary service
 undertakings, other than those referred to in points (a) to (e).
 
@@ -68344,7 +68307,7 @@ Article 221(2)(a) of Directive 2009/138/EC.
 2 shall be net of any intra-group transaction.
 ****** END OF CHUNK ******
 
-****** Chunk 3349: *****
+****** Chunk 3351: *****
 **Method 1: Calculation of the consolidated group Solvency Capital Requirement**
 
 
@@ -68360,7 +68323,7 @@ this Regulation; for a related third-country insurance or reinsurance undertakin
 Solvency Capital Requirement shall be calculated as if that undertaking had its head office in the Union;
 ****** END OF CHUNK ******
 
-****** Chunk 3350: *****
+****** Chunk 3352: *****
 (c) for undertakings referred to in Article 335(1)(e) of this Regulation, the proportional share of the capital
 requirements for credit institutions, investment firms, financial institutions, alternative investment fund managers,
 UCITS management companies, and institutions for occupational retirement provision within the meaning of
@@ -68372,7 +68335,7 @@ capital requirements of non-regulated undertakings carrying out financial activi
 Article 13, Articles 168 to 171, Articles 182 to 187 and Article 188 of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3351: *****
+****** Chunk 3353: *****
 **Method 1: determination of the local currency for the purposes of the currency risk calculation**
 
 
@@ -68381,7 +68344,7 @@ standard formula, the local currency referred to in the first paragraph of Artic
 currency used for the preparation of the consolidated accounts.
 ****** END OF CHUNK ******
 
-****** Chunk 3352: *****
+****** Chunk 3354: *****
 **Method 1: group-specific parameters**
 
 
@@ -68393,7 +68356,7 @@ Article 218 by parameters specific to the group (‘group-specific parameters’
 2. Data used to calculate group-specific parameters shall satisfy the criteria set out in Article 104(7) of Directive/EC and Article 219 of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3353: *****
+****** Chunk 3355: *****
 2. Data used to calculate group-specific parameters shall satisfy the criteria set out in Article 104(7) of Directive/EC and Article 219 of this Regulation.
 
 
@@ -68405,7 +68368,7 @@ reinsurance undertakings’ shall be understood as a reference to ‘the partici
 insurance holding company or the mixed financial holding company’ applying for the use of group-specific parameters.
 ****** END OF CHUNK ******
 
-****** Chunk 3354: *****
+****** Chunk 3356: *****
 **Method 1: best estimate**
 
 
@@ -68421,7 +68384,7 @@ to 86 of Directive 2009/138/EC;
 accordance with Articles 75 to 86 of that Directive, of related insurance or reinsurance undertakings and thirdcountry insurance or reinsurance undertakings referred to in Article 335 (1)(a) and (c) of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3355: *****
+****** Chunk 3357: *****
 2. For the purposes of paragraph 1 the best estimates of the participating insurance and reinsurance undertaking and
 of each related insurance and reinsurance undertaking and third-country insurance and reinsurance undertakings shall be
 net of any intra-group transactions. In relation to intra-group reinsurance contracts, all of the following adjustments
@@ -68441,7 +68404,7 @@ documentation and the directory of data referred to in Article 265 to the data u
 of the best estimate referred to in paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 3356: *****
+****** Chunk 3358: *****
 **Method 1: Risk margin**
 
 
@@ -68457,7 +68420,7 @@ related insurance or reinsurance undertakings and third-country insurance or rei
 Article 335(1)(a) and (c) of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3357: *****
+****** Chunk 3359: *****
 **Combination of methods 1 and 2: minimum consolidated group Solvency Capital Requirement**
 
 
@@ -68467,7 +68430,7 @@ group which is covered by method 1 shall have a minimum determined in accordance
 the second subparagraph of Article 230(2) of that Directive.
 ****** END OF CHUNK ******
 
-****** Chunk 3358: *****
+****** Chunk 3360: *****
 **Method 2: Elimination of intra-group creation of capital in relation to the best estimate**
 
 
@@ -68483,7 +68446,7 @@ eliminated in the calculation of that amount or not.
 to 86 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3359: *****
+****** Chunk 3361: *****
 (a) the best estimate of the participating insurance or reinsurance undertaking calculated in accordance with Articles 75
 to 86 of Directive 2009/138/EC;
 
@@ -68493,15 +68456,15 @@ in accordance with Articles 75 to 86 of that Directive for each related insuranc
 related third-country insurance and reinsurance undertaking.
 ****** END OF CHUNK ******
 
-****** Chunk 3360: *****
+****** Chunk 3362: *****
 **INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT**
 ****** END OF CHUNK ******
 
-****** Chunk 3361: *****
+****** Chunk 3363: *****
 _**Full and partial internal models used to calculate only the group solvency capital requirement**_
 ****** END OF CHUNK ******
 
-****** Chunk 3362: *****
+****** Chunk 3364: *****
 **Application for the use of an internal model to calculate only the consolidated group Solvency Capital**
 **Requirement**
 
@@ -68517,7 +68480,7 @@ related undertakings included in the scope of the internal model are situated sh
 authorities involved in the assessment of the application’.
 ****** END OF CHUNK ******
 
-****** Chunk 3363: *****
+****** Chunk 3365: *****
 3. The group supervisor shall inform the college of supervisors of the receipt of the application without delay and
 shall also forward the application to the other supervisory authorities involved in the assessment of the application.
 
@@ -68529,7 +68492,7 @@ supervisory authorities involved in the assessment of the application, require t
 it, be provided in a language most commonly understood by the supervisory authorities involved.
 ****** END OF CHUNK ******
 
-****** Chunk 3364: *****
+****** Chunk 3366: *****
 5. In addition to the documents and information required pursuant to Articles 112 and 113 of Directive/EC, an application to use an internal model to calculate the consolidated group Solvency Capital Requirement
 shall include all of the following documents and information:
 
@@ -68544,7 +68507,7 @@ method used for the purposes of determining the consolidated data in accordance 
 Regulation and the proportional share applied in accordance with Article 221 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3365: *****
+****** Chunk 3367: *****
 (ii) the legal and organisational structure of the group, with a description of all subsidiaries, material related
 undertakings within the meaning of Article 256a of Directive 2009/138/EC and significant branches within the
 meaning of Article 354(1) of this Regulation and information on relevant operations and transactions within
@@ -68552,7 +68515,7 @@ the group, unless this information has not changed since the last reported group
 pursuant to article 373 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 3366: *****
+****** Chunk 3368: *****
 (iii) where applicable, a list of the related undertakings excluded from the scope of the partial internal model for the
 calculation of the consolidated group Solvency Capital Requirement, together with an explanation of the
 reasons for their exclusion; a description shall be provided of the methods used to assess the risks in these
@@ -68565,7 +68528,7 @@ will adequately reflect the overall risk profile of the group;
 group Solvency Capital Requirement, a justification of the reasons why the internal model covers a related
 ****** END OF CHUNK ******
 
-****** Chunk 3367: *****
+****** Chunk 3369: *****
 group Solvency Capital Requirement, a justification of the reasons why the internal model covers a related
 undertaking for the calculation of the consolidated group Solvency Capital Requirement but it is not used to
 calculate the Solvency Capital Requirement of that related undertaking; for this purpose and in order to justify
@@ -68576,12 +68539,12 @@ previously approved by its supervisory authority; the participating undertaking 
 any future plans to extend the use of the internal model to calculate the Solvency Capital Requirement of any
 ****** END OF CHUNK ******
 
-****** Chunk 3368: *****
+****** Chunk 3370: *****
 any future plans to extend the use of the internal model to calculate the Solvency Capital Requirement of any
 related insurance or reinsurance undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 3369: *****
+****** Chunk 3371: *****
 (b) regarding the group's capital requirements:
 
 
@@ -68600,7 +68563,7 @@ for the last time prior to the application when the consolidated group Solvency 
 calculated with the standard formula;
 ****** END OF CHUNK ******
 
-****** Chunk 3370: *****
+****** Chunk 3372: *****
 (iv) an explanation of the difference between the sum of the Solvency Capital Requirements of all the related
 insurance and reinsurance undertakings of the group and the consolidated group Solvency Capital Requirement
 calculated with the internal model.
@@ -68611,7 +68574,7 @@ Requirements referred to in points (i), (ii) and (iii) shall be calculated for a
 submission of the application.
 ****** END OF CHUNK ******
 
-****** Chunk 3371: *****
+****** Chunk 3373: *****
 **Assessment of the application for the use of an internal model to calculate only the consolidated group**
 **Solvency Capital Requirement**
 
@@ -68630,7 +68593,7 @@ preventing any of the following circumstances:
 (a) where the exclusion of parts of the business from the scope of the internal model leads to a material underesti­
 ****** END OF CHUNK ******
 
-****** Chunk 3372: *****
+****** Chunk 3374: *****
 (a) where the exclusion of parts of the business from the scope of the internal model leads to a material underesti­
 
 mation of the risks of the group;
@@ -68647,7 +68610,7 @@ internal model for the calculation of the group solvency is appropriate in order
 which the group is exposed are not underestimated by using a partial internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3373: *****
+****** Chunk 3375: *****
 4. The assessment of the application shall include an evaluation of whether the justification provided in accordance
 with Article 343(5)(a)(iv) of the reasons why the internal model covers a related undertaking for the calculation of the
 consolidated group Solvency Capital Requirement but it is not used to calculate the Solvency Capital Requirement of
@@ -68656,7 +68619,7 @@ that related undertaking, is appropriate in order to justify that an application
 procedure laid down in Article 231 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3374: *****
+****** Chunk 3376: *****
 **Decision on the application and transitional plan to extend the scope of a partial internal model used to**
 **calculate only the consolidated group Solvency Capital Requirement**
 
@@ -68667,7 +68630,7 @@ undertaking and the other supervisory authorities involved in the assessment of 
 written in an official language of the Member State of the group supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 3375: *****
+****** Chunk 3377: *****
 2. Where the supervisory authorities involved in the assessment of the application comprise supervisory authorities
 from more than one Member State, the group supervisor shall, after consultation with the other supervisory authorities
 and with the group itself, provide the decision referred to in paragraph 1 in another language most commonly
@@ -68678,14 +68641,14 @@ understood by the other supervisory authorities involved.
 require the applicant to submit a realistic transitional plan to extend the scope of the internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3376: *****
+****** Chunk 3378: *****
 4. When an internal model has been approved under Article 230 of Directive 2009/138/EC for the purposes of the
 calculation of the consolidated group Solvency Capital Requirement, any subsequent application for permission to use
 the same internal model for calculating the Solvency Capital Requirement of an insurance or reinsurance undertaking in
 the group shall follow the procedure laid down in Article 231 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3377: *****
+****** Chunk 3379: *****
 **Use test for internal models used to calculate only the consolidated group Solvency Capital Requirement**
 
 
@@ -68706,18 +68669,18 @@ model, only in relation to the output of the internal model at group level;
 scope of the internal model, only in relation to the output of the internal model at group level.
 ****** END OF CHUNK ******
 
-****** Chunk 3378: *****
+****** Chunk 3380: *****
 2. For the purposes of paragraph 1, an insurance or reinsurance undertaking or insurance holding company or
 mixed financial holding company shall only comply with the requirements set out in Article 225 of this Regulation in
 relation to the parts of the internal model which cover the risks of that undertaking and the risks of its related
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 3379: *****
+****** Chunk 3381: *****
 _**Use of a group internal model**_
 ****** END OF CHUNK ******
 
-****** Chunk 3380: *****
+****** Chunk 3382: *****
 **Application to use a group internal model**
 
 
@@ -68735,7 +68698,7 @@ model to calculate their Solvency Capital Requirement are situated shall be refe
 concerned’.
 ****** END OF CHUNK ******
 
-****** Chunk 3381: *****
+****** Chunk 3383: *****
 4. The group supervisor shall inform the college of supervisors of the receipt of the application without delay and
 shall also forward the application to the other supervisory authorities concerned and other supervisory authorities
 involved in the assessment of the application.
@@ -68752,7 +68715,7 @@ authorities concerned.
 applicable:
 ****** END OF CHUNK ******
 
-****** Chunk 3382: *****
+****** Chunk 3384: *****
 6. An application to use a group internal model shall include the following documents and information, where
 applicable:
 
@@ -68763,7 +68726,7 @@ the documentation shall also include a list of all the insurance and reinsurance
 the group internal model to calculate their Solvency Capital Requirement.
 ****** END OF CHUNK ******
 
-****** Chunk 3383: *****
+****** Chunk 3385: *****
 (b) the documents required in accordance with Title I, Chapter VI, Section 4, Sub-section 3 of Directive 2009/138/EC in
 relation to the use of an internal model for the calculation of the Solvency Capital Requirement of each insurance
 and reinsurance undertaking in the group applying for the use of the group internal model to calculate their
@@ -68772,7 +68735,7 @@ documents to those whose content is not already covered in the documents submitt
 or reinsurance undertaking in accordance with point (a).
 ****** END OF CHUNK ******
 
-****** Chunk 3384: *****
+****** Chunk 3386: *****
 **Assessment of the completeness of an application to use a group internal model**
 
 
@@ -68790,7 +68753,7 @@ the documents in respect of which the application is not complete.
 that the application is complete and the date from which the six month period referred to in Article 231 of Directive/EC. That date shall be the date on which the complete application was received.
 ****** END OF CHUNK ******
 
-****** Chunk 3385: *****
+****** Chunk 3387: *****
 **Joint decision on the application and transitional plan to extend the scope of the model**
 
 
@@ -68799,7 +68762,7 @@ Directive 2009/138/EC, the group supervisor shall consult the other supervisory 
 of the application, referred to in Article343(2) of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3386: *****
+****** Chunk 3388: *****
 2. The joint decision by the supervisory authorities concerned shall be provided in an official language of the
 Member State of the group supervisor. The group supervisor shall provide the applicant and each supervisory authority
 concerned with the decision translated in an official language of the Member State where the applicant has its head
@@ -68811,7 +68774,7 @@ that decision, by the supervisory authority having authorised that undertaking.
 transitional plan to extend the scope of the group internal model.
 ****** END OF CHUNK ******
 
-****** Chunk 3387: *****
+****** Chunk 3389: *****
 **Use test for group internal models**
 
 
@@ -68830,7 +68793,7 @@ of the group internal model, both in relation to the output of the internal mode
 the undertaking;
 ****** END OF CHUNK ******
 
-****** Chunk 3388: *****
+****** Chunk 3390: *****
 (c) each other related insurance and reinsurance undertaking whose business is fully or partly in the scope of the group
 internal model, only in relation to the output of the internal model at group level;
 
@@ -68845,11 +68808,11 @@ relation to the parts of the group internal model which cover the risks of that 
 undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 3389: *****
+****** Chunk 3391: *****
 **SUPERVISION OF GROUP SOLVENCY FOR GROUPS WITH CENTRALISED RISK MANAGEMENT**
 ****** END OF CHUNK ******
 
-****** Chunk 3390: *****
+****** Chunk 3392: *****
 **Assessment of conditions: criteria**
 
 
@@ -68863,7 +68826,7 @@ subsidiary, to a significant extent by the parent undertaking, in such a way tha
 most of the tasks of the risk management function listed in Article 269 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 3391: *****
+****** Chunk 3393: *****
 (b) the compliance function referred to in Article 46 of Directive 2009/138/EC is carried out, in respect of the
 subsidiary, to a significant extent by the parent undertaking, in such a way that the parent undertaking carries out
 most of the tasks of the compliance function listed in Article 270 of this Regulation;
@@ -68877,7 +68840,7 @@ in relation to the risk management and compliance activities carried out by the 
 following criteria are met:
 ****** END OF CHUNK ******
 
-****** Chunk 3392: *****
+****** Chunk 3394: *****
 (a) the system of governance of the group, as referred to in Article 246 of Directive 2009/138/EC, is sufficiently
 effective and does not result in a situation similar to a significant deviation as referred to in Article 37(1)(c) of that
 Directive;
@@ -68893,7 +68856,7 @@ the risk management and compliance functions of the parent undertaking covering 
 --- Page 211 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3393: *****
+****** Chunk 3395: *****
 **Assessment of conditions: procedures**
 
 
@@ -68907,7 +68870,7 @@ those applications shall be considered jointly by the group supervisor and the o
 accordance with Article 237 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3394: *****
+****** Chunk 3396: *****
 **Assessment of an emergency situation: criteria**
 
 
@@ -68925,15 +68888,15 @@ further deteriorate in such a way that there is a risk that the subsidiary will 
 Requirement in the following three months.
 ****** END OF CHUNK ******
 
-****** Chunk 3395: *****
+****** Chunk 3397: *****
 **COORDINATION OF GROUP SUPERVISION**
 ****** END OF CHUNK ******
 
-****** Chunk 3396: *****
+****** Chunk 3398: *****
 _**Colleges of supervisors**_
 ****** END OF CHUNK ******
 
-****** Chunk 3397: *****
+****** Chunk 3399: *****
 **Participation of supervisors of significant branches and related undertakings**
 
 
@@ -68951,7 +68914,7 @@ activity, the non-life activity, or both in the Member State in which the risk i
 the last available financial statements.
 ****** END OF CHUNK ******
 
-****** Chunk 3398: *****
+****** Chunk 3400: *****
 Upon its own initiative or following a reasoned request from the supervisory authority responsible for the supervision
 of a branch, where the branch meets at least one of the conditions in points (a) or (b) of this paragraph, the group
 supervisor shall invite that supervisory authority to participate in any relevant activity of the college of supervisors.
@@ -68965,7 +68928,7 @@ participate in any relevant activity of the college of supervisors.
 --- Page 212 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3399: *****
+****** Chunk 3401: *****
 **Coordination arrangements**
 
 
@@ -68990,7 +68953,7 @@ in the college of supervisors;
 (c) the language and frequency of the information to be exchanged with any other authorities concerned;
 ****** END OF CHUNK ******
 
-****** Chunk 3400: *****
+****** Chunk 3402: *****
 (c) the language and frequency of the information to be exchanged with any other authorities concerned;
 
 
@@ -69024,7 +68987,7 @@ or reinsurance group. It shall include provisions covering all of the following 
 authorities within the college of supervisors as soon as it is becomes available:
 ****** END OF CHUNK ******
 
-****** Chunk 3401: *****
+****** Chunk 3403: *****
 4. The emergency plan shall provide that all of the following information shall be exchanged among supervisory
 authorities within the college of supervisors as soon as it is becomes available:
 
@@ -69045,12 +69008,12 @@ situation referred to in point (a) and a description of any existing national me
 resolution of the crisis.
 ****** END OF CHUNK ******
 
-****** Chunk 3402: *****
+****** Chunk 3404: *****
 5. The coordination arrangements referred to in paragraph 2 shall be regularly tested and reviewed by the college of
 supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 3403: *****
+****** Chunk 3405: *****
 **Supervisory approval of group-specific parameters**
 
 
@@ -69065,7 +69028,7 @@ of the receipt of the application and shall also forward the application to the 
 college of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 3404: *****
+****** Chunk 3406: *****
 3. Prior to making its final decision, the group supervisor shall consult the other supervisory authorities within the
 college of supervisors. After this consultation, the group supervisor shall make its own decision on the application. The
 group supervisor shall provide its decision to the applicant and to the other supervisory authorities within the college of
@@ -69073,11 +69036,11 @@ supervisors. The decision shall be written in an official language of the Member
 another language most commonly understood by the other supervisory authorities.
 ****** END OF CHUNK ******
 
-****** Chunk 3405: *****
+****** Chunk 3407: *****
 _**Exchange of information**_
 ****** END OF CHUNK ******
 
-****** Chunk 3406: *****
+****** Chunk 3408: *****
 **Information to be exchanged on a systematic basis**
 
 
@@ -69095,7 +69058,7 @@ following information:
 (a) the solvency and financial condition report, unless the group supervisor has agreed under Article 256(2) of Directive/EC to the inclusion of subsidiaries within the group in a single solvency and financial condition report;
 ****** END OF CHUNK ******
 
-****** Chunk 3407: *****
+****** Chunk 3409: *****
 (b) the regular supervisory report, as well as relevant annual and quarterly quantitative templates;
 
 
@@ -69121,7 +69084,7 @@ financial holding company:
 level.
 ****** END OF CHUNK ******
 
-****** Chunk 3408: *****
+****** Chunk 3410: *****
 (iii) the conclusions drawn by the group supervisor following the supervisory review process carried out at group
 level.
 
@@ -69130,11 +69093,11 @@ level.
 referred to in paragraph 2.
 ****** END OF CHUNK ******
 
-****** Chunk 3409: *****
+****** Chunk 3411: *****
 _**National or regional subgroup supervision**_
 ****** END OF CHUNK ******
 
-****** Chunk 3410: *****
+****** Chunk 3412: *****
 Where Member States allow supervisory authorities to exercise group supervision on a subgroup according to
 Articles 216 or 217 of Directive 2009/138/EC, such a decision by the supervisory authorities shall only be taken in
 circumstances justified by objective differences in the operations, the organisation or the risk-profile between the
@@ -69142,15 +69105,15 @@ subgroup and the group.
 --- Page 214 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3411: *****
+****** Chunk 3413: *****
 **PUBLIC DISCLOSURE**
 ****** END OF CHUNK ******
 
-****** Chunk 3412: *****
+****** Chunk 3414: *****
 _**Group solvency and financial condition report**_
 ****** END OF CHUNK ******
 
-****** Chunk 3413: *****
+****** Chunk 3415: *****
 **Structure and contents**
 
 
@@ -69173,7 +69136,7 @@ description of all subsidiaries, material related undertakings within the meanin
 (b) regarding the group's system of governance:
 ****** END OF CHUNK ******
 
-****** Chunk 3414: *****
+****** Chunk 3416: *****
 (ii) qualitative and quantitative information on relevant operations and transactions within the group;
 
 
@@ -69197,7 +69160,7 @@ paragraph of Article 246(4) of Directive 2009/138/EC;
 the level of the group, as referred to in Article 376 of this Regulation;
 ****** END OF CHUNK ******
 
-****** Chunk 3415: *****
+****** Chunk 3417: *****
 (c) regarding the group's risk profile: qualitative and quantitative information on any significant risk concentration at
 the level of the group, as referred to in Article 376 of this Regulation;
 
@@ -69216,7 +69179,7 @@ calculate the group solvency and where a combination of method 1 and 2 is used f
 undertakings method 2 is used;
 ****** END OF CHUNK ******
 
-****** Chunk 3416: *****
+****** Chunk 3418: *****
 (ii) qualitative and quantitative information on any significant restriction to the fungibility and transferability of
 own funds eligible for covering the group Solvency Capital Requirement;
 
@@ -69236,7 +69199,7 @@ Article 230(2) of Directive 2009/138/EC;
 calculate the group Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3417: *****
+****** Chunk 3419: *****
 (vi) where applicable, a description of the undertakings which are in the scope of any internal model used to
 calculate the group Solvency Capital Requirement;
 
@@ -69246,7 +69209,7 @@ and any internal model used to calculate the group Solvency Capital Requirement.
 --- Page 215 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3418: *****
+****** Chunk 3420: *****
 **Languages**
 
 
@@ -69262,7 +69225,7 @@ disclose the report referred to in paragraph 1 in another language most commonly
 authorities concerned, as agreed in the college of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 3419: *****
+****** Chunk 3421: *****
 3. Where any of the insurance or reinsurance subsidiaries of the participating insurance or reinsurance undertaking,
 insurance holding company or mixed financial holding company has its head office in a Member State whose official
 language or languages are different from the language or languages in which the group solvency and financial condition
@@ -69271,7 +69234,7 @@ insurance holding company or mixed financial holding company shall disclose a tr
 report into the official language or languages of that Member State.
 ****** END OF CHUNK ******
 
-****** Chunk 3420: *****
+****** Chunk 3422: *****
 **Non-disclosure of information**
 
 
@@ -69279,7 +69242,7 @@ Article 299 shall apply to non-disclosure of information in the group solvency a
 pating insurance and reinsurance undertakings, insurance holding companies or mixed financial holding companies.
 ****** END OF CHUNK ******
 
-****** Chunk 3421: *****
+****** Chunk 3423: *****
 **Deadlines**
 
 
@@ -69288,7 +69251,7 @@ companies or mixed financial holding companies of their group solvency and finan
 purposes of this Article the deadlines referred to in Article 300 shall be extended by 6 weeks.
 ****** END OF CHUNK ******
 
-****** Chunk 3422: *****
+****** Chunk 3424: *****
 **Updates**
 
 
@@ -69304,7 +69267,7 @@ any updated version of the group solvency and financial condition report shall b
 major development referred to in paragraph 1 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 3423: *****
+****** Chunk 3425: *****
 **Transitional arrangements on comparative information**
 
 
@@ -69313,11 +69276,11 @@ undertakings, insurance holding companies or mixed financial holding companies.
 --- Page 216 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3424: *****
+****** Chunk 3426: *****
 _**Single solvency and financial condition report**_
 ****** END OF CHUNK ******
 
-****** Chunk 3425: *****
+****** Chunk 3427: *****
 **Structure and contents**
 
 
@@ -69331,14 +69294,14 @@ disclosed at group level in accordance with Article 256(1) of Directive 2009/138
 disclosed in accordance with Articles 51, 53, 54 and 55 of that Directive for any subsidiary covered by that report.
 ****** END OF CHUNK ******
 
-****** Chunk 3426: *****
+****** Chunk 3428: *****
 3. The information at group level and the information for any subsidiary covered by that report shall each follow the
 structure set out in Annex XX. Participating insurance and reinsurance undertakings, insurance holding companies or
 mixed financial holding companies may decide, when providing any part of the information to be disclosed for a
 subsidiary covered, to refer to information at group level, where that information is equivalent in both nature and scope.
 ****** END OF CHUNK ******
 
-****** Chunk 3427: *****
+****** Chunk 3429: *****
 **Languages**
 
 
@@ -69354,7 +69317,7 @@ disclose the report referred to in paragraph 1 in another language most commonly
 authorities concerned, as agreed in the college of supervisors.
 ****** END OF CHUNK ******
 
-****** Chunk 3428: *****
+****** Chunk 3430: *****
 3. Where any of the subsidiaries covered by the single solvency and financial condition report has its head office in a
 Member State whose official language or languages are different from the language or languages in which that report is
 disclosed in accordance with paragraphs 1 and 2, the supervisory authority concerned may, after consulting the group
@@ -69368,7 +69331,7 @@ languages of that Member State of all of the following information:
 (a) the summary of the information from that report related to the group;
 ****** END OF CHUNK ******
 
-****** Chunk 3429: *****
+****** Chunk 3431: *****
 (a) the summary of the information from that report related to the group;
 
 
@@ -69376,7 +69339,7 @@ languages of that Member State of all of the following information:
 authority concerned.
 ****** END OF CHUNK ******
 
-****** Chunk 3430: *****
+****** Chunk 3432: *****
 **Non-disclosure of information**
 
 
@@ -69386,7 +69349,7 @@ authority concerned.
 2. Article 299 shall apply as regards the information for any of the subsidiaries within the group.
 ****** END OF CHUNK ******
 
-****** Chunk 3431: *****
+****** Chunk 3433: *****
 **Deadlines**
 
 
@@ -69397,7 +69360,7 @@ only during a period not exceeding four years from 1 January 2016.
 --- Page 217 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3432: *****
+****** Chunk 3434: *****
 **Updates**
 
 
@@ -69412,7 +69375,7 @@ any updated version of the single solvency and financial condition report shall 
 major development referred to in paragraph 1 of this Article.
 ****** END OF CHUNK ******
 
-****** Chunk 3433: *****
+****** Chunk 3435: *****
 **Reference**
 
 
@@ -69430,7 +69393,7 @@ solvency and financial condition report a reference to the single solvency and f
 insurance and reinsurance undertakings.
 ****** END OF CHUNK ******
 
-****** Chunk 3434: *****
+****** Chunk 3436: *****
 2. Where participating insurance and reinsurance undertakings, insurance holding companies or mixed financial
 holding companies do not provide a single solvency and financial condition report, the insurance and reinsurance
 undertakings which are subsidiaries of that participating insurance or reinsurance undertaking, insurance holding
@@ -69438,7 +69401,7 @@ company or mixed financial holding company shall include in their solvency and f
 to the group solvency and financial condition reports disclosed in accordance with Article 256(1) of Directive/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3435: *****
+****** Chunk 3437: *****
 **Transitional arrangements on comparative information**
 
 
@@ -69446,15 +69409,15 @@ Article 303 shall apply to the disclosure of comparative information by particip
 undertakings, insurance holding companies or mixed financial holding companies.
 ****** END OF CHUNK ******
 
-****** Chunk 3436: *****
+****** Chunk 3438: *****
 **GROUP SUPERVISORY REPORTING**
 ****** END OF CHUNK ******
 
-****** Chunk 3437: *****
+****** Chunk 3439: *****
 _**Regular reporting**_
 ****** END OF CHUNK ******
 
-****** Chunk 3438: *****
+****** Chunk 3440: *****
 **Elements and contents**
 
 
@@ -69475,7 +69438,7 @@ of that Directive.
 (i) a list of all subsidiaries, related undertakings and branches;
 ****** END OF CHUNK ******
 
-****** Chunk 3439: *****
+****** Chunk 3441: *****
 (a) regarding the group's business and performance:
 
 
@@ -69502,7 +69465,7 @@ outstanding balances at the end of the reporting period;
 Article 246(2) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3440: *****
+****** Chunk 3442: *****
 (b) regarding the group's system of governance:
 
 
@@ -69525,7 +69488,7 @@ insurance and reinsurance undertaking within the group, in so far as it is inclu
 group solvency;
 ****** END OF CHUNK ******
 
-****** Chunk 3441: *****
+****** Chunk 3443: *****
 (ii) qualitative and quantitative information on the Solvency Capital Requirement and own funds for each
 intermediate insurance holding company, insurance holding company, intermediate mixed financial holding
 company, mixed financial holding company and ancillary services undertaking within the group, in so far as it
@@ -69538,7 +69501,7 @@ alternative investment fund manager or institutions for occupational retirement 
 included in the calculation of the group solvency;
 ****** END OF CHUNK ******
 
-****** Chunk 3442: *****
+****** Chunk 3444: *****
 (iv) qualitative and quantitative information on the notional solvency requirement and own funds for each related
 undertaking which is a non-regulated undertaking carrying out financial activities, in so far as it is included in
 the calculation of the group solvency;
@@ -69552,7 +69515,7 @@ Requirement and the own funds eligible to satisfy that requirement as laid down 
 concerned shall be separately identified;
 ****** END OF CHUNK ******
 
-****** Chunk 3443: *****
+****** Chunk 3445: *****
 (vi) qualitative and quantitative information on the solvency requirement and own funds for any other related
 undertaking, in so far as it is included in the calculation of the group solvency;
 
@@ -69561,7 +69524,7 @@ undertaking, in so far as it is included in the calculation of the group solvenc
 Article 211 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3444: *****
+****** Chunk 3446: *****
 (viii) a description of special purpose vehicles within the group, which are regulated by a third country supervisory
 authority and comply with requirements equivalent to those set out in Article 211(2) of Directive/EC, for the purposes ofincluding a description of the verification carried out by the participating
 insurance and reinsurance undertaking, insurance holding company or mixed financial holding company
@@ -69573,7 +69536,7 @@ and (viii) together with qualitative and quantitative information on the solvenc
 these entities, in so far as they are included in the calculation of the group solvency;
 ****** END OF CHUNK ******
 
-****** Chunk 3445: *****
+****** Chunk 3447: *****
 (x) where relevant, for all related insurance and reinsurance undertakings which are included in the calculation of
 the group solvency, qualitative and quantitative information on how the undertaking complies with
 Article 222(2) to (5) of Directive 2009/138/EC;
@@ -69590,7 +69553,7 @@ own funds has been made;
 Articles 332 and 333 of this Regulation.
 ****** END OF CHUNK ******
 
-****** Chunk 3446: *****
+****** Chunk 3448: *****
 **Deadlines**
 
 
@@ -69600,7 +69563,7 @@ purposes of this Article the deadlines referred to in Article 312 shall be exten
 supervisory report.
 ****** END OF CHUNK ******
 
-****** Chunk 3447: *****
+****** Chunk 3449: *****
 **Languages**
 
 
@@ -69611,7 +69574,7 @@ report the group regular supervisory reporting in a language most commonly under
 concerned, as agreed in the college of supervisor.
 ****** END OF CHUNK ******
 
-****** Chunk 3448: *****
+****** Chunk 3450: *****
 **Additional transitional information on groups**
 
 
@@ -69627,11 +69590,11 @@ companies shall submit to the group supervisor the information referred to in pa
 the reference date of the opening financial statement as referred to in Article 314(1)(a).
 ****** END OF CHUNK ******
 
-****** Chunk 3449: *****
+****** Chunk 3451: *****
 _**Reporting on risk concentrations and intragroup transactions**_
 ****** END OF CHUNK ******
 
-****** Chunk 3450: *****
+****** Chunk 3452: *****
 **Significant risk concentrations (definition, identification and thresholds)**
 
 
@@ -69656,7 +69619,7 @@ indirect exposures of undertakings in the group to all of the following:
 (d) natural disasters or catastrophes.
 ****** END OF CHUNK ******
 
-****** Chunk 3451: *****
+****** Chunk 3453: *****
 (c) specific geographical areas or industry sectors;
 
 
@@ -69683,7 +69646,7 @@ activities;
 (e) the diversification of the group's insurance activities, in terms of geographical areas and lines of business.
 ****** END OF CHUNK ******
 
-****** Chunk 3452: *****
+****** Chunk 3454: *****
 **Significant intragroup transactions (definition, identification)**
 
 
@@ -69716,7 +69679,7 @@ cash;
 (f) reinsurance operations;
 ****** END OF CHUNK ******
 
-****** Chunk 3453: *****
+****** Chunk 3455: *****
 (c) guarantees and commitments such as letters of credit;
 
 
@@ -69735,15 +69698,15 @@ cash;
 (h) purchase, sale or lease of assets.
 ****** END OF CHUNK ******
 
-****** Chunk 3454: *****
+****** Chunk 3456: *****
 **THIRD COUNTRY EEQUIVALENCE AND FINAL PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 3455: *****
+****** Chunk 3457: *****
 **UNDERTAKINGS CARRYING OUT REINSURANCE ACTIVITIES WITH THEIR HEAD OFFICE IN A THIRD COUNTRY**
 ****** END OF CHUNK ******
 
-****** Chunk 3456: *****
+****** Chunk 3458: *****
 **Criteria for assessing third country equivalence**
 
 
@@ -69761,7 +69724,7 @@ capacities including financial and human resources, and mandate to effectively p
 ies regardless of their nationality or place of residence;
 ****** END OF CHUNK ******
 
-****** Chunk 3457: *****
+****** Chunk 3459: *****
 (c) whether the supervisory authorities of that third country, in the exercise of their general duties, duly consider the
 potential impact of their decisions on the stability of financial systems globally, particularly during emergency
 situations, on the basis of the information available at that time;
@@ -69780,7 +69743,7 @@ out reinsurance activities to have an effective system of governance in place wh
 management of the business and prescribes all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3458: *****
+****** Chunk 3460: *****
 (i) the existence of an adequate, transparent organisational structure with a clear allocation and appropriate
 segregation of responsibilities,
 
@@ -69800,7 +69763,7 @@ undertaking and to the relevant supervisory authorities;
 out reinsurance activities to have an effective risk-management system in place comprising all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3459: *****
+****** Chunk 3461: *****
 (i) strategies, processes and internal reporting procedures necessary to identify, measure, monitor, manage and
 report risks, to which the undertaking is or could be exposed, at an individual and an aggregated level and on a
 continuous basis, and their interdependencies;
@@ -69821,7 +69784,7 @@ out reinsurance activities to:
 (i) provide third country supervisory authorities with any information necessary for the purposes of supervision;
 ****** END OF CHUNK ******
 
-****** Chunk 3460: *****
+****** Chunk 3462: *****
 (i) provide third country supervisory authorities with any information necessary for the purposes of supervision;
 
 
@@ -69840,7 +69803,7 @@ reinsurance activities relies on sound economic principles and whether solvency 
 economic valuation of all assets and liabilities;
 ****** END OF CHUNK ******
 
-****** Chunk 3461: *****
+****** Chunk 3463: *****
 (l) whether the solvency regime of that third country requires domestic insurance or reinsurance undertakings carrying
 out reinsurance activities to hold adequate financial resources including all of the following requirements:
 
@@ -69856,7 +69819,7 @@ holders and beneficiaries taking into account any disclosed policy objective,
 concerned can properly identify, measure, monitor, manage, control and report,
 ****** END OF CHUNK ******
 
-****** Chunk 3462: *****
+****** Chunk 3464: *****
 (iii) a requirement that those undertakings only invest in assets and instruments whose risks the undertaking
 concerned can properly identify, measure, monitor, manage, control and report,
 
@@ -69870,7 +69833,7 @@ and beneficiaries are adequately protected and continue to receive payments as t
 triggers immediate and ultimate supervisory intervention,
 ****** END OF CHUNK ******
 
-****** Chunk 3463: *****
+****** Chunk 3465: *****
 (v) a requirement that those undertakings maintain a minimum level of capital, non-compliance with which
 triggers immediate and ultimate supervisory intervention,
 
@@ -69886,7 +69849,7 @@ capturing quantifiable risks and that where a significant risk is not quantifiab
 capital requirements, then that risk is addressed through another supervisory mechanism;
 ****** END OF CHUNK ******
 
-****** Chunk 3464: *****
+****** Chunk 3466: *****
 (n) whether the solvency regime of that third country ensures timely intervention by supervisory authorities of the
 third country in the event that the capital requirement referred to in point (l)(iv) is not complied with;
 
@@ -69897,7 +69860,7 @@ authorities, are bound by obligations of professional secrecy and whether such o
 extend to information received from all supervisory authorities;
 ****** END OF CHUNK ******
 
-****** Chunk 3465: *****
+****** Chunk 3467: *****
 (p) whether the solvency regime of the third country provides that, without prejudice to cases covered by criminal law,
 any confidential information received by all persons who are working or who have worked for the supervisory
 authorities of that third country is not divulged to any person or authority whatsoever, except in summary or
@@ -69913,7 +69876,7 @@ parties involved in attempts to rescue that undertaking may be divulged in civil
 only use that information in the course of their duties and for any of the following purposes:
 ****** END OF CHUNK ******
 
-****** Chunk 3466: *****
+****** Chunk 3468: *****
 (i) to check that the conditions governing the taking-up of business of reinsurance, system of governance and
 public disclosure and solvency assessment have been met,
 
@@ -69927,7 +69890,7 @@ public disclosure and solvency assessment have been met,
 (iv) in court proceedings relating to the solvency regime in that third country;
 ****** END OF CHUNK ******
 
-****** Chunk 3467: *****
+****** Chunk 3469: *****
 (ii) to impose sanctions,
 
 
@@ -69946,11 +69909,11 @@ appropriate, has been obtained solely for the purposes for which the authority g
 --- Page 223 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3468: *****
+****** Chunk 3470: *****
 **RELATED THIRD COUNTRY INSURANCE AND REINSURANCE UNDERTAKINGS**
 ****** END OF CHUNK ******
 
-****** Chunk 3469: *****
+****** Chunk 3471: *****
 **Criteria for assessing third country equivalence**
 
 
@@ -69968,7 +69931,7 @@ liabilities;
 adequate financial resources including all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3470: *****
+****** Chunk 3472: *****
 (b) whether the solvency regime of that third country requires domestic insurance or reinsurance undertakings to hold
 adequate financial resources including all of the following:
 
@@ -69985,7 +69948,7 @@ and beneficiaries taking into account any disclosed policy objective,
 concerned can properly identify, measure, monitor, manage, control and report,
 ****** END OF CHUNK ******
 
-****** Chunk 3471: *****
+****** Chunk 3473: *****
 (iii) a requirement that those undertakings only invest in assets and instruments whose risks the undertaking
 concerned can properly identify, measure, monitor, manage, control and report,
 
@@ -69999,7 +69962,7 @@ beneficiaries are adequately protected and continue to receive payments as they 
 triggers immediate and ultimate supervisory intervention,
 ****** END OF CHUNK ******
 
-****** Chunk 3472: *****
+****** Chunk 3474: *****
 (v) a requirement that those undertakings maintain a minimum level of capital, non-compliance with which
 triggers immediate and ultimate supervisory intervention,
 
@@ -70015,7 +69978,7 @@ capturing quantifiable risks and, where a significant risk is not quantifiable a
 requirements, whether that risk is addressed through another supervisory mechanism;
 ****** END OF CHUNK ******
 
-****** Chunk 3473: *****
+****** Chunk 3475: *****
 (d) whether the solvency regime of that third country ensures timely intervention by supervisory authorities of the
 third country in the event that the capital requirement referred to in point (b)(iv) is not complied with;
 
@@ -70026,7 +69989,7 @@ authorities, are bound by obligations of professional secrecy and whether such o
 extend to information received from all supervisory authorities;
 ****** END OF CHUNK ******
 
-****** Chunk 3474: *****
+****** Chunk 3476: *****
 (f) whether the solvency regime of the third country provides that, without prejudice to cases covered by criminal law,
 any confidential information received by all persons who are working or who have worked for the supervisory
 authorities of that third country is not divulged to any person or authority whatsoever, except in summary or
@@ -70042,7 +70005,7 @@ third parties involved in attempts to rescue that undertaking may be divulged in
 only use that information in the course of their duties and for any of the following purposes:
 ****** END OF CHUNK ******
 
-****** Chunk 3475: *****
+****** Chunk 3477: *****
 (i) to check that the conditions governing the taking-up of business, system of governance and public disclosure
 and solvency assessment have been met,
 
@@ -70055,7 +70018,7 @@ and solvency assessment have been met,
 (iv) in court proceedings relating to the solvency regime in that third country;
 ****** END OF CHUNK ******
 
-****** Chunk 3476: *****
+****** Chunk 3478: *****
 (iv) in court proceedings relating to the solvency regime in that third country;
 
 
@@ -70067,11 +70030,11 @@ agreement of the supervisory authority from which it originates has been obtaine
 obtained solely for the purposes for which the authority gave its agreement.
 ****** END OF CHUNK ******
 
-****** Chunk 3477: *****
+****** Chunk 3479: *****
 **INSURANCE AND REINSURANCE UNDERTAKINGS WITH THE PARENT UNDERTAKINGS OUTSIDE THE UNION**
 ****** END OF CHUNK ******
 
-****** Chunk 3478: *****
+****** Chunk 3480: *****
 **Criteria for assessing third country equivalence**
 
 
@@ -70096,7 +70059,7 @@ regardless of their nationality or place of residence;
 (iii) impose sanctions or take enforcement action where necessary;
 ****** END OF CHUNK ******
 
-****** Chunk 3479: *****
+****** Chunk 3481: *****
 (ii) supervise insurance and reinsurance undertakings which are part of a group,
 
 
@@ -70113,7 +70076,7 @@ undertaking, as defined in Article 212(1)(a) of Directive 2009/138/EC, exercises
 unless where this would be inappropriate to the objectives of group supervision;
 ****** END OF CHUNK ******
 
-****** Chunk 3480: *****
+****** Chunk 3482: *****
 (e) whether the supervisory authorities of the third country, in the exercise of their general duties, duly consider the
 potential impact of their decisions on the stability of financial systems globally, particularly during emergency
 situations, on the basis of the information available at the time;
@@ -70131,7 +70094,7 @@ which provides for sound and prudent management of the business and prescribes a
 segregation of responsibilities;
 ****** END OF CHUNK ******
 
-****** Chunk 3481: *****
+****** Chunk 3483: *****
 (i) the existence of an adequate transparent organisational structure with a clear allocation and appropriate
 segregation of responsibilities;
 
@@ -70154,7 +70117,7 @@ group level comprising at least all of the following:
 report risks on a continuous basis, to which the group is or could be exposed and their interdependencies;
 ****** END OF CHUNK ******
 
-****** Chunk 3482: *****
+****** Chunk 3484: *****
 (ii) an effective internal control system;
 
 
@@ -70177,7 +70140,7 @@ supervision;
 least an annual basis;
 ****** END OF CHUNK ******
 
-****** Chunk 3483: *****
+****** Chunk 3485: *****
 (ii) to report significant risk concentration at the level of the group and significant intra-group transactions, on at
 least an annual basis;
 
@@ -70199,7 +70162,7 @@ assessment of solvency is based on an economic valuation of all assets and liabi
 including all of the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3484: *****
+****** Chunk 3486: *****
 (n) whether the prudential regime of that third country requires the group to hold adequate financial resources
 including all of the following:
 
@@ -70217,7 +70180,7 @@ holders and beneficiaries taking into account any disclosed policy objective;
 measure, monitor, manage, control and report;
 ****** END OF CHUNK ******
 
-****** Chunk 3485: *****
+****** Chunk 3487: *****
 (iii) a requirement that the group only invests in assets and instruments whose risks it can properly identify,
 measure, monitor, manage, control and report;
 
@@ -70232,7 +70195,7 @@ payments as they become due;
 level of capital, non-compliance with which triggers immediate and ultimate supervisory intervention;
 ****** END OF CHUNK ******
 
-****** Chunk 3486: *****
+****** Chunk 3488: *****
 (vi) a requirement that the group capital requirement is met with own funds that are of a sufficient quality and
 which are able to absorb significant losses, and that own-fund items considered by the supervisory authorities
 to be of a high quality shall absorb losses both in a going concern and in case of a winding up;
@@ -70247,7 +70210,7 @@ requirements, whether that risk is addressed through another supervisory mechani
 third country in the event that the capital requirement referred to in point (n)(iv) is not complied with;
 ****** END OF CHUNK ******
 
-****** Chunk 3487: *****
+****** Chunk 3489: *****
 (q) whether the supervisory authorities of the third country restrict the use of own-fund items of a related insurance or
 reinsurance undertaking where they consider that they cannot effectively be made available to cover the capital
 requirement of the participating undertaking for which the group solvency is calculated;
@@ -70259,7 +70222,7 @@ funds to meet the group capital requirement and that the intra-group creation of
 financing is eliminated;
 ****** END OF CHUNK ******
 
-****** Chunk 3488: *****
+****** Chunk 3490: *****
 (s) whether the prudential regime of the third country provides that all persons who are working or who have worked
 for the supervisory authorities of that third country, as well as auditors and experts acting on behalf of those
 authorities, are bound by obligations of professional secrecy and whether such obligations of professional secrecy
@@ -70272,7 +70235,7 @@ authorities of that third country is not divulged to any person or authority wha
 aggregate form, such that individual insurance and reinsurance undertakings cannot be identified;
 ****** END OF CHUNK ******
 
-****** Chunk 3489: *****
+****** Chunk 3491: *****
 (u) whether the prudential regime of the third country provides that, where an insurance or reinsurance undertaking
 has been declared bankrupt or is being compulsorily wound up, confidential information which does not concern
 third parties involved in attempts to rescue that undertaking may be divulged in civil or commercial proceedings;
@@ -70295,7 +70258,7 @@ and solvency assessment have been met;
 (iv) in court proceedings relating to the solvency regime in that third country;
 ****** END OF CHUNK ******
 
-****** Chunk 3490: *****
+****** Chunk 3492: *****
 (ii) to impose sanctions;
 
 
@@ -70313,11 +70276,11 @@ the express agreement of the supervisory authority from which it originates has 
 appropriate, has been obtained solely for the purposes for which the authority gave its agreement.
 ****** END OF CHUNK ******
 
-****** Chunk 3491: *****
+****** Chunk 3493: *****
 **FINAL PROVISIONS**
 ****** END OF CHUNK ******
 
-****** Chunk 3492: *****
+****** Chunk 3494: *****
 This Regulation shall enter into force on the day following that of its publication in the _Official Journal of the European_
 _Union_ .
 
@@ -70338,7 +70301,7 @@ José Manuel BARROSO
 --- Page 227 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3493: *****
+****** Chunk 3495: *****
 **LINES OF BUSINESS**
 
 
@@ -70373,7 +70336,7 @@ Insurance obligations which cover all liabilities arising out of the use of moto
 (including carrier's liability).
 ****** END OF CHUNK ******
 
-****** Chunk 3494: *****
+****** Chunk 3496: *****
 (4) _Motor vehicle liability insurance_
 
 
@@ -70399,7 +70362,7 @@ cover liabilities arising out of the use of aircraft, ships, vessels or boats on
 (7) _Fire and other damage to property insurance_
 ****** END OF CHUNK ******
 
-****** Chunk 3495: *****
+****** Chunk 3497: *****
 (7) _Fire and other damage to property insurance_
 
 
@@ -70436,7 +70399,7 @@ from home or while away from their habitual residence.
 (12) _Miscellaneous financial loss_
 ****** END OF CHUNK ******
 
-****** Chunk 3496: *****
+****** Chunk 3498: *****
 Insurance obligations which cover employment risk, insufficiency of income, bad weather, loss of benefit,
 continuing general expenses, unforeseen trading expenses, loss of market value, loss of rent or revenue, indirect
 trading losses other than those mentioned above, other financial loss (non-trading) as well as any other risk of
@@ -70462,7 +70425,7 @@ Non-proportional reinsurance obligations relating to insurance obligations inclu
 (26) _Non-proportional casualty reinsurance_
 ****** END OF CHUNK ******
 
-****** Chunk 3497: *****
+****** Chunk 3499: *****
 Non-proportional reinsurance obligations relating to insurance obligations included in lines of business 1 to 3.
 
 
@@ -70499,7 +70462,7 @@ insurance, other than those included in line of business 33.
 (30) _Insurance with profit participation_
 ****** END OF CHUNK ******
 
-****** Chunk 3498: *****
+****** Chunk 3500: *****
 (30) _Insurance with profit participation_
 
 
@@ -70537,7 +70500,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 (36) _Life reinsurance_
 ****** END OF CHUNK ******
 
-****** Chunk 3499: *****
+****** Chunk 3501: *****
 (35) _Health reinsurance_
 
 
@@ -70550,7 +70513,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 --- Page 230 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3500: *****
+****** Chunk 3502: *****
 **SEGMENTATION OF NON-LIFE INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
 **DEVIATIONS FOR THE NON-LIFE PREMIUM AND RESERVE RISK SUB-MODULE**
 
@@ -70586,7 +70549,7 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 --- Page 231 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3501: *****
+****** Chunk 3503: *****
 **FACTOR FOR GEOGRAPHICAL DIVERSIFICATION OF PREMIUM AND RESERVE RISK**
 
 
@@ -70631,7 +70594,7 @@ _r_ [ð] _[V]_ [ð] _[prem,r,s]_ [Þ] [ þ] _[ V]_ [ð] _[res,r,s]_ [Þ] [ÞÞ]
 (c) _V(res,r,s)_ denotes volume measure for reserve risk of the segment _s_ and the region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 3502: *****
+****** Chunk 3504: *****
 (c) _V(res,r,s)_ denotes volume measure for reserve risk of the segment _s_ and the region _r_ .
 
 
@@ -70642,7 +70605,7 @@ and 147, but taking into account only insurance and reinsurance obligations wher
 the region _r_ .
 ****** END OF CHUNK ******
 
-****** Chunk 3503: *****
+****** Chunk 3505: *****
 3. For all segments set out in Annexes II and XIV and all geographical regions set out in paragraph 8, the volume
 measure for reserve risk of a particular segment _s_ and a particular region _r_ shall be calculated in the same way as the
 volume measure for non-life or NSLT health reserve risk of the segment _s_ as referred to in Articles 116 and 147, but
@@ -70653,7 +70616,7 @@ taking into account only insurance and reinsurance obligations where the underly
 the case of life insurance shall be applied as if references in those criteria to Member States extended to regions also.
 ****** END OF CHUNK ******
 
-****** Chunk 3504: *****
+****** Chunk 3506: *****
 5. Notwithstanding paragraph 1, the factor for geographical diversification shall be equal to 1 for segments 6, 10, 11
 and 12 set out in Annex II and for segment 4 set out in Annex XIV.
 
@@ -70670,7 +70633,7 @@ for NSLT health premium risk or NSLT health reserve risk of the segment to calcu
 reserve risk sub-module.
 ****** END OF CHUNK ******
 
-****** Chunk 3505: *****
+****** Chunk 3507: *****
 8. Regions for the calculation of the factor for geographical diversification
 
 
@@ -70706,7 +70669,7 @@ reserve risk sub-module.
 --- Page 233 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3506: *****
+****** Chunk 3508: *****
 **CORRELATION MATRIX FOR NON-LIFE PREMIUM AND RESERVE RISK**
 
 
@@ -70736,7 +70699,7 @@ segments set out Annex II:
 --- Page 234 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3507: *****
+****** Chunk 3509: *****
 **PARAMETERS FOR THE WINDSTORM RISK SUB-MODULE**
 
 
@@ -70810,7 +70773,7 @@ segments set out Annex II:
 --- Page 236 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3508: *****
+****** Chunk 3510: *****
 **PARAMETERS FOR THE EARTHQUAKE RISK SUB-MODULE**
 
 
@@ -70884,7 +70847,7 @@ segments set out Annex II:
 --- Page 238 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3509: *****
+****** Chunk 3511: *****
 **PARAMETERS FOR THE FLOOD RISK SUB-MODULE**
 
 
@@ -70946,7 +70909,7 @@ segments set out Annex II:
 --- Page 240 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3510: *****
+****** Chunk 3512: *****
 **PARAMETETERS FOR THE HAIL RISK SUB-MODULE**
 
 
@@ -70993,7 +70956,7 @@ segments set out Annex II:
 --- Page 241 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3511: *****
+****** Chunk 3513: *****
 **THE GEOGRAPHICAL DIVISION OF REGIONS SET OUT IN ANNEX V INTO RISK ZONES**
 
 
@@ -71031,7 +70994,7 @@ Vatican City State shall consist of only one zone each. The zones shall be mappe
 For the purpose of this Annex, the following shall apply:
 ****** END OF CHUNK ******
 
-****** Chunk 3512: *****
+****** Chunk 3514: *****
 <table>
 |Principality of Andorra|zone 9 of the region FR|
 |---|---|
@@ -71196,7 +71159,7 @@ codes which have a digit in the second position shall be mapped to zones identif
 --- Page 245 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3513: *****
+****** Chunk 3515: *****
 <table>
 |Region/<br>Risk Zone|AT|BE|CZ|DE|HE|IT|NL|PL|SK|ES|UK|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -71522,7 +71485,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 --- Page 251 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3514: *****
+****** Chunk 3516: *****
 **RISK WEIGHTS FOR CATASTROPHE RISK ZONES**
 
 
@@ -72066,7 +72029,7 @@ The mapping of risk zones for the region DK shall be based on the first 2 digits
 --- Page 267 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3515: *****
+****** Chunk 3517: *****
 **LIABILITY RISK GROUPS, RISK FACTORS AND CORRELATION COEFFICIENTS FOR THE LIABILITY RISK**
 **SUB-MODULE**
 
@@ -72107,7 +72070,7 @@ in Annex I which cover liabilities of employers arising out of death, illness, a
 employee in the course of the employment;
 ****** END OF CHUNK ******
 
-****** Chunk 3516: *****
+****** Chunk 3518: *****
 (c) Directors and officers insurance obligations mean liability insurance obligations included in line of business 8 as set
 out in Annex I which cover liabilities of directors and officers of a company, arising out of the management of that
 company, or losses of the company itself to the extent it indemnifies its directors and officers in relation to such
@@ -72135,7 +72098,7 @@ in Annex I which cover liabilities of natural persons in their capacity of priva
 --- Page 268 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3517: *****
+****** Chunk 3519: *****
 **GROUPS OF OBLIGATIONS AND RISK FACTORS FOR THE SUB-MODULE FOR OTHER NON-LIFE**
 **CATASTROPHE RISK**
 
@@ -72169,7 +72132,7 @@ and which may also provide additional cover against eventualities such as accide
 in setting up, maintaining and operating the good.
 ****** END OF CHUNK ******
 
-****** Chunk 3518: *****
+****** Chunk 3520: *****
 **LIST OF REGIONS FOR WHICH NATURAL CATASTROPHE RISK IS NOT CALCULATED BASED ON**
 
 **PREMIUMS**
@@ -72203,7 +72166,7 @@ in setting up, maintaining and operating the good.
 --- Page 269 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3519: *****
+****** Chunk 3521: *****
 **SEGMENTATION OF NSLT HEALTH INSURANCE AND REINSURANCE OBLIGATIONS AND STANDARD**
 **DEVIATIONS FOR THE NSLT HEALTH PREMIUM AND RESERVE RISK SUB-MODULE**
 
@@ -72226,7 +72189,7 @@ in setting up, maintaining and operating the good.
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 3520: *****
+****** Chunk 3522: *****
 **CORRELATION MATRIX FOR NSLT HEALTH PREMIUM AND RESERVE RISK**
 
 
@@ -72248,7 +72211,7 @@ segments set out Annex XIV:
 --- Page 270 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3521: *****
+****** Chunk 3523: *****
 **HEALTH CATASTROPHE RISK SUB-MODULE OF THE SOLVENCY CAPITAL REQUIREMENT STANDARD**
 **FORMULA**
 
@@ -72331,7 +72294,7 @@ segments set out Annex XIV:
 --- Page 272 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3522: *****
+****** Chunk 3524: *****
 **METHOD-SPECIFIC DATA REQUIREMENTS AND METHOD SPECIFICATIONS FOR UNDERTAKING-**
 **SPECIFIC PARAMETERS OF THE STANDARD FORMULA**
 
@@ -72358,7 +72321,7 @@ the insured event that gave rise to that claim was notified to the insurance or 
 this payment took place.
 ****** END OF CHUNK ******
 
-****** Chunk 3523: *****
+****** Chunk 3525: *****
 (d) ‘financial year’ means, with respect to a payment for an insurance or reinsurance claim, the year in which
 this payment took place.
 
@@ -72387,7 +72350,7 @@ Those aggregated losses and earned premiums shall be available separately for ea
 insurance and reinsurance claims in segment _s_ .
 ****** END OF CHUNK ******
 
-****** Chunk 3524: *****
+****** Chunk 3526: *****
 (b) the premiums earned in segment _s_ ;
 
 
@@ -72414,7 +72377,7 @@ from reinsurance contracts and special purpose vehicles or reinsurance premiums;
 Article 218(1)(a)(ii) and (c)(ii):
 ****** END OF CHUNK ******
 
-****** Chunk 3525: *****
+****** Chunk 3527: *****
 (d) where the premium risk method is applied to replace the standard parameters referred to in
 Article 218(1)(a)(ii) and (c)(ii):
 
@@ -72437,7 +72400,7 @@ reflected in the non-life or health catastrophe risk sub-modules;
 (g) the data fit the following assumptions:
 ****** END OF CHUNK ******
 
-****** Chunk 3526: *****
+****** Chunk 3528: *****
 (f) the aggregated losses include the expenses incurred in servicing the insurance and reinsurance obligations;
 --- Page 273 ---
 (g) the data fit the following assumptions:
@@ -72470,7 +72433,7 @@ are available;
 (b) _T_ denotes the latest accident year for which data are available;
 ****** END OF CHUNK ******
 
-****** Chunk 3527: *****
+****** Chunk 3529: *****
 (b) _T_ denotes the latest accident year for which data are available;
 
 
@@ -72519,7 +72482,7 @@ $$
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3528: *****
+****** Chunk 3530: *****
 (5) The standard deviation function shall be equal to the following function of two variables:
 
 <equation>
@@ -72600,7 +72563,7 @@ _T_
 _T_ [�] X _t_ ¼1
 ****** END OF CHUNK ******
 
-****** Chunk 3529: *****
+****** Chunk 3531: *****
 (c) denotes the standard deviation function set out in paragraph 5;
 
 
@@ -72640,7 +72603,7 @@ that were outstanding in segment _s_ at the beginning of the financial year;
 (b) the best estimate of the provision for claims outstanding in segment _s_ at the beginning of the financial year.
 ****** END OF CHUNK ******
 
-****** Chunk 3530: *****
+****** Chunk 3532: *****
 (b) the best estimate of the provision for claims outstanding in segment _s_ at the beginning of the financial year.
 
 
@@ -72668,7 +72631,7 @@ for the following twelve months;
 (e) the data fit the following assumptions:
 ****** END OF CHUNK ******
 
-****** Chunk 3531: *****
+****** Chunk 3533: *****
 (d) the data include the expenses incurred in servicing the insurance and reinsurance obligations.
 
 
@@ -72698,7 +72661,7 @@ iv. maximum likelihood estimation is appropriate.
 data are available;
 ****** END OF CHUNK ******
 
-****** Chunk 3532: *****
+****** Chunk 3534: *****
 (a) the financial years are denoted by consecutive numbers starting with 1 for the first financial year for which
 data are available;
 
@@ -72739,7 +72702,7 @@ where:
 (d) denotes the logarithmic variation coefficient set out in paragraph 6.
 ****** END OF CHUNK ******
 
-****** Chunk 3533: *****
+****** Chunk 3535: *****
 (c) denotes the mixing parameter set out in paragraph 6;
 
 
@@ -72810,7 +72773,7 @@ $$
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3534: *****
+****** Chunk 3536: *****
 <equation>
 $$
 \sum_{t=1}^{T} \pi_{t}(\hat{\delta}, \hat{\gamma})\left(\ln \left(\frac{y_{t}}{x_{t}}\right)+\frac{1}{2 \cdot \pi_{t}(\hat{\delta}, \hat{\gamma})}+\hat{\gamma}-\ln (\hat{\sigma}(\hat{\delta}, \hat{\gamma}))\right)^{2}-\sum_{t=1}^{T} \ln (\pi_{t}(\hat{\delta}, \hat{\gamma}))
@@ -72863,7 +72826,7 @@ payments.
 (2) The following method-specific data requirements shall apply:
 ****** END OF CHUNK ******
 
-****** Chunk 3535: *****
+****** Chunk 3537: *****
 (2) The following method-specific data requirements shall apply:
 
 
@@ -72885,7 +72848,7 @@ available includes all the payments of the accident year except an immaterial am
 consecutive development years in the first accident year for which data are available;
 ****** END OF CHUNK ******
 
-****** Chunk 3536: *****
+****** Chunk 3538: *****
 (e) the number of consecutive accident years for which data are available is not less than the number of
 consecutive development years in the first accident year for which data are available;
 
@@ -72906,7 +72869,7 @@ amounts:
 i. cumulative claims amounts for different accident years are mutually stochastically independent;
 ****** END OF CHUNK ******
 
-****** Chunk 3537: *****
+****** Chunk 3539: *****
 i. cumulative claims amounts for different accident years are mutually stochastically independent;
 
 
@@ -72931,7 +72894,7 @@ users of that information, including the supervisory authorities
 (3) For the purpose of paragraphs 4 and 5, the following notation shall apply:
 ****** END OF CHUNK ******
 
-****** Chunk 3538: *****
+****** Chunk 3540: *****
 **Method specification**
 
 
@@ -72970,7 +72933,7 @@ where:
 (b) _MSEP_ denotes the mean squared error of prediction as specified in paragraph 5;
 ****** END OF CHUNK ******
 
-****** Chunk 3539: *****
+****** Chunk 3541: *****
 <equation>
 $$
 \sigma_{(res,s,USP)} = c \cdot \frac{\sqrt{MSEP}}{\sum_{i=0}^{I} (\hat{C}_{(i,J)} - C_{(i,I-i)})} + (1-c) \cdot \sigma_{(res,s)}
@@ -73020,7 +72983,7 @@ where:
 accident year _i_ and development year _j_, as set out in paragraph 4(c).
 ****** END OF CHUNK ******
 
-****** Chunk 3540: *****
+****** Chunk 3542: *****
 where:
 
 
@@ -73098,7 +73061,7 @@ E. **Revision risk method**
 **Input data and method-specific data requirements**
 ****** END OF CHUNK ******
 
-****** Chunk 3541: *****
+****** Chunk 3543: *****
 _j_ = 0,…, ( _J_ – 2)
 
 
@@ -73139,7 +73102,7 @@ during the following twelve months;
 (b) data are available for at least five consecutive financial years;
 ****** END OF CHUNK ******
 
-****** Chunk 3542: *****
+****** Chunk 3544: *****
 (b) data are available for at least five consecutive financial years;
 
 
@@ -73173,7 +73136,7 @@ tically independent.
 (3) For the purpose of paragraphs 4-8, the following notation shall apply:
 ****** END OF CHUNK ******
 
-****** Chunk 3543: *****
+****** Chunk 3545: *****
 tically independent.
 
 
@@ -73215,7 +73178,7 @@ where:
 (b) _R_ denotes the expected value of annuity increases set out in paragraph 5;
 ****** END OF CHUNK ******
 
-****** Chunk 3544: *****
+****** Chunk 3546: *****
 _R_
 
 
@@ -73264,7 +73227,7 @@ X
 _k_ ¼1
 ****** END OF CHUNK ******
 
-****** Chunk 3545: *****
+****** Chunk 3547: *****
 (6) The annuity increases shall be equal to the following:
 
 
@@ -73301,7 +73264,7 @@ in paragraph 8;
 independent.
 ****** END OF CHUNK ******
 
-****** Chunk 3546: *****
+****** Chunk 3548: *****
 (c) the annual number of annuity increases and the amounts of the annuity increase are mutually stochastically
 independent.
 
@@ -73347,7 +73310,7 @@ where:
 F. **Non-proportional reinsurance method**
 ****** END OF CHUNK ******
 
-****** Chunk 3547: *****
+****** Chunk 3549: *****
 (c) _X_ denotes the estimated average change in annuity benefits set out in point (a) of paragraph 5.
 
 
@@ -73374,7 +73337,7 @@ during the following twelve months;
 used to calculate the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3548: *****
+****** Chunk 3550: *****
 (b) the data do not indicate a higher premium risk than reflected in the standard deviation for premium risk
 used to calculate the Solvency Capital Requirement;
 
@@ -73399,7 +73362,7 @@ claim amounts;
 obligations;
 ****** END OF CHUNK ******
 
-****** Chunk 3549: *****
+****** Chunk 3551: *****
 (g) the ultimate claim amounts shall not include expenses incurred in servicing the insurance and reinsurance
 obligations;
 
@@ -73452,7 +73415,7 @@ X
 _i_ ¼1
 ****** END OF CHUNK ******
 
-****** Chunk 3550: *****
+****** Chunk 3552: *****
 _μ_ ¼ [1]
 _n_
 
@@ -73509,7 +73472,7 @@ where:
 (5) The estimated adjustment factor for non-proportional reinsurance shall be equal to the following:
 ****** END OF CHUNK ******
 
-****** Chunk 3551: *****
+****** Chunk 3553: *****
 (5) The estimated adjustment factor for non-proportional reinsurance shall be equal to the following:
 
 
@@ -73535,7 +73498,7 @@ r _ω_
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3552: *****
+****** Chunk 3554: *****
 r _ω_
 
 
@@ -73577,7 +73540,7 @@ _NP′_ = **f** **f**
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3553: *****
+****** Chunk 3555: *****
 8>>>>
 < **f** **f**
 
@@ -73622,7 +73585,7 @@ _ω_
 where the parameters _μ_ 2, _ω_ 1 and _ω_ 2 are set out in paragraph 6.
 ****** END OF CHUNK ******
 
-****** Chunk 3554: *****
+****** Chunk 3556: *****
 **f** **f**
 
 
@@ -73663,7 +73626,7 @@ f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f
 _η_ ¼ qln _ω_ − 2ln _μ_ .
 ****** END OF CHUNK ******
 
-****** Chunk 3555: *****
+****** Chunk 3557: *****
 _θ_ ¼ 2ln _μ_ − [1]
 2 [ln] _[ω ]_
 
@@ -73704,7 +73667,7 @@ _NP′_ ¼
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3556: *****
+****** Chunk 3558: *****
 **f** **f**
 
 
@@ -73760,7 +73723,7 @@ _h_
 _V_ ð _prem,h_ Þ
 ****** END OF CHUNK ******
 
-****** Chunk 3557: *****
+****** Chunk 3559: *****
 **f** **f**
 
 
@@ -73810,7 +73773,7 @@ G. **Credibility factor**
 </table>
 ****** END OF CHUNK ******
 
-****** Chunk 3558: *****
+****** Chunk 3560: *****
 (1) The credibility factor for segments 1, 5 and 6 set out in Annex II shall be equal to the following:
 
 
@@ -73868,7 +73831,7 @@ and for the revision risk method shall be equal to the following:
 --- Page 283 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3559: *****
+****** Chunk 3561: *****
 **INTEGRATION TECHNIQUES FOR PARTIAL INTERNAL MODELS**
 
 
@@ -73894,7 +73857,7 @@ that capital requirement is not within the scope of the partial internal model, 
 internal model, where that capital requirement is within the scope of the partial internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3560: *****
+****** Chunk 3562: *****
 (c) the adjustment for the loss-absorbing capacity of technical provisions and deferred taxes, as laid down in
 paragraph 3, where that adjustment is not within the scope of the partial internal model, and calculated with
 the partial internal model where that adjustment is within the scope of the partial internal model.
@@ -73912,7 +73875,7 @@ accordance with sections B to F;
 (b) points (a) to (d) of Article 206(2) apply only to calculations with the standard formula;
 ****** END OF CHUNK ******
 
-****** Chunk 3561: *****
+****** Chunk 3563: *****
 (b) points (a) to (d) of Article 206(2) apply only to calculations with the standard formula;
 
 
@@ -73937,7 +73900,7 @@ requirement for intangible asset risk as set out in Article 203.
 C. **Integration technique 2**
 ****** END OF CHUNK ******
 
-****** Chunk 3562: *****
+****** Chunk 3564: *****
 C. **Integration technique 2**
 
 
@@ -73968,7 +73931,7 @@ s
 _Corr_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 ****** END OF CHUNK ******
 
-****** Chunk 3563: *****
+****** Chunk 3565: *****
 _i,j_
 
 s
@@ -74004,7 +73967,7 @@ where:
 (c) _SCR_ _i_ and _SCR_ _j_ denote the capital requirements for the items _i_ and _j_ of the aggregation list respectively;
 ****** END OF CHUNK ******
 
-****** Chunk 3564: *****
+****** Chunk 3566: *****
 (c) _SCR_ _i_ and _SCR_ _j_ denote the capital requirements for the items _i_ and _j_ of the aggregation list respectively;
 
 
@@ -74032,7 +73995,7 @@ iii. the sub-modules of the health underwriting risk module set out in Article 1
 iv. the sub-modules of the market risk module set out in Article 105(5) of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3565: *****
+****** Chunk 3567: *****
 iii. the sub-modules of the health underwriting risk module set out in Article 151(1);
 
 
@@ -74057,7 +74020,7 @@ shall not exceed 1;
 (b) for all items _i_ and _j_ from the aggregation list the correlation parameters _Corr_ _(i,j)_ and _Corr_ _(j,i)_ shall be equal;
 ****** END OF CHUNK ******
 
-****** Chunk 3566: *****
+****** Chunk 3568: *****
 (b) for all items _i_ and _j_ from the aggregation list the correlation parameters _Corr_ _(i,j)_ and _Corr_ _(j,i)_ shall be equal;
 
 
@@ -74085,7 +74048,7 @@ parameter _Corr_ _(i,j)_ shall be equal to the correlation parameter of the stan
 those two modules;
 ****** END OF CHUNK ******
 
-****** Chunk 3567: *****
+****** Chunk 3569: *****
 (f) where the items _i_ and _j_ from the aggregation list are sub-modules of the same module of the standard
 formula, then the correlation parameter _Corr_ _(i,j)_ shall be equal to the correlation parameter of the standard
 formula that is used to aggregate those two sub-modules;
@@ -74105,7 +74068,7 @@ points (a) to (g) results in a higher Solvency Capital Requirement, calculated i
 D. **Integration technique 3**
 ****** END OF CHUNK ******
 
-****** Chunk 3568: *****
+****** Chunk 3570: *****
 D. **Integration technique 3**
 
 
@@ -74125,7 +74088,7 @@ Requirement only to the risks not covered by the partial internal model;
 (b) _ω_ 1 denotes the first implied correlation parameter as set out in paragraph 2;
 ****** END OF CHUNK ******
 
-****** Chunk 3569: *****
+****** Chunk 3571: *****
 (c) _P_ _c_ denotes the capital requirement reflecting the risks that are both within the scope of the standard formula
 and the partial internal model, calculated with the partial internal model;
 
@@ -74155,7 +74118,7 @@ _d_ 1 þ 2 � _S_ _S_ � _S_ _C_
 where:
 ****** END OF CHUNK ******
 
-****** Chunk 3570: *****
+****** Chunk 3572: *****
 (2) The first implied correlation parameter shall be equal to the following:
 
 
@@ -74182,7 +74145,7 @@ requirements for those modules or sub-modules that are calculated with the parti
 (c) _S_ _S_ is defined as in paragraph 1(a);
 ****** END OF CHUNK ******
 
-****** Chunk 3571: *****
+****** Chunk 3573: *****
 (c) _S_ _S_ is defined as in paragraph 1(a);
 
 
@@ -74217,7 +74180,7 @@ where:
 (b) _d_ 2 is equal to 1 where _P_ _s_ or _P_ _c_ are zero and equal to zero where _P_ _s_ and _P_ _c_ are different from zero.
 ****** END OF CHUNK ******
 
-****** Chunk 3572: *****
+****** Chunk 3574: *****
 where:
 
 
@@ -74240,7 +74203,7 @@ E. **Integration technique 4**
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3573: *****
+****** Chunk 3575: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -74251,7 +74214,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i 
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3574: *****
+****** Chunk 3576: *****
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 
 
@@ -74273,7 +74236,7 @@ _l_
 2 � _S_ _j_ �ðX
 ****** END OF CHUNK ******
 
-****** Chunk 3575: *****
+****** Chunk 3577: *****
 _l_
 2 � _S_ _j_ �ðX
 
@@ -74298,7 +74261,7 @@ where:
 f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3576: *****
+****** Chunk 3578: *****
 vu _n_ _l_ _k_
 u _P_ [2] þ _S_ [2] _S_ [þ] X 2 � _S_ _j_ �ðX _Corr_ ð _i,j_ Þ � _P_ _i_ þ X _Corr_ ð _i,j_ Þ � _S_ _i_ Þ þ _SCR_ _int_
 t _j_ ¼ _k_ þ1 _i_ ¼1 _i_ ¼ _l_ þ1
@@ -74319,7 +74282,7 @@ _P_ [2] þ _S_ [2] _S_ [þ] X
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3577: *****
+****** Chunk 3579: *****
 _n_
 _P_ [2] þ _S_ [2] _S_ [þ] X
 
@@ -74344,7 +74307,7 @@ _Corr_ ð _i,j_ Þ � _S_ _i_ Þ
 _j_ ¼ _k_ þ1
 ****** END OF CHUNK ******
 
-****** Chunk 3578: *****
+****** Chunk 3580: *****
 _j_ ¼ _k_ þ1
 
 
@@ -74372,7 +74335,7 @@ _i_ ¼ _l_ þ1
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3579: *****
+****** Chunk 3581: *****
 _i_ ¼ _l_ þ1
 
 
@@ -74397,7 +74360,7 @@ model;
 (d) _n_ denotes the number of modules of the standard formula;
 ****** END OF CHUNK ******
 
-****** Chunk 3580: *****
+****** Chunk 3582: *****
 (c) _k_ denotes the number of modules of the standard formula that are within the scope of the partial internal
 model;
 
@@ -74426,7 +74389,7 @@ i. the module is calculated with the standard formula provided that the module d
 ii. the module is calculated in accordance with paragraph 2 provided that the module consist of submodules.
 ****** END OF CHUNK ******
 
-****** Chunk 3581: *****
+****** Chunk 3583: *****
 ii. the module is calculated in accordance with paragraph 2 provided that the module consist of submodules.
 
 
@@ -74452,7 +74415,7 @@ internal model;
 (d) _n_ denotes the number of sub-modules of that particular module;
 ****** END OF CHUNK ******
 
-****** Chunk 3582: *****
+****** Chunk 3584: *****
 (c) _k_ denotes the number of sub-modules of that particular module that are within the scope of the partial
 internal model;
 
@@ -74480,7 +74443,7 @@ i. the sub-module is calculated with the standard formula provided that the sub-
 other sub-modules;
 ****** END OF CHUNK ******
 
-****** Chunk 3583: *****
+****** Chunk 3585: *****
 i. the sub-module is calculated with the standard formula provided that the sub-module does not consists of
 other sub-modules;
 
@@ -74504,7 +74467,7 @@ which are within the scope of the partial internal model, calculated with the pa
 covered by the partial internal model;
 ****** END OF CHUNK ******
 
-****** Chunk 3584: *****
+****** Chunk 3586: *****
 (c) _k_ denotes the number of sub-modules of that particular sub-module that are within the scope of the partial
 internal model;
 
@@ -74532,7 +74495,7 @@ i. the sub-module is calculated with the standard formula provided that the sub-
 other sub-modules;
 ****** END OF CHUNK ******
 
-****** Chunk 3585: *****
+****** Chunk 3587: *****
 i. the sub-module is calculated with the standard formula provided that the sub-module does not consists of
 other sub-modules;
 
@@ -74556,7 +74519,7 @@ F. **Integration technique 5**
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 ****** END OF CHUNK ******
 
-****** Chunk 3586: *****
+****** Chunk 3588: *****
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 
 
@@ -74567,7 +74530,7 @@ f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i 
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 ****** END OF CHUNK ******
 
-****** Chunk 3587: *****
+****** Chunk 3589: *****
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 
 
@@ -74585,7 +74548,7 @@ where:
 f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3588: *****
+****** Chunk 3590: *****
 v
 uuuuu _P_ [2] þ _S_ [2] _S_ [þ] ~~f~~ P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i 2 ~~f~~ **f** i ~~f~~ **f** i � ~~f~~ **f** i _P_ ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~ � _j_ X ¼ _kn_ þ1 X _i_ ¼ _k_ 1 _Corr_ ð _i,j_ Þ � _S_ _i_ � _S_ _j_ þ _SCR_ _int_
 t ~~s~~ _i_ ¼1 _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
@@ -74595,7 +74558,7 @@ t ~~s~~ _i_ ¼1 _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3589: *****
+****** Chunk 3591: *****
 2 � _P_
 _P_ [2] þ _S_ [2] _S_ [þ] ~~f f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~
 _k_ _k_
@@ -74611,7 +74574,7 @@ _n_
 ~~f~~ P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i 2 ~~f~~ **f** i ~~f~~ **f** i � ~~f~~ **f** i _P_ ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~ � _j_ X ¼ _k_ þ1
 ****** END OF CHUNK ******
 
-****** Chunk 3590: *****
+****** Chunk 3592: *****
 ~~s~~ _i_ ¼1 _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
 
 
@@ -74629,7 +74592,7 @@ P
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3591: *****
+****** Chunk 3593: *****
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i _Corr_ ð _i,j_ Þ � _S_ _i_ � _S_ _j_
 
 
@@ -74648,7 +74611,7 @@ _i_ ¼1
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3592: *****
+****** Chunk 3594: *****
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 
 
@@ -74669,7 +74632,7 @@ _i_ ¼1
 **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
 ****** END OF CHUNK ******
 
-****** Chunk 3593: *****
+****** Chunk 3595: *****
 **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
 
 
@@ -74692,7 +74655,7 @@ _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
 calculated in the following way:
 ****** END OF CHUNK ******
 
-****** Chunk 3594: *****
+****** Chunk 3596: *****
 (b) _S_ _i_ and _S_ _j_ denote the capital requirement for modules _i_ and _j_ respectively of the standard formula which are
 calculated in the following way:
 
@@ -74714,7 +74677,7 @@ module shall be calculated with the formula set out in paragraph 1, applying the
 are calculated in the following way:
 ****** END OF CHUNK ******
 
-****** Chunk 3595: *****
+****** Chunk 3597: *****
 (b) _S_ _i_ and _S_ _j_ denote the capital requirement for sub-modules _i_ and _j_ of that particular module respectively which
 are calculated in the following way:
 
@@ -74737,7 +74700,7 @@ module shall be calculated with the formula set out in paragraph 1, applying the
 are calculated in the following way:
 ****** END OF CHUNK ******
 
-****** Chunk 3596: *****
+****** Chunk 3598: *****
 (b) _S_ _i_ and _S_ _j_ denote the capital requirement for sub-modules _i_ and _j_ of that particular module respectively which
 are calculated in the following way:
 
@@ -74751,7 +74714,7 @@ other sub-modules.
 --- Page 289 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3597: *****
+****** Chunk 3599: *****
 **MCR RISK FACTORS FOR NON-LIFE AND HEALTH INSURANCE OR REINSURANCE OBLIGATIONS**
 
 
@@ -74788,7 +74751,7 @@ other sub-modules.
 --- Page 290 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3598: *****
+****** Chunk 3600: *****
 **STRUCTURE OF THE SOLVENCY AND FINANCIAL CONDITION REPORT AND REGULAR SUPERVISORY**
 
 **REPORT**
@@ -74881,7 +74844,7 @@ D.3 Other liabilities
 D.4 Alternative methods for valuation
 ****** END OF CHUNK ******
 
-****** Chunk 3599: *****
+****** Chunk 3601: *****
 C.6 Other material risks
 
 
@@ -74928,7 +74891,7 @@ E.6 Any other information
 --- Page 292 ---
 ****** END OF CHUNK ******
 
-****** Chunk 3600: *****
+****** Chunk 3602: *****
 **AGGREGATE STATISTICAL DATA**
 
 
@@ -74950,7 +74913,7 @@ supervisory authority carrying out relevant business in one or more other Member
 business in other Member States under the freedom to provide services;
 ****** END OF CHUNK ******
 
-****** Chunk 3601: *****
+****** Chunk 3603: *****
 (3) The number of insurance undertakings established in the Member State of the supervisory authority pursuing
 business in other Member States under the freedom to provide services;
 
@@ -74974,7 +74937,7 @@ proceedings;
 adjustment referred to in Article 77b of Directive 2009/138/EC is applied.
 ****** END OF CHUNK ******
 
-****** Chunk 3602: *****
+****** Chunk 3604: *****
 (8) The number of insurance and reinsurance undertakings and the number of their portfolios where the matching
 adjustment referred to in Article 77b of Directive 2009/138/EC is applied.
 
@@ -74995,7 +74958,7 @@ provisions referred to in Article 308d Directive 2009/138/EC.
 of Directive 2009/138/EC, by material asset classes;
 ****** END OF CHUNK ******
 
-****** Chunk 3603: *****
+****** Chunk 3605: *****
 (12) The total amount of assets of the insurance and reinsurance undertakings valued in accordance with Article 75
 of Directive 2009/138/EC, by material asset classes;
 
@@ -75018,7 +74981,7 @@ in own funds, and the total amount of ancillary own funds;
 (17) The total amount of the Minimum Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3604: *****
+****** Chunk 3606: *****
 (16) The total eligible amount of basic own funds to cover the Minimum Capital Requirement, classified by tiers;
 
 
@@ -75028,7 +74991,7 @@ in own funds, and the total amount of ancillary own funds;
 (18) The total amount of the Solvency Capital Requirement;
 ****** END OF CHUNK ******
 
-****** Chunk 3605: *****
+****** Chunk 3607: *****
 (17) The total amount of the Minimum Capital Requirement;
 
 
@@ -75046,7 +75009,7 @@ complex exposures has been conducted in accordance with paragraph 5 of Article 4
 aggregation available — expressed as percentage of the total amount of the respective sub-modules or module;
 ****** END OF CHUNK ******
 
-****** Chunk 3606: *****
+****** Chunk 3608: *****
 (21) Where the Solvency Capital Requirement is calculated using an approved partial internal model the total
 amount of the Solvency Capital Requirement by risk module and sub-module — at the level of aggregation
 available — expressed as percentage of the total amount of the Solvency Capital Requirement; data on internal
@@ -75060,7 +75023,7 @@ Solvency Capital Requirement; data on internal models which scope includes credi
 counterparty default risk shall be separately disclosed;
 ****** END OF CHUNK ******
 
-****** Chunk 3607: *****
+****** Chunk 3609: *****
 (23) The number of capital add-ons, the average capital add-on per undertaking and the distribution of capital addons measured as a percentage of the Solvency Capital Requirement, with regard to all insurance and
 reinsurance undertakings supervised under Directive 2009/138/EC.
 
@@ -75086,7 +75049,7 @@ The information set out in paragraphs 1 to 5, 7 to 17 shall be provided separate
 **Data with regard to insurance groups supervised under Directive 2009/138/EC**
 ****** END OF CHUNK ******
 
-****** Chunk 3608: *****
+****** Chunk 3610: *****
 — reinsurance undertakings.
 
 
@@ -75105,7 +75068,7 @@ company which has its head office in the Union is a subsidiary undertaking of a 
 office outside of the Union;
 ****** END OF CHUNK ******
 
-****** Chunk 3609: *****
+****** Chunk 3611: *****
 (26) The number of ultimate parent insurance or reinsurance undertakings or insurance holding companies or
 mixed financial holding companies subject to group supervision at national level by the supervisory authority
 in accordance with Article 216 of Directive 2009/138/EC, including for each such undertaking and holding
@@ -75120,7 +75083,7 @@ in accordance with Article 216 of Directive 2009/138/EC, where another related u
 national level is present as referred to in Article 217 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3610: *****
+****** Chunk 3612: *****
 (28) The number of cross-border insurance groups where the supervisory authority is the group supervisor;
 
 
@@ -75134,7 +75097,7 @@ referred to in Article 230(1) of Directive 2009/138/EC and for group eligible ow
 accordance with method 2 as referred to in Article 233 of Directive 2009/138/EC;
 ****** END OF CHUNK ******
 
-****** Chunk 3611: *****
+****** Chunk 3613: *****
 (31) The total amount of the group Solvency Capital Requirement for the insurance groups of which the
 supervisory authority is the group supervisor separately for the group Solvency Capital Requirement calculated
 in accordance with method 1 as referred to in Article 230(1) of Directive 2009/138/EC and for the group
@@ -75148,7 +75111,7 @@ model for the calculation of the group Solvency Capital Requirement. The informa
 separately for approvals in accordance with Article 230 and Article 231 of Directive 2009/138/EC.
 ****** END OF CHUNK ******
 
-****** Chunk 3612: *****
+****** Chunk 3614: *****
 The information set out in paragraphs 1 to 27 shall be provided in relation to the end of the last calendar year. In
 relation to paragraphs 8 to 17, 25 and 26 the information shall relate to the financial year ends of insurance and
 reinsurance undertakings and insurance groups which ended in the last calendar year.
@@ -75167,7 +75130,7 @@ members of the group's College of supervisors; data on inspections conducted in 
 the reliance of undertakings on external ratings shall be separately disclosed;
 ****** END OF CHUNK ******
 
-****** Chunk 3613: *****
+****** Chunk 3615: *****
 (3) The number of formal reviews both at solo and group level, of ongoing compliance of full or partial internal
 models with the requirements in relation to the number of internal models in use; data on reviews conducted
 in order to review and evaluate the reliance of undertakings on external ratings shall be separately disclosed;
@@ -75182,7 +75145,7 @@ risk in both market risk and counterparty default risk shall be separately discl
 deviation of the risk profile of the insurance or reinsurance undertakings with respect to their credit risk;
 ****** END OF CHUNK ******
 
-****** Chunk 3614: *****
+****** Chunk 3616: *****
 (6) The number of authorisations withdrawn;
 
 
@@ -75205,7 +75168,7 @@ use this adjustment and how many were successful.
 average duration;
 ****** END OF CHUNK ******
 
-****** Chunk 3615: *****
+****** Chunk 3617: *****
 (11) The number of extensions granted in accordance with Article 138(4) of Directive 2009/138/EC, and their
 average duration;
 
@@ -75225,7 +75188,7 @@ technical provisions referred to in Article 308d Directive 2009/138/EC and how m
 those chaired as group supervisor;
 ****** END OF CHUNK ******
 
-****** Chunk 3616: *****
+****** Chunk 3618: *****
 (15) The number of meetings of Colleges of supervisors which the supervisory authority attended as a member and
 those chaired as group supervisor;
 
@@ -75245,7 +75208,7 @@ them;
 Article 30 of the Regulation (EU) No 1094/2010, in which the supervisory authority participated.
 ****** END OF CHUNK ******
 
-****** Chunk 3617: *****
+****** Chunk 3619: *****
 The information set out in paragraphs 2 to 15 shall be provided in relation to the last calendar year.
 ****** END OF CHUNK ******
 

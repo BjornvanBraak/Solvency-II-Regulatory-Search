@@ -21983,11 +21983,15 @@ are available;
 
 (4) The undertaking-specific standard deviation of segment _s_ shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \sigma_{(\text{prem,s,USP})} = c \cdot \hat{\sigma}(\hat{\delta}, \hat{\gamma}) \cdot \sqrt{\frac{T+1}{T-1}} + (1-c) \cdot \sigma_{(\text{prem,s})}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22010,11 +22014,15 @@ where:
 
 (5) The standard deviation function shall be equal to the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}(\hat{\delta}, \hat{\gamma}) = \exp \left( \hat{\gamma} + \frac{\frac{1}{2}T + \sum_{t=1}^{T} \pi_t(\hat{\delta}, \hat{\gamma}) \cdot \ln \left( \frac{y_t}{x_t} \right)}{\sum_{t=1}^{T} \pi_t(\hat{\delta}, \hat{\gamma})} \right)
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22031,11 +22039,15 @@ where:
 
 (d) _π_ _t_ denotes the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \pi_t(\hat{\delta}, \hat{\gamma}) = \frac{1}{\ln \left\{ 1 + \left( (1 - \hat{\delta}) \cdot \frac{\bar{x}}{x_t} + \hat{\delta} \right) \cdot e^{2 \cdot \hat{\gamma}} \right\}}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22060,11 +22072,15 @@ _x_ _t_
 (6) The mixing parameter and the logarithmic variation coefficient shall be the values and respectively for
 which the following amount becomes minimal:
 
+
+<image>
 <equation>
 $$
 \sum_{t=1}^{T} \pi_{t}(\hat{\delta}, \hat{\gamma})\left(\ln \left(\frac{y_{t}}{x_{t}}\right)+\frac{1}{2 \cdot \pi_{t}(\hat{\delta}, \hat{\gamma})}+\hat{\gamma}-\ln (\hat{\sigma}(\hat{\delta}, \hat{\gamma}))\right)^{2}-\sum_{t=1}^{T} \ln (\pi_{t}(\hat{\delta}, \hat{\gamma}))
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22176,11 +22192,15 @@ financial year _t_ are denoted by _x_ _t_ .
 (4) The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment _s_
 shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \sigma_{(res,s,USP)} = c \cdot \hat{\sigma}(\hat{\delta}, \hat{\gamma}) \cdot \sqrt{\frac{T+1}{T-1}} + (1-c) \cdot \sigma_{(res,s)}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22224,11 +22244,15 @@ where:
 
 (d) _π_ _t_ denotes the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \pi_t(\hat{\delta}, \hat{\gamma}) = \frac{1}{\ln\left(1+\left(\left(1-\hat{\delta}\right)\cdot\frac{\bar{x}}{x_t}+\hat{\delta}\right)\cdot e^{2\cdot\hat{\gamma}}\right)}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22375,11 +22399,15 @@ data are available;
 (4) The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment _s_
 shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \sigma_{(res,s,USP)} = c \cdot \frac{\sqrt{MSEP}}{\sum_{i=0}^{I} (\hat{C}_{(i,J)} - C_{(i,I-i)})} + (1-c) \cdot \sigma_{(res,s)}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22398,11 +22426,15 @@ accident year _i_ and development year _j_, being defined as follows:
 where for all development years denotes for development factor estimate of the specific development
 year _j_, being defined as follows:
 
+
+<image>
 <equation>
 $$
 \hat{f}_j = \frac{\sum_{i=0}^{l-j-1} C_{(i,j+1)}}{\sum_{i=0}^{l-j-1} C_{(i,j)}}
 $$
 </equation>
+</image>
+
 
 
 (d) _σ_ _(res,s)_ denotes the standard parameter for non-life reserve risk or NSLT health reserve risk of segment _s_ .
@@ -22410,11 +22442,15 @@ $$
 
 (5) The mean squared error of prediction shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 MSEP = \sum_{i=1}^{I} \hat{C}_{(i,J)}^{2} \cdot \frac{\hat{Q}_{I-i}}{C_{(i,I-i)}} + \sum_{i=1}^{I} \sum_{k=1}^{I} \hat{C}_{(i,J)} \cdot \hat{C}_{(k,J)} \cdot \left( \frac{\hat{Q}_{I-i}}{S_{I-i}} + \sum_{j=I-i+1}^{J-1} \frac{C_{(I-j,j)}}{S'_{j}} \cdot \frac{\hat{Q}_{j}}{S_{j}} \right)
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22454,11 +22490,15 @@ _C_ ð _i,j_ Þ
 
 (d) for all development years, denotes for a specific development year _j_ the following amount:
 
+
+<image>
 <equation>
 $$
 \hat{Q}_j = \frac{\hat{\sigma}_j^2}{\hat{f}_j^2}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22481,11 +22521,15 @@ $$
 $$
 </equation>
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}_{j}^{2} = \min \left\{ \hat{\sigma}_{J-2}^{2}, \hat{\sigma}_{J-3}^{2}, \frac{\hat{\sigma}_{J-2}^{4}}{\hat{\sigma}_{J-3}^{2}} \right\}
 $$
 </equation>
+</image>
+
 
 
 E. **Revision risk method**
@@ -22634,11 +22678,15 @@ independent.
 
 (7) The estimated standard deviation of the number of changes in annuity benefits shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}_{N} = \sqrt{\frac{1}{T-1} \cdot \sum_{t=1}^{T} (N_{t} - \bar{N})^{2}}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22651,11 +22699,15 @@ where:
 --- Page 280 ---
 (8) The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}_{X} = \sqrt{\frac{1}{n-1} \cdot \sum_{i,t} (D_{(i,t)} - \bar{X})^2}
 $$
 </equation>
+</image>
+
 
 
 where:

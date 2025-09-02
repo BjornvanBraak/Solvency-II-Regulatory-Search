@@ -4,27 +4,29 @@ EIOPA-BoS-14/179 EN
 
 
 Guidelines on supervisory review
+<image>
+A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
+Guidelines on supervisory review
+</image>
 
-
-
-
-
-!A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
-Guidelines on supervisory review](#)
 
 
 <image>
-![A title slide with the text "Guidelines on supervisory review process" on a light blue background.
+A title slide with the text "Guidelines on supervisory review process" on a light blue background.
 Guidelines on supervisory review
-process](#)
+process
 </image>
 
 
 
 
-![A concise summary of the image shows the word "process" in bold, black text on a light blue background.
+
+<image>
+A concise summary of the image shows the word "process" in bold, black text on a light blue background.
 
 process
+</image>
+
 
 
 

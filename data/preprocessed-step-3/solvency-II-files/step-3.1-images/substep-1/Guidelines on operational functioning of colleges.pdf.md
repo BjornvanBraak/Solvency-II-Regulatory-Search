@@ -4,22 +4,17 @@ EIOPA-BoS-14/146 EN
 
 
 Guidelines on operational functioning of
-
-
-
-
-
-!A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
-Guidelines on operational functioning of](#)
-
-
-
-
-
-![A concise summary of the word "colleges" in black bold text on a light blue background.
+<image>
+A title slide with the bold, black text "Guidelines on operational functioning of" on a light blue background.
+Guidelines on operational functioning of
+</image>
+<image>
+A concise summary of the word "colleges" in black bold text on a light blue background.
 
 -
 colleges
+</image>
+
 
 
 

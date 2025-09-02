@@ -1,24 +1,21 @@
-
 --- Page 1 ---
 EIOPA-BoS-15/109 EN
 
 
 Guidelines on reporting and public
-
-
-
-
-
-!A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
+<image>
+A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
 
 Extracted text from the image:
-Guidelines on reporting and public](#)
+Guidelines on reporting and public
+</image>
+
 
 
 <image>
-![A light blue title slide with the black text "Guidelines on reporting and public disclosure".
+A light blue title slide with the black text "Guidelines on reporting and public disclosure".
 
-Guidelines on reporting and public disclosure](#)
+Guidelines on reporting and public disclosure
 </image>
 
 
@@ -26,17 +23,17 @@ Guidelines on reporting and public disclosure](#)
 
 
 <image>
-![A close-up of the word 'disclosure' in black bold font with a subtle drop shadow, set against a light blue background.
+A close-up of the word 'disclosure' in black bold font with a subtle drop shadow, set against a light blue background.
 
 disclosure
+</image>
+
 
 
 
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
-[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu)
-</image>
- [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu) [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **1.** **Introduction**
 
@@ -1155,66 +1152,3 @@ them to the supervisory authority concerned.
 
 4 5 [https://eiopa.europa.eu/regulation-supervision/insurance/reporting-format](https://eiopa.europa.eu/regulation-supervision/insurance/reporting-format)
 --- Page 18 ---
-#### **Guideline 38– First submission of RSR**
-
-
-1.54. Insurance and reinsurance undertakings should submit the regular supervisory
-
-report for the first time in relation to their financial year ending on or after 30
-June 2016 but before 1 January 2017.
-
-
-#### **Guideline 39– Transitional information**
-
-
-1.55. Insurance and reinsurance undertakings should submit a qualitative explanation
-
-of the main differences between the figures reported in the opening valuation
-using Solvency II valuation and those calculated according to the solvency
-regime previously in place as referred to in article 314 of the Delegated
-Regulation in an electronically readable format.
-
-
-1.56. This narrative information should follow the structure of the main classes of
-
-
-assets and liabilities as defined for the Solvency II balance-sheet as specified in
-the Technical Standard on the templates for the submission of information to
-the supervisory authorities.
-
-
-**Compliance and Reporting Rules**
-
-
-1.57. This document contains Guidelines issued under Article 16 of the EIOPA
-
-
-Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
-competent authorities and financial institutions shall make every effort to
-comply with guidelines and recommendations.
-
-
-1.58. Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.59. Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.60. In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.61. The present Guidelines shall be subject to a review by EIOPA.
-
-

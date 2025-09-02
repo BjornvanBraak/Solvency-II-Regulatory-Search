@@ -4,28 +4,30 @@ EIOPA-BoS-14/178 EN
 
 
 Guidelines on undertaking-specific
+<image>
+A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
 
+Guidelines on undertaking-specific
+</image>
 
-
-
-
-!A presentation slide with the title "Guidelines on undertaking-specific" in bold black text on a light blue background.
-
-Guidelines on undertaking-specific](#)
 
 
 <image>
-![A title slide with the heading "Guidelines on undertaking-specific parameters" in bold black text on a light blue background.
+A title slide with the heading "Guidelines on undertaking-specific parameters" in bold black text on a light blue background.
 Guidelines on undertaking-specific
-parameters](#)
+parameters
 </image>
 
 
 
 
-![A concise summary of the image for retrieval: The word 'parameters' in bold black text with a drop shadow on a light blue background.
+
+<image>
+A concise summary of the image for retrieval: The word 'parameters' in bold black text with a drop shadow on a light blue background.
 
 parameters
+</image>
+
 
 
 

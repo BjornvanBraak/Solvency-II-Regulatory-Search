@@ -1,18 +1,9 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/181 EN
-
-
-
-
-
-!A title card with the text "Guidelines on group solvency" in bold black font on a light blue background.
+<image>
+A title card with the text "Guidelines on group solvency" in bold black font on a light blue background.
 Guidelines on group solvency
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
@@ -878,40 +869,3 @@ considered as non-compliant to the reporting and reported as such.
 
 1.71. The present Guidelines shall be subject to a review by EIOPA.
 --- Page 15 ---
-**Technical Annex 1**
-
-
-Calculation of the contribution of the insurance and reinsurance subsidiary to group
-solvency capital requirement (”SCR”) [Guidelines 12, 14 and 15]
-
-
-Contrj = SCRj × SCRdiversified/∑i SCRisolo
-
-
-Where:
-
-
-   SCRj is the SCR at individual entity level of the undertaking j;
-
-
-   SCRdiversified = SCR calculated in accordance to Article 336(a) of Commission
-Delegated Regulation 2015/35;
-
-
-   SCRisolo is the SCR at individual entity level of the participating undertaking
-and each related insurance or reinsurance undertaking and third-country
-insurance and reinsurance undertaking included in the calculation of the
-SCRdiversified;
-
-
-   the ratio is the proportional adjustment due to the recognition of diversification
-effects at group level.
-
-
-For undertakings included in consolidated data with proportional consolidation,
-according to Article 335(1)(c) of Commission Delegated Regulation 2015/35, only the
-proportional share of the SCR at individual entity level is included in the above
-
-calculation.
-
-

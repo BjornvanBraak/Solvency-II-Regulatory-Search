@@ -1,30 +1,31 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/179 EN
 
 
 Guidelines on supervisory review
+<image>
+A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
+Guidelines on supervisory review
+</image>
 
-
-
-
-
-!A presentation slide header with the title 'Guidelines on supervisory review' in bold black text on a light blue background.
-Guidelines on supervisory review](#)
 
 
 <image>
-![A title slide with the text "Guidelines on supervisory review process" on a light blue background.
+A title slide with the text "Guidelines on supervisory review process" on a light blue background.
 Guidelines on supervisory review
-process](#)
+process
 </image>
 
 
 
 
-![A concise summary of the image shows the word "process" in bold, black text on a light blue background.
+
+<image>
+A concise summary of the image shows the word "process" in bold, black text on a light blue background.
 
 process
+</image>
+
 
 
 
@@ -936,27 +937,3 @@ Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
 Competent Authorities and financial institutions shall make every effort to
 comply with guidelines and recommendations.
 --- Page 14 ---
-1.84. Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.85. Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.86. In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.87. These Guidelines shall be subject to a review by EIOPA.
-
-

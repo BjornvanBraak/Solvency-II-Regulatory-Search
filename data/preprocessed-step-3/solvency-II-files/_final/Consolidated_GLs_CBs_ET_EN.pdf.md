@@ -1,19 +1,9 @@
-
 --- Page 1 ---
 ## **EIOPA-BoS-14/165** **EIOPA-BoS-22/218**
 
 
 # **Guidelines on Contract** **Boundaries – Consolidated** **Version with Explanatory Text**
-
-
-
-
 --- Page 2 ---
-
-
-!
-
-
 
 **Explanatory text** :
 
@@ -60,8 +50,6 @@ a case, undertakings might still consider that these obligations related to paid
 
 belong to the contract.
 --- Page 3 ---
-
-
 4. In any case, contract boundaries only limit the premiums and obligations that belong to the
 
 contract, but do not limit the projection horizon of the cash flows steaming from these
@@ -70,7 +58,7 @@ premiums and obligations. The following example illustrates this point:
 
 5. Example: The contract covers the risk of the following year for premiums paid during the
 
-year (e.g. paid on the 31 st] of December). If an insured event occurs, the actual payments
+year (e.g. paid on the 31 [st] of December). If an insured event occurs, the actual payments
 
 (cash flows) may occur spread across three years. The undertaking has the right to amend
 
@@ -114,20 +102,17 @@ related to previous obligations should be projected beyond t+1.
 
 
 <image>
-![A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
+A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
 
-#### Guideline 1 - Consistent application of the principles
-Insurance and reinsurance undertakings should ensure that the principles for determining contract boundaries are consistently applied to all insurance and reinsurance contracts, in particular over time.](#)
+**Guideline 1 - Consistent application of the principles**
+Insurance and reinsurance undertakings should ensure that the principles for determining contract boundaries are consistently applied to all insurance and reinsurance contracts, in particular over time.
 </image>
 
 --- Page 4 ---
-
-
-
 <image>
-![A concise summary of Guideline 2, which defines the concept of a "unilateral right" for insurance and reinsurance undertakings. This guideline outlines the conditions under which the right to terminate, reject, or amend premiums and benefits in a contract is considered unilateral, meaning it cannot be restricted by the policyholder or third parties. It provides specific clarifications regarding external assessments, reputational risk, national laws, and dependency on policyholder decisions or claim events.
+A concise summary of Guideline 2, which defines the concept of a "unilateral right" for insurance and reinsurance undertakings. This guideline outlines the conditions under which the right to terminate, reject, or amend premiums and benefits in a contract is considered unilateral, meaning it cannot be restricted by the policyholder or third parties. It provides specific clarifications regarding external assessments, reputational risk, national laws, and dependency on policyholder decisions or claim events.
 
-#### Guideline 2 - Unilateral right
+**Guideline 2 - Unilateral right**
 
 Insurance and reinsurance undertakings should consider the right to terminate, reject, or amend premiums or benefits payable under an insurance or reinsurance contract as being unilateral when neither the policy holder nor any third party can restrict the exercise of that right. For the purpose of this guideline, third parties do not include supervisory authorities and governance bodies of insurance and reinsurance undertakings.
 
@@ -141,7 +126,7 @@ c) Undertakings should consider that national laws limit their unilateral right 
 
 d) Undertakings should disregard the right to unilaterally amend the premiums or the benefits payable under the contract if the premiums or benefits payable depend solely on the decisions of the policy holder or the beneficiary.
 
-e) Undertakings should disregard the right to unilaterally terminate the contract or reject premiums payable under the contract if the exercise of this right, as specified in the terms and conditions of the contract, is conditional on the occurrence of a claim event.](#)
+e) Undertakings should disregard the right to unilaterally terminate the contract or reject premiums payable under the contract if the exercise of this right, as specified in the terms and conditions of the contract, is conditional on the occurrence of a claim event.
 </image>
 
 
@@ -180,8 +165,6 @@ a body has to be considered as part of the governance of the undertaking or as t
 
 undertakings have to assess the scope of its responsibilities and the extent to which such a
 --- Page 5 ---
-
-
 body is integrated into the structure and management of the undertaking. If the result of
 
 the assessment is that the body forms part of the management of the undertaking, this type
@@ -223,10 +206,10 @@ existence of a predefined bonus/malus system.
 
 
 <image>
-![A concise summary of Guideline 3, which concerns the ability of insurance or reinsurance undertakings to compel a policyholder to pay a premium only when the payment is legally enforceable.
+A concise summary of Guideline 3, which concerns the ability of insurance or reinsurance undertakings to compel a policyholder to pay a premium only when the payment is legally enforceable.
 
-#### Guideline 3 - Ability to compel
-Insurance or reinsurance undertakings should recognise their ability to compel a policy holder to pay a premium only if the policyholder’s payment is legally enforceable.](#)
+**Guideline 3 - Ability to compel**
+Insurance or reinsurance undertakings should recognise their ability to compel a policy holder to pay a premium only if the policyholder’s payment is legally enforceable.
 </image>
 
 
@@ -240,18 +223,8 @@ where the payment of the premium is not legally effective and enforceable. For i
 the holding by the insurance undertaking of the Bank Identifier Code of policy holders is not
 a means for insurers to compel policy holders to pay the premiums in particular for
 contracts with scheduled future premiums.
-
-
-
-
-
-
-
 1 Introduction to the original Guidelines on Contract Boundaries.
 --- Page 6 ---
-
-
-!
 
 **Explanatory text**
 
@@ -286,8 +259,6 @@ preapproved by the undertaking may sometimes be considered to be part of the pay
 
 schedule.
 --- Page 7 ---
-
-
 13. There is no need to calculate policy by policy the present value of the premiums payable or
 
 benefits and expenses payable but an overall assessment on portfolio level is enough. For
@@ -306,15 +277,15 @@ circumstances and with similar consequences.
 
 
 <image>
-![A concise summary of "Guideline 5 - Contract Boundaries" for insurance and reinsurance undertakings. The guideline explains the conditions for unbundling contracts based on risk equivalence, assessment at recognition and valuation dates, and a simplified approach. It also covers the treatment of options, implications under the Solvency II Directive, and states that unbundled parts are treated as independent contracts.
+A concise summary of "Guideline 5 - Contract Boundaries" for insurance and reinsurance undertakings. The guideline explains the conditions for unbundling contracts based on risk equivalence, assessment at recognition and valuation dates, and a simplified approach. It also covers the treatment of options, implications under the Solvency II Directive, and states that unbundled parts are treated as independent contracts.
 
-#### Guideline 5 - Contract Boundaries
+**Guideline 5 - Contract Boundaries**
 Insurance and reinsurance undertakings should assess whether at recognition date it is possible to unbundle a contract and, at each valuation date, consider whether there has been any change, which would affect the previous assessment.
 Insurance and reinsurance undertakings should consider that a contract can be unbundled for the purpose of contract boundaries if and only if two (or more) parts of the contract are equivalent in terms of risk to two (or more) contracts that could be sold separately. For the purposes of this Guideline, two contracts should be considered to be equivalent in terms of risk if there are no discernible differences in the economics of the contracts regarding the insurance or financial risk borne by the undertaking.
 Notwithstanding the previous point, where all the parts of a contract have the same contract boundary, as a simplified approach undertakings may consider not to unbundle the contract for the purpose of setting contract boundaries.
 When an option or guarantee covers more than one part of the contract, insurance and reinsurance undertakings should determine whether it is possible to unbundle it or whether it should be attributed to the relevant part of the contract.
 If a contract is considered an insurance contract under Solvency II Directive, insurance and reinsurance undertakings should consider all unbundled parts of the contract to give rise to insurance or reinsurance obligations.
-If a contract is unbundled for the purposes of assessing contract boundaries, each part should be treated as an independent contract.](#)
+If a contract is unbundled for the purposes of assessing contract boundaries, each part should be treated as an independent contract.
 </image>
 
 
@@ -325,8 +296,6 @@ If a contract is unbundled for the purposes of assessing contract boundaries, ea
 
 14. Unbundling can be performed at two different levels or stages of the valuation process:
 --- Page 8 ---
-
-
 a) Unbundling for cash flow projection purposes: The first step for best estimate valuation
 
 is the projection of cash flows. Where a contract has different parts, the cash flows of
@@ -404,8 +373,6 @@ boundaries may be different for some of them. For example, for products with pro
 
 features, the cash flow projection may be done globally for several guarantees, but cash
 --- Page 9 ---
-
-
 flows are allocated at a later step (unbundled) for valuation purposes and even different
 
 contract boundaries may exist for contracts with different financial guarantees.
@@ -480,8 +447,6 @@ benefits agreed within the contract. Conversely, in case the contract can be unb
 
 both parts should be treated as independent contracts. This means that the periodical
 --- Page 10 ---
-
-
 charges should be considered to be equivalent to premiums that should be projected only
 
 within contract boundaries.
@@ -496,16 +461,11 @@ from the market value of the fund to cover the rider. In this case, if the contr
 unbundled, the periodical charges should not be considered to be equivalent to premiums
 
 so they are to be projected regardless of contract boundaries.
-
-!
 --- Page 11 ---
-
-
-
 <image>
-![A text discussing the valuation of obligations for insurance and reinsurance companies with financial guarantees. The text emphasizes considering guaranteed benefits and the time value of options and guarantees during this assessment.
+A text discussing the valuation of obligations for insurance and reinsurance companies with financial guarantees. The text emphasizes considering guaranteed benefits and the time value of options and guarantees during this assessment.
 
-calculating the value of the obligations with the financial guarantee, insurance and reinsurance undertakings should consider in the valuation any form of guaranteed benefits stemming from the financial guarantee. Proper consideration of the time value of options and guarantees is relevant for this assessment.](#)
+calculating the value of the obligations with the financial guarantee, insurance and reinsurance undertakings should consider in the valuation any form of guaranteed benefits stemming from the financial guarantee. Proper consideration of the time value of options and guarantees is relevant for this assessment.
 </image>
 
 
@@ -575,8 +535,6 @@ average features at a higher level.
 
 considerations. For example, an undertaking may determine that for a specific product in
 --- Page 12 ---
-
-
 case the stochastic value of the financial guarantee over the value of all future obligations
 
 is only 0.5%, the financial guarantee does not have a discernible effect on the economics of
@@ -623,18 +581,15 @@ assessment.
 
 
 <image>
-![A concise summary of Guideline 6B for insurance and reinsurance undertakings on identifying coverage for uncertain events. The guideline specifies that a discernible economic effect on a contract exists only if the cover is linked to future premiums and provides a discernible financial advantage to the policyholder, which is assessed by considering all potential future cash flows.
+A concise summary of Guideline 6B for insurance and reinsurance undertakings on identifying coverage for uncertain events. The guideline specifies that a discernible economic effect on a contract exists only if the cover is linked to future premiums and provides a discernible financial advantage to the policyholder, which is assessed by considering all potential future cash flows.
 
-#### Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the insured person with a discernible effect on the economics of a contract
+**Guideline 6B - Identification of a coverage for a specified uncertain event that adversely affects the insured person with a discernible effect on the economics of a contract**
 When determining whether the coverage for a specified uncertain event that adversely affects the insured person (cover) has no discernible effect on the economics of a contract, insurance and reinsurance undertakings should take into account all potential future cash flows, which may arise from the contract.
 Insurance and reinsurance undertakings should consider a cover as having a discernible effect on the economics of a contract only if the cover is linked to the payment of the future premiums and provides the policyholder with a discernible financial advantage.
-When determining whether a cover provides a discernible financial advantage, insurance and reinsurance undertakings should consider the extent to which the whole set of future cash](#)
+When determining whether a cover provides a discernible financial advantage, insurance and reinsurance undertakings should consider the extent to which the whole set of future cash
 </image>
 
 --- Page 13 ---
-
-
-!
 
 **Explanatory text**
 
@@ -681,8 +636,6 @@ case of death). For the quantitative assessment, stochastic valuation allows suc
 
 consideration.
 --- Page 14 ---
-
-
 36. The assessment, in particular where quantitative, may depend on contract-specific features
 
 (e.g. age of the policyholder). Insurance and reinsurance undertakings are not expected to
@@ -713,16 +666,9 @@ recommendations by NSAs, or in case of no recommendations, set their own ranges 
 consulting NSAs, which may be wider or narrower depending on the contract under
 
 assessment.
-
-
-
-!
 --- Page 15 ---
-
-
-
 <image>
-![A concise summary of guidelines for insurance and reinsurance undertakings regarding the reassessment of contract boundaries. It details the specific conditions for changing boundaries, reporting requirements for material impacts on solvency to supervisory authorities under Article 312(3) of the Delegated Regulation, and clarifies that reassessment is not required for calculating the best estimate or SCR under stressed scenarios.
+A concise summary of guidelines for insurance and reinsurance undertakings regarding the reassessment of contract boundaries. It details the specific conditions for changing boundaries, reporting requirements for material impacts on solvency to supervisory authorities under Article 312(3) of the Delegated Regulation, and clarifies that reassessment is not required for calculating the best estimate or SCR under stressed scenarios.
 
 Insurance and reinsurance undertakings should change contract boundaries after this reassessment only if the reassessment leads to a clearly different conclusion than the assessment performed to define the current contract boundaries.
 
@@ -730,7 +676,7 @@ When the reassessment of the discernible effect of a cover or financial guarante
 
 Otherwise, the assessment whether a cover or financial guarantee has a discernible effect on the economics of the contract should not change.
 
-Insurance and reinsurance undertakings should not reassess contract boundaries for the different scenarios used to calculate the best estimate using simulation methods nor for the stressed scenarios used to calculate the SCR.](#)
+Insurance and reinsurance undertakings should not reassess contract boundaries for the different scenarios used to calculate the best estimate using simulation methods nor for the stressed scenarios used to calculate the SCR.
 </image>
 
 
@@ -767,8 +713,6 @@ necessarily mean that any change in the risk-free rate term structure beyond the
 
 rate stress in the Standard Formula should be considered to be extreme.
 --- Page 16 ---
-
-
 41. To determine whether the change in the risk-free rate is extreme or not, undertakings may
 
 use simplified indicators as long as they suit the nature and risk of the relevant obligations.
@@ -845,8 +789,6 @@ boundaries do not reflect losses for the undertaking but only changes in the sco
 
 valuation of best estimate, so they should not be considered.
 --- Page 17 ---
-
-
 46. Similarly, while performing stochastic valuation, some scenarios considered within the
 
 valuation process could trigger a reassessment of contract boundaries. This should not be
@@ -865,11 +807,11 @@ consistent with the contract boundaries determined at the valuation date.
 
 
 <image>
-![A concise summary of Guideline 7 on the estimation of obligations for insurance and reinsurance undertakings. It advises on estimating contract boundaries using available information when full details are lacking at recognition, and revising the assessment as more information becomes available.
+A concise summary of Guideline 7 on the estimation of obligations for insurance and reinsurance undertakings. It advises on estimating contract boundaries using available information when full details are lacking at recognition, and revising the assessment as more information becomes available.
 
-#### Guideline 7 - Estimation of obligations
+**Guideline 7 - Estimation of obligations**
 Insurance or reinsurance undertakings should, where details of a contract or the full extent of the obligations covered by a contract are not available to the undertaking at the time of recognition of the contract, estimate the boundaries of the contracts using all available information in a manner consistent with the principles set out in these Guidelines.
-Undertakings should revise this estimated assessment as soon as more detailed information is available.](#)
+Undertakings should revise this estimated assessment as soon as more detailed information is available.
 </image>
 
 
@@ -913,56 +855,3 @@ contracts or underlying exposure is unknown at the time of signing for contracts
 
 voyages undertaken in a certain time period) one would not expect this to lead to a change
 --- Page 18 ---
-
-
-in the contract boundary. If, however, this analysis leads to a change in contract boundary,
-
-the contract boundary would be updated.
-
-
-
-![A concise summary of Guideline 8 on reinsurance contracts, which states that insurance and reinsurance undertakings must apply the provisions of Article 18 of Commission Delegated Regulation 2015/35 to their accepted reinsurance contracts, independently from the underlying insurance contracts.
-
-#### Guideline 8 - Reinsurance contracts
-Insurance and reinsurance undertakings should, for their accepted reinsurance contracts, apply the provisions of Article 18 of Commission Delegated Regulation 2015/35 independently from the boundaries of the underlying insurance or reinsurance contracts to which they relate.
-
-
-
-**Explanatory text**
-
-
-51. The boundary of a reinsurance contract may be different in the Solvency II balance sheet of
-the buyer of the reinsurance when compared to the Solvency II balance sheet of the seller
-
-of the reinsurance.
-
-
-**Compliance and Reporting Rules**
-
-
-52. This document contains guidelines issued under Article 16 of Regulation (EU) No. In accordance with Article 16(3) of that Regulation, competent authorities and
-financial institutions are required to make every effort to comply with guidelines and
-
-recommendations.
-
-
-53. Competent authorities that comply or intend to comply with these Guidelines should
-incorporate them into their regulatory or supervisory framework in an appropriate manner.
-
-
-54. Competent authorities are to confirm to EIOPA whether they comply or intend to comply
-with these Guidelines, with reasons for non-compliance, within two months after the
-
-issuance of the translated versions.
-
-
-55. In the absence of a response by this deadline, competent authorities will be considered as
-non-compliant to the reporting and reported as such.
-
-
-**Final provision on review**
-
-
-56. These Guidelines will be subject to a review by EIOPA.
-
-

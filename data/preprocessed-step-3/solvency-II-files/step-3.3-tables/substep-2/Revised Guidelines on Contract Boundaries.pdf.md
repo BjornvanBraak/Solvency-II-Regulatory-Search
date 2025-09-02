@@ -1,13 +1,6 @@
-
 --- Page 1 ---
 # **Revised Guidelines on Contract** **Boundaries**
-
-
-
-
 --- Page 2 ---
-
-
 #### _Guideline 0 - Contract Boundaries (New Guideline)_
 
 
@@ -85,8 +78,6 @@ should be treated as an independent contract.
 
 _Guideline)_
 --- Page 3 ---
-
-
 #### _Guideline 6A - Identification of a financial guarantee of benefits with a discernible effect on the_
 _economics of a contract (New Guideline)_
 
@@ -169,8 +160,6 @@ _insured person with a discernible effect on the economics of a contract (New Gu
 
 affects the insured person (cover) has no discernible effect on the economics of a
 --- Page 4 ---
-
-
 contract, insurance and reinsurance undertakings should take into account all potential
 
 future cash flows, which may arise from the contract.
@@ -255,82 +244,3 @@ extreme. For this purpose, the changes on the relevant risk-free interest rate t
 
 structure used to calculate the best estimate as referred to in Article 77(2) of the Solvency
 --- Page 5 ---
-
-
-II Directive that are less extreme than the interest rate stress of the Standard Formula
-
-should not be considered to be extreme.
-
-
-20. Insurance and reinsurance undertakings should change contract boundaries after this
-
-
-reassessment only if the reassessment leads to a clearly different conclusion than the
-
-
-assessment performed to define the current contract boundaries.
-
-
-21. When the reassessment of the discernible effect of a cover or financial guarantee led to a
-
-
-change in contract boundaries resulting on a material impact on the valuation of technical
-
-provisions and the solvency of the undertaking, insurance and reinsurance undertakings
-
-should immediately report this change to the supervisory authority. In addition, insurance
-
-and reinsurance undertakings should consider this as a material change as referred to in
-
-Article 312(3) of the Delegated Regulation and include it in the annual report mentioned
-
-in that Article, including a detailed description of the reassessment and its impact on the
-
-solvency position of the undertaking.
-
-
-22. Otherwise, the assessment whether a cover or financial guarantee has a discernible effect
-
-
-on the economics of the contract should not change.
-
-
-23. Insurance and reinsurance undertakings should not reassess contract boundaries for the
-
-
-different scenarios used to calculate the best estimate using simulation methods nor for
-
-the stressed scenarios used to calculate the SCR.
-
-
-Compliance and Reporting Rules
-
-
-24. This document contains guidelines issued under Article 16 of Regulation (EU) No
-. In accordance with Article 16(3) of that Regulation, competent authorities and
-financial institutions are required to make every effort to comply with guidelines and
-
-recommendations.
-
-25. Competent authorities that comply or intend to comply with these Guidelines should
-
-incorporate them into their regulatory or supervisory framework in an appropriate
-
-manner.
-
-26. Competent authorities are to confirm to EIOPA whether they comply or intend to comply
-
-with these Guidelines, with reasons for non-compliance, within two months after the
-
-issuance of the translated versions.
-
-27. In the absence of a response by this deadline, competent authorities will be considered as
-
-non-compliant to the reporting and reported as such.
-
-Final provision on review
-
-
-28. These Guidelines will be subject to a review by EIOPA.
-
-

@@ -1,4 +1,3 @@
-
 --- Page 5 ---
 THE EUROPEAN COMMISSION
 
@@ -2587,28 +2586,14 @@ and premiums relating to the events referred to in paragraph 3.
 1. The risk margin for the whole portfolio of insurance and reinsurance obligations shall be calculated using the
 following formula:
 
-
-
-_RM_ ¼ _CoC_ �
-X
-
-_t_ �0
-
+<equation>
+$$
+\text{RM} = \text{CoC} \cdot \sum_{t \ge 0} \frac{\text{SCR}(t)}{(1 + r(t+1))^{t+1}}
+$$
+</equation>
 
 where:
-
-
-
-_SCR_ ð _t_ Þ
-ð1 þ _r_ ð _t_ þ 1ÞÞ
-
-
-
-_t_ þ1
-
-
-
-(a) _CoC_ denotes the Cost-of-Capital rate;
+(a)(a) _CoC_ denotes the Cost-of-Capital rate;
 
 
 (b) the sum covers all integers including zero;
@@ -3068,14 +3053,14 @@ undertakings and other investments packaged as funds shall be treated as investm
 For each currency and each country the spread referred to in Article 77d(2) and (4) of Directive 2009/138/EC shall be
 equal to the following:
 
-
-_S_ ¼ _w_ _gov_ � maxð _S_ _gov_,0Þ þ _w_ _corp_ � maxð _S_ _corp_,0Þ
-
+<equation>
+$$
+S = w_{\text{gov}} \cdot \max(S_{\text{gov}}, 0) + w_{\text{corp}} \cdot \max(S_{\text{corp}}, 0)
+$$
+</equation>
 
 where:
-
-
-(a) _w_ _gov_ denotes the ratio of the value of government bonds included in the reference portfolio of assets for that
+(a)(a) _w_ _gov_ denotes the ratio of the value of government bonds included in the reference portfolio of assets for that
 currency or country and the value of all the assets included in that reference portfolio;
 
 
@@ -3393,16 +3378,14 @@ Without prejudice to Article 56 of this Regulation, insurance and reinsurance un
 for expected losses due to default of the counterparty, referred to in Article 81 of Directive 2009/138/EC, for a specific
 counterparty and homogeneous risk group to be equal as follows:
 
-
-_PD_
-_Adj_ _CD_ ¼ − maxð0,5 �
-1 − _PD_ [�] _[Dur]_ [mod] [ �] _[BE]_ _[rec]_ [; 0][Þ]
-
+<equation>
+$$
+\text{Adj}_{\text{CD}} = - \max(0,5 \cdot \frac{\text{PD}}{1 - \text{PD}} \cdot \text{Dur}_{\text{mod}} \cdot \text{BE}_{\text{rec}}, 0)
+$$
+</equation>
 
 where:
-
-
-(a) _PD_ denotes the probability of default of that counterparty during the following 12 months;
+(a)(a) _PD_ denotes the probability of default of that counterparty during the following 12 months;
 
 
 (b) _Dur_ _mod_ denotes the modified duration of the amounts recoverable from reinsurance contracts with that counterparty
@@ -4702,46 +4685,14 @@ or special purpose vehicle.
 The Basic Solvency Capital Requirement shall include a risk module for intangible asset risk. and shall be equal to the
 following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f**
-_BasicSCR_ ¼ X _Corr_ _i,j_ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-X _Corr_ _i,j_ � _SCR_ _i_ � _SCR_ _j_ þ _SCR_ int _angibles_
-
-_i,j_
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ _i,j_ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i,j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{BasicSCR} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \cdot \text{SCR}_i \cdot \text{SCR}_j} + \text{SCR}_{\text{intangibles}}
+$$
+</equation>
 
 where:
-
-
-(a) the summation, _Corr_ _i,j_, _SCR_ _i_ and _SCR_ _j_ are specified as set out in point (1) of Annex IV to Directive 2009/138/EC;
+(a)(a) the summation, _Corr_ _i,j_, _SCR_ _i_ and _SCR_ _j_ are specified as set out in point (1) of Annex IV to Directive 2009/138/EC;
 
 
 (b) _SCR_ _intangibles_ denotes the capital requirement for intangible asset risk referred to in Article 203.
@@ -4819,54 +4770,11 @@ or captive reinsurance undertaking do not relate to any compulsory third party l
 1. Where Articles 88 and 89 are complied with, captive insurance and captive reinsurance undertakings may
 calculate the capital requirement for non-life premium and reserve risk as follows:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffi
-
-2
-
-_SCR_ _nl prem res_ ¼ q0,65 � X _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X _s_ _[NL]_ [ð] _[pr,s]_ [Þ] [Þ]
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-2
-q0,65 � X _s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X _s_ _[NL]_ [ð] _[pr,s]_ [Þ] [Þ],
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_s_ _[NL]_ [2] ð _pr,s_ Þ [þ][ 0,35][ �ð] X
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_s_ _[NL]_ [ð] _[pr,s]_ [Þ] [Þ]
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
+<equation>
+$$
+\text{SCR}_{\text{nl prem res}} = \sqrt{0,65 \cdot \sum_{s} \text{NL}_{(\text{pr},s)}^{2} + 0,35 \cdot \left(\sum_{s} \text{NL}_{(\text{pr},s)}\right)^{2}}
+$$
+</equation>
 
 
 where the _s_ covers all segments set out in Annex II.
@@ -4875,14 +4783,14 @@ where the _s_ covers all segments set out in Annex II.
 2. For the purposes of paragraph 1, the capital requirement for non-life premium and reserve risk of a particular
 segment _s_ set out in Annex II shall be equal to the following:
 
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** **f** i ffi
-_NL_ _pr,s_ ¼ 0,6 � q _V_ [2] ð _prem,s_ Þ [þ] _[ V]_ [ð] _[prem,s]_ [Þ] [ �] _[V]_ [ð] _[res,s]_ [Þ] [ þ] _[ V]_ [2] ð _res,s_ Þ
-
+<equation>
+$$
+\text{NL}_{\text{pr},s} = 0,6 \cdot \sqrt{V_{(\text{prem},s)}^{2} + V_{(\text{prem},s)} \cdot V_{(\text{res},s)} + V_{(\text{res},s)}^{2}}
+$$
+</equation>
 
 where:
-
-
-(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ calculated in accordance with paragraph 3 of
+(a)(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ calculated in accordance with paragraph 3 of
 Article 116;
 
 
@@ -4899,52 +4807,14 @@ Article 116.
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for life
 mortality risk as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{mortality}} = 0,15 \cdot \text{CAR} \cdot q \cdot \sum_{k=1}^{n-0,5} \left(\frac{1-q}{1-i_k}\right)^k
+$$
+</equation>
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_n_ − 0,5
-_SCR_ _mortality_ ¼ 0,15 � _CAR_ � _q_ � X
-
-_k_ ¼1 − 0,5
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-~~ð~~ [1 − ] _[q]_
-1 − _i_ _k_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-~~Þ~~ _k_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-where, with respect to insurance and reinsurance policies with a positive capital at risk:
-
-
-(a) _CAR_ denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
+where:
+(a)(a) _CAR_ denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
 between the following amounts:
 
 
@@ -4983,14 +4853,14 @@ the sum insured;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for life
 longevity risk calculated as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{longevity}} = 0,2 \cdot q \cdot n \cdot 1,1^{(n-1)/2} \cdot \text{BE}_{\text{long}}
+$$
+</equation>
 
-_SCR_ _longevity_ ¼ 0,2 � _q_ � _n_ � 1,1 [ð] _[n]_ [ − 1][Þ] _[=]_ [2] � _BE_ _long_
-
-
-where, with respect to the policies referred to in Article 138(2):
-
-
-(a) _q_ denotes the expected average mortality rate of the insured persons during the following 12 months weighted by
+where:
+(a)(a) _q_ denotes the expected average mortality rate of the insured persons during the following 12 months weighted by
 the sum insured;
 
 
@@ -5009,28 +4879,14 @@ the sum insured;
 Where 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for life
 disability-morbidity risk as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{disability-morbidity}} = \left\{ \begin{array}{l} 0,35 \cdot \text{CAR}_1 \cdot d_1 \\ + 0,25 \cdot 1,1^{(n-3)/2} \cdot (n-1) \cdot \text{CAR}_2 \cdot d_2 \\ + 0,2 \cdot 1,1^{(n-1)/2} \cdot t \cdot n \cdot \text{BE}_{\text{dis}} \end{array} \right.
+$$
+</equation>
 
-
-8
-<
-
-:
-
-
-
-0,35 · _CAR_ 1                   - _d_ 1
-_SCR_ _disability-morbidity_ = < + 0,25 · 1,1 _[(n – 3)/2 ]_ - ( _n_ – 1) · _CAR_ 2 - _d_ 2
-
-
-
-+ 0,2 · 1,1 _[(n –1)/2 ]_ - _t_ - _n_ - _BE_ _dis_
-
-
-
-where with respect to insurance and reinsurance policies with a positive capital at risk:
-
-
-(a) _CAR_ _1_ denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
+where:
+(a)(a) _CAR_ _1_ denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
 between the following amounts:
 
 
@@ -5080,26 +4936,14 @@ by the sum insured;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 life-expense risk as follows:
 
-
-
-1
-_SCR_ exp _enses_ ¼ 0,1 � _EI_ � _n_ þ _EI_ �ð ~~ð~~ _i_ þ 0,01 ~~[Þ]~~ [ �ðð][1][ þ] _[ i]_ [ þ][ 0,01][Þ]
-
+<equation>
+$$
+\text{SCR}_{\text{expenses}} = 0,1 \cdot \text{EI} \cdot n + \text{EI} \cdot \left(\left(\frac{1}{i + 0,01}\right) \cdot \left((1 + i + 0,01)^n - 1\right) - \frac{1}{i}\left((1 + i)^n - 1\right)\right)
+$$
+</equation>
 
 where:
-
-
-
-_n_ 1
-− 1Þ − _i_ [ðð][1][ þ] _[ i]_ [Þ]
-
-
-
-_n_ − 1ÞÞ
-
-
-
-(a) _EI_ denotes the amount of expenses incurred in servicing life insurance or reinsurance obligations other than health
+(a)(a) _EI_ denotes the amount of expenses incurred in servicing life insurance or reinsurance obligations other than health
 insurance and reinsurance obligations during the last year;
 
 
@@ -5120,14 +4964,14 @@ servicing existing life obligations.
 1. Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement
 for the risk of a permanent increase in lapse rates as follows:
 
-
-_Lapse_ _up_ ¼ 0,5 � _l_ _up_ � _n_ _up_ � _S_ _up_
-
+<equation>
+$$
+\text{Lapse}_{\text{up}} = 0,5 \cdot l_{\text{up}} \cdot n_{\text{up}} \cdot S_{\text{up}}
+$$
+</equation>
 
 where:
-
-
-(a) _l_ _up_ denotes the higher of the average lapse rate of the policies with positive surrender strains and 67 %;
+(a)(a) _l_ _up_ denotes the higher of the average lapse rate of the policies with positive surrender strains and 67 %;
 
 
 (b) _n_ _up_ denotes the average period in years over which the policies with a positive surrender strains run off;
@@ -5139,14 +4983,14 @@ where:
 2. Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement
 for the risk of a permanent decrease in lapse rates as follows:
 
-
-_Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
-
+<equation>
+$$
+\text{Lapse}_{\text{down}} = 0,5 \cdot l_{\text{down}} \cdot n_{\text{down}} \cdot S_{\text{down}}
+$$
+</equation>
 
 where:
-
-
-(a) _l_ _down_ denotes the higher of the average lapse rate of the policies with negative surrender strains and 40 %;
+(a)(a) _l_ _down_ denotes the higher of the average lapse rate of the policies with negative surrender strains and 40 %;
 
 
 (b) _n_ _down_ denotes the average period in years over which the policies with a negative surrender strains runs off;
@@ -5174,22 +5018,14 @@ amounts recoverable from policy holders or intermediaries;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 life-catastrophe risk calculated as follows:
 
-
-
-_SCR_ _life-catastrophe_ ¼ X
-
-_i_
-
+<equation>
+$$
+\text{SCR}_{\text{life-catastrophe}} = \sum_{i} 0,0015 \cdot \text{CAR}_{i}
+$$
+</equation>
 
 where:
-
-
-
-0,0015 � _CAR_ _i_
-
-
-
-(a) the sum includes all policies with a positive capital at risk;
+(a)(a) the sum includes all policies with a positive capital at risk;
 
 
 (b) _CAR_ _i_ denotes the capital at risk of the policy _i_, meaning the higher of zero and the difference between the following
@@ -5222,28 +5058,14 @@ contracts and special purpose vehicles.
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 health mortality risk as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{health-mortality}} = 0,15 \cdot \text{CAR} \cdot q \cdot \sum_{k=1-0,5}^{n-0,5} \left( \frac{1-q}{1+i_{k}} \right)^{k}
+$$
+</equation>
 
-
-_n_ − 0,5
-_SCR_ _health-mortality_ ¼ 0,15 � _CAR_ � _q_ � X
-
-_k_ ¼1 − 0,5
-
-
-
-~~ð~~ [1 − ] _[q]_
-1 þ _i_ _k_
-
-
-
-~~Þ~~ _k_
-
-
-
-where with respect to insurance and reinsurance policies with a positive capital at risk:
-
-
-(a) _CAR_ denotes the total capital at risk, meaning the sum, in relation to each contract, of the higher of zero and the
+where:
+(a)(a) _CAR_ denotes the total capital at risk, meaning the sum, in relation to each contract, of the higher of zero and the
 difference between the following amounts:
 
 
@@ -5282,14 +5104,14 @@ sum insured;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 health longevity risk as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{health-longevity}} = 0,2 \cdot q \cdot n \cdot 1,1^{(n-1)/2} \cdot \text{BE}_{\text{long}}
+$$
+</equation>
 
-_SCR_ _health-longevity_ ¼ 0,2 � _q_ � _n_ � 1,1 [ð] _[n]_ [ − 1][Þ] _[=]_ [2] � _BE_ _long_
-
-
-where, with respect to the policies referred to in Article 138(2):
-
-
-(a) _q_ denotes the expected average mortality rate of the insured persons during the following 12 months weighted by
+where:
+(a)(a) _q_ denotes the expected average mortality rate of the insured persons during the following 12 months weighted by
 the sum insured;
 
 
@@ -5308,22 +5130,14 @@ the sum insured;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 medical expense disability-morbidity risk as follows:
 
-
-
-1 _n_ 1
-_SCR_ _medical_ exp _ense_ ¼ 0,05 � _MP_ � _n_ þ _MP_ �ðð − 1Þ −
-_i_ þ 0,01 ~~[Þ]~~ [ðð][1][ þ] _[ i]_ [ þ][ 0,01][Þ] _i_ [ðð][1][ þ] _[ i]_ [Þ]
-
+<equation>
+$$
+\text{SCR}_{\text{medicalexpense}} = 0,05 \cdot \text{MP} \cdot n + \text{MP} \times ((\frac{1}{i+0,01})((1+i+0,01)^n - 1) - \frac{1}{i}((1+i)^n - 1))
+$$
+</equation>
 
 where:
-
-
-
-_n_ − 1ÞÞ
-
-
-
-(a) _MP_ denotes the amount of medical payments during the last year on medical expense insurance or reinsurance
+(a)(a) _MP_ denotes the amount of medical payments during the last year on medical expense insurance or reinsurance
 obligations during the last year;
 
 
@@ -5344,28 +5158,14 @@ best estimate of those obligations.
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 income protection disability-morbidity risk as follows:
 
+<equation>
+$$
+\text{SCR}_{\text{income-protection-disability-morbidity}} = \left\{ \begin{array}{l} 0,35 \cdot \text{CAR}_1 \cdot d_1 \\ + \ 0,25 \cdot 1,1^{(n-3)/2} \cdot (n-1) \cdot \text{CAR}_2 \cdot d_2 \\ + \ 0,2 \cdot 1,1^{(n-1)/2} \cdot t \cdot n \cdot \text{BE}_{\text{dis}} \end{array} \right.
+$$
+</equation>
 
-
-8
-<
-
-:
-
-
-
-0,35 · _CAR_ 1                         - _d_ 1
-_SCR_ _income-protection-disability-morbidity_ = < + 0,25 · 1,1 _[(n – 3)/2 ]_ - ( _n_ – 1) · _CAR_ 2 - _d_ 2
-
-
-
-+ 0,2 · 1,1 _[(n –1)/2 ]_ - _t_ - _n_ - _BE_ _dis_
-
-
-
-where with respect to insurance and reinsurance policies with a positive capital at risk:
-
-
-(a) _CAR_ 1 denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
+where:
+(a)(a) _CAR_ 1 denotes the total capital at risk, meaning the sum over all contracts of the higher of zero and the difference
 between the following amounts:
 
 
@@ -5414,50 +5214,23 @@ by the sum insured;
 Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement for
 health expense risk as follows:
 
-
-
-1
-_SCR_ _health_ -exp _ense_ ¼ 0,1 � _EI_ � _n_ þ _EI_ �ð ~~ð~~ _i_ þ 0,01 ~~[Þ]~~ [ �ðð][1][ þ] _[ i]_ [ þ][ 0,01][Þ]
-
-
-where:
-
-
-
-_n_ 1 _n_
-− 1Þ − _i_ [ðð][1][ þ] _[ i]_ [Þ] − 1ÞÞ
-
-
-
-(1) _EI_ denotes the amount of expenses incurred in servicing health insurance and reinsurance obligations during the
-last year;
-
-
-(2) _n_ denotes the modified duration in years of the cash flows included in the best estimate of those obligations;
-
-
-(3) _i_ denotes the weighted average inflation rate included in the calculation of the best estimate of these obligations,
-weighted by the present value of expenses included in the calculation of the best estimate for servicing existing
-health obligations.
-
-
-##### Article 102
-
-
-**Simplified calculation of the capital requirement for SLT health lapse risk**
-
-
-1. Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement
-for the risk of a permanent increase in lapse rates referred to in Article 159(1)(a) as follows:
-
-
-_Lapse_ _up_ ¼ 0,5 � _l_ _up_ � _n_ _up_ � _S_ _up_
-
+<equation>
+$$
+\text{SCR}_{\text{health-expense}} = 0,1 \cdot EI \cdot n + EI \cdot \left(\left(\frac{1}{i + 0,01}\right) \cdot \left((1 + i + 0,01)^n - 1\right) - \frac{1}{i}\left((1 + i)^n - 1\right)\right)
+$$
+</equation>
 
 where:
+(a)(a) as follows:
 
+<equation>
+$$
+\text{Lapse}_{\text{up}} = 0,5 \cdot l_{\text{up}} \cdot n_{\text{up}} \cdot S_{\text{up}}
+$$
+</equation>
 
-(a) _l_ _up_ denotes the higher of the average lapse rate of the policies with positive surrender strains and 83 %;
+where:
+(a)(a) _l_ _up_ denotes the higher of the average lapse rate of the policies with positive surrender strains and 83 %;
 
 
 (b) _n_ _up_ denotes the average period in years over which the policies with a positive surrender strains run off;
@@ -5469,14 +5242,14 @@ where:
 2. Where Article 88 is complied with, insurance and reinsurance undertakings may calculate the capital requirement
 for the risk of a permanent decrease in lapse rates referred to in 159(1)(b) as follows:
 
-
-_Lapse_ _down_ ¼ 0,5 � _l_ _down_ � _n_ _down_ � _S_ _down_
-
+<equation>
+$$
+\text{Lapse}_{\text{down}} = 0,5 \cdot l_{\text{down}} \cdot n_{\text{down}} \cdot S_{\text{down}}
+$$
+</equation>
 
 where:
-
-
-(a) _l_ _down_ denotes the average lapse rate of the policies with negative surrender strains;
+(a)(a) _l_ _down_ denotes the average lapse rate of the policies with negative surrender strains;
 
 
 (b) _n_ _down_ denotes the average period in years over which the policies with a negative surrender strains runs off;
@@ -5517,28 +5290,14 @@ rates as set out in paragraph 3 of this Article.
 2. For the purposes of point (a) of paragraph 1 of this Article, the capital requirement for the risk of an increase in
 the term structure of interest rates for a given currency shall be equal to the following:
 
-
-
-_IR_ _up_ ¼ X
-
-_i_
-
+<equation>
+$$
+\text{IR}_{\text{up}} = \sum_{i} \text{MVAL}_{i} \cdot \text{dur}_{i} \cdot \text{rate}_{i} \cdot \text{stress}_{(i, \text{up})} - \sum_{\text{lob}} \text{BE}_{\text{lob}} \cdot \text{dur}_{\text{lob}} \cdot \text{rate}_{\text{lob}} \cdot \text{stress}_{(\text{lob}, \text{up})}
+$$
+</equation>
 
 where:
-
-
-
-_MVAL_ _i_ � _dur_ _i_ � _rate_ _i_ � _stress_ ð _i,up_ Þ − X
-
-_lob_
-
-
-
-_BE_ _lob_ � _dur_ _lob_ � _rate_ _lob_ � _stress_ ð _lob,up_ Þ
-
-
-
-(a) the first sum covers all maturity intervals _i_ set out in paragraph 4 of this Article;
+(a)(a) the first sum covers all maturity intervals _i_ set out in paragraph 4 of this Article;
 
 
 (b) _MVAL_ _i_ denotes the value in accordance with Article 75 of Directive 2009/138/EC of assets less liabilities other than
@@ -5572,28 +5331,14 @@ technical provisions for maturity interval _i_ ;
 3. For the purposes of point (b) of paragraph 1 of this Article, the capital requirement for the risk of a decrease in
 the term structure of interest rates for a given currency shall be equal to the following:
 
-
-
-_IR_ _down_ ¼ X
-
-_i_
-
+<equation>
+$$
+\text{IR}_{\text{down}} = \sum_{i} \text{MVAL}_{i} \cdot \text{dur}_{i} \cdot \text{rate}_{i} \cdot \text{stress}_{(i, \text{down})} - \sum_{\text{lob}} \text{BE}_{\text{lob}} \cdot \text{dur}_{\text{lob}} \cdot \text{rate}_{\text{lob}} \cdot \text{stress}_{(\text{lob}, \text{down})}
+$$
+</equation>
 
 where:
-
-
-
-_MVAL_ _i_ � _dur_ _i_ � _rate_ _i_ � _stress_ ð _i,down_ Þ − X
-
-_lob_
-
-
-
-_BE_ _lob_ � _dur_ _lob_ � _rate_ _lob_ � _stress_ ð _lob,down_ Þ
-
-
-
-(a) the first sum covers all maturity intervals _i_ set out in paragraph 4;
+(a)(a) the first sum covers all maturity intervals _i_ set out in paragraph 4;
 
 
 (b) _MVAL_ _i_ denotes the value in accordance with Article 75 of Directive 2009/138/EC of assets less liabilities other than
@@ -5763,13 +5508,14 @@ that have been assigned to the credit quality step 2.
 1. Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the risk-mitigating effect
 on underwriting risk of a reinsurance arrangement or securitisation referred to in Article 196 as follows:
 
-_RM_ _re,all_ � _Recoverables_ _[Recoverables]_ _all_ _[i]_
+<equation>
+$$
+\text{RM}_{\text{re,all}} \cdot \frac{\text{Recoverables}_i}{\text{Recoverables}_{\text{all}}}
+$$
+</equation>
 
-
-where
-
-
-(a) _RM_ _re,all_ denotes the risk mitigating effect on underwriting risk of the reinsurance arrangements and securitisations for
+where:
+(a)(a) _RM_ _re,all_ denotes the risk mitigating effect on underwriting risk of the reinsurance arrangements and securitisations for
 all counterparties calculated in accordance with paragraph 2;
 
 
@@ -5798,14 +5544,14 @@ reinsurance arrangements and securitisations exist;
 Where Article 88 is complied with, insurance or reinsurance undertakings may calculate the risk-mitigating effect on
 underwriting risk _j_ of a proportional reinsurance arrangement for counterparty _i_ referred to Article 196 as follows:
 
+<equation>
+$$
+\frac{\text{Recoverables}_i}{\text{BE} - \text{Recoverables}_{\text{all}}} \cdot \text{SCR}_j
+$$
+</equation>
 
 
-Recov _erables_ _i_
-_BE_ − Recov _erables_ _all_
-
-
-
-� _SCR_ _j_
+where
 --- Page 71 ---
 where
 
@@ -5836,10 +5582,11 @@ for the purposes of Articles 193, 194 and 195:
 
 (a) The best estimate referred to in Article 194(1)(d) may be calculated as follows:
 
-
-
-_BE_ _C_ ¼ _P_ _[P]_ _U_ _[C]_ � _BE_ _U_
-
+<equation>
+$$
+BE_C = \frac{P_C}{P_U} \cdot BE_U
+$$
+</equation>
 
 
 where _BE_ _U_ denotes the best estimate of the liability ceded to the pooling arrangement by the undertaking to the
@@ -5848,10 +5595,11 @@ pooling arrangement, net of any amounts reinsured with counterparties external t
 
 (b) The best estimate referred to in Article 195(c) may be calculated as follows:
 
-
-
-_BE_ _CE_ ¼ _P_ [1] _U_ � _BE_ _CEP_
-
+<equation>
+$$
+BE_{CE} = \frac{1}{P_U} \cdot BE_{CEP}
+$$
+</equation>
 
 
 where _BE_ _CEP_ denotes the best estimate of the liability ceded to the external counterparty by the pool, in relation to
@@ -5860,12 +5608,11 @@ risk ceded to the pool by the undertaking.
 
 (c) The risk mitigating effect referred to in Article 195(d) may be calculated as follows:
 
-
-
-Δ _RM_ _CE_ ¼ ~~P~~ _BEBE_ _CECE_
-
-
-_CE_
+<equation>
+$$
+\Delta RM_{CE} = \frac{BE_{CE}}{\sum_{CE} BE_{CE}} \cdot \Delta RM_{CEP}
+$$
+</equation>
 
 
 where:
@@ -5991,32 +5738,14 @@ Directive 2009/138/EC;
 
 2. The capital requirement for non-life underwriting risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
+<equation>
+$$
+\text{SCR}_{\text{non-life}} = \sqrt{\sum_{i,j} \text{CorrNL}_{(i,j)} \cdot \text{SCR}_i \cdot \text{SCR}_j}
+$$
+</equation>
 
 
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i **f**
-_SCR_ _non-life_ ¼ X _CorrNL_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_CorrNL_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i,j_
+where
 --- Page 73 ---
 where:
 
@@ -6058,14 +5787,14 @@ the following correlation matrix:
 
 The capital requirement for non-life premium and reserve risk shall be equal to the following:
 
-
-_SCR_ _nl prem res_ ¼ 3 � _σ_ _nl_ � _V_ _nl_
-
+<equation>
+$$
+\text{SCR}_{\text{nl prem res}} = 3 \cdot \sigma_{nl} \cdot V_{nl}
+$$
+</equation>
 
 where:
-
-
-(a) _σ_ _nl_ denotes the standard deviation for non-life premium and reserve risk determined in accordance with Article 117;
+(a)(a) _σ_ _nl_ denotes the standard deviation for non-life premium and reserve risk determined in accordance with Article 117;
 
 
 (b) _V_ _nl_ denotes the volume measure for non-life premium and reserve risk determined in accordance with Article 116.
@@ -6083,14 +5812,14 @@ premium and reserve risk of the segments set out in Annex II.
 
 2. For all segments set out in Annex II, the volume measure of a particular segment _s_ shall be equal to the following:
 
-
-_V_ _s_ ¼ ð _V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ Þ �ð0,75 þ 0,25 � _DIV_ _s_ Þ
-
+<equation>
+$$
+V_s = (V_{(\text{prem},s)} + V_{(\text{res},s)}) \cdot (0,75 + 0,25 \cdot \text{DIV}_s)
+$$
+</equation>
 
 where:
-
-
-(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ ;
+(a)(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ ;
 
 
 (b) _V_ _(res,s)_ denotes the volume measure for reserve risk of segment _s_ ;
@@ -6102,14 +5831,14 @@ where:
 3. For all segments set out in Annex II, the volume measure for premium risk of a particular segment _s_ shall be equal
 to the following:
 
-
-_V_ ð _prem,s_ Þ ¼ max _P_ � _s_ ; _P_ ð _last,s_ Þ � þ _FP_ ð _existing,s_ Þ þ _FP_ ð _future,s_ Þ
-
+<equation>
+$$
+V_{(\text{prem},s)} = \max[P_s; P_{(\text{last},s)}] + \text{FP}_{(\text{existing},s)} + \text{FP}_{(\text{future},s)}
+$$
+</equation>
 
 where:
-
-
-(a) _P_ _s_ denotes an estimate of the premiums to be earned by the insurance or reinsurance undertaking in the segment s
+(a)(a) _P_ _s_ denotes an estimate of the premiums to be earned by the insurance or reinsurance undertaking in the segment s
 during the following 12 months;
 
 
@@ -6236,40 +5965,14 @@ respectively.
 2. For all segments set out in Annex II, the standard deviation for non-life premium and reserve risk of a particular
 segment _s_ shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_σ_ _s_ ¼
-
+<equation>
+$$
+\sigma_s = \sqrt{\frac{\sigma^2_{(\text{prem},s)} \cdot V^2_{(\text{prem},s)} + \sigma_{(\text{prem},s)} \cdot V_{(\text{prem},s)} \cdot \sigma_{(\text{res},s)} \cdot V_{(\text{res},s)} + \sigma^2_{(\text{res},s)} \cdot V^2_{(\text{res},s)}}{V_{(\text{prem},s)} + V_{(\text{res},s)}}}
+$$
+</equation>
 
 where:
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-q _σ_ [2] ð _prem,s_ Þ [�] _[V]_ [2] ð _prem,s_ Þ [þ] _[ σ]_ [ð] _[prem,s]_ [Þ] [ �] _[V]_ [ð] _[prem,s]_ [Þ] [ �] _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s]_ [Þ] [ þ] _[ σ]_ [2] ð _res,s_ Þ [�] _[V]_ [2] ð _res,s_ Þ
-
-_V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-(a) _σ_ _(prem,s)_ denotes the standard deviation for non-life premium risk of segment _s_ determined in accordance with
+(a)(a) _σ_ _(prem,s)_ denotes the standard deviation for non-life premium risk of segment _s_ determined in accordance with
 paragraph 3;
 
 
@@ -6342,46 +6045,14 @@ which most negatively affects the basic own funds of the undertaking on a per po
 
 2. The capital requirement for the non-life catastrophe underwriting risk module shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _nlCAT_ ¼ qð _SCR_ _natCAT_ þ _SCR_ _npproperty_ Þ 2 þ _SCR_ 2 _mmCAT_ [þ] _[ SCR]_ [2] _CATother_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-q
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-2 þ _SCR_ 2 _mmCAT_ [þ] _[ SCR]_ [2] _CATother_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{nlCAT}} = \sqrt{(\text{SCR}_{\text{natCAT}} + \text{SCR}_{\text{npproperty}})^2 + \text{SCR}^2_{\text{mmCAT}} + \text{SCR}^2_{\text{CATother}}}
+$$
+</equation>
 
 where:
-
-
-(a) _SCR_ _natCAT_ denotes the capital requirement for natural catastrophe risk;
+(a)(a) _SCR_ _natCAT_ denotes the capital requirement for natural catastrophe risk;
 
 
 (b) _SCR_ _npproperty_ denotes the capital requirement for the catastrophe risk of non-proportional property reinsurance;
@@ -6418,48 +6089,14 @@ where:
 
 2. The capital requirement for natural catastrophe risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i **f**
-_SCR_ _natCAT_ ¼ X _SCR_ [2] _i_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f**
-X _SCR_ [2] _i_
-
-r _i_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{natCAT}} = \sqrt{\sum_{i} \text{SCR}_{i}^{2}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations of the sub-modules _i_ set out in paragraph 1;
+(a)(a) the sum includes all possible combinations of the sub-modules _i_ set out in paragraph 1;
 
 
 (b) _SCR_ _i_ denotes the capital requirement for sub-module _i_ .
@@ -6473,56 +6110,14 @@ where:
 
 1. The capital requirement for windstorm risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffi
-_SCR_ _windstorm_ ¼ ðX _CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � _SCR_ ð _windstorm,s_ Þ Þ þ _SCR_ [2] ð _windstorm,other_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_CorrWS_ ð _r,s_ Þ � _SCR_ ð _windstorm,r_ Þ � _SCR_ ð _windstorm,s_ Þ Þ þ _SCR_ [2] ð _windstorm,other_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _r,s_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{windstorm}} = \sqrt{\left(\sum_{(r,s)} \text{CorrWS}_{(r,s)} \cdot \text{SCR}_{(\text{windstorm},r)} \cdot \text{SCR}_{(\text{windstorm},s)}\right) + \text{SCR}^2_{(\text{windstorm,other})}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex V;
+(a)(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex V;
 
 
 (b) _CorrWS_ _(r,s)_ denotes the correlation coefficient for windstorm risk for region _r_ and region _s_ as set out in Annex V;
@@ -6572,43 +6167,14 @@ purpose vehicles, is equal to 20 % of the specified windstorm loss in region _r_
 5. For all regions set out in Annex V, the specified windstorm loss in a particular region _r_ shall be equal to the
 following amount:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_L_ ð _windstorm,r_ Þ ¼ _Q_ ð _windstorm,r_ Þ � X _Corr_ ð _windstorm,r,i,j_ Þ � _WSI_ ð _windstorm,r,i_ Þ � _WSI_ ð _windstorm,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _windstorm,r,i,j_ Þ � _WSI_ ð _windstorm,r,i_ Þ � _WSI_ ð _windstorm,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _i,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+L_{(\text{windstorm},r)} = Q_{(\text{windstorm},r)} \cdot \sqrt{\sum_{(i,j)} \text{Corr}_{(\text{windstorm},r,i,j)} \cdot \text{WSI}_{(\text{windstorm},r,i)} \cdot \text{WSI}_{(\text{windstorm},r,j)}}
+$$
+</equation>
 
 where:
-
-
-(a) _Q_ _(windstorm,r)_ denotes the windstorm risk factor for region _r_ as set out in Annex V;
+(a)(a) _Q_ _(windstorm,r)_ denotes the windstorm risk factor for region _r_ as set out in Annex V;
 
 
 (b) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of region _r_ set out in Annex IX;
@@ -6625,14 +6191,14 @@ set out in Annex IX.
 6. For all regions set out in Annex V and all risk zones of those regions set out in Annex IX the weighted sum
 insured for windstorm risk in a particular windstorm zone _i_ of a particular region _r_ shall be equal to the following:
 
-
-_WSI_ ð _windstorm,r,i_ Þ ¼ _W_ ð _windstorm,r,i_ Þ � _SI_ ð _windstorm,r,i_ Þ
-
+<equation>
+$$
+\text{WSI}_{(\text{windstorm},r,i)} = W_{(\text{windstorm},r,i)} \cdot \text{SI}_{(\text{windstorm},r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _W_ _(windstorm,r,i)_ denotes the risk weight for windstorm risk in risk zone _i_ of region _r_ set out in Annex X;
+(a)(a) _W_ _(windstorm,r,i)_ denotes the risk weight for windstorm risk in risk zone _i_ of region _r_ set out in Annex X;
 
 
 (b) _SI_ _(windstorm,r,i)_ denotes the sum insured for windstorm risk in windstorm zone _i_ of region _r_ .
@@ -6641,14 +6207,14 @@ where:
 7. For all regions set out in Annex V and all risk zones of those regions set out in Annex IX, the sum insured for
 windstorm risk in a particular windstorm zone _i_ of a particular region _r_ shall be equal to the following:
 
-
-_SI_ ð _windstorm,r,i_ Þ ¼ _SI_ ð _property,r,i_ Þ þ _SI_ ð _onshore property,r,i_ Þ
-
+<equation>
+$$
+\text{SI}_{(\text{windstorm},r,i)} = \text{SI}_{(\text{property},r,i)} + \text{SI}_{(\text{onshore-property},r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _SI_ _(property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 7 and 19 set out
+(a)(a) _SI_ _(property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 7 and 19 set out
 in Annex I in relation to contracts that cover windstorm risk and where the risk is situated in risk zone _i_ of region _r_ ;
 
 
@@ -6674,8 +6240,14 @@ and where the risk is not situated in one of the regions set out in Annex XIII.
 9. The amount of the instantaneous loss, without deduction of the amounts recoverable from reinsurance contracts
 and special purpose vehicles, referred to in paragraph 8 shall be equal to the following amount:
 
+<equation>
+$$
+L_{(\text{windstorm,other})} = 1.75 \cdot (0.5 \cdot \text{DIV}_{\text{windstorm}} + 0.5) \cdot P_{\text{windstorm}}
+$$
+</equation>
 
-_L_ ð _windstorm,other_ Þ ¼ 1,75 �ð0,5 � _DIV_ _windstorm_ þ 0,5Þ � _P_ _windstorm_
+
+where
 --- Page 78 ---
 where:
 
@@ -6697,56 +6269,14 @@ shall be gross, without deduction of premiums for reinsurance contracts.
 
 1. The capital requirement for earthquake risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i **f**
-_SCR_ _earthquake_ ¼ ðX _CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ � _SCR_ ð _earthquake,s_ Þ Þ þ _SCR_ [2] ð _earthquake,other_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_CorrEQ_ ð _r,s_ Þ � _SCR_ ð _earthquake,r_ Þ � _SCR_ ð _earthquake,s_ Þ Þ þ _SCR_ [2] ð _earthquake,other_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _r,s_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{earthquake}} = \sqrt{\left(\sum_{(r,s)} \text{CorrEQ}_{(r,s)} \cdot \text{SCR}_{(\text{earthquake},r)} \cdot \text{SCR}_{(\text{earthquake},s)}\right) + \text{SCR}^2_{(\text{earthquake,other})}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VI;
+(a)(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VI;
 
 
 (b) _CorrEQ_ _(r,s)_ denotes the correlation coefficient for earthquake risk for region _r_ and region _s_ as set out in Annex VI;
@@ -6763,57 +6293,14 @@ equal to the loss in basic own funds of insurance and reinsurance undertakings t
 loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special purpose
 vehicles, is equal to the following amount:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** iffi
-_L_ ð _earthquake,r_ Þ ¼ _Q_ ð _earthquake,r_ Þ � X _Corr_ ð _earthquake,r,i,j_ Þ � _WSI_ ð _earthquake,r,i_ Þ � _WSI_ ð _earthquake,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _earthquake,r,i,j_ Þ � _WSI_ ð _earthquake,r,i_ Þ � _WSI_ ð _earthquake,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _i,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+L_{(\text{earthquake},r)} = Q_{(\text{earthquake},r)} \cdot \sqrt{\sum_{(i,j)} \text{Corr}_{(\text{earthquake},r,i,j)} \cdot \text{WSI}_{(\text{earthquake},r,i)} \cdot \text{WSI}_{(\text{earthquake},r,j)}}
+$$
+</equation>
 
 where:
-
-
-(a) _Q_ _(earthquake,r)_ denotes the earthquake risk factor for region _r_ as set out in Annex VI;
+(a)(a) _Q_ _(earthquake,r)_ denotes the earthquake risk factor for region _r_ as set out in Annex VI;
 
 
 (b) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of region _r_ set out in Annex IX;
@@ -6830,14 +6317,14 @@ set out in Annex IX.
 3. For all regions set out in Annex VI and all risk zones of those regions set out in Annex IX, the weighted sum
 insured for earthquake risk in a particular earthquake zone _i_ of a particular region _r_ shall be equal to the following:
 
-
-_WSI_ ð _earthquake,r,i_ Þ ¼ _W_ ð _earthquake,r,i_ Þ � _SI_ ð _earthquake,r,i_ Þ
-
+<equation>
+$$
+\text{WSI}_{(\text{earthquake},r,i)} = W_{(\text{earthquake},r,i)} \cdot \text{SI}_{(\text{earthquake}, r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _W_ _(earthquake,r,i)_ denotes the risk weight for earthquake risk in risk zone _i_ of region _r_ set out in Annex X;
+(a)(a) _W_ _(earthquake,r,i)_ denotes the risk weight for earthquake risk in risk zone _i_ of region _r_ set out in Annex X;
 
 
 (b) _SI_ _(earthquake,r,i)_ denotes the sum insured for earthquake risk in earthquake zone _i_ of region _r_ .
@@ -6846,14 +6333,14 @@ where:
 4. For all regions set out in Annex VI and all risk zones of those regions set out in Annex IX, the sum insured for
 earthquake risk in a particular earthquake zone _i_ of a particular region _r_ shall be equal to the following:
 
-
-_SI_ ð _earthquake,r,i_ Þ ¼ _SI_ ð _property,r,i_ Þ þ _SI_ ð _onshore-property,r,i_ Þ
-
+<equation>
+$$
+\text{SI}_{(\text{earthquake},r,i)} = \text{SI}_{(\text{property},r,i)} + \text{SI}_{(\text{onshore-property},r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _SI_ _(property,r,i)_ denotes the sum insured of the insurance or reinsurance undertaking for lines of business 7 and 19 as set
+(a)(a) _SI_ _(property,r,i)_ denotes the sum insured of the insurance or reinsurance undertaking for lines of business 7 and 19 as set
 out in Annex I in relation to contracts that cover earthquake risk and where the risk is situated in risk zone _i_ of
 region _r_ ;
 
@@ -6879,14 +6366,14 @@ where the risk is not situated in one of the regions set out in Annex XIII.
 6. The amount of the instantaneous loss, without deduction of the amounts recoverable from reinsurance contracts
 and special purpose vehicles, referred to in paragraph 5 shall be equal to the following amount:
 
-
-_L_ ð _earthquake,other_ Þ ¼ 1,2 �ð0,5 � _DIV_ _earthquake_ þ 0,5Þ � _P_ _earthquake_
-
+<equation>
+$$
+L_{(\text{earthquake,other})} = 1,2 \cdot (0,5 \cdot \text{DIV}_{\text{earthquake}} + 0,5 \cdot P_{\text{earthquake}})
+$$
+</equation>
 
 where:
-
-
-(a) _DIV_ _earthquake_ is calculated in accordance with Annex III, but based on the premiums in relation to the obligations
+(a)(a) _DIV_ _earthquake_ is calculated in accordance with Annex III, but based on the premiums in relation to the obligations
 referred to in points (a) and (b) of paragraph 5 and restricted to the regions 5 to 18 set out in Annex III;
 
 
@@ -6903,41 +6390,14 @@ purpose premiums shall be gross, without deduction of premiums for reinsurance c
 
 1. The capital requirement for flood risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _flood_ ¼ ðX _CorrFL_ ð _r,s_ Þ � _SCR_ ð _flood,r_ Þ � _SCR_ ð _flood,s_ Þ Þ þ _SCR_ [2] ð _flood,other_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_CorrFL_ ð _r,s_ Þ � _SCR_ ð _flood,r_ Þ � _SCR_ ð _flood,s_ Þ Þ þ _SCR_ [2] ð _flood,other_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _r,s_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{flood}} = \sqrt{\sum_{(r,s)} \text{CorrFL}_{(r,s)} \cdot \text{SCR}_{(\text{flood},r)} \cdot \text{SCR}_{(\text{flood},s)} + \text{SCR}^2_{(\text{flood,other})}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VII;
+(a)(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VII;
 
 
 (b) _CorrFL_ _(r,s)_ denotes the correlation coefficient for flood risk for region _r_ and region _s_ as set out in Annex VII;
@@ -7118,56 +6578,14 @@ purpose, premiums shall be gross, without deduction of premiums for reinsurance 
 
 1. The capital requirement for hail risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffiffi
-_SCR_ _hail_ ¼ ðX _CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SCR_ [2] ð _hail,other_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-_CorrHL_ ð _r,s_ Þ � _SCR_ ð _hail,r_ Þ � _SCR_ ð _hail,s_ Þ Þ þ _SCR_ [2] ð _hail,other_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _r,s_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{hail}} = \sqrt{\left(\sum_{(r,s)} \text{CorrHL}_{(r,s)} \cdot \text{SCR}_{(\text{hail},r)} \cdot \text{SCR}_{(\text{hail},s)}\right) + \text{SCR}^2_{(\text{hail,other})}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VIII;
+(a)(a) the sum includes all possible combinations ( _r_, _s_ ) of the regions set out in Annex VIII;
 
 
 (b) _CorrHL_ _(r,s)_ denotes the correlation coefficient for hail risk for region _r_ and region _s_ as set out in Annex VIII;
@@ -7216,60 +6634,16 @@ purpose vehicles, is equal to 20 % of the specified hail loss in region _r_ .
 
 
 5. For all regions set out in Annex VIII, the specified hail loss in a particular region _r_ shall be equal to the following
-amount:
 
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffi
-_L_ ð _hail,r_ Þ ¼ _Q_ ð _hail,r_ Þ � X _Corr_ ð _hail,r,i,j_ Þ � _WSI_ ð _hail,r,i_ Þ � _WSI_ ð _hail,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _hail,r,i,j_ Þ � _WSI_ ð _hail,r,i_ Þ � _WSI_ ð _hail,r,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _i,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+L_{(\text{hail},r)} = Q_{(\text{hail},r)} \cdot \sqrt{\sum_{(i,j)} \text{Corr}_{(\text{hail},r,i,j)} \cdot \text{WSI}_{(\text{hail},r,i)} \cdot \text{WSI}_{(\text{hail},r,j)}}
+$$
+</equation>
 
 where:
-
-
-(a) _Q_ _(hail,r)_ denotes the hail risk factor for region _r_ as set out in Annex VIII;
+(a)(a) _Q_ _(hail,r)_ denotes the hail risk factor for region _r_ as set out in Annex VIII;
 
 
 (b) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of region _r_ set out in Annex IX;
@@ -7285,14 +6659,14 @@ Annex IX.
 6. For all regions set out in Annex VIII and all risk zones of those regions set out in Annex IX, the weighted sum
 insured for hail risk in a particular hail zone _i_ of a particular region _r_ shall be equal to the following:
 
-
-_WSI_ ð _hail,r,i_ Þ ¼ _W_ ð _hail,r,i_ Þ � _SI_ ð _hail,r,i_ Þ
-
+<equation>
+$$
+\text{WSI}_{(\text{hail},r,i)} = W_{(\text{hail},r,i)} \cdot \text{SI}_{(\text{hail},r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _W_ _(hail,r,i)_ denotes the risk weight for hail risk in risk zone _i_ of region _r_ set out in Annex X;
+(a)(a) _W_ _(hail,r,i)_ denotes the risk weight for hail risk in risk zone _i_ of region _r_ set out in Annex X;
 
 
 (b) _SI_ _(hail,r,i)_ denotes the sum insured for hail risk in hail zone _i_ of region _r_ .
@@ -7300,14 +6674,14 @@ where:
 7. For all regions set out in Annex VIII and all hail zones, the sum insured for hail risk in a particular hail zone _i_ of a
 particular region _r_ shall be equal to the following:
 
-
-_SI_ ð _hail,r,i_ Þ ¼ _SI_ ð _property,r,i_ Þ þ _SI_ ð _onshore-property,r,i_ Þ þ 5 � _SI_ ð _motor,r,t_ Þ
-
+<equation>
+$$
+\text{SI}_{(\text{hail},r,i)} = \text{SI}_{(\text{property},r,i)} + \text{SI}_{(\text{onshore-property},r,i)} + 5 \cdot \text{SI}_{(\text{motor},r,i)}
+$$
+</equation>
 
 where:
-
-
-(a) _SI_ _(property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 7 and 19 as set
+(a)(a) _SI_ _(property,r,i)_ denotes the sum insured by the insurance or reinsurance undertaking for lines of business 7 and 19 as set
 out in Annex I in relation to contracts that cover hail risk, where the risk is situated in risk zone _i_ of region _r_ ;
 
 
@@ -7341,14 +6715,14 @@ one of the regions set out in Annex XIII.
 9. The amount of the instantaneous loss, without deduction of the amounts recoverable from reinsurance contracts
 and special purpose vehicles, referred to in paragraph 8 shall be equal to the following amount:
 
-
-_L_ ð _hail,other_ Þ ¼ 0,3 �ð0,5 � _DIV_ _hail_ þ 0,5Þ � _P_ _hail_
-
+<equation>
+$$
+L_{(\text{hail,other})} = 0,3 \cdot (0,5 \cdot \text{DIV}_{\text{hail}} + 0,5) \cdot P_{\text{hail}}
+$$
+</equation>
 
 where:
-
-
-(a) _DIV_ _hail_ is calculated in accordance with Annex III, but based on the premiums in relation to the obligations referred
+(a)(a) _DIV_ _hail_ is calculated in accordance with Annex III, but based on the premiums in relation to the obligations referred
 to in points (a), (b) and (c) of paragraph 8 and restricted to the regions 5 to 18 set out in Annex III;
 
 
@@ -7367,43 +6741,14 @@ purpose premiums shall be gross, without deduction of premiums for reinsurance c
 reinsurance undertakings that would result from an instantaneous loss of an amount that, without deduction of the
 amounts recoverable from reinsurance contracts and special purpose vehicles, is equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_L_ _subsidence_ ¼ 0,0005 � X _Corr_ ð _subsidence,i,j_ Þ � _WSI_ ð _subsidence,i_ Þ � _WSI_ ð _subsidence,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _subsidence,i,j_ Þ � _WSI_ ð _subsidence,i_ Þ � _WSI_ ð _subsidence,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _i,j_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+L_{\text{subsidence}} = 0,0005 \cdot \sqrt{\sum_{(i,j)} \text{Corr}_{(\text{subsidence},i,j)} \cdot \text{WSI}_{(\text{subsidence},i)} \cdot \text{WSI}_{(\text{subsidence},j)}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of France set out in Annex IX;
+(a)(a) the sum includes all possible combinations of risk zones ( _i_, _j_ ) of France set out in Annex IX;
 
 
 (b) _Corr_ _(subsidence,i,j)_ denotes the correlation coefficient for subsidence risk in risk zones _i_ and _j_ set out in Annex XXVI;
@@ -7415,14 +6760,14 @@ out in Annex IX.
 2. For all subsidence zones the weighted sum insured for subsidence risk in a particular risk zone _i_ of France set out
 in the Annex IX shall be equal to the following:
 
-
-_WSI_ ð _subsidence,i_ Þ ¼ _W_ ð _subsidence,i_ Þ � _SI_ ð _subsidence,i_ Þ
-
+<equation>
+$$
+\text{WSI}_{(\text{subsidence},i)} = W_{(\text{subsidence},i)} \cdot \text{SI}_{(\text{subsidence},i)}
+$$
+</equation>
 
 where:
-
-
-(a) _W_ _(subsidence,i)_ denotes the risk weight for subsidence risk in risk zone _i_ set out in Annex X;
+(a)(a) _W_ _(subsidence,i)_ denotes the risk weight for subsidence risk in risk zone _i_ set out in Annex X;
 
 
 (b) _SI_ _(subsidence,i)_ denotes the sum insured of the insurance or reinsurance undertaking for lines of business 7 and 19 as set
@@ -7468,14 +6813,14 @@ in Annex I.
 2. The amount of the instantaneous loss, without deduction of the amounts recoverable from reinsurance contracts
 and special purpose vehicles, referred to in paragraph 1 shall be equal to the following:
 
-
-_L_ _npproperty_ ¼ 2,5 �ð0,5 � _DIV_ _npproperty_ þ 0,5Þ � _P_ _npproperty_
-
+<equation>
+$$
+L_{\text{npproperty}} = 2,5 \cdot (0,5 \cdot \text{DIV}_{\text{npproperty}} + 0,5) \cdot P_{\text{npproperty}}
+$$
+</equation>
 
 where:
-
-
-(a) _DIV_ _npproperty_ is calculated in accordance with Annex III, but based on the premiums earned by the insurance and
+(a)(a) _DIV_ _npproperty_ is calculated in accordance with Annex III, but based on the premiums earned by the insurance and
 reinsurance undertaking in line of business 28 as set out in Annex I, other than non-proportional reinsurance
 obligations relating to insurance obligations included in lines of business 9 and 21 as set out in Annex I;
 
@@ -7742,57 +7087,14 @@ contracts.
 
 1. The capital requirement for liability risk shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _liability_ ¼ X _Corr_ ð _liability,i,j_ Þ � _SCR_ ð _liability,i_ Þ � _SCR_ ð _liability,j_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _liability,i,j_ Þ � _SCR_ ð _liability,i_ Þ � _SCR_ ð _liability,j_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-ð _i,j_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{liability}} = \sqrt{\sum_{(i,j)} \text{Corr}_{(\text{liability},i,j)} \cdot \text{SCR}_{(\text{liability},i)} \cdot \text{SCR}_{(\text{liability},j)}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all possible combinations of liability risk groups ( _i_, _j_ ) as set out in Annex XI;
+(a)(a) the sum includes all possible combinations of liability risk groups ( _i_, _j_ ) as set out in Annex XI;
 
 
 (b) _Corr_ _(liability,i,j)_ denotes the correlation coefficient for liability risk of liability risk groups _i_ and _j_ as set out in Annex XI;
@@ -7806,14 +7108,14 @@ group _i_ shall be equal to the loss in basic own funds of insurance and reinsur
 an instantaneous loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and
 special purpose vehicles, is equal to the following:
 
-
-_L_ ð _liability,i_ Þ ¼ _f_ ð _liability,i_ Þ � _P_ ð _liability,i_ Þ
-
+<equation>
+$$
+L_{(\text{liability},i)} = f_{(\text{liability},i)} \cdot P_{(\text{liability},i)}
+$$
+</equation>
 
 where:
-
-
-(a) _f_ _(liability,i)_ denotes the risk factor for liability risk group _i_ as set out in Annex XI;
+(a)(a) _f_ _(liability,i)_ denotes the risk factor for liability risk group _i_ as set out in Annex XI;
 
 
 (b) _P_ _(liability,i)_ denotes the premiums earned by the insurance or reinsurance undertaking during the following 12 months
@@ -7832,10 +7134,11 @@ group _i_ ;
 
 (b) the number of claims _n_ _i_ is equal to the lowest integer that exceeds the following amount:
 
-
-_f_ ð _liability,i_ Þ � _P_ ð _liability,i_ Þ
-
-1,15 � _Lim_ ð _i,_ 1Þ
+<equation>
+$$
+\frac{f_{(\text{liability},i)} \cdot P_{(\text{liability},i)}}{1,15 \cdot \text{Lim}_{(i,1)}}
+$$
+</equation>
 
 
 where:
@@ -7860,14 +7163,14 @@ claims _n_ _i_ is equal to one.
 
 1. The capital requirement for credit and suretyship risk shall be equal to the following:
 
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f**
-_SCR_ _credit_ ¼ q _SCR_ [2] _default_ [þ] _[ SCR]_ [2] _recession_
-
+<equation>
+$$
+\text{SCR}_{\text{credit}} = \sqrt{\text{SCR}_{\text{default}}^2 + \text{SCR}_{\text{recession}}^2}
+$$
+</equation>
 
 where:
-
-
-(a) _SCR_ _default_ is the capital requirement for the risk of a large credit default;
+(a)(a) _SCR_ _default_ is the capital requirement for the risk of a large credit default;
 
 
 (b) _SCR_ _recession_ is the capital requirement for recession risk.
@@ -8043,6 +7346,8 @@ _CorrNL_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
 
 
 _i,j_
+
+where
 --- Page 88 ---
 where:
 
@@ -8362,33 +7667,14 @@ _**Health underwriting risk module**_
 
 2. The capital requirement for health underwriting risk shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i **f**
-_SCR_ _health_ ¼ X _CorrH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
+<equation>
+$$
+\text{SCR}_{\text{health}} = \sqrt{\sum_{i,j} \text{CorrH}_{(i,j)} \cdot \text{SCR}_i \cdot \text{SCR}_j}
+$$
+</equation>
 
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_CorrH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i,j_
+where
 --- Page 92 ---
 where:
 
@@ -8460,14 +7746,14 @@ business 29, 33 and 35 as set out in Annex I;
 
 2. The capital requirement for NSLT health underwriting risk shall be equal to the following:
 
-f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** **f**
-_SCR_ _NSLTh_ ¼ q _SCR_ [2] ð _NSLTh,pr_ Þ [þ] _[ SCR]_ [2] ð _NSLTh,lapse_ Þ
-
+<equation>
+$$
+\text{SCR}_{\text{NSLTh}} = \sqrt{\text{SCR}^2_{(\text{NSLTh,pr})} + \text{SCR}^2_{(\text{NSLTh,lapse})}}
+$$
+</equation>
 
 where:
-
-
-(a) _SCR_ _(NSLTh,pr)_ denotes the capital requirement for NSLT health premium and reserve risk;
+(a)(a) _SCR_ _(NSLTh,pr)_ denotes the capital requirement for NSLT health premium and reserve risk;
 
 
 (b) _SCR_ _(NSLTh,lapse)_ denotes the capital requirement for NSLT health lapse risk.
@@ -8481,14 +7767,14 @@ where:
 
 The capital requirement for NSLT health premium and reserve risk shall be equal to the following:
 
-
-_SCR_ ð _NSLT,pr_ Þ ¼ 3 � _σ_ _NSLTh_ � _V_ _NSLTh_
-
+<equation>
+$$
+\text{SCR}_{(\text{NSLT,pr})} = 3 \cdot \sigma_{\text{NSLTh}} \cdot V_{\text{NSLTh}}
+$$
+</equation>
 
 where:
-
-
-(a) _σ_ _NSLTh_ denotes the standard deviation for NSLT health premium and reserve risk determined in accordance with
+(a)(a) _σ_ _NSLTh_ denotes the standard deviation for NSLT health premium and reserve risk determined in accordance with
 Article 148;
 
 
@@ -8508,14 +7794,14 @@ for premium and reserve risk of the segments set out in Annex XIV.
 2. For all segments set out in Annex XIV, the volume measure of a particular segment _s_ shall be equal to the
 following:
 
-
-_V_ _s_ ¼ ð _V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ Þ �ð0,75 þ 0,25 � _DIV_ _s_ Þ
-
+<equation>
+$$
+V_{s} = (V_{(\text{prem},s)} + V_{(\text{res},s)}) \cdot (0,75 + 0,25 \cdot \text{DIV}_{s})
+$$
+</equation>
 
 where:
-
-
-(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ ;
+(a)(a) _V_ _(prem,s)_ denotes the volume measure for premium risk of segment _s_ ;
 
 
 (b) _V_ _(res,s)_ denotes the volume measure for reserve risk of segment _s_ ;
@@ -8527,14 +7813,14 @@ where:
 3. For all segments set out in Annex XIV, the volume measure for premium risk of a particular segment _s_ shall be
 equal to the following:
 
-
-_V_ ð _prem,s_ Þ ¼ maxð _P_ _s_ ; _P_ ð _last,s_ Þ Þ þ _FP_ ð _existing,s_ Þ þ _FP_ ð _future,s_ Þ
-
+<equation>
+$$
+V_{(\text{prem},s)} = \max(P_{s}; P_{(\text{last},s)}) + \text{FP}_{(\text{existing},s)} + \text{FP}_{(\text{future},s)}
+$$
+</equation>
 
 where:
-
-
-(a) _P_ _s_ denotes an estimate of the premiums to be earned by the insurance or reinsurance undertaking in the segment _s_
+(a)(a) _P_ _s_ denotes an estimate of the premiums to be earned by the insurance or reinsurance undertaking in the segment _s_
 during the following 12 months;
 
 
@@ -8555,8 +7841,11 @@ premiums to be earned during the 12 months after the initial recognition date.
 calculation set out in paragraph 3, choose to calculate the volume measure for premium risk of a particular segment _s_ in
 accordance with the following formula:
 
-
-_V_ ð _prem,s_ Þ ¼ _P_ _s_ þ _FP_ ð _existing,s_ Þ þ _FP_ ð _future,s_ Þ
+<equation>
+$$
+V_{(\text{prem},s)} = P_{s} + \text{FP}_{(\text{existing},s)} + \text{FP}_{(\text{future},s)}
+$$
+</equation>
 
 
 provided that all of the following conditions are met:
@@ -8605,60 +7894,14 @@ or calculated in accordance with Annex III.
 
 1. The standard deviation for NSLT health premium and reserve risk shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-1
-_σ_ _NSLTh_ ¼
-_V_ _NSLTh_
-
+<equation>
+$$
+\sigma_{\text{NSLTh}} = \frac{1}{V_{\text{NSLTh}}} \cdot \sqrt{\sum_{s,t} \text{CorrHS}_{(s,t)} \cdot \sigma_s \cdot V_s \cdot \sigma_t \cdot V_t}
+$$
+</equation>
 
 where:
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** iffi
-� X _CorrHS_ ð _s,t_ Þ � _σ_ _s_ � _V_ _s_ � _σ_ _t_ � _V_ _t_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-X _CorrHS_ ð _s,t_ Þ � _σ_ _s_ � _V_ _s_ � _σ_ _t_ � _V_ _t_
-
-r _s,t_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_s,t_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-(a) _V_ _NSLTh_ denotes the volume measure for NSLT health premium and reserve risk;
+(a)(a) _V_ _NSLTh_ denotes the volume measure for NSLT health premium and reserve risk;
 
 
 (b) the sum covers all possible combinations ( _s_, _t_ ) of the segments set out in Annex XIV;
@@ -8678,41 +7921,14 @@ respectively.
 2. For all segments set out in Annex XIV, the standard deviation for NSLT health premium and reserve risk of a
 particular segment _s_ shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_σ_ _s_ ¼
-
+<equation>
+$$
+\sigma_s = \frac{\sqrt{\sigma^2_{(\text{prem},s)} \cdot V^2_{(\text{prem},s)} + \sigma_{(\text{prem},s)} \cdot V_{(\text{prem},s)} \cdot \sigma_{(\text{res},s)} \cdot V_{(\text{res},s)} + \sigma^2_{(\text{res},s)} \cdot V^2_{(\text{res},s)}}}{V_{(\text{prem},s)} + V_{(\text{res},s)}}
+$$
+</equation>
 
 where:
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i fi f **f** **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-q _σ_ [2] ð _prem,s_ Þ [�] _[V]_ [2] ð _prem,s_ Þ [þ] _[ σ]_ [ð] _[prem,s]_ [Þ] [ �] _[V]_ [ð] _[prem,s]_ [Þ] [ �] _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s]_ [Þ] [ þ] _[ σ]_ [2] ð _res,s_ Þ [�] _[V]_ [2] ð _res,s_ Þ
-
-_V_ ð _prem,s_ Þ þ _V_ ð _res,s_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-(a) _σ_ _(prem,s)_ denotes the standard deviation for NSLT health premium risk of segment _s_ determined in accordance with
+(a)(a) _σ_ _(prem,s)_ denotes the standard deviation for NSLT health premium risk of segment _s_ determined in accordance with
 paragraph 3;
 
 
@@ -8831,14 +8047,14 @@ Where only a part of an insurance undertaking's business in a segment _s_ is sub
 use a standard deviation for NSLT health premium risk of the segment in the calculation of the standard deviation for
 NSLT health premium and reserve risk referred to in Article 148(1) that is equal to the following:
 
-
-_σ′_ ð _prem,s_ Þ ¼ _[σ]_ [ð] _[p][rem,s]_ [Þ] [ �] _[V]_ [ð] _V_ _[p][rem,s,nHRES]_ ð _prem,s,nHRES_ [Þ] [ þ] Þ þ _[ σ]_ [ð] _V_ _[p][rem,s,HRES]_ ð _prem,s,HRES_ [Þ] [ �] Þ _[V]_ [ð] _[p][rem,s,HRES]_ [Þ]
-
+<equation>
+$$
+\sigma'_{(\text{prem},s)} = \frac{\sigma_{(\text{prem},s)} \cdot V_{(\text{prem},s,nHRES)} + \sigma_{(\text{prem},s,HRES)} \cdot V_{(\text{prem},s,HRES)}}{V_{(\text{prem},s,nHRES)} + V_{(\text{prem},s,HRES)}}
+$$
+</equation>
 
 where:
-
-
-(a) _σ_ _(prem,s)_ denotes the standard deviation for NSLT health premium risk segment _s_ set out in Annex XIV;
+(a)(a) _σ_ _(prem,s)_ denotes the standard deviation for NSLT health premium risk segment _s_ set out in Annex XIV;
 
 
 (b) _V_ _(prem,s,nHRES)_ denotes the volume measure for NSLT health premium risk of the business in segment _s_ that is not
@@ -8870,16 +8086,14 @@ Where only a part of an insurance undertaking's business in a segment _s_ is sub
 use a standard deviation for NSLT health premium risk of the segment in the calculation of the standard deviation for
 NSLT health premium and reserve risk referred to in Article 148(1) that is equal to the following:
 
-
-_σ′_ ð _res,s_ Þ ¼ _[σ]_ [ð] _[res,s]_ [Þ] [ �] _[V]_ [ð] _[res,s,nHRES]_ [Þ] [ þ] _[ σ]_ [ð] _[res,s,HRES]_ [Þ] [ �] _[V]_ [ð] _[res,s,HRES]_ [Þ]
-
-_V_ ð _res,s,nHRES_ Þ þ _V_ ð _res,s,HRES_ Þ
-
+<equation>
+$$
+\sigma'_{(\text{res},s)} = \frac{\sigma_{(\text{res},s)} \cdot V_{(\text{res},s,nHRES)} + \sigma_{(\text{res},s,HRES)} \cdot V_{(\text{res},s,HRES)}}{V_{(\text{res},s,nHRES)} + V_{(\text{res},s,HRES)}}
+$$
+</equation>
 
 where:
-
-
-(a) _σ_ _(res,s)_ denotes the standard deviation for NSLT health reserve risk segment _s_ as set out in Annex XIV;
+(a)(a) _σ_ _(res,s)_ denotes the standard deviation for NSLT health reserve risk segment _s_ as set out in Annex XIV;
 
 
 (b) _V_ _(res,s,nHRES)_ denotes the volume measure for NSLT health reserve risk of the business in segment _s_ that is not subject
@@ -8965,43 +8179,14 @@ which most negatively affects the basic own funds of the undertaking on a per po
 
 2. The capital requirement for SLT health underwriting risk shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f**
-_SCR_ _SLTh_ ¼ X _CorrSLTH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_CorrSLTH_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i,j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{SLTh}} = \sqrt{\sum_{i,j} \text{CorrSLTH}_{(i,j)} \cdot \text{SCR}_{i} \cdot \text{SCR}_{j}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum denotes all possible combinations ( _i_, _j_ ) of the sub-modules set out in paragraph 1;
+(a)(a) the sum denotes all possible combinations ( _i_, _j_ ) of the sub-modules set out in paragraph 1;
 
 
 (b) _CorrSLTH_ _(i,j)_ denotes the correlation parameter for SLT health underwriting risk for sub-modules _i_ and _j_ ;
@@ -9341,15 +8526,14 @@ Article 206(2) of this Regulation.
 
 1. The capital requirement for the health catastrophe risk sub-module shall be equal to the following:
 
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** iffi
-_SCR_ _healthCAT_ ¼ q _SCR_ [2] _ma_ [þ] _[ SCR]_ [2] _ac_ [þ] _[ SCR]_ [2] _p_
-
+<equation>
+$$
+\text{SCR}_{\text{healthCAT}} = \sqrt{\text{SCR}_{\text{ma}}^2 + \text{SCR}_{\text{ac}}^2 + \text{SCR}_{\text{p}}^2}
+$$
+</equation>
 
 where:
-
-
-(a) _SCR_ _ma_ denotes the capital requirement of the mass accident risk sub-module;
+(a)(a) _SCR_ _ma_ denotes the capital requirement of the mass accident risk sub-module;
 
 
 (b) _SCR_ _ac_ denotes the capital requirement of the accident concentration risk sub-module;
@@ -9380,52 +8564,14 @@ insurance and reinsurance obligations.
 
 1. The capital requirement for the mass accident risk sub-module shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** iffi
-_SCR_ _ma_ ¼ X _SCR_ [2] ð _ma,s_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_SCR_ [2]
-
-X ð _ma,s_ Þ
-
-r _s_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_s_
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{ma}} = \sqrt{\sum_{s} \text{SCR}^2_{(\text{ma},s)}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum includes all countries set out in Annex XVI;
+(a)(a) the sum includes all countries set out in Annex XVI;
 
 
 (b) _SCR_ _(ma,s)_ denotes the capital requirement for mass accident risk of country _s_ .
@@ -9436,41 +8582,14 @@ be equal to the loss in basic own funds of insurance and reinsurance undertaking
 aneous loss of an amount that, without deduction of the amounts recoverable from reinsurance contracts and special
 purpose vehicles is calculated as follows:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_L_ ð _ma,s_ Þ ¼ _r_ _s_ � X
-
-
-_e_
-
+<equation>
+$$
+L_{(\text{ma},s)} = r_s \cdot \sum_{e} x_e \cdot E_{(e,s)}
+$$
+</equation>
 
 where:
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_x_ _e_ � _E_ ð _e,s_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-(a) _r_ _s_ denotes the ratio of persons affected by the mass accident in country _s_ as set out in Annex XVI;
+(a)(a) _r_ _s_ denotes the ratio of persons affected by the mass accident in country _s_ as set out in Annex XVI;
 
 
 (b) the sum includes the event types _e_ set out in Annex XVI;
@@ -9487,40 +8606,14 @@ country _s_ .
 3. For all event types set out in Annex XVI and all countries set out in Annex XVI, the sum insured of an insurance
 or reinsurance undertaking for a particular event type _e_ in a particular country _s_ shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_E_ ð _e,s_ Þ ¼ X
-
-_i_
-
+<equation>
+$$
+E_{(e,s)} = \sum_{i} \text{SI}_{(e,i)}
+$$
+</equation>
 
 where:
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_SI_ ð _e,i_ Þ
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-(a) the sum includes all insured persons _i_ of the insurance or reinsurance undertaking who are insured against event
+(a)(a) the sum includes all insured persons _i_ of the insurance or reinsurance undertaking who are insured against event
 type _e_ and are inhabitants of country _s_ ;
 
 
@@ -9550,39 +8643,14 @@ policies complies with Article 35.
 
 1. The capital requirement for the accident concentration risk sub-module shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
+<equation>
+$$
+\text{SCR}_{\text{ac}} = \sqrt{\sum_{c} \text{SCR}^2_{(\text{ac},c)}}
+$$
+</equation>
 
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _ac_ ¼ X _SCR_ [2] ð _ac,c_ Þ
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_SCR_ [2]
-
-X ð _ac,c_ Þ
-
-r _c_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_c_
+where
 --- Page 103 ---
 where:
 
@@ -9598,23 +8666,14 @@ basic own funds of insurance and reinsurance undertakings that would result from
 that, without deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles, is
 calculated as follows:
 
-
-
-_L_ ð _ac,c_ Þ ¼ _C_ _c_ � X
-
-
-_e_
-
+<equation>
+$$
+L_{(\text{ac},c)} = C_c \cdot \sum_{e} x_e \cdot \text{CE}_{(e,c)}
+$$
+</equation>
 
 where:
-
-
-
-_x_ _e_ � _CE_ ð _e,c_ Þ
-
-
-
-(a) _C_ _c_ denotes the largest accident risk concentration of insurance and reinsurance undertakings in country _c_ ;
+(a)(a) _C_ _c_ denotes the largest accident risk concentration of insurance and reinsurance undertakings in country _c_ ;
 
 
 (b) the sum includes the event types _e_ set out in Annex XVI;
@@ -9645,28 +8704,14 @@ group income protection insurance or reinsurance obligation in relation to each 
 4. For all event types and countries, the average sum insured of an insurance or reinsurance undertaking for event
 type _e_ for the largest accident risk concentration in country _c_ shall be equal to the following:
 
-
-
-_CE_ ð _e,c_ Þ ¼ [1]
-_N_ _e_
-
+<equation>
+$$
+\text{CE}_{(e,c)} = \frac{1}{N_e} \sum_{i=1}^{N_e} \text{SI}_{(e,i)}
+$$
+</equation>
 
 where:
-
-
-
-_Ne_
-X
-
-_i_ ¼1
-
-
-
-_SI_ ð _e,i_ Þ
-
-
-
-(a) _N_ _e_ denotes the number of insured persons of the insurance or reinsurance undertaking which are insured against
+(a)(a) _N_ _e_ denotes the number of insured persons of the insurance or reinsurance undertaking which are insured against
 event type _e_ and which belong to the largest accident risk concentration of the insurance or reinsurance undertaking
 in country _c_ ;
 
@@ -9701,23 +8746,14 @@ homogenous risk groups, provided that the grouping of policies complies with the
 insurance and reinsurance undertakings that would result from an instantaneous loss of an amount that, without
 deduction of the amounts recoverable from reinsurance contracts and special purpose vehicles, is calculated as follows:
 
-
-
-_L_ _p_ ¼ 0,000075 � _E_ þ 0,4 � X
-
-
-_c_
-
+<equation>
+$$
+L_p = 0,000075 \cdot E + 0,4 \cdot \sum_c N_c \cdot M_c
+$$
+</equation>
 
 where:
-
-
-
-_N_ _c_ � _M_ _c_
-
-
-
-(a) _E_ denotes the income protection pandemic exposure of insurance and reinsurance undertakings;
+(a)(a) _E_ denotes the income protection pandemic exposure of insurance and reinsurance undertakings;
 
 
 (b) the sum includes all countries _c_ ;
@@ -9742,23 +8778,14 @@ country _c_ in case of a pandemic.
 2. The income protection pandemic exposure of an insurance or reinsurance undertaking shall be equal to the
 following:
 
-
-
-_E_ ¼
-X
-
-_i_
-
+<equation>
+$$
+E = \sum_i E_i
+$$
+</equation>
 
 where:
-
-
-
-_E_ _i_
-
-
-
-(a) the sum includes all insured persons _i_ covered by the income protection insurance or reinsurance obligations other
+(a)(a) the sum includes all insured persons _i_ covered by the income protection insurance or reinsurance obligations other
 than workers' compensation insurance or reinsurance obligations;
 
 
@@ -9771,22 +8798,14 @@ assuming that the insured person is permanently disabled and will not recover.
 3. For all countries, the expected average amount payable by insurance or reinsurance undertakings per insured
 person of a particular country _c_ in case of a pandemic shall be equal to the following:
 
-
-
-_M_ _c_ ¼ X
-
-_h_
-
+<equation>
+$$
+M_c = \sum_h H_h \cdot CH_{(h,c)}
+$$
+</equation>
 
 where:
-
-
-
-_H_ _h_ � _CH_ ð _h,c_ Þ
-
-
-
-(a) the sum includes the types of healthcare utilisation _h_ set out in Annex XVI;
+(a)(a) the sum includes the types of healthcare utilisation _h_ set out in Annex XVI;
 
 
 (b) _H_ _h_ denotes the ratio of insured persons with clinical symptoms utilising healthcare _h_ as set out in Annex XVI;
@@ -9834,43 +8853,14 @@ _**Market risk module**_
 2. The capital requirement for market risk referred to in Article 105(5) of Directive 2009/138/EC shall be equal to
 the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f**
-_SCR_ _market_ ¼ X _Corr_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-s
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_Corr_ ð _i,j_ Þ � _SCR_ _i_ � _SCR_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i,j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{market}} = \sqrt{\sum_{i,j} \text{Corr}_{(i,j)} \cdot \text{SCR}_{i} \cdot \text{SCR}_{j}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum covers all possible combinations _i_, _j_ of sub-modules of the market risk module;
+(a)(a) the sum covers all possible combinations _i_, _j_ of sub-modules of the market risk module;
 
 
 (b) Corr(i,j) denotes the correlation parameter for market risk for sub-modules i and j;
@@ -10245,16 +9235,14 @@ average value over the last 36 months to be determined.
 
 2. Subject to paragraph 4, the symmetric adjustment shall be equal to the following:
 
-
-[−] _[AI]_
-_SA_ ¼ [1] − 8%Þ
-2 [�] ~~[ð]~~ _[CI]_ _AI_
-
+<equation>
+$$
+SA = \frac{1}{2} \cdot \left( \frac{CI - AI}{AI} - 8\% \right)
+$$
+</equation>
 
 where:
-
-
-(a) _CI_ denotes the current level of the equity index;
+(a)(a) _CI_ denotes the current level of the equity index;
 
 
 (b) AI denotes the weighted average of the daily levels of the equity index over the last 36 months.
@@ -10649,94 +9637,6 @@ residential immovable property and amending Directives 2008/48/EC and 2013/36/EU
 28.2.2014, p. 34.
 ( [2] ) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and
 repealing Council Directive 87/102/EEC, OJ L 133, 22.5.2008, p. 66.
---- Page 116 ---
-##### Article 178
-
-
-**Spread risk on securitisation positions: calculation of the capital requirement**
-
-
-1. The capital requirement for spread risk on type 1 securitisation positions shall be equal to the loss in the basic
-own funds that would result from an instantaneous relative decrease of _stress_ _i_ in the value of each type 1 securitisation
-position _i_ . The risk factor _stress_ _i_ shall be equal to the following:
-
-
-_stress_ _i_ ¼ minð _b_ _i_ � _dur_ _i_ ;1Þ
-
-
-where:
-
-
-(a) dur _i_ denotes the modified duration of securitisation position _i_ denominated in years;
-
-
-(b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
-
-
-<table>
-|Credit quality step|0|1|2|3|
-|---|---|---|---|---|
-|_bi _|2,1 %|3 %|3 %|3 %|
-</table>
-
-
-
-2. The capital requirement for spread risk on type 2 securitisation position shall be equal to the loss in the basic own
-funds that would result from an instantaneous relative decrease of _stress_ _i_ in the value of each type 2 securitisation
-position _i_ . The risk factor _stress_ _i_ shall be equal to the following
-
-
-_stress_ _i_ ¼ minð _b_ _i_ � _dur_ _i_ ;1Þ
-
-
-where:
-
-
-(a) dur _i_ denotes the modified duration of securitisation position _i_ denominated in years;
-
-
-(b) b _i_ shall be assigned depending on the credit quality step of securitisation position _i_ according to the following table:
-
-
-<table>
-|Credit quality step|0|1|2|3|4|5|6|
-|---|---|---|---|---|---|---|---|
-|_bi _|12,5 %|13,4 %|16,6 %|19,7 %|82 %|100 %|100 %|
-</table>
-
-
-
-3. The capital requirement for spread risk on resecuritisation positions shall be equal to the loss in the basic own
-funds that would result from an instantaneous relative decrease of _stress_ _i_ in the value of each resecuritisation position _i_ .
-The risk factor _stress_ _i_ shall be equal to the following
-
-
-_stress_ _i_ ¼ minð _b_ _i_ � _dur_ _i_ ;1Þ
-
-
-where:
-
-
-(a) dur _i_ denotes the modified duration of resecuritisation position _i_ denominated in years;
-
-
-(b) b _i_ shall be assigned depending on the credit quality step of resecuritisation position _i_ according to the following
-table:
-
-
-<table>
-|Credit quality step|0|1|2|3|4|5|6|
-|---|---|---|---|---|---|---|---|
-|_bi _|33 %|40 %|51 %|91 %|100 %|100 %|100 %|
-</table>
-
-
-
-4. The modified duration dur i referred to in paragraphs 1 and 2 shall not be lower than 1 year.
-
-
-5. Securitisation positions for which a credit assessment from a nominated ECAI is not available shall be assigned a
-risk factor _stress_ _i_ of 100 %.
 --- Page 117 ---
 ##### Article 179
 
@@ -10998,36 +9898,14 @@ assessment by a nominated ECAI is not available shall be assigned to credit qual
 
 1. The capital requirement for market risk concentration shall be equal to the following:
 
-**f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _conc_ ¼ X _Conc_ [2] _i_
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f**
-X _Conc_ [2] _i_
-
-r _i_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_i_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f**
-
+<equation>
+$$
+\text{SCR}_{\text{conc}} = \sqrt{\sum_{i} \text{Conc}_{i}^{2}}
+$$
+</equation>
 
 where:
-
-
-(a) the sum covers all single name exposures _i_ ;
+(a)(a) the sum covers all single name exposures _i_ ;
 
 
 (b) _Conc_ _i_ denotes the capital requirement for market risk concentration on a single name exposure _i_ .
@@ -11037,14 +9915,14 @@ where:
 loss in the basic own funds that would result from an instantaneous decrease in the value of the assets corresponding to
 the single name exposure _i_ equal to the following:
 
-
-_XS_ _i_ � _g_ _i_
-
+<equation>
+$$
+\text{XS}_{i} \cdot g_{i}
+$$
+</equation>
 
 where:
-
-
-(a) _XS_ _i_ is the excess exposure referred to in Article 184;
+(a)(a) _XS_ _i_ is the excess exposure referred to in Article 184;
 
 
 (b) _g_ _i_ is the risk factor for market risk concentration referred to in Articles 186 and 187;
@@ -11058,14 +9936,14 @@ where:
 
 1. The excess exposure on a single name exposure _i_ shall be equal to the following:
 
-
-_XS_ _i_ ¼ _Max_ ð0; _E_ _i_ − _CT_ _i_ � _Assets_ Þ
-
+<equation>
+$$
+\text{XS}_{i} = \text{Max}(0; E_{i} - \text{CT}_{i} \cdot \text{Assets})
+$$
+</equation>
 
 where:
-
-
-(a) _E_ _i_ denotes the exposure at default to single name exposure _i_ that is included in the calculation base of the market
+(a)(a) _E_ _i_ denotes the exposure at default to single name exposure _i_ that is included in the calculation base of the market
 risk concentrations sub-module;
 --- Page 121 ---
 (b) _Assets_ denotes the calculation base of the market risk concentrations sub-module;
@@ -11373,14 +10251,14 @@ _**Counterparty default risk module**_
 
 1. The capital requirement for counterparty default risk shall be equal to the following:
 
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f**
-_SCR_ _def_ ¼ q _SCR_ [2] ð _def_,1Þ [þ][ 1,5][ �] _[SCR]_ [ð] _[def]_ [,1][Þ] [ �] _[SCR]_ [ð] _[def]_ [,2][Þ] [ þ] _[ SCR]_ [2] ð _def_,2Þ
-
+<equation>
+$$
+\text{SCR}_{\text{def}} = \sqrt{\text{SCR}^2_{(\text{def},1)} + 1,5 \cdot \text{SCR}_{(\text{def},1)} \cdot \text{SCR}_{(\text{def},2)} + \text{SCR}^2_{(\text{def},2)}}
+$$
+</equation>
 
 where:
-
-
-(a) _SCR_ _def,1_ denotes the capital requirement for counterparty default risk on type 1 exposures as set out in paragraph 2;
+(a)(a) _SCR_ _def,1_ denotes the capital requirement for counterparty default risk on type 1 exposures as set out in paragraph 2;
 
 
 (b) _SCR_ _def,2_ denotes the capital requirement for counterparty default risk on type 2 exposures as set out in paragraph 3.
@@ -11599,14 +10477,14 @@ cleared.
 
 2. The loss-given-default on a reinsurance arrangement or insurance securitisation shall be equal to the following:
 
-
-_LGD_ ¼ max 50� % �ð _RE_ cov _erables_ þ 50% � _RM_ _re_ Þ − _F_ � _Collateral_ ; 0�
-
+<equation>
+$$
+\text{LGD} = \max[50\% \cdot (\text{Recoverables} + 50\% \cdot \text{RM}_{\text{re}}) - F \cdot \text{Collateral}; 0]
+$$
+</equation>
 
 where:
-
-
-(a) _Recoverables_ denotes the best estimate of amounts recoverable from the reinsurance arrangement or insurance securi­
+(a)(a) _Recoverables_ denotes the best estimate of amounts recoverable from the reinsurance arrangement or insurance securi­
 
 tisation and the corresponding debtors;
 
@@ -11624,8 +10502,11 @@ reinsurance arrangement or securitisation in case of any credit event related to
 Where the reinsurance arrangement is with an insurance or reinsurance undertaking or a third country insurance or
 reinsurance undertaking and 60 % or more of that counterparty's assets are subject to collateral arrangements, the lossgiven-default shall be equal to the following:
 
-
-_LGD_ ¼ max 90� % �ð _RE_ cov _erables_ þ 50% � _RM_ _re_ Þ − _F_ � _Collateral_ ; 0�
+<equation>
+$$
+\text{LGD} = \max[90\% \cdot (\text{Recoverables} + 50\% \cdot \text{RM}_{\text{re}}) - F \cdot \text{Collateral}; 0]
+$$
+</equation>
 
 
 where:
@@ -11637,14 +10518,14 @@ arrangement or securitisation in the case of a credit event related to the count
 
 3. The loss-given-default on a derivative shall be equal to the following:
 
+<equation>
+$$
+\text{LGD} = \max(90\%(\text{Derivative} + \text{RM}_{\text{fin}}) - F' \cdot \text{Collateral}; 0)
+$$
+</equation>
 
-_LGD_ ¼ maxð90%ð _Derivative_ þ _RM_ _fin_ Þ − _F′_ � _Collateral_ ; 0Þ
-
-
-where
-
-
-(a) _Derivative_ denotes the value of the derivative in accordance with Article 75 of Directive 2009/138/EC;
+where:
+(a)(a) _Derivative_ denotes the value of the derivative in accordance with Article 75 of Directive 2009/138/EC;
 
 
 (b) _RM_ _fin_ denotes the risk mitigating effect on market risk of the derivative;
@@ -11659,14 +10540,14 @@ in case of a credit event related to the counterparty.
 
 4. The loss-given-default on a mortgage loan shall be equal to the following:
 
-
-_LGD_ ¼ maxð _Loan_ − 80% � _Mortgage_ ; 0Þ
-
+<equation>
+$$
+\text{LGD} = \max(\text{Loan} - 80\% \cdot \text{Mortgage}; 0)
+$$
+</equation>
 
 where:
-
-
-(a) _Loan_ denotes the value of the mortgage loan in accordance with Article 75 of Directive 2009/138/EC;
+(a)(a) _Loan_ denotes the value of the mortgage loan in accordance with Article 75 of Directive 2009/138/EC;
 
 
 (b) _Mortgage_ denotes the risk-adjusted value of the mortgage.
@@ -11786,6 +10667,8 @@ arrangement, the loss-given-default shall be calculated as follows:
 _P_ _U_
 _LGD_ ¼ maxððð1 − _RR_ _C_ Þ � ~~ð~~
 ð1 − _P_ _C_ Þ [�] _[BE]_ _[C]_ [ þ][ Δ] _[RM]_ _[C]_ [Þ][ − ] _[F]_ [ �] _[Collateral]_ [Þ][; 0][Þ]
+
+where
 --- Page 129 ---
 where:
 
@@ -11824,14 +10707,14 @@ calculated in accordance with Article 197.
 with Article 190(2), where members are each only liable up to their respective portion of the obligation covered by the
 pooling arrangement, the loss-given-default shall be calculated as follows:
 
-
-_LGD_ ¼ maxððð1 − _RR_ _C_ Þ �ð _P_ _C_ � _BE_ _U_ þ Δ _RM_ _C_ Þ − _F_ � _Collateral_ Þ; 0Þ
-
+<equation>
+$$
+\text{LGD} = \max(((1 - \text{RR}_C) \cdot (P_C + \text{BE}_U + \Delta\text{RM}_C) - F \cdot \text{Collateral}); 0)
+$$
+</equation>
 
 where:
-
-
-(a) _P_ _C_ denotes the counterparty member's share of the risk according to the terms of the pooling arrangement;
+(a)(a) _P_ _C_ denotes the counterparty member's share of the risk according to the terms of the pooling arrangement;
 
 
 (b) _RR_ _C_ is equal to:
@@ -11867,14 +10750,14 @@ calculated in accordance with Article 197.
 For pool exposures of type C which the undertaking considers as separate single name exposures in accordance with
 Article 190(2), the loss-given-default shall be calculated as follows:
 
-
-_LGD_ ¼ maxððð1 − _RR_ _CE_ Þ �ð _P_ _U_ � _BE_ _CE_ þ Δ _RM_ _CE_ Þ − _F_ � _Collateral_ Þ; 0Þ
-
+<equation>
+$$
+\text{LGD} = \max(((1 - \text{RR}_{CE}) \cdot (P_U + \text{BE}_{CE} + \Delta\text{RM}_{CE}) - F \cdot \text{Collateral}); 0)
+$$
+</equation>
 
 where:
-
-
-(a) _P_ _U_ denotes the undertaking's share of the risk according to the terms of the pooling arrangement;
+(a)(a) _P_ _U_ denotes the undertaking's share of the risk according to the terms of the pooling arrangement;
 
 
 (b) _RR_ _CE_ is equal to:
@@ -12111,8 +10994,11 @@ treated as exposures to the central government.
 losses-given-default on all type 1 exposures, the capital requirement for counterparty default risk on type 1 exposures
 shall be equal to the following:
 
-
-_SCR_ _def_,1 ¼ 3 � _σ_
+<equation>
+$$
+\text{SCR}_{\text{def},1} = 3 \cdot \sigma
+$$
+</equation>
 
 
 where _σ_ denotes the standard deviation of the loss distribution of type 1 exposures, as defined in paragraph 4.
@@ -12121,8 +11007,11 @@ where _σ_ denotes the standard deviation of the loss distribution of type 1 exp
 2. Where the standard deviation of the loss distribution of type 1 exposures is higher than 7 % of the total lossesgiven-default on all type 1 exposures and lower or equal to 20 % of the total losses-given-default on all type 1
 exposures, the capital requirement for counterparty default risk on type 1 exposures shall be equal to the following:
 
-
-_SCR_ _def_,1 ¼ 5 � _σ_
+<equation>
+$$
+\text{SCR}_{\text{def},1} = 5 \cdot \sigma
+$$
+</equation>
 
 
 where σ denotes the standard deviation of the loss distribution of type 1 exposures.
@@ -12306,8 +11195,11 @@ _**Intangible asset module**_
 
 The capital requirement for intangible asset risk shall be equal to the following:
 
-
-_SCR_ _intangible_ ¼ 0,8 � _V_ _intangible_
+<equation>
+$$
+\text{SCR}_{\text{intangible}} = 0,8 \cdot V_{\text{intangible}}
+$$
+</equation>
 
 
 where _V_ _intangibles_ denotes the amount of intangible assets as recognised and valued in accordance with point 2 of
@@ -12325,14 +11217,14 @@ _**Operational risk**_
 
 1. The capital requirement for the operational risk module shall be equal to the following:
 
-
-_SCR_ _Operational_ ¼ minð0,3 � _BSCR_ ; _Op_ Þ þ 0,25 � _Exp_ _ul_
-
+<equation>
+$$
+\text{SCR}_{\text{Operational}} = \min(0,3 \cdot \text{BSCR}; \text{Op}) + 0,25 \cdot \text{Exp}_{\text{ul}}
+$$
+</equation>
 
 where:
-
-
-(a) _BSCR_ denotes the Basic Solvency Capital Requirement;
+(a)(a) _BSCR_ denotes the Basic Solvency Capital Requirement;
 
 
 (b) _Op_ denotes the basic capital requirement for operational risk charge;
@@ -12344,14 +11236,14 @@ where the investment risk is borne by policy holders.
 
 2. The basic capital requirement for operational risk shall be calculated as follows:
 
-
-_Op_ ¼ maxð _Op_ _premiums_ ; _Op_ _provisions_ Þ
-
+<equation>
+$$
+\text{Op} = \max(\text{Op}_{\text{premiums}}; \text{Op}_{\text{provisions}})
+$$
+</equation>
 
 where:
-
-
-(a) _Op_ _premiums_ denotes the capital requirement for operational risks based on earned premiums;
+(a)(a) _Op_ _premiums_ denotes the capital requirement for operational risks based on earned premiums;
 
 
 (b) _Op_ _provisions_ denotes the capital requirement for operational risks based on technical provisions.
@@ -12359,20 +11251,14 @@ where:
 
 3. The capital requirement for operational risks based on earned premiums shall be calculated as follows:
 
-
-
-8 0,04 · ( _Earn_ _life_ – _Earn_ _life–ul_ ) + 0,03 · _Earn_ _non–life_
-
-_Op_ _premiums_ = < + max(0;0,04 · ( _Earn_ _life_ – 1,2 · _pEarn_ _life_ – ( _Earn_ _life–ul_ – 1,2 · _pEarn_ _life–ul_ )))
-
-: + max(0;0,03 · ( _Earn_ _non–life_ – 1,2 · _pEarn_ _non–life_ ))
-
-
+<equation>
+$$
+\text{Op}_{\text{premiums}} = \left\{ \begin{array}{l} 0,04 \cdot (\text{Earn}_{\text{life}} - \text{Earn}_{\text{life-ul}}) + 0,03 \cdot \text{Earn}_{\text{non-life}} \\ + \max(0; 0,04 \cdot (\text{Earn}_{\text{life}} - 1,2 \cdot \text{pEarn}_{\text{life}} - (\text{Earn}_{\text{life-ul}} - 1,2 \cdot \text{pEarn}_{\text{life-ul}}))) \\ + \max(0; 0,03 \cdot (\text{Earn}_{\text{non-life}} - 1,2 \cdot \text{pEarn}_{\text{non-life}})) \end{array} \right.
+$$
+</equation>
 
 where:
-
-
-(a) _Earn_ _life_ denotes the premiums earned during the last 12 months for life insurance and reinsurance obligations,
+(a)(a) _Earn_ _life_ denotes the premiums earned during the last 12 months for life insurance and reinsurance obligations,
 without deducting premiums for reinsurance contracts;
 
 
@@ -12402,14 +11288,14 @@ contracts.
 --- Page 135 ---
 4. The capital requirement for operational risk based on technical provisions shall be calculated as follows:
 
-
-_Op_ _provisions_ ¼ 0,0045 � max ð0; _TP_ _life_ − _TP_ _life-ul_ Þ þ 0,03 � max ð0; _TP_ _non-life_ Þ
-
+<equation>
+$$
+Op_{\text{provisions}} = 0,0045 \cdot \max(0; TP_{\text{life}} - TP_{\text{life-ul}}) + 0,03 \cdot \max(0; TP_{\text{non-life}})
+$$
+</equation>
 
 where:
-
-
-(a) _TP_ _life_ denotes the technical provisions for life insurance and reinsurance obligations;
+(a)(a) _TP_ _life_ denotes the technical provisions for life insurance and reinsurance obligations;
 
 
 (b) _TP_ _life-ul_ denotes the technical provisions for life insurance obligations where the investment risk is borne by the policy
@@ -12453,14 +11339,14 @@ provisions and deferred taxes shall be the sum of the following items:
 
 1. The adjustment for the loss-absorbing capacity of technical provisions shall be equal to the following:
 
-
-_Adj_ _TP_ ¼ − maxðminð _BSCR_ − _nBSCR; FDB_ Þ; 0Þ
-
+<equation>
+$$
+Adj_{TP} = - \max(\min(BSCR - nBSCR; FDB); 0)
+$$
+</equation>
 
 where:
-
-
-(a) _BSCR_ denotes the Basic Solvency Capital Requirement referred to in Article 103(a) of Directive 2009/138/EC;
+(a)(a) _BSCR_ denotes the Basic Solvency Capital Requirement referred to in Article 103(a) of Directive 2009/138/EC;
 
 
 (b) _nBSCR_ denotes the net Basic Solvency Capital Requirement as referred to in paragraph 2 of this Article;
@@ -14191,14 +13077,14 @@ Articles 120 to 125 of Directive 2009/138/EC, and also in Article 113 of that Di
 
 1. The Minimum Capital Requirement shall be equal to the following:
 
-
-_MCR_ ¼ maxð _MCR_ _combined_ ; _AMCR_ Þ
-
+<equation>
+$$
+\text{MCR} = \max(\text{MCR}_{\text{combined}}, \text{AMCR})
+$$
+</equation>
 
 where:
-
-
-(a) _MCR_ _combined_ denotes the combined Minimum Capital Requirement;
+(a)(a) _MCR_ _combined_ denotes the combined Minimum Capital Requirement;
 
 
 (b) _AMCR_ denotes the absolute floor referred to in Article 129(1)(d) of Directive 2009/138/EC and in Article 253 of
@@ -14207,8 +13093,14 @@ this Regulation.
 
 2. The combined Minimum Capital Requirement shall be equal to the following:
 
+<equation>
+$$
+\text{MCR}_{\text{combined}} = \min(\max(\text{MCR}_{\text{linear}}, 0,25 \cdot \text{SCR}); 0,45 \cdot \text{SCR})
+$$
+</equation>
 
-_MCR_ _combined_ ¼ minðmaxð _MCR_ _linear_ ; 0,25 � _SCR_ Þ; 0,45 � _SCR_ Þ
+
+where
 --- Page 156 ---
 where:
 
@@ -14228,14 +13120,14 @@ Chapter VI where approval for the use of full or partial internal model has been
 
 The linear Minimum Capital Requirement shall be equal to the following:
 
-
-_MCR_ _linear_ ¼ _MCR_ ð _linear,nl_ Þ þ _MCR_ ð _linear,l_ Þ
-
+<equation>
+$$
+\text{MCR}_{\text{linear}} = \text{MCR}_{(\text{linear,nl})} + \text{MCR}_{(\text{linear,l})}
+$$
+</equation>
 
 where:
-
-
-(a) _MCR(linear,nl)_ denotes the linear formula component for non-life insurance and reinsurance obligations;
+(a)(a) _MCR(linear,nl)_ denotes the linear formula component for non-life insurance and reinsurance obligations;
 
 
 (b) _MCR(linear,l)_ denotes the linear formula component for life insurance and reinsurance obligations.
@@ -14249,23 +13141,14 @@ where:
 
 1. The linear formula component for non-life insurance and reinsurance obligations shall be equal to the following:
 
-
-
-_MCR_ ð _linear,nl_ Þ ¼ X
-
-
-_s_
-
+<equation>
+$$
+\text{MCR}_{(\text{linear,nl})} = \sum_s \alpha_s \cdot \text{TP}_{(\text{nl},s)} + \beta_s \cdot P_s
+$$
+</equation>
 
 where:
-
-
-
-_α_ _s_ � _TP_ ð _nl,s_ Þ þ _β_ _s_ � _P_ _s_
-
-
-
-(a) the sum covers all segments set out in Annex XIX;
+(a)(a) the sum covers all segments set out in Annex XIX;
 
 
 (b) _TP_ _(nl,s)_ denotes the technical provisions without a risk margin for non-life insurance and reinsurance obligations in
@@ -14309,8 +13192,14 @@ point (c) of paragraph (1), the following premiums for reinsurance contracts sha
 
 1. The linear formula component for life insurance and reinsurance obligations shall be equal to the following:
 
+<equation>
+$$
+\text{MCR}_{\text{linear,l}} = 0.037 \cdot \text{TP}_{(\text{life},1)} - 0.052 \cdot \text{TP}_{(\text{life},2)} + 0.007 \cdot \text{TP}_{(\text{life},3)} + 0.021 \cdot \text{TP}_{(\text{life},4)} + 0.0007 \cdot \text{CAR}
+$$
+</equation>
 
-_MCR_ _linear,l_ ¼ 0,037 � _TP_ ð _life_,1Þ − 0,052 � _TP_ ð _life_,2Þ þ 0,007 � _TP_ ð _life_,3Þ þ 0,021 � _TP_ ð _life_,4Þ þ 0,0007 � _CAR_
+
+where
 --- Page 157 ---
 where:
 
@@ -14382,14 +13271,14 @@ to in Article 74(2) of Directive 2009/138/EC shall be calculated in accordance w
 
 2. The notional non-life Minimum Capital Requirement shall be equal to the following:
 
-
-_NMCR_ _nl_ ¼ maxð _NMCR_ ð _combined,nl_ Þ ; _AMCR_ _nl_ Þ
-
+<equation>
+$$
+\text{NMCR}_{\text{nl}} = \max(\text{NMCR}_{(\text{combined,nl})}; \text{AMCR}_{\text{nl}})
+$$
+</equation>
 
 where:
-
-
-(a) _NMCR_ _(combined,nl)_ denotes the notional combined non-life Minimum Capital Requirement;
+(a)(a) _NMCR_ _(combined,nl)_ denotes the notional combined non-life Minimum Capital Requirement;
 
 
 (b) _AMCR_ _nl_ denotes the absolute floor prescribed in Article 129(1)(d)(i) of Directive 2009/138/EC and in Article 253 of
@@ -14398,8 +13287,14 @@ this Regulation.
 
 3. The notional combined non-life Minimum Capital Requirement shall be equal to the following:
 
+<equation>
+$$
+\text{NMCR}_{(\text{combined,nl})} = \min(\max(\text{NMCR}_{(\text{linear,nl})}; 0,25 \cdot (\text{NSCR}_{\text{nl}} + \text{Addon}_{\text{nl}})); 0,45 \cdot (\text{NSCR}_{\text{nl}} + \text{Addon}_{\text{nl}}))
+$$
+</equation>
 
-_NMCR_ ð _combined,nl_ Þ ¼ minðmaxð _NMCR_ ð _linear,nl_ Þ ; 0,25 �ð _NSCR_ _nl_ þ _Addon_ _nl_ ÞÞ; 0,45 �ð _NSCR_ _nl_ þ _Addon_ _nl_ ÞÞ
+
+where
 --- Page 158 ---
 where:
 
@@ -14418,14 +13313,14 @@ reinsurance activity of the insurance or reinsurance undertaking.
 4. The notional linear Minimum Capital Requirement for non-life insurance or reinsurance activity shall be equal to
 the following:
 
-
-_NMCR_ ð _linear,nl_ Þ ¼ _MCR_ ð _nl,nl_ Þ þ _MCR_ ð _l,nl_ Þ
-
+<equation>
+$$
+\text{NMCR}_{(\text{linear,nl})} = \text{MCR}_{(\text{nl,nl})} + \text{MCR}_{(\text{l,nl})}
+$$
+</equation>
 
 where:
-
-
-(a) _MCR_ _(nl,nl)_ denotes the linear formula component for non-life insurance and reinsurance obligations relating to
+(a)(a) _MCR_ _(nl,nl)_ denotes the linear formula component for non-life insurance and reinsurance obligations relating to
 non-life insurance or reinsurance activity;
 
 
@@ -14442,22 +13337,14 @@ non-life insurance referred to in Annex I of Directive 2009/138/EC.
 6. The notional Solvency Capital Requirement for non-life insurance or reinsurance activity shall be equal to the
 following:
 
-
-
-_NMCR_ ð _linear,nl_ Þ
-_NSCR_ _nl_ ¼
-_NMCR_ ð _linear,nl_ Þ þ _NMCR_ ð _linear,l_ Þ
-
+<equation>
+$$
+\text{NSCR}_{\text{nl}} = \frac{\text{NMCR}_{(\text{linear,nl})}}{\text{NMCR}_{(\text{linear,nl})} + \text{NMCR}_{(\text{linear,l})}} \cdot \text{SCR}
+$$
+</equation>
 
 where:
-
-
-
-� _SCR_
-
-
-
-(a) _SCR_ denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
+(a)(a) _SCR_ denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
 Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
 Article 37 of that Directive;
 
@@ -14471,14 +13358,14 @@ activity;
 
 7. The notional life Minimum Capital Requirement shall be equal to the following:
 
-
-_NMCR_ _l_ ¼ maxð _NMCR_ ð _combined,l_ Þ ; _AMCR_ _l_ Þ
-
+<equation>
+$$
+\text{NMCR}_{\text{l}} = \max(\text{NMCR}_{(\text{combined,l})}; \text{AMCR}_{\text{l}})
+$$
+</equation>
 
 where:
-
-
-(a) _NMCR_ _(combined,l)_ denotes the notional combined life Minimum Capital Requirement;
+(a)(a) _NMCR_ _(combined,l)_ denotes the notional combined life Minimum Capital Requirement;
 
 
 (b) _AMCR_ _l_ denotes the absolute floor prescribed in Article 129(1)(d)(ii) of Directive 2009/138/EC.
@@ -14486,14 +13373,14 @@ where:
 
 8. The notional combined life Minimum Capital Requirement shall be equal to the following:
 
-
-_NMCR_ ð _combined,l_ Þ ¼ minðmaxð _NMCR_ ð _linear,l_ Þ ; 0,25 �ð _NSCR_ _l_ þ _Addon_ _l_ ÞÞ; 0,45 �ð _NSCR_ _l_ þ _Addon_ _l_ ÞÞ
-
+<equation>
+$$
+\text{NMCR}_{(\text{combined,l})} = \min(\max(\text{NMCR}_{(\text{linear,l})}; 0,25 \cdot (\text{NSCR}_{\text{l}} + \text{Addon}_{\text{l}})); 0,45 \cdot (\text{NSCR}_{\text{l}} + \text{Addon}_{\text{l}}))
+$$
+</equation>
 
 where:
-
-
-(a) _NMCR_ _(linear,l)_ denotes the notional linear Minimum Capital Requirement for life insurance or reinsurance activity;
+(a)(a) _NMCR_ _(linear,l)_ denotes the notional linear Minimum Capital Requirement for life insurance or reinsurance activity;
 
 
 (b) _NSCR_ _l_ denotes the notional Solvency Capital Requirement for life insurance or reinsurance activity;
@@ -14506,14 +13393,14 @@ reinsurance activity of the insurance or reinsurance undertaking.
 9. The notional linear Minimum Capital Requirement for life insurance or reinsurance activity shall be equal to the
 following:
 
-
-_NMCR_ ð _linear,l_ Þ ¼ _MCR_ ð _nl,l_ Þ þ _MCR_ ð _l,l_ Þ
-
+<equation>
+$$
+\text{NMCR}_{(\text{linear},l)} = \text{MCR}_{(\text{nl},l)} + \text{MCR}_{(\text{l},l)}
+$$
+</equation>
 
 where:
-
-
-(a) _MCR_ _(nl,l)_ denotes the linear formula component for non-life insurance and reinsurance obligations relating to life
+(a)(a) _MCR_ _(nl,l)_ denotes the linear formula component for non-life insurance and reinsurance obligations relating to life
 insurance or reinsurance activity;
 
 
@@ -14530,22 +13417,14 @@ insurance referred to in Annex II of Directive 2009/138/EC.
 11. The notional Solvency Capital Requirement for life insurance or reinsurance activity shall be equal to the
 following:
 
-
-
-_NMCR_ ð _linear,l_ Þ
-_NSCR_ _l_ ¼
-_NMCR_ ð _linear,nl_ Þ þ _NMCR_ ð _linear,l_ Þ
-
+<equation>
+$$
+\text{NSCR}_{l} = \frac{\text{NMCR}_{(\text{linear},l)}}{\text{NMCR}_{(\text{linear},nl)} + \text{NMCR}_{(\text{linear},l)}} \cdot \text{SCR}
+$$
+</equation>
 
 where:
-
-
-
-� _SCR_
-
-
-
-(a) _SCR_ denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
+(a)(a) _SCR_ denotes the Solvency Capital Requirement calculated in accordance with Title I, Chapter VI, Section 4,
 Subsection 2 of Directive 2009/138/EC or with Title I, Chapter VI, Section 4, Subsection 3 of Directive/EC, which shall for the purposes of this Article exclude any capital add-on imposed in accordance with
 Article 37 of that Directive;
 
@@ -20456,36 +19335,14 @@ Reinsurance obligations which relate to the obligations included in lines of bus
 1. For all segments set out in Annexes II and XIV, the factor for geographical diversification of a particular segment _s_
 referred to in Articles 116 and 147 shall be equal to the following:
 
-
-
-2
-
-
-
-_DIV_ _s_ ¼
-
+<equation>
+$$
+\text{DIV}_s = \frac{\sum_r (V_{(\text{prem},r,s)} + V_{(\text{res},r,s)})^2}{(\sum_r (V_{(\text{prem},r,s)} + V_{(\text{res},r,s)}))^2}
+$$
+</equation>
 
 where:
-
-
-
-P
-
-_r_ [ð] _[V]_ [ð] _[prem,r,s]_ [Þ] [ þ] _[ V]_ [ð] _[res,r,s]_ [Þ] [Þ]
-
-
-
-ð ~~[P]~~
-
-_r_ [ð] _[V]_ [ð] _[prem,r,s]_ [Þ] [ þ] _[ V]_ [ð] _[res,r,s]_ [Þ] [ÞÞ]
-
-
-
-2
-
-
-
-(a) each of the sums cover all the geographical regions set out in paragraph 8;
+(a)(a) each of the sums cover all the geographical regions set out in paragraph 8;
 
 
 (b) _V(prem,r,s)_ denotes the volume measure for premium risk of the segment _s_ and the region _r_ ;
@@ -22291,11 +21148,15 @@ are available;
 
 (4) The undertaking-specific standard deviation of segment _s_ shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \sigma_{(\text{prem,s,USP})} = c \cdot \hat{\sigma}(\hat{\delta}, \hat{\gamma}) \cdot \sqrt{\frac{T+1}{T-1}} + (1-c) \cdot \sigma_{(\text{prem,s})}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22318,11 +21179,15 @@ where:
 
 (5) The standard deviation function shall be equal to the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}(\hat{\delta}, \hat{\gamma}) = \exp \left( \hat{\gamma} + \frac{\frac{1}{2}T + \sum_{t=1}^{T} \pi_t(\hat{\delta}, \hat{\gamma}) \cdot \ln \left( \frac{y_t}{x_t} \right)}{\sum_{t=1}^{T} \pi_t(\hat{\delta}, \hat{\gamma})} \right)
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22339,11 +21204,15 @@ where:
 
 (d) _π_ _t_ denotes the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \pi_t(\hat{\delta}, \hat{\gamma}) = \frac{1}{\ln \left\{ 1 + \left( (1 - \hat{\delta}) \cdot \frac{\bar{x}}{x_t} + \hat{\delta} \right) \cdot e^{2 \cdot \hat{\gamma}} \right\}}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22368,11 +21237,15 @@ _x_ _t_
 (6) The mixing parameter and the logarithmic variation coefficient shall be the values and respectively for
 which the following amount becomes minimal:
 
+
+<image>
 <equation>
 $$
 \sum_{t=1}^{T} \pi_{t}(\hat{\delta}, \hat{\gamma})\left(\ln \left(\frac{y_{t}}{x_{t}}\right)+\frac{1}{2 \cdot \pi_{t}(\hat{\delta}, \hat{\gamma})}+\hat{\gamma}-\ln (\hat{\sigma}(\hat{\delta}, \hat{\gamma}))\right)^{2}-\sum_{t=1}^{T} \ln (\pi_{t}(\hat{\delta}, \hat{\gamma}))
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22484,11 +21357,15 @@ financial year _t_ are denoted by _x_ _t_ .
 (4) The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment _s_
 shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \sigma_{(res,s,USP)} = c \cdot \hat{\sigma}(\hat{\delta}, \hat{\gamma}) \cdot \sqrt{\frac{T+1}{T-1}} + (1-c) \cdot \sigma_{(res,s)}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22532,11 +21409,15 @@ where:
 
 (d) _π_ _t_ denotes the following function of two variables:
 
+
+<image>
 <equation>
 $$
 \pi_t(\hat{\delta}, \hat{\gamma}) = \frac{1}{\ln\left(1+\left(\left(1-\hat{\delta}\right)\cdot\frac{\bar{x}}{x_t}+\hat{\delta}\right)\cdot e^{2\cdot\hat{\gamma}}\right)}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22647,103 +21528,6 @@ i. cumulative claims amounts for different accident years are mutually stochasti
 
 
 ii. for all accident years the implied incremental claim amounts are stochastically independent;
---- Page 277 ---
-iii. for all accident years the expected value of the cumulative claims amount for a development year is
-proportional to the cumulative claims amount for the preceding development year;
-
-
-iv. for all accident years the variance of the cumulative claims amount for a development year is
-proportional to the cumulative claims amount for the preceding development year.
-
-
-For the purposes of point (d), a payment amount shall be considered to be material where ignoring it in the
-calculation of the undertaking-specific parameter could influence the decision-making or the judgement of the
-users of that information, including the supervisory authorities
-
-
-**Method specification**
-
-
-(3) For the purpose of paragraphs 4 and 5, the following notation shall apply:
-
-
-(a) the accident years are denoted by consecutive numbers starting with 0 for the first accident year for which
-data are available;
-
-
-(b) _I_ denotes the latest accident year for which data are available;
-
-
-(c) _J_ denotes the latest development year in the first accident year for which data are available;
-
-
-(d) _C_ _(i,j)_ denotes the cumulative claims for accident year _i_ and development year _j_ .
-
-
-(4) The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment _s_
-shall be equal to the following:
-
-<equation>
-$$
-\sigma_{(res,s,USP)} = c \cdot \frac{\sqrt{MSEP}}{\sum_{i=0}^{I} (\hat{C}_{(i,J)} - C_{(i,I-i)})} + (1-c) \cdot \sigma_{(res,s)}
-$$
-</equation>
-
-
-where:
-
-
-(a) _c_ denotes the credibility factor set out in section G;
-
-
-(b) _MSEP_ denotes the mean squared error of prediction as specified in paragraph 5;
-
-
-(c) for all accident years and development years, denotes the cumulative claims estimate for the specific
-accident year _i_ and development year _j_, being defined as follows:
-
-
-where for all development years denotes for development factor estimate of the specific development
-year _j_, being defined as follows:
-
-<equation>
-$$
-\hat{f}_j = \frac{\sum_{i=0}^{l-j-1} C_{(i,j+1)}}{\sum_{i=0}^{l-j-1} C_{(i,j)}}
-$$
-</equation>
-
-
-(d) _σ_ _(res,s)_ denotes the standard parameter for non-life reserve risk or NSLT health reserve risk of segment _s_ .
-
-
-(5) The mean squared error of prediction shall be equal to the following:
-
-<equation>
-$$
-MSEP = \sum_{i=1}^{I} \hat{C}_{(i,J)}^{2} \cdot \frac{\hat{Q}_{I-i}}{C_{(i,I-i)}} + \sum_{i=1}^{I} \sum_{k=1}^{I} \hat{C}_{(i,J)} \cdot \hat{C}_{(k,J)} \cdot \left( \frac{\hat{Q}_{I-i}}{S_{I-i}} + \sum_{j=I-i+1}^{J-1} \frac{C_{(I-j,j)}}{S'_{j}} \cdot \frac{\hat{Q}_{j}}{S_{j}} \right)
-$$
-</equation>
-
-
-where:
-
-
-(a) for all accident years and development years, denotes the cumulative claim estimate in the specific
-accident year _i_ and development year _j_, as set out in paragraph 4(c).
-
-
-(b) for all development years, _S_ _j_ denotes for a specific development year _j_ the following amount:
-
-
-
-_I_ − _j_ − 1
-_S_ _j_ ¼ X
-
-_i_ ¼0
-
-
-
-_C_ ð _i,j_ Þ
 --- Page 278 ---
 (c) for all development years, _S′_ _j_ denotes for a specific development year _j_ the following amount:
 
@@ -22762,11 +21546,15 @@ _C_ ð _i,j_ Þ
 
 (d) for all development years, denotes for a specific development year _j_ the following amount:
 
+
+<image>
 <equation>
 $$
 \hat{Q}_j = \frac{\hat{\sigma}_j^2}{\hat{f}_j^2}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -22789,11 +21577,15 @@ $$
 $$
 </equation>
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}_{j}^{2} = \min \left\{ \hat{\sigma}_{J-2}^{2}, \hat{\sigma}_{J-3}^{2}, \frac{\hat{\sigma}_{J-2}^{4}}{\hat{\sigma}_{J-3}^{2}} \right\}
 $$
 </equation>
+</image>
+
 
 
 E. **Revision risk method**
@@ -22853,117 +21645,18 @@ data are available;
 
 
 (b) _T_ denotes the latest financial year for which data are available;
---- Page 279 ---
-(c) _A_ _(i,t)_ denotes the annuity benefits of beneficiary _i_ in financial year _t_ ;
-
-
-(d) _D_ _(i,t)_ denotes the change of annuity benefits after financial year _t_, being equal to the following difference:
-
-
-_D_ ð _i,t_ Þ ¼ _A_ ð _i,t_ Þ − _A_ ð _i,t_ − 1Þ
-
-
-(4) The undertaking-specific increase in the amount of annuity benefits shall be equal to the following:
-
-
-_S_ _USP_ ¼ _c_ � _[VaR]_ [0,995] [ð] _[R]_ [Þ][ − ] _[R]_ þ ð1 − _c_ Þ � _S_
-
-_R_
-
-
-where:
-
-
-(a) _c_ denotes the credibility factor set out in section G;
-
-
-(b) _R_ denotes the expected value of annuity increases set out in paragraph 5;
-
-
-(c) _VaR_ 0,995 ( _R_ ) denotes the 99,5 % quantile of the distribution of annuity increases set out in paragraph 6;
-
-
-(d) _S_ is equal to 3 % where the calculation is done for the purpose of the revision risk sub-module set out in
-Article 141 and equal to 4 % where the calculation is done for the purpose of the health revision risk submodule set out in Article 158.
-
-
-(5) The expected value of annuity increases shall be equal to the following:
-
-
-_R_ ¼ _X_ � _N_
-
-
-where:
-
-
-(a) _X_ denotes the estimated average change in annuity benefits, restricted to those changes in of annuity benefits
-that are larger than zero;
-
-
-(b) _N_ denotes the estimated average number, per financial year, of changes in annuity benefits that are larger
-than zero.
-
-
-(6) The annuity increases shall be equal to the following:
-
-
-
-_N_
-
-_R_ ¼
-X
-
-_k_ ¼1
-
-
-where:
-
-
-
-_X_ _k_
-
-
-
-(a) _N_ denotes the annual number of annuity increases and follows a negative binominal distribution with an
-expected value that is equal to the estimated number of changes in annuity benefits set out in point (b) of
-paragraph 5 and with a standard deviation that is equal to the estimated standard deviation of the number of
-changes in annuity benefits set out in paragraph 7;
-
-
-(b) _X_ _k_ denotes the amount of an annuity increase and follows a lognormal distribution with an expected value
-that is equal to the estimated average change in annuity benefits set out in point (a) of paragraph 5 and with
-a standard deviation that is equal to the estimated standard deviation of changes in annuity benefits set out
-in paragraph 8;
-
-
-(c) the annual number of annuity increases and the amounts of the annuity increase are mutually stochastically
-independent.
-
-
-(7) The estimated standard deviation of the number of changes in annuity benefits shall be equal to the following:
-
-<equation>
-$$
-\hat{\sigma}_{N} = \sqrt{\frac{1}{T-1} \cdot \sum_{t=1}^{T} (N_{t} - \bar{N})^{2}}
-$$
-</equation>
-
-
-where:
-
-
-(a) _N_ _t_ denotes the number of changes in annuity benefits in financial years _t_ that are larger than zero;
-
-
-(b) _N_ denotes the estimated average change in annuity benefits set out in point (b) of paragraph 5.
 --- Page 280 ---
 (8) The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
+
+<image>
 <equation>
 $$
 \hat{\sigma}_{X} = \sqrt{\frac{1}{n-1} \cdot \sum_{i,t} (D_{(i,t)} - \bar{X})^2}
 $$
 </equation>
+</image>
+
 
 
 where:
@@ -23541,9 +22234,11 @@ shall not exceed 1;
 
 (d) for any assignment of real numbers to the items of the aggregation list the following shall hold:
 
-X _Corr_ ð _i,j_ Þ � _x_ _i_ � _x_ _j_ � 0
-
-_i,j_
+<equation>
+$$
+\sum_{i,j} \text{Corr}_{(i,j)} \cdot x_i \cdot x_j \ge 0
+$$
+</equation>
 
 
 where:
@@ -23581,15 +22276,14 @@ D. **Integration technique 3**
 
 (1) The Basic Solvency Capital Requirement shall be equal to the following:
 
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i **f**
-_BSCR_ ¼ q _S_ [2] _S_ [þ][ 2][ �] _[S]_ _[S]_ [ �ð] _[ω]_ [1] [ �] _[P]_ _[C]_ [ þ] _[ ω]_ [2] [ �] _[P]_ _[S]_ [Þ þ] _[ P]_ [2] þ _SCR_ _int_
-
+<equation>
+$$
+\text{BSCR} = \sqrt{S_s^2 + 2 \cdot S_s \cdot (\omega_1 \cdot P_C + \omega_2 \cdot P_S) + P^2 + \text{SCR}_{\text{int}}}
+$$
+</equation>
 
 where:
-
-
-(a) _S_ _S_ denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
+(a)(a) _S_ _S_ denotes the capital requirement derived by applying the standard formula for the Basic Solvency Capital
 Requirement only to the risks not covered by the partial internal model;
 --- Page 285 ---
 (b) _ω_ 1 denotes the first implied correlation parameter as set out in paragraph 2;
@@ -23925,127 +22619,14 @@ F. **Integration technique 5**
 
 (1) The Basic Solvency Capital Requirement shall be equal to the following:
 
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-
-f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i fi f **f** **f** i f **f** i fi f **f** i f **f** i f **f** i f **f** **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i f **f** i ffi
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_BSCR_ ¼ **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
+<equation>
+$$
+\text{BSCR} = \sqrt{P^2 + S_S^2 + \frac{2 \cdot P}{\sqrt{\sum_{i=1}^{k} \sum_{j=1}^{k} \text{Corr}_{(i,j)} \cdot S_i \cdot S_j}} \cdot \sum_{j=k+1}^{n} \sum_{i=1}^{k} \text{Corr}_{(i,j)} \cdot S_i \cdot S_j + \text{SCR}_{int}^2}
+$$
+</equation>
 
 where:
-
-
-
-f **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-v
-uuuuu _P_ [2] þ _S_ [2] _S_ [þ] ~~f~~ P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i 2 ~~f~~ **f** i ~~f~~ **f** i � ~~f~~ **f** i _P_ ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~ � _j_ X ¼ _kn_ þ1 X _i_ ¼ _k_ 1 _Corr_ ð _i,j_ Þ � _S_ _i_ � _S_ _j_ þ _SCR_ _int_
-t ~~s~~ _i_ ¼1 _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-2 � _P_
-_P_ [2] þ _S_ [2] _S_ [þ] ~~f f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~
-_k_ _k_
-P P _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_n_
-
-~~f~~ P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i P ~~f~~ **f** i _k_ ~~f~~ **f** i ~~f~~ **f** i 2 ~~f~~ **f** i ~~f~~ **f** i � ~~f~~ **f** i _P_ ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~f~~ **f** i ~~**f**~~ � _j_ X ¼ _k_ þ1
-
-~~s~~ _i_ ¼1 _j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-_k_
-P
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i _Corr_ ð _i,j_ Þ � _S_ _i_ � _S_ _j_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-_k_
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i X
-
-_i_ ¼1
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-_j_ ¼ _k_ þ1
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-_i_ ¼1
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-P
-
-_j_ ¼1 _[Corr]_ [ð] _[i,j]_ [Þ] [ �] _[S]_ _[i]_ [ �] _[S]_ _[j]_
-
-
-
-**f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f** **f**
-
-
-**f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i **f** i
-
-
-(a) _P_, _S_ _S_, _k_, _n_, _Corr_ _(i,j)_ and _SCR_ _int_ are defined as in paragraph 1 of section E;
+(a)(a) _P_, _S_ _S_, _k_, _n_, _Corr_ _(i,j)_ and _SCR_ _int_ are defined as in paragraph 1 of section E;
 
 
 (b) _S_ _i_ and _S_ _j_ denote the capital requirement for modules _i_ and _j_ respectively of the standard formula which are
@@ -24486,32 +23067,3 @@ average duration;
 
 (12) The number of authorisations granted in accordance with Article 304 of Directive 2009/138/EC;
 --- Page 295 ---
-(13) The number of applications submitted to the supervisory authority to use the transitional risk-free interest rate
-term structure referred to in Article 308c Directive 2009/138/EC, how many were successful and the number
-of decisions to revoke the approval of this transitional measure pursuant to article 308e of Directive/EC.
-
-
-(14) The number of applications submitted to the supervisory authority to use the transitional deduction to
-technical provisions referred to in Article 308d Directive 2009/138/EC and how many were successful.
-
-
-(15) The number of meetings of Colleges of supervisors which the supervisory authority attended as a member and
-those chaired as group supervisor;
-
-
-(16) The number of applications submitted to the supervisory authority for the approval of ancillary own funds,
-how many of those applications were successful and the main feature of the items approved;
-
-
-(17) The number of applications submitted to the supervisory authority for approval of the assessment and classifi­
-
-cation of own-fund items, which are not covered by the list of the Articles 69, 72, 74, 76 and 78, how many
-of those applications were successful, the main features of the items and the method used to assess and classify
-them;
-
-
-(18) The number and scope of peer review analyses organised and conducted by EIOPA in accordance with
-Article 30 of the Regulation (EU) No 1094/2010, in which the supervisory authority participated.
-
-
-The information set out in paragraphs 2 to 15 shall be provided in relation to the last calendar year.

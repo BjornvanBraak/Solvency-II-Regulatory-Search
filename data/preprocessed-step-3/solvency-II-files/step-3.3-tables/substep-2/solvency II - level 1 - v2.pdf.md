@@ -1,4 +1,3 @@
-
 --- Page 1 ---
 11.72.2009 EN
 
@@ -43,7 +42,7 @@ Having regard to the proposal from the Commission,
 
 
 Having regard to the opinion of the European Economic and
-Social Committee ( 1] ),
+Social Committee ( [1] ),
 
 
 After consulting the Committee of the Regions,
@@ -17290,19 +17289,11 @@ a European Company (SE) as defined in Regulation (EC) No 2157/2001.
 
 The Basic Solvency Capital Requirement set out in Article 104(1) shall be equal to the following:
 
-
-
-Bcisa SCR = ∑
-# √
-
-j,i
-
-
-
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
+<equation>
+$$
+\text{Basic SCR} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
+$$
+</equation>
 
 
 where SCR i denotes the risk module i and SCR j denotes the risk module j, and where ‘i,j’ means that the sum of the dif­
@@ -17329,7 +17320,9 @@ The factor Corr i,j denotes the item set out in row i and in column j of the fol
 
 
 
-![A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
+
+<image>
+A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
 i
 j
 Market
@@ -17337,6 +17330,8 @@ Default
 Life
 Health
 Non-life
+</image>
+
 
 
 
@@ -17362,19 +17357,11 @@ Non-life 0,25 0,5 0 0 1
 
 The non-life underwriting risk module set out in Article 105(2) shall be equal to the following:
 
-
-
-SCR nonefil- = ∑
-# ~~√~~
-
-j,i
-
-
-
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
+<equation>
+$$
+\text{SCR}_{\text{non-life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_{i} \times \text{SCR}_{j}}
+$$
+</equation>
 
 
 where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
@@ -17392,19 +17379,11 @@ following:
 
 The life underwriting risk module set out in Article 105(3) shall be equal to the following:
 
-
-
-SC [R] efil = ∑
-# √
-
-j,i
-
-
-
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
+<equation>
+$$
+\text{SCR}_{\text{life}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_i \times \text{SCR}_j}
+$$
+</equation>
 
 
 where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
@@ -17441,19 +17420,11 @@ Structure of the market risk module
 
 The market risk module, set out in Article 105(5) shall be equal to the following:
 
-
-
-SCR mrakte = ∑
-# ~~√~~
-
-j,i
-
-
-
-Co × SC × SC
-
-[rr] j,i [R] i [R] j
-
+<equation>
+$$
+\text{SCR}_{\text{market}} = \sqrt{\sum_{i,j} \text{Corr}_{i,j} \times \text{SCR}_i \times \text{SCR}_j}
+$$
+</equation>
 
 
 where SCR i denotes the sub-module i and SCR j denotes the sub-module j, and where ‘i,j’ means that the sum of the dif­
@@ -17970,75 +17941,3 @@ only Article 1
 
 only Article 1
 --- Page 130 ---
-L 335/130 EN
-
-
-
-Official Journ al of the E uropean Un ion 17.12.2009
-
-
-PART B
-
-
-**List of time-limits for transposition into national law**
-
-
-(referred to in Article _310_ )
-
-
-Directive Time-limit for transposition Time-limit for application
-
-
-/EEC 26 August 1965
-
-/EEC 27 January 1975 27 January 1976
-
-/EEC 27 January 1975
-
-/EEC 31 December 1976
-
-/EEC 2 December 1979 2 June 1980
-
-/EEC 30 June 1987 1 January 1988
-
-/EEC 1 January 1990 1 July 1990
-
-/EEC 1 January 1990 1 July 1990
-
-/EEC 30 December 1989 30 June 1990
-
-/EEC 20 May 1992 20 November 1992
-
-/EEC 31 December 1993 1 July 1994
-
-/EC 18 July 1996 18 July 1996
-
-/EC 5 June 2000
-
-/EC 20 July 2002 20 January 2003
-
-/EC 17 November 2002
-
-/EC 20 April 2003
-
-/EC 20 September 2003
-
-/EC 17 November 2002, 20 Septem­
-ber 2003, 19 June 2004 (depending
-upon particular provision)
-
-/EC 11 August 2004
-
-/EC 1 May 2004
-
-/EC 13 May 2005
-
-/EC 11 June 2007
-
-/EC 10 December 2007
-
-/EC 1 January 2007
-
-/EC Not applicable
-
-/EC Not applicable

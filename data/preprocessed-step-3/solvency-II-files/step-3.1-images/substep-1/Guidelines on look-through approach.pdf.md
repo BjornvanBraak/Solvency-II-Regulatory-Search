@@ -1,18 +1,10 @@
 
 --- Page 1 ---
 EIOPA-BoS-14/171 EN
-
-
-
-
-
-!A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
+<image>
+A title slide with the text "Guidelines on look-through approach" in black bold font on a light blue background.
 Guidelines on look-through approach
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/

@@ -4,21 +4,19 @@ EIOPA-BoS-15/109 EN
 
 
 Guidelines on reporting and public
-
-
-
-
-
-!A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
+<image>
+A concise summary of the image for retrieval: A slide title in bold, black font on a light blue background that reads "Guidelines on reporting and public".
 
 Extracted text from the image:
-Guidelines on reporting and public](#)
+Guidelines on reporting and public
+</image>
+
 
 
 <image>
-![A light blue title slide with the black text "Guidelines on reporting and public disclosure".
+A light blue title slide with the black text "Guidelines on reporting and public disclosure".
 
-Guidelines on reporting and public disclosure](#)
+Guidelines on reporting and public disclosure
 </image>
 
 
@@ -26,17 +24,17 @@ Guidelines on reporting and public disclosure](#)
 
 
 <image>
-![A close-up of the word 'disclosure' in black bold font with a subtle drop shadow, set against a light blue background.
+A close-up of the word 'disclosure' in black bold font with a subtle drop shadow, set against a light blue background.
 
 disclosure
+</image>
+
 
 
 
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
-[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu)
-</image>
- [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
+[Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site:](mailto:info@eiopa.europa.eu) [https://eiopa.europa.eu/](https://eiopa.europa.eu/)
 --- Page 2 ---
 **1.** **Introduction**
 

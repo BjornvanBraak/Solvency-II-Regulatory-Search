@@ -1,19 +1,10 @@
-
 --- Page 1 ---
 EIOPA-BoS-14/172 EN
-
-
-
-
-
-!A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
+<image>
+A slide title or header that says "Guidelines on basis risk" in bold black text on a light blue background.
 
 Guidelines on basis risk
-
-
-
-
-
+</image>
 EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20;
 
 Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.eu/
@@ -161,63 +152,3 @@ material.
 the Solvency Capital Requirement with the standard formula, undertakings
 should identify whether reinsurance or special purpose vehicle arrangements
 --- Page 4 ---
-behave differently than the insurance policies of the undertaking under a
-comprehensive set of risk scenarios due to differences in terms and conditions.
-
-
-1.14. Undertakings should consider basis risk arising from a currency mismatch to be
-
-material where the exposure covered by the insurance risk-mitigation technique
-is denominated in a different currency than the risk exposure of the
-undertaking, unless the currencies involved are pegged within a sufficiently
-narrow corridor or the fixed exchange rate is provided in the reinsurance
-
-contract.
-
-
-1.15. If there is material basis risk stemming from a currency mismatch as referred
-
-to in paragraph 1.14, undertakings should not allow for the risk-mitigation
-technique in the calculation of the Solvency Capital Requirement unless the
-provisions of Article 86 of Commission Delegated Regulation (EU) 2015/35 of 10
-October 2014 supplementing Directive 2009/138/EC [3] apply.
-
-
-**Compliance and Reporting Rules**
-
-
-1.16. This document contains Guidelines issued under Article 16 of the EIOPA
-
-
-Regulation. In accordance with Article 16(3) of the EIOPA Regulation,
-Competent Authorities and financial institutions shall make every effort to
-comply with guidelines and recommendations.
-
-
-1.17. Competent authorities that comply or intend to comply with these Guidelines
-
-should incorporate them into their regulatory or supervisory framework in an
-appropriate manner.
-
-
-1.18. Competent authorities shall confirm to EIOPA whether they comply or intend to
-
-comply with these Guidelines, with reasons for non-compliance, within two
-
-months after the issuance of the translated versions.
-
-
-1.19. In the absence of a response by this deadline, competent authorities will be
-
-considered as non-compliant to the reporting and reported as such.
-
-
-**Final Provision on Reviews**
-
-
-1.20. The present Guidelines shall be subject to a review by EIOPA.
-
-
-3 OJ L 12, 17.01.2015, p. 1-797
-
-

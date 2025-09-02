@@ -43,7 +43,7 @@ Having regard to the proposal from the Commission,
 
 
 Having regard to the opinion of the European Economic and
-Social Committee ( 1] ),
+Social Committee ( [1] ),
 
 
 After consulting the Committee of the Regions,
@@ -17329,7 +17329,9 @@ The factor Corr i,j denotes the item set out in row i and in column j of the fol
 
 
 
-![A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
+
+<image>
+A header row for a table or matrix with row index 'i' and column index 'j'. The columns are labeled Market, Default, Life, Health, and Non-life, likely representing different risk categories in finance or insurance.
 i
 j
 Market
@@ -17337,6 +17339,8 @@ Default
 Life
 Health
 Non-life
+</image>
+
 
 
 

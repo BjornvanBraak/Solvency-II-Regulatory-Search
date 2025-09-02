@@ -1,8 +1,10 @@
 from langchain_chroma import Chroma
 import streamlit as st
-from markdown_it import MarkdownIt
 # from markdown_it_py import MarkdownIt #internally streamlit uses this as well, potential dependency conflict, be aware.
+from markdown_it import MarkdownIt
+from mdit_py_plugins.admon import admon_plugin
 md = MarkdownIt()
+md.use(admon_plugin)
 md.enable('table')
 
 from dotenv import load_dotenv
@@ -165,6 +167,33 @@ st.markdown("""
         th {
             background-color: #0073AB;
             color: white;
+        }
+    </style>
+    <style>
+        .admonition {
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-left: .25rem solid;
+            border-radius: .25rem;
+            color: #333; /* Darker text for readability */
+        }
+        .admonition-title {
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .admonition.warning {
+            background-color: #fffbe5; /* Light yellow background */
+            border-left-color: #ffc107; /* Amber border */
+        }
+        .admonition.warning .admonition-title {
+            color: #b38600; /* Darker yellow for title */
+        }
+        .admonition.note {
+            background-color: #e3f2fd; /* Light blue background */
+            border-left-color: #2196f3; /* Blue border */
+        }
+        .admonition.note .admonition-title {
+            color: #1565c0; /* Darker blue for title */
         }
     </style>
 """, unsafe_allow_html=True)
@@ -536,6 +565,7 @@ def displaySources(link):
                 gap: 0rem;
             }}
         </style>
+        
         """, unsafe_allow_html=True
     )
     
@@ -555,7 +585,6 @@ def displaySources(link):
                 non_empty_headings = [re.sub(r"\*{1,2}", r"", heading) for heading in document_source["heading_hierarchy"] if heading != ""]
                 last_heading = non_empty_headings[-1] if non_empty_headings else "Part of " + document_source["short_title"]
                 print(f"non empty headings: {non_empty_headings}")
-
 
                 print(f"[DisplaySources] Document link: {document_source["link"]}, page number: {page_number}")
                 with st.container(key=f"source-block-container-{document_source['id']}"):
@@ -577,9 +606,26 @@ with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powered by Triple A")
 
-    # with st.popover("test"):
-    #     st.markdown("# Test")
+    chat_col.markdown("![\n\nHey\n\n](#)")
 
+    chat_col.markdown("""*AI-Generated* \n
+    [!WARNING] 
+    AI generated description of an image
+1. Contract boundaries determine the premiums and obligations that belong to the contract
+considering the rights and risks for the undertakings. Where the undertaking can compel
+
+the policyholder to pay the premium, the premium and the related obligations belong to
+
+the contract because the undertaking has the right to request and keep the premium.
+
+Where the undertaking has the obligation to accept new premiums and cover the related
+
+obligations, but does not hold the unilateral right to amend the premiums/benefits so that
+
+the premiums fully reflect the risk, these premiums and the related obligations belong to
+
+the contract because the undertaking has the obligation to cover the risks.                
+    """)
 # with pdf_col:
 #     st.markdown('<iframe id=pdf_sidebar_test src="http://localhost:8501/app/static/solvency-II-files/guidelines-level%203-v0.1%20-%20TRUNCATED/Guidelines%20on%20Own%20Risk%20Solvency%20Assessment%20.pdf#page=4" width="600" height="550" type="application/pdf"></iframe>', unsafe_allow_html=True)
 
@@ -787,13 +833,18 @@ with chat_col:
                 source_metadata += f"\n* Header 5: {header_5}\n" if header_5 else ""
 
             # document_source is the UI data format, used to both display pdf sources, and page_content on click
+            page_content = chunk.page_content
+            if "<image" in page_content:
+                # Add warning of AI generated
+                page_content = """\n!!! warning\n\tContains AI generated content\n""" + page_content
+
             document_source = {
                     "id": str(uuid.uuid4()),
                     "source_index": source_index,
                     "link": str(chunk.metadata["source"]).split("data\\raw\\")[-1],
                     "title": title,
                     "short_title": short_title,
-                    "page_content": chunk.page_content,
+                    "page_content": page_content,
                     "query": query,
                     "query_id": query_id
                 }
@@ -951,7 +1002,7 @@ with chat_col:
                     if document_source["source_index"] == int(source_num):
                         return document_source
                 
-                messages_container.warning("Warning: could not find, source may be hallucinated!")
+                messages_container.warning("Warning: could not source, may be hallucinated!")
                 
                 print("Document_source: ", document_source)
                 print(source_num)

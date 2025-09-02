@@ -1,7 +1,5 @@
 
 --- Page 1 ---
-
-
 JC 2024 28
 
 
@@ -15,7 +13,7 @@ JC 2024 28
 
 
 1. These Guidelines are issued pursuant to Article 16 of Regulation (EU) No 1093/2010, Regulation
-(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) 1] . In accordance with
+(EU) No 1094/2010 and Regulation (EU) No 1095/2010 (the ESA Regulations) [1] . In accordance with
 
 Article 16(3) of the ESA Regulations, competent authorities, financial market participants and
 
@@ -672,7 +670,9 @@ EBA Regular Use
 
 
 
-![A flowchart illustrating the decision-making process for classifying crypto-assets under the MiCAR (Markets in Crypto-Assets) regulation. The diagram helps determine if a token is a crypto-asset, an asset-referenced token (ART), an e-money token (EMT), or falls outside the scope of MiCAR based on a series of questions about its nature, technology, issuance, and value.
+
+<image>
+A flowchart illustrating the decision-making process for classifying crypto-assets under the MiCAR (Markets in Crypto-Assets) regulation. The diagram helps determine if a token is a crypto-asset, an asset-referenced token (ART), an e-money token (EMT), or falls outside the scope of MiCAR based on a series of questions about its nature, technology, issuance, and value.
 
 Is the token a digital representation of a value or of a right?
 No
@@ -725,3 +725,5 @@ Officially recognised occupational pension schemes falling within the scope of D
 Individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider
 Pan-European Personal Pension Product as defined in Article 2(2) of Regulation (EU) 2019/1238 (PEPP)
 Social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009
+</image>
+
