@@ -1,19 +1,23 @@
+from langchain_chroma import Chroma
 import streamlit as st
 from markdown_it import MarkdownIt
 # from markdown_it_py import MarkdownIt #internally streamlit uses this as well, potential dependency conflict, be aware.
 md = MarkdownIt()
+md.enable('table')
 
 from dotenv import load_dotenv
 import json
 import os
 import re
 import uuid
+import pickle
 
 from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_core.messages.ai import AIMessageChunk
 from langchain.retrievers.contextual_compression import ContextualCompressionRetriever
 
-
+from langchain.retrievers.multi_vector import MultiVectorRetriever
+from langchain.storage import InMemoryByteStore
 
 import time
 import streamlit.components.v1 as components
@@ -137,6 +141,32 @@ st.markdown("""
                 bottom: -1500px;
             }
     </style>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: sans-serif;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+        
+        tr {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(242, 242, 242, 0.5);
+        }
+
+        th {
+            background-color: #0073AB;
+            color: white;
+        }
+    </style>
 """, unsafe_allow_html=True)
 
 
@@ -185,7 +215,7 @@ sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
-    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V2, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
+    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V2, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
     format_func=lambda x: x.value["display_name"]
 )
 
@@ -237,12 +267,41 @@ def cached_llm(llm_option: Language_Model):
 def cached_vectorstore(embedding_model_option):
     return model_integrations.load_vectorstore(embedding_model_option)
 
+def chroma_hasher(vectorstore) -> str:
+    # Example: hash on collection name + persist path
+    return f"{vectorstore._collection.name}"
+
+@st.cache_resource(hash_funcs={Chroma: chroma_hasher})
+def cached_retriever(embedding_model_option, vectorstore):
+    if "doc_persist_directory" in embedding_model_option.value:
+        # Multivector embedding
+        # NOTE: ENTIRE DOCSTORE IS SAVED AS A PICKLE FILE FOR PROOF OF CONCEPT
+        # loads in list(zip(chunk_ids, chunks))
+        with open(os.path.join(embedding_model_option.value["doc_persist_directory"], embedding_model_option.value["collection_name"] + ".pkl"), "rb") as f:
+            doc_store = pickle.load(f)
+
+        byte_store = InMemoryByteStore()
+        id_key = embedding_model_option.value["foreign_key_id"]
+
+        retriever = MultiVectorRetriever(
+            vectorstore=vectorstore,
+            byte_store=byte_store,
+            id_key=id_key,
+        )
+
+        # load docstore into memory
+        retriever.docstore.mset(doc_store)
+        return retriever
+    else:
+        return vectorstore.as_retriever(search_kwargs={"k": k})
+
 # load models and vectorstore
 # cached because streamlit reloads after each user input
 embedding_model = cached_embedding_model(embedding_model_option)
 reranker_model = cached_reranker_model(reranker_model_option, top_n)
 llm = cached_llm(llm_option)
 vectorstore = cached_vectorstore(embedding_model_option)
+retriever = cached_retriever(embedding_model_option, vectorstore)
 
 load_elapsed_time = time.time() - load_start_time
 print(f"[INFO]Elapsed time for loading libraries and vector database: {load_elapsed_time}s")
@@ -565,6 +624,9 @@ popover_elements_event_listener = """
 </script>
 """
 
+def escape_curly_braces(text: str) -> str:
+    return text.replace("{", "{{").replace("}", "}}")
+
 footer = st.container(key="footer-container") # dump for any container with no visual elements
 
 # CHAT INTERFACE
@@ -588,7 +650,7 @@ with chat_col:
                     if "thoughts" in message and message["thoughts"] != "":
                         with st.chat_message("assistant", avatar="💭"):
                             thought_expander = st.expander("**Thoughts...**")
-                            thought_expander.write(message["thoughts"])
+                            thought_expander.write(message["thoughts"])         
 
                     with footer:
                         # hide styling and script from main container.
@@ -662,29 +724,6 @@ with chat_col:
             # matched_documents = reranker_model.rerank(query=query, documents=matched_documents)
         else:
             print(f"[INFO] Reranking documents with {reranker_model_option.value['model']}")
-            if ENRICHED_VECTOR_STORE:
-                # EXAMPLE ON HOW TO USE MultiVectorRetriever
-                from langchain.retrievers.multi_vector import MultiVectorRetriever
-                from langchain.storage import InMemoryByteStore
-
-                # NOTE: ENTIRE DOCSTORE IS SAVED AS A PICKLE FILE FOR PROOF OF CONCEPT
-                # load in list(zip(chunk_ids, chunks))
-                with open(os.path.join("doc_stores", "table_data.pkl"), "rb") as f:
-                    doc_store = pickle.load(f)
-
-                byte_store = InMemoryByteStore()
-                id_key = "parent_doc_id"
-
-                retriever = MultiVectorRetriever(
-                    vectorstore=vectorstore,
-                    byte_store=byte_store,
-                    id_key=id_key,
-                )
-
-                # load docstore into memory
-                retriever.docstore.mset(doc_store)
-            else:
-                retriever = vectorstore.as_retriever(search_kwargs={"k": k})
             
             # create retriever + reranker
             compressor = ContextualCompressionRetriever(base_compressor=reranker_model, 
@@ -758,13 +797,12 @@ with chat_col:
                     "query": query,
                     "query_id": query_id
                 }
-            
-            if embedding_model_option.value["data-ingestion-pipeline"] == "v3":
+
+            if embedding_model_option.value["data-ingestion-pipeline"] == "v3" or embedding_model_option.value["data-ingestion-pipeline"] == "v4":
                 # add additional metadata for v3 data ingestion pipeline
                 document_source["page_number"] = chunk.metadata.get("page_number", "")
                 document_source["heading_hierarchy"] = heading_hierarchy
-                
-                
+ 
 
             document_sources.append(document_source)
 
@@ -791,19 +829,15 @@ with chat_col:
 
         chat = [("system", generation_instructions) , ]
 
-        def escape_for_prompt_template(text: str) -> str:
-            return text.replace("{", "{{").replace("}", "}}")
-
-        escape_for_prompt_template("SCR = BSCR + \\text{Operational Risk} - \\text{Loss-absorbing capacity adjustments}\n")
-
         for message in st.session_state.messages:
             if message["role"] == "system":
                 continue
             if message["role"] == "user":
-                chat.append(("user", message["prompt"]))
+                escaped_prompt = escape_curly_braces(message["prompt"])
+                chat.append(("user", escaped_prompt))
             elif message["role"] == "assistant":
                 # text may contain latex with curly braces: \\text{Operational Risk}
-                escaped_content_unformatted = escape_for_prompt_template(message["content_unformatted"])
+                escaped_content_unformatted = escape_curly_braces(message["content_unformatted"])
                 chat.append(("assistant", escaped_content_unformatted))
 
         chat.append(("user", prompt))

@@ -2,7 +2,8 @@
 import os
 from enum import Enum
 DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "pension-martijn-embeddings")
-SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY = os.path.join("data", "vector_stores", "solvency-II-files")
+SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE = os.path.join("data", "vector_stores", "solvency-II-files")
+SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_DOCSTORE = os.path.join("data", "doc_stores", "solvency-II-files")
 
 class Embedding_Model(Enum):
     # AZURE_TEXT_EMBEDDING_3_SMALL = {"display_name": "openai-text-embedding-3-small-v1", "model":"text-embedding-3-small", "data-ingestion-pipeline": "v1", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_SMALL_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "DATA_QUALITY_PENSION", "persist_directory": DUMMY_CASE_DATA_QUALITY_PENSION_FUNDS_PERSIST_DIRECTORY}
@@ -15,10 +16,11 @@ class Embedding_Model(Enum):
     # If you are using the experimental gemini-embedding-exp-03-07, you won’t need to re-embed your contents but it will no longer be supported by the Gemini API on August 14, 2025. Legacy models will also be deprecated in the coming months:
     #     embedding-001 on August 14, 2025 and
     #     text-embedding-004 on January 14, 2026
-    GEMINI_EMBEDDING_001_SOLVENCY_II = {"display_name": "gemini-embedding-001", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-001", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "GEMINI_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
-    QWEN_3_EMBEDDING_SOLVENCY_II = {"display_name": "Qwen3-Embedding-8B", "data-ingestion-pipeline": "v2", "model": "Qwen/Qwen3-Embedding-8B", "api_key": os.environ["DEEPINFRA_API_KEY"], "collection_name": "QWEN_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
-    AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2 = {"display_name": "openai-text-embedding-3-large-v2", "data-ingestion-pipeline": "v3", "model":"text-embedding-3-large", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_LARGE_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "OPENAI_SOLVENCY_II_V2.2", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
-    QWEN_3_EMBEDDING_SOLVENCY_II_V2 = {"display_name": "Qwen3-Embedding-8B-v2", "data-ingestion-pipeline": "v3", "model": "Qwen/Qwen3-Embedding-8B", "api_key": os.environ["DEEPINFRA_API_KEY"], "collection_name": "QWEN_SOLVENCY_II_V2.2", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY}
+    GEMINI_EMBEDDING_001_SOLVENCY_II = {"display_name": "gemini-embedding-001", "data-ingestion-pipeline": "v2", "model": "gemini-embedding-001", "api_key": os.environ["GOOGLE_API_KEY"], "collection_name": "GEMINI_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE}
+    QWEN_3_EMBEDDING_SOLVENCY_II = {"display_name": "Qwen3-Embedding-8B", "data-ingestion-pipeline": "v2", "model": "Qwen/Qwen3-Embedding-8B", "api_key": os.environ["DEEPINFRA_API_KEY"], "collection_name": "QWEN_SOLVENCY_II_V1", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE}
+    AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2 = {"display_name": "openai-text-embedding-3-large-v2", "data-ingestion-pipeline": "v3", "model":"text-embedding-3-large", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_LARGE_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "OPENAI_SOLVENCY_II_V2.2", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE}
+    QWEN_3_EMBEDDING_SOLVENCY_II_V2 = {"display_name": "Qwen3-Embedding-8B-v2", "data-ingestion-pipeline": "v3", "model": "Qwen/Qwen3-Embedding-8B", "api_key": os.environ["DEEPINFRA_API_KEY"], "collection_name": "QWEN_SOLVENCY_II_V2.2", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE}
+    AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3 = {"display_name": "openai-text-embedding-3-large-v3", "data-ingestion-pipeline": "v4", "model":"text-embedding-3-large", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_TEXT_EMBEDDING_LARGE_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "collection_name": "OPENAI_SOLVENCY_II_V3_TEST", "persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_VECTORSTORE, "doc_persist_directory": SOLVENCY_II_REGULATION_SEARCH_PERSIST_DIRECTORY_DOCSTORE, "foreign_key_id": "tag_aware_chunk_id"}
 
 class Language_Model(Enum):
     AZURE_GPT_4O_MINI = {"model": "gpt-4o-mini", "api_endpoint": os.environ["AZURE_OPENAI_ENDPOINT"], "api_version": os.environ["AZURE_4O_MINI_VERSION"], "api_key": os.environ["AZURE_OPENAI_API_KEY"], "temperature": 0.2}

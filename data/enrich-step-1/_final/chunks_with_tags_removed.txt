@@ -120,7 +120,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
-<table>
 |Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
 |---|---|---|---|---|---|---|---|---|
 |**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
@@ -128,7 +127,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
 |**BE undiscounted**||||**176 **|||||
-</table>
 --- End of Chunk ---
 
 
@@ -156,7 +154,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
-<table>
 |Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
 |---|---|---|---|---|---|---|---|---|
 |**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
@@ -164,7 +161,6 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
 |**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
 |**BE undiscounted**||||**176 **|||||
-</table>
 
 
 6. The horizon of projection of future cash flows is not affected by the contract boundaries.
@@ -176,7 +172,6 @@ related to previous obligations should be projected beyond t+1.
 
 
 
-<image>
 ![A concise summary of Guideline 1, which mandates the consistent application of principles for determining contract boundaries in all insurance and reinsurance contracts over time.
 --- End of Chunk ---
 
@@ -187,13 +182,11 @@ related to previous obligations should be projected beyond t+1.
 --- Start of Chunk ---
 
 Insurance and reinsurance undertakings should ensure that the principles for determining contract boundaries are consistently applied to all insurance and reinsurance contracts, in particular over time.](#)
-</image>
 
 
 
 
 
-<image>
 ![A concise summary of Guideline 2, which defines the concept of a "unilateral right" for insurance and reinsurance undertakings. This guideline outlines the conditions under which the right to terminate, reject, or amend premiums and benefits in a contract is considered unilateral, meaning it cannot be restricted by the policyholder or third parties. It provides specific clarifications regarding external assessments, reputational risk, national laws, and dependency on policyholder decisions or claim events.
 --- End of Chunk ---
 
@@ -223,7 +216,6 @@ c) Undertakings should consider that national laws limit their unilateral right 
 d) Undertakings should disregard the right to unilaterally amend the premiums or the benefits payable under the contract if the premiums or benefits payable depend solely on the decisions of the policy holder or the beneficiary.
 
 e) Undertakings should disregard the right to unilaterally terminate the contract or reject premiums payable under the contract if the exercise of this right, as specified in the terms and conditions of the contract, is conditional on the occurrence of a claim event.](#)
-</image>
 
 
 
@@ -337,7 +329,6 @@ existence of a predefined bonus/malus system.
 
 
 
-<image>
 ![A concise summary of Guideline 3, which concerns the ability of insurance or reinsurance undertakings to compel a policyholder to pay a premium only when the payment is legally enforceable.
 --- End of Chunk ---
 
@@ -348,7 +339,6 @@ existence of a predefined bonus/malus system.
 --- Start of Chunk ---
 
 Insurance or reinsurance undertakings should recognise their ability to compel a policy holder to pay a premium only if the policyholder’s payment is legally enforceable.](#)
-</image>
 
 
 
@@ -462,7 +452,6 @@ circumstances and with similar consequences.
 
 
 
-<image>
 ![A concise summary of "Guideline 5 - Contract Boundaries" for insurance and reinsurance undertakings. The guideline explains the conditions for unbundling contracts based on risk equivalence, assessment at recognition and valuation dates, and a simplified approach. It also covers the treatment of options, implications under the Solvency II Directive, and states that unbundled parts are treated as independent contracts.
 --- End of Chunk ---
 
@@ -486,7 +475,6 @@ Notwithstanding the previous point, where all the parts of a contract have the s
 When an option or guarantee covers more than one part of the contract, insurance and reinsurance undertakings should determine whether it is possible to unbundle it or whether it should be attributed to the relevant part of the contract.
 If a contract is considered an insurance contract under Solvency II Directive, insurance and reinsurance undertakings should consider all unbundled parts of the contract to give rise to insurance or reinsurance obligations.
 If a contract is unbundled for the purposes of assessing contract boundaries, each part should be treated as an independent contract.](#)
-</image>
 --- End of Chunk ---
 
 
@@ -771,11 +759,9 @@ so they are to be projected regardless of contract boundaries.
 
 
 
-<image>
 ![A text discussing the valuation of obligations for insurance and reinsurance companies with financial guarantees. The text emphasizes considering guaranteed benefits and the time value of options and guarantees during this assessment.
 
 calculating the value of the obligations with the financial guarantee, insurance and reinsurance undertakings should consider in the valuation any form of guaranteed benefits stemming from the financial guarantee. Proper consideration of the time value of options and guarantees is relevant for this assessment.](#)
-</image>
 
 
 **Explanatory text**
@@ -959,7 +945,6 @@ policyholders. Any other future discretionary benefit should be considered in th
 assessment.
 
 
-<image>
 ![A concise summary of Guideline 6B for insurance and reinsurance undertakings on identifying coverage for uncertain events. The guideline specifies that a discernible economic effect on a contract exists only if the cover is linked to future premiums and provides a discernible financial advantage to the policyholder, which is assessed by considering all potential future cash flows.
 --- End of Chunk ---
 
@@ -972,7 +957,6 @@ assessment.
 When determining whether the coverage for a specified uncertain event that adversely affects the insured person (cover) has no discernible effect on the economics of a contract, insurance and reinsurance undertakings should take into account all potential future cash flows, which may arise from the contract.
 Insurance and reinsurance undertakings should consider a cover as having a discernible effect on the economics of a contract only if the cover is linked to the payment of the future premiums and provides the policyholder with a discernible financial advantage.
 When determining whether a cover provides a discernible financial advantage, insurance and reinsurance undertakings should consider the extent to which the whole set of future cash](#)
-</image>
 
 
 
@@ -1111,7 +1095,6 @@ assessment.
 
 
 
-<image>
 ![A concise summary of guidelines for insurance and reinsurance undertakings regarding the reassessment of contract boundaries. It details the specific conditions for changing boundaries, reporting requirements for material impacts on solvency to supervisory authorities under Article 312(3) of the Delegated Regulation, and clarifies that reassessment is not required for calculating the best estimate or SCR under stressed scenarios.
 
 Insurance and reinsurance undertakings should change contract boundaries after this reassessment only if the reassessment leads to a clearly different conclusion than the assessment performed to define the current contract boundaries.
@@ -1121,7 +1104,6 @@ When the reassessment of the discernible effect of a cover or financial guarante
 Otherwise, the assessment whether a cover or financial guarantee has a discernible effect on the economics of the contract should not change.
 
 Insurance and reinsurance undertakings should not reassess contract boundaries for the different scenarios used to calculate the best estimate using simulation methods nor for the stressed scenarios used to calculate the SCR.](#)
-</image>
 
 
 **Explanatory text**
@@ -1336,7 +1318,6 @@ consistent with the contract boundaries determined at the valuation date.
 
 
 
-<image>
 ![A concise summary of Guideline 7 on the estimation of obligations for insurance and reinsurance undertakings. It advises on estimating contract boundaries using available information when full details are lacking at recognition, and revising the assessment as more information becomes available.
 --- End of Chunk ---
 
@@ -1348,7 +1329,6 @@ consistent with the contract boundaries determined at the valuation date.
 
 Insurance or reinsurance undertakings should, where details of a contract or the full extent of the obligations covered by a contract are not available to the undertaking at the time of recognition of the contract, estimate the boundaries of the contracts using all available information in a manner consistent with the principles set out in these Guidelines.
 Undertakings should revise this estimated assessment as soon as more detailed information is available.](#)
-</image>
 
 
 
@@ -2501,7 +2481,6 @@ considered as non-compliant to the reporting and reported as such.
 
 
 
-<image>
 ![A slide outlining Guideline 1, the general approach for an undertaking's Own Risk and Solvency Assessment (ORSA). It specifies that processes must be tailored to the organization's structure, risk-management system, and the nature, scale, and complexity of its business risks.
 --- End of Chunk ---
 
@@ -2512,7 +2491,6 @@ considered as non-compliant to the reporting and reported as such.
 --- Start of Chunk ---
 
 The undertaking should develop for the ORSA its own processes with appropriate and adequate techniques, tailored to fit into its organisational structure and risk-management system and taking into consideration the nature, scale and complexity of the risks inherent to the business.](#)
-</image>
 
 
 
@@ -2622,7 +2600,6 @@ included in the ORSA.
 
 
 
-<image>
 ![A concise summary of Guideline 2, which defines the role of the AMSB using a top-down approach. The AMSB must actively participate in the ORSA, including steering the assessment and challenging its results.
 --- End of Chunk ---
 
@@ -2633,7 +2610,6 @@ included in the ORSA.
 --- Start of Chunk ---
 
 The AMSB should take an active part in the ORSA, including steering, how the assessment is to be performed and challenging the results.](#)
-</image>
 
 
 
@@ -2675,7 +2651,6 @@ alternatives to ensure that capital requirements can be met even under
 unexpectedly adverse circumstances.
 
 
-<image>
 ![A concise summary of Guideline 3 regarding documentation for the ORSA. The guideline specifies that an undertaking must have at least four types of documentation: a policy for the ORSA, a record of each ORSA, an internal report on each ORSA, and a supervisory report of the ORSA.
 --- End of Chunk ---
 
@@ -2690,7 +2665,6 @@ a) the policy for the ORSA;
 b) record of each ORSA;
 c) an internal report on each ORSA;
 d) a supervisory report of the ORSA.](#)
-</image>
 
 
 
@@ -2761,7 +2735,6 @@ written policy on risk management. As risk management includes the ORSA,
 undertakings have to develop a policy for ORSA.
 
 
-<image>
 ![A concise summary of Guideline 5, which mandates that undertakings must evidence and document each Own Risk and Solvency Assessment (ORSA) and its outcome to maintain a proper record.
 --- End of Chunk ---
 
@@ -2772,7 +2745,6 @@ undertakings have to develop a policy for ORSA.
 --- Start of Chunk ---
 
 The undertaking should evidence and document each ORSA and its outcome.](#)
-</image>
 
 
 
@@ -2891,7 +2863,6 @@ m) a record of the challenge process performed by the AMSB.
 
 
 
-<image>
 ![A concise summary of Guideline 6, which covers the internal reporting on the ORSA (Own Risk and Solvency Assessment). It states that the undertaking must communicate the results and conclusions of the ORSA to all relevant staff after the process and results have been approved by the AMSB.
 --- End of Chunk ---
 
@@ -2902,7 +2873,6 @@ m) a record of the challenge process performed by the AMSB.
 --- Start of Chunk ---
 
 The undertaking should communicate to all relevant staff at least the results and conclusions of the ORSA, once the process and the results have been approved by the AMSB.](#)
-</image>
 
 
 
@@ -2933,7 +2903,6 @@ the same report may be submitted to the supervisory authority.
 
 
 
-<image>
 ![A concise summary of Guideline 7 regarding the assessment of overall solvency needs. It mandates that undertakings quantify capital needs and describe methods to address all material risks, regardless of their quantifiability. It also suggests using stress tests and scenario analyses to establish a solid foundation for this assessment.
 --- End of Chunk ---
 
@@ -2945,7 +2914,6 @@ the same report may be submitted to the supervisory authority.
 
 The undertaking should provide a quantification of the capital needs and a description of other means needed to address all material risks irrespective of whether the risks are quantifiable or not.
 Where appropriate, the undertaking should subject the identified material risks to a sufficiently wide range of stress tests or scenario analyses in order to provide an adequate basis for the assessment of the overall solvency needs.](#)
-</image>
 
 
 
@@ -3152,7 +3120,6 @@ need to cover the use of a different recognition or valuation basis in the
 ORSA to that used in the internal model to calculate the SCR.
 
 
-<image>
 ![A concise summary of Guideline 8, which states that an undertaking's assessment of its overall solvency needs must be forward-looking, incorporating a medium or long-term perspective as appropriate.
 --- End of Chunk ---
 
@@ -3163,7 +3130,6 @@ ORSA to that used in the internal model to calculate the SCR.
 --- Start of Chunk ---
 
 The undertaking should ensure that its assessment of the overall solvency needs is forward-looking, including a medium term or long term perspective as appropriate.](#)
-</image>
 
 
 
@@ -3247,7 +3213,6 @@ respond to unexpected changes in external factors.
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
-<image>
 ![A concise summary of Guideline 9 concerning the valuation and recognition bases for overall solvency needs under Solvency II. It specifies that if an undertaking uses bases different from Solvency II, it must explain how these alternatives better align with its specific risk profile, risk tolerance, and business strategy. Furthermore, it mandates a quantitative estimation of the impact of these different bases on the overall solvency needs assessment.
 --- End of Chunk ---
 
@@ -3259,7 +3224,6 @@ respond to unexpected changes in external factors.
 
 The undertaking should, if it uses recognition and valuation bases that are different from the Solvency II bases in the assessment of its overall solvency needs, explain how the use of such different recognition and valuation bases ensures better consideration of the specific risk profile, approved risk tolerance limits and business strategy of the undertaking, while complying with the requirement for a sound and prudent management of the business.
 The undertaking should quantitatively estimate the impact on the overall solvency needs assessment of the different recognition and valuation bases in those cases where recognition and valuation bases that are different from the Solvency II bases have been used in the assessment of its overall solvency needs.](#)
-</image>
 
 
 
@@ -3283,7 +3247,6 @@ more suitable to its specific business and its risk profile.
 
 
 
-<image>
 ![A concise summary of Guideline 10, which outlines the requirements for an undertaking to continuously comply with Solvency II regulatory capital requirements. The assessment must include analyzing potential changes in risk profile, the quantity and quality of own funds over the business planning period, and the composition of own funds across tiers.
 --- End of Chunk ---
 
@@ -3297,7 +3260,6 @@ The undertaking should analyse whether it complies on a continuous basis with th
 a) the potential future material changes in its risk profile;
 b) the quantity and quality of its own funds over the whole of its business planning period;
 c) the composition of own funds across tiers and how this composition may change as a result of redemption, repayment and maturity dates during its business planning period.](#)
-</image>
 
 
 
@@ -3421,7 +3383,6 @@ improve capital adequacy or its cash flow position after some future stress
 events.
 
 
-<image>
 ![A concise summary of Guideline 11, which mandates that an undertaking's actuarial function must continuously assess compliance with technical provision calculation requirements and identify potential risks arising from uncertainties in these calculations.
 --- End of Chunk ---
 
@@ -3434,7 +3395,6 @@ events.
 The undertaking should require the actuarial function of the undertaking to:
 a) provide input as to whether the undertaking would comply continuously with the requirements regarding the calculation of technical provisions;
 b) identify potential risks arising from the uncertainties connected to this calculation.](#)
-</image>
 
 
 
@@ -3463,7 +3423,6 @@ information contained in the annual report of the actuarial function.
 
 
 
-<image>
 ![A concise summary of Guideline 12, which addresses deviations from the assumptions underlying the Solvency Capital Requirement (SCR) calculation. It states that an undertaking must assess if its risk profile deviates significantly from these assumptions, starting with a qualitative analysis. If the deviation is not significant, a quantitative assessment is not required.
 --- End of Chunk ---
 
@@ -3474,7 +3433,6 @@ information contained in the annual report of the actuarial function.
 --- Start of Chunk ---
 
 The undertaking should assess whether its risk profile deviates from the assumptions underlying the SCR calculation and whether these deviations are significant. The undertaking may as a first step perform a qualitative analysis and if that indicates that the deviation is not significant, a quantitative assessment is not required.](#)
-</image>
 
 
 
@@ -3685,7 +3643,6 @@ which may trigger a change to the internal model.
 
 
 
-<image>
 ![A concise summary of Guideline 13, which mandates linking the Own Risk and Solvency Assessment (ORSA) to strategic management and decision-making. The guideline requires undertakings to incorporate ORSA results and insights into their capital management, business planning, and product development and design.
 --- End of Chunk ---
 
@@ -3699,7 +3656,6 @@ The undertaking should take into account the results of the ORSA and the insight
 a) its capital management;
 b) its business planning;
 c) its product development and design.](#)
-</image>
 
 
 
@@ -3765,7 +3721,6 @@ systems and controls, in order to mitigate risks, it considers the effectiveness
 of those systems and controls in a stress situation.
 
 
-<image>
 ![A concise summary of Guideline 14, which states that an undertaking must perform the ORSA (Own Risk and Solvency Assessment) at least once a year.
 --- End of Chunk ---
 
@@ -3776,7 +3731,6 @@ of those systems and controls in a stress situation.
 --- Start of Chunk ---
 
 The undertaking should perform the ORSA at least annually.](#)
-</image>
 
 
 
@@ -3817,7 +3771,6 @@ changes, portfolio transfers or major changes to the mix of assets.
 
 
 
-<image>
 ![A concise summary of Guideline 15, which outlines the scope of a group's Own Risk and Solvency Assessment (ORSA). The group ORSA must be designed to reflect the group's structure and risk profile, and it needs to cover all material risks from every entity within the group.
 --- End of Chunk ---
 
@@ -3828,7 +3781,6 @@ changes, portfolio transfers or major changes to the mix of assets.
 --- Start of Chunk ---
 
 The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should design the group ORSA to reflect the nature of the group structure and its risk profile. They should cover in the group ORSA the material risks arising from all the entities that are part of the group.](#)
-</image>
 
 
 
@@ -3981,7 +3933,6 @@ all non-regulated entities within the scope of the group.
 --- METADATA Page 29 ---
 --- Start of Chunk ---
 
-<image>
 ![A concise summary of Guideline 16 on reporting to supervisory authorities. It specifies that insurance, reinsurance, and holding companies must send their group supervisory ORSA report to the group supervisor. The report's language must match the group Regular Supervisory Reporting. If a single ORSA is performed, translations of relevant parts must be provided to college members in their official language upon request.
 --- End of Chunk ---
 
@@ -3993,7 +3944,6 @@ all non-regulated entities within the scope of the group.
 
 The participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should send to the group supervisor the group supervisory ORSA report. The document sent to the group supervisor with the outcome of the group ORSA should be in the same language as the group Regular Supervisory Reporting.
 If a single ORSA document has been performed, the participating insurance or reinsurance undertaking, the insurance holding company or the mixed financial holding company should ensure that, if requested by a member or a new member of the college, a translation into the official language of that Member State of the part of the ORSA information concerning the related undertaking is provided to the requiring member, in timely manner.](#)
-</image>
 
 
 
@@ -4018,13 +3968,11 @@ group ORSA:
 
 
 
-<table>
 |Col1|Col2|Article 254(2), Article<br>35(2) (a)(i) of<br>Solvency II and Article<br>304 of the Commission<br>Delegated Regulation<br>2015/35|Article 254(2) and<br>Article 35(2) (a)(ii) of<br>Solvency II|
 |---|---|---|---|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Participating<br>undertaking|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor<br>whenever<br>an ORSA is performed|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Subsidiary|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report)|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report).|
 |Single<br>ORSA<br>document<br>covering all the<br>assessments<br>(Article<br>246(4)<br>3rd subparagraph<br>option)|Participating<br>undertaking|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>regular<br>ORSA<br>is<br>performed|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>non-regular<br>ORSA<br>is<br>performed|
-</table>
 --- End of Chunk ---
 
 
@@ -4053,13 +4001,11 @@ group ORSA:
 
 
 
-<table>
 |Col1|Col2|Article 254(2), Article<br>35(2) (a)(i) of<br>Solvency II and Article<br>304 of the Commission<br>Delegated Regulation<br>2015/35|Article 254(2) and<br>Article 35(2) (a)(ii) of<br>Solvency II|
 |---|---|---|---|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Participating<br>undertaking|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor<br>whenever<br>an ORSA is performed|
 |Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Subsidiary|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report)|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report).|
 |Single<br>ORSA<br>document<br>covering all the<br>assessments<br>(Article<br>246(4)<br>3rd subparagraph<br>option)|Participating<br>undertaking|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>regular<br>ORSA<br>is<br>performed|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>non-regular<br>ORSA<br>is<br>performed|
-</table>
 
 
 
@@ -4105,7 +4051,6 @@ submission of the next ORSA.
 
 
 
-<image>
 ![A concise summary of Guideline 17 which outlines the requirements for assessing group-specific risks and overall solvency needs for insurance and reinsurance groups. It specifies factors to be included in the Own Risk and Solvency Assessment (ORSA) record, such as sources of capital, capital transferability, strategic alignment, and specific group risks.
 --- End of Chunk ---
 
@@ -4131,7 +4076,6 @@ b) the assessment of availability, transferability or fungibility of capital;
 c) references to any envisaged transfer of capital within the group, which would have a material impact on any entity of the group, and its consequences;
 d) alignment of individual strategies with the ones established at the level of the group;
 e) specific risks the group could be exposed to.](#)
-</image>
 
 
 
@@ -7914,11 +7858,9 @@ Extracted text from the image:
 Guidelines on health catastrophe risk](#)
 
 
-<image>
 ![A title slide with the text "Guidelines on health catastrophe risk sub-module" in bold black font on a light blue background.
 Guidelines on health catastrophe risk
 sub-module](#)
-</image>
 
 
 

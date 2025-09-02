@@ -1,6 +1,5 @@
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 99fdc20d-8d63-48b0-8faf-9486512e4df9 ---
+--- METADATA Foreign key 99fdc20d-8d63-48b0-8faf-9486512e4df9 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -8,8 +7,7 @@
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 574ebc0b-fdc9-4f24-9c54-918e9605074a ---
+--- METADATA Foreign key 574ebc0b-fdc9-4f24-9c54-918e9605074a ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -46,8 +44,7 @@ obligation for the undertaking, i.e. the right to keep the premium and the oblig
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 984f0258-b923-42d7-9b97-72cb1cf3fb24 ---
+--- METADATA Foreign key 984f0258-b923-42d7-9b97-72cb1cf3fb24 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -74,8 +71,7 @@ of the undertaking, among others, due to the short period where both rights coex
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID baf2c802-79e0-4dde-bb7f-a522dd86313b ---
+--- METADATA Foreign key baf2c802-79e0-4dde-bb7f-a522dd86313b ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -120,20 +116,30 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
-<table>
-|Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
-|---|---|---|---|---|---|---|---|---|
-|**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
-|**Obligation**||**Cover **|**Cover **|**Cover **|**Cover**|**Cover **|**Cover**|**Cover**|
-|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
-|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
-|**BE undiscounted**||||**176 **|||||
-</table>
+<summary>Here’s a concise summary of the table based on your requirements:  
+
+---
+
+**1. Description of header columns and rows**  
+- **Header columns**: Represent sequential time periods from **t-3** to **t+4**, where *t* is the valuation date. These columns show historical, current, and future periods relative to *t*.  
+- **Rows**:
+  - **Premium**: Annual premiums received (100 in each year from t-3 to t+1).  
+  - **Obligation**: Indicates periods when insurance coverage is active (“Cover”).  
+  - **Cash flow projection**: Shows the timing and amounts of expected claims or benefit payments over multiple years after a premium is received. Two lines of projection appear, possibly illustrating different scenarios or components of cash flows.  
+  - **BE undiscounted**: The total undiscounted best estimate liability at time *t* (176).  
+
+---
+
+**2. Purpose of the table within context**  
+The table demonstrates how, even when contract boundaries limit which premiums and obligations belong to the contract, the **cash flow projection horizon is not restricted**—claims and payments from premiums received before the valuation date may extend years into the future. It highlights the lag between premium receipt, coverage periods, and the actual payment of claims, supporting the principle that best estimate liabilities account for all relevant future cash flows, regardless of contract boundary constraints.  
+
+---
+
+If you want, I can also **redraw this table for clarity** and explicitly show how the two “Cash flow projection” rows differ. Would you like me to do that?</summary>>
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 6ed6749c-3ac0-4a2a-826c-5256d3c013e9 ---
+--- METADATA Foreign key 6ed6749c-3ac0-4a2a-826c-5256d3c013e9 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -156,15 +162,24 @@ any future premium so it fully reflects the risk. Valuation date: end of year t.
 
 
 
-<table>
-|Date|t-3|t-2|t-1|t|t+1|t+2|t+3|t+4|
-|---|---|---|---|---|---|---|---|---|
-|**Premium**|**100 **|**100 **|**100 **|**100 **|**100 **||||
-|**Obligation**||**Cover **|**Cover **|**Cover **|**Cover**|**Cover **|**Cover**|**Cover**|
-|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|**16**<br>**48**<br>**32**<br>|<br>**16**<br>**48**<br>**32**|<br> <br>**16**<br>**48**|<br> <br> <br>**16**|<br> <br> <br>|
-|**Cash flow**<br>**projection**|<br> <br> <br> <br>|**32 **<br> <br> <br> <br>|**48**<br>**32**<br> <br> <br>|||**32**|**48**|**16**|
-|**BE undiscounted**||||**176 **|||||
-</table>
+<summary>Here’s the concise summary you requested:  
+
+**1. Description of header columns and rows**  
+- **Columns:** Represent time periods relative to the valuation date, from *t-3* (three years before) to *t+4* (four years after). Column *t* is the valuation date.  
+- **Rows:**  
+  - **Premium:** Premium amounts payable in each year (e.g., 100 units from t-3 to t+1).  
+  - **Obligation:** Indicates periods during which insurance coverage obligations exist (“Cover”).  
+  - **Cash flow projection:** Shows how expected claim or benefit payments are projected over time for different contract years, with amounts allocated to specific future dates.  
+  - **BE undiscounted:** The total undiscounted best estimate of future cash flows as of valuation date t (176 units).  
+
+**2. Purpose of the table within context**  
+The table illustrates the timing relationship between receipt of premiums, emergence of coverage obligations, and projection of future cash flows for insurance contracts under the principle of contract boundaries. It demonstrates that:
+- Even if future premiums (e.g., in t+1) fall outside the contract boundary, obligations from earlier premiums can lead to projected cash flows beyond that boundary.  
+- The horizon of cash flow projection is therefore determined by the duration of obligations, not by the timing of premium receipts.  
+
+This aligns with the guideline that contract boundaries must be consistently applied in valuing insurance liabilities, and that projections extend until all obligations from in-force contracts are settled.  
+
+Do you want me to **restructure this table into a more visual timeline** to make the projection patterns even clearer?</summary>>
 
 
 6. The horizon of projection of future cash flows is not affected by the contract boundaries.
@@ -181,8 +196,7 @@ related to previous obligations should be projected beyond t+1.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 008016ca-283c-4c9d-9570-cc1c6b835af6 ---
+--- METADATA Foreign key 008016ca-283c-4c9d-9570-cc1c6b835af6 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -198,8 +212,7 @@ Insurance and reinsurance undertakings should ensure that the principles for det
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID e89cac36-05f9-40b5-9ee7-3264def637db ---
+--- METADATA Foreign key e89cac36-05f9-40b5-9ee7-3264def637db ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -211,8 +224,7 @@ a) Where, in order to put the amendment of premiums and benefits into effect, th
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 26101671-1838-4f87-b1c5-89710b423e77 ---
+--- METADATA Foreign key 26101671-1838-4f87-b1c5-89710b423e77 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -257,8 +269,7 @@ e) Undertakings should disregard the right to unilaterally terminate the contrac
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID e9ebab63-2d27-48ae-896b-1e727b931456 ---
+--- METADATA Foreign key e9ebab63-2d27-48ae-896b-1e727b931456 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -289,8 +300,7 @@ to the definition provided in paragraph 1.4 of the EIOPA-BoS-14/165 [1], the gen
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 36d4932a-df8c-48c7-b418-583ced63e078 ---
+--- METADATA Foreign key 36d4932a-df8c-48c7-b418-583ced63e078 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -319,8 +329,7 @@ payment or benefit plan is often agreed upon. The mere existence of such an agre
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 9d443481-b9e4-4f8f-b94e-361e164d81c4 ---
+--- METADATA Foreign key 9d443481-b9e4-4f8f-b94e-361e164d81c4 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -342,8 +351,7 @@ existence of a predefined bonus/malus system.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 539c6482-a479-4a10-bd70-7f9f5563ad32 ---
+--- METADATA Foreign key 539c6482-a479-4a10-bd70-7f9f5563ad32 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -385,8 +393,7 @@ variables. Therefore, a premium does not need to be certain in its timing or amo
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 500701ac-f039-4641-9d6f-84c7f804eb6a ---
+--- METADATA Foreign key 500701ac-f039-4641-9d6f-84c7f804eb6a ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -421,8 +428,7 @@ schedule.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID f2dfce64-6832-4c06-900f-fe97bd82d35a ---
+--- METADATA Foreign key f2dfce64-6832-4c06-900f-fe97bd82d35a ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -450,8 +456,7 @@ circumstances and with similar consequences.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 54120481-f753-4805-9e26-a32e351b1d99 ---
+--- METADATA Foreign key 54120481-f753-4805-9e26-a32e351b1d99 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -467,8 +472,7 @@ circumstances and with similar consequences.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID cb5c2001-c51a-462d-899b-04f09f396678 ---
+--- METADATA Foreign key cb5c2001-c51a-462d-899b-04f09f396678 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -478,8 +482,7 @@ Notwithstanding the previous point, where all the parts of a contract have the s
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 0e28040f-d163-46a0-9427-f98b70088532 ---
+--- METADATA Foreign key 0e28040f-d163-46a0-9427-f98b70088532 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -490,8 +493,7 @@ If a contract is unbundled for the purposes of assessing contract boundaries, ea
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 31e76686-9fb3-4ebe-85a0-e3ee8cd4a71e ---
+--- METADATA Foreign key 31e76686-9fb3-4ebe-85a0-e3ee8cd4a71e ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -525,8 +527,7 @@ determine which cash flows belong to the contract, i.e. which cash flows will be
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 79a538f2-d6fd-44eb-a531-9e56d636c0be ---
+--- METADATA Foreign key 79a538f2-d6fd-44eb-a531-9e56d636c0be ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -561,8 +562,7 @@ contract could be sold independently should be unbundled. Conversely, dependenci
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 1100ecdc-7755-4f74-b9ea-3db802942adf ---
+--- METADATA Foreign key 1100ecdc-7755-4f74-b9ea-3db802942adf ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -593,8 +593,7 @@ death. Conversely, in case of a unit-linked contract with a mortality cover wher
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID b34c47f3-9c0b-4993-b238-cbc9646c50fb ---
+--- METADATA Foreign key b34c47f3-9c0b-4993-b238-cbc9646c50fb ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -626,8 +625,7 @@ contract boundaries may exist for contracts with different financial guarantees.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 62d8eadd-4a61-4901-8182-1e05bda4a54e ---
+--- METADATA Foreign key 62d8eadd-4a61-4901-8182-1e05bda4a54e ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -660,8 +658,7 @@ replicated with two independent products.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 5837d834-c25f-40f8-9442-be0309f36e6b ---
+--- METADATA Foreign key 5837d834-c25f-40f8-9442-be0309f36e6b ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -692,8 +689,7 @@ financial risk. Therefore, dynamic reallocations usually prevent from unbundling
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 9e73891e-264f-40dd-8969-e3079a9edcaa ---
+--- METADATA Foreign key 9e73891e-264f-40dd-8969-e3079a9edcaa ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -723,8 +719,7 @@ the product may still be unbundled in case these charges are predefined. It shou
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 48b5cba1-82d2-4fe8-bbf9-d4af4be7bfa7 ---
+--- METADATA Foreign key 48b5cba1-82d2-4fe8-bbf9-d4af4be7bfa7 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -755,8 +750,7 @@ unbundled, the periodical charges should not be considered to be equivalent to p
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID c189814a-9e0a-4b32-9036-5c150d0a197f ---
+--- METADATA Foreign key c189814a-9e0a-4b32-9036-5c150d0a197f ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -797,8 +791,7 @@ quantitative assessments performed for similar products. This means that new bus
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID f24ce15e-2a33-46b4-a4cb-df246b821011 ---
+--- METADATA Foreign key f24ce15e-2a33-46b4-a4cb-df246b821011 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -829,8 +822,7 @@ of benefits revised annually with a minimum of 0%, the assessment whether the 0%
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID bd466ba3-d044-4725-b0de-cdfcd47b329c ---
+--- METADATA Foreign key bd466ba3-d044-4725-b0de-cdfcd47b329c ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -861,8 +853,7 @@ perform the analysis on a contract-by-contract basis and the analysis should con
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID c9b61cf6-4c61-492f-b8a9-dfc22495b49e ---
+--- METADATA Foreign key c9b61cf6-4c61-492f-b8a9-dfc22495b49e ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -893,8 +884,7 @@ financial guarantee is increasing, decreasing or constant through the life of th
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 7039b393-c3aa-4b43-aeb8-5e93ad8bdc58 ---
+--- METADATA Foreign key 7039b393-c3aa-4b43-aeb8-5e93ad8bdc58 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -924,8 +914,7 @@ benefits whose allocation is absolutely voluntary for the undertaking should not
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID af9671ad-6b2c-4014-8b39-db86d972751e ---
+--- METADATA Foreign key af9671ad-6b2c-4014-8b39-db86d972751e ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -947,8 +936,7 @@ assessment.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 50c65776-e382-43b0-b22c-3f1350f8edda ---
+--- METADATA Foreign key 50c65776-e382-43b0-b22c-3f1350f8edda ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -964,8 +952,7 @@ assessment.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 6cb8ae61-4975-49a1-aa34-79e4dfde8631 ---
+--- METADATA Foreign key 6cb8ae61-4975-49a1-aa34-79e4dfde8631 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -988,8 +975,7 @@ evidence whether the cover provides a discernible effect on the economics of the
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 020fb969-1340-4711-ad29-494cfd3c7127 ---
+--- METADATA Foreign key 020fb969-1340-4711-ad29-494cfd3c7127 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -1018,8 +1004,7 @@ at some point in time, to repeat the assessment based on Guideline 6c.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID b7764cb2-275a-4f94-88df-4d5a084ebf2f ---
+--- METADATA Foreign key b7764cb2-275a-4f94-88df-4d5a084ebf2f ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -1053,8 +1038,7 @@ consideration.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID cc49014a-e991-4660-a7d8-d5204d5b657c ---
+--- METADATA Foreign key cc49014a-e991-4660-a7d8-d5204d5b657c ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -1087,8 +1071,7 @@ considerations may be needed, e.g. whether the effect of the cover is increasing
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 55cc2c1e-6399-427f-9c2b-33ab3fe7e118 ---
+--- METADATA Foreign key 55cc2c1e-6399-427f-9c2b-33ab3fe7e118 ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -1140,8 +1123,7 @@ contract.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID aef9c631-fb65-41ac-bd3f-86d514c29632 ---
+--- METADATA Foreign key aef9c631-fb65-41ac-bd3f-86d514c29632 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -1174,8 +1156,7 @@ rate stress in the Standard Formula should be considered to be extreme.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID f1254def-a23b-41b1-a19a-4d232ae59646 ---
+--- METADATA Foreign key f1254def-a23b-41b1-a19a-4d232ae59646 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -1204,8 +1185,7 @@ the change in the risk-free rate term structure would not be considered to be ex
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 6f934ed8-f43e-4cce-8720-d6382fc47675 ---
+--- METADATA Foreign key 6f934ed8-f43e-4cce-8720-d6382fc47675 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -1233,8 +1213,7 @@ regardless of the economic conditions (e.g. assessment performed at inception vs
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID eecaa29d-2677-4a96-92a0-c6cab4b418b5 ---
+--- METADATA Foreign key eecaa29d-2677-4a96-92a0-c6cab4b418b5 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -1263,8 +1242,7 @@ reassessment and its impact on the solvency position of the undertaking in the a
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 66846a19-e6a0-452c-be99-27d0023bdfb3 ---
+--- METADATA Foreign key 66846a19-e6a0-452c-be99-27d0023bdfb3 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -1293,8 +1271,7 @@ undertaking would face in extreme (1 in 200) scenarios. However, changes in cont
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 58753f56-b726-42ef-b203-9329afb906d4 ---
+--- METADATA Foreign key 58753f56-b726-42ef-b203-9329afb906d4 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -1324,8 +1301,7 @@ consistent with the contract boundaries determined at the valuation date.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID f8f9d124-34db-45f7-ad56-a4512704d0f1 ---
+--- METADATA Foreign key f8f9d124-34db-45f7-ad56-a4512704d0f1 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -1341,8 +1317,7 @@ consistent with the contract boundaries determined at the valuation date.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID fde0f60d-80ca-432c-8b8e-a83b9ec0daea ---
+--- METADATA Foreign key fde0f60d-80ca-432c-8b8e-a83b9ec0daea ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -1368,8 +1343,7 @@ date. If this information is not available, estimates will need to be made.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 9deb77cb-d2ef-4bd6-8892-517dcd35d359 ---
+--- METADATA Foreign key 9deb77cb-d2ef-4bd6-8892-517dcd35d359 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -1400,8 +1374,7 @@ of the contract (e.g. because the underlying exposure changes in the case of som
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID bf30ccee-b684-4f24-9f46-46f9cbfabd41 ---
+--- METADATA Foreign key bf30ccee-b684-4f24-9f46-46f9cbfabd41 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -1428,8 +1401,7 @@ the contract boundary would be updated.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 94e2b3c7-0d42-4972-bdc2-57898f5f4795 ---
+--- METADATA Foreign key 94e2b3c7-0d42-4972-bdc2-57898f5f4795 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -1460,8 +1432,7 @@ incorporate them into their regulatory or supervisory framework in an appropriat
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Consolidated_GLs_CBs_ET_EN.pdf ---
---- METADATA ID 0b36478e-281b-41f1-9c43-3242315c6e6b ---
+--- METADATA Foreign key 0b36478e-281b-41f1-9c43-3242315c6e6b ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -1489,8 +1460,7 @@ non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 2cfc1d1f-860b-4347-9938-e2b3e32c1e05 ---
+--- METADATA Foreign key 2cfc1d1f-860b-4347-9938-e2b3e32c1e05 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -1504,8 +1474,7 @@ EIOPA-BoS-14/259
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c4be0d9c-401f-41d7-80a0-3dc088fee37f ---
+--- METADATA Foreign key c4be0d9c-401f-41d7-80a0-3dc088fee37f ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -1524,8 +1493,7 @@ Fax. + 49 69-951119-19; email: info@eiopa.europa.eu](mailto:info@eiopa.europa.eu
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 15e43989-85ad-4400-be90-f1161ecafc1c ---
+--- METADATA Foreign key 15e43989-85ad-4400-be90-f1161ecafc1c ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -1554,8 +1522,7 @@ published on EIOPA’s website [3] .
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 84e8dc27-b123-4ff4-9c3f-d763cd67e248 ---
+--- METADATA Foreign key 84e8dc27-b123-4ff4-9c3f-d763cd67e248 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -1581,8 +1548,7 @@ comments are published on EIOPA’s website.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 8133ca2d-2f9c-4cda-b025-06687b64e3d9 ---
+--- METADATA Foreign key 8133ca2d-2f9c-4cda-b025-06687b64e3d9 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -1602,8 +1568,7 @@ non-compliance.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e9ee9750-c246-40ce-b1d6-6972a6a41eec ---
+--- METADATA Foreign key e9ee9750-c246-40ce-b1d6-6972a6a41eec ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -1621,8 +1586,7 @@ competent authorities follow its Guidelines in the future.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 344090c1-0f47-4c1d-9f74-0e9d2da2c2d4 ---
+--- METADATA Foreign key 344090c1-0f47-4c1d-9f74-0e9d2da2c2d4 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -1651,8 +1615,7 @@ law.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 510429de-b850-4781-8ecb-8b9be3056d7c ---
+--- METADATA Foreign key 510429de-b850-4781-8ecb-8b9be3056d7c ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -1673,8 +1636,7 @@ Under the application of the Solvency II requirements, it makes sense to
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID cb64130e-9f28-4d30-8188-0853b5b63201 ---
+--- METADATA Foreign key cb64130e-9f28-4d30-8188-0853b5b63201 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -1689,8 +1651,7 @@ consistent approach would require.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c524100f-b339-4193-894a-e3aaabb61fea ---
+--- METADATA Foreign key c524100f-b339-4193-894a-e3aaabb61fea ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -1712,8 +1673,7 @@ is expected when implementing the relevant articles of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e6b54b82-aa00-43fc-abd8-48d805657f18 ---
+--- METADATA Foreign key e6b54b82-aa00-43fc-abd8-48d805657f18 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -1728,8 +1688,7 @@ estimate, Solvency Capital Requirement and the economic balance sheet.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 6d50889c-0189-4fcf-97df-1e049b59cf95 ---
+--- METADATA Foreign key 6d50889c-0189-4fcf-97df-1e049b59cf95 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -1749,8 +1708,7 @@ to refer to the standard formula or an internal model as a cut off level for
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 3913efad-ebb4-4a90-a106-bbfb1ee22001 ---
+--- METADATA Foreign key 3913efad-ebb4-4a90-a106-bbfb1ee22001 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -1763,8 +1721,7 @@ them are met – in the performance of the ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 528b0c99-ebef-4aba-9d40-ff4dea5ad62d ---
+--- METADATA Foreign key 528b0c99-ebef-4aba-9d40-ff4dea5ad62d ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -1789,8 +1746,7 @@ authorisation of the single ORSA document.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 74b15001-e3c8-4643-a139-9bc54e784efc ---
+--- METADATA Foreign key 74b15001-e3c8-4643-a139-9bc54e784efc ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -1822,8 +1778,7 @@ Report has been revised accordingly.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 180bb2cd-4b4b-42de-8a4c-d2c42f71e3cc ---
+--- METADATA Foreign key 180bb2cd-4b4b-42de-8a4c-d2c42f71e3cc ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -1837,8 +1792,7 @@ consulted on EIOPA’s website.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d50d5732-a2c3-4426-898e-39ca703cba29 ---
+--- METADATA Foreign key d50d5732-a2c3-4426-898e-39ca703cba29 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -1864,8 +1818,7 @@ of 10 October 2014 supplementing Directive 2009/138/EC (hereinafter
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 3f17045a-3d26-4bf0-97ef-54c81440a8b9 ---
+--- METADATA Foreign key 3f17045a-3d26-4bf0-97ef-54c81440a8b9 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -1884,8 +1837,7 @@ inherent in its business.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 188837aa-014f-416d-8686-c14826de5ebc ---
+--- METADATA Foreign key 188837aa-014f-416d-8686-c14826de5ebc ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -1906,8 +1858,7 @@ Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 8fc1a565-6386-463f-b695-4a1f92357754 ---
+--- METADATA Foreign key 8fc1a565-6386-463f-b695-4a1f92357754 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -1929,8 +1880,7 @@ level of consistency in processes across the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e4c3833c-3a16-4d27-809b-7c8fb1e79d61 ---
+--- METADATA Foreign key e4c3833c-3a16-4d27-809b-7c8fb1e79d61 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -1958,8 +1908,7 @@ Guidelines on the system of governance;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 8d729c2e-f1a0-4874-afa7-404d97531d6f ---
+--- METADATA Foreign key 8d729c2e-f1a0-4874-afa7-404d97531d6f ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -1981,8 +1930,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 4e745b85-3ad0-458a-bc87-76a9a3cfd035 ---
+--- METADATA Foreign key 4e745b85-3ad0-458a-bc87-76a9a3cfd035 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -1994,8 +1942,7 @@ nature, scale and complexity of the risks inherent to the business.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e026e092-ec0b-40de-b098-d1d40dda82ea ---
+--- METADATA Foreign key e026e092-ec0b-40de-b098-d1d40dda82ea ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -2005,8 +1952,7 @@ assessment is to be performed and challenging the results.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 149004c3-3216-4c4a-a9be-1c9ec2d8c43b ---
+--- METADATA Foreign key 149004c3-3216-4c4a-a9be-1c9ec2d8c43b ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -2030,8 +1976,7 @@ d) a supervisory report of the ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d4f24670-feed-4bfd-b74d-6e05b1c4a4f7 ---
+--- METADATA Foreign key d4f24670-feed-4bfd-b74d-6e05b1c4a4f7 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -2072,8 +2017,7 @@ would trigger the need for an ORSA outside of the regular time-scales.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 166f4aa5-98b0-4b76-b978-1bf6821f9e13 ---
+--- METADATA Foreign key 166f4aa5-98b0-4b76-b978-1bf6821f9e13 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -2081,8 +2025,7 @@ would trigger the need for an ORSA outside of the regular time-scales.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 3b37d958-9256-44c0-a994-e0449996ff9a ---
+--- METADATA Foreign key 3b37d958-9256-44c0-a994-e0449996ff9a ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -2093,8 +2036,7 @@ approved by the AMSB.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d3eaeccf-4e20-4164-b181-ecc0b8d2aee8 ---
+--- METADATA Foreign key d3eaeccf-4e20-4164-b181-ecc0b8d2aee8 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -2111,8 +2053,7 @@ provide an adequate basis for the assessment of the overall solvency needs.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 6e4db730-2f78-49f9-bed8-4e8c6f088d06 ---
+--- METADATA Foreign key 6e4db730-2f78-49f9-bed8-4e8c6f088d06 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -2127,8 +2068,7 @@ appropriate.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e9e7d860-52b3-4d45-86bf-47b266ff9dd3 ---
+--- METADATA Foreign key e9e7d860-52b3-4d45-86bf-47b266ff9dd3 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -2151,8 +2091,7 @@ needs.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 6c78c2da-be2e-424f-afee-67c3d5e59e5c ---
+--- METADATA Foreign key 6c78c2da-be2e-424f-afee-67c3d5e59e5c ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -2178,8 +2117,7 @@ business planning period.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID cc32d0bc-87e0-4ec4-b99b-66491975e40d ---
+--- METADATA Foreign key cc32d0bc-87e0-4ec4-b99b-66491975e40d ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -2198,8 +2136,7 @@ calculation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 2b32fdbf-dbaa-41bc-ae34-8f87a0a811df ---
+--- METADATA Foreign key 2b32fdbf-dbaa-41bc-ae34-8f87a0a811df ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -2213,8 +2150,7 @@ assessment is not required.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d1aaaadc-60a6-4391-8355-4945095ddcc3 ---
+--- METADATA Foreign key d1aaaadc-60a6-4391-8355-4945095ddcc3 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -2236,8 +2172,7 @@ c) its product development and design.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 0d9d96f1-fed1-490f-963f-2e0f3b724049 ---
+--- METADATA Foreign key 0d9d96f1-fed1-490f-963f-2e0f3b724049 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -2245,8 +2180,7 @@ c) its product development and design.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7d2054db-21a6-48ca-82cc-87e3fdcf6da5 ---
+--- METADATA Foreign key 7d2054db-21a6-48ca-82cc-87e3fdcf6da5 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -2259,8 +2193,7 @@ part of the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7c3c44ce-fced-47ca-81b6-073f990b64a3 ---
+--- METADATA Foreign key 7c3c44ce-fced-47ca-81b6-073f990b64a3 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -2282,8 +2215,7 @@ provided to the requiring member, in timely manner.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 6455bde7-16ac-4319-8578-929313af9d67 ---
+--- METADATA Foreign key 6455bde7-16ac-4319-8578-929313af9d67 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -2311,8 +2243,7 @@ identification of potential needs for additional capital;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 87843190-6cfe-43fb-9330-25d86cf5635f ---
+--- METADATA Foreign key 87843190-6cfe-43fb-9330-25d86cf5635f ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -2338,8 +2269,7 @@ e) specific risks the group could be exposed to.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 1d10b45e-b9b8-48a5-a23f-5a120bf28e4a ---
+--- METADATA Foreign key 1d10b45e-b9b8-48a5-a23f-5a120bf28e4a ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -2379,8 +2309,7 @@ e) specific risks the group could be exposed to.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 4a0924e5-7107-4c9d-879d-28d6594ec977 ---
+--- METADATA Foreign key 4a0924e5-7107-4c9d-879d-28d6594ec977 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -2412,8 +2341,7 @@ d) where necessary, a specific indication on required translations, with specifi
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e3be8c4a-a64b-45a3-a72b-83fde9cd921d ---
+--- METADATA Foreign key e3be8c4a-a64b-45a3-a72b-83fde9cd921d ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -2427,8 +2355,7 @@ attention to timing and content.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 17b61eb4-edbe-4b15-a767-3b3804d3c5f9 ---
+--- METADATA Foreign key 17b61eb4-edbe-4b15-a767-3b3804d3c5f9 ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -2459,8 +2386,7 @@ appropriate manner.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c5b504cf-8105-46be-aa51-49f8851b8739 ---
+--- METADATA Foreign key c5b504cf-8105-46be-aa51-49f8851b8739 ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -2491,8 +2417,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID a6b9c9e2-4e8c-4eba-932f-8eba7997028c ---
+--- METADATA Foreign key a6b9c9e2-4e8c-4eba-932f-8eba7997028c ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2506,8 +2431,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID fd0c4aa5-253d-42a0-a9a5-0bfcad82dbce ---
+--- METADATA Foreign key fd0c4aa5-253d-42a0-a9a5-0bfcad82dbce ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2521,8 +2445,7 @@ The undertaking should develop for the ORSA its own processes with appropriate a
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 0c0ffedb-1cf3-44c6-991b-bad9c971207f ---
+--- METADATA Foreign key 0c0ffedb-1cf3-44c6-991b-bad9c971207f ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2542,8 +2465,7 @@ filling templates.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID b2778ee3-02bc-467e-b4b3-8677e20742e4 ---
+--- METADATA Foreign key b2778ee3-02bc-467e-b4b3-8677e20742e4 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2559,8 +2481,7 @@ strategic decisions.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 19f96670-4d28-4116-99f7-bfb2d07f7f72 ---
+--- METADATA Foreign key 19f96670-4d28-4116-99f7-bfb2d07f7f72 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2581,8 +2502,7 @@ underlying the SCR calculation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 72327c69-5a12-4b2b-8be7-516439935e76 ---
+--- METADATA Foreign key 72327c69-5a12-4b2b-8be7-516439935e76 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -2602,8 +2522,7 @@ is required but the result reached is to be taken into account in the ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 6d51731f-7a3d-4f3a-8c9c-2106a3cffca3 ---
+--- METADATA Foreign key 6d51731f-7a3d-4f3a-8c9c-2106a3cffca3 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -2627,8 +2546,7 @@ included in the ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID a9fd08b0-a087-4098-8a96-7fa046fe9542 ---
+--- METADATA Foreign key a9fd08b0-a087-4098-8a96-7fa046fe9542 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -2660,8 +2578,7 @@ assessment of the undertaking's risks.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 65bdba31-f477-4b0c-9906-2feb771d9224 ---
+--- METADATA Foreign key 65bdba31-f477-4b0c-9906-2feb771d9224 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -2680,8 +2597,7 @@ unexpectedly adverse circumstances.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 83810bbe-b146-4f5d-90eb-ce83cd5baa23 ---
+--- METADATA Foreign key 83810bbe-b146-4f5d-90eb-ce83cd5baa23 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -2752,8 +2668,7 @@ undertakings have to develop a policy for ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 288f8da6-4022-46fa-9391-b4bad3535f91 ---
+--- METADATA Foreign key 288f8da6-4022-46fa-9391-b4bad3535f91 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -2766,8 +2681,7 @@ undertakings have to develop a policy for ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7e62ded5-19cf-4c29-b505-785b5a4b7ebe ---
+--- METADATA Foreign key 7e62ded5-19cf-4c29-b505-785b5a4b7ebe ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -2808,8 +2722,7 @@ d) a technical specification of the approach used for the ORSA assessment,
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 1f355e56-5903-4e95-a1ed-f5ec66bc2dae ---
+--- METADATA Foreign key 1f355e56-5903-4e95-a1ed-f5ec66bc2dae ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -2838,8 +2751,7 @@ g) action plans arising from the assessment and the rationales for them. This
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID bb6b0d3f-79b2-4051-84a6-1fcf49d6d9f7 ---
+--- METADATA Foreign key bb6b0d3f-79b2-4051-84a6-1fcf49d6d9f7 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -2872,8 +2784,7 @@ addresses how the undertaking has reacted or will react;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID ff5861f9-42b2-4a69-8db1-46da1352aadc ---
+--- METADATA Foreign key ff5861f9-42b2-4a69-8db1-46da1352aadc ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -2896,8 +2807,7 @@ m) a record of the challenge process performed by the AMSB.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 21d8dbd7-9c80-4a1f-b189-52b597305046 ---
+--- METADATA Foreign key 21d8dbd7-9c80-4a1f-b189-52b597305046 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -2923,8 +2833,7 @@ the same report may be submitted to the supervisory authority.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID e31ac770-f661-4d12-82da-90267df59eec ---
+--- METADATA Foreign key e31ac770-f661-4d12-82da-90267df59eec ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -2938,8 +2847,7 @@ the same report may be submitted to the supervisory authority.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 5b75d76a-c135-465f-a0b8-a666ce2f8b20 ---
+--- METADATA Foreign key 5b75d76a-c135-465f-a0b8-a666ce2f8b20 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -2954,8 +2862,7 @@ Where appropriate, the undertaking should subject the identified material risks 
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c4878947-3ead-4d5e-8e1e-74f068d6a6a0 ---
+--- METADATA Foreign key c4878947-3ead-4d5e-8e1e-74f068d6a6a0 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -2978,8 +2885,7 @@ risks that may impact materially the individual entity.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID f26a48f1-e90b-4de7-bcea-18badb18fe21 ---
+--- METADATA Foreign key f26a48f1-e90b-4de7-bcea-18badb18fe21 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -3005,8 +2911,7 @@ to determine the capital required and explain how they will be managed.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID f08999c3-4ddf-4e44-8374-a596bfb6aa6f ---
+--- METADATA Foreign key f08999c3-4ddf-4e44-8374-a596bfb6aa6f ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -3026,8 +2931,7 @@ scenarios.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 008e6c83-db4d-4fea-a787-22ba1a8db951 ---
+--- METADATA Foreign key 008e6c83-db4d-4fea-a787-22ba1a8db951 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -3055,8 +2959,7 @@ including the use of risk mitigation techniques;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 73b58dd2-c43d-44ad-bb69-989785643d21 ---
+--- METADATA Foreign key 73b58dd2-c43d-44ad-bb69-989785643d21 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -3090,8 +2993,7 @@ assessment.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d80f1080-62be-4eb0-aff2-8cbc5d15a51a ---
+--- METADATA Foreign key d80f1080-62be-4eb0-aff2-8cbc5d15a51a ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -3117,8 +3019,7 @@ financial stress.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 9a8747e3-9a51-4679-924f-fad826b65d23 ---
+--- METADATA Foreign key 9a8747e3-9a51-4679-924f-fad826b65d23 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -3140,8 +3041,7 @@ profile.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID ce9a1b88-1887-4647-832a-c84954d447c4 ---
+--- METADATA Foreign key ce9a1b88-1887-4647-832a-c84954d447c4 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -3157,8 +3057,7 @@ ORSA to that used in the internal model to calculate the SCR.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 42fc5aa7-3623-422f-a428-3534e4c72981 ---
+--- METADATA Foreign key 42fc5aa7-3623-422f-a428-3534e4c72981 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -3177,8 +3076,7 @@ year is an important part of the ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID dc2087cc-8ad5-4d6f-b318-26573f515b10 ---
+--- METADATA Foreign key dc2087cc-8ad5-4d6f-b318-26573f515b10 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -3199,8 +3097,7 @@ solvency needs and own funds in a forward looking perspective.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID bf6a0a06-6851-4dcb-8dad-bae506b71ffa ---
+--- METADATA Foreign key bf6a0a06-6851-4dcb-8dad-bae506b71ffa ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -3223,8 +3120,7 @@ tested.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 96a3d721-e166-43db-b422-5fe5b1616a60 ---
+--- METADATA Foreign key 96a3d721-e166-43db-b422-5fe5b1616a60 ---
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
@@ -3242,8 +3138,7 @@ respond to unexpected changes in external factors.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7e7f615e-4a37-462e-8056-b7018121f418 ---
+--- METADATA Foreign key 7e7f615e-4a37-462e-8056-b7018121f418 ---
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
@@ -3252,8 +3147,7 @@ respond to unexpected changes in external factors.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID ae187e59-5343-47a9-abd4-7264b865fa59 ---
+--- METADATA Foreign key ae187e59-5343-47a9-abd4-7264b865fa59 ---
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
@@ -3268,8 +3162,7 @@ The undertaking should quantitatively estimate the impact on the overall solvenc
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 8a996acf-74f6-49cf-a3b4-b27b4222c89c ---
+--- METADATA Foreign key 8a996acf-74f6-49cf-a3b4-b27b4222c89c ---
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
@@ -3288,8 +3181,7 @@ more suitable to its specific business and its risk profile.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 9105cce5-01b0-4a45-8245-f073e77fe725 ---
+--- METADATA Foreign key 9105cce5-01b0-4a45-8245-f073e77fe725 ---
 --- METADATA Page 22 ---
 --- Start of Chunk ---
 
@@ -3318,8 +3210,7 @@ calculations and this needs to be taken into consideration in the capital
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID a97a6734-cb61-43ed-8a75-b41bbcb9138e ---
+--- METADATA Foreign key a97a6734-cb61-43ed-8a75-b41bbcb9138e ---
 --- METADATA Page 23 ---
 --- Start of Chunk ---
 
@@ -3343,8 +3234,7 @@ the projections.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID b8a3bbc5-2d7e-46f8-83fa-b30c5f70ca00 ---
+--- METADATA Foreign key b8a3bbc5-2d7e-46f8-83fa-b30c5f70ca00 ---
 --- METADATA Page 23 ---
 --- Start of Chunk ---
 
@@ -3375,8 +3265,7 @@ expected and stressed evolution;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 36b6364b-7368-4a5a-9139-21a82757d6fc ---
+--- METADATA Foreign key 36b6364b-7368-4a5a-9139-21a82757d6fc ---
 --- METADATA Page 23 ---
 --- Start of Chunk ---
 
@@ -3410,8 +3299,7 @@ events.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7251dccd-b364-4de4-8e45-18f6950ebb62 ---
+--- METADATA Foreign key 7251dccd-b364-4de4-8e45-18f6950ebb62 ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3426,8 +3314,7 @@ events.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID a8e8a9f4-780c-4f67-966d-307f9a8bb7f1 ---
+--- METADATA Foreign key a8e8a9f4-780c-4f67-966d-307f9a8bb7f1 ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3452,8 +3339,7 @@ information contained in the annual report of the actuarial function.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c7db65a6-bdf8-4815-ac4b-96b607af335f ---
+--- METADATA Foreign key c7db65a6-bdf8-4815-ac4b-96b607af335f ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3468,8 +3354,7 @@ information contained in the annual report of the actuarial function.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID ca03935c-7504-4ce0-a8a8-0b3836f62b68 ---
+--- METADATA Foreign key ca03935c-7504-4ce0-a8a8-0b3836f62b68 ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3492,8 +3377,7 @@ being adequate for its business.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 2c4b6630-d5a7-4795-b8db-559b28c0766a ---
+--- METADATA Foreign key 2c4b6630-d5a7-4795-b8db-559b28c0766a ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3522,8 +3406,7 @@ standard formula is appropriate, including a ranking of risks;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID ad92afc8-d545-4140-929a-a604dd63cfae ---
+--- METADATA Foreign key ad92afc8-d545-4140-929a-a604dd63cfae ---
 --- METADATA Page 24 ---
 --- Start of Chunk ---
 
@@ -3556,8 +3439,7 @@ simplifications used;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 548123c1-f249-4c73-a4ac-a2ba236e8602 ---
+--- METADATA Foreign key 548123c1-f249-4c73-a4ac-a2ba236e8602 ---
 --- METADATA Page 25 ---
 --- Start of Chunk ---
 
@@ -3588,8 +3470,7 @@ decide to de-risk.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 218974a2-703c-4b4c-a43a-f1aeb027438c ---
+--- METADATA Foreign key 218974a2-703c-4b4c-a43a-f1aeb027438c ---
 --- METADATA Page 25 ---
 --- Start of Chunk ---
 
@@ -3618,8 +3499,7 @@ b) the undertaking may use a time horizon for its business planning purposes
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 83e6ca0e-05f0-4334-9805-ae04ab9407bf ---
+--- METADATA Foreign key 83e6ca0e-05f0-4334-9805-ae04ab9407bf ---
 --- METADATA Page 25 ---
 --- Start of Chunk ---
 
@@ -3660,8 +3540,7 @@ have on the solvency position in the case of partial internal model;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID aed2c068-18e3-4b4b-bb08-bd48fac6e149 ---
+--- METADATA Foreign key aed2c068-18e3-4b4b-bb08-bd48fac6e149 ---
 --- METADATA Page 26 ---
 --- Start of Chunk ---
 
@@ -3690,8 +3569,7 @@ which may trigger a change to the internal model.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID df82e72a-c488-4840-a4b3-9cd7325daefb ---
+--- METADATA Foreign key df82e72a-c488-4840-a4b3-9cd7325daefb ---
 --- METADATA Page 26 ---
 --- Start of Chunk ---
 
@@ -3722,8 +3600,7 @@ operational and management processes.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID aeac7d78-4cbe-4071-854e-af103a78dfd6 ---
+--- METADATA Foreign key aeac7d78-4cbe-4071-854e-af103a78dfd6 ---
 --- METADATA Page 26 ---
 --- Start of Chunk ---
 
@@ -3744,8 +3621,7 @@ the regulatory capital requirements.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 1500bb65-4c69-4325-95e3-a161730c7fb0 ---
+--- METADATA Foreign key 1500bb65-4c69-4325-95e3-a161730c7fb0 ---
 --- METADATA Page 26 ---
 --- Start of Chunk ---
 
@@ -3756,8 +3632,7 @@ the regulatory capital requirements.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID aa81a31b-2f92-468c-a1a7-2df5da5f7772 ---
+--- METADATA Foreign key aa81a31b-2f92-468c-a1a7-2df5da5f7772 ---
 --- METADATA Page 26 ---
 --- Start of Chunk ---
 
@@ -3770,8 +3645,7 @@ of those systems and controls in a stress situation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 5f4feeb3-c407-4892-b7a0-574945835fb9 ---
+--- METADATA Foreign key 5f4feeb3-c407-4892-b7a0-574945835fb9 ---
 --- METADATA Page 27 ---
 --- Start of Chunk ---
 
@@ -3802,8 +3676,7 @@ significantly.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID f7ed3e45-01f7-4516-99a4-e65c494718d2 ---
+--- METADATA Foreign key f7ed3e45-01f7-4516-99a4-e65c494718d2 ---
 --- METADATA Page 27 ---
 --- Start of Chunk ---
 
@@ -3822,8 +3695,7 @@ changes, portfolio transfers or major changes to the mix of assets.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 083482b0-2aeb-4a99-bb98-c6e11c28d953 ---
+--- METADATA Foreign key 083482b0-2aeb-4a99-bb98-c6e11c28d953 ---
 --- METADATA Page 27 ---
 --- Start of Chunk ---
 
@@ -3862,8 +3734,7 @@ level.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 1ac0f17c-9b8f-4a7c-8607-f6576821e729 ---
+--- METADATA Foreign key 1ac0f17c-9b8f-4a7c-8607-f6576821e729 ---
 --- METADATA Page 27 ---
 --- Start of Chunk ---
 
@@ -3903,8 +3774,7 @@ undertakings.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 77a5104e-0b17-42d1-8d08-0e337c7e7907 ---
+--- METADATA Foreign key 77a5104e-0b17-42d1-8d08-0e337c7e7907 ---
 --- METADATA Page 28 ---
 --- Start of Chunk ---
 
@@ -3940,8 +3810,7 @@ participating undertaking in accordance with Article 221 of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID eca4b19b-8d93-43ab-b493-db290b8ac8bf ---
+--- METADATA Foreign key eca4b19b-8d93-43ab-b493-db290b8ac8bf ---
 --- METADATA Page 28 ---
 --- Start of Chunk ---
 
@@ -3957,8 +3826,7 @@ within the scope of group supervision.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID a5a9e8bb-8a52-40d1-9b66-dd3a5ebdf889 ---
+--- METADATA Foreign key a5a9e8bb-8a52-40d1-9b66-dd3a5ebdf889 ---
 --- METADATA Page 28 ---
 --- Start of Chunk ---
 
@@ -3976,8 +3844,7 @@ all non-regulated entities within the scope of the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 076e22a6-3087-4d0a-801c-f4aaeff23ae3 ---
+--- METADATA Foreign key 076e22a6-3087-4d0a-801c-f4aaeff23ae3 ---
 --- METADATA Page 29 ---
 --- Start of Chunk ---
 
@@ -3986,8 +3853,7 @@ all non-regulated entities within the scope of the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID d8d0afe6-6d28-45cb-9a4d-b6a562686693 ---
+--- METADATA Foreign key d8d0afe6-6d28-45cb-9a4d-b6a562686693 ---
 --- METADATA Page 29 ---
 --- Start of Chunk ---
 
@@ -4018,18 +3884,36 @@ group ORSA:
 
 
 
-<table>
-|Col1|Col2|Article 254(2), Article<br>35(2) (a)(i) of<br>Solvency II and Article<br>304 of the Commission<br>Delegated Regulation<br>2015/35|Article 254(2) and<br>Article 35(2) (a)(ii) of<br>Solvency II|
-|---|---|---|---|
-|Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Participating<br>undertaking|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor<br>whenever<br>an ORSA is performed|
-|Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Subsidiary|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report)|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report).|
-|Single<br>ORSA<br>document<br>covering all the<br>assessments<br>(Article<br>246(4)<br>3rd subparagraph<br>option)|Participating<br>undertaking|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>regular<br>ORSA<br>is<br>performed|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>non-regular<br>ORSA<br>is<br>performed|
-</table>
+<summary>**Summary of the Table**
+
+1. **Description of Header Columns and Rows**  
+   - **Column Headers:**  
+     - *Col1* (row type/ORSA type): Describes the scope and type of Own Risk and Solvency Assessment (ORSA) report — either *Group ORSA* (excluding assessment at subsidiaries’ individual level), *Individual ORSA* (subsidiaries’ individual level), or a *Single ORSA document* covering all assessments under Article 246(4).  
+     - *Col2* (entity type): Specifies the responsible entity — either the *Participating undertaking* (e.g., insurance/reinsurance undertaking, holding company) or the *Subsidiary*.  
+     - *Column 3* and *Column 4*: Correspond to different legal bases under the Solvency II Directive and the Commission Delegated Regulation — outlining requirements under  
+       - **Column 3:** Article 254(2), Article 35(2)(a)(i) of Solvency II, and Article 304 of the Delegated Regulation 2015/35.  
+       - **Column 4:** Article 254(2) and Article 35(2)(a)(ii) of Solvency II.  
+       Both columns describe when and how ORSA reports are to be submitted under each legal provision.
+   
+   - **Rows:**  
+     Each row represents a reporting configuration, combining ORSA scope (Group, Individual, Single combined document) and entity type (Participating undertaking or Subsidiary), matched with the relevant reporting obligations under the two legal bases.
+
+2. **Purpose of the Table in Context**  
+   The table provides a structured overview of **reporting obligations for group-level ORSA processes** within the Solvency II framework. It distinguishes reporting requirements based on:
+   - Scope of the ORSA (group vs. individual vs. combined document)
+   - Reporting entity (participating undertaking vs subsidiary)
+   - Legal reporting triggers (regular vs non-regular ORSA) under specific Solvency II and Delegated Regulation articles.  
+   
+   In the broader context, the aim is to ensure clarity on who submits what ORSA documentation, to whom, and under which circumstances, thereby facilitating compliance and efficient supervisory coordination within cross-border or group supervision settings.
+
+---
+
+If you want, I can also create a **visual flow diagram** showing the decision path for each ORSA reporting scenario based on entity type and ORSA scope.  
+Would you like me to prepare that?</summary>>
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID bbe87cbc-c238-4ea0-b378-8b1b522a8eaa ---
+--- METADATA Foreign key bbe87cbc-c238-4ea0-b378-8b1b522a8eaa ---
 --- METADATA Page 29 ---
 --- Start of Chunk ---
 
@@ -4053,13 +3937,24 @@ group ORSA:
 
 
 
-<table>
-|Col1|Col2|Article 254(2), Article<br>35(2) (a)(i) of<br>Solvency II and Article<br>304 of the Commission<br>Delegated Regulation<br>2015/35|Article 254(2) and<br>Article 35(2) (a)(ii) of<br>Solvency II|
-|---|---|---|---|
-|Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Participating<br>undertaking|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor|Group<br>ORSA<br>supervisory<br>report<br>reported to the group<br>supervisor<br>whenever<br>an ORSA is performed|
-|Group ORSA<br>(not including the<br>assessment<br>at<br>individual level of<br>the subsidiaries)<br> <br> <br> <br>Individual<br>ORSA<br>(at<br>subsidiaries´<br>individual level)<br>|Subsidiary|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report)|Solo supervisory report<br>includes<br>cross<br>references to the group<br>ORSA<br>(supervisory<br>report).|
-|Single<br>ORSA<br>document<br>covering all the<br>assessments<br>(Article<br>246(4)<br>3rd subparagraph<br>option)|Participating<br>undertaking|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>regular<br>ORSA<br>is<br>performed|Single ORSA document<br>submitted<br>to<br>all<br>supervisory authorities<br>concerned whenever a<br>non-regular<br>ORSA<br>is<br>performed|
-</table>
+<summary>**Concise Summary of the Table**  
+
+1. **Description of Header Columns and Rows**  
+   - **Columns**:  
+     - **Col1**: Indicates the *type of ORSA reporting situation*, such as a Group ORSA without individual subsidiary assessments, an Individual ORSA at subsidiary level, or a Single ORSA document covering all assessments.  
+     - **Col2**: Identifies the *entity responsible* for the ORSA in that row — either the participating (parent) undertaking or a subsidiary.  
+     - **Column 3 (Articles 254(2), 35(2)(a)(i), 304)**: Specifies *reporting obligations for regular ORSA performance* under relevant Solvency II and EU regulatory provisions.  
+     - **Column 4 (Articles 254(2), 35(2)(a)(ii))**: Specifies *reporting obligations for non-regular ORSA performance* under the applicable regulations.  
+
+   - **Rows**:  
+     Each row combines a specific ORSA type with the responsible entity, showing what kind of supervisory report or submission is required, and who it should be reported to (group supervisor, solo supervisor, or all supervisory authorities concerned).  
+
+2. **Purpose of the Table within Context**  
+   The table is designed to **clarify the regulatory reporting requirements** for different ORSA (Own Risk and Solvency Assessment) scenarios within a group structure under Solvency II. It helps insurers and supervisors understand **who must submit which type of ORSA-related report, to which supervisory authority, and under what circumstances** — distinguishing between group-level, solo-level, and single-document ORSAs, and between regular and non-regular assessments.  
+
+---
+
+If you want, I can also reformat this table into an **easy-to-read compliance checklist** for quick reference by insurers. Would you like me to do that?</summary>>
 
 
 
@@ -4082,8 +3977,7 @@ supervisors.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 5e24e6cd-ff7d-4fe3-9e0b-6d117b101206 ---
+--- METADATA Foreign key 5e24e6cd-ff7d-4fe3-9e0b-6d117b101206 ---
 --- METADATA Page 30 ---
 --- Start of Chunk ---
 
@@ -4110,8 +4004,7 @@ submission of the next ORSA.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 7e82fc75-5e45-49fe-b765-6f17c56f6655 ---
+--- METADATA Foreign key 7e82fc75-5e45-49fe-b765-6f17c56f6655 ---
 --- METADATA Page 30 ---
 --- Start of Chunk ---
 
@@ -4121,8 +4014,7 @@ In accordance with Guideline 5 on the record of each ORSA, the participating ins
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 19a9813b-d746-4d3c-867c-9787d83a0058 ---
+--- METADATA Foreign key 19a9813b-d746-4d3c-867c-9787d83a0058 ---
 --- METADATA Page 30 ---
 --- Start of Chunk ---
 
@@ -4156,8 +4048,7 @@ consideration.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 92742195-372a-489b-a079-0c4ebebdef47 ---
+--- METADATA Foreign key 92742195-372a-489b-a079-0c4ebebdef47 ---
 --- METADATA Page 30 ---
 --- Start of Chunk ---
 
@@ -4203,8 +4094,7 @@ arising from the complexity of the group structure.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 0462dc68-92a1-4d96-9388-0c8abfc04160 ---
+--- METADATA Foreign key 0462dc68-92a1-4d96-9388-0c8abfc04160 ---
 --- METADATA Page 31 ---
 --- Start of Chunk ---
 
@@ -4234,8 +4124,7 @@ presented in a separate part of the group ORSA report.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID b7046b7f-9cac-4802-ad02-4ac08225ade1 ---
+--- METADATA Foreign key b7046b7f-9cac-4802-ad02-4ac08225ade1 ---
 --- METADATA Page 31 ---
 --- Start of Chunk ---
 
@@ -4256,8 +4145,7 @@ analysis.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 0247fb54-d98c-4512-a614-7dca1b602318 ---
+--- METADATA Foreign key 0247fb54-d98c-4512-a614-7dca1b602318 ---
 --- METADATA Page 32 ---
 --- Start of Chunk ---
 
@@ -4268,8 +4156,7 @@ c) a description of how the single ORSA document is organised in order to allow 
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID c6ad44fa-f22b-4ee0-b571-4f1831716ab4 ---
+--- METADATA Foreign key c6ad44fa-f22b-4ee0-b571-4f1831716ab4 ---
 --- METADATA Page 32 ---
 --- Start of Chunk ---
 
@@ -4278,8 +4165,7 @@ d) where necessary, a specific indication on required translations, with specifi
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 53290f3f-f697-489f-a9d4-06bf70a80585 ---
+--- METADATA Foreign key 53290f3f-f697-489f-a9d4-06bf70a80585 ---
 --- METADATA Page 32 ---
 --- Start of Chunk ---
 
@@ -4303,8 +4189,7 @@ a) the results of each subsidiary concerned are individually identifiable in the
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\EIOPA-BoS-14-259_Final report_ORSA.pdf ---
---- METADATA ID 9ac872e5-cb65-4ec1-bb52-6119d4e353e8 ---
+--- METADATA Foreign key 9ac872e5-cb65-4ec1-bb52-6119d4e353e8 ---
 --- METADATA Page 32 ---
 --- Start of Chunk ---
 
@@ -4321,8 +4206,7 @@ supervisor as well as the individual supervisors concerned.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 76deaa94-5a4b-441c-814f-2535f84c2a83 ---
+--- METADATA Foreign key 76deaa94-5a4b-441c-814f-2535f84c2a83 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -4365,8 +4249,7 @@ and pursuit of the business of Insurance and Reinsurance (hereinafter
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID de1165af-9eea-4b6e-a193-1b44958f81ac ---
+--- METADATA Foreign key de1165af-9eea-4b6e-a193-1b44958f81ac ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4396,8 +4279,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 97d817f4-cdad-4a4f-be19-4cff57833d07 ---
+--- METADATA Foreign key 97d817f4-cdad-4a4f-be19-4cff57833d07 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4424,8 +4306,7 @@ scenarios that are consistent with the confidence level set out in Article
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 6ffe1965-bd10-4c7b-aafd-85382a878755 ---
+--- METADATA Foreign key 6ffe1965-bd10-4c7b-aafd-85382a878755 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4456,8 +4337,7 @@ valuation;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 002fbc08-202e-417a-962a-aa6bf39c45bc ---
+--- METADATA Foreign key 002fbc08-202e-417a-962a-aa6bf39c45bc ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4492,8 +4372,7 @@ technique.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 261a117a-a961-4308-af98-080b6a0a547f ---
+--- METADATA Foreign key 261a117a-a961-4308-af98-080b6a0a547f ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4519,8 +4398,7 @@ material.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 3a557c36-1cb5-48a6-8a0c-60719ea829ee ---
+--- METADATA Foreign key 3a557c36-1cb5-48a6-8a0c-60719ea829ee ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4547,8 +4425,7 @@ contract.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID aff1837f-a1f9-4a48-91e8-f782b09d194a ---
+--- METADATA Foreign key aff1837f-a1f9-4a48-91e8-f782b09d194a ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4584,8 +4461,7 @@ appropriate manner.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on basis risk.pdf ---
---- METADATA ID 71069545-9d6e-412c-baf8-166bc87b0412 ---
+--- METADATA Foreign key 71069545-9d6e-412c-baf8-166bc87b0412 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4615,8 +4491,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID f047abbb-80ec-4b10-9a60-af04078d9390 ---
+--- METADATA Foreign key f047abbb-80ec-4b10-9a60-af04078d9390 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -4655,8 +4530,7 @@ Directive 2009/138/EC (hereinafter “Commission Delegated Regulation”) [3] .
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 68ac79e9-a89f-4bf9-b8a9-2ec653e943be ---
+--- METADATA Foreign key 68ac79e9-a89f-4bf9-b8a9-2ec653e943be ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4671,8 +4545,7 @@ own-fund items.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 3a8fbbe0-780e-43f5-885b-2473dea9ca9d ---
+--- METADATA Foreign key 3a8fbbe0-780e-43f5-885b-2473dea9ca9d ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4695,8 +4568,7 @@ clear and unambiguous.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID dc4b4119-57a1-48f2-9a7d-7b329da7426a ---
+--- METADATA Foreign key dc4b4119-57a1-48f2-9a7d-7b329da7426a ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4721,8 +4593,7 @@ the nominal value of the share at issuance or the value received at issuance
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 3e366e44-da4b-4a93-af81-38a0a21fbee4 ---
+--- METADATA Foreign key 3e366e44-da4b-4a93-af81-38a0a21fbee4 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -4749,8 +4620,7 @@ arrangements, prevent or hinder new own funds being raised.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 701ce02d-7f7e-42de-a0cb-bee4b6396508 ---
+--- METADATA Foreign key 701ce02d-7f7e-42de-a0cb-bee4b6396508 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4770,8 +4640,7 @@ as described in Articles 71(2), 73(2) and 77(2) of Commission Delegated
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 2b054a3c-482b-4a51-a109-b8214d1e0296 ---
+--- METADATA Foreign key 2b054a3c-482b-4a51-a109-b8214d1e0296 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4781,8 +4650,7 @@ Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 397cd397-4ee8-4e5a-9ec0-61750c2e794e ---
+--- METADATA Foreign key 397cd397-4ee8-4e5a-9ec0-61750c2e794e ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4806,8 +4674,7 @@ decrease in own funds of the undertaking.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 6580783d-2406-4068-bb64-d49b44caf550 ---
+--- METADATA Foreign key 6580783d-2406-4068-bb64-d49b44caf550 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4824,8 +4691,7 @@ own funds and thus represent a hindrance to recapitalisation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 114d06db-987a-469d-b6ca-9aabea11b8c5 ---
+--- METADATA Foreign key 114d06db-987a-469d-b6ca-9aabea11b8c5 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -4851,8 +4717,7 @@ become paid-in in due course.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 77901384-0aeb-4fba-8c62-e6bf0293f212 ---
+--- METADATA Foreign key 77901384-0aeb-4fba-8c62-e6bf0293f212 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4885,8 +4750,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 8b15ce35-5771-42f9-8887-4709a9679ff8 ---
+--- METADATA Foreign key 8b15ce35-5771-42f9-8887-4709a9679ff8 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4905,8 +4769,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 89499c06-696f-427a-858f-7544187f650f ---
+--- METADATA Foreign key 89499c06-696f-427a-858f-7544187f650f ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4936,8 +4799,7 @@ cap.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 6f79e728-b4c0-47ef-ad52-22f70bfa2bda ---
+--- METADATA Foreign key 6f79e728-b4c0-47ef-ad52-22f70bfa2bda ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -4966,8 +4828,7 @@ relevant tier according to their features.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 0f6d4b60-f976-40de-aca8-7daa54581f3d ---
+--- METADATA Foreign key 0f6d4b60-f976-40de-aca8-7daa54581f3d ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -5004,8 +4865,7 @@ recognised as a liability on the Solvency II balance sheet;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID e4881a04-66b1-459d-98e4-1d3facbd64c1 ---
+--- METADATA Foreign key e4881a04-66b1-459d-98e4-1d3facbd64c1 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -5024,8 +4884,7 @@ and liabilities in accordance with Commission Delegated Regulation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 13f69e9f-de32-40cd-9b45-85e7b91ab7b2 ---
+--- METADATA Foreign key 13f69e9f-de32-40cd-9b45-85e7b91ab7b2 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -5055,8 +4914,7 @@ compensation that could result in a decrease of own funds.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 88bc9ef7-3c3a-426e-912e-4ce909d86f3f ---
+--- METADATA Foreign key 88bc9ef7-3c3a-426e-912e-4ce909d86f3f ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -5088,8 +4946,7 @@ by national law with regard to consolidated accounts;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 866b47c6-eb18-43e4-b8e3-45cb63a537dc ---
+--- METADATA Foreign key 866b47c6-eb18-43e4-b8e3-45cb63a537dc ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -5119,8 +4976,7 @@ Regulation 2015/35 prior to classifying an item as Tier 1.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 16fce62f-0d1a-4393-b71f-73b3990b6cd9 ---
+--- METADATA Foreign key 16fce62f-0d1a-4393-b71f-73b3990b6cd9 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -5150,8 +5006,7 @@ continuance of the undertaking or its business as a going concern;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 8909222f-83b1-4a92-a9b4-01b8916d6e8e ---
+--- METADATA Foreign key 8909222f-83b1-4a92-a9b4-01b8916d6e8e ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -5180,8 +5035,7 @@ subordination as, that item;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID b7a94330-b501-4151-9c93-44ffbdd979f2 ---
+--- METADATA Foreign key b7a94330-b501-4151-9c93-44ffbdd979f2 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -5209,8 +5063,7 @@ structural changes including a merger or acquisition.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID dff64353-75f3-429f-bb93-c1f523fcca3e ---
+--- METADATA Foreign key dff64353-75f3-429f-bb93-c1f523fcca3e ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -5235,8 +5088,7 @@ provided for in Article 71(2) of Commission Delegated Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 686fbc48-b900-4fbe-9222-1697de695db9 ---
+--- METADATA Foreign key 686fbc48-b900-4fbe-9222-1697de695db9 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -5269,8 +5121,7 @@ statutes of the undertaking;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 02b82c14-217c-41d8-9a02-213eca88b747 ---
+--- METADATA Foreign key 02b82c14-217c-41d8-9a02-213eca88b747 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -5308,8 +5159,7 @@ own-fund item do not:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 989f15f1-1205-497a-b56b-878531ac6dce ---
+--- METADATA Foreign key 989f15f1-1205-497a-b56b-878531ac6dce ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -5345,8 +5195,7 @@ defined in the terms of the contractual arrangement governing the ownfund item a
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 9b0eb4e5-79de-40d7-bac1-97a0b6ca02f8 ---
+--- METADATA Foreign key 9b0eb4e5-79de-40d7-bac1-97a0b6ca02f8 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -5383,8 +5232,7 @@ increased in order to restore compliance with the SCR;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID e176615b-cdb5-4a33-9c6e-535e13a9afbd ---
+--- METADATA Foreign key e176615b-cdb5-4a33-9c6e-535e13a9afbd ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -5419,8 +5267,7 @@ falls in the share price;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID af2e6979-ffa6-486f-abcb-b96ef62c5888 ---
+--- METADATA Foreign key af2e6979-ffa6-486f-abcb-b96ef62c5888 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -5452,8 +5299,7 @@ available for issuance when needed.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 115840fb-f0bb-48c7-9160-01873261e578 ---
+--- METADATA Foreign key 115840fb-f0bb-48c7-9160-01873261e578 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -5469,8 +5315,7 @@ there are no conditions or contingences in respect of its ability to absorb loss
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 396c8e78-b40a-4dcb-951f-b19be2f01c6b ---
+--- METADATA Foreign key 396c8e78-b40a-4dcb-951f-b19be2f01c6b ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -5499,8 +5344,7 @@ cancelled, nor should the legal or contractual terms governing the ownfund item 
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 6d3c84d9-52cf-48b4-9887-d42004761c88 ---
+--- METADATA Foreign key 6d3c84d9-52cf-48b4-9887-d42004761c88 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -5524,8 +5368,7 @@ result in such non-compliance.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 797c8073-ee52-42d6-a40e-485d68b8aeca ---
+--- METADATA Foreign key 797c8073-ee52-42d6-a40e-485d68b8aeca ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -5537,8 +5380,7 @@ to in Article 138 of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 624032b3-5bfb-42ad-9b8d-c1523cbfe216 ---
+--- METADATA Foreign key 624032b3-5bfb-42ad-9b8d-c1523cbfe216 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -5571,8 +5413,7 @@ and Solvency Assessment (hereinafter “ORSA”);
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 74da5022-7626-4451-91b8-5af971cc3874 ---
+--- METADATA Foreign key 74da5022-7626-4451-91b8-5af971cc3874 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -5597,8 +5438,7 @@ raise own funds.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID eb527b70-d77f-4f61-9c7d-ab6db9574e95 ---
+--- METADATA Foreign key eb527b70-d77f-4f61-9c7d-ab6db9574e95 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -5623,8 +5463,7 @@ procedures, and that the amount is available to absorb losses.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID c82adac3-4529-4806-b24c-b1e39adb45c5 ---
+--- METADATA Foreign key c82adac3-4529-4806-b24c-b1e39adb45c5 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -5645,8 +5484,7 @@ paragraph 1.27 of Guideline 5 applies _mutatis mutandis_ .
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 03848689-b252-4ad9-9e92-58d96c911e56 ---
+--- METADATA Foreign key 03848689-b252-4ad9-9e92-58d96c911e56 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -5670,8 +5508,7 @@ provided for in Article 73(2) of Commission Delegated Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID f57cdffe-f935-4455-af7a-0c1bf4fbc61d ---
+--- METADATA Foreign key f57cdffe-f935-4455-af7a-0c1bf4fbc61d ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -5701,8 +5538,7 @@ governing the own-fund item:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 05bfcbe6-4288-49e3-a86c-8230185776d1 ---
+--- METADATA Foreign key 05bfcbe6-4288-49e3-a86c-8230185776d1 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -5724,8 +5560,7 @@ instrument other than following an exceptional waiver as described in
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 9f22e3b3-0f6b-4302-9c0d-72bc9e2714a2 ---
+--- METADATA Foreign key 9f22e3b3-0f6b-4302-9c0d-72bc9e2714a2 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -5750,8 +5585,7 @@ to in Article 138 of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 45136cf5-bfd5-438c-8542-f2f2d923395e ---
+--- METADATA Foreign key 45136cf5-bfd5-438c-8542-f2f2d923395e ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -5774,8 +5608,7 @@ outside the control of the undertaking.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID f4ef3c6f-9f1b-464b-a0c8-ba6f23a577a7 ---
+--- METADATA Foreign key f4ef3c6f-9f1b-464b-a0c8-ba6f23a577a7 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -5801,8 +5634,7 @@ set out in Guideline 19.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID ffd6b9df-6e12-497f-96f7-a282b0ac8b17 ---
+--- METADATA Foreign key ffd6b9df-6e12-497f-96f7-a282b0ac8b17 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -5825,8 +5657,7 @@ the contractual arrangement governing the own-fund item:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 43cd61ca-1d25-4912-9e33-8bc29d12bc74 ---
+--- METADATA Foreign key 43cd61ca-1d25-4912-9e33-8bc29d12bc74 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -5851,8 +5682,7 @@ the SCR or if the distribution would result in such non-compliance.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 5e4ceeea-c449-4f31-8fce-0a5851183975 ---
+--- METADATA Foreign key 5e4ceeea-c449-4f31-8fce-0a5851183975 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -5868,8 +5698,7 @@ to in Article 138 of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 2efa2a27-8b7d-461f-badf-8942f7a45cf5 ---
+--- METADATA Foreign key 2efa2a27-8b7d-461f-badf-8942f7a45cf5 ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -5887,8 +5716,7 @@ Commission Delegated Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID e18e7903-40ed-4c48-be33-71ce3e6d4c70 ---
+--- METADATA Foreign key e18e7903-40ed-4c48-be33-71ce3e6d4c70 ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -5930,8 +5758,7 @@ determining classification as an own-fund item;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 40b812d1-85c5-43a6-8695-a309b7a33f6f ---
+--- METADATA Foreign key 40b812d1-85c5-43a6-8695-a309b7a33f6f ---
 --- METADATA Page 14 ---
 --- Start of Chunk ---
 
@@ -5964,8 +5791,7 @@ features required for a lower tier, undertakings should:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID c37b0dc2-b700-4a81-a128-8b4a4e25aec6 ---
+--- METADATA Foreign key c37b0dc2-b700-4a81-a128-8b4a4e25aec6 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -5994,8 +5820,7 @@ funds.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 7c19333e-5036-4767-bc8b-8d66a473368b ---
+--- METADATA Foreign key 7c19333e-5036-4767-bc8b-8d66a473368b ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -6016,8 +5841,7 @@ treatment by rating agencies of the own-fund item concerned.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID d2749216-92fe-48b3-be68-0398cb9f46eb ---
+--- METADATA Foreign key d2749216-92fe-48b3-be68-0398cb9f46eb ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -6042,8 +5866,7 @@ consistent with the recovery plan required by Article 138 of Solvency II;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 8b80de9f-fbb1-4da0-bb08-94d9e5c32039 ---
+--- METADATA Foreign key 8b80de9f-fbb1-4da0-bb08-94d9e5c32039 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -6069,8 +5892,7 @@ authority.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 260a3132-9824-4e00-ad59-55a5a1bdbfc6 ---
+--- METADATA Foreign key 260a3132-9824-4e00-ad59-55a5a1bdbfc6 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -6085,8 +5907,7 @@ system of governance.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID f2ae8959-08c8-4a86-9278-e164a8bb8757 ---
+--- METADATA Foreign key f2ae8959-08c8-4a86-9278-e164a8bb8757 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -6116,8 +5937,7 @@ and other sources of additional own funds.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID ddb4050d-72e6-4dae-b8b1-0cf3e54c8170 ---
+--- METADATA Foreign key ddb4050d-72e6-4dae-b8b1-0cf3e54c8170 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -6160,8 +5980,7 @@ undertaking should:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID a608b9b4-6143-47ac-bba9-46a4ff742de3 ---
+--- METADATA Foreign key a608b9b4-6143-47ac-bba9-46a4ff742de3 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -6190,8 +6009,7 @@ the date of repayment or redemption;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 8a0c4458-2b4c-44a2-a7e0-f83486032fbd ---
+--- METADATA Foreign key 8a0c4458-2b4c-44a2-a7e0-f83486032fbd ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -6204,8 +6022,7 @@ redemption is withdrawn.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID e25be67f-99b1-4c0f-8053-291c15456191 ---
+--- METADATA Foreign key e25be67f-99b1-4c0f-8053-291c15456191 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -6241,8 +6058,7 @@ as providing an economic basis for the likely redemption of the item.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID bf89f80f-c836-4344-9e89-b00025030d87 ---
+--- METADATA Foreign key bf89f80f-c836-4344-9e89-b00025030d87 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -6283,8 +6099,7 @@ Commission Delegated Regulation 2015/35 as eligible to cover the MCR;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID b9cacf24-319e-4c47-9d41-e216de81610b ---
+--- METADATA Foreign key b9cacf24-319e-4c47-9d41-e216de81610b ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -6303,8 +6118,7 @@ long as they are less than 20% of the MCR.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID afb8eeb3-d806-46c4-a953-2c1541f9b188 ---
+--- METADATA Foreign key afb8eeb3-d806-46c4-a953-2c1541f9b188 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -6333,8 +6147,7 @@ evidence.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 7ec7c10f-f47d-4f81-b7e4-e0a7b28d7d65 ---
+--- METADATA Foreign key 7ec7c10f-f47d-4f81-b7e4-e0a7b28d7d65 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -6365,8 +6178,7 @@ and classification of the own-fund item.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 2e57cc01-705b-42c3-b2d5-63d02741c2fc ---
+--- METADATA Foreign key 2e57cc01-705b-42c3-b2d5-63d02741c2fc ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -6386,8 +6198,7 @@ authorised to sign on behalf of the AMSB.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 06e55d6d-3b56-4480-839e-674a54b26cac ---
+--- METADATA Foreign key 06e55d6d-3b56-4480-839e-674a54b26cac ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -6412,8 +6223,7 @@ relevant jurisdictions.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 50352dde-8bbc-4a9c-95b3-3cb99a5bf474 ---
+--- METADATA Foreign key 50352dde-8bbc-4a9c-95b3-3cb99a5bf474 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -6424,8 +6234,7 @@ accordance with Guidelines 21 to 23.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 7902f777-88c6-48b7-b207-5556e89a3e13 ---
+--- METADATA Foreign key 7902f777-88c6-48b7-b207-5556e89a3e13 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -6463,8 +6272,7 @@ on an application.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID d8044594-923e-429b-8259-552326e50539 ---
+--- METADATA Foreign key d8044594-923e-429b-8259-552326e50539 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -6493,8 +6301,7 @@ details of its application.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 7dae3c80-5d3e-48cf-9c53-01cbea95706c ---
+--- METADATA Foreign key 7dae3c80-5d3e-48cf-9c53-01cbea95706c ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -6528,8 +6335,7 @@ application, the supervisory authority should treat this as a new application.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID da0f885a-6243-45e1-bcdf-168577e366f8 ---
+--- METADATA Foreign key da0f885a-6243-45e1-bcdf-168577e366f8 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -6547,8 +6353,7 @@ reasons on which the decision is based.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID fa36d422-04af-46d5-a5b9-a6473b75ce81 ---
+--- METADATA Foreign key fa36d422-04af-46d5-a5b9-a6473b75ce81 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -6567,8 +6372,7 @@ and administrative provisions which are adopted pursuant to Directive/EEC, Direc
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID ed1c8e7e-8137-456b-b875-9a52acd11ea7 ---
+--- METADATA Foreign key ed1c8e7e-8137-456b-b875-9a52acd11ea7 ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -6597,8 +6401,7 @@ requirements in Article 308b(9)(b) and (10)(b) of Solvency II.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on Classification of Own Funds.pdf ---
---- METADATA ID 620f6398-8103-4f2b-a80e-ce402ecea95f ---
+--- METADATA Foreign key 620f6398-8103-4f2b-a80e-ce402ecea95f ---
 --- METADATA Page 21 ---
 --- Start of Chunk ---
 
@@ -6638,8 +6441,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 7c723954-54c9-40ac-bee7-05909a0c7700 ---
+--- METADATA Foreign key 7c723954-54c9-40ac-bee7-05909a0c7700 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -6670,8 +6472,7 @@ Regulation”) [1] .
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID b2bd2f1a-a543-462e-bd91-802a8a34d722 ---
+--- METADATA Foreign key b2bd2f1a-a543-462e-bd91-802a8a34d722 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -6697,8 +6498,7 @@ will be specified in the Guidelines.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 926ddab8-d93b-4554-a1a9-4afc1651a636 ---
+--- METADATA Foreign key 926ddab8-d93b-4554-a1a9-4afc1651a636 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -6732,8 +6532,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID e8f97f7d-5282-42e1-86ec-7e4df77564e4 ---
+--- METADATA Foreign key e8f97f7d-5282-42e1-86ec-7e4df77564e4 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6746,8 +6545,7 @@ Solvency II Directive.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 6ce2ad45-2829-497c-8421-e6c4ff078595 ---
+--- METADATA Foreign key 6ce2ad45-2829-497c-8421-e6c4ff078595 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6764,8 +6562,7 @@ treatment of related undertakings.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID f777d1b4-6337-489d-bfd7-e0df2e78e542 ---
+--- METADATA Foreign key f777d1b4-6337-489d-bfd7-e0df2e78e542 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6778,8 +6575,7 @@ over another undertaking is being implemented.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 2de1c784-4bef-473b-9213-7bb3ea2142e0 ---
+--- METADATA Foreign key 2de1c784-4bef-473b-9213-7bb3ea2142e0 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6791,8 +6587,7 @@ supervision prescribed under this Article within the same group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 2dc23ec3-6261-4cf7-9580-cdc5c5c45865 ---
+--- METADATA Foreign key 2dc23ec3-6261-4cf7-9580-cdc5c5c45865 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6813,8 +6608,7 @@ undertaking in the European Union.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 1d6de820-a18c-4078-a929-8302437c75ed ---
+--- METADATA Foreign key 1d6de820-a18c-4078-a929-8302437c75ed ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -6837,8 +6631,7 @@ responsibilities.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID b3edc32c-05fe-4ce7-8b5c-35e702ee1eb1 ---
+--- METADATA Foreign key b3edc32c-05fe-4ce7-8b5c-35e702ee1eb1 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -6866,8 +6659,7 @@ supervisory authorities and EIOPA are invited;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID d2903d3f-de5a-4a6e-adab-fbc414eb0632 ---
+--- METADATA Foreign key d2903d3f-de5a-4a6e-adab-fbc414eb0632 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -6891,8 +6683,7 @@ supervision and group solvency calculation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 11cb786a-3d69-4b1f-a8f0-5704bd8623c4 ---
+--- METADATA Foreign key 11cb786a-3d69-4b1f-a8f0-5704bd8623c4 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -6907,8 +6698,7 @@ than to the mixed-activity insurance holding company.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID c52be50d-0f05-429e-a3f1-30758d03c3bd ---
+--- METADATA Foreign key c52be50d-0f05-429e-a3f1-30758d03c3bd ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -6919,8 +6709,7 @@ holding company should consider the same scope of the group as determined in
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID c63c505c-bb2a-4242-93c3-59e5061ec9d0 ---
+--- METADATA Foreign key c63c505c-bb2a-4242-93c3-59e5061ec9d0 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -6929,8 +6718,7 @@ or a combination of both methods is used.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 921afd57-63f3-4a12-a54f-eeed8bf4c229 ---
+--- METADATA Foreign key 921afd57-63f3-4a12-a54f-eeed8bf4c229 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -6946,8 +6734,7 @@ and all other entities in the scope of the group solvency calculation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID e9e64bda-d70f-467f-9b03-0bf8045b5124 ---
+--- METADATA Foreign key e9e64bda-d70f-467f-9b03-0bf8045b5124 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -6973,8 +6760,7 @@ the proportional share chosen by the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID b757893d-fc67-4112-bd48-b6d41e7bd330 ---
+--- METADATA Foreign key b757893d-fc67-4112-bd48-b6d41e7bd330 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -7005,8 +6791,7 @@ Delegated Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID b05e4308-b15b-4480-b4a9-faba3dff0aae ---
+--- METADATA Foreign key b05e4308-b15b-4480-b4a9-faba3dff0aae ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -7039,8 +6824,7 @@ service agreements;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 16569bb8-f942-4520-a148-456e6bb542b6 ---
+--- METADATA Foreign key 16569bb8-f942-4520-a148-456e6bb542b6 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -7068,8 +6852,7 @@ subsidiary on a proportional basis.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 3be4ddda-60dd-47d5-901c-78389bbd3054 ---
+--- METADATA Foreign key 3be4ddda-60dd-47d5-901c-78389bbd3054 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -7098,8 +6881,7 @@ Solvency and Financial Condition Report.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 209778cc-ed7b-4ded-9d6c-0366bc07c621 ---
+--- METADATA Foreign key 209778cc-ed7b-4ded-9d6c-0366bc07c621 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -7117,8 +6899,7 @@ proportional share of that subsidiary, also in the case of a solvency deficit.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID e4913c90-bf00-4bc3-8c80-6080fcb7d520 ---
+--- METADATA Foreign key e4913c90-bf00-4bc3-8c80-6080fcb7d520 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -7135,8 +6916,7 @@ calculating the group solvency.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 0b99c6a8-2def-461f-b400-c0c923a358d8 ---
+--- METADATA Foreign key 0b99c6a8-2def-461f-b400-c0c923a358d8 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -7166,8 +6946,7 @@ consolidated data.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID a4c050f0-81ab-4a3d-94ee-56dd5913c233 ---
+--- METADATA Foreign key a4c050f0-81ab-4a3d-94ee-56dd5913c233 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -7193,8 +6972,7 @@ account.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID eb1370d6-8380-4a82-bde5-b3d39be1ab18 ---
+--- METADATA Foreign key eb1370d6-8380-4a82-bde5-b3d39be1ab18 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -7222,8 +7000,7 @@ made.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 9621c361-f5fd-4cdb-bf9c-5a9123368da3 ---
+--- METADATA Foreign key 9621c361-f5fd-4cdb-bf9c-5a9123368da3 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -7236,8 +7013,7 @@ supervisory authorities involved, the assessment made by the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID e001fe7c-29ff-41d1-9c1d-0931b4bab82a ---
+--- METADATA Foreign key e001fe7c-29ff-41d1-9c1d-0931b4bab82a ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -7265,8 +7041,7 @@ funds by multiplying the minority share by the result of step 2.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID e9bab54a-317f-474a-999a-15189f021f81 ---
+--- METADATA Foreign key e9bab54a-317f-474a-999a-15189f021f81 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -7287,8 +7062,7 @@ Regulation 2015/35 and Article 217 of Commission Delegated Regulation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 7dba46a0-1b15-49e8-900f-061cceeb78eb ---
+--- METADATA Foreign key 7dba46a0-1b15-49e8-900f-061cceeb78eb ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -7307,8 +7081,7 @@ the group level.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID f0f85446-f67e-40ad-85db-0f85681063ec ---
+--- METADATA Foreign key f0f85446-f67e-40ad-85db-0f85681063ec ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -7332,8 +7105,7 @@ transactions; and
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 673f4bad-98a1-4214-b47b-040225268da8 ---
+--- METADATA Foreign key 673f4bad-98a1-4214-b47b-040225268da8 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -7354,8 +7126,7 @@ Requirement (hereinafter ”SCR”), it should follow the guidance set out in
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID a81d90c1-7e38-4b11-a4d3-f19b5193c6d7 ---
+--- METADATA Foreign key a81d90c1-7e38-4b11-a4d3-f19b5193c6d7 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -7381,8 +7152,7 @@ described above, i.e. gross of intra-group transactions.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 28b2264a-7f9a-4179-9601-c211aacd7102 ---
+--- METADATA Foreign key 28b2264a-7f9a-4179-9601-c211aacd7102 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -7399,8 +7169,7 @@ consolidated data.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 58bf9a9b-ba00-4e3c-b04e-bc4968c811ba ---
+--- METADATA Foreign key 58bf9a9b-ba00-4e3c-b04e-bc4968c811ba ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -7433,8 +7202,7 @@ relevant at group level;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 7c7b35ca-ab2f-4e10-91de-d241a6c20702 ---
+--- METADATA Foreign key 7c7b35ca-ab2f-4e10-91de-d241a6c20702 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -7465,8 +7233,7 @@ the different tiers should be explained to the group supervisor.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID fcac7869-c8f4-4476-a3c2-4de568bc40a7 ---
+--- METADATA Foreign key fcac7869-c8f4-4476-a3c2-4de568bc40a7 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -7496,8 +7263,7 @@ funds within the college as well as with the group;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID a7174eb5-9be4-42c4-be6c-59445ee24478 ---
+--- METADATA Foreign key a7174eb5-9be4-42c4-be6c-59445ee24478 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -7529,8 +7295,7 @@ holding company.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID d00f7e3a-3b7a-4fe3-84a5-2c9798cf5d9c ---
+--- METADATA Foreign key d00f7e3a-3b7a-4fe3-84a5-2c9798cf5d9c ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -7551,8 +7316,7 @@ funds with the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID ae72b92b-b43f-4a8e-bf6b-d7dbcf195718 ---
+--- METADATA Foreign key ae72b92b-b43f-4a8e-bf6b-d7dbcf195718 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -7578,8 +7342,7 @@ portfolios at group level.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 12ddcd73-e958-4bc6-b7e7-ce10e3753977 ---
+--- METADATA Foreign key 12ddcd73-e958-4bc6-b7e7-ce10e3753977 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -7595,8 +7358,7 @@ inclusion and treatment of the related undertakings.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 26b2aad7-d691-4500-a381-c0c0340e5bd3 ---
+--- METADATA Foreign key 26b2aad7-d691-4500-a381-c0c0340e5bd3 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -7616,8 +7378,7 @@ Article 188 of Commission Delegated Regulation 2015/35 at group level as well.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 0b461029-3ed5-4cad-9dee-08e0f623f1fb ---
+--- METADATA Foreign key 0b461029-3ed5-4cad-9dee-08e0f623f1fb ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -7644,8 +7405,7 @@ finding.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 365beaa6-66aa-4500-af45-ce313d4ea243 ---
+--- METADATA Foreign key 365beaa6-66aa-4500-af45-ce313d4ea243 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -7659,8 +7419,7 @@ requirement should apply at group level.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 5f972efd-8bf0-4157-85cc-f0ca4ff5778d ---
+--- METADATA Foreign key 5f972efd-8bf0-4157-85cc-f0ca4ff5778d ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -7695,8 +7454,7 @@ should be calculated as follows:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 52f8f0c1-40a6-45cf-892a-36f7a6360ab8 ---
+--- METADATA Foreign key 52f8f0c1-40a6-45cf-892a-36f7a6360ab8 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -7726,8 +7484,7 @@ Articles 232(a) and 233(6) of the Solvency II Directive, if appropriate.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 317c086b-5105-465b-a62d-b69898fe33cd ---
+--- METADATA Foreign key 317c086b-5105-465b-a62d-b69898fe33cd ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -7743,8 +7500,7 @@ requirement.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID 97c1c22b-8f8c-4fe1-9018-849fe1687615 ---
+--- METADATA Foreign key 97c1c22b-8f8c-4fe1-9018-849fe1687615 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -7758,8 +7514,7 @@ solvency capital requirement.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID d81452e4-f043-4fe1-b564-474678414630 ---
+--- METADATA Foreign key d81452e4-f043-4fe1-b564-474678414630 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -7781,8 +7536,7 @@ related undertaking.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID aeabc766-65b6-4092-81c1-297275b4e748 ---
+--- METADATA Foreign key aeabc766-65b6-4092-81c1-297275b4e748 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -7813,8 +7567,7 @@ appropriate manner.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID ab3e3772-ad86-4a0c-b066-ef049cdd8813 ---
+--- METADATA Foreign key ab3e3772-ad86-4a0c-b066-ef049cdd8813 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -7857,8 +7610,7 @@ Where:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on group solvency.pdf ---
---- METADATA ID a6c1e416-4b70-446d-b50c-86a832421588 ---
+--- METADATA Foreign key a6c1e416-4b70-446d-b50c-86a832421588 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -7893,8 +7645,7 @@ calculation.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID fab67bfc-b881-40b9-9810-b371a1c8c4d5 ---
+--- METADATA Foreign key fab67bfc-b881-40b9-9810-b371a1c8c4d5 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -7944,8 +7695,7 @@ EIOPA is drafting Guidelines on the health catastrophe risk sub-module. These
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 1c032655-ec57-4842-a5a9-4c18196db4ed ---
+--- METADATA Foreign key 1c032655-ec57-4842-a5a9-4c18196db4ed ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -7970,8 +7720,7 @@ calibration of the underlying scenarios.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID a8715420-0ed3-4bac-9935-40be76609f27 ---
+--- METADATA Foreign key a8715420-0ed3-4bac-9935-40be76609f27 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8000,8 +7749,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 31ccc7c3-99b2-4a7f-aca9-9f7aa55ed96c ---
+--- METADATA Foreign key 31ccc7c3-99b2-4a7f-aca9-9f7aa55ed96c ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8023,8 +7771,7 @@ by policy terms and conditions (e.g. terrorism).
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 7024f57e-e7b3-4f32-afe4-3f9ba1a3e3d6 ---
+--- METADATA Foreign key 7024f57e-e7b3-4f32-afe4-3f9ba1a3e3d6 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8049,8 +7796,7 @@ cause are properly captured in the life underwriting risk module.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 9fd2d207-55be-46aa-a748-d69d9468937d ---
+--- METADATA Foreign key 9fd2d207-55be-46aa-a748-d69d9468937d ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8080,8 +7826,7 @@ expected increases in the amount of recurring benefit payments and claims
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 2637726b-96d0-4f26-a183-fb5854986d7b ---
+--- METADATA Foreign key 2637726b-96d0-4f26-a183-fb5854986d7b ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8093,8 +7838,7 @@ management expenses.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 7f5b84e4-5924-4cab-a86c-6c1f233c2a0e ---
+--- METADATA Foreign key 7f5b84e4-5924-4cab-a86c-6c1f233c2a0e ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8125,8 +7869,7 @@ in step 2 weighted by the proportion calculated in step 1.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 26a7207c-eb01-4ee0-8c9e-fd6aa29f279a ---
+--- METADATA Foreign key 26a7207c-eb01-4ee0-8c9e-fd6aa29f279a ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8157,8 +7900,7 @@ persons;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 7bf00233-4ecc-41e9-b181-5cdef6e0c840 ---
+--- METADATA Foreign key 7bf00233-4ecc-41e9-b181-5cdef6e0c840 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8191,8 +7933,7 @@ terms and conditions of the policy, but that exits due to mortality may occur.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 3f8db464-1163-4075-bb95-1b3a54328adc ---
+--- METADATA Foreign key 3f8db464-1163-4075-bb95-1b3a54328adc ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8210,8 +7951,7 @@ management expenses.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 2e262d6a-819d-496c-8b80-b9fbe7f2e453 ---
+--- METADATA Foreign key 2e262d6a-819d-496c-8b80-b9fbe7f2e453 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8246,8 +7986,7 @@ exit cause and take into account all future payments between:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID c2d5f5a7-fb58-4932-8989-96ad157baef4 ---
+--- METADATA Foreign key c2d5f5a7-fb58-4932-8989-96ad157baef4 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -8265,8 +8004,7 @@ amount of recurring benefit payments and claims management expenses.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 131ab2b7-0809-4731-8864-78883e893dc4 ---
+--- METADATA Foreign key 131ab2b7-0809-4731-8864-78883e893dc4 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -8304,8 +8042,7 @@ payments.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 23160e08-a531-4bbf-ba70-ba54a45e333e ---
+--- METADATA Foreign key 23160e08-a531-4bbf-ba70-ba54a45e333e ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -8324,8 +8061,7 @@ the satisfaction of the supervisory authority.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 35f95b21-bdf6-41a4-9a0b-b90c0dd3acc0 ---
+--- METADATA Foreign key 35f95b21-bdf6-41a4-9a0b-b90c0dd3acc0 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -8348,8 +8084,7 @@ Regulation 2015/35.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 49a104a4-c818-4ac6-ab51-28929e94947e ---
+--- METADATA Foreign key 49a104a4-c818-4ac6-ab51-28929e94947e ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -8363,8 +8098,7 @@ case of the event type “Permanent disability caused by an accident”.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 886c98b4-b140-451d-8560-462cada355db ---
+--- METADATA Foreign key 886c98b4-b140-451d-8560-462cada355db ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -8400,8 +8134,7 @@ experience, of:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 76b6dbc3-36cc-43a5-a589-0fb79a1c94a3 ---
+--- METADATA Foreign key 76b6dbc3-36cc-43a5-a589-0fb79a1c94a3 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -8437,8 +8170,7 @@ recommendations.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on health catastrophe risk sub-module.pdf ---
---- METADATA ID 07ef7af0-a612-4298-b02a-5964aaca17c9 ---
+--- METADATA Foreign key 07ef7af0-a612-4298-b02a-5964aaca17c9 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -8472,8 +8204,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 1e248656-3eb3-4e9d-b30b-08fc331fbf17 ---
+--- METADATA Foreign key 1e248656-3eb3-4e9d-b30b-08fc331fbf17 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -8511,8 +8242,7 @@ and pursuit of the business of Insurance and Reinsurance (hereinafter
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 41ba2df1-47f8-4749-986c-c3a5f7c767dc ---
+--- METADATA Foreign key 41ba2df1-47f8-4749-986c-c3a5f7c767dc ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8543,8 +8273,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 04d61584-6c0f-4046-8d7d-a0497b9e5a33 ---
+--- METADATA Foreign key 04d61584-6c0f-4046-8d7d-a0497b9e5a33 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8552,8 +8281,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID cdf21945-5dc4-4bd5-95f2-ff06b04ce80e ---
+--- METADATA Foreign key cdf21945-5dc4-4bd5-95f2-ff06b04ce80e ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8563,8 +8291,7 @@ funds) to capture all material risk.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 49965faa-632f-4fe3-b425-f66441100a71 ---
+--- METADATA Foreign key 49965faa-632f-4fe3-b425-f66441100a71 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8595,8 +8322,7 @@ look-through approach.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID f5719a06-623a-4b67-9105-b51b3dd53967 ---
+--- METADATA Foreign key f5719a06-623a-4b67-9105-b51b3dd53967 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8614,8 +8340,7 @@ demonstrably prudent.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID feed60ce-6a30-4e3e-8ffb-825d51775279 ---
+--- METADATA Foreign key feed60ce-6a30-4e3e-8ffb-825d51775279 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8641,8 +8366,7 @@ asset portfolio.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID d352a82e-fad2-4ba4-90fe-cbd286811549 ---
+--- METADATA Foreign key d352a82e-fad2-4ba4-90fe-cbd286811549 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8661,8 +8385,7 @@ undertaking.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 961acf0f-9950-4abf-a1c4-451c7997b923 ---
+--- METADATA Foreign key 961acf0f-9950-4abf-a1c4-451c7997b923 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8682,8 +8405,7 @@ contingent on the non-occurrence of a catastrophe event.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID d9460b16-f9eb-43ca-abc1-ae5ca0027d5c ---
+--- METADATA Foreign key d9460b16-f9eb-43ca-abc1-ae5ca0027d5c ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8721,8 +8443,7 @@ payable.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 3a8bf528-71a9-4ff7-8a2b-2bf7afba244b ---
+--- METADATA Foreign key 3a8bf528-71a9-4ff7-8a2b-2bf7afba244b ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -8755,8 +8476,7 @@ stresses in the life underwriting risk module are applied.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on look-through approach.pdf ---
---- METADATA ID 65ac44ad-7ce8-4a93-a993-38b43e037b73 ---
+--- METADATA Foreign key 65ac44ad-7ce8-4a93-a993-38b43e037b73 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -8793,8 +8513,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 39dff4b0-b115-452a-882a-3f006d08b495 ---
+--- METADATA Foreign key 39dff4b0-b115-452a-882a-3f006d08b495 ---
 --- METADATA Page 1 ---
 --- Start of Chunk ---
 
@@ -8830,8 +8549,7 @@ Fax. + 49 69-951119-19; email: info@eiopa.europa.eu site: https://eiopa.europa.e
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 767dd297-2b94-46d1-bc7e-6c8499287504 ---
+--- METADATA Foreign key 767dd297-2b94-46d1-bc7e-6c8499287504 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8851,8 +8569,7 @@ reviews. Based on these elements, EIOPA assessed the level of convergence
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 802f9686-1a03-4e2d-ab2b-752d07259875 ---
+--- METADATA Foreign key 802f9686-1a03-4e2d-ab2b-752d07259875 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8862,8 +8579,7 @@ needed and identified the areas and content to be covered by these Guidelines.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID b6c83d95-255b-4a92-a035-78f80c9925c2 ---
+--- METADATA Foreign key b6c83d95-255b-4a92-a035-78f80c9925c2 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8885,8 +8601,7 @@ examinations, decision making processes and consultations.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 21bd82a0-d645-4afa-bc36-bad3dd4e3e97 ---
+--- METADATA Foreign key 21bd82a0-d645-4afa-bc36-bad3dd4e3e97 ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8909,8 +8624,7 @@ initiative, and promote the implementation of EIOPA’s work on colleges of
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID de6a9a4f-1526-441b-a9da-1f5b0fb178ac ---
+--- METADATA Foreign key de6a9a4f-1526-441b-a9da-1f5b0fb178ac ---
 --- METADATA Page 2 ---
 --- Start of Chunk ---
 
@@ -8928,8 +8642,7 @@ performed by colleges of supervisors contribute to the evaluation of macroeconom
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 32111e92-8f54-497b-b63e-a88d0c6eb58b ---
+--- METADATA Foreign key 32111e92-8f54-497b-b63e-a88d0c6eb58b ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8953,8 +8666,7 @@ would give its opinion but would not take part in formal voting.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 10fbadd5-7155-4eb3-8194-75bcf86a161a ---
+--- METADATA Foreign key 10fbadd5-7155-4eb3-8194-75bcf86a161a ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -8982,8 +8694,7 @@ head office is situated in the EEA or in a third country.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 09905529-fb02-463c-9526-9e36ae6a7d03 ---
+--- METADATA Foreign key 09905529-fb02-463c-9526-9e36ae6a7d03 ---
 --- METADATA Page 3 ---
 --- Start of Chunk ---
 
@@ -9024,8 +8735,7 @@ including subsidiaries.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 943d6536-660c-4eb1-ade4-84b2e4aef670 ---
+--- METADATA Foreign key 943d6536-660c-4eb1-ade4-84b2e4aef670 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -9055,8 +8765,7 @@ legal acts referred to in the introduction.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID a1f13ad8-edab-4849-9982-64af8c02d0d8 ---
+--- METADATA Foreign key a1f13ad8-edab-4849-9982-64af8c02d0d8 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -9082,8 +8791,7 @@ designating another supervisory authority as the group supervisor.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID aa4ec608-b727-42a8-ae18-84c71e0b8f9f ---
+--- METADATA Foreign key aa4ec608-b727-42a8-ae18-84c71e0b8f9f ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -9099,8 +8807,7 @@ the group, as well as to provide information on branches in the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6b8b1e83-96cb-4a9b-b574-26da7d189de4 ---
+--- METADATA Foreign key 6b8b1e83-96cb-4a9b-b574-26da7d189de4 ---
 --- METADATA Page 4 ---
 --- Start of Chunk ---
 
@@ -9144,8 +8851,7 @@ e) the role of the undertaking within the group’s organisational structure,
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 90ea7dae-10be-4b72-bdbc-9c5edc329d9c ---
+--- METADATA Foreign key 90ea7dae-10be-4b72-bdbc-9c5edc329d9c ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -9192,8 +8898,7 @@ e) the role of the undertaking in the infrastructure of the financial system.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d1ac8f3c-7c2b-4c4f-a4a2-bc87752afe34 ---
+--- METADATA Foreign key d1ac8f3c-7c2b-4c4f-a4a2-bc87752afe34 ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -9206,8 +8911,7 @@ e) the role of the undertaking in the infrastructure of the financial system.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 83a83ae3-515e-4a01-b75f-aa2dec8992bc ---
+--- METADATA Foreign key 83a83ae3-515e-4a01-b75f-aa2dec8992bc ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -9223,8 +8927,7 @@ plan.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6034df2d-bc65-438e-9da1-6659c7bf05ba ---
+--- METADATA Foreign key 6034df2d-bc65-438e-9da1-6659c7bf05ba ---
 --- METADATA Page 5 ---
 --- Start of Chunk ---
 
@@ -9248,8 +8951,7 @@ all circumstances.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID c1286418-f477-4639-84b4-f041fafca244 ---
+--- METADATA Foreign key c1286418-f477-4639-84b4-f041fafca244 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -9265,8 +8967,7 @@ to the other members and participants, as soon as possible.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID b3a447b5-d077-49d2-b524-ab9ac8bc4bd7 ---
+--- METADATA Foreign key b3a447b5-d077-49d2-b524-ab9ac8bc4bd7 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -9285,8 +8986,7 @@ functioning where necessary.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d18dac8b-ff39-4641-8bc6-2b9f619a38c9 ---
+--- METADATA Foreign key d18dac8b-ff39-4641-8bc6-2b9f619a38c9 ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -9323,8 +9023,7 @@ order to initiate the six-month period referred to in Guideline 8.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6d7eca4c-456c-4780-864c-836a9d58834f ---
+--- METADATA Foreign key 6d7eca4c-456c-4780-864c-836a9d58834f ---
 --- METADATA Page 6 ---
 --- Start of Chunk ---
 
@@ -9345,8 +9044,7 @@ proposed formally to them by the group supervisor, as provided for in
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID b3b43a1a-3ebb-46ad-8283-05323975637d ---
+--- METADATA Foreign key b3b43a1a-3ebb-46ad-8283-05323975637d ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -9362,8 +9060,7 @@ agreed by members and participants.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d478a859-c8e6-45e2-8af4-40ad13f88fef ---
+--- METADATA Foreign key d478a859-c8e6-45e2-8af4-40ad13f88fef ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -9390,8 +9087,7 @@ the developments made by specialised teams, where appropriate.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID a150de3b-cd04-43a2-a426-fe5015ac0d22 ---
+--- METADATA Foreign key a150de3b-cd04-43a2-a426-fe5015ac0d22 ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -9428,8 +9124,7 @@ f) develop the college work plan in cooperation with the other members and
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID ef210b76-7cd9-442f-84b0-2e4aeb27700f ---
+--- METADATA Foreign key ef210b76-7cd9-442f-84b0-2e4aeb27700f ---
 --- METADATA Page 7 ---
 --- Start of Chunk ---
 
@@ -9461,8 +9156,7 @@ decision.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID bf9bcf2c-1273-4664-87ea-05b2b243da13 ---
+--- METADATA Foreign key bf9bcf2c-1273-4664-87ea-05b2b243da13 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -9480,8 +9174,7 @@ arrangements.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 0b2cebd1-e91f-4b90-a4f8-1fcf77ebe415 ---
+--- METADATA Foreign key 0b2cebd1-e91f-4b90-a4f8-1fcf77ebe415 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -9498,8 +9191,7 @@ part of the group.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID f19055e1-347a-4f1b-8352-d1f072d3dd57 ---
+--- METADATA Foreign key f19055e1-347a-4f1b-8352-d1f072d3dd57 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -9524,8 +9216,7 @@ meetings and the authorities that will participate in these meetings.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 5d59d33f-f3be-4d9c-a5ef-91fc08a6d0a6 ---
+--- METADATA Foreign key 5d59d33f-f3be-4d9c-a5ef-91fc08a6d0a6 ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -9540,8 +9231,7 @@ annually when assessing the college’s performance.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 2c494166-2e98-4fd1-ad1c-affd299bf5af ---
+--- METADATA Foreign key 2c494166-2e98-4fd1-ad1c-affd299bf5af ---
 --- METADATA Page 8 ---
 --- Start of Chunk ---
 
@@ -9553,8 +9243,7 @@ provided that the confidentiality of data is secured.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID a6cfb1bd-9c65-4e0e-acb7-d73f829168a2 ---
+--- METADATA Foreign key a6cfb1bd-9c65-4e0e-acb7-d73f829168a2 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -9568,8 +9257,7 @@ view of the risks of the group as part of the supervisory review process.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID e302790c-e678-4cfa-8a81-7bd3af7ee2fd ---
+--- METADATA Foreign key e302790c-e678-4cfa-8a81-7bd3af7ee2fd ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -9593,8 +9281,7 @@ that are part of the group in order to avoid duplication.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 933adfde-54dc-4712-a8d8-b728a30065a3 ---
+--- METADATA Foreign key 933adfde-54dc-4712-a8d8-b728a30065a3 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -9613,8 +9300,7 @@ agenda in advance of the meeting.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 02808618-76db-41b8-9e97-adae0c54dd51 ---
+--- METADATA Foreign key 02808618-76db-41b8-9e97-adae0c54dd51 ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -9649,8 +9335,7 @@ e) it should send the final decision to members and, where appropriate, to
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID c1f0b1ef-d5e3-4396-94aa-6d3465ec1d4a ---
+--- METADATA Foreign key c1f0b1ef-d5e3-4396-94aa-6d3465ec1d4a ---
 --- METADATA Page 9 ---
 --- Start of Chunk ---
 
@@ -9666,8 +9351,7 @@ deviate from these opinions.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 9ca30265-322d-45ef-8add-800d139e7a2d ---
+--- METADATA Foreign key 9ca30265-322d-45ef-8add-800d139e7a2d ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -9698,8 +9382,7 @@ c) the undertaking applies the matching adjustment referred to in Article 77b
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 1faffd9d-b50f-4148-bada-dc32cdd1f3a2 ---
+--- METADATA Foreign key 1faffd9d-b50f-4148-bada-dc32cdd1f3a2 ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -9713,8 +9396,7 @@ underlying these adjustments and transitional measures.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 8d59f834-8e5c-4a11-97b1-13159cd8292c ---
+--- METADATA Foreign key 8d59f834-8e5c-4a11-97b1-13159cd8292c ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -9749,8 +9431,7 @@ adjustments and transitional measures.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 71b9eca0-225e-425b-a70d-e8703b48151f ---
+--- METADATA Foreign key 71b9eca0-225e-425b-a70d-e8703b48151f ---
 --- METADATA Page 10 ---
 --- Start of Chunk ---
 
@@ -9788,8 +9469,7 @@ e) members and participants should inform the group supervisor of the
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID c052d140-878f-4d99-ba9d-d8a09e3d3128 ---
+--- METADATA Foreign key c052d140-878f-4d99-ba9d-d8a09e3d3128 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -9829,8 +9509,7 @@ where relevant.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 113161c8-76e3-47ee-b12a-804a9385caa0 ---
+--- METADATA Foreign key 113161c8-76e3-47ee-b12a-804a9385caa0 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -9852,8 +9531,7 @@ operate.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6b8a2284-8151-4726-9eb2-c9e033fdbda9 ---
+--- METADATA Foreign key 6b8a2284-8151-4726-9eb2-c9e033fdbda9 ---
 --- METADATA Page 11 ---
 --- Start of Chunk ---
 
@@ -9878,8 +9556,7 @@ the joint on-site examination.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID ef27de8a-d0fb-4f0f-b389-3eb674de1d3d ---
+--- METADATA Foreign key ef27de8a-d0fb-4f0f-b389-3eb674de1d3d ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -9905,8 +9582,7 @@ conclusions of such an examination.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d7453b1b-4ee1-4ced-bc7b-27dfd3a547f2 ---
+--- METADATA Foreign key d7453b1b-4ee1-4ced-bc7b-27dfd3a547f2 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -9934,8 +9610,7 @@ supervised undertakings.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 1b3b132f-66d4-4263-a3a3-7743e9730e68 ---
+--- METADATA Foreign key 1b3b132f-66d4-4263-a3a3-7743e9730e68 ---
 --- METADATA Page 12 ---
 --- Start of Chunk ---
 
@@ -9975,8 +9650,7 @@ h) the timetable for completion of the delegated or shared tasks.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 54c6abe8-b2d3-4deb-a165-deff05a54306 ---
+--- METADATA Foreign key 54c6abe8-b2d3-4deb-a165-deff05a54306 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -9990,8 +9664,7 @@ to be shared or delegated, with the expected timeline, in the college work plan.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6065cc8a-2882-4b71-bd4a-5343f0e31932 ---
+--- METADATA Foreign key 6065cc8a-2882-4b71-bd4a-5343f0e31932 ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -10016,8 +9689,7 @@ b) the authority in charge of communication with the undertaking.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID ee2534b5-8b96-43ef-a4b4-69f7b249846a ---
+--- METADATA Foreign key ee2534b5-8b96-43ef-a4b4-69f7b249846a ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -10052,8 +9724,7 @@ comply with guidelines and recommendations.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d4521b44-17b2-4de9-aa65-a009a6c06a3f ---
+--- METADATA Foreign key d4521b44-17b2-4de9-aa65-a009a6c06a3f ---
 --- METADATA Page 13 ---
 --- Start of Chunk ---
 
@@ -10082,8 +9753,7 @@ considered as non-compliant to the reporting and reported as such.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 77106443-62dc-46bf-9f70-ce0f36160bc7 ---
+--- METADATA Foreign key 77106443-62dc-46bf-9f70-ce0f36160bc7 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -10109,8 +9779,7 @@ supervisors.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID ab49df73-b23f-47f8-8e31-0d00d8345276 ---
+--- METADATA Foreign key ab49df73-b23f-47f8-8e31-0d00d8345276 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -10140,8 +9809,7 @@ All annexes are part of these arrangements.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 748beefe-769d-4195-aebd-8b1974309f71 ---
+--- METADATA Foreign key 748beefe-769d-4195-aebd-8b1974309f71 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -10180,8 +9848,7 @@ the Solvency II Directive, including:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 7a42d7db-2268-4f0d-9903-8800dbd51bb4 ---
+--- METADATA Foreign key 7a42d7db-2268-4f0d-9903-8800dbd51bb4 ---
 --- METADATA Page 15 ---
 --- Start of Chunk ---
 
@@ -10222,8 +9889,7 @@ subsidiaries.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 2b11822e-c088-412d-a274-96e40bc31cbf ---
+--- METADATA Foreign key 2b11822e-c088-412d-a274-96e40bc31cbf ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -10255,8 +9921,7 @@ carrying out some activities of the college of supervisors;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 54e26970-239b-42b9-8947-e49f98d56e17 ---
+--- METADATA Foreign key 54e26970-239b-42b9-8947-e49f98d56e17 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -10281,8 +9946,7 @@ filled in with the name of the group] [5] as follows:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID e27a5fbc-de47-484c-a785-1aeeb26ad672 ---
+--- METADATA Foreign key e27a5fbc-de47-484c-a785-1aeeb26ad672 ---
 --- METADATA Page 16 ---
 --- Start of Chunk ---
 
@@ -10315,8 +9979,7 @@ and the other members and participants;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d8530169-9a8b-4e1a-bce0-14f221529710 ---
+--- METADATA Foreign key d8530169-9a8b-4e1a-bce0-14f221529710 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -10358,8 +10021,7 @@ in order to:
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 9ada38d9-dac8-405e-ae58-3c4861893969 ---
+--- METADATA Foreign key 9ada38d9-dac8-405e-ae58-3c4861893969 ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -10396,8 +10058,7 @@ examinations;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 5fd25333-308c-46e1-bf81-cd683fe9038d ---
+--- METADATA Foreign key 5fd25333-308c-46e1-bf81-cd683fe9038d ---
 --- METADATA Page 17 ---
 --- Start of Chunk ---
 
@@ -10432,8 +10093,7 @@ supervisory authorities, striving to reach consensus where appropriate;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 2de5aff5-44e3-4186-9fb9-b7fa653b2eee ---
+--- METADATA Foreign key 2de5aff5-44e3-4186-9fb9-b7fa653b2eee ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -10453,8 +10113,7 @@ supervisory authorities [6] ;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 093ad8bd-7128-4579-ba16-fbd651c1cb7c ---
+--- METADATA Foreign key 093ad8bd-7128-4579-ba16-fbd651c1cb7c ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -10473,8 +10132,7 @@ cooperation and consultation will be English.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 9b482774-1536-4b42-a08e-f93229c39b5a ---
+--- METADATA Foreign key 9b482774-1536-4b42-a08e-f93229c39b5a ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -10505,8 +10163,7 @@ A diagram of the group is attached in Annex 1.B.
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID f0206c2e-da5f-42c2-837d-334e677422bd ---
+--- METADATA Foreign key f0206c2e-da5f-42c2-837d-334e677422bd ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -10525,8 +10182,7 @@ the group supervisor to EIOPA, which will update the EIOPA directory accordingly
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID b318da60-e4a9-4d1f-96ae-5cd2d13ac940 ---
+--- METADATA Foreign key b318da60-e4a9-4d1f-96ae-5cd2d13ac940 ---
 --- METADATA Page 18 ---
 --- Start of Chunk ---
 
@@ -10546,8 +10202,7 @@ how}.}
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID d33b027f-d39c-46bc-aaa8-5f9559512102 ---
+--- METADATA Foreign key d33b027f-d39c-46bc-aaa8-5f9559512102 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -10579,8 +10234,7 @@ assessment of risk concentration and intra-group transactions;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 6b9e693c-a26b-4ac2-808f-64e69a95cf97 ---
+--- METADATA Foreign key 6b9e693c-a26b-4ac2-808f-64e69a95cf97 ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -10601,8 +10255,7 @@ the business of all undertakings that are part of the group;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 58251587-b570-41d5-8285-39f9a0463e8a ---
+--- METADATA Foreign key 58251587-b570-41d5-8285-39f9a0463e8a ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -10627,8 +10280,7 @@ without prejudice to ad-hoc or emergency situations;
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 7e96ef72-358b-405e-93e0-b2aaa0919d2e ---
+--- METADATA Foreign key 7e96ef72-358b-405e-93e0-b2aaa0919d2e ---
 --- METADATA Page 19 ---
 --- Start of Chunk ---
 
@@ -10661,8 +10313,7 @@ _Members and participants_
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID 212f1ab3-01f0-4415-be93-29f3ef6599d0 ---
+--- METADATA Foreign key 212f1ab3-01f0-4415-be93-29f3ef6599d0 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
@@ -10693,8 +10344,7 @@ _Confidentiality_
 --- End of Chunk ---
 
 
---- METADATA Source data\raw\solvency-II-files\guidelines-level 3-v0.1 - TRUNCATED\Guidelines on operational functioning of colleges.pdf ---
---- METADATA ID f45d8636-752e-4b55-8862-1daf5af151a6 ---
+--- METADATA Foreign key f45d8636-752e-4b55-8862-1daf5af151a6 ---
 --- METADATA Page 20 ---
 --- Start of Chunk ---
 
