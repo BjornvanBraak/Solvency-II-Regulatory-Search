@@ -3,9 +3,13 @@ import streamlit as st
 # from markdown_it_py import MarkdownIt #internally streamlit uses this as well, potential dependency conflict, be aware.
 from markdown_it import MarkdownIt
 from mdit_py_plugins.admon import admon_plugin
+from mdit_py_plugins.dollarmath import dollarmath_plugin
 md = MarkdownIt()
 md.use(admon_plugin)
+md.use(dollarmath_plugin)
 md.enable('table')
+
+AI_WARNING_MESSAGE = """\n!!! warning\n\tContains AI generated content\n"""
 
 from dotenv import load_dotenv
 import json
@@ -302,6 +306,7 @@ def chroma_hasher(vectorstore) -> str:
 
 @st.cache_resource(hash_funcs={Chroma: chroma_hasher})
 def cached_retriever(embedding_model_option, vectorstore):
+    search_kwargs={"k": k}
     if "doc_persist_directory" in embedding_model_option.value:
         # Multivector embedding
         # NOTE: ENTIRE DOCSTORE IS SAVED AS A PICKLE FILE FOR PROOF OF CONCEPT
@@ -316,13 +321,14 @@ def cached_retriever(embedding_model_option, vectorstore):
             vectorstore=vectorstore,
             byte_store=byte_store,
             id_key=id_key,
+            search_kwargs=search_kwargs
         )
 
         # load docstore into memory
         retriever.docstore.mset(doc_store)
         return retriever
     else:
-        return vectorstore.as_retriever(search_kwargs={"k": k})
+        return vectorstore.as_retriever(search_kwargs=search_kwargs)
 
 # load models and vectorstore
 # cached because streamlit reloads after each user input
@@ -563,6 +569,19 @@ def displaySources(link):
 
             [class*="st-key-source-block-container-"] {{
                 gap: 0rem;
+                border: 1px solid rgba(49, 51, 63, 0.2);
+                border-radius: 0.5rem;
+                padding: 1rem;
+                display: flex;
+                align-items: center;
+            }}
+            [class*="source-button-"] {{
+                text-align: center;
+                min-width: 50%;
+
+                button {{
+                    width:  100%;
+                }}
             }}
         </style>
         
@@ -580,7 +599,7 @@ def displaySources(link):
 
                 PAGE_CONTENT_LENGTH_LIMIT = 250
 
-                truncated_page_content = document_source["page_content"] #if len(document_source["page_content"]) <= PAGE_CONTENT_LENGTH_LIMIT else document_source["page_content"][:PAGE_CONTENT_LENGTH_LIMIT] + "..."
+                # truncated_page_content = document_source["page_content"] #if len(document_source["page_content"]) <= PAGE_CONTENT_LENGTH_LIMIT else document_source["page_content"][:PAGE_CONTENT_LENGTH_LIMIT] + "..."
 
                 non_empty_headings = [re.sub(r"\*{1,2}", r"", heading) for heading in document_source["heading_hierarchy"] if heading != ""]
                 last_heading = non_empty_headings[-1] if non_empty_headings else "Part of " + document_source["short_title"]
@@ -589,14 +608,21 @@ def displaySources(link):
                 print(f"[DisplaySources] Document link: {document_source["link"]}, page number: {page_number}")
                 with st.container(key=f"source-block-container-{document_source['id']}"):
                     st.button(
-                        key=f"{document_source["id"]}",
+                        key=f"source-button-{document_source["id"]}",
                         label=f"Source {document_source["source_index"]}: {last_heading}", 
                         on_click= set_pdf_to_display, 
                         args=(document_link, page_number), #args in python need to give not wrapped with function as in js
                         icon="🔗"
                     )
+                    st.html("<hr/>")
 
-                    st.html(f"<blockquote>{md.render(truncated_page_content)}</blockquote>")
+                    page_content = document_source["page_content"] 
+
+                    if document_source["page_content"].startswith(AI_WARNING_MESSAGE):
+                        st.html(md.render(AI_WARNING_MESSAGE))
+                        page_content = document_source["page_content"].replace(AI_WARNING_MESSAGE, "")
+
+                    st.markdown(f"{page_content}", unsafe_allow_html=True)
 
 
  # LAYOUT OF MAIN PAGE
@@ -606,26 +632,6 @@ with chat_col:
     chat_col.title("💬 Regulation Search")
     chat_col.caption("🚀 Powered by Triple A")
 
-    chat_col.markdown("![\n\nHey\n\n](#)")
-
-    chat_col.markdown("""*AI-Generated* \n
-    [!WARNING] 
-    AI generated description of an image
-1. Contract boundaries determine the premiums and obligations that belong to the contract
-considering the rights and risks for the undertakings. Where the undertaking can compel
-
-the policyholder to pay the premium, the premium and the related obligations belong to
-
-the contract because the undertaking has the right to request and keep the premium.
-
-Where the undertaking has the obligation to accept new premiums and cover the related
-
-obligations, but does not hold the unilateral right to amend the premiums/benefits so that
-
-the premiums fully reflect the risk, these premiums and the related obligations belong to
-
-the contract because the undertaking has the obligation to cover the risks.                
-    """)
 # with pdf_col:
 #     st.markdown('<iframe id=pdf_sidebar_test src="http://localhost:8501/app/static/solvency-II-files/guidelines-level%203-v0.1%20-%20TRUNCATED/Guidelines%20on%20Own%20Risk%20Solvency%20Assessment%20.pdf#page=4" width="600" height="550" type="application/pdf"></iframe>', unsafe_allow_html=True)
 
@@ -836,7 +842,7 @@ with chat_col:
             page_content = chunk.page_content
             if "<image" in page_content:
                 # Add warning of AI generated
-                page_content = """\n!!! warning\n\tContains AI generated content\n""" + page_content
+                page_content = AI_WARNING_MESSAGE + page_content
 
             document_source = {
                     "id": str(uuid.uuid4()),
@@ -891,11 +897,12 @@ with chat_col:
                 escaped_content_unformatted = escape_curly_braces(message["content_unformatted"])
                 chat.append(("assistant", escaped_content_unformatted))
 
-        chat.append(("user", prompt))
+        chat.append(("user", escape_curly_braces(prompt)))
 
         # Note: potential problem with sources ids overlapping of different chat (e.g. source 1, from previous prompt, with current source 1 from current prompt), may confuses the LLM?
-        # print("Chat history for LLM:")
-        # pprint.pprint(chat)
+        print("Chat history for LLM:")
+        import pprint
+        pprint.pprint(chat)
 
         count_tokens(prompt)
 
@@ -1002,7 +1009,7 @@ with chat_col:
                     if document_source["source_index"] == int(source_num):
                         return document_source
                 
-                messages_container.warning("Warning: could not source, may be hallucinated!")
+                messages_container.warning("Warning: could not find source, may be hallucinated!")
                 
                 print("Document_source: ", document_source)
                 print(source_num)
