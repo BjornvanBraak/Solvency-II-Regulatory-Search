@@ -1,0 +1,2478 @@
+{
+  "bozo": false,
+  "entries": [
+    {
+      "title": "Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities under DORA Regulation (EU) 2022/2554",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities under DORA Regulation (EU) 2022/2554"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/joint-guidelines-oversight-cooperation-and-information-exchange-between-esas-and-competent_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/joint-guidelines-oversight-cooperation-and-information-exchange-between-esas-and-competent_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/joint-guidelines-oversight-cooperation-and-information-exchange-between-esas-and-competent_en"
+        }
+      ],
+      "summary": "<p>Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities under Regulation (EU) 2022/2554</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities under Regulation (EU) 2022/2554</p>"
+      },
+      "published": "Fri, 21 Mar 2025 15:03:40 +0100",
+      "published_parsed": [
+        2025,
+        3,
+        21,
+        14,
+        3,
+        40,
+        4,
+        80,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents under DORA",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents under DORA"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/joint-guidelines-estimation-aggregated-annual-costs-and-losses-caused-major-ict-related-incidents_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/joint-guidelines-estimation-aggregated-annual-costs-and-losses-caused-major-ict-related-incidents_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/joint-guidelines-estimation-aggregated-annual-costs-and-losses-caused-major-ict-related-incidents_en"
+        }
+      ],
+      "summary": "<p>Joint guidelines on the estimation of aggregated annual costs and losses caused by major ICT-related incidents under Regulation (EU) 2022/2554</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>Joint guidelines on the estimation of aggregated annual costs and losses caused by major ICT-related incidents under Regulation (EU) 2022/2554</p>"
+      },
+      "published": "Tue, 18 Mar 2025 11:27:46 +0100",
+      "published_parsed": [
+        2025,
+        3,
+        18,
+        10,
+        27,
+        46,
+        1,
+        77,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "European Supervisory Authorities",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Digitalisation",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "financial services",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint ESAs Guidelines regarding the regulatory classification of crypto-assets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Joint ESAs Guidelines regarding the regulatory classification of crypto-assets"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/joint-esas-guidelines-regarding-regulatory-classification-crypto-assets_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/joint-esas-guidelines-regarding-regulatory-classification-crypto-assets_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/joint-esas-guidelines-regarding-regulatory-classification-crypto-assets_en"
+        }
+      ],
+      "summary": "<p>Joint ESAs Guidelines regarding the regulatory classification of crypto-assets</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>Joint ESAs Guidelines regarding the regulatory classification of crypto-assets</p>"
+      },
+      "published": "Mon, 10 Mar 2025 16:47:25 +0100",
+      "published_parsed": [
+        2025,
+        3,
+        10,
+        15,
+        47,
+        25,
+        0,
+        69,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "European Supervisory Authorities",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Digitalisation",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial services",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "digital finance strategy",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "virtual currency",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint Guidelines on the exchange of information relevant to fit and proper assessments",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Joint Guidelines on the exchange of information relevant to fit and proper assessments"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/joint-guidelines-exchange-information-relevant-fit-and-proper-assessments_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/joint-guidelines-exchange-information-relevant-fit-and-proper-assessments_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/joint-guidelines-exchange-information-relevant-fit-and-proper-assessments_en"
+        }
+      ],
+      "summary": "<p>Final report on Joint Guidelines on the system established by the European Supervisory Authorities for the exchange of information</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>Final report on Joint Guidelines on the system established by the European Supervisory Authorities for the exchange of information</p>"
+      },
+      "published": "Wed, 19 Feb 2025 17:13:22 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        19,
+        16,
+        13,
+        22,
+        2,
+        50,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "European Supervisory Authorities",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "General guidelines",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on outsourcing to cloud service providers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on outsourcing to cloud service providers"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-outsourcing-cloud-service-providers_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-outsourcing-cloud-service-providers_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-outsourcing-cloud-service-providers_en"
+        }
+      ],
+      "summary": "<p>EIOPA identified the need to develop these specific guidance on outsourcing to cloud service providers in the context of the analysis performed to answer the European Commission FinTech Action plan (COM(2018) 109 final) and following discussions and exchanges with stakeholders.Cloud services are a..</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>EIOPA identified the need to develop these specific guidance on outsourcing to cloud service providers in the context of the analysis performed to answer the European Commission FinTech Action plan (COM(2018) 109 final) and following discussions and exchanges with stakeholders.Cloud services are a..</p>"
+      },
+      "published": "Thu, 19 Dec 2024 16:03:21 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        19,
+        15,
+        3,
+        21,
+        3,
+        354,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Resilience",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "Outsourcing",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "Digitalisation",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "Innovation",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on information and communication technology security and governance",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on information and communication technology security and governance"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-information-and-communication-technology-security-and-governance_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-information-and-communication-technology-security-and-governance_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-information-and-communication-technology-security-and-governance_en"
+        }
+      ],
+      "summary": "<p>In accordance with Article 16 of Regulation (EU) No 1094/20104 EIOPA issues these Guidelines addressed to the supervisory authorities to provide guidance on how insurance and reinsurance undertakings should apply the governance requirements foreseen in Directive 2009/138/EC5 (\u201cSolvency II...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>In accordance with Article 16 of Regulation (EU) No 1094/20104 EIOPA issues these Guidelines addressed to the supervisory authorities to provide guidance on how insurance and reinsurance undertakings should apply the governance requirements foreseen in Directive 2009/138/EC5 (\u201cSolvency II...</p>"
+      },
+      "published": "Thu, 19 Dec 2024 16:02:22 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        19,
+        15,
+        2,
+        22,
+        3,
+        354,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Supervisory framework",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "Innovation",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on Forward Looking assessment of own risks based on the ORSA principles",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on Forward Looking assessment of own risks based on the ORSA principles"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-forward-looking-assessment-own-risks-based-orsa-principles_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-forward-looking-assessment-own-risks-based-orsa-principles_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-forward-looking-assessment-own-risks-based-orsa-principles_en"
+        }
+      ],
+      "summary": "<p>Guidelines on Forward Looking assessment of own risks based on the ORSA principles</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>Guidelines on Forward Looking assessment of own risks based on the ORSA principles</p>"
+      },
+      "published": "Mon, 16 Dec 2024 16:01:52 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        15,
+        1,
+        52,
+        0,
+        351,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the supervision of branches of third-country insurance undertakings",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the supervision of branches of third-country insurance undertakings"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-supervision-branches-third-country-insurance-undertakings_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-supervision-branches-third-country-insurance-undertakings_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-supervision-branches-third-country-insurance-undertakings_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).The 2022 amended guidelines are based on the ITS amendments on reporting and...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).The 2022 amended guidelines are based on the ITS amendments on reporting and...</p>"
+      },
+      "published": "Mon, 16 Dec 2024 16:00:04 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        15,
+        0,
+        4,
+        0,
+        351,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the Extension of the Recovery Period",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the Extension of the Recovery Period"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-extension-recovery-period_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-extension-recovery-period_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-extension-recovery-period_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Mon, 16 Dec 2024 14:55:17 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        13,
+        55,
+        17,
+        0,
+        351,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on Own Risk Solvency Assessment (ORSA)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on Own Risk Solvency Assessment (ORSA)"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-own-risk-solvency-assessment-orsa_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-own-risk-solvency-assessment-orsa_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-own-risk-solvency-assessment-orsa_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Thu, 12 Dec 2024 16:07:28 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        12,
+        15,
+        7,
+        28,
+        3,
+        347,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the exchange of information within colleges",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the exchange of information within colleges"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-exchange-information-within-colleges_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-exchange-information-within-colleges_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-exchange-information-within-colleges_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Thu, 12 Dec 2024 16:00:36 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        12,
+        15,
+        0,
+        36,
+        3,
+        347,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on reporting and public disclosure",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on reporting and public disclosure"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-reporting-and-public-disclosure_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-reporting-and-public-disclosure_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-reporting-and-public-disclosure_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010). In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Thu, 12 Dec 2024 15:59:53 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        12,
+        14,
+        59,
+        53,
+        3,
+        347,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint Guidelines on Risk Factors / outdated/no longer in force",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Joint Guidelines on Risk Factors / outdated/no longer in force"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/joint-guidelines-risk-factors-outdatedno-longer-force_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/joint-guidelines-risk-factors-outdatedno-longer-force_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/joint-guidelines-risk-factors-outdatedno-longer-force_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the Regulation of EBA, EIOPA and ESMA (the ESAs) referring to language arrangements, the ESAs issue their Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the Regulation of EBA, EIOPA and ESMA (the ESAs) referring to language arrangements, the ESAs issue their Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).</p>"
+      },
+      "published": "Mon, 25 Nov 2024 09:34:37 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        25,
+        8,
+        34,
+        37,
+        0,
+        330,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "Joint Committee",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "European Supervisory Authorities",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Supervision",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on supervisory review process",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on supervisory review process"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-supervisory-review-process_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-supervisory-review-process_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-supervisory-review-process_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Wed, 18 Sep 2024 11:12:09 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        9,
+        12,
+        9,
+        2,
+        262,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "Insurance and reinsurance stakeholder group",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the use of internal models",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the use of internal models"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-use-internal-models_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-use-internal-models_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-use-internal-models_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Wed, 18 Sep 2024 11:08:25 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        9,
+        8,
+        25,
+        2,
+        262,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Revised Guidelines on Valuation of Technical Provisions",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Revised Guidelines on Valuation of Technical Provisions"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/revised-guidelines-valuation-technical-provisions_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/revised-guidelines-valuation-technical-provisions_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/revised-guidelines-valuation-technical-provisions_en"
+        }
+      ],
+      "summary": "<p>During the 2020 review of Solvency II EIOPA identified several divergent practices regarding the valuation of best estimate, as presented in the analysis background document to EIOPA\u2019s Opinion on the 2020 review of Solvency II. Divergent practices require additional guidance to ensure a convergent..</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>During the 2020 review of Solvency II EIOPA identified several divergent practices regarding the valuation of best estimate, as presented in the analysis background document to EIOPA\u2019s Opinion on the 2020 review of Solvency II. Divergent practices require additional guidance to ensure a convergent..</p>"
+      },
+      "published": "Wed, 18 Sep 2024 11:02:05 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        9,
+        2,
+        5,
+        2,
+        262,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Supervision",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Revised Guidelines on Contract Boundaries",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Revised Guidelines on Contract Boundaries"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/revised-guidelines-contract-boundaries_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/revised-guidelines-contract-boundaries_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/revised-guidelines-contract-boundaries_en"
+        }
+      ],
+      "summary": "<p>During the 2020 review of Solvency II EIOPA identified several divergent practices regarding contract boundaries assessment, as presented in the analysis background document1 to EIOPA\u2019s Opinion on the 2020 review of Solvency II. Divergent practices require additional guidance to ensure a...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>During the 2020 review of Solvency II EIOPA identified several divergent practices regarding contract boundaries assessment, as presented in the analysis background document1 to EIOPA\u2019s Opinion on the 2020 review of Solvency II. Divergent practices require additional guidance to ensure a...</p>"
+      },
+      "published": "Wed, 18 Sep 2024 10:15:24 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        8,
+        15,
+        24,
+        2,
+        262,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Supervision",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on operational functioning of colleges",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on operational functioning of colleges"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-operational-functioning-colleges_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-operational-functioning-colleges_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-operational-functioning-colleges_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Wed, 18 Sep 2024 10:11:02 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        8,
+        11,
+        2,
+        2,
+        262,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on undertaking-specific parameters",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on undertaking-specific parameters"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-undertaking-specific-parameters_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-undertaking-specific-parameters_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-undertaking-specific-parameters_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:49:42 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        49,
+        42,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on treatment of related undertakings, including participations",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on treatment of related undertakings, including participations"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-treatment-related-undertakings-including-participations_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-treatment-related-undertakings-including-participations_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-treatment-related-undertakings-including-participations_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:42:42 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        42,
+        42,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the treatment of market and counterparty risk exposures in the standard formula",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the treatment of market and counterparty risk exposures in the standard formula"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-treatment-market-and-counterparty-risk-exposures-standard-formula_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-treatment-market-and-counterparty-risk-exposures-standard-formula_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-treatment-market-and-counterparty-risk-exposures-standard-formula_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:40:24 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        40,
+        24,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the methodology for equivalence assessments by national supervisory authorities under Solvency II",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the methodology for equivalence assessments by national supervisory authorities under Solvency II"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-methodology-equivalence-assessments-national-supervisory-authorities-under-solvency-ii_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-methodology-equivalence-assessments-national-supervisory-authorities-under-solvency-ii_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-methodology-equivalence-assessments-national-supervisory-authorities-under-solvency-ii_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:38:19 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        38,
+        19,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the loss-absorbing capacity of technical provisions and deferred taxes",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the loss-absorbing capacity of technical provisions and deferred taxes"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-loss-absorbing-capacity-technical-provisions-and-deferred-taxes_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-loss-absorbing-capacity-technical-provisions-and-deferred-taxes_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-loss-absorbing-capacity-technical-provisions-and-deferred-taxes_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:35:07 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        35,
+        7,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on the Application of Outwards Reinsurance",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on the Application of Outwards Reinsurance"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-application-outwards-reinsurance_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-application-outwards-reinsurance_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-application-outwards-reinsurance_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:33:09 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        33,
+        9,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on ring-fenced funds",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on ring-fenced funds"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-ring-fenced-funds_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-ring-fenced-funds_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-ring-fenced-funds_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:27:12 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        27,
+        12,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on look-through approach",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on look-through approach"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-look-through-approach_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-look-through-approach_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-look-through-approach_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:22:49 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        22,
+        49,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on health catastrophe risk sub-module",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on health catastrophe risk sub-module"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-health-catastrophe-risk-sub-module_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-health-catastrophe-risk-sub-module_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-health-catastrophe-risk-sub-module_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:20:32 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        20,
+        32,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on group solvency",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on group solvency"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:13:20 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        13,
+        20,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on Classification of Own Funds",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on Classification of Own Funds"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-classification-own-funds_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-classification-own-funds_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-classification-own-funds_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:11:09 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        11,
+        9,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Guidelines on basis risk",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "Guidelines on basis risk"
+      },
+      "id": "https://www.eiopa.europa.eu/publications/guidelines-basis-risk_en",
+      "guidislink": true,
+      "link": "https://www.eiopa.europa.eu/publications/guidelines-basis-risk_en",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/publications/guidelines-basis-risk_en"
+        }
+      ],
+      "summary": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "<p>According to Art 73 of the EIOPA Regulation referring to language arrangements, EIOPA issues its Guidelines in all EU official languages (with the exception of Irish, according to Council Regulation (EU) No 1257/2010).  In case of divergence between different versions, please inform EIOPA info{at...</p>"
+      },
+      "published": "Tue, 17 Sep 2024 16:09:03 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        17,
+        14,
+        9,
+        3,
+        1,
+        261,
+        0
+      ],
+      "tags": [
+        {
+          "term": "European Insurance and Occupational Pensions Authority",
+          "scheme": "http://publications.europa.eu/resource/authority/corporate-body",
+          "label": null
+        },
+        {
+          "term": "Guidelines",
+          "scheme": "Type (of content document)",
+          "label": null
+        },
+        {
+          "term": "EIOPA",
+          "scheme": "Related body",
+          "label": null
+        },
+        {
+          "term": "Solvency II",
+          "scheme": "Topics",
+          "label": null
+        },
+        {
+          "term": "General publications",
+          "scheme": "http://publications.europa.eu/resource/authority/resource-type",
+          "label": null
+        },
+        {
+          "term": "pension scheme",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "insurance",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        },
+        {
+          "term": "financial supervision",
+          "scheme": "http://data.europa.eu/uxp/det",
+          "label": null
+        }
+      ]
+    }
+  ],
+  "feed": {
+    "language": "en",
+    "title": "European Insurance and Occupational Pensions Authority | Guidelines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": "en",
+      "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+      "value": "European Insurance and Occupational Pensions Authority | Guidelines"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.eiopa.europa.eu/document-library/guidelines_en?limit=100&offset=0"
+      },
+      {
+        "href": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    ],
+    "link": "https://www.eiopa.europa.eu/document-library/guidelines_en?limit=100&offset=0",
+    "subtitle": "European Insurance and Occupational Pensions Authority | Guidelines",
+    "subtitle_detail": {
+      "type": "text/html",
+      "language": "en",
+      "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+      "value": "European Insurance and Occupational Pensions Authority | Guidelines"
+    },
+    "rights": "\u00a9 European Union, 1995-2025",
+    "rights_detail": {
+      "type": "text/plain",
+      "language": "en",
+      "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+      "value": "\u00a9 European Union, 1995-2025"
+    },
+    "image": {
+      "href": "https://www.eiopa.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg",
+      "title": "European Union logo",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+        "value": "European Union logo"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eiopa.europa.eu/document-library/guidelines_en?limit=100&offset=0"
+        }
+      ],
+      "link": "https://www.eiopa.europa.eu/document-library/guidelines_en?limit=100&offset=0"
+    }
+  },
+  "headers": {
+    "content-type": "application/rss+xml; charset=utf-8",
+    "content-length": "3618",
+    "connection": "close",
+    "date": "Fri, 11 Apr 2025 08:57:07 GMT",
+    "content-language": "en",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "content-encoding": "gzip",
+    "accept-ranges": "bytes",
+    "x-fpfis": "13624477",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload;",
+    "cache-control": "public, max-age=300, s-maxage=300",
+    "x-age": "0",
+    "vary": "Accept-Encoding",
+    "x-cache": "Miss from cloudfront",
+    "via": "1.1 1e22254f0abea6547aaa07a03d921130.cloudfront.net (CloudFront)",
+    "x-amz-cf-pop": "AMS58-P1",
+    "x-amz-cf-id": "iH5h4zIOr46jU7bCGXFyMzLo-7GvnHBQ0O5p_pgHtg3TfdAm8dEc4A=="
+  },
+  "href": "https://www.eiopa.europa.eu/node/4755/rss_en?limit=100&offset=0",
+  "status": 200,
+  "encoding": "utf-8",
+  "version": "rss20",
+  "namespaces": {
+    "": "http://www.w3.org/2005/Atom"
+  }
+}
