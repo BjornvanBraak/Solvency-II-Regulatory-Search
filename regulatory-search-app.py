@@ -399,13 +399,15 @@ def close_pdf_display():
     # apparently, streamlit will not rerun the .html() if no changes were made.
     st.session_state.message_to_component = {"type": "CLEAR_PDF", "message_id": str(uuid.uuid4())}
 
-
 def set_pdf_to_display(pdf_link, page_number=None):
-    if pdf_link == st.session_state.pdf_to_display and page_number == st.session_state.pdf_page_number:
-        print(f"PDF already set to {st.session_state.pdf_to_display} on page {st.session_state.pdf_page_number}, no need to update.")
-        return
+    with open("debug.log", "a") as f:
+        print(f"1. entering set_pdf_to_display with link: {pdf_link}, page_number: {page_number}", file=f)
+    # if pdf_link == st.session_state.pdf_to_display and page_number == st.session_state.pdf_page_number:
+    #     print(f"PDF already set to {st.session_state.pdf_to_display} on page {st.session_state.pdf_page_number}, no need to update.")
+    #     return
     # lambda: setattr(st.session_state, 'pdf_to_display', document_link)
-    print(f"Changing pdf to display: {st.session_state.pdf_to_display}, to pdf {pdf_link}")
+    with open("debug.log", "a") as f:
+        print(f"2. Changing pdf to display: {st.session_state.pdf_to_display}, to pdf {pdf_link}", file=f)
     # print(f"Setting pdf to display: {pdf_link} on page: {page_number}")
     # st.session_state.pdf_to_display = pdf_link
     # st.session_state.pdf_page_number = page_number
@@ -444,15 +446,21 @@ def displayPDF(file_name, page_number=None):
     # print("[displayPDF] Displaying pdf with: ", secure_file_path, " page number: ", secure_page_number)
     cache_bust = str(st.session_state.pdf_cache_bust) # NOT WORKING unless, edge://settings/privacy/sitePermissions/allPermissions/pdfDocuments --> PDF view settings
 
-    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}?cache_bust={cache_bust}#page={secure_page_number}" width="600" height="550" style="width:100%;" type="application/pdf"></iframe>'
+    with open("debug.log", "a") as f:
+        print(f"4. iframe <iframe id=pdf_sidebar src=\"{secure_file_path}?cache_bust={cache_bust}#page={secure_page_number}\"", file=f)
+
+    # SIMPLIFIED CACHE BUS BY ALWAYS NEW UUID
+    pdf_display = f'<iframe id=pdf_sidebar src="{secure_file_path}?cache_bust={uuid.uuid4()}#page={secure_page_number}" width="600" height="550" style="width:100%;" type="application/pdf"></iframe>'
     
-    if st.session_state.prev_pdf_for_cache_bust != file_name or st.session_state.prev_page_number != page_number:
-        print(f"[displayPDF] Setting cache bust to {cache_bust} for file {file_name} (prev_pdf {st.session_state.prev_pdf_for_cache_bust})")
-        st.session_state.pdf_cache_bust = str(uuid.uuid4())
-        st.session_state.prev_pdf_for_cache_bust = file_name
-        st.session_state.prev_page_number = page_number
-    else:
-        print(f"[displayPDF] caching the pdf")
+    # if st.session_state.prev_pdf_for_cache_bust != file_name or st.session_state.prev_page_number != page_number:
+    #     print(f"[displayPDF] Setting cache bust to {cache_bust} for file {file_name} (prev_pdf {st.session_state.prev_pdf_for_cache_bust})")
+    #     st.session_state.pdf_cache_bust = str()
+    #     with open("debug.log", "a") as f:
+    #         print(f"5. New cache bust: {st.session_state.pdf_cache_bust}", file=f)
+    #     st.session_state.prev_pdf_for_cache_bust = file_name
+    #     st.session_state.prev_page_number = page_number
+    # else:
+    #     print(f"[displayPDF] caching the pdf")
 
     # Displaying File
     with st.container(key=f"pdf-display-container"):
@@ -461,24 +469,31 @@ def displayPDF(file_name, page_number=None):
 
 if st.session_state.message_to_component:
     message = st.session_state.message_to_component
-    components.html(f"""
-        <script>
-            const componentFrame = window.parent.document.querySelector('.st-key-messenger iframe');
+    script = f"""
+const componentFrame = window.parent.document.querySelector('.st-key-messenger iframe');
             if (componentFrame) {{
                 console.log('Sending message to component:', {json.dumps(message)});
                 componentFrame.contentWindow.postMessage({json.dumps(message)}, '*');
             }} else {{
                 console.error('Could not find the component iframe to send message.');
             }}
-        </script>
-    """, height=0, width=0)
+"""
+else:
+    script = ""
+
+components.html(f"""
+    <script>
+        {script}
+    </script>
+""", height=0, width=0)
     # Important: Clear the message after sending it to prevent resending on subsequent reruns
     # st.session_state.message_to_component = None
 
 # SETTING STATE FOR DISPLAY PDF THROUGH FOR BUTTONS IN POPOVER
 with sidebar:
     result = my_component("Debugger for messenger", "messenger")
-    print("messenger result: ", result)
+    with open("debug.log", "a") as f:
+        print("messenger result: ", result, file=f)
     # print(f"Type of result: {type(result)}")
     document_link_through_link = None
     page_number_through_link = None
@@ -634,14 +649,21 @@ with chat_col:
 
 # with pdf_col:
 #     st.markdown('<iframe id=pdf_sidebar_test src="http://localhost:8501/app/static/solvency-II-files/guidelines-level%203-v0.1%20-%20TRUNCATED/Guidelines%20on%20Own%20Risk%20Solvency%20Assessment%20.pdf#page=4" width="600" height="550" type="application/pdf"></iframe>', unsafe_allow_html=True)
-
     
 # PDF INTERFACE
+with open("debug.log", "a") as f:   
+    print(f"Sessionstate: {[(state, st.session_state[state]) for state in st.session_state.__iter__()]}", file=f)
+
 if st.session_state.pdf_to_display:
     # WARNING : pdf_to_display through buttons in displaySources OR by clicking on buttons in the popovers.
-    print("pdf: ", st.session_state.pdf_to_display)
+    print("pdf: ", st.session_state.pdf_to_display )
+    with open("debug.log", "a") as f:
+        print(f"3. pdf: {st.session_state.pdf_to_display}", file=f)
     with pdf_col:
-        displayPDF(st.session_state.pdf_to_display, st.session_state.pdf_page_number)    
+        displayPDF(st.session_state.pdf_to_display, st.session_state.pdf_page_number)
+else:
+    with pdf_col:
+        pdf_col.info("Open a document by clicking on the links in the sources or in the popovers.")    
 
 popover_elements_event_listener = """
 <script>
@@ -697,7 +719,7 @@ with chat_col:
             
             if message["role"] == "assistant":
                 chat_tab, sources_tab = messages_container.tabs(["Chat", "Sources"])
-                print(f"Message: {message}")
+                
                 with chat_tab:
                     if "thoughts" in message and message["thoughts"] != "":
                         with st.chat_message("assistant", avatar="💭"):
