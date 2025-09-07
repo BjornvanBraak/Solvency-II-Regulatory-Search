@@ -3,9 +3,13 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain_xai import ChatXAI
 from langchain_chroma import Chroma
 from langchain_community.embeddings import DeepInfraEmbeddings
-from model_config import Embedding_Model, Language_Model, Reranker_Model
-from Qwen3Reranker import Qwen3Reranker
+from models.model_config import Embedding_Model, Language_Model, Reranker_Model
+from models.Qwen3Reranker import Qwen3Reranker
 from langchain_cohere import CohereRerank
+from langchain.retrievers.multi_vector import MultiVectorRetriever
+from langchain.storage import InMemoryByteStore
+import pickle
+import os
 
 def _create_azure_embedding_model(model, endpoint, api_version, api_key):
     return AzureOpenAIEmbeddings(
@@ -154,6 +158,28 @@ def set_up_embedding_model(model_option: Embedding_Model):
         raise Exception("Unknown model")
     return embedding_model
 
+def set_up_multivector_retriever(embedding_model_option, vectorstore, search_kwargs={"k": 3}):
+    # Multivector embedding
+    # NOTE: ENTIRE DOCSTORE IS SAVED AS A PICKLE FILE FOR PROOF OF CONCEPT
+    # loads in list(zip(chunk_ids, chunks))
+    print("working dir: ", os.getcwd())
+    print(os.path.join(embedding_model_option.value["doc_persist_directory"], embedding_model_option.value["collection_name"] + ".pkl"))
+    with open(os.path.join(embedding_model_option.value["doc_persist_directory"], embedding_model_option.value["collection_name"] + ".pkl"), "rb") as f:
+        doc_store = pickle.load(f)
+
+    byte_store = InMemoryByteStore()
+    id_key = embedding_model_option.value["foreign_key_id"]
+
+    retriever = MultiVectorRetriever(
+        vectorstore=vectorstore,
+        byte_store=byte_store,
+        id_key=id_key,
+        search_kwargs=search_kwargs
+    )
+
+    # load docstore into memory
+    retriever.docstore.mset(doc_store)
+    return retriever
 
 def set_up_reranker_model(model_option: Reranker_Model, top_n: int = 3):
     reranker_model = None
