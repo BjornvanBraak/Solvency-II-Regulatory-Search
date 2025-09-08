@@ -66,8 +66,8 @@ st.markdown("""
     <style>
         .stMainBlockContainer {
             padding-bottom: 2rem;
-            padding-right: 0.5rem;
-            padding-left: 0.5rem;
+            padding-right: 1rem;
+            padding-left: 1rem;
         }
     </style>
     <style>
@@ -664,7 +664,7 @@ with chat_col:
                     st.markdown(message["content"])
             
             if message["role"] == "assistant":
-                chat_tab, sources_tab = messages_container.tabs(["Chat", "Sources"])
+                chat_tab, sources_tab = messages_container.tabs(["Answer", "Sources"])
                 
                 with chat_tab:
                     if "thoughts" in message and message["thoughts"] != "":
@@ -929,7 +929,7 @@ with chat_col:
             if debug_mode:
                 raise e
 
-        def convert_sources_to_interactive(text, document_sources):
+        def convert_sources_to_interactive_popover(text, document_sources):
             def findPage(document_sources, source_num):
                 # debug_last_index = -1
                 for document_source in document_sources:
@@ -949,10 +949,11 @@ with chat_col:
                 # raise Exception("Could not find the page, something wrong with implementation")
 
             popover_elements = ""
-
+            position_in_text = 0
             # add them as raw string as argument to popoverSource here (do not want to manage additional information)
             def replacer(match):
                 nonlocal popover_elements
+                nonlocal position_in_text
                 # source_text = match.group(1)  # "Source 3"
                 popover_target = ""
                 source_numbers_group = match.group(2)   # "1, 2, 3, 5, 7, 9, 11, 12"
@@ -975,11 +976,11 @@ with chat_col:
                     print(f"Heading hierarchy: {heading_hierarchy}")
                     html_non_empty_headings = [re.sub(r"\*{1,2}", r"", heading) for heading in heading_hierarchy if heading != ""]
                     print(f"HTML non-empty headings: {html_non_empty_headings}")
-                    query_id = document_source["query_id"]
+                    popover_unique_id = f"{document_source["id"]}-{source_num}-{position_in_text}"
 
                     # due to streamlit filtering out inline js when invoking container.html(), e.g. onclick listeners. The onclick listeners are attached seperately in an iframe component
                     button_view_pdf =  f"""
-                        <button id="pop-button-{document_source["id"]}-{source_num}" data-document-link="{document_link}" data-page-number="{page_number}" style="
+                        <button id="pop-button-{popover_unique_id}" data-document-link="{document_link}" data-page-number="{page_number}" style="
     display: block;
     font-weight: 400;
     padding: 0.25rem 0.75rem;
@@ -1002,12 +1003,12 @@ with chat_col:
                     html_page_content = md.render(page_content)
                     popover_elements += f"""
                     <style>
-                    [popovertarget="pop-{document_source["id"]}-{source_num}"]{{
-                        anchor-name: --pop-{document_source["id"]}-{source_num};
+                    [popovertarget="pop-{popover_unique_id}"]{{
+                        anchor-name: --pop-{popover_unique_id};
                     }}
 
-                    #pop-{document_source["id"]}-{source_num} {{
-                        position-anchor: --pop-{document_source["id"]}-{source_num};
+                    #pop-{popover_unique_id} {{
+                        position-anchor: --pop-{popover_unique_id};
                         position-area: bottom;
                         max-width: 40%;
                         margin: 0;
@@ -1042,7 +1043,7 @@ with chat_col:
                         color: #555;  
                     }}  
                     </style>             
-                    <div popover id="pop-{document_source["id"]}-{source_num}" class="{streamlit_popover_styling_classes}">
+                    <div popover id="pop-{popover_unique_id}" class="{streamlit_popover_styling_classes}">
                         <h3>{document_source["short_title"]}</h3>
                         <h4>{" > ".join(html_non_empty_headings)}</h4>
                         <blockquote>
@@ -1056,15 +1057,15 @@ with chat_col:
                     # print(type(page_content))
                     # pprint.pprint(page_content)
 
-                    popover_target += f"""<span><button popovertarget="pop-{document_source["id"]}-{source_num}">Source {source_num}</button></span>"""
-
+                    popover_target += f"""<span><button popovertarget="pop-{popover_unique_id}">Source {source_num}</button></span>"""
+                    position_in_text += 1 # source X may be mentioned multiple times.
                 return popover_target
 
             pattern = r"(Source|Bron|Sources)\s((\d+,?\s?)+)"
             
             return re.sub(pattern, replacer, text), popover_elements
                     
-        sourced_response, popover_elements = convert_sources_to_interactive(response_without_thinking, document_sources)
+        sourced_response, popover_elements = convert_sources_to_interactive_popover(response_without_thinking, document_sources)
 
         st.session_state.messages.append({
             "role": "assistant", 
