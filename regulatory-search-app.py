@@ -253,6 +253,11 @@ st.markdown("""
             }
         }
     </style>
+    <style>
+        [class*="st-key-relevance-score-container-"] [data-testid=stMarkdownContainer] {
+            flex-grow: 1;
+        }
+    </style>
 """, unsafe_allow_html=True)
 
 
@@ -296,7 +301,7 @@ sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
-    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V2, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V2, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II),
+    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II_V3, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V3),
     format_func=lambda x: x.value["display_name"]
 )
 
@@ -488,7 +493,7 @@ st.session_state.pdf_page_number = pdf_page_number
 print(f"PDF to display: {pdf_to_display} on page {pdf_page_number}")
 
 # DISPLAY SOURCES FUNCTION
-def displaySources(link):
+def displaySources(link, low_relevance_upper_bound, high_relevance_lower_bound):
     added_sources = []
     document_sources_grouped_by_link = {}
     for document_source in link:
@@ -540,9 +545,40 @@ def displaySources(link):
 
                     st.markdown(f"{page_content}", unsafe_allow_html=True)
 
+                    st.html("<hr/>")
+
+                    bar_color = "gray"
+                    label = "relevance score"
+                    score = round(document_source['relevance_score'], 2)
+                    score_percentage = round(document_source['relevance_score'] * 100, 2)
+                    bar_html = f"""
+    <div style="display: flex; align-items: center; gap: 0.5rem; padding-bottom: 1rem; padding-top: 0.25rem;">
+        <div style="min-width: fit-content; color: #4F4F4F;">{label}</div>
+        <div style="position: relative; flex-grow: 1;">
+            <div style="color: lightgray; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: 0; top: 75%;">0</div>
+            <div style="color: lightgray; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: {low_relevance_upper_bound * 100}%; top: 75%;">{low_relevance_upper_bound}</div>
+            <div style="color: #828282; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: {low_relevance_upper_bound * 40}%; top: 75%;">low</div>
+            <div style="flex-grow: 1; background-color: #E0E0E0; border-radius: 8px; height: 24px; overflow: hidden;">
+                <div style="width: {score_percentage}%; background-color: {bar_color}; height: 100%; border-radius: 8px 0 0 8px; text-align: center; color: white; font-weight: bold; line-height: 24px; transition: width 0.5s ease-in-out;">
+                    {score}
+                </div>
+            </div>
+            <div style="color: #828282; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: {low_relevance_upper_bound * 100 + (high_relevance_lower_bound - low_relevance_upper_bound) * 40}%; top: 75%;">medium</div>
+            <div style="color: lightgray; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: {high_relevance_lower_bound * 100}%; top: 75%;">{high_relevance_lower_bound}</div>
+            <div style="color: #828282; font-size: 14px; margin-right: 8px; font-weight: 500; position: absolute; left: {high_relevance_lower_bound * 100 + (1 - high_relevance_lower_bound) * 40}%; top: 75%;">high</div>
+            <div style="color: lightgray; font-size: 14px; margin-left: 8px; font-weight: 500; position: absolute; right: 0; top: 75%;">1</div>
+        </div>
+    </div>
+    """             
+                    with st.container(key=f"relevance-score-container-{document_source['id']}"):
+                        st.markdown(bar_html, unsafe_allow_html=True, help=f"Relevance score between 0 and 1, where lower than {MAGIC_LOW_RELEVANCE} is unlikely to be relevant, higher than {MAGIC_HIGH_RELEVANCE} is likely to be relevant.")
+
 # LAYOUT OF MAIN PAGE
 chat_col, pdf_col = st.columns([1, 1])
 footer = st.container(key="footer-container") # dump for any container with no visual elements
+
+MAGIC_LOW_RELEVANCE = 0.2
+MAGIC_HIGH_RELEVANCE = 0.8
 
 with chat_col:
     chat_col.title("💬 Regulation Search")
@@ -648,13 +684,11 @@ with chat_col:
         
                 if "relevance_scores" in message and message["relevance_scores"] != []:
                     avg = sum(message["relevance_scores"]) / len(message["relevance_scores"])
-                    MAGIC_LOW = 0.2
-                    MAGIC_HIGH = 0.8
-                    if avg < MAGIC_LOW:
+                    if avg < MAGIC_LOW_RELEVANCE:
                         messages_container.warning(f"It looks like there aren’t many great matches for your search. Try using words that might appear in the article you’re looking for.")
                         if debug_mode:
                             messages_container.warning(f"Average relevance score of documents is low (0 <= score < 0.2): {avg:.2f}. Consider changing the question and writing out abbreviations")
-                    elif avg > MAGIC_HIGH:
+                    elif avg > MAGIC_HIGH_RELEVANCE:
                         messages_container.success(f"It looks like there are some great matches for your search.")
                         if debug_mode:
                             messages_container.success(f"Average relevance score of documents is high (0.8 < score <= 1): {avg:.2f}.")
@@ -663,7 +697,7 @@ with chat_col:
                     # sources_tab.subheader("Sources tab")
                     if "sources" in message and message["sources"] != []:
                         with sources_tab: # .chat_message("assistant", avatar="🔗")
-                            displaySources(message["sources"])
+                            displaySources(message["sources"], MAGIC_LOW_RELEVANCE, MAGIC_HIGH_RELEVANCE)
 
             # add token count
             if "token_count" in message:
@@ -772,7 +806,8 @@ with chat_col:
                     "short_title": short_title,
                     "page_content": page_content,
                     "query": query,
-                    "query_id": query_id
+                    "query_id": query_id,
+                    "relevance_score": chunk.metadata.get("relevance_score", None)
             }
 
             # add additional metadata for v3 data ingestion pipeline
