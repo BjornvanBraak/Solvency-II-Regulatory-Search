@@ -254,8 +254,16 @@ st.markdown("""
         }
     </style>
     <style>
-        [class*="st-key-relevance-score-container-"] [data-testid=stMarkdownContainer] {
-            flex-grow: 1;
+        [class*="st-key-relevance-score-container-"]  {
+            display: flex;
+            align-items: center;
+            & > * {
+                width: 80%;
+            }
+            
+            & [data-testid=stMarkdownContainer] {
+                flex-grow: 1;
+            }
         }
     </style>
 """, unsafe_allow_html=True)
@@ -508,7 +516,7 @@ def displaySources(link, low_relevance_upper_bound, high_relevance_lower_bound):
     
     # query_id should be the same for all sources.
     query_id = link[0]["query_id"]
-    container_key = f"sources-buttons-container-{query_id}".replace(" ", "-")
+    # container_key = f"sources-buttons-container-{query_id}".replace(" ", "-")
     
     # with st.container(border=True):
     # with st.container(key=container_key):
@@ -654,6 +662,8 @@ with chat_col:
     messages_container = chat_col.container()
     messages_container.chat_message("assistant").write("Hello, I am here to help search through documents related to Solvency II")
 
+    messages_container.markdown("$$\n" +r"\text{SCR}{\text{conc}} = \sqrt{\sum{i} \text{Conc}_{i}^{2}}" + "\n$$")
+
     token_count = 0
     for message in st.session_state.messages:
             if message["role"] == "system":
@@ -704,7 +714,40 @@ with chat_col:
                 token_count += message["token_count"]
 
     with footer:
-        components.html(popover_elements_event_listener, height=0, width=0)        
+        components.html(popover_elements_event_listener, height=0, width=0)
+
+        js_trigger_script = f"""
+    // This is only meant for PoC, not for production use.
+    // Quick fix for rendering LaTeX without using streamlit's built-in support, which does not work in .html (necessary to render the popover properly)
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+    <script defer>
+    // Find all elements with the 'math' class created by the plugin
+    const mathelements = window.parent.document.querySelectorAll('.math');
+    console.log("mathelements: ", mathelements);
+    mathelements.forEach(function(element) {{
+        const latexText = element.textContent;
+        const isBlock = element.classList.contains('block');
+        const isAlreadyRendered = element.classList.contains('katex-rendered');
+        if (isAlreadyRendered) {{
+            console.log("Element already rendered by KaTeX, skipping:", element);
+            return;
+        }}
+
+        try {{
+            katex.render(latexText, element, {{
+                displayMode: isBlock,
+                throwOnError: false
+            }});
+            element.classList.add('katex-rendered');
+        }} catch (error) {{
+            console.error("KaTeX rendering error:", error);
+            element.textContent = 'Error rendering LaTeX: ' + latexText;
+        }}
+    }});
+    </script>
+    """
+        components.html(js_trigger_script, height=0, width=0)        
     
     sidebar.markdown(f"Total token count: {round(token_count)}")
 
@@ -890,7 +933,7 @@ with chat_col:
             for chunk in response_stream:
                 if isinstance(chunk, str):
                     raise Exception("[Not Implemented, unsure if possible State to have multiple response_without_thinking]")
-                    new_message_container.write(chunk)
+                    # new_message_container.write(chunk)
                 elif isinstance(chunk, AIMessageChunk):
                     content = chunk.content
                     if isinstance(content, str):
@@ -973,9 +1016,9 @@ with chat_col:
                     page_number = document_source.get("page_number", None)
                     heading_hierarchy = document_source["heading_hierarchy"]
                     # remove italic or bold markdown from headings
-                    print(f"Heading hierarchy: {heading_hierarchy}")
+                    # print(f"Heading hierarchy: {heading_hierarchy}")
                     html_non_empty_headings = [re.sub(r"\*{1,2}", r"", heading) for heading in heading_hierarchy if heading != ""]
-                    print(f"HTML non-empty headings: {html_non_empty_headings}")
+                    # print(f"HTML non-empty headings: {html_non_empty_headings}")
                     popover_unique_id = f"{document_source["id"]}-{source_num}-{position_in_text}"
 
                     # due to streamlit filtering out inline js when invoking container.html(), e.g. onclick listeners. The onclick listeners are attached seperately in an iframe component
