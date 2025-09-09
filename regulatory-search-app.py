@@ -662,8 +662,6 @@ with chat_col:
     messages_container = chat_col.container()
     messages_container.chat_message("assistant").write("Hello, I am here to help search through documents related to Solvency II")
 
-    messages_container.markdown("$$\n" +r"\text{SCR}{\text{conc}} = \sqrt{\sum{i} \text{Conc}_{i}^{2}}" + "\n$$")
-
     token_count = 0
     for message in st.session_state.messages:
             if message["role"] == "system":
@@ -1052,8 +1050,8 @@ with chat_col:
 
                     #pop-{popover_unique_id} {{
                         position-anchor: --pop-{popover_unique_id};
-                        position-area: bottom;
-                        max-width: 40%;
+                        position-area: span-right top;
+                        max-width: 60%;
                         margin: 0;
                         overflow-y: scroll;
                         position-try-fallbacks: flip-block, flip-inline, flip-start;
