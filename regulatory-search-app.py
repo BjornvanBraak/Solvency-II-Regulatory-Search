@@ -857,7 +857,7 @@ with chat_col:
 
             document_sources.append(document_source)
 
-            chunks_concatenated += f"\n ### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
+            chunks_concatenated += f"\n### source {source_index} \n\n metadata:\n {source_metadata}:\n\n extract:\n\n {chunk.page_content} \n\n\n"
 
         prompt = f"""
         ## Question
