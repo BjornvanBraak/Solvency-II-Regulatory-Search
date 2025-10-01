@@ -326,7 +326,7 @@ llm_option = sidebar.selectbox(
     (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_5, Language_Model.AZURE_GPT_4O_MINI, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
     format_func=lambda x: x.value["model"]
 )
-k = sidebar.slider("Pieces of text retrieved (k)", 0, 20, 10)
+k = sidebar.slider("Pieces of text retrieved (k)", 0, 50, 20)
 top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 5 if k >= 5 else k)
 
 sidebar.header("Debugger")
