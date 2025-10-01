@@ -204,5 +204,10 @@ def load_vectorstore(model_option: Embedding_Model):
     print("[INFO] LOADING VECTOR STORE...")
     embedding_model = set_up_embedding_model(model_option)
     vectorstore = Chroma(model_option.value["collection_name"], embedding_model, model_option.value["persist_directory"])
+
+    if vectorstore._select_relevance_score_fn() != Chroma._cosine_relevance_score_fn:
+        print("[ERROR] FOR THIS PROJECT, WE WILL ONLY USE COSINE BASED SCORE FUNCTIONS")
+        raise ValueError(f"Only cosine relevance score function is supported, cosine_relevance_score_fn cannot change after initialization, {vectorstore._select_relevance_score_fn()} was selected")
+
     print(f"[INFO] Vectorstore loaded in with count: {vectorstore._collection.count()}")
     return vectorstore

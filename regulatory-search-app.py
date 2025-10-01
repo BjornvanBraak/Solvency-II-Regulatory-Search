@@ -309,7 +309,7 @@ sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
-    (Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II_V3, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V3),
+    (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II_V3, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V3),
     format_func=lambda x: x.value["display_name"]
 )
 
@@ -323,7 +323,7 @@ if os.environ["ENABLE_RERANKER"] == "TRUE":
 
 llm_option = sidebar.selectbox(
     "Which LLM to choose",
-    (Language_Model.AZURE_GPT_5, Language_Model.AZURE_GPT_4O_MINI, Language_Model.GEMINI_25_PRO, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
+    (Language_Model.GEMINI_25_PRO, Language_Model.AZURE_GPT_5, Language_Model.AZURE_GPT_4O_MINI, Language_Model.AZURE_OPENAI_O4_MINI, Language_Model.GROK_4),
     format_func=lambda x: x.value["model"]
 )
 k = sidebar.slider("Pieces of text retrieved (k)", 0, 20, 10)
