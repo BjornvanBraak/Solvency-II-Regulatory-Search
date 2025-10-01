@@ -309,7 +309,7 @@ sidebar.header("Config")
 # order changed back, bug in upgraded version of Embedding_Model.GEMINI_EMBEDDING_001
 embedding_model_option = sidebar.selectbox(
     "Which embedding model to choose",
-    (Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II_V3, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3, Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V3),
+    (Embedding_Model.QWEN_3_EMBEDDING_SOLVENCY_II_V3, Embedding_Model.GEMINI_EMBEDDING_001_SOLVENCY_II_V3, Embedding_Model.AZURE_TEXT_EMBEDDING_3_LARGE_SOLVENCY_V3),
     format_func=lambda x: x.value["display_name"]
 )
 
