@@ -38,6 +38,30 @@ load_dotenv()
 import models.model_integrations as model_integrations
 from models.model_config import Embedding_Model, Language_Model, Reranker_Model
 
+# from langchain.schema import SystemMessage, HumanMessage, AIMessage
+
+# def serialise_messages(formatted_chat_message):
+#     messages_as_dict = []
+
+#     for m in formatted_chat_message:
+#         role = "<unknown>"
+#         if isinstance(m, SystemMessage):
+#             role = "system"
+#         elif isinstance(m, HumanMessage):
+#             role = "user"   
+#         elif isinstance(m, AIMessage):
+#             role = "assistant"
+#         else:
+#             role = "<unknown>"
+#         messages_as_dict.append(
+#             {
+#                 "role":  role,
+#                 "content": m.content
+#             }
+#         )
+
+#     return messages_as_dict
+
 # known bug with specific encoding of :
 # 'Joint ESA Gls MiCAR %28JC 2024 28%29_EN'
 
@@ -561,7 +585,8 @@ def displaySources(link, low_relevance_upper_bound, high_relevance_lower_bound):
                     page_content = document_source["page_content"] 
 
                     if document_source["page_content"].startswith(AI_WARNING_MESSAGE):
-                        st.html(md.render(AI_WARNING_MESSAGE))
+                        # removed for experiment
+                        # st.html(md.render(AI_WARNING_MESSAGE))
                         page_content = document_source["page_content"].replace(AI_WARNING_MESSAGE, "")
 
                     st.markdown(f"{page_content}", unsafe_allow_html=True)
@@ -882,20 +907,25 @@ with chat_col:
         \n\n
         """
         
-        chat = [("system", generation_instructions) , ]
+        def format_session_state_messages(messages):
+            chat = [("system", generation_instructions) , ]
 
-        # add previous messages from session_state
-        for message in st.session_state.messages:
-            if message["role"] == "system":
-                continue
-            elif message["role"] == "user":
-                escaped_prompt = escape_curly_braces(message["prompt"])
-                chat.append(("user", escaped_prompt))
-            elif message["role"] == "assistant":
-                # text may contain latex with curly braces: \\text{Operational Risk}
-                escaped_content_unformatted = escape_curly_braces(message["content_unformatted"])
-                chat.append(("assistant", escaped_content_unformatted))
+            # add previous messages from session_state
+            for message in messages:
+                if message["role"] == "system":
+                    continue
+                elif message["role"] == "user":
+                    escaped_prompt = escape_curly_braces(message["prompt"])
+                    chat.append(("user", escaped_prompt))
+                elif message["role"] == "assistant":
+                    # text may contain latex with curly braces: \\text{Operational Risk}
+                    escaped_content_unformatted = escape_curly_braces(message["content_unformatted"])
+                    chat.append(("assistant", escaped_content_unformatted))
+            return chat
+        
+        chat = format_session_state_messages(st.session_state.messages)
 
+        # append current user message
         chat.append(("user", escape_curly_braces(prompt)))
 
         # Note: potential problem with sources ids overlapping of different chat (e.g. source 1, from previous prompt, with current source 1 from current prompt), may confuses the LLM?
@@ -906,57 +936,10 @@ with chat_col:
         # update session state
         st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt, "token_count": count_tokens(prompt)})
 
-        if debug_mode or experiment_mode:
-            from langchain.schema import SystemMessage, HumanMessage, AIMessage
-
-            def serialise_messages(formatted_chat_message):
-                messages_as_dict = []
-
-                for m in formatted_chat_message:
-                    role = "<unknown>"
-                    if isinstance(m, SystemMessage):
-                        role = "system"
-                    elif isinstance(m, HumanMessage):
-                        role = "user"   
-                    elif isinstance(m, AIMessage):
-                        role = "assistant"
-                    else:
-                        role = "<unknown>"
-                    messages_as_dict.append(
-                        {
-                            "role":  role,
-                            "content": m.content
-                        }
-                    )
-
-                return messages_as_dict
-
-
-            if debug_mode:
-                file_path = "log/prompt.json"
-                with open(file_path, "w", encoding="utf-8") as f:
-                        json.dump(serialise_messages(formatted_chat_message), f, indent=4, ensure_ascii=False)
-
-            if experiment_mode:
-                file_dir= f"experiment-logs/{participant_id}"
-
-                # user input is security flaw, does not matter as for experiment
-                if not os.path.exists(file_dir):
-                    os.makedirs(file_dir)
-                    os.makedirs(file_dir + "/backups/")
-                
-                with open(file_dir + "/../counter.txt", "r+") as f:
-                    current_count = int(f.read()) + 1
-                    f.seek(0)
-                    f.write(str(current_count))
-                    f.truncate()
-
-                with open(file_dir + f"/{current_count}-{st.session_state.id}.json", "w", encoding="utf-8") as f:
-                        print()
-                        # f.write(json.dumps([int(time.time())]))
-                        current_time = f"Current time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-                        f.write("\n")
-                        json.dump({"time": current_time, "messages": serialise_messages(formatted_chat_message)}, f, indent=4, ensure_ascii=False)
+        if debug_mode:
+            file_path = "log/prompt.json"
+            with open(file_path, "w", encoding="utf-8") as f:
+                    json.dump(chat, f, indent=4, ensure_ascii=False)
 
         rate_limit_error = None
 
@@ -1106,10 +1089,11 @@ with chat_col:
                         position-anchor: --pop-{popover_unique_id};
                         position-area: span-right top;
                         max-width: 70%;
+                        max-height: 60vh;
                         margin: 0;
                         overflow-y: scroll;
-                        position-try-fallbacks: flip-block, flip-inline, flip-start;
-                        position-try: flip-block, flip-inline, flip-start;
+                        position-try-fallbacks: flip-block;
+                        position-try: flip-block;
                     }}
                     blockquote {{
                         background-color: #f0f9ff;  
@@ -1175,6 +1159,31 @@ with chat_col:
         })
 
         if experiment_mode:
+                file_dir= f"experiment-logs/{participant_id}"
+
+                # user input is security flaw, does not matter as for experiment
+                if not os.path.exists(file_dir):
+                    os.makedirs(file_dir)
+                    os.makedirs(file_dir + "/backups/")
+                
+                with open(file_dir + "/../counter.txt", "r+") as f:
+                    current_count = int(f.read()) + 1
+                    f.seek(0)
+                    f.write(str(current_count))
+                    f.truncate()
+
+                with open(file_dir + f"/{current_count}-{st.session_state.id}.json", "w", encoding="utf-8") as f:
+                        print()
+                        # f.write(json.dumps([int(time.time())]))
+                        current_time = f"Current time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                        f.write("\n")
+                        chat = format_session_state_messages(st.session_state.messages)
+                        json.dump({"time": current_time, "messages": chat}, f, indent=4, ensure_ascii=False)
+                        # json.dump({"last_answer": })
+
+
+        if experiment_mode:
+            # backup in case of crash.
             with open(f"experiment-logs/{participant_id}/backups/backup-{st.session_state.id}.json", "w", encoding="utf-8") as f:
                 json.dump(st.session_state.messages, f, indent=4, ensure_ascii=False)
 
