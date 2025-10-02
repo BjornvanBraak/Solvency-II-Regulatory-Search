@@ -16,6 +16,7 @@ import json
 import os
 import re
 import uuid
+import datetime
 
 from langchain_core.prompts.chat import ChatPromptTemplate
 from langchain_core.messages.ai import AIMessageChunk
@@ -334,6 +335,15 @@ debug_mode = sidebar.toggle(
     "Debug Mode",
     False
 )
+experiment_mode = sidebar.toggle(
+    "Experiment Mode",
+    True
+)
+
+if 'participant_id' not in st.session_state:
+    st.session_state['participant_id'] = "participant-test"
+
+participant_id = sidebar.text_input("Participant ID (for experiment mode)", value=st.session_state.participant_id, disabled=True)
 
 def count_tokens(text: str) -> int:
     """The number of tokens in a text string"""
@@ -402,6 +412,9 @@ generation_instructions = load_prompt("prompt/solvency_II_instructions.md")
 system_instructions_dict = {"role": "system", "content": generation_instructions}
 
 # INITIALIZE SESSION STATE
+if 'id' not in st.session_state:
+    st.session_state['id'] = str(uuid.uuid4())
+
 if 'pdf_to_display' not in st.session_state:
     st.session_state.pdf_to_display = None
 
@@ -868,16 +881,14 @@ with chat_col:
         \n\n When answering reference ONLY if applicable source with (Source <insert number>). Answer based on the mentioned sources in the Context answer the Question. 
         \n\n
         """
-
-        st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt, "token_count": count_tokens(prompt)})
         
         chat = [("system", generation_instructions) , ]
 
-        # changed to add the context of previous parts.
+        # add previous messages from session_state
         for message in st.session_state.messages:
             if message["role"] == "system":
                 continue
-            if message["role"] == "user":
+            elif message["role"] == "user":
                 escaped_prompt = escape_curly_braces(message["prompt"])
                 chat.append(("user", escaped_prompt))
             elif message["role"] == "assistant":
@@ -892,18 +903,61 @@ with chat_col:
         
         formatted_chat_message = chat_template.format_messages()
 
-        if debug_mode:
-            from langchain.schema import SystemMessage, HumanMessage
-            messages_as_dict = [
-                {
-                    "role": "system" if isinstance(m, SystemMessage) else "human",
-                    "content": m.content
-                }
-                for m in formatted_chat_message
-            ]
-            with open("log/prompt.json", "w", encoding="utf-8") as f:
-                json.dump(messages_as_dict, f, indent=4, ensure_ascii=False)
-        
+        # update session state
+        st.session_state.messages.append({"role": "user", "content": query, "prompt": prompt, "token_count": count_tokens(prompt)})
+
+        if debug_mode or experiment_mode:
+            from langchain.schema import SystemMessage, HumanMessage, AIMessage
+
+            def serialise_messages(formatted_chat_message):
+                messages_as_dict = []
+
+                for m in formatted_chat_message:
+                    role = "<unknown>"
+                    if isinstance(m, SystemMessage):
+                        role = "system"
+                    elif isinstance(m, HumanMessage):
+                        role = "user"   
+                    elif isinstance(m, AIMessage):
+                        role = "assistant"
+                    else:
+                        role = "<unknown>"
+                    messages_as_dict.append(
+                        {
+                            "role":  role,
+                            "content": m.content
+                        }
+                    )
+
+                return messages_as_dict
+
+
+            if debug_mode:
+                file_path = "log/prompt.json"
+                with open(file_path, "w", encoding="utf-8") as f:
+                        json.dump(serialise_messages(formatted_chat_message), f, indent=4, ensure_ascii=False)
+
+            if experiment_mode:
+                file_dir= f"experiment-logs/{participant_id}"
+
+                # user input is security flaw, does not matter as for experiment
+                if not os.path.exists(file_dir):
+                    os.makedirs(file_dir)
+                    os.makedirs(file_dir + "/backups/")
+                
+                with open(file_dir + "/../counter.txt", "r+") as f:
+                    current_count = int(f.read()) + 1
+                    f.seek(0)
+                    f.write(str(current_count))
+                    f.truncate()
+
+                with open(file_dir + f"/{current_count}-{st.session_state.id}.json", "w", encoding="utf-8") as f:
+                        print()
+                        # f.write(json.dumps([int(time.time())]))
+                        current_time = f"Current time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                        f.write("\n")
+                        json.dump({"time": current_time, "messages": serialise_messages(formatted_chat_message)}, f, indent=4, ensure_ascii=False)
+
         rate_limit_error = None
 
         try:
@@ -1051,7 +1105,7 @@ with chat_col:
                     #pop-{popover_unique_id} {{
                         position-anchor: --pop-{popover_unique_id};
                         position-area: span-right top;
-                        max-width: 60%;
+                        max-width: 70%;
                         margin: 0;
                         overflow-y: scroll;
                         position-try-fallbacks: flip-block, flip-inline, flip-start;
@@ -1119,6 +1173,10 @@ with chat_col:
             "rate_limit_error": rate_limit_error,
             "token_count": count_tokens(response_without_thinking)
         })
+
+        if experiment_mode:
+            with open(f"experiment-logs/{participant_id}/backups/backup-{st.session_state.id}.json", "w", encoding="utf-8") as f:
+                json.dump(st.session_state.messages, f, indent=4, ensure_ascii=False)
 
         # force a rerun to update the sources.
         if not debug_mode:
