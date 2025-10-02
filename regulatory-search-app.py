@@ -698,7 +698,7 @@ def escape_curly_braces(text: str) -> str:
 # CHAT INTERFACE
 with chat_col:
     messages_container = chat_col.container()
-    messages_container.chat_message("assistant").write("Hello, I am here to help search through documents related to Solvency II")
+    messages_container.chat_message("assistant").write("Hello, I am here to help search through Solvency II legislation implemented on level 1, 2, and 3.")
 
     token_count = 0
     for message in st.session_state.messages:
