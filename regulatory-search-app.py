@@ -354,6 +354,9 @@ llm_option = sidebar.selectbox(
 k = sidebar.slider("Pieces of text retrieved (k)", 0, 50, 20)
 top_n = sidebar.slider("Filtered after retrieved (max k)", 0, k, 5 if k >= 5 else k)
 
+BASE_LOADABLE_SESSION_STATE = "demo-sessionstates"
+loaded_session_state_option = sidebar.selectbox("Loaded session state", [None, "EMPTY"] + [f for f in os.listdir(BASE_LOADABLE_SESSION_STATE) if f.endswith(".json")])
+
 sidebar.header("Debugger")
 debug_mode = sidebar.toggle(
     "Debug Mode",
@@ -365,7 +368,8 @@ experiment_mode = sidebar.toggle(
 )
 
 if 'participant_id' not in st.session_state:
-    st.session_state['participant_id'] = "participant-3"
+    print("session_state debug: ", st.session_state)
+    st.session_state['participant_id'] = "company_demo"
 
 participant_id = sidebar.text_input("Participant ID (for experiment mode)", value=st.session_state.participant_id, disabled=True)
 
@@ -434,6 +438,21 @@ def load_prompt(file_path: str) -> str:
 
 generation_instructions = load_prompt("prompt/solvency_II_instructions.md")
 system_instructions_dict = {"role": "system", "content": generation_instructions}
+INITIAL_CHAT_MESSAGE = [
+            system_instructions_dict,
+    ]
+@st.cache_resource
+def load_in_session_state(file_name):
+    with open(os.path.join(BASE_LOADABLE_SESSION_STATE, file_name), "r", encoding="utf-8") as f:
+        loaded_messages = json.load(f)
+        print(f"[INFO] Loaded session state from {file_name}")
+    return loaded_messages
+
+if loaded_session_state_option not in [None, "EMPTY"]:
+    print("[INFO] Loading session state from ", loaded_session_state_option)
+    st.session_state["messages"] = load_in_session_state(loaded_session_state_option)
+elif loaded_session_state_option == "EMPTY":
+    st.session_state["messages"] = INITIAL_CHAT_MESSAGE
 
 # INITIALIZE SESSION STATE
 if 'id' not in st.session_state:
@@ -449,9 +468,7 @@ if 'pdf_cache_bust' not in st.session_state:
     st.session_state.pdf_cache_bust = uuid.uuid4()
 
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [
-        system_instructions_dict,
-    ]
+    st.session_state["messages"] = INITIAL_CHAT_MESSAGE
     
 if "message_to_component" not in st.session_state:
     st.session_state.message_to_component = None
