@@ -65,8 +65,7 @@ RAG vs CAG
 A comparison between retrieval small chunks in context of text or preloading the entire documents into the context.
 _Note: This is not an apple's to apple's comparison as document preprocessing of .pdf files with RAG is handled by researcher_
 
-
-##### Test Setup
+#### Test Setup
 During development we also tested experimentally with smaller models or different model providers.
 * GPT-4o-mini
 * OpenAI o4-mini
@@ -96,7 +95,7 @@ The general answer were later also verified by the same employee
 |1.2|gemini-2.5-pro-preview-03-25|Google’s tekst-embedding-004|2024-03-14|RAG|✔|✔|❌|❌|
 |1.3|gemini-2.5-pro-preview-03-25|OpenAI’s text-embedding-3-large|2024-02-01|RAG|✔|✔|❌|❌|
 |1.4|gemini-2.5-pro-preview-03-25|gemini-embedding-exp-03-07|2025-03-07|RAG|✔|✔|✔|✔|
-|1.5|gemini-2.5-pro-preview-03-25|-| |-|CAG|✔|✔|✔|✔|
+|1.5|gemini-2.5-pro-preview-03-25|-|-|CAG|✔|✔|✔|✔|
 
 _Note: Configuration was number of text retrieved k=8 (chunks size 1000, with ExperimentalMarkdownSyntaxTextSplitter then RecursiveCharacterTextSplitter)_
 
@@ -105,7 +104,6 @@ _Note: Experiment 1.3, and 1.4 were added after the demo, as results indicated t
 Based on literature research last year a big area of improved was multilingual capabilities for SOTA LLMs.
 
 During our experiment reasoning models gave answer which at least to non-expert on pensioen regulations had satisfactory format, structure, and answer quality.
-
 
 Conjencture based on experiments
 1. Recent models (both LLM and embedding) have had more focus on multilingual capabilites. Therefore, recent embedding models perform better in multilingual settings especially were less common domain-specific words are used (e.g. 'nabestaandenpensioen', 'ouderdomspensioen' en 'wezenpensioen')
