@@ -369,7 +369,7 @@ experiment_mode = sidebar.toggle(
 
 if 'participant_id' not in st.session_state:
     print("session_state debug: ", st.session_state)
-    st.session_state['participant_id'] = "participant-7"
+    st.session_state['participant_id'] = "no-participants"
 
 participant_id = sidebar.text_input("Participant ID (for experiment mode)", value=st.session_state.participant_id, disabled=True)
 
