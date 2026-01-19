@@ -19,6 +19,10 @@ AZURE_OPENAI_ENDPOINT_SWEDEN=
 GOOGLE_API_KEY=
 XAI_API_KEY=
 DEEPINFRA_API_KEY=
+COHERE_API_KEY=
+AZURE_GPT_5_VERSION=
+# FEATURE FLAGS
+ENABLE_RERANKER=TRUE # Set to TRUE to enable reranker model selection in the app
 ```
 Either use streamlit through uv
 ```
