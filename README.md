@@ -1,9 +1,7 @@
-# regulatory search demo
-This is a demo case for searching through regulations.
+# Solvency II Regulation Search
+The prototype uses documents from the Solvency II regulatory framework to showcase the capabilities of RAG system in answering regulatory questions within the financial domain.
 
-The repo contains data on (located at /data):
-* Data quality information for pension funds
-* Solvency II level 1, level 2, and 20 level 3 documents.
+<img width="1878" height="824" alt="high-fidelity-prototype-v1" src="https://github.com/user-attachments/assets/cc814a3a-5497-473e-aa88-39e5dd56095b" />
 
 ## run demo
 This project uses uv for package management (for installation instructions please refer to https://docs.astral.sh/uv/getting-started/)
@@ -33,6 +31,12 @@ by selecting'Python Debugger: Debug using launch.json' > 'Python Debugger: Modul
 Note: ./.vscode/launch.json is the config which invokes the module streamlit instead of python 
 
 # Changelog
+The repo contains data on (located at /data):
+* Data quality information for pension funds
+* Solvency II level 1, level 2, and 20 level 3
+
+_Note: v1.0 and v2.0 where based on a smaller dataset surrounding pension regulations. This served as a proof of concept containing._
+_Note: v3.0+ switched to a different dataset surrounding Solvency regulatory framework_
 ## 1.0
 - default hyperparameters
 such as temperature, top_k, top_p are left to default setting of provider
