@@ -3,7 +3,7 @@ The prototype uses documents from the Solvency II regulatory framework to showca
 
 <img width="1878" height="824" alt="high-fidelity-prototype-v1" src="https://github.com/user-attachments/assets/cc814a3a-5497-473e-aa88-39e5dd56095b" />
 
-## run demo
+## How to Run
 This project uses uv for package management (for installation instructions please refer to https://docs.astral.sh/uv/getting-started/)
 
 create .env file, insert own api keys
